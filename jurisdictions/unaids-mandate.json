@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "id": "unaids-mandate",
+  "name": "UNAIDS Mandate 1994 (Joint UN Programme on HIV/AIDS)",
+  "jurisdiction_code": "UAD",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Joint United Nations Programme on HIV/AIDS (UNAIDS) is a global supranational meta-framework foundational-UNAIDS framework established by the UN Economic and Social Council ECOSOC — structurally distinctive globally as the only modern global supranational framework operating on formal international-HIV-AIDS-response framework + only modern global supranational framework operating formal joint-co-sponsored framework with 11 UN co-sponsors framework (UNAIDS established 26 July 1994 by UN ECOSOC Resolution 1994/24 + UN General Assembly Resolution 49/202 of 23 December 1994 + UNAIDS operations began 1 January 1996 — formal foundational UNAIDS framework establishing comprehensive UNAIDS organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-HIV-AIDS-response framework + only modern global supranational framework operating formal joint-co-sponsored framework with 11 UN co-sponsors framework: UNHCR + UNICEF + WFP + UNDP + UNFPA + UNODC + UN Women + ILO + UNESCO + WHO + World Bank framework + only modern global supranational framework operating formal 95-95-95 Fast-Track Targets 2025 framework via 95% diagnosed + 95% on-treatment + 95% viral-suppression framework + only modern global supranational framework operating formal Global Fund partnership framework via Global Fund to Fight AIDS Tuberculosis and Malaria 2002 framework + only modern global supranational framework operating formal PEPFAR partnership framework via US President's Emergency Plan for AIDS Relief 2003 framework + only modern global supranational framework operating formal 1.3 million new HIV infections 2024 framework + only modern global supranational framework operating formal 630,000 AIDS-related deaths 2024 framework + only modern global supranational framework operating formal 39.9 million people living with HIV 2024 framework + only modern global supranational framework operating formal Trump-administration-PEPFAR-cuts 2025 budget-crisis framework + only modern global supranational framework operating formal 2025-AIDS-still-not-ended framework), as the central jurisdiction of the formal UNAIDS 11 UN Co-sponsors framework (UNAIDS framework providing formal 11 UN co-sponsors framework: UNHCR + UNICEF + WFP + UNDP + UNFPA + UNODC + UN Women + ILO + UNESCO + WHO + World Bank framework — formal foundational UNAIDS 11 UN Co-sponsors framework, structurally distinctive globally as the only modern global supranational framework operating formal joint-co-sponsored 11 UN co-sponsors framework + only modern global supranational framework operating formal Programme Coordinating Board PCB framework with 22 member states + 11 UN co-sponsors + 5 civil society organizations framework), as the central jurisdiction of the formal UNAIDS 95-95-95 Fast-Track Targets framework (UNAIDS 95-95-95 Fast-Track Targets adopted 2020 by UN High-Level Meeting on HIV/AIDS providing formal 95% diagnosed + 95% on-treatment + 95% viral-suppression by 2025 framework — formal foundational UNAIDS 95-95-95 Fast-Track Targets framework, structurally distinctive globally as the only modern global supranational framework operating formal 95-95-95 Fast-Track Targets framework), and as the central jurisdiction of the formal Global Fund + PEPFAR partnership framework (Global Fund to Fight AIDS Tuberculosis and Malaria established 28 January 2002 in Geneva Switzerland + US President's Emergency Plan for AIDS Relief PEPFAR established 28 January 2003 + UNAIDS-Global-Fund-PEPFAR partnership framework — formal foundational UNAIDS-Global-Fund-PEPFAR partnership framework, structurally distinctive globally as the only modern global supranational framework operating formal Global-Fund + PEPFAR partnership framework + only modern global supranational framework operating formal USD 110+ billion PEPFAR cumulative-funding 2003-2024 framework). The UNAIDS Mandate is operating upon 100+ countries field operations + 39.9 million people living with HIV 2024 framework — comprehensive global HIV/AIDS coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UNAIDS Children + Adolescents Living with HIV framework operates limited intersection with parental-alienation framework via formal cross-border-children-HIV-disclosure-to-parents framework. The UNAIDS Programme Coordinating Board PCB + UNAIDS Executive Director + UNAIDS Secretariat + UNAIDS Country Offices are the formal UNAIDS bodies; national-level apex courts operate as judicial bodies. The UNAIDS Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNAIDS Founding Resolution 1994 (UN ECOSOC Resolution 1994/24 + UN General Assembly Resolution 49/202)",
+      "title": "UNAIDS Founding Resolution",
+      "year": 1994,
+      "url": "https://www.unaids.org/",
+      "relevance": "UNAIDS established 26 July 1994 by UN ECOSOC Resolution 1994/24 + UN General Assembly Resolution 49/202 of 23 December 1994 — formal foundational UNAIDS framework establishing comprehensive UNAIDS organisation framework."
+    },
+    {
+      "citation": "UNGASS Declaration of Commitment on HIV/AIDS 2001",
+      "title": "UNGASS Declaration of Commitment on HIV/AIDS",
+      "year": 2001,
+      "url": "https://www.unaids.org/",
+      "relevance": "Declaration of Commitment on HIV/AIDS adopted 27 June 2001 at UN General Assembly Special Session UNGASS — formal foundational UNGASS HIV/AIDS framework."
+    },
+    {
+      "citation": "UNAIDS 95-95-95 Fast-Track Targets 2020",
+      "title": "UNAIDS 95-95-95 Fast-Track Targets",
+      "year": 2020,
+      "url": "https://www.unaids.org/",
+      "relevance": "UNAIDS 95-95-95 Fast-Track Targets adopted 2020 by UN High-Level Meeting on HIV/AIDS — formal foundational UNAIDS 95-95-95 Fast-Track Targets framework."
+    },
+    {
+      "citation": "Political Declaration on HIV and AIDS 2021",
+      "title": "Political Declaration on HIV and AIDS 2021",
+      "year": 2021,
+      "url": "https://www.unaids.org/",
+      "relevance": "Political Declaration on HIV and AIDS Ending Inequalities and Getting on Track to End AIDS by 2030 adopted 8 June 2021 at UN High-Level Meeting on HIV/AIDS — formal foundational UNAIDS End AIDS by 2030 framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNAIDS Programme Coordinating Board (PCB)",
+      "seat": "Geneva",
+      "url": "https://www.unaids.org/en/whoweare/pcb",
+      "role": "Formal supreme decision-making body for UNAIDS — composed of 22 member states + 11 UN co-sponsors + 5 civil society organizations."
+    },
+    {
+      "name": "UNAIDS Executive Director",
+      "seat": "Geneva",
+      "url": "https://www.unaids.org/",
+      "role": "Formal administrative head body for UNAIDS — UNAIDS Executive Director Winnie Byanyima 2019-2025+ framework."
+    },
+    {
+      "name": "UNAIDS Secretariat",
+      "seat": "Geneva",
+      "url": "https://www.unaids.org/",
+      "role": "Formal administrative body for UNAIDS."
+    },
+    {
+      "name": "UNAIDS Country Offices (100+ countries)",
+      "seat": "100+ countries",
+      "url": "https://www.unaids.org/",
+      "role": "Formal UNAIDS country-level operations body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNAIDS Secretariat",
+      "url": "https://www.unaids.org/",
+      "role": "UNAIDS Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNAIDS-related communications operate via state-state framework via UN ECOSOC + UNAIDS PCB; individual communications limited under UNAIDS framework + UNAIDS Greater-Involvement-of-People-Living-with-HIV-AIDS GIPA framework operates anonymisation convention.",
+  "key_developments": [
+    {
+      "year": 1981,
+      "title": "AIDS first identified",
+      "description": "AIDS first identified 5 June 1981 in US CDC Morbidity and Mortality Weekly Report MMWR — predecessor framework to UNAIDS."
+    },
+    {
+      "year": 1983,
+      "title": "HIV first identified",
+      "description": "HIV first identified 1983 by Luc Montagnier + Françoise Barré-Sinoussi at Pasteur Institute + Robert Gallo at NIH — predecessor framework to UNAIDS."
+    },
+    {
+      "year": 1987,
+      "title": "WHO Global Programme on AIDS GPA",
+      "description": "WHO Global Programme on AIDS GPA established 1 February 1987 — predecessor framework to UNAIDS."
+    },
+    {
+      "year": 1994,
+      "title": "UNAIDS established",
+      "description": "UNAIDS established 26 July 1994 by UN ECOSOC Resolution 1994/24 + UN General Assembly Resolution 49/202 of 23 December 1994 — formal foundational UNAIDS framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "UNAIDS operations begin + ART HAART available",
+      "description": "UNAIDS operations began 1 January 1996 + Highly Active Antiretroviral Therapy HAART available 1996 — formal foundational UNAIDS operational framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "UNGASS Declaration of Commitment on HIV/AIDS",
+      "description": "Declaration of Commitment on HIV/AIDS adopted 27 June 2001 at UN General Assembly Special Session UNGASS — formal foundational UNGASS HIV/AIDS framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "Global Fund to Fight AIDS Tuberculosis Malaria + PEPFAR 2003",
+      "description": "Global Fund to Fight AIDS Tuberculosis and Malaria established 28 January 2002 in Geneva Switzerland + US PEPFAR established 28 January 2003 — formal foundational Global Fund + PEPFAR framework operational."
+    },
+    {
+      "year": 2014,
+      "title": "UNAIDS 90-90-90 Fast-Track Targets",
+      "description": "UNAIDS 90-90-90 Fast-Track Targets by 2020 adopted 2014 — formal foundational UNAIDS 90-90-90 Fast-Track Targets framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "UNAIDS 95-95-95 Fast-Track Targets",
+      "description": "UNAIDS 95-95-95 Fast-Track Targets by 2025 adopted 2020 — formal foundational UNAIDS 95-95-95 Fast-Track Targets framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-PEPFAR-cuts + 2025-AIDS-still-not-ended + Cabenuva + Lenacapavir",
+      "description": "Trump-administration-PEPFAR-cuts February 2025 + 2025-AIDS-still-not-ended framework + Cabenuva + Lenacapavir long-acting-injectable PrEP + Lenacapavir twice-yearly approved June 2025 framework — formal Trump-PEPFAR-cuts + 2025-AIDS-still-not-ended + long-acting-injectable-HIV-prevention framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNAIDS Mandate operates a supranational global framework — places UNAIDS Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-HIV-AIDS-response framework + only modern global supranational framework operating formal joint-co-sponsored framework with 11 UN co-sponsors framework is structurally distinctive globally — only modern global supranational framework operating on formal international-HIV-AIDS-response framework + only modern global supranational framework operating formal joint-co-sponsored framework with 11 UN co-sponsors framework + only modern global supranational framework operating formal 95-95-95 Fast-Track Targets 2025 framework + only modern global supranational framework operating formal Global Fund partnership framework + only modern global supranational framework operating formal PEPFAR partnership framework + only modern global supranational framework operating formal 1.3 million new HIV infections 2024 framework + only modern global supranational framework operating formal 630,000 AIDS-related deaths 2024 framework + only modern global supranational framework operating formal 39.9 million people living with HIV 2024 framework + only modern global supranational framework operating formal Trump-administration-PEPFAR-cuts 2025 budget-crisis framework + only modern global supranational framework operating formal 2025-AIDS-still-not-ended framework.",
+    "Central jurisdiction of formal UNAIDS 11 UN Co-sponsors framework is structurally distinctive globally — only modern global supranational framework operating formal joint-co-sponsored 11 UN co-sponsors framework + only modern global supranational framework operating formal Programme Coordinating Board PCB framework with 22 member states + 11 UN co-sponsors + 5 civil society organizations framework.",
+    "Central jurisdiction of formal UNAIDS 95-95-95 Fast-Track Targets framework is structurally distinctive globally — only modern global supranational framework operating formal 95-95-95 Fast-Track Targets framework.",
+    "Central jurisdiction of formal Global Fund + PEPFAR partnership framework is structurally distinctive globally — only modern global supranational framework operating formal Global-Fund + PEPFAR partnership framework + only modern global supranational framework operating formal USD 110+ billion PEPFAR cumulative-funding 2003-2024 framework.",
+    "100+ countries field operations + 39.9 million people living with HIV 2024 framework is structurally distinctive globally — comprehensive global HIV/AIDS coverage framework.",
+    "1981 AIDS + 1983 HIV + 1987 WHO GPA + 1994 UNAIDS + 1996 operations + HAART + 2001 UNGASS + 2002 Global Fund + 2003 PEPFAR + 2014 90-90-90 + 2020 95-95-95 + 2021 Political Declaration + 2025 Trump-cuts + Lenacapavir UNAIDS-framework-development sequence is structurally distinctive globally.",
+    "UNAIDS Mandate + Founding Resolution + 11 UN Co-sponsors + 95-95-95 Fast-Track Targets + Global Fund + PEPFAR + GIPA Greater-Involvement-of-People-Living-with-HIV-AIDS formal septet framework with limited PA-intersection framework via formal UNAIDS Children + Adolescents Living with HIV cross-border-children-HIV-disclosure-to-parents framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:who-constitution",
+    "jurisdiction:unicef-constitution",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNAIDS",
+      "url": "https://www.unaids.org/",
+      "publisher": "UNAIDS Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNAIDS Mandate jurisdiction sidecar — supranational global international-HIV-AIDS-response foundational-UNAIDS meta-framework (UNAIDS Founding Resolution 1994 + UNGASS 2001 + 95-95-95 Fast-Track Targets 2020 + Political Declaration 2021 + 11 UN Co-sponsors + Global Fund 2002 + PEPFAR 2003 + WHO GPA 1987 predecessor + 1981 AIDS first identified + 1983 HIV identified + 1996 HAART + 2014 90-90-90 + 2025 Trump-PEPFAR-cuts + Lenacapavir long-acting-injectable PrEP). Only modern global supranational framework operating on formal international-HIV-AIDS-response framework + only modern global supranational framework operating formal joint-co-sponsored framework with 11 UN co-sponsors: UNHCR + UNICEF + WFP + UNDP + UNFPA + UNODC + UN Women + ILO + UNESCO + WHO + World Bank + only modern global supranational framework operating formal 95-95-95 Fast-Track Targets 2025 + only modern global supranational framework operating formal Global Fund + PEPFAR partnership + only modern global supranational framework operating formal 1.3 million new HIV infections 2024 + 630,000 AIDS-related deaths 2024 + 39.9 million PLHIV 2024 + only modern global supranational framework operating formal Trump-PEPFAR-cuts 2025 budget-crisis + only modern global supranational framework operating formal 2025-AIDS-still-not-ended framework + central jurisdiction of formal 11 UN Co-sponsors + PCB 22 member states + 11 UN co-sponsors + 5 civil society organizations + central jurisdiction of formal 95-95-95 Fast-Track Targets + central jurisdiction of formal Global Fund + PEPFAR partnership + USD 110+ billion PEPFAR cumulative 2003-2024 + 100+ countries field operations + UNAIDS Headquartered Geneva + UNAIDS Executive Director Winnie Byanyima 2019-2025 + 1981 AIDS + 1983 HIV + 1987 WHO GPA + 1994 UNAIDS + 1996 operations + HAART + 2001 UNGASS + 2002 Global Fund + 2003 PEPFAR + 2014 90-90-90 + 2020 95-95-95 + 2021 Political Declaration + 2025 Trump-cuts + Lenacapavir UNAIDS-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNAIDS Children + Adolescents Living with HIV framework operates limited intersection with parental-alienation framework via formal cross-border-children-HIV-disclosure-to-parents framework.",
+    "Joins global + supranational + international-HIV-AIDS-response-foundational-UNAIDS cluster + UNAIDS-only-global-supranational-framework-on-international-HIV-AIDS-response-globally-distinctive + joint-co-sponsored-11-UN-co-sponsors-UNHCR-UNICEF-WFP-UNDP-UNFPA-UNODC-UN-Women-ILO-UNESCO-WHO-World-Bank + 95-95-95-Fast-Track-Targets-2025-95-diagnosed-95-treatment-95-viral-suppression + Global-Fund-2002-Geneva + PEPFAR-2003-US + USD-110-billion-PEPFAR-cumulative-2003-2024 + 1.3-million-new-HIV-infections-2024 + 630000-AIDS-deaths-2024 + 39.9-million-PLHIV-2024 + Trump-PEPFAR-cuts-2025-budget-crisis + Lenacapavir-twice-yearly-PrEP-June-2025 + Cabenuva-long-acting-injectable + 100-countries-field-operations + UNAIDS-Headquartered-Geneva + UNAIDS-Executive-Director-Winnie-Byanyima-2019-2025 + UNAIDS-PCB-22-member-states-11-co-sponsors-5-civil-society + 1981-AIDS-first-identified-CDC-MMWR + 1983-HIV-Montagnier-Barré-Sinoussi-Gallo + 1987-WHO-GPA-predecessor + 1996-HAART + 2001-UNGASS-Declaration + 2014-90-90-90-by-2020 + 2021-Political-Declaration-End-AIDS-by-2030 + GIPA-Greater-Involvement-of-People-Living-with-HIV-AIDS + UNAIDS-Children-Adolescents-Living-with-HIV-PA-intersection clusters within the corpus."
+  ]
+}

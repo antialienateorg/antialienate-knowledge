@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0",
+  "id": "united-arab-emirates",
+  "name": "United Arab Emirates (الإمارات العربية المتحدة)",
+  "jurisdiction_code": "AE",
+  "legal_system": "mixed",
+  "language": ["ar", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The United Arab Emirates is a Gulf mixed-legal-system federation of seven emirates operating a dual personal-status framework: Federal Decree-Law 41/2022 establishes a Personal Status Law for non-Muslims (in force 1 February 2023, applicable to all non-Muslim residents and visitors regardless of nationality), while Federal Law 28/2005 (Personal Status Law) and its implementing regulations govern matters for Muslim residents under Maliki/Shafi'i jurisprudential framework with substantial reforms via Federal Decree-Law 41/2022 amendments. Custody (hadana) provisions differ between the two frameworks. The Federal Supreme Court (Al-Mahkama al-Ittihadiyya al-Ulya) is the apex federal court; Abu Dhabi and Dubai operate their own court systems with separate apex jurisdictions for emirate-level matters. The Dubai International Financial Centre (DIFC) and Abu Dhabi Global Market (ADGM) Courts operate common-law jurisdictions for commercial matters. Psychology profession is regulated under the Ministry of Health and Prevention (MOHAP) federal framework with separate Department of Health Abu Dhabi (DOH) and Dubai Health Authority (DHA) licensing requirements. UAE is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. UAE acceded to the Hague Convention 1980 on Child Abduction effective 1 August 2018.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Federal Decree-Law 41/2022 — Personal Status Law for Non-Muslims",
+      "title": "Personal Status Law for Non-Muslims",
+      "year": 2022,
+      "url": "https://elaws.moj.gov.ae/",
+      "relevance": "Federal statute in force 1 February 2023 establishing a civil personal-status framework for non-Muslim residents and visitors regardless of nationality. Significant divergence from prior personal-law application of nationality law for non-Muslims. Includes joint custody provisions as the default."
+    },
+    {
+      "citation": "Federal Law 28/2005 (Personal Status Law) as amended",
+      "title": "Personal Status Law 2005 — Muslim personal status",
+      "year": 2005,
+      "url": "https://elaws.moj.gov.ae/",
+      "relevance": "Federal statute governing personal status for Muslims. Substantially amended by Federal Decree-Law 41/2022 amendments and Federal Decree-Law 8/2024 modernising custody, divorce, and inheritance provisions."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Federal Supreme Court (Al-Mahkama al-Ittihadiyya al-Ulya)",
+      "seat": "Abu Dhabi",
+      "url": "https://www.fsc.gov.ae/",
+      "role": "Apex federal court for civil, criminal, constitutional and administrative matters under federal jurisdiction. Dubai and Abu Dhabi operate separate emirate-level court systems with their own apex jurisdictions for emirate-level matters."
+    },
+    {
+      "name": "Abu Dhabi Court of Cassation + Dubai Court of Cassation",
+      "seat": "Abu Dhabi / Dubai",
+      "url": "https://www.adjd.gov.ae/ + https://www.dc.gov.ae/",
+      "role": "Emirate-level apex courts operating separately from the Federal Supreme Court for matters within Abu Dhabi and Dubai emirate jurisdictions."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Prevention (MOHAP)",
+      "url": "https://www.mohap.gov.ae/",
+      "role": "Federal regulator for health professionals at federal level."
+    },
+    {
+      "name": "Department of Health Abu Dhabi (DOH)",
+      "url": "https://www.doh.gov.ae/",
+      "role": "Abu Dhabi-emirate health regulator operating separate licensing requirements for psychologists practising in Abu Dhabi."
+    },
+    {
+      "name": "Dubai Health Authority (DHA)",
+      "url": "https://www.dha.gov.ae/",
+      "role": "Dubai-emirate health regulator operating separate licensing requirements for psychologists practising in Dubai."
+    }
+  ],
+  "anonymisation_convention": "UAE family-court decisions are anonymised per court practice; published decisions use initials or pseudonyms.",
+  "key_developments": [
+    {
+      "year": 2005,
+      "title": "Federal Law 28/2005",
+      "description": "Federal Personal Status Law enacted."
+    },
+    {
+      "year": 2018,
+      "title": "Hague Convention 1980 accession",
+      "description": "UAE acceded to the Hague Convention 1980 on Child Abduction effective 1 August 2018."
+    },
+    {
+      "year": 2022,
+      "title": "Federal Decree-Law 41/2022",
+      "description": "Personal Status Law for Non-Muslims in force 1 February 2023 — establishes civil personal-status framework for all non-Muslims regardless of nationality including joint-custody default."
+    },
+    {
+      "year": 2024,
+      "title": "Federal Decree-Law 8/2024",
+      "description": "Substantial amendments to Federal Law 28/2005 modernising Muslim personal-status provisions including custody, divorce, and inheritance."
+    }
+  ],
+  "structural_findings": [
+    "UAE operates a structurally distinctive dual personal-status framework — Federal Decree-Law 41/2022 for non-Muslims (civil) + Federal Law 28/2005 as amended for Muslims (religious-law). The non-Muslim framework operates by residence not nationality, substantively novel within the Gulf cluster.",
+    "Federal-emirate court architecture with DIFC + ADGM common-law commercial jurisdictions makes UAE a structurally distinctive mixed-jurisdiction model within the corpus.",
+    "Hague Convention 1980 accession 2018 places UAE in the Hague cluster — distinguishes from Saudi Arabia + Iran (non-Hague) within the Gulf cluster.",
+    "Three-tier psychology profession regulation (MOHAP federal + DOH Abu Dhabi + DHA Dubai) is structurally distinctive — multi-regulator pattern shared with Australia (federal + state) and US (state-by-state) within the corpus."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:federalism-patterns-and-pa-doctrine-fragmentation",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Federal Supreme Court",
+      "url": "https://www.fsc.gov.ae/",
+      "publisher": "Federal Supreme Court of the UAE",
+      "language": "ar,en"
+    },
+    {
+      "title": "Ministry of Justice e-Laws",
+      "url": "https://elaws.moj.gov.ae/",
+      "publisher": "Ministry of Justice, UAE",
+      "language": "ar,en"
+    },
+    {
+      "title": "Abu Dhabi Judicial Department (ADJD)",
+      "url": "https://www.adjd.gov.ae/",
+      "publisher": "ADJD",
+      "language": "ar,en"
+    },
+    {
+      "title": "Dubai Courts",
+      "url": "https://www.dc.gov.ae/",
+      "publisher": "Dubai Courts",
+      "language": "ar,en"
+    }
+  ],
+  "editorial_notes": [
+    "UAE jurisdiction sidecar — dual personal-status framework (non-Muslim civil + Muslim religious-law) + Federal Supreme Court + emirate-level apex + DIFC/ADGM common-law commercial + MOHAP/DOH/DHA three-tier psychology regulation + Hague Convention 1980 accession 2018.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Gulf cluster + Hague Convention cluster + dual-personal-status cluster + multi-regulator psychology cluster within the corpus."
+  ]
+}

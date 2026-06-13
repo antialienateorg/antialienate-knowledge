@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "id": "hague-conference",
+  "name": "Hague Conference on Private International Law (HCCH / Hague Convention 1980 Framework)",
+  "jurisdiction_code": "HCC-PIL",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Hague Conference on Private International Law (HCCH) and Hague Convention 1980 Framework is a supranational meta-legal-system framework operating across 91+ contracting states (101 contracting parties to Hague Convention 1980 as of 2024 + HCCH 91 member states + 1 regional integration organisation EU) — structurally distinctive globally as the only modern multi-state framework specifically for international-child-abduction (1980 Convention on the Civil Aspects of International Child Abduction), as the foundational framework for international child-protection (1996 Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility and Measures for the Protection of Children), and as the central jurisdictional framework for the largest body of multi-state private-international-law jurisprudence and conventions in the world. The HCCH frameworks include: (i) Hague Convention 1980 on the Civil Aspects of International Child Abduction (effective 1 December 1983) — central international-child-abduction return framework; (ii) Hague Convention 1996 on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility and Measures for the Protection of Children (effective 1 January 2002) — comprehensive international child-protection framework; (iii) Hague Convention 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance — international child-support recovery framework; (iv) Hague Convention 1965 on the Service Abroad of Judicial and Extrajudicial Documents — international service-of-process framework; (v) Hague Convention 1961 on the Conflicts of Laws Relating to the Form of Testamentary Dispositions — international wills/succession framework. Hague Convention 1980 operates via Central Authority Network — each contracting state designates a Central Authority for incoming and outgoing return requests, with the Hague Permanent Bureau in The Hague providing administrative support and INCADAT (International Child Abduction Database) jurisprudence collection. Apex courts for Hague Convention 1980 interpretation are contracting-state national apex courts — there is no centralised Hague apex court. Hague Conference Permanent Bureau coordinates conference, conventions, and Central Authority Network. Hague Convention 1980 establishes (i) presumption of return to country of habitual residence within 6 weeks (Article 11); (ii) limited exceptions (Article 13: grave-risk + objection of child + procedural delay; Article 20: human-rights inconsistency; Article 12 1-year-+-settled-in-new-environment); (iii) Central Authority Network for administrative cooperation; (iv) no jurisdiction to determine custody on merits — only to determine return obligation. The HCCH is silent on 'parental alienation' as a Hague Convention term, though substantial Hague Convention 1980 jurisprudence substantively addresses related family-discord frameworks via Article 13 grave-risk and Article 13 child-objection analysis.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Hague Convention on the Civil Aspects of International Child Abduction 1980",
+      "title": "Hague Convention 1980",
+      "year": 1980,
+      "url": "https://www.hcch.net/",
+      "relevance": "Central HCCH convention establishing international-child-abduction return framework — effective 1 December 1983."
+    },
+    {
+      "citation": "Hague Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility 1996",
+      "title": "Hague Convention 1996",
+      "year": 1996,
+      "url": "https://www.hcch.net/",
+      "relevance": "Comprehensive HCCH convention establishing international child-protection framework — effective 1 January 2002."
+    },
+    {
+      "citation": "Hague Convention on the International Recovery of Child Support 2007",
+      "title": "Hague Convention 2007",
+      "year": 2007,
+      "url": "https://www.hcch.net/",
+      "relevance": "HCCH convention establishing international child-support recovery framework."
+    },
+    {
+      "citation": "Hague Convention 1980 Article 11 (Expedited Return)",
+      "title": "Hague Convention 1980 Article 11",
+      "year": 1980,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention 1980 article establishing 6-week return-decision guideline."
+    },
+    {
+      "citation": "Hague Convention 1980 Article 13 (Grave Risk + Child Objection Exceptions)",
+      "title": "Hague Convention 1980 Article 13",
+      "year": 1980,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention 1980 article establishing limited exceptions to return obligation — grave-risk to child + objection of child of sufficient age and maturity."
+    },
+    {
+      "citation": "Statute of the Hague Conference on Private International Law 1955",
+      "title": "Hague Conference Statute",
+      "year": 1955,
+      "url": "https://www.hcch.net/",
+      "relevance": "Foundational HCCH Statute establishing the Hague Conference on Private International Law as international intergovernmental organisation."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Contracting State national apex courts (per Hague Convention 1980 framework)",
+      "seat": "Various contracting state apex courts",
+      "url": "",
+      "role": "Contracting state national apex courts exercise Hague Convention 1980 interpretation jurisdiction."
+    },
+    {
+      "name": "Hague Permanent Bureau",
+      "seat": "The Hague",
+      "url": "https://www.hcch.net/",
+      "role": "HCCH administrative support body — coordinates Conference, conventions, and Central Authority Network."
+    },
+    {
+      "name": "INCADAT (International Child Abduction Database)",
+      "seat": "The Hague (online database)",
+      "url": "https://www.incadat.com/",
+      "role": "Hague Conference jurisprudence collection database for Hague Convention 1980 decisions."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Contracting state professional regulators per nationality framework",
+      "url": "",
+      "role": "Contracting state professional regulators apply via Hague Convention 1980 contracting-state framework."
+    }
+  ],
+  "anonymisation_convention": "Hague Convention 1980 cases are anonymised per contracting-state court practice — INCADAT anonymises decisions with 'Re X' or initials.",
+  "key_developments": [
+    {
+      "year": 1893,
+      "title": "First Hague Conference on Private International Law",
+      "description": "First Hague Conference on Private International Law held September 1893 — foundational private international law multi-state cooperation framework."
+    },
+    {
+      "year": 1955,
+      "title": "Hague Conference Statute",
+      "description": "Hague Conference Statute of 31 October 1951 effective 15 July 1955 establishing Hague Conference as international intergovernmental organisation."
+    },
+    {
+      "year": 1980,
+      "title": "Hague Convention 1980 on International Child Abduction signed",
+      "description": "Hague Convention 1980 on the Civil Aspects of International Child Abduction adopted 25 October 1980 — foundational international child-abduction framework."
+    },
+    {
+      "year": 1983,
+      "title": "Hague Convention 1980 effective",
+      "description": "Hague Convention 1980 entered into force 1 December 1983 following ratification by France, Canada, Portugal, and Switzerland."
+    },
+    {
+      "year": 1996,
+      "title": "Hague Convention 1996 on Child Protection adopted",
+      "description": "Hague Convention 1996 on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility adopted 19 October 1996."
+    },
+    {
+      "year": 2002,
+      "title": "Hague Convention 1996 effective",
+      "description": "Hague Convention 1996 entered into force 1 January 2002 — comprehensive international child-protection framework."
+    },
+    {
+      "year": 2007,
+      "title": "Hague Convention 2007 on Child Support adopted",
+      "description": "Hague Convention 2007 on the International Recovery of Child Support adopted 23 November 2007."
+    }
+  ],
+  "structural_findings": [
+    "Hague Conference / Hague Convention 1980 operates a supranational meta-legal-system framework — places HCCH in the unique multi-state private-international-law cluster.",
+    "Only modern multi-state framework specifically for international-child-abduction is structurally distinctive globally — Hague Convention 1980.",
+    "Foundational framework for international child-protection via Hague Convention 1996 is structurally distinctive globally.",
+    "Hague Convention 1980 91+ contracting parties is structurally distinctive globally — largest multi-state private-international-law convention framework.",
+    "Central Authority Network framework is structurally distinctive globally — only modern multi-state administrative-cooperation framework specifically for international family-law matters.",
+    "INCADAT International Child Abduction Database is structurally distinctive globally — only multi-state jurisprudence collection for specific Convention framework.",
+    "Hague Convention 1980 Article 11 6-week return-decision guideline is structurally distinctive globally — first multi-state expedited-return framework for international-child-abduction.",
+    "Hague Convention 1980 Article 13 grave-risk + child-objection exceptions framework is structurally distinctive globally — only multi-state framework with both grave-risk and child-objection structured exceptions.",
+    "No centralised Hague apex court framework operating via contracting-state national apex court interpretation is structurally distinctive globally — only modern major multi-state convention framework without centralised apex court.",
+    "Hague Convention 1980 + Hague Convention 1996 + Hague Convention 2007 trilogy frameworks operate as integrated international family-law-jurisdiction-recognition-enforcement framework."
+  ],
+  "references": [
+    "jurisdiction:france",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:united-states",
+    "jurisdiction:germany",
+    "jurisdiction:netherlands",
+    "jurisdiction:brussels-ii-ter",
+    "jurisdiction:echr-council-of-europe",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Hague Conference on Private International Law",
+      "url": "https://www.hcch.net/",
+      "publisher": "HCCH",
+      "language": "en"
+    },
+    {
+      "title": "INCADAT International Child Abduction Database",
+      "url": "https://www.incadat.com/",
+      "publisher": "HCCH",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Hague Conference / Hague Convention 1980 Framework jurisdiction sidecar — supranational meta-legal-system multi-state private-international-law framework (Hague Convention 1980 on International Child Abduction + Hague Convention 1996 on Child Protection + Hague Convention 2007 on Child Support + Hague Convention 1965 on Service Abroad + Hague Conference Statute 1955 + Hague Permanent Bureau + Central Authority Network + INCADAT International Child Abduction Database + Article 11 6-week guideline + Article 13 grave-risk + child-objection exceptions). Only modern multi-state framework specifically for international-child-abduction globally + Hague Convention 1980 91+ contracting parties largest multi-state private-international-law convention + first multi-state expedited-return framework + only multi-state framework with both grave-risk and child-objection structured exceptions + only modern major multi-state convention framework without centralised apex court.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins supranational + multi-state-private-international-law + HCCH-framework cluster + Hague-Convention-1980-international-child-abduction-globally-distinctive + Hague-Convention-1996-child-protection + Hague-Convention-2007-child-support + Central-Authority-Network + INCADAT-jurisprudence-database + Article-11-6-week-return-guideline + Article-13-grave-risk-child-objection-exceptions + no-centralised-Hague-apex-court + Hague-trilogy-integrated-family-law-framework clusters within the corpus."
+  ]
+}

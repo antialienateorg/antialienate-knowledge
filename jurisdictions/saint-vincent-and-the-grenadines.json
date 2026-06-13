@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "id": "saint-vincent-and-the-grenadines",
+  "name": "Saint Vincent and the Grenadines",
+  "jurisdiction_code": "VC",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Saint Vincent and the Grenadines is a Caribbean common-law constitutional monarchy whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance Act, the Status of Children Act, and the Domestic Violence Act 1995. Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Saint Vincent and the Grenadines) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health, Wellness and the Environment framework. Saint Vincent and the Grenadines is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Saint Vincent and the Grenadines is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Divorce Act CAP 244",
+      "title": "Divorce Act",
+      "year": 1990,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal divorce statute."
+    },
+    {
+      "citation": "Domestic Violence Act 1995",
+      "title": "Domestic Violence Act",
+      "year": 1995,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on domestic violence protection orders affecting family-law proceedings."
+    },
+    {
+      "citation": "Status of Children Act",
+      "title": "Status of Children Act",
+      "year": 1980,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on legal status of children."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eastern Caribbean Supreme Court — Court of Appeal",
+      "seat": "Kingstown",
+      "url": "https://www.eccourts.org/",
+      "role": "Apex domestic appellate court for OECS states including Saint Vincent and the Grenadines."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Saint Vincent and the Grenadines."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Wellness and the Environment, Saint Vincent and the Grenadines",
+      "url": "https://www.health.gov.vc/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Vincentian family-court decisions are anonymised per Eastern Caribbean Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1979,
+      "title": "Independence",
+      "description": "Saint Vincent and the Grenadines achieved independence from the United Kingdom; retained JCPC as final appellate court."
+    },
+    {
+      "year": 1995,
+      "title": "Domestic Violence Act",
+      "description": "Federal statute on domestic violence protection orders enacted."
+    }
+  ],
+  "structural_findings": [
+    "Saint Vincent and the Grenadines operates a common-law framework — places Saint Vincent and the Grenadines in the OECS-Anglophone Caribbean common-law cluster.",
+    "Eastern Caribbean Supreme Court appellate jurisdiction places Saint Vincent and the Grenadines in the OECS-shared-judicial-system cluster.",
+    "Non-Hague Convention status places Saint Vincent and the Grenadines in the non-Hague Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:grenada",
+    "jurisdiction:saint-lucia",
+    "jurisdiction:antigua-and-barbuda",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Caribbean Supreme Court",
+      "url": "https://www.eccourts.org/",
+      "publisher": "ECSC",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Saint Vincent and the Grenadines jurisdiction sidecar — common-law Caribbean (Domestic Violence Act 1995 + Status of Children Act 1980 + OECS-ECSC + JCPC + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins OECS-Anglophone Caribbean + common-law + OECS-shared-judicial-system + JCPC-final-appellate + non-Hague Convention clusters within the corpus."
+  ]
+}

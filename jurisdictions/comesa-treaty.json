@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "id": "comesa-treaty",
+  "name": "COMESA Treaty 1993 (Common Market for Eastern and Southern Africa)",
+  "jurisdiction_code": "COM",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "ar", "pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Treaty Establishing the Common Market for Eastern and Southern Africa (COMESA Treaty) is a regional supranational meta-framework foundational-COMESA-treaty framework adopted by the 22 African states in Kampala — structurally distinctive globally as the largest modern African regional supranational binding-treaty framework operating on formal Cape-to-Cairo coverage framework (COMESA Treaty signed 5 November 1993 in Kampala Uganda + effective 8 December 1994 + PTA Preferential Trade Area for Eastern and Southern African States predecessor founded 21 December 1981 in Lusaka Zambia — formal foundational COMESA treaty framework establishing comprehensive COMESA organisation framework, distinct from rest-of-modern-regional-African-treaty frameworks which operate on smaller geographic scopes, structurally distinctive globally as the largest modern African regional supranational binding-treaty framework + only modern African regional supranational binding-treaty framework operating formal Cape-to-Cairo coverage framework spanning Egypt to Eswatini + 21 African states ratification framework + English-French-Arabic-Portuguese quadrilingual framework + most-overlapping-membership framework with EAC + SADC + IGAD + AfCFTA framework), as the central jurisdiction of the formal COMESA Court of Justice CCJ framework (COMESA Court of Justice established 7 December 1998 in Khartoum Sudan + relocated to Lusaka Zambia 2003 + relocated to Khartoum Sudan 2008 providing formal COMESA judicial framework with individual-petition framework via Article 26 COMESA Treaty — formal foundational COMESA judicial framework, structurally distinctive globally as the only modern East-and-Southern-African regional supranational binding-treaty framework operating formal individual-petition framework via direct-access framework after exhaustion-of-local-remedies framework), as the central jurisdiction of the formal COMESA Free Trade Area FTA framework (COMESA Free Trade Area FTA launched 31 October 2000 in Lusaka Zambia by Djibouti + Egypt + Kenya + Madagascar + Malawi + Mauritius + Sudan + Zambia + Zimbabwe + 9 additional states joined FTA framework — formal foundational COMESA Free-Trade-Area framework, structurally distinctive globally as the only modern East-and-Southern-African regional supranational binding-treaty framework operating formal Free-Trade-Area framework + first African regional FTA framework), and as the central jurisdiction of the formal Tripartite Free Trade Area TFTA framework + AfCFTA-precursor framework (COMESA + EAC + SADC Tripartite Free Trade Area TFTA signed 10 June 2015 in Sharm El-Sheikh Egypt providing formal Cape-to-Cairo TFTA framework + COMESA-EAC-SADC African Continental Free Trade Area AfCFTA-precursor framework — formal foundational COMESA TFTA + AfCFTA-precursor framework, structurally distinctive globally as the only modern African regional supranational binding-treaty framework operating formal Tripartite-Free-Trade-Area framework + only modern African regional framework operating formal AfCFTA-precursor framework). The COMESA Treaty is binding upon 21 COMESA member states as of 2026 (Burundi + Comoros + DRC + Djibouti + Egypt + Eritrea + Eswatini + Ethiopia + Kenya + Libya + Madagascar + Malawi + Mauritius + Rwanda + Seychelles + Somalia + Sudan + Tunisia + Uganda + Zambia + Zimbabwe) + 3 dialogue partners as of 2026 — comprehensive Cape-to-Cairo regional coverage framework + Tanzania withdrew 2 September 2000 + Lesotho withdrew 1997 + Mozambique withdrew 1997 framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal COMESA Court of Justice individual-petition framework operates substantial intersection with parental-alienation framework via formal Cape-to-Cairo regional cross-border-children's-rights framework via individual-petition framework. The COMESA Authority of Heads of State and Government + COMESA Council of Ministers + COMESA Court of Justice CCJ + COMESA Secretariat + COMESA Parliament are the formal COMESA bodies; national-level apex courts operate as judicial bodies. The COMESA Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "PTA Treaty 1981",
+      "title": "PTA Treaty",
+      "year": 1982,
+      "url": "https://www.comesa.int/",
+      "relevance": "Preferential Trade Area for Eastern and Southern African States PTA Treaty signed 21 December 1981 in Lusaka Zambia + effective 30 September 1982 — predecessor framework to COMESA."
+    },
+    {
+      "citation": "COMESA Treaty 1993",
+      "title": "COMESA Treaty",
+      "year": 1994,
+      "url": "https://www.comesa.int/",
+      "relevance": "Treaty Establishing the Common Market for Eastern and Southern Africa signed 5 November 1993 in Kampala Uganda + effective 8 December 1994 transforming PTA into COMESA — formal foundational COMESA treaty framework establishing comprehensive COMESA organisation framework."
+    },
+    {
+      "citation": "COMESA Court of Justice 1998 (Article 26 Individual-Petition)",
+      "title": "COMESA Court of Justice + Article 26",
+      "year": 1998,
+      "url": "https://comesa.int/court-of-justice/",
+      "relevance": "COMESA Court of Justice established 7 December 1998 in Khartoum Sudan + Article 26 COMESA Treaty providing formal individual-petition framework via direct-access framework after exhaustion-of-local-remedies framework — formal foundational COMESA judicial framework."
+    },
+    {
+      "citation": "COMESA FTA 2000",
+      "title": "COMESA Free Trade Area",
+      "year": 2000,
+      "url": "https://www.comesa.int/",
+      "relevance": "COMESA Free Trade Area FTA launched 31 October 2000 in Lusaka Zambia — formal foundational COMESA Free-Trade-Area framework + first African regional FTA framework."
+    },
+    {
+      "citation": "COMESA-EAC-SADC Tripartite FTA 2015",
+      "title": "Tripartite Free Trade Area",
+      "year": 2015,
+      "url": "https://www.comesa.int/",
+      "relevance": "COMESA-EAC-SADC Tripartite Free Trade Area TFTA signed 10 June 2015 in Sharm El-Sheikh Egypt — formal foundational COMESA TFTA + AfCFTA-precursor framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "COMESA Authority of Heads of State and Government",
+      "seat": "rotating",
+      "url": "https://www.comesa.int/",
+      "role": "Formal supreme decision-making body for COMESA."
+    },
+    {
+      "name": "COMESA Council of Ministers",
+      "seat": "rotating",
+      "url": "https://www.comesa.int/",
+      "role": "Formal executive body for COMESA."
+    },
+    {
+      "name": "COMESA Court of Justice",
+      "seat": "Khartoum",
+      "url": "https://comesa.int/court-of-justice/",
+      "role": "Apex judicial body for COMESA framework with individual-petition framework via Article 26 COMESA Treaty + direct-access framework after exhaustion-of-local-remedies framework."
+    },
+    {
+      "name": "COMESA Secretariat",
+      "seat": "Lusaka",
+      "url": "https://www.comesa.int/",
+      "role": "Formal administrative body for COMESA."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "COMESA Secretariat",
+      "url": "https://www.comesa.int/",
+      "role": "COMESA Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "COMESA-related communications via COMESA Court of Justice framework operate formal anonymisation convention per CCJ Rules of Procedure on individual-petition framework.",
+  "key_developments": [
+    {
+      "year": 1981,
+      "title": "PTA Treaty adopted",
+      "description": "Preferential Trade Area for Eastern and Southern African States PTA Treaty signed 21 December 1981 in Lusaka Zambia — predecessor framework to COMESA adopted."
+    },
+    {
+      "year": 1993,
+      "title": "COMESA Treaty adopted",
+      "description": "Treaty Establishing the Common Market for Eastern and Southern Africa signed 5 November 1993 in Kampala Uganda transforming PTA into COMESA — formal foundational COMESA treaty framework adopted."
+    },
+    {
+      "year": 1994,
+      "title": "COMESA Treaty enters force",
+      "description": "COMESA Treaty entered force 8 December 1994 — formal foundational COMESA treaty framework operational."
+    },
+    {
+      "year": 1997,
+      "title": "Lesotho + Mozambique withdraw from COMESA",
+      "description": "Lesotho + Mozambique withdrew from COMESA 1997 — formal COMESA membership-reduction framework."
+    },
+    {
+      "year": 1998,
+      "title": "COMESA Court of Justice established",
+      "description": "COMESA Court of Justice established 7 December 1998 in Khartoum Sudan — formal foundational COMESA judicial framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "COMESA FTA launched + Tanzania withdraws",
+      "description": "COMESA Free Trade Area FTA launched 31 October 2000 in Lusaka Zambia by 9 founding FTA members + Tanzania withdrew 2 September 2000 — formal foundational COMESA FTA framework operational + first African regional FTA framework."
+    },
+    {
+      "year": 2009,
+      "title": "COMESA Customs Union launched",
+      "description": "COMESA Customs Union launched 7 June 2009 in Victoria Falls Zimbabwe — formal foundational COMESA Customs-Union framework."
+    },
+    {
+      "year": 2015,
+      "title": "COMESA-EAC-SADC Tripartite FTA signed",
+      "description": "COMESA-EAC-SADC Tripartite Free Trade Area TFTA signed 10 June 2015 in Sharm El-Sheikh Egypt — formal foundational COMESA TFTA + AfCFTA-precursor framework."
+    },
+    {
+      "year": 2018,
+      "title": "AfCFTA signed",
+      "description": "African Continental Free Trade Area AfCFTA signed 21 March 2018 in Kigali Rwanda + COMESA-EAC-SADC TFTA framework as AfCFTA-precursor framework — formal foundational AfCFTA framework adopted following TFTA framework."
+    },
+    {
+      "year": 2021,
+      "title": "AfCFTA enters force",
+      "description": "African Continental Free Trade Area AfCFTA trading effective 1 January 2021 — formal foundational AfCFTA framework operational following TFTA framework."
+    },
+    {
+      "year": 2023,
+      "title": "Somalia + Tunisia join COMESA",
+      "description": "Somalia joined COMESA 11 July 2018 + Tunisia joined COMESA 18 July 2018 — formal COMESA expansion framework to 21 member states."
+    }
+  ],
+  "structural_findings": [
+    "COMESA Treaty operates a regional supranational binding-treaty framework — places COMESA Treaty in the regional supranational-meta-framework cluster.",
+    "Largest modern African regional supranational binding-treaty framework operating on formal Cape-to-Cairo coverage framework is structurally distinctive globally — largest modern African regional supranational binding-treaty framework + only modern African regional supranational binding-treaty framework operating formal Cape-to-Cairo coverage framework spanning Egypt to Eswatini + 21 African states ratification framework + English-French-Arabic-Portuguese quadrilingual framework + most-overlapping-membership framework with EAC + SADC + IGAD + AfCFTA framework.",
+    "Central jurisdiction of formal COMESA Court of Justice framework is structurally distinctive globally — only modern East-and-Southern-African regional supranational binding-treaty framework operating formal individual-petition framework via direct-access framework after exhaustion-of-local-remedies framework.",
+    "Central jurisdiction of formal COMESA FTA framework is structurally distinctive globally — only modern East-and-Southern-African regional supranational binding-treaty framework operating formal Free-Trade-Area framework + first African regional FTA framework.",
+    "Central jurisdiction of formal Tripartite Free Trade Area + AfCFTA-precursor framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal Tripartite-Free-Trade-Area framework + only modern African regional framework operating formal AfCFTA-precursor framework.",
+    "21 COMESA member state ratification framework is structurally distinctive globally — comprehensive Cape-to-Cairo regional coverage framework.",
+    "1981 PTA Treaty + 1993 COMESA Treaty + 1994 entry into force + 1997 Lesotho + Mozambique withdraw + 1998 Court of Justice + 2000 FTA + Tanzania withdraws + 2009 Customs Union + 2015 TFTA + 2018 AfCFTA + Somalia + Tunisia + 2021 AfCFTA operational COMESA-framework-development sequence is structurally distinctive globally.",
+    "COMESA Treaty + PTA Treaty + COMESA FTA + COMESA Customs Union + COMESA Court of Justice + TFTA + AfCFTA-precursor formal septet framework with formal Cape-to-Cairo regional cross-border-children's-rights PA-intersection framework via individual-petition framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:eac-treaty",
+    "jurisdiction:sadc-treaty",
+    "jurisdiction:au-constitutive-act",
+    "jurisdiction:african-charter-human-peoples-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "COMESA",
+      "url": "https://www.comesa.int/",
+      "publisher": "COMESA Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "COMESA Treaty jurisdiction sidecar — regional supranational Cape-to-Cairo foundational-COMESA-treaty meta-framework (COMESA Treaty 1993/1994 + PTA Treaty 1981/1982 predecessor + COMESA Court of Justice 1998 + COMESA FTA 2000 + Customs Union 2009 + TFTA 2015 + Article 26 individual-petition + Somalia + Tunisia 2018 + 1997 Lesotho + Mozambique withdrawal + 2000 Tanzania withdrawal). Largest modern African regional supranational binding-treaty framework globally + only modern African regional supranational binding-treaty framework operating formal Cape-to-Cairo coverage framework + first African regional FTA framework + central jurisdiction of formal COMESA Court of Justice individual-petition framework + central jurisdiction of formal COMESA Free-Trade-Area framework + central jurisdiction of formal Tripartite-Free-Trade-Area + AfCFTA-precursor framework + 21 COMESA member states + 1981 PTA + 1993 COMESA Treaty + 1994 entry into force + 1997 Lesotho + Mozambique withdraw + 1998 Court of Justice + 2000 FTA + Tanzania withdraws + 2009 Customs Union + 2015 TFTA + 2018 Somalia + Tunisia + AfCFTA + 2021 AfCFTA operational COMESA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: COMESA Court of Justice individual-petition framework operates substantial intersection with parental-alienation framework via formal Cape-to-Cairo regional cross-border-children's-rights framework via individual-petition framework.",
+    "Joins regional + supranational + Cape-to-Cairo-foundational-COMESA-treaty cluster + COMESA-Treaty-largest-modern-African-regional-supranational-binding-treaty-globally-distinctive + Cape-to-Cairo-Egypt-to-Eswatini-coverage + English-French-Arabic-Portuguese-quadrilingual + most-overlapping-membership-with-EAC-SADC-IGAD-AfCFTA + COMESA-Court-of-Justice-Khartoum-Article-26-individual-petition-direct-access-after-exhaustion + COMESA-Secretariat-Lusaka + first-African-regional-FTA-2000 + COMESA-Customs-Union-2009-Victoria-Falls + 21-COMESA-member-states + 1997-Lesotho-Mozambique-withdrawal + 2000-Tanzania-withdrawal + 1981-PTA-predecessor + 2015-TFTA-Sharm-El-Sheikh + 2018-AfCFTA-precursor + 2018-Somalia-Tunisia-join + Cape-to-Cairo-cross-border-children-rights-PA-intersection-via-individual-petition clusters within the corpus."
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "id": "hokkaido",
+  "name": "Hokkaido Prefecture (北海道 / アイヌモシㇼ Aynu Mosir)",
+  "jurisdiction_code": "JP-HOK",
+  "legal_system": "civil-law",
+  "language": ["ja", "ain", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Hokkaido Prefecture (北海道 Hokkaido in Japanese, also encompassing the Ainu indigenous identity アイヌモシㇼ Aynu Mosir 'Land of the Ainu') is a Northern Japanese civil-law Japanese prefecture — structurally distinctive globally as the only Japanese prefecture with a formally-recognised indigenous people framework (Ainu Indigenous Peoples Promotion Act 2019 effective 24 May 2019 — first Japanese federal Act formally recognising the Ainu as 'indigenous people of Japan', representing a historic departure from prior Japanese state non-recognition of indigenous-people frameworks within Japan), as the largest Japanese prefecture by area (~83,424 km² — ~22% of Japanese land area, more than twice the area of the second-largest Japanese prefecture Iwate ~15,275 km²), as one of the most recently incorporated Japanese prefectures (Meiji-era colonisation framework 1869-1882 via the Kaitakushi 開拓使 Hokkaido Development Commission — distinct from rest-of-Honshu/Kyushu/Shikoku Japanese pre-Meiji feudal-domain framework), and as the central jurisdiction for the Russo-Japanese Northern Territories dispute (4 islands Kunashir/Kunashiri + Iturup/Etorofu + Shikotan + Habomai — Japanese 'Northern Territories' 北方領土 / Russian 'Southern Kurils' Южные Курилы — held by Soviet Union from 1945 and Russian Federation 1991-present, no Russo-Japanese WWII peace treaty concluded as of 2026). Hokkaido was historically the Ainu homeland Aynu Mosir prior to formal Japanese incorporation, was settled by Wajin (ethnic Japanese) populations under Matsumae Domain 1599-1869, was annexed by Meiji Japan via the Kaitakushi 開拓使 framework 1869-1882, established as Hokkaido Prefecture 1886, and subjected to systematic assimilation policies under the Hokkaido Former Aborigines Protection Act 1899 (repealed 1997 via the Ainu Cultural Promotion Act 1997, superseded 2019 via Ainu Indigenous Peoples Promotion Act). Hokkaido Prefecture comprises ~83,424 km² with a population of ~5.1 million. Family-law framework operates under the federal Japanese civil-law framework (Japanese Civil Code 1898 Family Law portion + Family Law Reform Act 2024 reintroducing joint parental authority post-divorce effective 2026) applied uniformly across Japanese prefectures. The Sapporo District Court is the primary trial court; the Sapporo High Court is the apex appellate court; final appellate jurisdiction lies with the Supreme Court of Japan. Hokkaido is silent on 'parental alienation' as a statutory label. Japan is a Hague Convention 1980 signatory and party (acceded 24 January 2014 effective 1 April 2014).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Japanese Civil Code 1898 Family Law portion (民法 Minpo Articles 725-881)",
+      "title": "Japanese Civil Code Family Law",
+      "year": 1898,
+      "url": "https://www.japaneselawtranslation.go.jp/",
+      "relevance": "Japanese Federal Civil Code 1898 Family Law portion applicable uniformly across Hokkaido Prefecture."
+    },
+    {
+      "citation": "Ainu Indigenous Peoples Promotion Act 2019 (effective 24 May 2019)",
+      "title": "Ainu Indigenous Peoples Promotion Act",
+      "year": 2019,
+      "url": "https://www.cao.go.jp/",
+      "relevance": "Japanese Federal Act of 19 April 2019 effective 24 May 2019 — first Japanese federal Act formally recognising the Ainu as 'indigenous people of Japan' — historic departure from prior Japanese state non-recognition of indigenous-people frameworks."
+    },
+    {
+      "citation": "Ainu Cultural Promotion Act 1997 (repealed 2019)",
+      "title": "Ainu Cultural Promotion Act",
+      "year": 1997,
+      "url": "https://www.cao.go.jp/",
+      "relevance": "Japanese Federal Act of 1997 repealing the Hokkaido Former Aborigines Protection Act 1899 — intermediate Ainu-framework legislation 1997-2019."
+    },
+    {
+      "citation": "Hokkaido Former Aborigines Protection Act 1899 (repealed 1997)",
+      "title": "Hokkaido Former Aborigines Protection Act",
+      "year": 1899,
+      "url": "https://www.cao.go.jp/",
+      "relevance": "Japanese Federal Act of 1899 — systematic assimilation policies framework — repealed by Ainu Cultural Promotion Act 1997."
+    },
+    {
+      "citation": "Japanese Family Law Reform Act 2024 (joint parental authority post-divorce)",
+      "title": "Japanese Family Law Reform Act 2024",
+      "year": 2024,
+      "url": "https://www.moj.go.jp/",
+      "relevance": "Japanese Federal Act of 17 May 2024 reintroducing joint parental authority post-divorce — effective 2026 — applicable uniformly across Hokkaido Prefecture."
+    },
+    {
+      "citation": "Hague Convention 1980 — Japanese accession 24 January 2014",
+      "title": "Hague Convention 1980 — Japan",
+      "year": 2014,
+      "url": "https://www.hcch.net/",
+      "relevance": "Japanese Hague Convention 1980 accession 24 January 2014 effective 1 April 2014 — applicable uniformly across Hokkaido Prefecture."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Sapporo High Court",
+      "seat": "Sapporo",
+      "url": "https://www.courts.go.jp/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Hokkaido Prefecture."
+    },
+    {
+      "name": "Supreme Court of Japan",
+      "seat": "Tokyo",
+      "url": "https://www.courts.go.jp/",
+      "role": "Final appellate court for civil and criminal matters from Hokkaido Prefecture."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Japanese Ministry of Health, Labour and Welfare (厚生労働省)",
+      "url": "https://www.mhlw.go.jp/",
+      "role": "Japanese Federal professional regulatory framework applicable in Hokkaido Prefecture."
+    }
+  ],
+  "anonymisation_convention": "Hokkaido family-court decisions are anonymised per Japanese court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1599,
+      "title": "Matsumae Domain established",
+      "description": "Matsumae Domain established 1599 — Tokugawa-era southern-Hokkaido Wajin (ethnic Japanese) settlement framework 1599-1869."
+    },
+    {
+      "year": 1869,
+      "title": "Kaitakushi + Hokkaido annexation",
+      "description": "Meiji Japan Kaitakushi 開拓使 Hokkaido Development Commission established 1869 — beginning of formal Japanese incorporation of Aynu Mosir as Hokkaido 1869-1882."
+    },
+    {
+      "year": 1886,
+      "title": "Hokkaido Prefecture established",
+      "description": "Hokkaido Prefecture established 26 January 1886 — final administrative integration into Meiji prefecture framework."
+    },
+    {
+      "year": 1899,
+      "title": "Hokkaido Former Aborigines Protection Act",
+      "description": "Hokkaido Former Aborigines Protection Act 1899 — systematic Ainu assimilation framework 1899-1997."
+    },
+    {
+      "year": 1945,
+      "title": "Soviet occupation of Northern Territories",
+      "description": "Soviet Union occupied Kunashir + Iturup + Shikotan + Habomai islands 28 August - 5 September 1945 — beginning of unresolved Russo-Japanese Northern Territories dispute."
+    },
+    {
+      "year": 1997,
+      "title": "Ainu Cultural Promotion Act + repeal of 1899 Act",
+      "description": "Japanese Federal Ainu Cultural Promotion Act 1997 repealing Hokkaido Former Aborigines Protection Act 1899 — intermediate Ainu-framework legislation."
+    },
+    {
+      "year": 2014,
+      "title": "Japan Hague Convention 1980 accession",
+      "description": "Japanese Hague Convention 1980 accession 24 January 2014 effective 1 April 2014."
+    },
+    {
+      "year": 2019,
+      "title": "Ainu Indigenous Peoples Promotion Act",
+      "description": "Japanese Federal Ainu Indigenous Peoples Promotion Act 2019 effective 24 May 2019 — first Japanese federal Act formally recognising Ainu as indigenous people of Japan."
+    },
+    {
+      "year": 2024,
+      "title": "Joint parental authority reform",
+      "description": "Japanese Family Law Reform Act 2024 reintroducing joint parental authority post-divorce effective 2026."
+    }
+  ],
+  "structural_findings": [
+    "Hokkaido operates a federal Japanese civil-law prefecture framework — places Hokkaido in the Northern Japanese prefecture cluster.",
+    "Only Japanese prefecture with formally-recognised indigenous people framework (Ainu Indigenous Peoples Promotion Act 2019) is structurally distinctive globally — first Japanese federal Act formally recognising indigenous people of Japan.",
+    "Largest Japanese prefecture by area (~83,424 km² / ~22% of Japanese land area) is structurally distinctive within Japanese prefecture cluster — more than twice the area of second-largest Iwate.",
+    "One of most recently incorporated Japanese prefectures (Meiji Kaitakushi 1869-1882) is structurally distinctive within Japanese prefecture cluster — distinct from rest-of-Honshu/Kyushu/Shikoku Japanese pre-Meiji feudal-domain framework.",
+    "Central jurisdiction for Russo-Japanese Northern Territories dispute (Kunashir + Iturup + Shikotan + Habomai 4-island dispute) is structurally distinctive globally — no Russo-Japanese WWII peace treaty concluded as of 2026.",
+    "Ainu-indigenous-framework + Hokkaido Former Aborigines Protection Act 1899 historical framework + 1997 repeal + 2019 indigenous recognition trajectory is structurally distinctive globally.",
+    "Matsumae Domain 1599-1869 Tokugawa-era southern-Hokkaido Wajin framework is structurally distinctive globally.",
+    "Japanese Hague-Convention-1980-accession-2014 status applies — late accession framework."
+  ],
+  "references": [
+    "jurisdiction:japan",
+    "jurisdiction:okinawa",
+    "jurisdiction:russia",
+    "jurisdiction:china",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Hokkaido Prefectural Government",
+      "url": "https://www.pref.hokkaido.lg.jp/",
+      "publisher": "Hokkaido Prefecture",
+      "language": "ja"
+    },
+    {
+      "title": "Japanese Cabinet Office Ainu Policy",
+      "url": "https://www.cao.go.jp/ainu/",
+      "publisher": "Japanese Government",
+      "language": "ja"
+    }
+  ],
+  "editorial_notes": [
+    "Hokkaido Prefecture jurisdiction sidecar — civil-law Northern Japanese Japanese-prefecture (Japanese Civil Code 1898 + Japanese Family Law Reform Act 2024 + Ainu Indigenous Peoples Promotion Act 2019 + Ainu Cultural Promotion Act 1997 + Hokkaido Former Aborigines Protection Act 1899 + Matsumae Domain 1599-1869 + Kaitakushi 1869-1882 + Hokkaido Prefecture 1886 + Russo-Japanese Northern Territories dispute + Japan Hague-1980-2014). Only Japanese prefecture with formally-recognised indigenous people framework globally + largest Japanese prefecture by area + one of most recently incorporated Japanese prefectures + central jurisdiction for Russo-Japanese Northern Territories dispute + Ainu-indigenous-framework historical trajectory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northern-Japanese + civil-law + Japanese-prefecture cluster + Ainu-Indigenous-Peoples-Promotion-Act-2019-globally-distinctive + Kaitakushi-1869-1882-Meiji-incorporation + largest-Japanese-prefecture-by-area + Russo-Japanese-Northern-Territories-dispute + Matsumae-Domain-1599-1869 + Hokkaido-Former-Aborigines-Protection-Act-1899 + Japan-Hague-1980-2014 clusters within the corpus."
+  ]
+}

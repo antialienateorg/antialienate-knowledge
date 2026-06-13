@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "ecuador",
+  "name": "Ecuador (Republic of Ecuador / República del Ecuador)",
+  "jurisdiction_code": "EC",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Ecuador is an Andean South American civil-law republic whose family-law framework operates under the Civil Code (Código Civil), supplemented by the Children and Adolescents Code 2003 (Código de la Niñez y Adolescencia, Law 100). Parental authority (patria potestad) and child custody are governed by Civil Code arts. 283-307 and Children and Adolescents Code Title V. The National Court of Justice (Corte Nacional de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Corte Constitucional) operates separate constitutional review. The 2008 Constitution recognises indigenous jurisdictional pluralism under art. 171. Family-law matters are heard at first instance in the Family, Women, Children and Adolescents Courts (Unidades Judiciales de Familia, Mujer, Niñez y Adolescencia). Psychology profession is regulated through the Ministerio de Salud Pública licensing framework with the Federación Ecuatoriana de Psicólogos operating professional standards. Ecuador is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. 11. Ecuador acceded to the Hague Convention 1980 effective 1 April 1992 — earliest Latin American accession in the corpus.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code arts. 283-307",
+      "title": "Civil Code — Parental authority and custody",
+      "year": 1860,
+      "url": "https://www.cortenacional.gob.ec/",
+      "relevance": "Federal Civil Code based on Bello Civil Code (Chilean origin) with subsequent modernisation. Arts. 283-307 govern patria potestad and child custody."
+    },
+    {
+      "citation": "Children and Adolescents Code 2003 (Law 100)",
+      "title": "Children and Adolescents Code",
+      "year": 2003,
+      "url": "https://www.cortenacional.gob.ec/",
+      "relevance": "Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations."
+    },
+    {
+      "citation": "Constitution 2008 art. 171 — Indigenous Jurisdiction",
+      "title": "Constitution — Indigenous Jurisdiction",
+      "year": 2008,
+      "url": "https://www.corteconstitucional.gob.ec/",
+      "relevance": "Constitutional recognition of indigenous jurisdictional pluralism."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "National Court of Justice (Corte Nacional de Justicia)",
+      "seat": "Quito",
+      "url": "https://www.cortenacional.gob.ec/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Corte Constitucional)",
+      "seat": "Quito",
+      "url": "https://www.corteconstitucional.gob.ec/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministerio de Salud Pública, Ecuador",
+      "url": "https://www.salud.gob.ec/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Federación Ecuatoriana de Psicólogos",
+      "url": "https://www.fep.org.ec/",
+      "role": "Peak professional federation for psychologists in Ecuador."
+    }
+  ],
+  "anonymisation_convention": "Ecuadorian family-court decisions are anonymised per National Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1860,
+      "title": "Civil Code (Bello-influenced)",
+      "description": "Federal Civil Code enacted based on Bello Civil Code (Chilean origin) with subsequent modernisation."
+    },
+    {
+      "year": 1992,
+      "title": "Hague Convention 1980 accession",
+      "description": "Ecuador acceded to the Hague Convention 1980 effective 1 April 1992 — earliest Latin American accession in the corpus."
+    },
+    {
+      "year": 2003,
+      "title": "Children and Adolescents Code (Law 100)",
+      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+    },
+    {
+      "year": 2008,
+      "title": "Constitution + Indigenous Jurisdiction recognition",
+      "description": "Constitution adopted recognising indigenous jurisdictional pluralism (art. 171)."
+    }
+  ],
+  "structural_findings": [
+    "Ecuador operates a Spanish-civil-law family-law framework drawing on Bello Civil Code (Chilean origin) heritage — places Ecuador in the Andean South American civil-law cluster with Peru, Bolivia, Colombia + Bello-Civil-Code-derivative sub-cluster.",
+    "Hague Convention 1980 accession 1992 places Ecuador as the earliest Latin American Hague accession within the corpus.",
+    "Constitution 2008 indigenous jurisdiction recognition aligns Ecuador with Bolivia within the indigenous-jurisdictional-pluralism cluster."
+  ],
+  "references": [
+    "jurisdiction:peru",
+    "jurisdiction:bolivia",
+    "jurisdiction:colombia",
+    "jurisdiction:chile",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "National Court of Justice",
+      "url": "https://www.cortenacional.gob.ec/",
+      "publisher": "National Court",
+      "language": "es"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.corteconstitucional.gob.ec/",
+      "publisher": "Constitutional Court",
+      "language": "es"
+    },
+    {
+      "title": "Federación Ecuatoriana de Psicólogos",
+      "url": "https://www.fep.org.ec/",
+      "publisher": "FEP",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Ecuador jurisdiction sidecar — civil-law Andean South America (Civil Code Bello-derivative + Children and Adolescents Code 2003 + Constitution 2008 indigenous jurisdiction + Hague Convention 1980 accession 1992 — earliest Latin American).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Andean + civil-law + Bello-Civil-Code-derivative + indigenous-jurisdiction-recognition + earliest-Latin-American-Hague Convention clusters within the corpus."
+  ]
+}

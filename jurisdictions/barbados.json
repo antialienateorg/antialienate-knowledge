@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "id": "barbados",
+  "name": "Barbados",
+  "jurisdiction_code": "BB",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Barbados is a Caribbean common-law republic (republic since 30 November 2021) whose family-law framework operates under the Family Law Act 1981 (CAP 214), the Child Care Board Act, the Maintenance Act, and the Minors Act. Parental responsibility and child custody are governed by Family Law Act Part V. The Court of Appeal of Barbados is the apex domestic court for civil and criminal matters; the Caribbean Court of Justice (CCJ) is the final appellate court — Barbados is among the founding members of the CCJ's appellate jurisdiction (transferring from JCPC in 2005). Family-law matters are heard at first instance in the Magistrates' Family Court and Supreme Court (Family Division). Psychology profession is regulated through the Paramedical Professions Council under the Ministry of Health and Wellness. Barbados is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Family Law Act s. 5. Barbados is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law Act 1981 (CAP 214)",
+      "title": "Family Law Act",
+      "year": 1981,
+      "url": "https://www.lawcourts.gov.bb/",
+      "relevance": "Federal Family Law Act codifying welfare-of-the-child principle (s. 5), marriage, parental responsibility, custody, and matrimonial property."
+    },
+    {
+      "citation": "Minors Act CAP 215",
+      "title": "Minors Act",
+      "year": 1971,
+      "url": "https://www.lawcourts.gov.bb/",
+      "relevance": "Federal statute on minors' rights and welfare."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Barbados",
+      "seat": "Bridgetown",
+      "url": "https://www.lawcourts.gov.bb/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Caribbean Court of Justice (CCJ)",
+      "seat": "Port of Spain",
+      "url": "https://www.ccj.org/",
+      "role": "Final appellate court for civil and criminal matters from Barbados (founding member 2005)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Paramedical Professions Council, Barbados",
+      "url": "https://www.health.gov.bb/",
+      "role": "Federal regulator of paramedical professionals including clinical psychology under Ministry of Health and Wellness."
+    }
+  ],
+  "anonymisation_convention": "Barbadian family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1966,
+      "title": "Independence",
+      "description": "Barbados achieved independence from the United Kingdom; initially retained Judicial Committee of the Privy Council as final appellate court."
+    },
+    {
+      "year": 1971,
+      "title": "Minors Act",
+      "description": "Federal statute on minors' rights and welfare enacted."
+    },
+    {
+      "year": 1981,
+      "title": "Family Law Act",
+      "description": "Federal Family Law Act enacted codifying comprehensive family-law framework."
+    },
+    {
+      "year": 2005,
+      "title": "CCJ appellate jurisdiction transfer",
+      "description": "Barbados transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice — founding member of CCJ appellate jurisdiction."
+    },
+    {
+      "year": 2021,
+      "title": "Republic transition",
+      "description": "Barbados became a republic effective 30 November 2021, removing Queen as Head of State."
+    }
+  ],
+  "structural_findings": [
+    "Barbados operates a common-law framework with comprehensive Family Law Act 1981 codification — places Barbados in the Caribbean common-law cluster.",
+    "CCJ-final-appellate-jurisdiction transfer (2005) is structurally distinctive — Barbados is among the few corpus jurisdictions with regional supranational appellate jurisdiction. Distinct from JCPC-retention Jamaica and Trinidad and Tobago within the Caribbean cluster.",
+    "Republic transition 2021 is structurally distinctive — only the second Caribbean former-British-monarchy to transition to republic (after Trinidad and Tobago, Guyana, Dominica)."
+  ],
+  "references": [
+    "jurisdiction:jamaica",
+    "jurisdiction:trinidad-and-tobago",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judicial System of Barbados",
+      "url": "https://www.lawcourts.gov.bb/",
+      "publisher": "Supreme Court",
+      "language": "en"
+    },
+    {
+      "title": "Caribbean Court of Justice",
+      "url": "https://www.ccj.org/",
+      "publisher": "CCJ",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health and Wellness",
+      "url": "https://www.health.gov.bb/",
+      "publisher": "Ministry of Health and Wellness",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Barbados jurisdiction sidecar — common-law Caribbean republic (Family Law Act 1981 + CCJ final-appellate from 2005 + republic transition 2021 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + common-law + CCJ-final-appellate-distinctive cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

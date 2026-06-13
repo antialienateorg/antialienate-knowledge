@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "rome-statute-icc",
+  "name": "Rome Statute of the International Criminal Court 1998 (ICC)",
+  "jurisdiction_code": "RST",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Rome Statute of the International Criminal Court 1998 (popularly the Rome Statute / formally Rome Statute of the International Criminal Court) is a global supranational meta-framework international-criminal-court binding-treaty instrument adopted by the UN Diplomatic Conference of Plenipotentiaries — structurally distinctive globally as the only modern universal multilateral binding-treaty framework establishing a permanent International Criminal Court with formal jurisdiction over war crimes + crimes against humanity + genocide + aggression (Rome Statute adopted 17 July 1998 by UN Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court in Rome + effective 1 July 2002 — formal universal multilateral binding-treaty framework establishing permanent International Criminal Court ICC with formal complementarity-to-national-jurisdiction framework, distinct from rest-of-modern-international-criminal-court frameworks which operate as ad hoc tribunals like ICTY + ICTR + Special Tribunals, structurally distinctive globally as the only modern universal binding-treaty framework establishing permanent international criminal court), as the central jurisdiction of the formal Article 8 war-crimes-and-children framework (Rome Statute Article 8(2)(b)(xxvi) framework providing 'Conscripting or enlisting children under the age of fifteen years into the national armed forces or using them to participate actively in hostilities' as a war crime + Article 8(2)(e)(vii) framework providing same for non-international armed conflicts + Article 7(1)(g) framework providing 'sexual slavery, enforced prostitution, forced pregnancy, enforced sterilization or any other form of sexual violence of comparable gravity' as a crime against humanity — formal foundational war-crimes-and-children + crimes-against-humanity-and-sexual-violence framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal war-crimes-and-children framework, with substantial relevance to PA framework via formal cross-border-child-soldiers framework + cross-border-child-victims-of-armed-conflict framework), as the central jurisdiction of the formal Article 17 complementarity framework (Rome Statute Article 17 framework providing complementarity-to-national-jurisdiction framework where ICC only has jurisdiction when state is 'unwilling or unable genuinely to carry out the investigation or prosecution' — formal foundational complementarity framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal complementarity-to-national-jurisdiction framework), and as the central jurisdiction of the formal Lubanga 2012 + Bemba 2016 + Ongwen 2021 ICC case-law framework on child-victims-of-armed-conflict (ICC Prosecutor v Thomas Lubanga Dyilo Judgment 14 March 2012 + Prosecutor v Jean-Pierre Bemba Gombo Judgment 21 March 2016 + Prosecutor v Dominic Ongwen Judgment 4 February 2021 — formal foundational ICC case-law framework on child-victims-of-armed-conflict, structurally distinctive globally as the most-developed modern international-criminal-court case-law framework on child-victims-of-armed-conflict framework). The Rome Statute is binding upon 124 state parties as of 2026 — substantial state-party coverage framework with significant non-state-party framework including United States + Russia + China + India + Israel + others. The Statute is silent on 'parental alienation' as a statutory label, though formal Article 7(1)(g) crimes-against-humanity-and-sexual-violence + Article 8(2)(b)(xxvi) + Article 8(2)(e)(vii) war-crimes-and-children frameworks operate substantial intersection with parental-alienation framework via formal cross-border-child-soldiers framework + cross-border-child-victims-of-armed-conflict framework. The International Criminal Court ICC is the formal judicial body framework; the Assembly of States Parties ASP is the formal governing framework body. The Rome Statute is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Rome Statute of the International Criminal Court 1998",
+      "title": "Rome Statute",
+      "year": 2002,
+      "url": "https://www.icc-cpi.int/",
+      "relevance": "Rome Statute of the International Criminal Court adopted 17 July 1998 by UN Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court in Rome + effective 1 July 2002 — formal universal multilateral binding-treaty framework establishing permanent International Criminal Court."
+    },
+    {
+      "citation": "Rome Statute Article 8 (War Crimes Framework)",
+      "title": "Rome Statute Article 8",
+      "year": 2002,
+      "url": "https://www.icc-cpi.int/",
+      "relevance": "Rome Statute Article 8 framework on war crimes including Article 8(2)(b)(xxvi) + 8(2)(e)(vii) on conscripting children under 15 — formal foundational war-crimes-and-children framework."
+    },
+    {
+      "citation": "Rome Statute Article 7 (Crimes Against Humanity Framework)",
+      "title": "Rome Statute Article 7",
+      "year": 2002,
+      "url": "https://www.icc-cpi.int/",
+      "relevance": "Rome Statute Article 7 framework on crimes against humanity including Article 7(1)(g) on sexual slavery + enforced prostitution + forced pregnancy + enforced sterilization — formal foundational crimes-against-humanity-and-sexual-violence framework."
+    },
+    {
+      "citation": "Rome Statute Article 17 (Complementarity Framework)",
+      "title": "Rome Statute Article 17",
+      "year": 2002,
+      "url": "https://www.icc-cpi.int/",
+      "relevance": "Rome Statute Article 17 framework on complementarity-to-national-jurisdiction — formal foundational complementarity framework."
+    },
+    {
+      "citation": "ICC Lubanga 2012 + Bemba 2016 + Ongwen 2021 Case-Law Framework",
+      "title": "ICC Lubanga + Bemba + Ongwen Case-Law Framework",
+      "year": 2021,
+      "url": "https://www.icc-cpi.int/",
+      "relevance": "ICC Prosecutor v Thomas Lubanga Dyilo Judgment 14 March 2012 + Prosecutor v Jean-Pierre Bemba Gombo Judgment 21 March 2016 + Prosecutor v Dominic Ongwen Judgment 4 February 2021 — formal ICC case-law framework on child-victims-of-armed-conflict."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "International Criminal Court (ICC)",
+      "seat": "The Hague",
+      "url": "https://www.icc-cpi.int/",
+      "role": "Apex judicial body framework for Rome Statute."
+    },
+    {
+      "name": "Assembly of States Parties (ASP)",
+      "seat": "The Hague",
+      "url": "https://www.icc-cpi.int/",
+      "role": "Formal governing framework body for Rome Statute."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ICC Registry",
+      "url": "https://www.icc-cpi.int/",
+      "role": "Rome Statute implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Rome Statute-related individual communications are anonymised per ICC practice using initials where appropriate.",
+  "key_developments": [
+    {
+      "year": 1945,
+      "title": "Nuremberg Trials + Tokyo Tribunal",
+      "description": "Nuremberg Trials 1945-1946 + Tokyo Tribunal 1946-1948 — predecessor frameworks to permanent international criminal court framework."
+    },
+    {
+      "year": 1993,
+      "title": "ICTY established",
+      "description": "International Criminal Tribunal for the former Yugoslavia ICTY established 25 May 1993 by UN Security Council Resolution 827 — predecessor framework to ICC."
+    },
+    {
+      "year": 1994,
+      "title": "ICTR established",
+      "description": "International Criminal Tribunal for Rwanda ICTR established 8 November 1994 by UN Security Council Resolution 955 — predecessor framework to ICC."
+    },
+    {
+      "year": 1998,
+      "title": "Rome Statute adopted",
+      "description": "Rome Statute of the International Criminal Court adopted 17 July 1998 by UN Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court in Rome — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 2002,
+      "title": "Rome Statute enters force + ICC established",
+      "description": "Rome Statute entered force 1 July 2002 + International Criminal Court ICC established 1 July 2002 — formal permanent international criminal court framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "Lubanga Judgment",
+      "description": "ICC Prosecutor v Thomas Lubanga Dyilo Judgment 14 March 2012 — first ICC conviction + landmark conscripting-children-under-15 framework case-law."
+    },
+    {
+      "year": 2023,
+      "title": "Putin Arrest Warrant",
+      "description": "ICC Putin Arrest Warrant issued 17 March 2023 — first ICC arrest warrant against permanent member of UN Security Council, charges including formal cross-border-deportation-of-Ukrainian-children-to-Russia framework."
+    }
+  ],
+  "structural_findings": [
+    "Rome Statute operates a supranational universal multilateral binding-treaty framework — places Rome Statute in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework establishing a permanent International Criminal Court with formal jurisdiction over war crimes + crimes against humanity + genocide + aggression is structurally distinctive globally — only modern universal binding-treaty framework establishing permanent international criminal court.",
+    "Central jurisdiction of formal Article 8 war-crimes-and-children framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal war-crimes-and-children framework with substantial relevance to PA framework via formal cross-border-child-soldiers framework + cross-border-child-victims-of-armed-conflict framework.",
+    "Central jurisdiction of formal Article 17 complementarity framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal complementarity-to-national-jurisdiction framework.",
+    "Central jurisdiction of formal Lubanga 2012 + Bemba 2016 + Ongwen 2021 ICC case-law framework on child-victims-of-armed-conflict is structurally distinctive globally — most-developed modern international-criminal-court case-law framework on child-victims-of-armed-conflict framework.",
+    "124 state party ratification framework with significant non-state-party framework including United States + Russia + China + India + Israel is structurally distinctive globally — substantial state-party coverage framework with structural North-South + Permanent-UNSC-Members non-participation.",
+    "1945 Nuremberg + 1993 ICTY + 1994 ICTR + 1998 Rome Statute + 2002 entry into force + 2012 Lubanga + 2016 Bemba + 2021 Ongwen + 2023 Putin Arrest Warrant international-criminal-court-framework-development sequence is structurally distinctive globally.",
+    "Article 8 war-crimes-and-children + Article 7 crimes-against-humanity-and-sexual-violence + Article 17 complementarity formal triad framework with formal cross-border-child-soldiers + cross-border-deportation-of-children PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:pa-as-child-abuse"
+  ],
+  "sources": [
+    {
+      "title": "International Criminal Court (ICC)",
+      "url": "https://www.icc-cpi.int/",
+      "publisher": "ICC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Rome Statute jurisdiction sidecar — supranational global international-criminal-court universal multilateral binding-treaty meta-framework (Rome Statute 1998/2002 + Article 7 Crimes Against Humanity Framework + Article 8 War Crimes Framework + Article 17 Complementarity Framework + ICC Lubanga 2012 + Bemba 2016 + Ongwen 2021 + Putin Arrest Warrant 2023 + Assembly of States Parties ASP + Nuremberg 1945-1946 + ICTY 1993 + ICTR 1994). Only modern universal multilateral binding-treaty framework establishing a permanent International Criminal Court with formal jurisdiction over war crimes + crimes against humanity + genocide + aggression globally + central jurisdiction of formal Article 8 war-crimes-and-children framework + central jurisdiction of formal Article 17 complementarity framework + central jurisdiction of formal Lubanga 2012 + Bemba 2016 + Ongwen 2021 ICC case-law framework on child-victims-of-armed-conflict + 124 state party ratification framework + 1945 Nuremberg + 1993 ICTY + 1994 ICTR + 1998 Rome Statute + 2002 entry into force + 2012 Lubanga + 2016 Bemba + 2021 Ongwen + 2023 Putin Arrest Warrant international-criminal-court-framework-development sequence + Article 8 war-crimes-and-children + Article 7 crimes-against-humanity-and-sexual-violence + Article 17 complementarity formal triad framework with formal cross-border-child-soldiers + cross-border-deportation-of-children PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 8(2)(b)(xxvi) + Article 8(2)(e)(vii) war-crimes-and-children + Article 7(1)(g) crimes-against-humanity-and-sexual-violence frameworks operate substantial intersection with parental-alienation framework via formal cross-border-child-soldiers framework + cross-border-child-victims-of-armed-conflict framework + cross-border-deportation-of-children-to-foreign-state framework (formally invoked in 2023 ICC Putin Arrest Warrant).",
+    "Joins global + supranational + universal-multilateral-international-criminal-court-binding-treaty cluster + Rome-Statute-only-universal-permanent-international-criminal-court-binding-treaty-globally-distinctive + Article-8-War-Crimes-and-Children + Article-7-Crimes-Against-Humanity-and-Sexual-Violence + Article-17-Complementarity + ICC-Lubanga-2012 + ICC-Bemba-2016 + ICC-Ongwen-2021 + ICC-Putin-Arrest-Warrant-2023 + 124-state-party-ratification + Permanent-UNSC-Members-non-participation + Nuremberg-1945-46 + ICTY-1993 + ICTR-1994 + cross-border-child-soldiers-PA-intersection + cross-border-deportation-of-children-to-foreign-state-PA-intersection clusters within the corpus."
+  ]
+}

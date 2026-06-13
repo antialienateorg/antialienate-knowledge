@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "id": "nigeria",
+  "name": "Nigeria",
+  "jurisdiction_code": "NG",
+  "legal_system": "mixed",
+  "language": ["en", "ha", "ig", "yo"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Nigeria is a federal mixed common-law / customary-law / Sharia jurisdiction. The federal Child Rights Act 2003 has been adopted by 27 of 36 states with state-level variation; remaining northern states operate under customary or Sharia frameworks. The Matrimonial Causes Act (Cap. M7 LFN 2004) provides the federal divorce-side framework. The Nigeria Association of Clinical Psychologists (NACP) and the Nigeria Psychological Association (NPA) are professional bodies — institutionally silent on PA. The critique register is carried by Project Alert on Violence Against Women and Women's Aid Collective (WACOL). Constitution of Nigeria 1999 (as amended) art. 17(3)(f) and art. 33 provide the constitutional backdrop. No named-on-record PA clinical expert located.",
+  "pa_recognition_status": {
+    "statutory": "indirect-hook",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Federal Republic of Nigeria 1999 (as amended)",
+      "title": "Nigerian Constitution 1999",
+      "year": 1999,
+      "url": "https://www.constituteproject.org/constitution/Nigeria_2011",
+      "relevance": "Federal constitutional framework. Art. 17 directive principles of state policy include protection of children; art. 33-46 fundamental human rights. Substantive constitutional backdrop against which family-law statutes operate."
+    },
+    {
+      "citation": "Child Rights Act 2003 (federal)",
+      "title": "Child Rights Act 2003 — federal substantive children's-rights statute",
+      "year": 2003,
+      "url": "https://lawsofnigeria.placng.org/laws/CRA.pdf",
+      "relevance": "Federal substantive children's-rights statute. s.1 best-interests-of-the-child paramountcy. Adopted by 27 of 36 states as of generation date; remaining 9 northern states (Bauchi, Borno, Adamawa, Gombe, Jigawa, Kano, Katsina, Yobe, Zamfara) have not domesticated the federal Act and operate under customary or Sharia frameworks. STATE-LEVEL VARIATION IS THE STRUCTURALLY DEFINING NIGERIAN FEATURE."
+    },
+    {
+      "citation": "Matrimonial Causes Act (Cap. M7 LFN 2004)",
+      "title": "Matrimonial Causes Act — federal divorce framework",
+      "year": 1970,
+      "url": "https://lawsofnigeria.placng.org/",
+      "relevance": "Federal divorce statute. s.71 best-interests-of-the-child standard for custody disputes. Applies to statutory marriages registered under the Marriage Act; customary and Islamic marriages operate under separate frameworks."
+    },
+    {
+      "citation": "Marriage Act (Cap. M6 LFN 2004)",
+      "title": "Marriage Act — statutory marriage registration",
+      "year": 1914,
+      "url": "https://lawsofnigeria.placng.org/",
+      "relevance": "Federal statutory marriage statute. Establishes statutory marriage as distinct from customary and Islamic marriage. Custody disputes from statutory marriages litigated under Matrimonial Causes Act framework."
+    },
+    {
+      "citation": "Violence Against Persons (Prohibition) Act 2015 (VAPP Act)",
+      "title": "VAPP Act 2015 — substantive DV-protection statute",
+      "year": 2015,
+      "url": "https://lawsofnigeria.placng.org/",
+      "relevance": "Federal substantive DV-protection statute (initially applied in FCT Abuja; subsequently adopted by 34 states as of generation date). Re-frames evidential backdrop for PA-adjacent fact-patterns where DV/PA dynamics intersect."
+    },
+    {
+      "citation": "Sharia Penal Codes (12 Northern states)",
+      "title": "Sharia Penal Codes — Northern Nigerian states (2000-2001)",
+      "year": 2000,
+      "url": "https://www.constituteproject.org/",
+      "relevance": "12 Northern Nigerian states (Zamfara 1999 onwards) adopted Sharia penal codes operating parallel to federal criminal/civil law. Family-law disputes in Muslim families in these states operate under Sharia jurisdiction including hadhana custody analysis."
+    },
+    {
+      "citation": "Allied Health Professionals Act 1988 (Cap. A5 LFN)",
+      "title": "Allied Health Professionals Act 1988 — psychology regulation framework",
+      "year": 1988,
+      "url": "https://lawsofnigeria.placng.org/",
+      "relevance": "Federal allied health professions framework. Nigerian psychology regulation is fragmented — NACP and NPA operate as voluntary professional bodies without a unified statutory registration scheme comparable to HPCSA SA or CPRB Kenya. Regulatory architecture weaker than SA + Kenya."
+    },
+    {
+      "citation": "Medical and Dental Practitioners Act (Cap. M8 LFN)",
+      "title": "Medical and Dental Practitioners Act — psychiatrist statutory registration",
+      "year": 1988,
+      "url": "https://lawsofnigeria.placng.org/",
+      "relevance": "Federal statutory framework for medical practitioners including psychiatrists. Medical and Dental Council of Nigeria operates under this Act. No PA-specific position."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Nigeria",
+      "url": "https://supremecourt.gov.ng/",
+      "key_decisions": [
+        {
+          "caption": "Supreme Court of Nigeria — federal apex court. No PA-construct-specific apex decision identified. Custody disputes under Matrimonial Causes Act s.71 best-interests standard.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Court of Appeal of Nigeria",
+      "url": "https://courtofappeal.gov.ng/",
+      "key_decisions": [
+        {
+          "caption": "Court of Appeal — federal appellate court. Includes Sharia Court of Appeal jurisdiction for Sharia matters. No PA-specific federal appellate line identified.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Federal High Court / State High Courts",
+      "url": "https://www.lawsofnigeria.placng.org/",
+      "key_decisions": [
+        {
+          "caption": "Federal High Court (constitutional matters) + 36 State High Courts (family-law jurisdiction including matrimonial proceedings under Matrimonial Causes Act). Bulk of Nigerian PA-adjacent litigation occurs at state-court level.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Sharia Courts (12 Northern states)",
+      "url": "https://www.constituteproject.org/",
+      "key_decisions": [
+        {
+          "caption": "Sharia Courts in 12 Northern Nigerian states (Zamfara, Sokoto, Niger, Bauchi, Borno, Kebbi, Jigawa, Yobe, Kaduna, Gombe, Kano, Katsina) operate concurrent jurisdiction over Muslim family law including hadhana custody. Parallel jurisdiction structure produces operational PA-adjacent reasoning distinct from common-law welfare standard.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Customary Courts (various states)",
+      "url": "https://www.lawsofnigeria.placng.org/",
+      "key_decisions": [
+        {
+          "caption": "State-level Customary Courts apply customary law to family matters in customary marriages. PA-adjacent fact-patterns in customary marriages operate under tribal / ethnic customary norms distinct from statutory framework.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Nigeria Association of Clinical Psychologists (NACP)",
+      "url": "https://www.nacpng.org/",
+      "position_statement": "Professional association of clinical psychologists in Nigeria. NACP has issued NO PA-specific position statement. Institutional silence parallels HPCSA SA + CPRB Kenya + Egyptian Psychiatric Association regional pattern."
+    },
+    {
+      "name": "Nigerian Psychological Association (NPA)",
+      "url": "https://www.npabodja.com/",
+      "position_statement": "National voluntary professional association of psychologists. Operates alongside NACP. No PA-specific position statement."
+    },
+    {
+      "name": "Medical and Dental Council of Nigeria (MDCN)",
+      "url": "https://www.mdcn.gov.ng/",
+      "position_statement": "Statutory regulator for medical practitioners including psychiatrists under Medical and Dental Practitioners Act. No PA-specific position."
+    },
+    {
+      "name": "Project Alert on Violence Against Women",
+      "url": "https://www.projectalertnigeria.org/",
+      "position_statement": "Nigerian women's-rights organisation founded 1999. Engages family-court treatment of DV survivors. PA-construct critique is structural / DV-protective rather than published in clinical-academic form. LOAD-BEARING NIGERIAN CRITIQUE-CAMP INSTITUTIONAL ANCHOR alongside WACOL."
+    },
+    {
+      "name": "Women's Aid Collective (WACOL)",
+      "url": "https://wacolnigeria.org/",
+      "position_statement": "Nigerian women's-rights advocacy and legal-aid collective founded 1997 by Prof. Joy Ngozi Ezeilo. Engages family-court treatment of DV survivors and child-custody disputes intersecting with DV. LOAD-BEARING NIGERIAN CRITIQUE-CAMP INSTITUTIONAL ANCHOR alongside Project Alert."
+    },
+    {
+      "name": "National Council on Women's Affairs (NCWA) / Federal Ministry of Women Affairs and Social Development",
+      "url": "https://womenaffairs.gov.ng/",
+      "position_statement": "Federal ministry on women's affairs. Institutional engagement at policy level. No PA-construct-specific position."
+    },
+    {
+      "name": "Nigerian National Human Rights Commission (NHRC)",
+      "url": "https://nhrc.gov.ng/",
+      "position_statement": "Statutory federal human-rights commission. May engage PA-adjacent fact-patterns through children's-rights primacy framing. No PA-construct-specific position."
+    }
+  ],
+  "anonymisation_convention": "Nigerian Supreme Court and Court of Appeal published judgments typically name adult parties; minor children are referenced by initial. State High Court judgments follow varied conventions. Sharia Court proceedings follow Sharia-specific anonymisation practice. The Child Rights Act 2003 reporting restrictions for minors apply in adopting states.",
+  "key_developments": [
+    {
+      "year": 1914,
+      "description": "Marriage Act — federal statutory marriage statute.",
+      "url": "https://lawsofnigeria.placng.org/"
+    },
+    {
+      "year": 1970,
+      "description": "Matrimonial Causes Act — federal divorce framework + s.71 best-interests-of-the-child standard.",
+      "url": "https://lawsofnigeria.placng.org/"
+    },
+    {
+      "year": 1988,
+      "description": "Allied Health Professionals Act + Medical and Dental Practitioners Act — federal regulatory framework for health professions.",
+      "url": "https://lawsofnigeria.placng.org/"
+    },
+    {
+      "year": 1997,
+      "description": "Women's Aid Collective (WACOL) founded by Prof. Joy Ngozi Ezeilo. Institutional critique anchor.",
+      "url": "https://wacolnigeria.org/"
+    },
+    {
+      "year": 1999,
+      "description": "Constitution of the Federal Republic of Nigeria 1999 (as amended). Sharia Penal Code adoption begins in Zamfara state.",
+      "url": "https://www.constituteproject.org/constitution/Nigeria_2011"
+    },
+    {
+      "year": 1999,
+      "description": "Project Alert on Violence Against Women founded. Institutional critique anchor alongside WACOL.",
+      "url": "https://www.projectalertnigeria.org/"
+    },
+    {
+      "year": 2000,
+      "description": "Sharia Penal Codes adoption across 12 Northern Nigerian states (2000-2001).",
+      "url": "https://www.constituteproject.org/"
+    },
+    {
+      "year": 2003,
+      "description": "Child Rights Act 2003 — federal substantive children's-rights statute. State-by-state domestication subsequently.",
+      "url": "https://lawsofnigeria.placng.org/laws/CRA.pdf"
+    },
+    {
+      "year": 2015,
+      "description": "Violence Against Persons (Prohibition) Act 2015 (VAPP Act) — federal DV-protection framework.",
+      "url": "https://lawsofnigeria.placng.org/"
+    }
+  ],
+  "structural_findings": [
+    "STATE-LEVEL VARIATION IS THE STRUCTURALLY DEFINING NIGERIAN FEATURE: Federal Child Rights Act 2003 adopted by 27 of 36 states; remaining 9 northern states (Bauchi, Borno, Adamawa, Gombe, Jigawa, Kano, Katsina, Yobe, Zamfara) operate under customary or Sharia frameworks. PA-adjacent fact-patterns produce structurally divergent outcomes depending on state-jurisdiction adoption status.",
+    "TRIPLE-TRACK JURISDICTION ARCHITECTURE: Statutory law (Matrimonial Causes Act + Child Rights Act adopting states) + Customary Law (state-level customary courts) + Sharia (12 Northern states). Nigeria operates the most complex multi-track family-law architecture among v2 jurisdictions. Sharia courts hadhana custody analysis distinct from common-law welfare standard.",
+    "NO NAMED-ON-RECORD PA CLINICAL EXPERT LOCATED: Mirrors regional African pattern (Kenya, Egypt, Ghana). Nigerian surface is institutional and feminist-legal rather than clinical-practitioner-led.",
+    "CRITIQUE REGISTER PROJECT ALERT + WACOL: Two load-bearing Nigerian critique-camp anchors. Project Alert on Violence Against Women (founded 1999) + Women's Aid Collective WACOL (founded 1997, Prof. Joy Ngozi Ezeilo) carry the structural DV-protective frame. Structural counterparts to FIDA Kenya + Mosaic SA + Lawyers Collective India.",
+    "NACP + NPA INSTITUTIONAL SILENCE: Nigeria Association of Clinical Psychologists + Nigeria Psychological Association both institutionally silent on PA. Regulator-silence parallels HPCSA SA + CPRB Kenya + Egyptian Psychiatric Association regional pattern.",
+    "REGULATORY ARCHITECTURE WEAKER THAN REGIONAL PEERS: Nigerian psychology regulation is fragmented through NACP + NPA voluntary bodies without unified statutory registration scheme comparable to HPCSA SA or CPRB Kenya. Allied Health Professionals Act 1988 framework is structurally weaker than the SA Health Professions Act 56/1974 or Kenyan Counsellors and Psychologists Act 2014.",
+    "AFRICAN REGIONAL PATTERN: Nigeria surfaces only at institutional / feminist-legal collective level. Mirrors regional African pattern (Mosaic SA, FIDA Kenya, NCCM Egypt). African critique register uniformly women's-rights-organisation-led, not clinician-led — parallel to India pattern.",
+    "JOY NGOZI EZEILO INSTITUTIONAL FIGURE: WACOL founder (1997) + UN Special Rapporteur on Trafficking in Persons (2008-2014) + former Nigerian Minister of Women Affairs. Cross-jurisdictional institutional figure linking Nigerian critique anchor to UN human-rights system."
+  ],
+  "references": [
+    "practitioner:ng.nacp",
+    "practitioner:ng.project-alert",
+    "practitioner:ng.wacol",
+    "jurisdiction:south-africa",
+    "jurisdiction:kenya",
+    "jurisdiction:india"
+  ],
+  "sources": [
+    {
+      "title": "Laws of the Federation of Nigeria (placng.org)",
+      "url": "https://lawsofnigeria.placng.org/",
+      "publisher": "Policy and Legal Advocacy Centre (PLAC)",
+      "language": "en"
+    },
+    {
+      "title": "Supreme Court of Nigeria",
+      "url": "https://supremecourt.gov.ng/",
+      "publisher": "Supreme Court of Nigeria",
+      "language": "en"
+    },
+    {
+      "title": "Court of Appeal of Nigeria",
+      "url": "https://courtofappeal.gov.ng/",
+      "publisher": "Court of Appeal of Nigeria",
+      "language": "en"
+    },
+    {
+      "title": "Project Alert on Violence Against Women",
+      "url": "https://www.projectalertnigeria.org/",
+      "publisher": "Project Alert",
+      "language": "en"
+    },
+    {
+      "title": "Women's Aid Collective (WACOL)",
+      "url": "https://wacolnigeria.org/",
+      "publisher": "WACOL",
+      "language": "en"
+    },
+    {
+      "title": "Medical and Dental Council of Nigeria",
+      "url": "https://www.mdcn.gov.ng/",
+      "publisher": "MDCN",
+      "language": "en"
+    },
+    {
+      "title": "Federal Ministry of Women Affairs",
+      "url": "https://womenaffairs.gov.ng/",
+      "publisher": "Government of Nigeria",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: lawsofnigeria.placng.org for statutes; supremecourt.gov.ng for case-law; MDCN + NACP + NPA for regulatory; Project Alert + WACOL for institutional-critique anchors.",
+    "Nigeria treated as federal mixed common-law / customary / Sharia jurisdiction; triple-track architecture preserved in structural_findings[1].",
+    "27/36 state adoption of Child Rights Act 2003 as structurally defining Nigerian feature preserved in structural_findings[0].",
+    "Joy Ngozi Ezeilo institutional figure (WACOL founder + UN Special Rapporteur) cross-jurisdictional UN linkage preserved in structural_findings[7].",
+    "Regulatory architecture weaker than SA (HPCSA 4-category) + Kenya (CPRB statutory) preserved in structural_findings[5]; Allied Health Professionals Act 1988 + voluntary NACP/NPA noted.",
+    "Multilingual context: English official + Hausa + Igbo + Yoruba major languages preserved at language[]."
+  ]
+}

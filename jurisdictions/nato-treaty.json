@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0",
+  "id": "nato-treaty",
+  "name": "NATO Treaty 1949 (North Atlantic Treaty / Washington Treaty)",
+  "jurisdiction_code": "NAT",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The North Atlantic Treaty (NATO Treaty or Washington Treaty) is a regional supranational meta-framework foundational-NATO-treaty framework adopted by the 12 founding North Atlantic states in Washington — structurally distinctive globally as the only modern transatlantic regional supranational binding-treaty framework operating on formal collective-defence-only framework via Article 5 (NATO Treaty signed 4 April 1949 in Washington DC by Belgium + Canada + Denmark + France + Iceland + Italy + Luxembourg + Netherlands + Norway + Portugal + UK + US + effective 24 August 1949 — formal foundational NATO treaty framework establishing comprehensive NATO organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate on economic-integration frameworks, structurally distinctive globally as the only modern transatlantic regional supranational binding-treaty framework operating formal collective-defence-only framework via Article 5 framework + oldest modern collective-defence supranational binding-treaty framework + only modern regional supranational binding-treaty framework operating formal Article 5 collective-defence framework invoked once after September 11 attacks framework + only modern regional supranational binding-treaty framework operating formal Sweden + Finland 2023-2024 post-Russia-invasion-of-Ukraine accession framework), as the central jurisdiction of the formal Article 5 Collective Defence framework (NATO Treaty Article 5 framework providing 'an armed attack against one or more of them in Europe or North America shall be considered an attack against them all' + 'each of them, in exercise of the right of individual or collective self-defence recognised by Article 51 of the Charter of the United Nations, will assist the Party or Parties so attacked' — formal foundational Article 5 collective-defence framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Article 5 collective-defence framework with operational invocation framework via 12 September 2001 invocation after September 11 attacks framework + only modern regional supranational binding-treaty framework operating formal collective-defence-invocation framework), as the central jurisdiction of the formal NATO Membership Expansion framework (NATO expansion via Greece + Turkey 1952 + West Germany 1955 + Spain 1982 + Czech Republic + Hungary + Poland 1999 + Bulgaria + Estonia + Latvia + Lithuania + Romania + Slovakia + Slovenia 2004 + Albania + Croatia 2009 + Montenegro 2017 + North Macedonia 2020 + Finland 4 April 2023 + Sweden 7 March 2024 expanding NATO from 12 founding to 32 current members — formal foundational NATO expansion framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Sweden + Finland 2023-2024 post-Russia-invasion-of-Ukraine accession framework ending Sweden + Finland historic neutrality framework), and as the central jurisdiction of the formal NATO 2% GDP Defence Spending Pledge framework (NATO 2014 Wales Summit Defence Investment Pledge committing NATO members to 2% GDP defence spending by 2024 + NATO 2025 Hague Summit 5% GDP defence spending pledge by 2035 — formal foundational NATO defence-spending-pledge framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal defence-spending-pledge framework with operational monitoring framework). The NATO Treaty is binding upon 32 NATO member states as of 2026 — comprehensive transatlantic regional coverage framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal NATO framework operates limited intersection with parental-alienation framework via formal transatlantic-military-family-cross-border framework. The NATO North Atlantic Council + NATO Military Committee + NATO Secretary General + NATO Supreme Allied Commander Europe SACEUR are the formal NATO bodies; national-level apex courts operate as judicial bodies. The NATO Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "NATO Treaty 1949 (Washington Treaty)",
+      "title": "NATO Treaty",
+      "year": 1949,
+      "url": "https://www.nato.int/",
+      "relevance": "North Atlantic Treaty signed 4 April 1949 in Washington DC by 12 founding states + effective 24 August 1949 — formal foundational NATO treaty framework establishing comprehensive NATO organisation framework."
+    },
+    {
+      "citation": "NATO Treaty Article 5 (Collective Defence Framework)",
+      "title": "NATO Treaty Article 5",
+      "year": 1949,
+      "url": "https://www.nato.int/",
+      "relevance": "NATO Treaty Article 5 framework on collective-defence — formal foundational Article 5 collective-defence framework + invoked once 12 September 2001 after September 11 attacks framework."
+    },
+    {
+      "citation": "NATO Treaty Article 6 (Geographic Scope Framework)",
+      "title": "NATO Treaty Article 6",
+      "year": 1949,
+      "url": "https://www.nato.int/",
+      "relevance": "NATO Treaty Article 6 framework on geographic scope — formal foundational NATO geographic-scope framework limiting Article 5 framework to attacks in Europe + North America + North Atlantic + Mediterranean + on islands under jurisdiction framework."
+    },
+    {
+      "citation": "NATO Treaty Article 10 (Open Door Membership Framework)",
+      "title": "NATO Treaty Article 10",
+      "year": 1949,
+      "url": "https://www.nato.int/",
+      "relevance": "NATO Treaty Article 10 framework on open-door membership — formal foundational NATO membership-expansion framework."
+    },
+    {
+      "citation": "NATO 2014 Wales Summit Defence Investment Pledge",
+      "title": "NATO Wales Summit Defence Investment Pledge",
+      "year": 2014,
+      "url": "https://www.nato.int/",
+      "relevance": "NATO 2014 Wales Summit Defence Investment Pledge committing NATO members to 2% GDP defence spending by 2024 — formal foundational NATO defence-spending-pledge framework."
+    },
+    {
+      "citation": "NATO 2025 Hague Summit 5% GDP Defence Spending Pledge",
+      "title": "NATO Hague Summit 5% GDP Pledge",
+      "year": 2025,
+      "url": "https://www.nato.int/",
+      "relevance": "NATO 2025 Hague Summit 5% GDP defence spending pledge by 2035 — formal reinforced NATO defence-spending-pledge framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "NATO North Atlantic Council (NAC)",
+      "seat": "Brussels",
+      "url": "https://www.nato.int/cps/en/natohq/topics_49763.htm",
+      "role": "Formal supreme decision-making body for NATO."
+    },
+    {
+      "name": "NATO Military Committee",
+      "seat": "Brussels",
+      "url": "https://www.nato.int/",
+      "role": "Formal senior military body for NATO."
+    },
+    {
+      "name": "NATO Secretary General",
+      "seat": "Brussels",
+      "url": "https://www.nato.int/cps/en/natohq/who_is_who_49999.htm",
+      "role": "Formal administrative head body for NATO."
+    },
+    {
+      "name": "NATO Supreme Allied Commander Europe (SACEUR)",
+      "seat": "Mons (SHAPE)",
+      "url": "https://shape.nato.int/",
+      "role": "Formal senior NATO military commander body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "NATO International Staff",
+      "url": "https://www.nato.int/",
+      "role": "NATO Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "NATO-related communications operate via state-state framework via North Atlantic Council; individual communications not formally accepted under NATO framework.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "Treaty of Brussels",
+      "description": "Treaty of Brussels signed 17 March 1948 by Belgium + France + Luxembourg + Netherlands + UK — predecessor framework to NATO Treaty."
+    },
+    {
+      "year": 1949,
+      "title": "NATO Treaty signed",
+      "description": "North Atlantic Treaty signed 4 April 1949 in Washington DC by 12 founding states + effective 24 August 1949 — formal foundational NATO treaty framework operational."
+    },
+    {
+      "year": 1952,
+      "title": "Greece + Turkey join NATO",
+      "description": "Greece + Turkey joined NATO 18 February 1952 — formal first NATO expansion framework."
+    },
+    {
+      "year": 1955,
+      "title": "West Germany joins NATO + Warsaw Pact",
+      "description": "West Germany joined NATO 9 May 1955 + Warsaw Pact established 14 May 1955 in response — formal NATO expansion framework + Cold-War-bipolar framework operational."
+    },
+    {
+      "year": 1991,
+      "title": "Warsaw Pact dissolved",
+      "description": "Warsaw Pact dissolved 1 July 1991 — formal NATO post-Cold-War framework operational."
+    },
+    {
+      "year": 1999,
+      "title": "Czech Republic + Hungary + Poland join NATO + NATO bombing of Yugoslavia",
+      "description": "Czech Republic + Hungary + Poland joined NATO 12 March 1999 + NATO bombing of Yugoslavia 24 March - 10 June 1999 — formal NATO Eastern-expansion + first non-Article-5 military operation framework."
+    },
+    {
+      "year": 2001,
+      "title": "Article 5 invoked after September 11 attacks",
+      "description": "NATO Article 5 invoked 12 September 2001 after September 11 attacks against United States — formal first + only Article 5 invocation framework."
+    },
+    {
+      "year": 2004,
+      "title": "Big Bang NATO expansion to Baltic + Central Europe",
+      "description": "Bulgaria + Estonia + Latvia + Lithuania + Romania + Slovakia + Slovenia joined NATO 29 March 2004 — formal Big Bang NATO expansion framework."
+    },
+    {
+      "year": 2014,
+      "title": "NATO Wales Summit Defence Investment Pledge",
+      "description": "NATO Wales Summit 4-5 September 2014 Defence Investment Pledge committing NATO members to 2% GDP defence spending by 2024 — formal NATO defence-spending-pledge framework."
+    },
+    {
+      "year": 2022,
+      "title": "Russia invades Ukraine + Finland + Sweden apply for NATO",
+      "description": "Russia invades Ukraine 24 February 2022 + Finland + Sweden applied for NATO membership 18 May 2022 ending historic neutrality framework — formal NATO 2022-Russia-invasion-of-Ukraine response framework."
+    },
+    {
+      "year": 2023,
+      "title": "Finland joins NATO",
+      "description": "Finland joined NATO 4 April 2023 ending Finland historic neutrality — formal NATO Finland-accession framework."
+    },
+    {
+      "year": 2024,
+      "title": "Sweden joins NATO",
+      "description": "Sweden joined NATO 7 March 2024 ending Sweden historic neutrality framework — formal NATO Sweden-accession framework operating 32-NATO-member framework."
+    },
+    {
+      "year": 2025,
+      "title": "NATO Hague Summit 5% GDP Pledge + Trump Round 2 tensions",
+      "description": "NATO 2025 Hague Summit 24-26 June 2025 5% GDP defence spending pledge by 2035 + Trump Round 2 NATO tensions framework — formal reinforced NATO defence-spending-pledge framework + Trump-NATO-tensions framework."
+    }
+  ],
+  "structural_findings": [
+    "NATO Treaty operates a regional supranational binding-treaty framework — places NATO Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern transatlantic regional supranational binding-treaty framework operating on formal collective-defence-only framework via Article 5 framework is structurally distinctive globally — oldest modern collective-defence supranational binding-treaty framework + only modern regional supranational binding-treaty framework operating formal Article 5 collective-defence framework invoked once after September 11 attacks framework + only modern regional supranational binding-treaty framework operating formal Sweden + Finland 2023-2024 post-Russia-invasion-of-Ukraine accession framework.",
+    "Central jurisdiction of formal Article 5 Collective Defence framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Article 5 collective-defence framework with operational invocation framework via 12 September 2001 invocation after September 11 attacks framework + only modern regional supranational binding-treaty framework operating formal collective-defence-invocation framework.",
+    "Central jurisdiction of formal NATO Membership Expansion framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Sweden + Finland 2023-2024 post-Russia-invasion-of-Ukraine accession framework ending Sweden + Finland historic neutrality framework.",
+    "Central jurisdiction of formal NATO 2% GDP Defence Spending Pledge framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal defence-spending-pledge framework with operational monitoring framework + only modern regional supranational binding-treaty framework operating reinforced 5% GDP defence-spending-pledge framework via 2025 Hague Summit.",
+    "32 NATO member state ratification framework is structurally distinctive globally — comprehensive transatlantic regional coverage framework.",
+    "1948 Treaty of Brussels + 1949 NATO Treaty + 1952 Greece + Turkey + 1955 West Germany + Warsaw Pact + 1991 Warsaw Pact dissolved + 1999 Czech + Hungary + Poland + Yugoslavia bombing + 2001 Article 5 invoked + 2004 Big Bang + 2014 Wales Summit + 2022 Russia invasion + Finland + Sweden apply + 2023 Finland joins + 2024 Sweden joins + 2025 Hague Summit + Trump Round 2 NATO-framework-development sequence is structurally distinctive globally.",
+    "NATO Treaty + Article 5 + Article 6 + Article 10 + Wales Summit Defence Investment Pledge + Hague Summit 5% GDP Pledge formal sextet framework with formal transatlantic-military-family-cross-border limited PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:germany",
+    "jurisdiction:france",
+    "jurisdiction:canada",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "NATO",
+      "url": "https://www.nato.int/",
+      "publisher": "NATO",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "NATO Treaty jurisdiction sidecar — regional supranational transatlantic foundational-NATO-treaty meta-framework (NATO Treaty 1949 + Article 5 Collective Defence + Article 6 Geographic Scope + Article 10 Open Door Membership + 1948 Treaty of Brussels predecessor + 1952 Greece + Turkey + 1955 West Germany + Warsaw Pact + 1991 Warsaw Pact dissolved + 1999 Eastern expansion + Yugoslavia bombing + 2001 Article 5 invoked September 11 + 2004 Big Bang + 2014 Wales Summit Defence Investment Pledge + 2022 Russia invades Ukraine + Finland + Sweden apply + 2023 Finland joins + 2024 Sweden joins + 2025 Hague Summit 5% GDP Pledge + Trump Round 2 NATO tensions). Only modern transatlantic regional supranational binding-treaty framework globally + oldest modern collective-defence supranational binding-treaty framework + only modern regional supranational binding-treaty framework operating formal Article 5 collective-defence framework invoked once after September 11 attacks + only modern regional supranational binding-treaty framework operating formal Sweden + Finland 2023-2024 post-Russia-invasion-of-Ukraine accession framework + central jurisdiction of formal Article 5 Collective Defence framework + central jurisdiction of formal NATO Membership Expansion framework + central jurisdiction of formal 2% + 5% GDP defence-spending-pledge frameworks + 32 NATO member states + 1948 Treaty of Brussels + 1949 NATO Treaty + 1952 Greece + Turkey + 1955 West Germany + 1991 Warsaw Pact dissolved + 1999 Eastern expansion + Yugoslavia bombing + 2001 Article 5 invoked + 2004 Big Bang + 2014 Wales Summit + 2022 Russia invasion + Finland + Sweden apply + 2023 Finland + 2024 Sweden + 2025 Hague Summit + Trump Round 2 NATO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: NATO framework operates limited intersection with parental-alienation framework via formal transatlantic-military-family-cross-border framework.",
+    "Joins regional + supranational + transatlantic-foundational-NATO-treaty cluster + NATO-Treaty-only-transatlantic-regional-supranational-collective-defence-binding-treaty-globally-distinctive + Article-5-Collective-Defence-invoked-once-September-11-2001 + Article-6-Geographic-Scope + Article-10-Open-Door-Membership + 32-NATO-member-states + oldest-modern-collective-defence-supranational-binding-treaty + Sweden-Finland-2023-2024-post-Russia-invasion-accession + Sweden-Finland-historic-neutrality-ended + 1948-Brussels-Treaty-predecessor + 1952-Greece-Turkey + 1955-West-Germany-Warsaw-Pact-Cold-War + 1991-Warsaw-Pact-dissolved + 1999-Big-Bang-Eastern-expansion-Yugoslavia-bombing + 2001-Article-5-invoked + 2004-Big-Bang-Baltic-Central + 2014-Wales-Summit-Defence-Investment-Pledge-2-percent-GDP + 2022-Russia-invasion-Ukraine-Finland-Sweden-apply + 2025-Hague-Summit-5-percent-GDP-Pledge-by-2035 + Trump-Round-2-NATO-tensions + transatlantic-military-family-cross-border-PA-intersection clusters within the corpus."
+  ]
+}

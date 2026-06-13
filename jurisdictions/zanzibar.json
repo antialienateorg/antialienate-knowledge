@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "id": "zanzibar",
+  "name": "Zanzibar (Unguja na Pemba / زنجبار)",
+  "jurisdiction_code": "TZ-ZAN",
+  "legal_system": "mixed",
+  "language": ["sw", "ar", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Zanzibar (Swahili: Unguja na Pemba / Arabic: زنجبار Zanjibar) is a Western Indian Ocean Tanzanian mixed common-law/Sharia-customary semi-autonomous archipelago of the United Republic of Tanzania — structurally distinctive globally as the only modern Tanzanian sub-national territory operating formal semi-autonomous status under the Tanzania Articles of Union 1964 (Articles of Union signed 22 April 1964 + Acts of Union of 25 April 1964 — formal Tanzanian-Zanzibari union framework establishing United Republic of Tanzania with formal Zanzibari semi-autonomous status, with Zanzibar Revolutionary Council framework operating Zanzibar government + Zanzibar House of Representatives + Zanzibar Constitution 1984/2010 framework distinct from Tanzania mainland framework), as the only modern Tanzanian sub-national territory established via formal post-colonial-Revolution framework (Zanzibar Revolution 12 January 1964 — Marxist-Leninist Afro-Shirazi Party overthrow of Arab Sultan Jamshid bin Abdullah Sultanate of Zanzibar framework 1856-1964 with ~20,000 deaths, structurally distinctive globally as one of the most violent decolonisation transitions in modern African history followed within 3 months by Tanzania-Zanzibar Articles of Union framework), as the central jurisdiction of the only modern African sub-national territory operating formal Sharia personal-status framework alongside civil-law framework (Zanzibar Kadhi Courts under Zanzibar Constitution 2010 Article 99 — formal Sharia personal-status framework for Muslim community, distinct from Tanzania mainland operating uniform civil-law framework, structurally distinctive globally as one of two African sub-national frameworks operating formal Sharia personal-status framework alongside Northern Nigeria's Sharia framework), and as the central jurisdiction of historical Sultanate of Zanzibar 1856-1964 framework (Sultanate of Zanzibar founded 1856 by Sultan Majid bin Said + transferred from Omani Sultanate framework + British Protectorate of Zanzibar 1890-1963 + Zanzibar independence 10 December 1963 + Zanzibar Revolution 12 January 1964 + Tanzania-Zanzibar Articles of Union 22-25 April 1964 — only modern African sub-national territory with continuous Omani-Arab-Sultanate historical-cultural-political-Islamic framework). Zanzibar comprises ~2,654 km² with a population of ~1.9 million (~99% Muslim + others). Family-law framework operates under a dual federal Tanzanian civil-law framework (Tanzania Law of Marriage Act 1971) + Zanzibar-specific Sharia + Islamic Personal Status framework + Zanzibar Kadhi Courts framework. The Zanzibar High Court is the apex regional court; final appellate jurisdiction lies with the Court of Appeal of Tanzania + Constitutional Court framework. Zanzibar is silent on 'parental alienation' as a statutory label. Tanzania is a Hague Convention 1980 signatory but not a party — Zanzibar is governed by Tanzanian non-Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Tanzania Articles of Union 1964",
+      "title": "Tanzania Articles of Union",
+      "year": 1964,
+      "url": "https://www.tanzania.go.tz/",
+      "relevance": "Tanzania-Zanzibar Articles of Union signed 22 April 1964 + Acts of Union of 25 April 1964 — formal Tanzanian-Zanzibari union framework establishing United Republic of Tanzania with formal Zanzibari semi-autonomous status."
+    },
+    {
+      "citation": "Constitution of Zanzibar 1984 (revised 2010)",
+      "title": "Constitution of Zanzibar 1984",
+      "year": 2010,
+      "url": "https://www.zanzibar.go.tz/",
+      "relevance": "Zanzibar Constitution adopted 1984 + revised 2010 — formal entity-level constitutional framework for Zanzibar semi-autonomous status, including Article 99 Kadhi Courts framework."
+    },
+    {
+      "citation": "Tanzania Law of Marriage Act 1971",
+      "title": "Tanzania Law of Marriage Act",
+      "year": 1971,
+      "url": "https://www.tanzania.go.tz/",
+      "relevance": "Tanzanian Federal Law of Marriage Act 1971 — federal family-law framework, with Zanzibar-specific Sharia + Islamic Personal Status framework operating in parallel."
+    },
+    {
+      "citation": "Zanzibar Kadhi Courts framework",
+      "title": "Zanzibar Kadhi Courts",
+      "year": 2010,
+      "url": "https://www.zanzibar.go.tz/",
+      "relevance": "Zanzibar Kadhi Courts under Zanzibar Constitution 2010 Article 99 — formal Sharia personal-status framework for Muslim community."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Zanzibar High Court (Mahakama Kuu ya Zanzibar)",
+      "seat": "Stone Town, Zanzibar",
+      "url": "https://www.zanzibar.go.tz/",
+      "role": "Apex regional appellate court for civil and criminal matters from Zanzibar."
+    },
+    {
+      "name": "Court of Appeal of Tanzania (Mahakama ya Rufani ya Tanzania)",
+      "seat": "Dar es Salaam",
+      "url": "https://www.tanzania.go.tz/",
+      "role": "Final appellate court for civil and criminal matters from Zanzibar."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of Zanzibar",
+      "url": "https://www.zanzibar.go.tz/",
+      "role": "Zanzibar entity-level + Tanzanian Federal professional regulatory framework applicable in Zanzibar."
+    }
+  ],
+  "anonymisation_convention": "Zanzibar family-court decisions are anonymised per Tanzanian + Zanzibari court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1856,
+      "title": "Sultanate of Zanzibar founded",
+      "description": "Sultanate of Zanzibar founded 1856 by Sultan Majid bin Said — transferred from Omani Sultanate framework, formal Sultanate framework 1856-1964."
+    },
+    {
+      "year": 1890,
+      "title": "British Protectorate of Zanzibar",
+      "description": "British Protectorate of Zanzibar established 1 July 1890 — formal British Protectorate framework 1890-1963 under Anglo-German Heligoland-Zanzibar Treaty 1890."
+    },
+    {
+      "year": 1963,
+      "title": "Zanzibar independence",
+      "description": "Zanzibar independence 10 December 1963 — formal end of British Protectorate framework + formal Sultanate of Zanzibar independence framework."
+    },
+    {
+      "year": 1964,
+      "title": "Zanzibar Revolution",
+      "description": "Zanzibar Revolution 12 January 1964 — Marxist-Leninist Afro-Shirazi Party overthrow of Arab Sultan Jamshid bin Abdullah Sultanate of Zanzibar framework with ~20,000 deaths."
+    },
+    {
+      "year": 1964,
+      "title": "Tanzania-Zanzibar Articles of Union",
+      "description": "Tanzania-Zanzibar Articles of Union signed 22 April 1964 + Acts of Union of 25 April 1964 — formal Tanzanian-Zanzibari union framework establishing United Republic of Tanzania."
+    },
+    {
+      "year": 1984,
+      "title": "Constitution of Zanzibar",
+      "description": "Zanzibar Constitution adopted 1984 — formal entity-level constitutional framework for Zanzibar semi-autonomous status."
+    },
+    {
+      "year": 2010,
+      "title": "Constitution of Zanzibar revision",
+      "description": "Zanzibar Constitution revised 2010 — formal revised constitutional framework including Article 99 Kadhi Courts framework."
+    }
+  ],
+  "structural_findings": [
+    "Zanzibar operates a mixed federal Tanzanian common-law + Zanzibar Sharia-customary semi-autonomous archipelago framework — places Zanzibar in the Western Indian Ocean Tanzanian semi-autonomous cluster.",
+    "Only modern Tanzanian sub-national territory operating formal semi-autonomous status under Tanzania Articles of Union 1964 is structurally distinctive globally — formal Tanzanian-Zanzibari union framework establishing United Republic of Tanzania.",
+    "Only modern Tanzanian sub-national territory established via formal post-colonial-Revolution framework is structurally distinctive globally — Zanzibar Revolution 12 January 1964 with ~20,000 deaths, one of most violent decolonisation transitions in modern African history.",
+    "Only modern African sub-national territory operating formal Sharia personal-status framework alongside civil-law framework is structurally distinctive globally — Zanzibar Kadhi Courts under Zanzibar Constitution 2010 Article 99.",
+    "Central jurisdiction of historical Sultanate of Zanzibar 1856-1964 framework is structurally distinctive globally — only modern African sub-national territory with continuous Omani-Arab-Sultanate historical-cultural-political-Islamic framework.",
+    "1890 Anglo-German Heligoland-Zanzibar Treaty framework is structurally distinctive globally — only modern African sub-national territory with formal Heligoland-Zanzibar-Treaty historical framework.",
+    "1964 Zanzibar Revolution + 1964 Tanzania-Zanzibar Articles of Union sequence is structurally distinctive globally — only modern post-colonial-Revolution-followed-immediately-by-Articles-of-Union framework.",
+    "Tanzanian non-Hague-Convention-1980-ratification framework applies."
+  ],
+  "references": [
+    "jurisdiction:tanzania",
+    "jurisdiction:oman",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:germany",
+    "jurisdiction:kenya",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Revolutionary Government of Zanzibar",
+      "url": "https://www.zanzibar.go.tz/",
+      "publisher": "Zanzibar Government",
+      "language": "sw"
+    }
+  ],
+  "editorial_notes": [
+    "Zanzibar jurisdiction sidecar — mixed federal Tanzanian common-law/Zanzibar Sharia-customary Western Indian Ocean Tanzanian semi-autonomous archipelago (Tanzania Articles of Union 1964 + Constitution of Zanzibar 1984/2010 + Tanzania Law of Marriage Act 1971 + Zanzibar Kadhi Courts framework + Sultanate of Zanzibar 1856-1964 + British Protectorate of Zanzibar 1890-1963 + Anglo-German Heligoland-Zanzibar Treaty 1890 + Zanzibar Revolution 12 January 1964 + 1964 Articles of Union + 1984 Constitution of Zanzibar + 2010 Constitution revision + Tanzanian non-Hague-1980 framework). Only modern Tanzanian sub-national territory operating formal semi-autonomous status under Tanzania Articles of Union 1964 + only modern Tanzanian sub-national territory established via formal post-colonial-Revolution framework + only modern African sub-national territory operating formal Sharia personal-status framework alongside civil-law framework + central jurisdiction of historical Sultanate of Zanzibar 1856-1964 framework + Anglo-German Heligoland-Zanzibar Treaty 1890 + 1964 Zanzibar Revolution + 1964 Tanzania-Zanzibar Articles of Union sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western-Indian-Ocean + mixed Tanzanian-common-law/Zanzibar-Sharia-customary + Tanzanian-semi-autonomous-archipelago cluster + Tanzania-Articles-of-Union-1964-globally-distinctive + 1964-Zanzibar-Revolution-Marxist-Leninist + Sultanate-of-Zanzibar-1856-1964-Omani-Arab-framework + Zanzibar-Kadhi-Courts-Sharia-personal-status + Anglo-German-Heligoland-Zanzibar-Treaty-1890 + British-Protectorate-of-Zanzibar-1890-1963 + Tanzanian-non-Hague-1980 clusters within the corpus."
+  ]
+}

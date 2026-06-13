@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "id": "montenegro",
+  "name": "Montenegro (Crna Gora)",
+  "jurisdiction_code": "ME",
+  "legal_system": "civil-law",
+  "language": ["sr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Montenegro is a Western Balkans civil-law unitary republic whose family-law framework operates under the Porodični zakon (Family Code) of 2007. Parental rights (roditeljska prava) are governed by Porodični zakon arts. 60-94; joint exercise during marriage is the statutory default. The Vrhovni sud Crne Gore (Supreme Court of Montenegro, Podgorica) is the apex court for civil and criminal matters; the Ustavni sud (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated through Ministry of Health framework and the Crnogorska društvo psihologa (Montenegrin Psychological Association) peak-body ethics oversight. Montenegro is silent on 'parental alienation' as a statutory label; courts operate substantively under the najbolji interes djeteta (best-interests-of-the-child) standard. Council of Europe member; ECHR Strasbourg jurisprudence applies.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Porodični zakon 2007 arts. 60-94",
+      "title": "Family Code 2007 — Parental rights",
+      "year": 2007,
+      "url": "https://www.sluzbenilist.me/",
+      "relevance": "Federal statute on family law. Arts. 60-94 govern parental rights; joint exercise during marriage is the statutory default. Welfare standard codified."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Vrhovni sud Crne Gore (Supreme Court of Montenegro)",
+      "seat": "Podgorica",
+      "url": "https://sudovi.me/vrhovni-sud/",
+      "role": "Apex civil and criminal court."
+    },
+    {
+      "name": "Ustavni sud Crne Gore (Constitutional Court of Montenegro)",
+      "seat": "Podgorica",
+      "url": "https://www.ustavnisudcg.co.me/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and individual constitutional complaints."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Crnogorska društvo psihologa (Montenegrin Psychological Association / CDP)",
+      "url": "https://psihologija.me/",
+      "role": "Peak professional association for psychologists in Montenegro."
+    }
+  ],
+  "anonymisation_convention": "Montenegrin family-law decisions are anonymised per Vrhovni sud practice using initials.",
+  "key_developments": [
+    {
+      "year": 2007,
+      "title": "Porodični zakon 2007",
+      "description": "Family Code enacted."
+    }
+  ],
+  "structural_findings": [
+    "Montenegro sits structurally within the Western Balkans civil-law cluster alongside Serbia + Croatia + Slovenia + Albania + N. Macedonia — Family Code 2007 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction.",
+    "Psychology profession regulation operates through Ministry of Health framework + CDP peak-body ethics oversight."
+  ],
+  "references": [
+    "jurisdiction:serbia",
+    "jurisdiction:albania",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Vrhovni sud Crne Gore",
+      "url": "https://sudovi.me/vrhovni-sud/",
+      "publisher": "Vrhovni sud Crne Gore",
+      "language": "sr,en"
+    },
+    {
+      "title": "Ustavni sud Crne Gore",
+      "url": "https://www.ustavnisudcg.co.me/",
+      "publisher": "Ustavni sud",
+      "language": "sr,en"
+    },
+    {
+      "title": "Službeni list Crne Gore",
+      "url": "https://www.sluzbenilist.me/",
+      "publisher": "Official Gazette of Montenegro",
+      "language": "sr"
+    }
+  ],
+  "editorial_notes": [
+    "Montenegro jurisdiction sidecar — Western Balkans civil-law framework. Porodični zakon 2007 + Constitutional Court individual-complaint + CDP peak-body psychology regulation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western Balkans civil-law cluster within the corpus."
+  ]
+}

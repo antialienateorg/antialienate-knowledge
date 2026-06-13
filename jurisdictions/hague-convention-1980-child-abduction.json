@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "id": "hague-convention-1980-child-abduction",
+  "name": "Hague Convention 1980 on the Civil Aspects of International Child Abduction",
+  "jurisdiction_code": "HCK",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "de"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Hague Convention 1980 on the Civil Aspects of International Child Abduction (formally Convention on the Civil Aspects of International Child Abduction) is a global supranational meta-framework cross-border-child-abduction-resolution binding-treaty instrument adopted by the Hague Conference on Private International Law (HCCH) — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on cross-border-child-abduction-resolution framework (Hague Convention 1980 adopted 25 October 1980 + effective 1 December 1983 — formal universal multilateral binding-treaty framework establishing comprehensive cross-border-child-abduction-resolution framework, distinct from rest-of-modern-international-children's-rights frameworks which operate on broader best-interests + general-children's-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-cross-border-child-abduction-resolution-specific framework + most directly relevant Hague framework to parental-alienation framework via cross-border-PA-intersection), as the central jurisdiction of the formal Article 13(b) grave-risk exception framework that intersects with PA framework (Convention Article 13(b) framework providing for non-return exception where 'there is a grave risk that his or her return would expose the child to physical or psychological harm or otherwise place the child in an intolerable situation' — formal grave-risk exception framework operating substantial intersection with parental-alienation framework via formal PA-as-Article-13(b)-grave-risk-claim framework, structurally distinctive globally as the most directly-PA-relevant Hague Convention framework provision), as the central jurisdiction of the formal Central Authority cooperation framework (Convention Article 6 Central Authority designation framework + Article 7 Central Authority duties framework + Article 14 application to Central Authority framework — formal Central-Authority-cooperation framework, distinct from rest-of-modern-international-children's-rights frameworks operating without formal Central-Authority-cooperation framework), and as the central jurisdiction of one of the most distinctive modern cross-border-child-abduction-resolution case-law frameworks globally (multiple national-level apex court cases applying Article 13(b) grave-risk exception framework to PA framework + ECtHR Neulinger and Shuruk v. Switzerland 6 July 2010 + UN Special Rapporteur on Violence Against Women Reem Alsalem Report Custody, Violence Against Women and Violence Against Children A/HRC/53/36 13 June 2023 critique of Article 13(b)-applied-to-domestic-violence framework — formal multi-jurisdictional Article 13(b) case-law framework, structurally distinctive globally as the most-developed modern cross-border-child-abduction-resolution case-law framework). The Hague Convention 1980 is binding upon 103 state parties as of 2026 — substantial state party + non-state-party framework reflecting widespread but not universal adoption framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 13(b) framework operates substantial intersection with parental-alienation framework via formal PA-as-Article-13(b)-grave-risk-claim framework. The Permanent Bureau of the Hague Conference on Private International Law is the apex monitoring framework body; national-level Central Authorities + national-level apex courts operate as administrative + judicial bodies. The Hague Convention 1980 is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Hague Convention 1980 on the Civil Aspects of International Child Abduction",
+      "title": "Hague Convention 1980",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the Civil Aspects of International Child Abduction adopted 25 October 1980 + effective 1 December 1983 — formal universal multilateral binding-treaty framework establishing comprehensive cross-border-child-abduction-resolution framework."
+    },
+    {
+      "citation": "Hague Convention 1980 Article 13(b) (Grave Risk Exception)",
+      "title": "Hague Convention 1980 Article 13(b)",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention 1980 Article 13(b) framework providing for non-return exception where 'there is a grave risk that his or her return would expose the child to physical or psychological harm or otherwise place the child in an intolerable situation' — formal grave-risk exception framework operating substantial intersection with parental-alienation framework via formal PA-as-Article-13(b)-grave-risk-claim framework."
+    },
+    {
+      "citation": "Hague Convention 1980 Articles 6-7-14 (Central Authority Framework)",
+      "title": "Hague Convention 1980 Central Authority Framework",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention 1980 Article 6 Central Authority designation framework + Article 7 Central Authority duties framework + Article 14 application to Central Authority framework — formal Central-Authority-cooperation framework."
+    },
+    {
+      "citation": "Hague Convention 1980 Guide to Good Practice 2020 (Article 13(b))",
+      "title": "Hague Convention 1980 Guide to Good Practice Article 13(b)",
+      "year": 2020,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Conference on Private International Law Guide to Good Practice 2020 on Article 13(b) — formal Hague Conference guidance framework for Article 13(b) grave-risk exception framework application including PA-as-Article-13(b)-grave-risk-claim framework."
+    },
+    {
+      "citation": "ECtHR Neulinger and Shuruk v. Switzerland Grand Chamber Judgment 6 July 2010",
+      "title": "ECtHR Neulinger v. Switzerland",
+      "year": 2010,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "European Court of Human Rights ECtHR Neulinger and Shuruk v. Switzerland Grand Chamber Judgment 6 July 2010 — landmark Article 8 positive-obligations doctrine framework on cross-border-child-abduction + Article 13(b) grave-risk exception framework interpretation."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Permanent Bureau of the Hague Conference on Private International Law (HCCH)",
+      "seat": "The Hague",
+      "url": "https://www.hcch.net/",
+      "role": "Apex monitoring framework body for Hague Convention 1980."
+    },
+    {
+      "name": "National-level Central Authorities",
+      "seat": "Various",
+      "url": "https://www.hcch.net/",
+      "role": "National-level Central Authorities — formal Central-Authority-cooperation framework operational bodies."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "HCCH Secretariat",
+      "url": "https://www.hcch.net/",
+      "role": "Hague Convention 1980 implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Hague Convention 1980-related individual communications are anonymised per national-level court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1893,
+      "title": "Hague Conference on Private International Law founded",
+      "description": "Hague Conference on Private International Law HCCH founded 12 September 1893 — beginning of formal HCCH framework."
+    },
+    {
+      "year": 1980,
+      "title": "Hague Convention 1980 adopted",
+      "description": "Hague Convention on the Civil Aspects of International Child Abduction adopted 25 October 1980 — formal universal multilateral binding-treaty framework establishing comprehensive cross-border-child-abduction-resolution framework."
+    },
+    {
+      "year": 1983,
+      "title": "Hague Convention 1980 enters force",
+      "description": "Hague Convention on the Civil Aspects of International Child Abduction entered force 1 December 1983 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1989,
+      "title": "UN Convention on the Rights of the Child adopted",
+      "description": "UN Convention on the Rights of the Child UNCRC adopted 20 November 1989 — universal multilateral framework complementary to Hague Convention 1980."
+    },
+    {
+      "year": 1989,
+      "title": "Inter-American Convention 1989 adopted",
+      "description": "Inter-American Convention on the International Return of Children adopted 15 July 1989 — regional framework supplementary to Hague Convention 1980."
+    },
+    {
+      "year": 1996,
+      "title": "Hague Convention 1996 adopted",
+      "description": "Hague Convention on the Protection of Children adopted 19 October 1996 — comprehensive framework supplementary to Hague Convention 1980."
+    },
+    {
+      "year": 2010,
+      "title": "Neulinger v. Switzerland",
+      "description": "ECtHR Neulinger and Shuruk v. Switzerland Grand Chamber Judgment 6 July 2010 — landmark Article 8 positive-obligations doctrine framework on cross-border-child-abduction + Article 13(b) grave-risk exception framework interpretation."
+    },
+    {
+      "year": 2020,
+      "title": "Hague Convention 1980 Guide to Good Practice Article 13(b)",
+      "description": "Hague Conference on Private International Law Guide to Good Practice 2020 on Article 13(b) — formal Hague Conference guidance framework for Article 13(b) grave-risk exception framework application."
+    },
+    {
+      "year": 2023,
+      "title": "UN SR Custody Report 2023",
+      "description": "UN Special Rapporteur on Violence Against Women Reem Alsalem Report Custody, Violence Against Women and Violence Against Children A/HRC/53/36 13 June 2023 — formal UN Special Rapporteur critique of Article 13(b)-applied-to-domestic-violence framework."
+    }
+  ],
+  "structural_findings": [
+    "Hague Convention 1980 operates a supranational universal multilateral binding-treaty framework — places Hague Convention 1980 in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on cross-border-child-abduction-resolution framework is structurally distinctive globally — formal-cross-border-child-abduction-resolution-specific framework + most directly relevant Hague framework to parental-alienation framework via cross-border-PA-intersection.",
+    "Central jurisdiction of formal Article 13(b) grave-risk exception framework that intersects with PA framework is structurally distinctive globally — formal grave-risk exception framework operating substantial intersection with parental-alienation framework via formal PA-as-Article-13(b)-grave-risk-claim framework.",
+    "Central jurisdiction of formal Central Authority cooperation framework is structurally distinctive globally — formal Central-Authority-cooperation framework via Articles 6 + 7 + 14.",
+    "Central jurisdiction of one of most distinctive modern cross-border-child-abduction-resolution case-law frameworks globally is structurally distinctive globally — Neulinger 2010 + multiple national-level apex court cases + UN SR Custody Report 2023.",
+    "103 state party ratification framework is structurally distinctive globally — widespread but not universal adoption framework.",
+    "Article 13(b) grave-risk exception framework + UN SR Custody Report 2023 critique of Article 13(b)-applied-to-domestic-violence framework is structurally distinctive globally.",
+    "1893 HCCH + 1980 Hague Convention + 1983 entry into force + 1989 UNCRC + 1989 Inter-American Convention + 1996 Hague Convention + 2010 Neulinger + 2020 Guide to Good Practice + 2023 UN SR Custody Report cross-border-child-abduction-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:hague-conference-on-private-international-law",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:strasbourg-article-8-positive-obligations-doctrine",
+    "evidence:eu-apex-sequence-2017-2025",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Hague Conference on Private International Law (HCCH)",
+      "url": "https://www.hcch.net/",
+      "publisher": "HCCH",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Hague Convention 1980 on the Civil Aspects of International Child Abduction jurisdiction sidecar — supranational global cross-border-child-abduction-resolution universal multilateral binding-treaty meta-framework (Hague Convention 1980/1983 + Article 13(b) Grave Risk Exception + Articles 6-7-14 Central Authority Framework + Guide to Good Practice 2020 + Neulinger v. Switzerland 2010 + UN SR Custody Report 2023 + HCCH founded 1893 + UNCRC 1989 + Inter-American Convention 1989 + Hague Convention 1996). Only modern universal multilateral binding-treaty framework operating specifically on cross-border-child-abduction-resolution framework globally + most directly relevant Hague framework to parental-alienation framework via cross-border-PA-intersection + central jurisdiction of formal Article 13(b) grave-risk exception framework that intersects with PA framework + central jurisdiction of formal Central Authority cooperation framework + central jurisdiction of one of most distinctive modern cross-border-child-abduction-resolution case-law frameworks globally + 103 state party ratification framework + Article 13(b) grave-risk exception framework + UN SR Custody Report 2023 critique of Article 13(b)-applied-to-domestic-violence framework + 1893 HCCH + 1980 Hague Convention + 1983 entry into force + 1989 UNCRC + 1989 Inter-American Convention + 1996 Hague Convention + 2010 Neulinger + 2020 Guide to Good Practice + 2023 UN SR Custody Report cross-border-child-abduction-framework-development sequence. Hague Conference children's-frameworks triad complete (Hague 1980 + Hague 1993 + Hague 1996).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 13(b) grave-risk exception framework operates formal direct intersection with parental-alienation framework via formal PA-as-Article-13(b)-grave-risk-claim framework — the most-directly-PA-relevant Hague Convention framework provision.",
+    "Joins global + supranational + universal-multilateral-cross-border-child-abduction-resolution-binding-treaty cluster + Hague-Convention-1980-most-directly-PA-relevant-Hague-framework-via-Article-13b-grave-risk-globally-distinctive + Article-13b-grave-risk-exception-PA-intersection + Articles-6-7-14-Central-Authority-framework + Neulinger-2010 + UN-SR-Custody-Report-2023-Article-13b-critique + Guide-to-Good-Practice-2020-Article-13b + 103-state-party-ratification + complementary-to-Hague-1993-1996-Inter-American-1989-Council-of-Europe-1996-2003-UNCRC-CEDAW clusters within the corpus."
+  ]
+}

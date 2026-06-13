@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0",
+  "id": "kurdistan-iraq",
+  "name": "Kurdistan Region of Iraq (هەرێمی کوردستان / إقليم كردستان)",
+  "jurisdiction_code": "IQ-KR",
+  "legal_system": "mixed",
+  "language": ["ku", "ar", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Kurdistan Region of Iraq (هەرێمی کوردستان Herêmî Kurdistan in Kurdish / إقليم كردستان Iqlīm Kurdistān in Arabic) is a Northern Iraqi mixed civil-law/Sharia-law constitutionally-recognised semi-autonomous region of the Federal Republic of Iraq — structurally distinctive globally as the only sub-state-level Kurdish jurisdiction with formal constitutional autonomy framework (Constitution of Iraq 2005 Article 117 formally recognising Kurdistan Region as constitutionally-recognised federal region — distinct from rest-of-Kurdish-population frameworks in Turkey, Syria, Iran where Kurdish-population sub-state-level autonomy is contested), as the only sub-state-level Kurdish jurisdiction with continuous de facto independence framework predating constitutional recognition (Kurdistan Regional Government KRG operations continuously since 1991 No-Fly Zone framework establishment 6 April 1991 following Gulf War 1991 — 14 years of de facto autonomy 1991-2005 prior to formal constitutional recognition), as the central jurisdiction of the contested 2017 Kurdistan independence referendum framework (Kurdistan Independence Referendum 25 September 2017 — 92.73% YES with 72.16% turnout, ~2.86 million YES votes out of ~3.31 million total — characterised by Iraqi Federal Government + Iran + Turkey as unilateral non-binding action), and as the central jurisdiction of one of the most distinctive modern post-Saddam constitutional federal frameworks (post-2003 Iraq War + 2005 Iraqi Constitution federal framework + Iraqi Federal Supreme Court 2022 ruling rendering 2017 referendum unconstitutional). The Kurdistan Region historically operated under various Kurdish emirate frameworks (Soran Emirate 1816-1836 + Botan Emirate + Baban Emirate) + Ottoman vilayet framework + British Mandate Iraq 1920-1932 + Iraqi Kingdom 1932-1958 + Iraqi Republic 1958-2003 (including Anfal genocide 1986-1989 + Halabja chemical attack 16 March 1988 with ~5,000 deaths), achieved de facto autonomy 1991 following Gulf War No-Fly Zone establishment, established Kurdistan Regional Government 1992, achieved formal constitutional recognition via Iraqi Constitution 2005 Article 117, conducted 2017 Independence Referendum with 92.73% YES, and continues to operate as constitutionally-recognised federal region. Kurdistan Region of Iraq comprises ~46,861 km² (formal) / ~78,736 km² (with disputed territories) with a population of ~6.2 million. Family-law framework operates under a dual federal Iraqi civil-law framework (Iraqi Personal Status Law 188/1959) + Kurdistan-specific Family-Law Amendment 15/2008 framework. The Kurdistan Federal Court is the apex regional court; final appellate jurisdiction is contested between the Federal Supreme Court of Iraq + Kurdistan Federal Court. Kurdistan is silent on 'parental alienation' as a statutory label. Iraq is a Hague Convention 1980 signatory but not a party — Kurdistan is governed by the Iraqi non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Iraq 2005 Article 117 (Kurdistan Region Federal Recognition)",
+      "title": "Constitution of Iraq Article 117",
+      "year": 2005,
+      "url": "https://www.parliament.iq/",
+      "relevance": "Iraqi Constitutional Article 117 formally recognising Kurdistan Region as constitutionally-recognised federal region — only sub-state-level Kurdish jurisdiction with formal constitutional autonomy framework."
+    },
+    {
+      "citation": "Iraqi Personal Status Law 188/1959 + Kurdistan Family-Law Amendment 15/2008",
+      "title": "Iraqi Personal Status Law + Kurdistan Amendment",
+      "year": 2008,
+      "url": "https://www.parliament.iq/",
+      "relevance": "Iraqi Federal Personal Status Law 188/1959 applicable in Kurdistan Region + Kurdistan-specific Family-Law Amendment 15/2008 modifying family-law framework for Kurdistan Region."
+    },
+    {
+      "citation": "Kurdistan Independence Referendum 2017 (92.73% YES)",
+      "title": "Kurdistan Independence Referendum",
+      "year": 2017,
+      "url": "https://gov.krd/",
+      "relevance": "Kurdistan Independence Referendum 25 September 2017 — 92.73% YES with 72.16% turnout — characterised by Iraqi Federal Government + Iran + Turkey as unilateral non-binding action."
+    },
+    {
+      "citation": "Iraqi Federal Supreme Court 2022 Ruling on 2017 Referendum",
+      "title": "Iraqi Federal Supreme Court 2022 Ruling",
+      "year": 2022,
+      "url": "https://www.iraqfsc.iq/",
+      "relevance": "Iraqi Federal Supreme Court ruling 22 February 2022 declaring 2017 Kurdistan Independence Referendum unconstitutional."
+    },
+    {
+      "citation": "UN Security Council Resolution 688/1991 + No-Fly Zone framework",
+      "title": "UNSC Resolution 688 + No-Fly Zone",
+      "year": 1991,
+      "url": "https://www.un.org/",
+      "relevance": "UN Security Council Resolution 688 of 5 April 1991 + US-UK-France No-Fly Zone establishment 6 April 1991 — basis for de facto Kurdistan autonomy 1991-2005."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Kurdistan Federal Court",
+      "seat": "Erbil",
+      "url": "https://gov.krd/",
+      "role": "Apex regional appellate court for civil and criminal matters from Kurdistan Region — contested with Federal Supreme Court of Iraq."
+    },
+    {
+      "name": "Federal Supreme Court of Iraq",
+      "seat": "Baghdad",
+      "url": "https://www.iraqfsc.iq/",
+      "role": "Federal Supreme Court of Iraq — contested jurisdiction over Kurdistan Region matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Kurdistan Regional Government Ministry of Health",
+      "url": "https://gov.krd/health/",
+      "role": "Kurdistan Regional professional regulatory framework applicable in Kurdistan Region."
+    }
+  ],
+  "anonymisation_convention": "Kurdistan family-court decisions are anonymised per Iraqi + Kurdistan court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1986,
+      "title": "Anfal genocide begins",
+      "description": "Anfal genocide 1986-1989 — Saddam Hussein's Iraqi Government anti-Kurdish military campaign with ~50,000-182,000 Kurdish deaths."
+    },
+    {
+      "year": 1988,
+      "title": "Halabja chemical attack",
+      "description": "Halabja chemical attack 16 March 1988 — ~5,000 Kurdish civilian deaths via Iraqi chemical weapons."
+    },
+    {
+      "year": 1991,
+      "title": "Gulf War + No-Fly Zone + de facto autonomy",
+      "description": "Gulf War 1991 ceasefire + UNSC Resolution 688 5 April 1991 + No-Fly Zone establishment 6 April 1991 — basis for de facto Kurdistan autonomy 1991-2005."
+    },
+    {
+      "year": 1992,
+      "title": "Kurdistan Regional Government established",
+      "description": "Kurdistan Regional Government KRG formally established 4 July 1992 — first formal Kurdish self-government framework in modern Iraq."
+    },
+    {
+      "year": 2003,
+      "title": "Iraq War + Saddam regime collapse",
+      "description": "Iraq War 19 March - 1 May 2003 — collapse of Saddam Hussein regime + transition to post-Saddam Iraqi federal framework."
+    },
+    {
+      "year": 2005,
+      "title": "Constitution of Iraq + Article 117 federal recognition",
+      "description": "Constitution of Iraq adopted 15 October 2005 + Article 117 formally recognising Kurdistan Region as constitutionally-recognised federal region."
+    },
+    {
+      "year": 2008,
+      "title": "Kurdistan Family-Law Amendment 15/2008",
+      "description": "Kurdistan-specific Family-Law Amendment 15/2008 modifying Iraqi Personal Status Law 188/1959 for Kurdistan Region."
+    },
+    {
+      "year": 2017,
+      "title": "Kurdistan Independence Referendum",
+      "description": "Kurdistan Independence Referendum 25 September 2017 — 92.73% YES with 72.16% turnout."
+    },
+    {
+      "year": 2022,
+      "title": "Iraqi Federal Supreme Court 2022 Ruling on 2017 Referendum",
+      "description": "Iraqi Federal Supreme Court ruling 22 February 2022 declaring 2017 Kurdistan Independence Referendum unconstitutional."
+    }
+  ],
+  "structural_findings": [
+    "Kurdistan Region of Iraq operates a mixed federal Iraqi civil-law/Sharia-law + Kurdistan-specific semi-autonomous region framework — places Kurdistan in the Northern Iraqi semi-autonomous-region cluster.",
+    "Only sub-state-level Kurdish jurisdiction with formal constitutional autonomy framework is structurally distinctive globally — Iraqi Constitution 2005 Article 117 formally recognising Kurdistan Region.",
+    "Only sub-state-level Kurdish jurisdiction with continuous de facto independence framework predating constitutional recognition is structurally distinctive globally — 14 years of de facto autonomy 1991-2005 prior to formal constitutional recognition.",
+    "Central jurisdiction of contested 2017 Kurdistan independence referendum framework is structurally distinctive globally — 92.73% YES with 72.16% turnout, characterised by Iraqi Federal Government + Iran + Turkey as unilateral non-binding action.",
+    "Central jurisdiction of one of most distinctive modern post-Saddam constitutional federal frameworks is structurally distinctive globally — post-2003 Iraq War + 2005 Iraqi Constitution federal framework.",
+    "Anfal genocide 1986-1989 + Halabja chemical attack 1988 historical framework is structurally distinctive globally — only modern sub-state-level Kurdish jurisdiction with formal genocide-recognition framework.",
+    "1991 Gulf War No-Fly Zone framework is structurally distinctive globally — only modern sub-state-level Kurdish jurisdiction with formal UNSC-resolution-based de facto autonomy framework.",
+    "Iraqi non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:iraq",
+    "jurisdiction:turkey",
+    "jurisdiction:syria",
+    "jurisdiction:iran",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Kurdistan Regional Government",
+      "url": "https://gov.krd/",
+      "publisher": "Kurdistan Regional Government",
+      "language": "en"
+    },
+    {
+      "title": "Federal Supreme Court of Iraq",
+      "url": "https://www.iraqfsc.iq/",
+      "publisher": "Iraqi Federal Government",
+      "language": "ar"
+    }
+  ],
+  "editorial_notes": [
+    "Kurdistan Region of Iraq jurisdiction sidecar — mixed federal Iraqi civil-law/Sharia-law + Kurdistan-specific Northern Iraqi semi-autonomous region (Iraqi Constitution 2005 Article 117 + Iraqi Personal Status Law 188/1959 + Kurdistan Family-Law Amendment 15/2008 + Kurdistan Independence Referendum 2017 + Iraqi Federal Supreme Court 2022 ruling + UNSC Resolution 688/1991 + No-Fly Zone framework + Anfal genocide 1986-1989 + Halabja chemical attack 1988 + KRG established 1992 + 2003 Iraq War + Iraqi non-Hague-1980). Only sub-state-level Kurdish jurisdiction with formal constitutional autonomy framework globally + only sub-state-level Kurdish jurisdiction with continuous de facto independence framework predating constitutional recognition + central jurisdiction of contested 2017 Kurdistan independence referendum framework + central jurisdiction of one of most distinctive modern post-Saddam constitutional federal frameworks + Anfal genocide + Halabja chemical attack historical framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northern-Iraqi + mixed Iraqi-civil-law/Sharia-law + Iraqi-semi-autonomous-region cluster + Iraqi-Constitution-2005-Article-117-globally-distinctive + Kurdistan-Independence-Referendum-2017-92-73-percent-YES + de-facto-autonomy-1991-2005-No-Fly-Zone + KRG-established-1992 + Anfal-genocide-1986-1989 + Halabja-chemical-attack-1988 + post-2003-Iraq-War-federal-framework + Iraqi-Federal-Supreme-Court-2022-ruling + Iraqi-non-Hague-1980 clusters within the corpus."
+  ]
+}

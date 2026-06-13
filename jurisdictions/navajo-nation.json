@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "id": "navajo-nation",
+  "name": "Navajo Nation (Naabeehó Bináhásdzo)",
+  "jurisdiction_code": "US-NAV",
+  "legal_system": "mixed",
+  "language": ["en", "nv"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Navajo Nation (Naabeehó Bináhásdzo in Navajo, meaning 'Navajo Land') is a North American mixed common-law/Navajo-customary-law sovereign Indian Nation operating within the federal-trust framework of the United States — structurally distinctive globally as the largest US Indian tribal nation by land area (~71,000 km² spanning portions of Arizona, New Mexico, and Utah, with sovereignty over an additional ~46,500 km² of disputed land), as the largest US Indian tribal nation by population (~399,494 enrolled members per 2020 census), as the only US Indian tribal nation operating a comprehensive Navajo Common Law (Diné bi beenahaz'áanii) framework applied by the Navajo Nation Supreme Court under explicit constitutional preference over common law (Navajo Nation Code Title 7 § 204(B) — courts shall apply Navajo Common Law as the law of preference), and as the only US Indian tribal nation with its own constitutionally-protected Peacemaker Court (Hózhóójí Naat'aanii) restorative-justice framework operating parallel to the Anglo-American adversarial court framework. The Navajo Nation operates under the Treaty of Bosque Redondo (Treaty Between the United States of America and the Navajo Tribe of Indians, 1 June 1868), the Indian Reorganization Act 1934, the Indian Civil Rights Act 1968, the Indian Child Welfare Act 1978 (ICWA), and the federal Tribal Self-Governance Act 1994 + Tribal Law and Order Act 2010 + Violence Against Women Act 2013 (VAWA) frameworks. Family-law framework operates under the Navajo Nation Code Title 9 (Domestic Relations) with Navajo Common Law principles including the matrilineal clan-membership framework (k'éí), the Navajo concept of hózhǫ́ (harmony/beauty/balance) as guiding family-law principle, and Peacemaker Court restorative-justice processes. Parental authority operates under Navajo Nation Code Title 9 and ICWA federal framework. The Navajo Nation Supreme Court is the apex tribal court for civil and tribal matters; jurisdiction over criminal matters involving non-tribal members and major-crimes federal-court jurisdiction operates under the federal Major Crimes Act 1885. The Navajo Nation is silent on 'parental alienation' as a statutory label, though Navajo Common Law principles substantively address related family-discord frameworks via Peacemaker Court processes. The US is a Hague Convention 1980 party — Navajo Nation Hague applicability via US federal extension with ICWA-applicable additional federal framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Treaty of Bosque Redondo 1868",
+      "title": "Treaty Between the United States and the Navajo Tribe of Indians",
+      "year": 1868,
+      "url": "https://www.navajo-nsn.gov/",
+      "relevance": "International treaty of 1 June 1868 between United States and Navajo Tribe — foundational treaty establishing Navajo Nation reservation and sovereignty framework following the Long Walk."
+    },
+    {
+      "citation": "Navajo Nation Code Title 7 § 204(B) (Navajo Common Law)",
+      "title": "Navajo Nation Code Title 7 — Navajo Common Law",
+      "year": 1985,
+      "url": "https://www.navajo-nsn.gov/",
+      "relevance": "Navajo Nation Code provision establishing courts shall apply Navajo Common Law as the law of preference."
+    },
+    {
+      "citation": "Navajo Nation Code Title 9 (Domestic Relations)",
+      "title": "Navajo Nation Code Title 9 — Domestic Relations",
+      "year": 1985,
+      "url": "https://www.navajo-nsn.gov/",
+      "relevance": "Navajo Nation Code provisions governing family-law matters including parental responsibility and child custody."
+    },
+    {
+      "citation": "Indian Child Welfare Act 1978 (ICWA) (federal)",
+      "title": "Indian Child Welfare Act",
+      "year": 1978,
+      "url": "https://www.uscourts.gov/",
+      "relevance": "Federal US Act of 8 November 1978 establishing federal framework for placement of Indian children in foster care and adoption proceedings."
+    },
+    {
+      "citation": "Indian Civil Rights Act 1968 (federal)",
+      "title": "Indian Civil Rights Act",
+      "year": 1968,
+      "url": "https://www.uscourts.gov/",
+      "relevance": "Federal US Act of 11 April 1968 establishing constitutional rights protections for Indian tribal members."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Navajo Nation Supreme Court",
+      "seat": "Window Rock, Arizona",
+      "url": "https://courts.navajo-nsn.gov/",
+      "role": "Apex tribal court for civil and tribal matters from Navajo Nation."
+    },
+    {
+      "name": "Navajo Nation District Courts (Peacemaker Court / Hózhóójí Naat'aanii)",
+      "seat": "Multiple judicial districts",
+      "url": "https://courts.navajo-nsn.gov/",
+      "role": "Tribal courts including Peacemaker Court restorative-justice framework operating parallel to the Anglo-American adversarial court framework."
+    },
+    {
+      "name": "United States Supreme Court (federal review of major-crimes and federal-Indian-law questions)",
+      "seat": "Washington, DC",
+      "url": "https://www.supremecourt.gov/",
+      "role": "Federal final appellate court for federal-Indian-law questions from Navajo Nation."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Navajo Nation Division of Health",
+      "url": "https://www.nndoh.org/",
+      "role": "Navajo Nation health framework — operates under federal Indian Health Service framework."
+    }
+  ],
+  "anonymisation_convention": "Navajo Nation family-court decisions are anonymised per Navajo Nation Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1864,
+      "title": "Long Walk of the Navajo",
+      "description": "Long Walk of the Navajo (Hwéeldi) of 1864 — forced relocation of ~8,500 Navajo from Diné Bikéyah to Bosque Redondo (Fort Sumner) — foundational historical injustice preceding 1868 Treaty."
+    },
+    {
+      "year": 1868,
+      "title": "Treaty of Bosque Redondo",
+      "description": "International treaty of 1 June 1868 between United States and Navajo Tribe — establishing Navajo Nation reservation."
+    },
+    {
+      "year": 1934,
+      "title": "Indian Reorganization Act",
+      "description": "Federal US Act of 18 June 1934 reorganising Indian tribal governance framework — Navajo Nation declined IRA constitution adoption, retaining traditional governance."
+    },
+    {
+      "year": 1968,
+      "title": "Indian Civil Rights Act",
+      "description": "Federal US Act of 11 April 1968 establishing constitutional rights protections for Indian tribal members."
+    },
+    {
+      "year": 1978,
+      "title": "Indian Child Welfare Act (ICWA)",
+      "description": "Federal US Act of 8 November 1978 establishing federal framework for placement of Indian children in foster care and adoption proceedings."
+    },
+    {
+      "year": 1985,
+      "title": "Navajo Nation Code Title 7 § 204(B) Navajo Common Law",
+      "description": "Navajo Nation Code provision establishing courts shall apply Navajo Common Law as the law of preference."
+    },
+    {
+      "year": 1990,
+      "title": "Peacemaker Court (Hózhóójí Naat'aanii) formal establishment",
+      "description": "Peacemaker Court formal establishment within Navajo Nation court system — restorative-justice framework operating parallel to adversarial court framework."
+    }
+  ],
+  "structural_findings": [
+    "Navajo Nation operates a mixed Anglo-American common-law + Navajo Common Law (Diné bi beenahaz'áanii) framework — places Navajo Nation in the North American sovereign-Indian-Nation cluster.",
+    "Largest US Indian tribal nation by land area (~71,000 km²) is structurally distinctive globally.",
+    "Largest US Indian tribal nation by population (~399,494 enrolled members) is structurally distinctive globally.",
+    "Only US Indian tribal nation operating comprehensive Navajo Common Law framework applied by tribal court under explicit constitutional preference over common law is structurally distinctive globally — Navajo Nation Code Title 7 § 204(B).",
+    "Only US Indian tribal nation with constitutionally-protected Peacemaker Court (Hózhóójí Naat'aanii) restorative-justice framework operating parallel to Anglo-American adversarial court framework is structurally distinctive globally.",
+    "Matrilineal clan-membership framework (k'éí) is structurally distinctive globally — only US Indian tribal nation with constitutionally-protected matrilineal clan-membership framework.",
+    "Hózhǫ́ (harmony/beauty/balance) as guiding family-law principle is structurally distinctive globally — only Indigenous-language family-law principle constitutionally entrenched.",
+    "Treaty of Bosque Redondo 1868 foundational framework is structurally distinctive within US Indian-treaty cluster.",
+    "Federal US Hague Convention 1980 + ICWA + Navajo Nation tribal framework intersection is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:louisiana",
+    "jurisdiction:quebec",
+    "jurisdiction:nunavut",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Navajo Nation Government",
+      "url": "https://www.navajo-nsn.gov/",
+      "publisher": "Navajo Nation",
+      "language": "en"
+    },
+    {
+      "title": "Navajo Nation Courts",
+      "url": "https://courts.navajo-nsn.gov/",
+      "publisher": "Navajo Nation",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Navajo Nation jurisdiction sidecar — mixed Anglo-American common-law/Navajo Common Law sovereign Indian Nation within US federal-trust framework (Treaty of Bosque Redondo 1868 + Navajo Nation Code Title 7 § 204(B) Navajo Common Law + Navajo Nation Code Title 9 Domestic Relations + Peacemaker Court (Hózhóójí Naat'aanii) restorative-justice framework + ICWA 1978 + Indian Civil Rights Act 1968 + Federal US Hague Convention 1980 accession). Largest US Indian tribal nation by land area and population globally + only US Indian tribal nation operating comprehensive Navajo Common Law framework under explicit constitutional preference over common law + only US Indian tribal nation with constitutionally-protected Peacemaker Court restorative-justice framework + only US Indian tribal nation with constitutionally-protected matrilineal clan-membership framework + only Indigenous-language family-law principle (hózhǫ́) constitutionally entrenched.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-American + mixed Anglo-American-common-law/Navajo-Common-Law + sovereign-Indian-Nation cluster + largest-US-Indian-tribal-nation-globally-distinctive + Navajo-Common-Law-constitutional-preference + Peacemaker-Court-Hózhóójí-Naat'aanii-restorative-justice + matrilineal-clan-membership-k'éí + hózhǫ́-Indigenous-language-family-law-principle + Treaty-of-Bosque-Redondo-1868 + ICWA-federal-framework + Federal-US-Hague-extension clusters within the corpus."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "african-charter-rights-welfare-child",
+  "name": "African Charter on the Rights and Welfare of the Child (ACRWC / Charter)",
+  "jurisdiction_code": "ACR",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "pt", "ar", "sw"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The African Charter on the Rights and Welfare of the Child (ACRWC / Charter) is a Sub-Saharan African supranational meta-framework children's-rights instrument adopted by the Organisation of African Unity (OAU) — structurally distinctive globally as one of only two regional children's-rights binding treaty frameworks globally (alongside the European Convention on the Exercise of Children's Rights 1996 — distinct framework, structurally distinctive globally as the only African regional binding children's-rights treaty framework), as the only modern regional children's-rights framework operating both binding-treaty framework + dedicated monitoring-body framework (African Committee of Experts on the Rights and Welfare of the Child ACERWC established under Charter Article 32 — distinct from UNCRC's Committee on the Rights of the Child UN framework + EU's no-dedicated-monitoring-body framework), as the central jurisdiction of the formal African post-colonial children's-rights elaboration framework (ACRWC adopted 11 July 1990 by 26th Assembly of Heads of State and Government of the OAU in Addis Ababa + effective 29 November 1999 — second regional children's-rights instrument in the world after UNCRC 1989 + first regional African children's-rights instrument framework + formal African-specific children's-rights framework distinguishing from UNCRC 1989 in formal African-context-specific provisions including Article 31 Responsibilities of the Child Towards Family + Society framework, distinct from UNCRC operating universal-children's-rights framework without formal Responsibilities-of-the-Child framework), and as the central jurisdiction of one of the most distinctive modern regional best-interests-of-the-child frameworks (Charter Article 4 Best Interests of the Child framework + Article 9 Freedom of Expression + Article 19 Parent Care and Protection + Article 20 Parental Responsibilities + Article 25 Separation from Parents framework — formal African-specific best-interests-of-the-child + parental-responsibilities framework, distinct from UNCRC Article 3 Best Interests of the Child framework). The ACRWC is binding upon all 49 of 55 African Union member states that have ratified the Charter as of 2026 (excluding Democratic Republic of the Congo + Equatorial Guinea + Tunisia + Sahrawi Arab Democratic Republic + South Sudan + Somalia). The Charter is silent on 'parental alienation' as a statutory label, though Article 4 Best Interests of the Child + Article 19 Parent Care and Protection + Article 20 Parental Responsibilities frameworks are applicable. The African Committee of Experts on the Rights and Welfare of the Child (ACERWC) is the apex monitoring body; the African Court on Human and Peoples' Rights is the apex judicial body for state-party violations. The ACRWC is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "African Charter on the Rights and Welfare of the Child 1990",
+      "title": "African Charter on the Rights and Welfare of the Child",
+      "year": 1999,
+      "url": "https://au.int/",
+      "relevance": "African Charter on the Rights and Welfare of the Child adopted 11 July 1990 + effective 29 November 1999 — formal African regional binding children's-rights treaty framework."
+    },
+    {
+      "citation": "ACERWC Establishment Framework (Charter Article 32)",
+      "title": "ACERWC Establishment Framework",
+      "year": 2001,
+      "url": "https://www.acerwc.africa/",
+      "relevance": "African Committee of Experts on the Rights and Welfare of the Child ACERWC established 2001 under Charter Article 32 — formal dedicated monitoring-body framework."
+    },
+    {
+      "citation": "African Court on Human and Peoples' Rights Protocol 1998",
+      "title": "African Court on Human and Peoples' Rights Protocol",
+      "year": 2004,
+      "url": "https://www.african-court.org/",
+      "relevance": "African Court on Human and Peoples' Rights Protocol adopted 10 June 1998 + effective 25 January 2004 — formal African regional judicial body framework applicable to ACRWC violations."
+    },
+    {
+      "citation": "OAU Charter 1963 + Constitutive Act of the African Union 2000",
+      "title": "OAU Charter + Constitutive Act of the African Union",
+      "year": 2002,
+      "url": "https://au.int/",
+      "relevance": "Organisation of African Unity Charter signed 25 May 1963 + Constitutive Act of the African Union signed 11 July 2000 effective 26 May 2001 + AU formally established 9 July 2002 — formal African regional supranational framework underlying ACRWC."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "African Committee of Experts on the Rights and Welfare of the Child (ACERWC)",
+      "seat": "Addis Ababa",
+      "url": "https://www.acerwc.africa/",
+      "role": "Apex monitoring body for ACRWC implementation in state parties."
+    },
+    {
+      "name": "African Court on Human and Peoples' Rights",
+      "seat": "Arusha",
+      "url": "https://www.african-court.org/",
+      "role": "Apex judicial body for state-party violations of ACRWC + African Charter on Human and Peoples' Rights."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ACERWC Secretariat",
+      "url": "https://www.acerwc.africa/",
+      "role": "ACRWC implementation monitoring framework."
+    }
+  ],
+  "anonymisation_convention": "ACRWC-related individual communications are anonymised per ACERWC + African Court on Human and Peoples' Rights practice using initials.",
+  "key_developments": [
+    {
+      "year": 1963,
+      "title": "OAU Charter",
+      "description": "Organisation of African Unity Charter signed 25 May 1963 — beginning of formal African regional supranational framework."
+    },
+    {
+      "year": 1989,
+      "title": "UN Convention on the Rights of the Child",
+      "description": "UN Convention on the Rights of the Child UNCRC adopted 20 November 1989 — universal children's-rights framework that catalysed ACRWC 1990 development."
+    },
+    {
+      "year": 1990,
+      "title": "ACRWC adopted",
+      "description": "African Charter on the Rights and Welfare of the Child adopted 11 July 1990 by 26th Assembly of Heads of State and Government of the OAU in Addis Ababa."
+    },
+    {
+      "year": 1999,
+      "title": "ACRWC enters force",
+      "description": "African Charter on the Rights and Welfare of the Child entered force 29 November 1999 — second regional children's-rights instrument in the world."
+    },
+    {
+      "year": 2001,
+      "title": "ACERWC established",
+      "description": "African Committee of Experts on the Rights and Welfare of the Child ACERWC established 2001 — formal dedicated monitoring-body framework."
+    },
+    {
+      "year": 2002,
+      "title": "African Union established",
+      "description": "African Union formally established 9 July 2002 — succession from Organisation of African Unity OAU framework."
+    },
+    {
+      "year": 2004,
+      "title": "African Court on Human and Peoples' Rights established",
+      "description": "African Court on Human and Peoples' Rights established 25 January 2004 — formal African regional judicial body applicable to ACRWC violations."
+    }
+  ],
+  "structural_findings": [
+    "ACRWC operates a supranational African regional children's-rights binding treaty framework — places ACRWC in the Sub-Saharan African supranational-meta-framework cluster.",
+    "One of only two regional children's-rights binding treaty frameworks globally is structurally distinctive globally — alongside European Convention on the Exercise of Children's Rights 1996 framework.",
+    "Only modern regional children's-rights framework operating both binding-treaty framework + dedicated monitoring-body framework is structurally distinctive globally — distinct from UNCRC's UN framework + EU's no-dedicated-monitoring-body framework.",
+    "Central jurisdiction of formal African post-colonial children's-rights elaboration framework is structurally distinctive globally — second regional children's-rights instrument in the world.",
+    "Central jurisdiction of one of most distinctive modern regional best-interests-of-the-child frameworks is structurally distinctive globally — Charter Article 4 + 9 + 19 + 20 + 25 frameworks.",
+    "Article 31 Responsibilities of the Child Towards Family + Society framework is structurally distinctive globally — only regional children's-rights instrument operating formal Responsibilities-of-the-Child framework.",
+    "ACERWC dedicated monitoring-body framework is structurally distinctive globally — only regional children's-rights treaty with formal dedicated monitoring-body framework.",
+    "1990 ACRWC adoption + 1999 entry into force + 2001 ACERWC establishment + 2002 AU establishment + 2004 African Court establishment regional-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:african-union",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child"
+  ],
+  "sources": [
+    {
+      "title": "African Union",
+      "url": "https://au.int/",
+      "publisher": "African Union",
+      "language": "en"
+    },
+    {
+      "title": "African Committee of Experts on the Rights and Welfare of the Child (ACERWC)",
+      "url": "https://www.acerwc.africa/",
+      "publisher": "ACERWC",
+      "language": "en"
+    },
+    {
+      "title": "African Court on Human and Peoples' Rights",
+      "url": "https://www.african-court.org/",
+      "publisher": "African Court on Human and Peoples' Rights",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "African Charter on the Rights and Welfare of the Child jurisdiction sidecar — supranational Sub-Saharan African regional children's-rights binding treaty meta-framework (African Charter on the Rights and Welfare of the Child 1990/1999 + ACERWC Establishment 2001 + African Court Protocol 1998/2004 + OAU Charter 1963 + Constitutive Act of the African Union 2000/2002 + UN Convention on the Rights of the Child UNCRC 1989). One of only two regional children's-rights binding treaty frameworks globally + only modern regional children's-rights framework operating both binding-treaty framework + dedicated monitoring-body framework + central jurisdiction of formal African post-colonial children's-rights elaboration framework + central jurisdiction of one of most distinctive modern regional best-interests-of-the-child frameworks + Article 31 Responsibilities of the Child framework only-regional-children's-rights-instrument-operating-formal-Responsibilities-of-the-Child framework + 1990 ACRWC adoption + 1999 entry into force + 2001 ACERWC establishment + 2002 AU + 2004 African Court regional-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Sub-Saharan-African + supranational + African-regional-children's-rights-binding-treaty cluster + ACRWC-Article-4-Best-Interests-of-the-Child + Article-19-Parent-Care-and-Protection + Article-20-Parental-Responsibilities + Article-25-Separation-from-Parents + Article-31-Responsibilities-of-the-Child-globally-distinctive + ACERWC-dedicated-monitoring-body + African-Court-on-Human-and-Peoples'-Rights + 1990-ACRWC-second-regional-instrument-after-UNCRC-1989 + OAU-AU-1963-2002 clusters within the corpus."
+  ]
+}

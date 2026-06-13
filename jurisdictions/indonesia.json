@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "indonesia",
+  "name": "Indonesia",
+  "jurisdiction_code": "ID",
+  "legal_system": "mixed",
+  "language": ["id"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Indonesia is a Southeast Asian mixed-legal-system unitary republic operating a dual personal-status framework with Muslim matters heard by Religious Courts (Pengadilan Agama) under the Compilation of Islamic Law (Kompilasi Hukum Islam 1991) and the Marriage Law 1/1974, and non-Muslim matters heard by the General Courts (Pengadilan Negeri) under civil-code principles inherited from the Dutch colonial period. Parental rights and custody are governed by Marriage Law 1/1974 arts. 41-49 (general) and KHI arts. 105-112 (Muslim matters). The Mahkamah Agung (Supreme Court of Indonesia, Jakarta) is the apex court for civil, criminal, religious-court and administrative matters; the Mahkamah Konstitusi (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under Law 23/2022 (On the Profession of Psychologist) establishing the Himpunan Psikologi Indonesia (HIMPSI) as the statutory professional-order regulator alongside the Ministry of Education licensing of the Psikolog title. Indonesia is silent on 'parental alienation' as a statutory label; courts operate substantively under the kepentingan terbaik anak (best-interests-of-the-child) standard. Indonesia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Marriage Law 1/1974 (Undang-Undang Perkawinan) arts. 41-49",
+      "title": "Marriage Law 1974 — Parental responsibilities",
+      "year": 1974,
+      "url": "https://peraturan.bpk.go.id/",
+      "relevance": "Federal statute governing marriage and parental responsibilities. Substantially amended by Law 16/2019 (raising minimum marriage age to 19). Arts. 41-49 govern parental rights and obligations including custody on dissolution of marriage."
+    },
+    {
+      "citation": "Kompilasi Hukum Islam (KHI 1991) arts. 105-112",
+      "title": "Compilation of Islamic Law — Custody",
+      "year": 1991,
+      "url": "https://peraturan.bpk.go.id/",
+      "relevance": "Federal compilation of Islamic personal-law norms in force for Muslims via Religious Courts. Arts. 105-112 govern hadana (custody) provisions on Shafi'i jurisprudential basis."
+    },
+    {
+      "citation": "Law 23/2022 — Psychologist Profession",
+      "title": "Law on the Profession of Psychologist",
+      "year": 2022,
+      "url": "https://peraturan.bpk.go.id/",
+      "relevance": "Federal statute establishing the statutory framework for the psychology profession. Statutory title protection and HIMPSI professional-order regulation."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Mahkamah Agung (Supreme Court of Indonesia)",
+      "seat": "Jakarta",
+      "url": "https://www.mahkamahagung.go.id/",
+      "role": "Apex court for civil, criminal, religious-court and administrative matters across both general and religious court systems."
+    },
+    {
+      "name": "Mahkamah Konstitusi (Constitutional Court)",
+      "seat": "Jakarta",
+      "url": "https://www.mkri.id/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review of statutes."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Himpunan Psikologi Indonesia (HIMPSI)",
+      "url": "https://himpsi.or.id/",
+      "role": "Statutory professional-order regulator under Law 23/2022. Operates ethics code, disciplinary jurisdiction, and statutory licensing framework for psychologists."
+    }
+  ],
+  "anonymisation_convention": "Indonesian family-court decisions are anonymised per Mahkamah Agung practice using initials.",
+  "key_developments": [
+    {
+      "year": 1974,
+      "title": "Marriage Law 1/1974",
+      "description": "Federal Marriage Law enacted."
+    },
+    {
+      "year": 1991,
+      "title": "Kompilasi Hukum Islam 1991",
+      "description": "Compilation of Islamic Law promulgated for use in Religious Courts."
+    },
+    {
+      "year": 2019,
+      "title": "Law 16/2019 amendment",
+      "description": "Marriage Law amended to raise minimum marriage age to 19 for both spouses."
+    },
+    {
+      "year": 2022,
+      "title": "Law 23/2022 Psychologist Profession",
+      "description": "Statutory framework for psychology profession with HIMPSI as statutory regulator."
+    }
+  ],
+  "structural_findings": [
+    "Indonesia operates a structurally distinctive dual personal-status framework — Religious Courts (Pengadilan Agama) for Muslims under KHI + Marriage Law + Civil Code (Dutch-inherited) for non-Muslims via General Courts. Distinctive within the corpus for the parallel-court structure with shared apex appellate jurisdiction at Mahkamah Agung.",
+    "HIMPSI statutory professional-order regime (Law 23/2022) places Indonesia among the federal-statutory psychology regulator group within the corpus.",
+    "Non-Hague Convention status places Indonesia in the non-Hague Asian cluster. Relevant to cross-border-displacement custody matters."
+  ],
+  "references": [
+    "jurisdiction:singapore",
+    "jurisdiction:japan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:evaluator-quality-regulation-across-jurisdictions"
+  ],
+  "sources": [
+    {
+      "title": "Mahkamah Agung",
+      "url": "https://www.mahkamahagung.go.id/",
+      "publisher": "Supreme Court of Indonesia",
+      "language": "id,en"
+    },
+    {
+      "title": "Mahkamah Konstitusi",
+      "url": "https://www.mkri.id/",
+      "publisher": "Constitutional Court",
+      "language": "id,en"
+    },
+    {
+      "title": "Peraturan.BPK — Indonesian legal database",
+      "url": "https://peraturan.bpk.go.id/",
+      "publisher": "Audit Board of Indonesia",
+      "language": "id"
+    },
+    {
+      "title": "HIMPSI",
+      "url": "https://himpsi.or.id/",
+      "publisher": "HIMPSI",
+      "language": "id"
+    }
+  ],
+  "editorial_notes": [
+    "Indonesia jurisdiction sidecar — dual personal-status framework (Religious Courts Muslim + General Courts non-Muslim). Marriage Law 1/1974 + KHI 1991 + Law 23/2022 HIMPSI psychology regulator + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Asian + dual-personal-status + federal-statutory psychology regulator + non-Hague Convention clusters within the corpus."
+  ]
+}

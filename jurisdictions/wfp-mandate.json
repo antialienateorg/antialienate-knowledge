@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "id": "wfp-mandate",
+  "name": "WFP Mandate 1961-1963 (World Food Programme)",
+  "jurisdiction_code": "WFP",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The World Food Programme (WFP) is a global supranational meta-framework foundational-WFP framework established by the UN General Assembly + FAO Conference jointly — structurally distinctive globally as the only modern global supranational framework operating on formal international-emergency-food-assistance framework + largest humanitarian organization globally framework (WFP established 24 November 1961 by UN General Assembly Resolution 1714 XVI + FAO Conference Resolution 1-61 jointly as 3-year experimental basis + WFP operations began 1 January 1963 + permanent UN agency framework 1965 + UN General Assembly Resolution 2095 XX + FAO Conference Resolution 4-65 jointly — formal foundational WFP framework establishing comprehensive WFP organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-emergency-food-assistance framework + largest humanitarian organization globally framework + only modern global supranational framework operating formal WFP-Nobel-Peace-Prize-2020 framework + only modern global supranational framework operating formal Yemen-cholera-children-2017-2024 famine framework + only modern global supranational framework operating formal Gaza-IPC-Phase-5-famine 2024 framework + only modern global supranational framework operating formal Sudan-IPC-Phase-5-famine 2024 framework + only modern global supranational framework operating formal Afghanistan-Taliban-2021-largest-food-insecurity framework + WFP delivered 122 million people food assistance 2024 framework + USD 9.8 billion budget 2024 framework + only modern global supranational framework operating formal UNHAS UN Humanitarian Air Service framework via 21 countries 2024 framework + only modern global supranational framework operating formal Trump-administration-USAID-cuts-2025 budget-crisis framework), as the central jurisdiction of the formal WFP Nobel Peace Prize 2020 framework (WFP Nobel Peace Prize awarded 10 December 2020 for efforts to combat hunger + contribute to bettering conditions for peace in conflict-affected areas + acting as driving force in efforts to prevent use of hunger as weapon of war — formal foundational WFP Nobel Peace Prize framework, structurally distinctive globally as the only modern global supranational framework operating formal Nobel Peace Prize 2020 framework), as the central jurisdiction of the formal WFP Global Operations Budget framework (WFP Global Operations Budget framework providing formal USD 9.8 billion budget 2024 + USD 19.7 billion budget 2022 record framework — formal foundational WFP Global Operations Budget framework, structurally distinctive globally as the only modern global supranational framework operating formal USD-multi-billion-dollar humanitarian framework), and as the central jurisdiction of the formal WFP IPC Phase 5 Famine Response framework (WFP IPC Phase 5 Famine Response framework via IPC Phase 5 famine declared in Gaza March 2024 + Sudan El Fasher 2024 + Yemen + Tigray 2021-2023 framework — formal foundational WFP IPC Phase 5 Famine Response framework, structurally distinctive globally as the only modern global supranational framework operating formal IPC Phase 5 Famine Response framework). The WFP Mandate is operating upon 122 countries 2024 + 25 emergency operations 2024 — comprehensive humanitarian coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal WFP family-food-assistance framework operates limited intersection with parental-alienation framework via formal family-food-security framework + UNICEF-WFP-joint child-nutrition framework. The WFP Executive Board + WFP Executive Director + WFP Secretariat + WFP Country Offices are the formal WFP bodies; national-level apex courts operate as judicial bodies. The WFP Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "WFP Founding Resolution 1961 (UN General Assembly Resolution 1714 XVI + FAO Conference Resolution 1-61)",
+      "title": "WFP Founding Resolution",
+      "year": 1961,
+      "url": "https://www.wfp.org/",
+      "relevance": "WFP established 24 November 1961 by UN General Assembly Resolution 1714 XVI + FAO Conference Resolution 1-61 jointly — formal foundational WFP framework establishing comprehensive WFP organisation framework."
+    },
+    {
+      "citation": "WFP Permanent Agency Resolution 1965 (UN General Assembly Resolution 2095 XX + FAO Conference Resolution 4-65)",
+      "title": "WFP Permanent Agency Resolution",
+      "year": 1965,
+      "url": "https://www.wfp.org/",
+      "relevance": "WFP permanent UN agency framework 1965 by UN General Assembly Resolution 2095 XX + FAO Conference Resolution 4-65 jointly — formal WFP permanent agency framework operational."
+    },
+    {
+      "citation": "WFP Nobel Peace Prize 2020",
+      "title": "WFP Nobel Peace Prize 2020",
+      "year": 2020,
+      "url": "https://www.wfp.org/",
+      "relevance": "WFP Nobel Peace Prize awarded 10 December 2020 — formal foundational WFP Nobel Peace Prize framework."
+    },
+    {
+      "citation": "WFP Strategic Plan 2022-2025",
+      "title": "WFP Strategic Plan 2022-2025",
+      "year": 2022,
+      "url": "https://www.wfp.org/",
+      "relevance": "WFP Strategic Plan 2022-2025 adopted 8 November 2021 — formal foundational WFP Strategic Plan framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "WFP Executive Board",
+      "seat": "Rome",
+      "url": "https://executiveboard.wfp.org/",
+      "role": "Formal supreme decision-making body for WFP."
+    },
+    {
+      "name": "WFP Executive Director",
+      "seat": "Rome",
+      "url": "https://www.wfp.org/executive-director",
+      "role": "Formal administrative head body for WFP."
+    },
+    {
+      "name": "WFP Secretariat",
+      "seat": "Rome",
+      "url": "https://www.wfp.org/",
+      "role": "Formal administrative body for WFP."
+    },
+    {
+      "name": "WFP Country Offices (122 countries 2024)",
+      "seat": "122 countries 2024",
+      "url": "https://www.wfp.org/",
+      "role": "Formal WFP country-level operations body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "WFP Secretariat",
+      "url": "https://www.wfp.org/",
+      "role": "WFP Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "WFP-related communications operate via state-state framework via WFP Executive Board + UN General Assembly + FAO Conference; individual communications not formally accepted under WFP framework.",
+  "key_developments": [
+    {
+      "year": 1961,
+      "title": "WFP established",
+      "description": "WFP established 24 November 1961 by UN General Assembly Resolution 1714 XVI + FAO Conference Resolution 1-61 jointly as 3-year experimental basis — formal foundational WFP framework operational."
+    },
+    {
+      "year": 1963,
+      "title": "WFP operations begin",
+      "description": "WFP operations began 1 January 1963 + first WFP emergency operations 1963 in Iran + Sudan + Algeria framework — formal foundational WFP operational framework operational."
+    },
+    {
+      "year": 1965,
+      "title": "WFP permanent UN agency",
+      "description": "WFP permanent UN agency framework 1965 by UN General Assembly Resolution 2095 XX + FAO Conference Resolution 4-65 jointly — formal WFP permanent agency framework operational."
+    },
+    {
+      "year": 1992,
+      "title": "WFP Executive Director Catherine Bertini + Famine response",
+      "description": "WFP Executive Director Catherine Bertini appointed 1 April 1992 first female WFP Executive Director framework + Somalia + Sudan famine response framework — formal WFP Executive Director framework operational."
+    },
+    {
+      "year": 2017,
+      "title": "Yemen cholera + famine response",
+      "description": "Yemen cholera outbreak 2017 + Yemen famine response framework — formal WFP Yemen famine response framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "WFP Nobel Peace Prize",
+      "description": "WFP Nobel Peace Prize awarded 10 December 2020 for efforts to combat hunger + contribute to bettering conditions for peace in conflict-affected areas + acting as driving force in efforts to prevent use of hunger as weapon of war — formal foundational WFP Nobel Peace Prize framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Afghanistan Taliban + Ethiopia Tigray famine",
+      "description": "Afghanistan Taliban takeover 15 August 2021 + Ethiopia Tigray IPC Phase 5 famine 2021-2022 framework — formal WFP Afghanistan + Tigray famine response framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "WFP USD 19.7 billion record budget + Russia-Ukraine + Black Sea Grain Initiative",
+      "description": "WFP USD 19.7 billion record budget 2022 + Russia invaded Ukraine 24 February 2022 + Black Sea Grain Initiative signed 22 July 2022 — formal WFP record budget + Russia-Ukraine response framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Sudan civil war + IPC Phase 5 famine",
+      "description": "Sudan civil war began 15 April 2023 + Sudan El Fasher IPC Phase 5 famine 2024 framework + Israel-Hamas-Gaza war 7 October 2023 onwards — formal WFP Sudan + Gaza response framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Gaza IPC Phase 5 famine + Sudan + WFP 122 million people",
+      "description": "Gaza IPC Phase 5 famine declared March 2024 + Sudan El Fasher IPC Phase 5 famine August 2024 + WFP delivered 122 million people food assistance 2024 + WFP USD 9.8 billion budget 2024 framework — formal WFP Gaza + Sudan + global response framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-administration USAID cuts WFP budget-crisis",
+      "description": "Trump-administration USAID cuts 2025 + WFP budget-crisis framework operational + 30% WFP staffing cuts framework + WFP Executive Director Cindy McCain 2023-2026 — formal WFP USAID-cuts budget-crisis framework operational."
+    }
+  ],
+  "structural_findings": [
+    "WFP Mandate operates a supranational global framework — places WFP Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-emergency-food-assistance framework + largest humanitarian organization globally framework is structurally distinctive globally — only modern global supranational framework operating on formal international-emergency-food-assistance framework + largest humanitarian organization globally framework + only modern global supranational framework operating formal WFP-Nobel-Peace-Prize-2020 framework + only modern global supranational framework operating formal Yemen-cholera-children-2017-2024 famine framework + only modern global supranational framework operating formal Gaza-IPC-Phase-5-famine 2024 framework + only modern global supranational framework operating formal Sudan-IPC-Phase-5-famine 2024 framework + only modern global supranational framework operating formal Afghanistan-Taliban-2021-largest-food-insecurity framework + WFP delivered 122 million people food assistance 2024 framework + USD 9.8 billion budget 2024 framework + only modern global supranational framework operating formal UNHAS UN Humanitarian Air Service framework via 21 countries 2024 framework + only modern global supranational framework operating formal Trump-administration-USAID-cuts-2025 budget-crisis framework.",
+    "Central jurisdiction of formal WFP Nobel Peace Prize 2020 framework is structurally distinctive globally — only modern global supranational framework operating formal Nobel Peace Prize 2020 framework.",
+    "Central jurisdiction of formal WFP Global Operations Budget framework is structurally distinctive globally — only modern global supranational framework operating formal USD-multi-billion-dollar humanitarian framework.",
+    "Central jurisdiction of formal WFP IPC Phase 5 Famine Response framework is structurally distinctive globally — only modern global supranational framework operating formal IPC Phase 5 Famine Response framework.",
+    "122 countries 2024 + 25 emergency operations 2024 framework is structurally distinctive globally — comprehensive humanitarian coverage framework.",
+    "1961 WFP established + 1963 operations + 1965 permanent + 1992 Bertini + 2017 Yemen + 2020 Nobel + 2021 Afghanistan + Tigray + 2022 record + Russia-Ukraine + 2023 Sudan + Gaza + 2024 IPC Phase 5 + 122M people + 2025 USAID cuts WFP-framework-development sequence is structurally distinctive globally.",
+    "WFP Mandate + Founding Resolution + Permanent Agency Resolution + Nobel Peace Prize 2020 + IPC Phase 5 Famine Response + UNHAS + Strategic Plan 2022-2025 formal septet framework with limited PA-intersection framework via formal family-food-security framework + UNICEF-WFP-joint child-nutrition framework — distinctive in operating limited PA-intersection framework via family-food-security framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:fao-constitution",
+    "jurisdiction:unicef-constitution",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "WFP",
+      "url": "https://www.wfp.org/",
+      "publisher": "WFP Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "WFP Mandate jurisdiction sidecar — supranational global international-emergency-food-assistance foundational-WFP meta-framework (WFP Founding Resolution 1961 + Permanent Agency Resolution 1965 + Nobel Peace Prize 2020 + Strategic Plan 2022-2025 + UNHAS + IPC Phase 5 Famine Response + WFP Headquartered Rome since 1963 + 2017 Yemen + 2020 Nobel + 2021 Afghanistan + Tigray + 2022 record + Russia-Ukraine + 2023 Sudan + Gaza + 2024 IPC Phase 5 + 122M people + 2025 USAID cuts). Only modern global supranational framework operating on formal international-emergency-food-assistance framework + largest humanitarian organization globally framework + only modern global supranational framework operating formal Nobel Peace Prize 2020 + only modern global supranational framework operating formal Yemen-cholera-children-2017-2024 famine + Gaza-IPC-Phase-5-famine 2024 + Sudan-IPC-Phase-5-famine 2024 + Afghanistan-Taliban-2021 + 122 million people food assistance 2024 + USD 9.8 billion budget 2024 + USD 19.7 billion budget 2022 record + UNHAS UN Humanitarian Air Service 21 countries 2024 + Trump-administration-USAID-cuts-2025 budget-crisis + central jurisdiction of formal Nobel Peace Prize 2020 + central jurisdiction of formal Global Operations Budget + central jurisdiction of formal IPC Phase 5 Famine Response + 122 countries 2024 + 25 emergency operations 2024 + WFP Executive Director Cindy McCain 2023-2026 + WFP Headquartered Rome + 1961 WFP established + 1963 operations + 1965 permanent + 1992 Bertini + 2017 Yemen + 2020 Nobel + 2021 Afghanistan + Tigray + 2022 record + Russia-Ukraine + 2023 Sudan + Gaza + 2024 IPC Phase 5 + 122M people + 2025 USAID cuts WFP-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: WFP family-food-assistance framework operates limited intersection with parental-alienation framework via formal family-food-security framework + UNICEF-WFP-joint child-nutrition framework.",
+    "Joins global + supranational + international-emergency-food-assistance-foundational-WFP cluster + WFP-only-global-supranational-framework-on-international-emergency-food-assistance-globally-distinctive + largest-humanitarian-organization-globally + WFP-Nobel-Peace-Prize-2020 + Yemen-cholera-2017-2024-famine + Gaza-IPC-Phase-5-famine-March-2024 + Sudan-El-Fasher-IPC-Phase-5-famine-August-2024 + Ethiopia-Tigray-IPC-Phase-5-2021-2022 + Afghanistan-Taliban-2021 + 122-million-people-2024 + USD-9.8-billion-budget-2024 + USD-19.7-billion-budget-2022-record + UNHAS-21-countries-2024 + Trump-USAID-cuts-2025-budget-crisis-30-percent-staff-cuts + 122-countries-2024 + 25-emergency-operations-2024 + WFP-Executive-Director-Cindy-McCain-2023-2026 + WFP-Headquartered-Rome + 1961-WFP-3-year-experimental + 1963-operations-Iran-Sudan-Algeria + 1965-permanent + 1992-Catherine-Bertini-first-female + Black-Sea-Grain-Initiative-2022-2023 + family-food-security-PA-intersection-via-UNICEF-WFP-joint clusters within the corpus."
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "uncat",
+  "name": "UN Convention against Torture (UNCAT 1984)",
+  "jurisdiction_code": "UCT",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (UNCAT) is a global supranational meta-framework torture + ill-treatment binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on torture + cruel, inhuman or degrading treatment or punishment framework (UNCAT adopted 10 December 1984 by UN General Assembly Resolution 39/46 + effective 26 June 1987 — formal universal multilateral binding-treaty framework establishing comprehensive torture + ill-treatment framework, distinct from rest-of-modern-international-human-rights frameworks which operate on broader general-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-torture-and-ill-treatment-specific framework), as the central jurisdiction of the formal Article 2 absolute-prohibition-of-torture framework (UNCAT Article 2(2) framework providing 'No exceptional circumstances whatsoever, whether a state of war or a threat of war, internal political instability or any other public emergency, may be invoked as a justification of torture' — formal absolute-prohibition-of-torture framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal absolute-prohibition-of-torture framework), as the central jurisdiction of the formal Article 14 right-to-redress + reparation framework (UNCAT Article 14 framework providing right of victim of an act of torture to obtain redress + reparation including fair and adequate compensation + as full rehabilitation as possible — formal right-to-redress + reparation framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal right-to-redress + reparation framework for torture victims, with substantial relevance to PA framework via formal children's-rights-victims-of-PA + family-violence redress framework), and as the central jurisdiction of the formal UNCAT Optional Protocol OPCAT 2002 individual visit framework (UNCAT Optional Protocol on the Prevention of Torture OPCAT adopted 18 December 2002 + effective 22 June 2006 — formal Subcommittee on Prevention of Torture SPT + National Preventive Mechanisms NPM individual visit framework, applicable to 95 state parties as of 2026, structurally distinctive globally as the only modern universal binding-treaty framework operating formal individual visit framework for torture prevention). The UNCAT is binding upon 173 state parties as of 2026 — fifth-most-widely-adopted UN human-rights treaty framework after UNCRC + CRPD + CEDAW + ICCPR. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 1 torture-definition + Article 2 absolute-prohibition + Article 14 right-to-redress frameworks operate substantial intersection with parental-alienation framework via formal PA-as-child-psychological-abuse intersection framework + CAT Committee individual communications framework. The CAT Committee is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The UNCAT is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention against Torture 1984",
+      "title": "UNCAT",
+      "year": 1987,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment adopted 10 December 1984 by UN General Assembly Resolution 39/46 + effective 26 June 1987 — formal universal multilateral binding-treaty framework establishing comprehensive torture + ill-treatment framework."
+    },
+    {
+      "citation": "UNCAT Article 1 (Torture Definition) + Article 2 (Absolute Prohibition) + Article 14 (Right to Redress)",
+      "title": "UNCAT Articles 1 + 2 + 14",
+      "year": 1987,
+      "url": "https://www.un.org/",
+      "relevance": "UNCAT Article 1 framework on torture-definition + Article 2 framework on absolute-prohibition-of-torture + Article 14 framework on right-to-redress + reparation — formal foundational torture + ill-treatment framework triad."
+    },
+    {
+      "citation": "UNCAT Optional Protocol OPCAT 2002",
+      "title": "UNCAT OPCAT 2002",
+      "year": 2006,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention against Torture Optional Protocol on the Prevention of Torture OPCAT adopted 18 December 2002 + effective 22 June 2006 — formal Subcommittee on Prevention of Torture SPT + National Preventive Mechanisms NPM individual visit framework."
+    },
+    {
+      "citation": "CAT Committee General Comment 2 2008 (Implementation of Article 2)",
+      "title": "CAT Committee General Comment 2",
+      "year": 2008,
+      "url": "https://www.ohchr.org/",
+      "relevance": "CAT Committee General Comment 2 of 24 January 2008 on Implementation of Article 2 by States Parties — formal CAT framework on Article 2 absolute-prohibition framework."
+    },
+    {
+      "citation": "CAT Committee General Comment 3 2012 (Implementation of Article 14)",
+      "title": "CAT Committee General Comment 3",
+      "year": 2012,
+      "url": "https://www.ohchr.org/",
+      "relevance": "CAT Committee General Comment 3 of 13 December 2012 on Implementation of Article 14 by States Parties — formal CAT framework on Article 14 right-to-redress framework, with relevance to PA framework via formal redress for children-victims of family violence."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Committee against Torture (CAT Committee)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cat",
+      "role": "Apex monitoring framework body for UNCAT."
+    },
+    {
+      "name": "Subcommittee on Prevention of Torture (SPT)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/spt",
+      "role": "Subcommittee on Prevention of Torture SPT — formal UNCAT OPCAT individual visit framework operational body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "UNCAT implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNCAT-related individual communications are anonymised per CAT Committee practice using initials.",
+  "key_developments": [
+    {
+      "year": 1975,
+      "title": "UN Declaration against Torture",
+      "description": "UN Declaration on the Protection of All Persons from Being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment adopted 9 December 1975 — predecessor framework to UNCAT."
+    },
+    {
+      "year": 1984,
+      "title": "UNCAT adopted",
+      "description": "UN Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment adopted 10 December 1984 by UN General Assembly Resolution 39/46 — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 1987,
+      "title": "UNCAT enters force",
+      "description": "UN Convention against Torture entered force 26 June 1987 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "UNCAT Optional Protocol OPCAT adopted",
+      "description": "UN Convention against Torture Optional Protocol on the Prevention of Torture OPCAT adopted 18 December 2002 — formal Subcommittee on Prevention of Torture SPT framework."
+    },
+    {
+      "year": 2006,
+      "title": "UNCAT OPCAT enters force",
+      "description": "UN Convention against Torture Optional Protocol on the Prevention of Torture OPCAT entered force 22 June 2006 — formal SPT framework operational."
+    },
+    {
+      "year": 2008,
+      "title": "CAT General Comment 2",
+      "description": "CAT Committee General Comment 2 of 24 January 2008 on Implementation of Article 2 by States Parties — formal CAT framework on Article 2 absolute-prohibition framework."
+    },
+    {
+      "year": 2012,
+      "title": "CAT General Comment 3",
+      "description": "CAT Committee General Comment 3 of 13 December 2012 on Implementation of Article 14 by States Parties — formal CAT framework on Article 14 right-to-redress framework."
+    }
+  ],
+  "structural_findings": [
+    "UNCAT operates a supranational universal multilateral binding-treaty framework — places UNCAT in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on torture + cruel, inhuman or degrading treatment or punishment framework is structurally distinctive globally — formal-torture-and-ill-treatment-specific framework.",
+    "Central jurisdiction of formal Article 2 absolute-prohibition-of-torture framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal absolute-prohibition-of-torture framework.",
+    "Central jurisdiction of formal Article 14 right-to-redress + reparation framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal right-to-redress + reparation framework for torture victims.",
+    "Central jurisdiction of formal UNCAT Optional Protocol OPCAT 2002 individual visit framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal individual visit framework for torture prevention.",
+    "173 state party ratification framework is structurally distinctive globally — fifth-most-widely-adopted UN human-rights treaty framework after UNCRC + CRPD + CEDAW + ICCPR.",
+    "Article 1 + Article 2 + Article 14 torture-definition + absolute-prohibition + right-to-redress formal triad framework is structurally distinctive globally.",
+    "1975 UN Declaration + 1984 UNCAT + 1987 entry into force + 2002 OPCAT + 2006 OPCAT entry into force + 2008 General Comment 2 + 2012 General Comment 3 torture-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:pa-as-child-abuse",
+    "evidence:alienating-tactics-as-child-abuse"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — UNCAT",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cat",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNCAT jurisdiction sidecar — supranational global torture + ill-treatment universal multilateral binding-treaty meta-framework (UNCAT 1984/1987 + Article 1 Torture Definition + Article 2 Absolute Prohibition + Article 14 Right to Redress + UNCAT OPCAT 2002/2006 + CAT Committee + Subcommittee on Prevention of Torture SPT + National Preventive Mechanisms NPM + CAT General Comment 2 2008 + CAT General Comment 3 2012 + UN Declaration against Torture 1975). Only modern universal multilateral binding-treaty framework operating specifically on torture + cruel, inhuman or degrading treatment or punishment framework globally + central jurisdiction of formal Article 2 absolute-prohibition-of-torture framework + central jurisdiction of formal Article 14 right-to-redress + reparation framework + central jurisdiction of formal UNCAT Optional Protocol OPCAT 2002 individual visit framework + 173 state party ratification framework + Article 1 + Article 2 + Article 14 torture-definition + absolute-prohibition + right-to-redress formal triad framework + 1975 UN Declaration + 1984 UNCAT + 1987 entry into force + 2002 OPCAT + 2006 OPCAT entry into force + 2008 General Comment 2 + 2012 General Comment 3 torture-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 1 torture-definition + Article 14 right-to-redress frameworks operate substantial intersection with parental-alienation framework via formal PA-as-child-psychological-abuse intersection framework + CAT Committee individual communications framework.",
+    "Joins global + supranational + universal-multilateral-torture-binding-treaty cluster + UNCAT-only-universal-torture-binding-treaty-globally-distinctive + Article-2-Absolute-Prohibition-of-Torture + Article-14-Right-to-Redress-Reparation + UNCAT-OPCAT-2002-2006-Subcommittee-on-Prevention-of-Torture-Individual-Visit-Framework + 173-state-party-fifth-most-widely-adopted-UN-human-rights-treaty + CAT-Committee + UN-Declaration-against-Torture-1975-predecessor + PA-as-child-psychological-abuse-intersection clusters within the corpus."
+  ]
+}

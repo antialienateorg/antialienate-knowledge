@@ -1,0 +1,158 @@
+{
+  "schema_version": "1.0",
+  "id": "ireland",
+  "name": "Ireland (Éire)",
+  "jurisdiction_code": "IE",
+  "legal_system": "common-law",
+  "language": ["en", "ga"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Ireland is a common-law unitary republic whose family-court framework operates under the Guardianship of Infants Act 1964 (as amended), the Children and Family Relationships Act 2015, and the Family Law Act 1995. The Constitution of Ireland (Bunreacht na hÉireann) was amended in 2012 to insert Article 42A on children's rights. The Supreme Court is the apex court for civil and constitutional matters; family-law decisions reach the Supreme Court via the Court of Appeal following High Court / Circuit Court / District Court determinations. Psychology profession is regulated under the Health and Social Care Professionals Council (CORU) under the Health and Social Care Professionals Act 2005 — statutory title protection for psychologists registered on the Psychologists Register since 1 March 2023. Ireland is silent on 'parental alienation' as a statutory label; the courts operate substantively under the welfare-of-the-child standard with no apex endorsement of PAS as a diagnostic category. In 2023 the Department of Justice published a public consultation on parental alienation prompted by international PA-construct debate; the resulting Report indicated no statutory amendment was recommended.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Guardianship of Infants Act 1964 (as amended)",
+      "title": "Guardianship of Infants Act 1964 — primary custody and guardianship statute",
+      "year": 1964,
+      "url": "https://www.irishstatutebook.ie/eli/1964/act/7/enacted/en/html",
+      "relevance": "Primary statutory basis for custody, access and guardianship in Ireland. Section 3 establishes the welfare of the child as the first and paramount consideration. Substantively amended by the Children and Family Relationships Act 2015 to provide automatic guardianship for unmarried fathers in specified circumstances."
+    },
+    {
+      "citation": "Children and Family Relationships Act 2015",
+      "title": "Children and Family Relationships Act 2015",
+      "year": 2015,
+      "url": "https://www.irishstatutebook.ie/eli/2015/act/9/enacted/en/html",
+      "relevance": "Modernised the framework for guardianship, custody and access. Recognised diverse family structures and introduced statutory provisions for cohabiting partners and assisted human reproduction. Reformed unmarried fathers' guardianship provisions."
+    },
+    {
+      "citation": "Constitution of Ireland — Article 42A",
+      "title": "Bunreacht na hÉireann Article 42A — Children's Rights",
+      "year": 2012,
+      "url": "https://www.irishstatutebook.ie/eli/cons/en/html",
+      "relevance": "Constitutional children's-rights provision inserted by the Thirty-first Amendment of the Constitution (Children) Act 2012, in force May 2015. Establishes that the State shall, as far as practicable, vindicate the rights of all children. Cited in welfare-paramountcy analyses including PA-adjacent custody-modification."
+    },
+    {
+      "citation": "Family Law Act 1995",
+      "title": "Family Law Act 1995 — divorce and separation",
+      "year": 1995,
+      "url": "https://www.irishstatutebook.ie/eli/1995/act/26/enacted/en/html",
+      "relevance": "Primary statutory framework for judicial separation; sits alongside the Family Law (Divorce) Act 1996 enacted following the 1995 constitutional referendum legalising divorce in Ireland."
+    },
+    {
+      "citation": "Health and Social Care Professionals Act 2005",
+      "title": "Health and Social Care Professionals Act 2005 (CORU)",
+      "year": 2005,
+      "url": "https://www.irishstatutebook.ie/eli/2005/act/27/enacted/en/html",
+      "relevance": "Statutory framework establishing CORU (the Health and Social Care Professionals Council) and the registration boards. Psychologists Register opened 1 March 2023; statutory title protection for 'psychologist' phased in from the same date."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Ireland",
+      "seat": "Dublin",
+      "url": "https://www.courts.ie/supreme-court",
+      "role": "Apex appellate court for civil, criminal and constitutional matters. Family-law cases reach the Supreme Court via the Court of Appeal (established 2014) following first-instance determinations in the High Court, Circuit Court or District Court depending on the cause of action."
+    },
+    {
+      "name": "Court of Appeal",
+      "seat": "Dublin",
+      "url": "https://www.courts.ie/court-of-appeal",
+      "role": "Established 28 October 2014 by the Thirty-third Amendment of the Constitution. Operates as the principal appellate court for civil and criminal matters, sitting between the first-instance courts and the Supreme Court."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "CORU — Health and Social Care Professionals Council",
+      "url": "https://www.coru.ie/",
+      "role": "Statutory multi-profession regulator under the Health and Social Care Professionals Act 2005. Operates the Psychologists Registration Board, which opened the Psychologists Register on 1 March 2023. Title 'psychologist' is statutorily protected for registrants from the commencement of phased title protection."
+    },
+    {
+      "name": "Psychological Society of Ireland (PSI)",
+      "url": "https://www.psychologicalsociety.ie/",
+      "role": "Learned and professional society for psychologists in Ireland; operates a Code of Professional Ethics, a Complaints Procedure and divisional structures (including a Division of Counselling Psychology, Division of Educational Psychology and Special Group in Family, Child and Relational Psychology). Operates alongside the statutory CORU regime."
+    }
+  ],
+  "anonymisation_convention": "Irish family-law decisions are anonymised per long-standing practice in family-law proceedings; the Courts Service practice direction restricts public reporting of party identities in family-court proceedings. Published decisions on Bailii Ireland use anonymised initials. Sits within the European/common-law initials cluster and is structurally adjacent to the UK constituent jurisdictions.",
+  "key_developments": [
+    {
+      "year": 1996,
+      "title": "Divorce legalised",
+      "description": "Family Law (Divorce) Act 1996 in force 27 February 1997 following the 1995 constitutional referendum amending Article 41.3.2°."
+    },
+    {
+      "year": 2012,
+      "title": "Article 42A constitutional children's rights",
+      "description": "Thirty-first Amendment of the Constitution (Children) Act 2012 inserted Article 42A; in force May 2015 following Supreme Court certification."
+    },
+    {
+      "year": 2014,
+      "title": "Court of Appeal established",
+      "description": "Thirty-third Amendment of the Constitution established the Court of Appeal as the principal appellate court; in force 28 October 2014."
+    },
+    {
+      "year": 2015,
+      "title": "Children and Family Relationships Act 2015",
+      "description": "Modernised guardianship, custody, access and parentage law including provisions for cohabiting partners, assisted human reproduction and reformed unmarried fathers' guardianship."
+    },
+    {
+      "year": 2023,
+      "title": "CORU Psychologists Register opens; PA consultation",
+      "description": "CORU Psychologists Register opened 1 March 2023 — statutory title protection phased in. Department of Justice published public consultation on parental alienation; subsequent Report indicated no statutory amendment was recommended."
+    }
+  ],
+  "structural_findings": [
+    "Ireland sits structurally adjacent to the UK constituent jurisdictions within the corpus: common-law system + welfare-paramountcy framework + statutory psychology regulator (CORU/PSI). Distinct from the UK in that Article 42A of the Constitution provides a constitutional children's-rights overlay that the UK constituents lack at constitutional level.",
+    "CORU Psychologists Register opening 1 March 2023 places Ireland among the federal/statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT — with statutory title protection phased in from 2023 making it among the newest such regimes in the corpus.",
+    "2023 Department of Justice PA consultation produced no statutory amendment recommendation. This places Ireland alongside England-and-Wales (Cafcass position paper) + Scotland (no statutory PA reform) + Australia (post-2023 Amendment Act welfare-and-safety reframing) in the cluster of jurisdictions that conducted a national-level PA-construct policy review and concluded against statutory codification."
+  ],
+  "references": [
+    "jurisdiction:england-and-wales",
+    "jurisdiction:scotland",
+    "jurisdiction:northern-ireland",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:statutory-pa-jurisdictions-triple-comparison"
+  ],
+  "sources": [
+    {
+      "title": "Courts Service of Ireland",
+      "url": "https://www.courts.ie/",
+      "publisher": "Courts Service of Ireland",
+      "language": "en,ga"
+    },
+    {
+      "title": "Irish Statute Book",
+      "url": "https://www.irishstatutebook.ie/",
+      "publisher": "Office of the Attorney General",
+      "language": "en,ga"
+    },
+    {
+      "title": "CORU — Health and Social Care Professionals Council",
+      "url": "https://www.coru.ie/",
+      "publisher": "CORU",
+      "language": "en"
+    },
+    {
+      "title": "Psychological Society of Ireland (PSI)",
+      "url": "https://www.psychologicalsociety.ie/",
+      "publisher": "PSI",
+      "language": "en"
+    },
+    {
+      "title": "Department of Justice — Parental Alienation consultation 2023",
+      "url": "https://www.gov.ie/en/publication/parental-alienation/",
+      "publisher": "Government of Ireland",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Ireland jurisdiction sidecar establishes the Irish common-law framework within the corpus alongside the UK constituent jurisdictions. Guardianship of Infants Act 1964 (as amended) + Children and Family Relationships Act 2015 + Constitution Article 42A + CORU statutory psychology regulator.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. 2023 Department of Justice consultation produced no recommendation for statutory amendment.",
+    "Joins UK + Common-law cluster + statutory psychology regulator group within the corpus."
+  ]
+}

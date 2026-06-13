@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "id": "christmas-island",
+  "name": "Christmas Island",
+  "jurisdiction_code": "CX",
+  "legal_system": "common-law",
+  "language": ["en", "zh", "ms"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Christmas Island is an Indian Ocean common-law Australian external territory — structurally distinctive globally as the only state-level Australian entity with Chinese-majority population (~70% of total), descended primarily from phosphate workers brought from Malaya, Singapore and China from 1888 onwards. Population also includes substantial Malay Muslim minority and European Australian populations. Family-law framework operates under Australian Family Law Act 1975 with Western Australian administrative arrangements applicable since 1992, supplemented by community accommodations for Chinese customary practices (including Confucian family-value frameworks) and Malay Islamic practices. Parental responsibility and child custody are governed by Australian family-law principles. The Federal Circuit and Family Court of Australia has jurisdiction; final appellate jurisdiction lies with the High Court of Australia. Family-law matters are heard at first instance via Christmas Island court arrangements with mainland Australian judicial support. Psychology profession is regulated through the Australian Health Practitioner Regulation Agency (AHPRA). Christmas Island is silent on 'parental alienation' as a statutory label; courts operate substantively under the Australian best-interests-of-the-child standard. Christmas Island is a Hague Convention 1980 party via Australian territorial extension effective 1 January 1987.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Australian Family Law Act 1975 (applicable via WA arrangements)",
+      "title": "Australian Family Law Act (applied via WA arrangements)",
+      "year": 1975,
+      "url": "https://www.fcfcoa.gov.au/",
+      "relevance": "Australian Family Law Act applicable to Christmas Island via Western Australian administrative arrangements since 1992."
+    },
+    {
+      "citation": "Christmas Island Act 1958 (Cth)",
+      "title": "Christmas Island Act",
+      "year": 1958,
+      "url": "https://www.fcfcoa.gov.au/",
+      "relevance": "Federal Christmas Island Act establishing Australian territory status (transferred from Singapore administration to Australia 1958)."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Federal Circuit and Family Court of Australia",
+      "seat": "Perth (covering Christmas Island)",
+      "url": "https://www.fcfcoa.gov.au/",
+      "role": "Apex court for family-law matters from Christmas Island."
+    },
+    {
+      "name": "High Court of Australia",
+      "seat": "Canberra",
+      "url": "https://www.hcourt.gov.au/",
+      "role": "Final appellate court for civil and criminal matters from Christmas Island."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Australian Health Practitioner Regulation Agency (AHPRA)",
+      "url": "https://www.ahpra.gov.au/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Christmas Island family-court decisions are anonymised per Federal Circuit and Family Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1888,
+      "title": "Phosphate worker migration begins",
+      "description": "Phosphate workers brought from Malaya, Singapore and China from 1888 onwards — established present Christmas Island population's heritage."
+    },
+    {
+      "year": 1958,
+      "title": "Christmas Island Act 1958 — transfer to Australia",
+      "description": "Christmas Island transferred from Singapore administration to Australia under Christmas Island Act 1958."
+    },
+    {
+      "year": 1987,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by Australia to Christmas Island effective 1 January 1987."
+    },
+    {
+      "year": 1992,
+      "title": "WA administrative arrangements",
+      "description": "Western Australian administrative arrangements applied to Christmas Island."
+    }
+  ],
+  "structural_findings": [
+    "Christmas Island operates a common-law framework with Australian external territory status — places Christmas Island in the Australian external territory cluster.",
+    "Chinese-majority population (~70%) is structurally distinctive globally — only state-level Australian entity with Chinese majority within the corpus.",
+    "Multi-ethnic Chinese + Malay Muslim + European Australian population composition is structurally distinctive — most ethnically-pluralistic Australian external territory.",
+    "Transfer from Singapore administration to Australia 1958 is structurally distinctive transferred-territory heritage.",
+    "Hague Convention 1980 applicability via Australian territorial extension reflects external-territory Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:australia",
+    "jurisdiction:cocos-keeling-islands",
+    "jurisdiction:singapore",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Federal Circuit and Family Court of Australia",
+      "url": "https://www.fcfcoa.gov.au/",
+      "publisher": "FCFCOA",
+      "language": "en"
+    },
+    {
+      "title": "High Court of Australia",
+      "url": "https://www.hcourt.gov.au/",
+      "publisher": "High Court",
+      "language": "en"
+    },
+    {
+      "title": "Shire of Christmas Island",
+      "url": "https://www.shire.gov.cx/",
+      "publisher": "Shire of Christmas Island",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Christmas Island jurisdiction sidecar — common-law Indian Ocean Australian external territory (Australian Family Law Act 1975 + Christmas Island Act 1958 + Chinese-majority population + multi-ethnic Chinese/Malay/European composition + Hague via Australian territorial extension 1987). Only Chinese-majority Australian entity globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Indian Ocean + common-law + Australian-external-territory cluster + Chinese-majority-Australia-distinctive cluster + multi-ethnic-composition + transferred-from-Singapore + Hague-via-Australian-territorial-extension clusters within the corpus."
+  ]
+}

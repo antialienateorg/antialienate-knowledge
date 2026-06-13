@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "id": "ceuta",
+  "name": "Ceuta (Ciudad Autónoma de Ceuta / سَبْتَة)",
+  "jurisdiction_code": "ES-CE",
+  "legal_system": "civil-law",
+  "language": ["es", "ar", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Ceuta (Spanish: Ciudad Autónoma de Ceuta / Arabic: سَبْتَة Sabta) is a North African civil-law Autonomous City of the Kingdom of Spain — structurally distinctive globally as one of two modern European Union sub-national territories located on the African mainland (alongside Melilla — distinct from rest-of-EU-sub-national-territories located in Europe or non-African overseas territories), as one of two Spanish Autonomous Cities (Ciudades Autónomas — Ceuta + Melilla, constitutionally distinct sui generis territorial framework under Constitution of Spain 1978 Article 144(b) + Statute of Autonomy of Ceuta 1995, distinct from rest-of-Spanish-territorial framework operating 17 Autonomous Communities + 50 Provinces), as one of the longest-continuously-Spanish sub-national territories (Ceuta under Portuguese control 1415-1640 + Spanish control 1640+ via the Iberian Union dissolution Treaty of Lisbon 1668 — formal Spanish framework 1668-present 358+ years, longer than most modern Spanish sub-national territories), as the central jurisdiction of one of the most contested modern Spanish-Moroccan sovereignty frameworks (Morocco maintains formal sovereignty claim over Ceuta since Moroccan independence 1956 — distinct from rest-of-Spanish-sub-national territorial framework where sovereignty is uncontested), and as a distinctive multi-religious Spanish sub-national jurisdiction (~47% Christian + ~45% Muslim + ~5% Jewish + ~2% Hindu + others — distinctive multi-religious framework, distinct from rest-of-Spanish-sub-national-territorial Christian-majority framework). Ceuta historically operated under Phoenician 7th century BCE + Carthaginian + Roman + Visigothic + Byzantine + Arab Berber Caliphate framework 711 CE + Portuguese 1415-1640 + Spanish 1640+ via the Iberian Union dissolution + Treaty of Lisbon 1668 + Spanish municipality framework 1668-1995 + Autonomous City of Ceuta 1995+. Ceuta comprises ~19 km² with a population of ~83,000. Family-law framework operates under the federal Spanish civil-law framework (Spanish Civil Code 1889 Family Law portion) applied uniformly across Spanish sub-national territories. The Court of First Instance and Instruction of Ceuta is the primary trial court; the Superior Court of Justice of Andalusia, Ceuta and Melilla is the apex regional appellate court; final appellate jurisdiction lies with the Supreme Court of Spain. Ceuta is silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 signatory and party (acceded 16 June 1987 effective 1 September 1987) — Ceuta is governed by Spanish Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Spain 1978 Article 144(b) (Autonomous Cities)",
+      "title": "Constitution of Spain Article 144(b)",
+      "year": 1978,
+      "url": "https://www.congreso.es/",
+      "relevance": "Spanish Constitutional Article 144(b) establishing framework for Autonomous Cities — applicable to Ceuta + Melilla."
+    },
+    {
+      "citation": "Statute of Autonomy of Ceuta 1995 (Organic Law 1/1995)",
+      "title": "Statute of Autonomy of Ceuta",
+      "year": 1995,
+      "url": "https://www.ceuta.es/",
+      "relevance": "Spanish Federal Organic Law 1/1995 of 13 March 1995 — formal Statute of Autonomy of Ceuta, formal Autonomous City framework."
+    },
+    {
+      "citation": "Treaty of Lisbon 1668 (Iberian Union dissolution)",
+      "title": "Treaty of Lisbon 1668",
+      "year": 1668,
+      "url": "https://www.exteriores.gob.es/",
+      "relevance": "Treaty of Lisbon signed 13 February 1668 — Portuguese-Spanish treaty formalising Ceuta as Spanish territory following Iberian Union dissolution 1640."
+    },
+    {
+      "citation": "Spanish Civil Code 1889",
+      "title": "Spanish Civil Code",
+      "year": 1889,
+      "url": "https://www.boe.es/",
+      "relevance": "Spanish Federal Civil Code 1889 Family Law portion applicable uniformly across Ceuta."
+    },
+    {
+      "citation": "Hague Convention 1980 — Spanish accession 16 June 1987",
+      "title": "Hague Convention 1980 — Spain",
+      "year": 1987,
+      "url": "https://www.hcch.net/",
+      "relevance": "Spanish Hague Convention 1980 accession 16 June 1987 effective 1 September 1987 — applicable to Ceuta."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of First Instance and Instruction of Ceuta (Juzgado de Primera Instancia e Instrucción de Ceuta)",
+      "seat": "Ceuta",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Primary trial court for civil and criminal matters from Ceuta."
+    },
+    {
+      "name": "Superior Court of Justice of Andalusia, Ceuta and Melilla (Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla)",
+      "seat": "Granada",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Apex regional appellate court for civil and criminal matters from Ceuta."
+    },
+    {
+      "name": "Supreme Court of Spain (Tribunal Supremo)",
+      "seat": "Madrid",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Final appellate court for civil and criminal matters from Ceuta."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Spanish Ministry of Health (Ministerio de Sanidad)",
+      "url": "https://www.sanidad.gob.es/",
+      "role": "Spanish Federal professional regulatory framework applicable in Ceuta."
+    }
+  ],
+  "anonymisation_convention": "Ceuta family-court decisions are anonymised per Spanish court practice using initials.",
+  "key_developments": [
+    {
+      "year": 711,
+      "title": "Arab Berber Caliphate conquest",
+      "description": "Arab Berber Umayyad Caliphate conquest of Ceuta 711 — beginning of formal Arab Berber framework over Ceuta 711-1415."
+    },
+    {
+      "year": 1415,
+      "title": "Portuguese conquest",
+      "description": "Portuguese conquest of Ceuta 21 August 1415 — beginning of Portuguese framework over Ceuta 1415-1640."
+    },
+    {
+      "year": 1640,
+      "title": "Iberian Union dissolution + Ceuta to Spain",
+      "description": "Iberian Union dissolution 1640 + Ceuta opted to remain with Spanish Crown — beginning of Spanish framework over Ceuta 1640+."
+    },
+    {
+      "year": 1668,
+      "title": "Treaty of Lisbon",
+      "description": "Treaty of Lisbon signed 13 February 1668 — Portuguese-Spanish treaty formalising Ceuta as Spanish territory."
+    },
+    {
+      "year": 1956,
+      "title": "Moroccan independence + sovereignty claim",
+      "description": "Moroccan independence 2 March 1956 — beginning of formal Moroccan sovereignty claim over Ceuta + Melilla."
+    },
+    {
+      "year": 1978,
+      "title": "Constitution of Spain + Article 144(b)",
+      "description": "Constitution of Spain adopted 27 December 1978 — Article 144(b) establishing framework for Autonomous Cities."
+    },
+    {
+      "year": 1995,
+      "title": "Statute of Autonomy of Ceuta",
+      "description": "Spanish Federal Organic Law 1/1995 of 13 March 1995 — formal Statute of Autonomy of Ceuta, formal Autonomous City framework."
+    },
+    {
+      "year": 2021,
+      "title": "Ceuta migration crisis",
+      "description": "Ceuta migration crisis 17-18 May 2021 — ~8,000 migrants crossed Moroccan-Ceuta border in 24-hour period framework."
+    }
+  ],
+  "structural_findings": [
+    "Ceuta operates a federal Spanish civil-law Autonomous City framework — places Ceuta in the North African Spanish sub-national cluster.",
+    "One of two modern European Union sub-national territories located on the African mainland is structurally distinctive globally — alongside Melilla framework.",
+    "One of two Spanish Autonomous Cities is structurally distinctive within Spanish framework — constitutionally distinct sui generis territorial framework under Article 144(b).",
+    "One of longest-continuously-Spanish sub-national territories is structurally distinctive within Spanish framework — Ceuta under Spanish framework 1668+ 358+ years, longer than most modern Spanish sub-national territories.",
+    "Central jurisdiction of one of most contested modern Spanish-Moroccan sovereignty frameworks is structurally distinctive globally — Morocco maintains formal sovereignty claim over Ceuta since Moroccan independence 1956.",
+    "Distinctive multi-religious Spanish sub-national jurisdiction framework is structurally distinctive within Spanish framework — ~47% Christian + ~45% Muslim + ~5% Jewish + ~2% Hindu framework.",
+    "Portuguese conquest of Ceuta 1415 historical framework is structurally distinctive globally — pivotal beginning of European Age of Discovery + Portuguese maritime empire framework.",
+    "Spanish Hague-Convention-1980-accession-1987 framework applies."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:morocco",
+    "jurisdiction:portugal",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Autonomous City of Ceuta (Ciudad Autónoma de Ceuta)",
+      "url": "https://www.ceuta.es/",
+      "publisher": "Ceuta Government",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Ceuta jurisdiction sidecar — civil-law North African Spanish Autonomous City (Constitution of Spain 1978 Article 144(b) + Statute of Autonomy of Ceuta 1995 + Treaty of Lisbon 1668 + Spanish Civil Code 1889 + Arab Berber Caliphate 711-1415 + Portuguese 1415-1640 + Spanish 1640+ + Moroccan sovereignty claim 1956+ + 2021 migration crisis + Spanish Hague-1980). One of two modern European Union sub-national territories located on the African mainland + one of two Spanish Autonomous Cities + one of longest-continuously-Spanish sub-national territories + central jurisdiction of one of most contested modern Spanish-Moroccan sovereignty frameworks + distinctive multi-religious Spanish sub-national jurisdiction framework + Portuguese conquest of Ceuta 1415 pivotal beginning of European Age of Discovery.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-African + civil-law + Spanish-Autonomous-City cluster + Spanish-EU-sub-national-territory-on-African-mainland-globally-distinctive + Constitution-of-Spain-1978-Article-144-b-Autonomous-Cities + Statute-of-Autonomy-of-Ceuta-1995 + Portuguese-1415-1640-conquest-Age-of-Discovery + Treaty-of-Lisbon-1668 + Moroccan-sovereignty-claim-1956+ + multi-religious-framework + 2021-migration-crisis + Spanish-Hague-1980-1987 clusters within the corpus."
+  ]
+}

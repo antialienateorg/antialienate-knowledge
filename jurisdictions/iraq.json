@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "iraq",
+  "name": "Iraq (Republic of Iraq / جمهورية العراق)",
+  "jurisdiction_code": "IQ",
+  "legal_system": "mixed",
+  "language": ["ar", "ku"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Iraq is a MENA mixed-legal-system federal republic combining French civil-law substantive heritage (via Egyptian Civil Code transplant) with Hanafi/Ja'fari Islamic-law personal-status jurisdiction (Sunni-Shia hybrid framework). Family-law framework operates under the Personal Status Law 188/1959 — structurally distinctive as among the most progressive Arab personal-status statutes of the Hashemite/Republican era, codifying unified Sunni-Shia application (rather than parallel community courts). Custody (hadana) and guardianship (wilaya) are governed by Personal Status Law arts. 57-58. The Federal Court of Cassation (محكمة التمييز الاتحادية) is the apex court for civil and criminal matters; the Federal Supreme Court (المحكمة الاتحادية العليا) operates constitutional review. Personal-status courts (Sharia/Civil) operate first-instance Muslim personal-status jurisdiction. The Kurdistan Region operates a parallel Personal Status Law framework under the Kurdistan Regional Government. Psychology profession is regulated through the Ministry of Health framework. Iraq is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Iraq is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Personal Status Law 188/1959 arts. 57-58",
+      "title": "Personal Status Law — Custody and guardianship",
+      "year": 1959,
+      "url": "https://www.iraqld.iq/",
+      "relevance": "Federal Personal Status Law structurally distinctive as among the most progressive Arab personal-status statutes — codifying unified Sunni-Shia application rather than parallel courts. Arts. 57-58 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Civil Code 40/1951",
+      "title": "Civil Code",
+      "year": 1951,
+      "url": "https://www.iraqld.iq/",
+      "relevance": "Federal Civil Code drawing on French civil-law substantive heritage via Egyptian Civil Code transplant."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Federal Court of Cassation (محكمة التمييز الاتحادية)",
+      "seat": "Baghdad",
+      "url": "https://www.iraqja.iq/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Federal Supreme Court (المحكمة الاتحادية العليا)",
+      "seat": "Baghdad",
+      "url": "https://www.iraqfsc.iq/",
+      "role": "Federal Supreme Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Iraq",
+      "url": "https://www.moh.gov.iq/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Iraqi family-court decisions are anonymised per Federal Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 1951,
+      "title": "Civil Code 40/1951",
+      "description": "Federal Civil Code enacted drawing on French civil-law substantive heritage via Egyptian Civil Code transplant."
+    },
+    {
+      "year": 1959,
+      "title": "Personal Status Law 188/1959",
+      "description": "Federal Personal Status Law enacted as among the most progressive Arab personal-status statutes — unified Sunni-Shia application."
+    }
+  ],
+  "structural_findings": [
+    "Iraq operates a mixed-legal-system framework — French civil-law substantive (via Egyptian transplant) + unified Sunni-Shia Islamic-law personal-status (Personal Status Law 188/1959). Structurally distinctive Sunni-Shia unified framework alongside Bahrain (Unified Family Law 2017) within the corpus.",
+    "Federal architecture with Kurdistan Regional Government parallel Personal Status Law framework is structurally distinctive.",
+    "Non-Hague Convention status places Iraq in the non-Hague MENA cluster."
+  ],
+  "references": [
+    "jurisdiction:bahrain",
+    "jurisdiction:syria",
+    "jurisdiction:iran",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Federal Judicial Authority",
+      "url": "https://www.iraqja.iq/",
+      "publisher": "Federal Judicial Authority",
+      "language": "ar,ku"
+    },
+    {
+      "title": "Federal Supreme Court",
+      "url": "https://www.iraqfsc.iq/",
+      "publisher": "Federal Supreme Court",
+      "language": "ar,ku"
+    },
+    {
+      "title": "Iraqi Legal Database",
+      "url": "https://www.iraqld.iq/",
+      "publisher": "Legal Department",
+      "language": "ar,ku"
+    }
+  ],
+  "editorial_notes": [
+    "Iraq jurisdiction sidecar — mixed-legal-system MENA (French civil-law substantive via Egyptian transplant + unified Sunni-Shia Islamic-law personal-status). Personal Status Law 188/1959 + Civil Code 40/1951 + federal with Kurdistan parallel framework + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins MENA + mixed-legal-system + Sunni-Shia-unified + federal-with-regional-parallel + non-Hague Convention clusters within the corpus."
+  ]
+}

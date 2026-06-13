@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0",
+  "id": "council-of-europe-statute",
+  "name": "Statute of the Council of Europe 1949 (Treaty of London)",
+  "jurisdiction_code": "COE",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Statute of the Council of Europe (Treaty of London) is a regional supranational meta-framework foundational-Council-of-Europe-treaty framework adopted by the 10 founding European states in London — structurally distinctive globally as the oldest modern European supranational binding-treaty framework operating on pan-European framework with formal Article 3 democracy-rule-of-law-human-rights admission framework (Statute of the Council of Europe signed 5 May 1949 in London + effective 3 August 1949 — formal foundational Council of Europe treaty framework establishing comprehensive Council of Europe organisation framework, distinct from rest-of-modern-regional-European-treaty frameworks which operate as subsequent European treaties, structurally distinctive globally as the oldest modern European supranational binding-treaty framework + parent organisation of European Convention on Human Rights ECHR 1950 + parent organisation of European Court of Human Rights ECtHR 1959 framework), as the central jurisdiction of the formal Article 3 Admission Framework (Council of Europe Statute Article 3 framework providing 'Every member of the Council of Europe must accept the principles of the rule of law and of the enjoyment by all persons within its jurisdiction of human rights and fundamental freedoms' — formal foundational democracy-rule-of-law-human-rights admission framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Article 3 admission framework), as the central jurisdiction of the formal European Convention on Human Rights ECHR framework (ECHR adopted 4 November 1950 in Rome Italy + effective 3 September 1953 + ECtHR established 21 January 1959 + Protocol 11 reorganisation 1998 + Protocol 14 2010 + Protocol 16 advisory opinions 2018 — formal foundational European-regional-human-rights framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal single-court permanent-court European-regional-human-rights framework with individual-petition framework as default since Protocol 11), as the central jurisdiction of the formal Council of Europe Convention on Contact concerning Children 2003 framework (CETS 192 adopted 15 May 2003 in Strasbourg + effective 1 September 2005 providing formal Europe-regional cross-border-contact-with-children framework — formal foundational Europe-regional cross-border-contact-with-children framework with PA-intersection framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal cross-border-contact-with-children framework), and as the central jurisdiction of the formal Council of Europe Russia Expulsion 2022 framework (Committee of Ministers Resolution CM/Res(2022)2 of 16 March 2022 expelling Russia from Council of Europe over invasion of Ukraine — formal foundational Council of Europe expulsion framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal expulsion-over-aggression framework). The Council of Europe Statute is binding upon 46 Council of Europe member states as of 2026 — comprehensive pan-European coverage framework (Russia expelled 2022). The Statute is silent on 'parental alienation' as a statutory label, though formal ECHR + Council of Europe Convention on Contact concerning Children 2003 frameworks operate substantial intersection with parental-alienation framework via formal Europe-regional cross-border-children's-rights framework. The Committee of Ministers + Parliamentary Assembly + European Court of Human Rights ECtHR + Commissioner for Human Rights are the formal Council of Europe bodies; national-level apex courts operate as judicial bodies. The Council of Europe Statute is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Statute of the Council of Europe 1949",
+      "title": "Council of Europe Statute",
+      "year": 1949,
+      "url": "https://www.coe.int/",
+      "relevance": "Statute of the Council of Europe Treaty of London signed 5 May 1949 in London + effective 3 August 1949 — formal foundational Council of Europe treaty framework establishing comprehensive Council of Europe organisation framework."
+    },
+    {
+      "citation": "Council of Europe Statute Article 3 (Admission Framework)",
+      "title": "Council of Europe Statute Article 3",
+      "year": 1949,
+      "url": "https://www.coe.int/",
+      "relevance": "Council of Europe Statute Article 3 framework on democracy-rule-of-law-human-rights admission — formal foundational admission framework."
+    },
+    {
+      "citation": "European Convention on Human Rights 1950",
+      "title": "ECHR",
+      "year": 1953,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "European Convention on Human Rights ECHR adopted 4 November 1950 in Rome Italy + effective 3 September 1953 — formal foundational European-regional-human-rights framework."
+    },
+    {
+      "citation": "Protocol 11 to ECHR (1994/1998)",
+      "title": "ECHR Protocol 11",
+      "year": 1998,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "Protocol 11 to ECHR adopted 11 May 1994 + effective 1 November 1998 reorganising ECHR framework establishing permanent single ECtHR + abolishing European Commission of Human Rights + making individual petition mandatory — formal ECHR reorganisation framework."
+    },
+    {
+      "citation": "Council of Europe Convention on Contact concerning Children (CETS 192) 2003",
+      "title": "CETS 192",
+      "year": 2005,
+      "url": "https://www.coe.int/",
+      "relevance": "Council of Europe Convention on Contact concerning Children CETS 192 adopted 15 May 2003 in Strasbourg + effective 1 September 2005 — formal foundational Europe-regional cross-border-contact-with-children framework with PA-intersection framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Committee of Ministers of the Council of Europe",
+      "seat": "Strasbourg",
+      "url": "https://www.coe.int/en/web/cm",
+      "role": "Formal executive body for Council of Europe."
+    },
+    {
+      "name": "Parliamentary Assembly of the Council of Europe (PACE)",
+      "seat": "Strasbourg",
+      "url": "https://pace.coe.int/",
+      "role": "Formal parliamentary body for Council of Europe."
+    },
+    {
+      "name": "European Court of Human Rights (ECtHR)",
+      "seat": "Strasbourg",
+      "url": "https://www.echr.coe.int/",
+      "role": "Apex judicial body for ECHR framework."
+    },
+    {
+      "name": "Council of Europe Commissioner for Human Rights",
+      "seat": "Strasbourg",
+      "url": "https://www.coe.int/en/web/commissioner",
+      "role": "Formal Council of Europe human-rights commissioner body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Council of Europe Secretariat",
+      "url": "https://www.coe.int/",
+      "role": "Council of Europe Statute implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Council of Europe-related individual communications via ECtHR + Commissioner for Human Rights framework operate formal anonymisation convention using initials per ECtHR Rules of Procedure.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "Hague Congress of Europe",
+      "description": "Hague Congress of Europe held 7-11 May 1948 in The Hague Netherlands — predecessor framework to Council of Europe."
+    },
+    {
+      "year": 1949,
+      "title": "Council of Europe Statute adopted",
+      "description": "Statute of the Council of Europe Treaty of London signed 5 May 1949 in London by 10 founding states + effective 3 August 1949 — formal foundational Council of Europe treaty framework operational."
+    },
+    {
+      "year": 1950,
+      "title": "ECHR adopted",
+      "description": "European Convention on Human Rights ECHR adopted 4 November 1950 in Rome Italy — formal foundational European-regional-human-rights framework adopted."
+    },
+    {
+      "year": 1953,
+      "title": "ECHR enters force",
+      "description": "ECHR entered force 3 September 1953 — formal European-regional-human-rights framework operational."
+    },
+    {
+      "year": 1959,
+      "title": "ECtHR established",
+      "description": "European Court of Human Rights ECtHR established 21 January 1959 in Strasbourg France — formal European-regional-human-rights court body operational."
+    },
+    {
+      "year": 1998,
+      "title": "Protocol 11 reorganisation",
+      "description": "Protocol 11 to ECHR effective 1 November 1998 reorganising ECHR framework establishing permanent single ECtHR + abolishing European Commission of Human Rights + making individual petition mandatory — formal ECHR reorganisation framework operational."
+    },
+    {
+      "year": 2003,
+      "title": "Council of Europe Convention on Contact concerning Children",
+      "description": "Council of Europe Convention on Contact concerning Children CETS 192 adopted 15 May 2003 in Strasbourg — formal foundational Europe-regional cross-border-contact-with-children framework with PA-intersection framework."
+    },
+    {
+      "year": 2010,
+      "title": "Protocol 14",
+      "description": "Protocol 14 to ECHR effective 1 June 2010 reforming ECtHR framework establishing single-judge formations + admissibility framework — formal ECHR reform framework."
+    },
+    {
+      "year": 2018,
+      "title": "Protocol 16 Advisory Opinions",
+      "description": "Protocol 16 to ECHR effective 1 August 2018 establishing formal advisory-opinion framework for highest national courts — formal ECHR advisory-opinion framework."
+    },
+    {
+      "year": 2022,
+      "title": "Russia expelled from Council of Europe",
+      "description": "Committee of Ministers Resolution CM/Res(2022)2 of 16 March 2022 expelling Russia from Council of Europe over invasion of Ukraine — formal Council of Europe expulsion-over-aggression framework."
+    }
+  ],
+  "structural_findings": [
+    "Council of Europe Statute operates a regional supranational binding-treaty framework — places Council of Europe Statute in the regional supranational-meta-framework cluster.",
+    "Oldest modern European supranational binding-treaty framework operating on pan-European framework is structurally distinctive globally — parent organisation of ECHR + ECtHR framework.",
+    "Central jurisdiction of formal Article 3 democracy-rule-of-law-human-rights admission framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Article 3 admission framework.",
+    "Central jurisdiction of formal ECHR framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal single-court permanent-court European-regional-human-rights framework with individual-petition framework as default since Protocol 11.",
+    "Central jurisdiction of formal Council of Europe Convention on Contact concerning Children 2003 framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal cross-border-contact-with-children framework.",
+    "Central jurisdiction of formal Council of Europe Russia Expulsion 2022 framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal expulsion-over-aggression framework.",
+    "46 Council of Europe member state ratification framework with Russia expelled 2022 is structurally distinctive globally — comprehensive pan-European coverage framework.",
+    "1948 Hague Congress + 1949 Council of Europe Statute + 1950 ECHR + 1953 entry into force + 1959 ECtHR + 1998 Protocol 11 + 2003 CETS 192 + 2010 Protocol 14 + 2018 Protocol 16 + 2022 Russia expulsion Council-of-Europe-framework-development sequence is structurally distinctive globally.",
+    "Council of Europe Statute + ECHR + CETS 192 Council of Europe Convention on Contact concerning Children + Hague Convention 1980 + Hague Convention 1996 formal quintet framework with formal Europe-regional cross-border-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:echr-council-of-europe",
+    "jurisdiction:council-of-europe-contact-concerning-children",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Council of Europe",
+      "url": "https://www.coe.int/",
+      "publisher": "Council of Europe",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Council of Europe Statute jurisdiction sidecar — regional supranational pan-European foundational-Council-of-Europe-treaty meta-framework (Council of Europe Statute 1949 Treaty of London + Article 3 Admission Framework + ECHR 1950/1953 + ECtHR 1959 + Protocol 11 1998 + CETS 192 Convention on Contact concerning Children 2003/2005 + Protocol 14 2010 + Protocol 16 2018 + 1948 Hague Congress predecessor + 2022 Russia expulsion). Oldest modern European supranational binding-treaty framework globally + parent organisation of ECHR + ECtHR framework + central jurisdiction of formal Article 3 democracy-rule-of-law-human-rights admission framework + central jurisdiction of formal single-court permanent-court European-regional-human-rights framework + central jurisdiction of formal cross-border-contact-with-children framework + central jurisdiction of formal expulsion-over-aggression framework + 46 Council of Europe member states with Russia expelled 2022 + 1948 Hague Congress + 1949 Council of Europe Statute + 1950 ECHR + 1953 entry into force + 1959 ECtHR + 1998 Protocol 11 + 2003 CETS 192 + 2010 Protocol 14 + 2018 Protocol 16 + 2022 Russia expulsion Council-of-Europe-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ECHR framework + CETS 192 Council of Europe Convention on Contact concerning Children framework operate substantial intersection with parental-alienation framework via formal Europe-regional cross-border-children's-rights framework.",
+    "Joins regional + supranational + pan-European-foundational-Council-of-Europe-treaty cluster + Council-of-Europe-Statute-oldest-modern-European-supranational-binding-treaty-globally-distinctive + Article-3-Admission-Framework + ECHR-1950-Rome + Protocol-11-1998-permanent-court + Protocol-14-2010 + Protocol-16-2018-advisory-opinions + CETS-192-Convention-on-Contact-concerning-Children-2003 + ECtHR-Strasbourg + Commissioner-for-Human-Rights-Strasbourg + 46-Council-of-Europe-member-states + 1948-Hague-Congress-predecessor + 2022-Russia-Expulsion-Resolution + Europe-regional-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

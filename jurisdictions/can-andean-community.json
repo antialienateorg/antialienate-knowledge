@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "id": "can-andean-community",
+  "name": "CAN Cartagena Agreement 1969 (Andean Community)",
+  "jurisdiction_code": "CAN",
+  "legal_system": "supranational",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Cartagena Agreement (CAN Andean Community Cartagena Agreement) is a regional supranational meta-framework foundational-CAN-treaty framework adopted by the 5 founding Andean states in Cartagena — structurally distinctive globally as the oldest modern South American regional supranational binding-treaty framework operating on formal Andean-integration framework + only modern South American regional supranational binding-treaty framework operating formal Andean Court of Justice framework (CAN Cartagena Agreement signed 26 May 1969 in Bogotá Colombia by Bolivia + Chile + Colombia + Ecuador + Peru + effective 16 October 1969 + Trujillo Protocol signed 10 March 1996 in Trujillo Peru transforming CAN organisation framework — formal foundational CAN treaty framework establishing comprehensive CAN organisation framework, distinct from rest-of-modern-regional-South-American-treaty frameworks which operate without Andean specificity, structurally distinctive globally as the oldest modern South American regional supranational binding-treaty framework + only modern South American regional supranational binding-treaty framework operating formal Andean-integration framework + only modern South American regional supranational binding-treaty framework operating formal Andean Court of Justice framework + only modern regional supranational binding-treaty framework operating formal Chile-Venezuela-major-departure framework via Chile withdrew 1976 + Venezuela withdrew 22 April 2011 framework + only modern regional supranational binding-treaty framework operating formal Andean Parliament framework via Andean Parliament 1979), as the central jurisdiction of the formal CAN Andean Court of Justice framework (Court of Justice of the Andean Community CAN Court established 28 May 1979 in Quito Ecuador providing formal CAN judicial framework with individual-petition framework via Article 31 Treaty Creating the Court — formal foundational CAN judicial framework, structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating formal individual-petition court framework + only modern South American regional supranational binding-treaty framework operating formal supranational court framework), as the central jurisdiction of the formal CAN Free Trade Area + Customs Union framework (CAN Andean Free Trade Area operational from 1969 + CAN Common External Tariff CET effective from 1995 + CAN Common Market intended framework — formal foundational Andean free-trade + customs-union framework, structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating formal Andean customs-union framework), and as the central jurisdiction of the formal CAN Decision 583 Andean Migration framework (CAN Decision 583 of 7 May 2004 + CAN Decision 545 Andean Migration Instrument 2003 providing formal Andean free-movement-of-persons framework — formal foundational Andean free-movement-of-persons framework, structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating formal Andean free-movement-of-persons framework with operational Andean Migration Card framework). The CAN Cartagena Agreement is binding upon 4 CAN member states as of 2026 (Bolivia + Colombia + Ecuador + Peru) + 5 CAN associate members (Argentina + Brazil + Chile + Paraguay + Uruguay) + 2 CAN observer states + Chile withdrew 1976 + Venezuela withdrew 22 April 2011 framework — comprehensive Andean regional coverage framework. The Agreement is silent on 'parental alienation' as a statutory label, though formal CAN Decision 583 Andean Migration framework operates substantial intersection with parental-alienation framework via formal Andean cross-border-children's-rights framework + free-movement-of-persons framework. The CAN Andean Presidential Council + CAN Andean Council of Ministers of Foreign Affairs + CAN Commission + CAN General Secretariat + CAN Court of Justice + CAN Andean Parliament are the formal CAN bodies; national-level apex courts operate as judicial bodies. The CAN Cartagena Agreement is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Cartagena Agreement 1969",
+      "title": "Cartagena Agreement",
+      "year": 1969,
+      "url": "https://www.comunidadandina.org/",
+      "relevance": "Cartagena Agreement signed 26 May 1969 in Bogotá Colombia + effective 16 October 1969 — formal foundational CAN treaty framework establishing comprehensive Andean Community organisation framework."
+    },
+    {
+      "citation": "Trujillo Protocol 1996",
+      "title": "Trujillo Protocol",
+      "year": 1997,
+      "url": "https://www.comunidadandina.org/",
+      "relevance": "Trujillo Protocol signed 10 March 1996 in Trujillo Peru + effective 3 June 1997 transforming CAN organisation framework — formal foundational revised CAN treaty framework."
+    },
+    {
+      "citation": "Treaty Creating the Court of Justice of the Cartagena Agreement 1979",
+      "title": "Treaty Creating the Court of Justice",
+      "year": 1979,
+      "url": "https://www.comunidadandina.org/",
+      "relevance": "Treaty Creating the Court of Justice of the Cartagena Agreement signed 28 May 1979 in Cartagena Colombia + effective 19 May 1983 — formal foundational CAN judicial framework."
+    },
+    {
+      "citation": "CAN Decision 583 (Andean Migration Instrument)",
+      "title": "CAN Decision 583",
+      "year": 2004,
+      "url": "https://www.comunidadandina.org/",
+      "relevance": "CAN Decision 583 of 7 May 2004 — formal foundational Andean Migration framework + free-movement-of-persons framework."
+    },
+    {
+      "citation": "CAN Andean Migration Card",
+      "title": "CAN Andean Migration Card",
+      "year": 2001,
+      "url": "https://www.comunidadandina.org/",
+      "relevance": "CAN Andean Migration Card operational from 2001 — formal CAN free-movement-of-persons framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "CAN Andean Presidential Council",
+      "seat": "rotating",
+      "url": "https://www.comunidadandina.org/",
+      "role": "Formal supreme decision-making body for CAN."
+    },
+    {
+      "name": "CAN Andean Council of Ministers of Foreign Affairs",
+      "seat": "rotating",
+      "url": "https://www.comunidadandina.org/",
+      "role": "Formal foreign ministers body for CAN."
+    },
+    {
+      "name": "CAN Commission",
+      "seat": "rotating",
+      "url": "https://www.comunidadandina.org/",
+      "role": "Formal executive body for CAN."
+    },
+    {
+      "name": "CAN General Secretariat",
+      "seat": "Lima",
+      "url": "https://www.comunidadandina.org/",
+      "role": "Formal administrative body for CAN."
+    },
+    {
+      "name": "Court of Justice of the Andean Community",
+      "seat": "Quito",
+      "url": "https://www.tribunalandino.org.ec/",
+      "role": "Apex judicial body for CAN framework with individual-petition framework via Article 31 Treaty Creating the Court."
+    },
+    {
+      "name": "Andean Parliament",
+      "seat": "Bogotá",
+      "url": "https://www.parlamentoandino.org/",
+      "role": "Formal parliamentary body for CAN established 1979."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "CAN General Secretariat",
+      "url": "https://www.comunidadandina.org/",
+      "role": "CAN Cartagena Agreement implementation framework."
+    }
+  ],
+  "anonymisation_convention": "CAN-related communications via CAN Court of Justice framework operate formal anonymisation convention per CAN Court Rules of Procedure on individual-petition framework.",
+  "key_developments": [
+    {
+      "year": 1966,
+      "title": "Declaration of Bogotá",
+      "description": "Declaration of Bogotá adopted 16 August 1966 by Chile + Colombia + Ecuador + Peru + Venezuela — predecessor framework to Cartagena Agreement."
+    },
+    {
+      "year": 1969,
+      "title": "Cartagena Agreement adopted",
+      "description": "Cartagena Agreement signed 26 May 1969 in Bogotá Colombia by Bolivia + Chile + Colombia + Ecuador + Peru + effective 16 October 1969 — formal foundational CAN treaty framework operational."
+    },
+    {
+      "year": 1973,
+      "title": "Venezuela joins CAN",
+      "description": "Venezuela joined CAN 13 February 1973 — formal CAN expansion framework."
+    },
+    {
+      "year": 1976,
+      "title": "Chile withdraws from CAN",
+      "description": "Chile withdrew from CAN 30 October 1976 under Pinochet regime free-market policies framework — formal CAN first major-departure framework."
+    },
+    {
+      "year": 1979,
+      "title": "Andean Court + Andean Parliament established",
+      "description": "Treaty Creating the Court of Justice of the Cartagena Agreement signed 28 May 1979 in Cartagena Colombia + Andean Parliament established 25 October 1979 — formal foundational CAN judicial + parliamentary framework adopted."
+    },
+    {
+      "year": 1983,
+      "title": "Andean Court enters force",
+      "description": "Treaty Creating the Court of Justice of the Cartagena Agreement entered force 19 May 1983 — formal foundational CAN judicial framework operational."
+    },
+    {
+      "year": 1995,
+      "title": "CAN Common External Tariff effective",
+      "description": "CAN Common External Tariff CET effective 1 February 1995 — formal foundational Andean customs-union framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "Trujillo Protocol signed",
+      "description": "Trujillo Protocol signed 10 March 1996 in Trujillo Peru transforming CAN organisation framework — formal foundational revised CAN treaty framework adopted."
+    },
+    {
+      "year": 1997,
+      "title": "Trujillo Protocol enters force",
+      "description": "Trujillo Protocol entered force 3 June 1997 — formal foundational revised CAN treaty framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "Andean Migration Card",
+      "description": "CAN Andean Migration Card operational from 2001 — formal CAN free-movement-of-persons framework operational."
+    },
+    {
+      "year": 2004,
+      "title": "CAN Decision 583 Andean Migration Instrument",
+      "description": "CAN Decision 583 of 7 May 2004 + CAN Decision 545 Andean Migration Instrument 2003 — formal foundational Andean Migration + free-movement-of-persons framework adopted."
+    },
+    {
+      "year": 2006,
+      "title": "Venezuela announces withdrawal",
+      "description": "Venezuela announced CAN withdrawal 22 April 2006 + effective 22 April 2011 under Hugo Chávez framework following CAN trade agreements with Colombia + Peru — formal CAN Venezuela-departure framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Chile rejoining negotiations + CAN 55th anniversary",
+      "description": "Chile-CAN rejoining negotiations 2024 + CAN 55th anniversary framework — formal CAN expansion framework."
+    }
+  ],
+  "structural_findings": [
+    "CAN Cartagena Agreement operates a regional supranational binding-treaty framework — places CAN Cartagena Agreement in the regional supranational-meta-framework cluster.",
+    "Oldest modern South American regional supranational binding-treaty framework operating on formal Andean-integration framework is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal Andean-integration framework + only modern South American regional supranational binding-treaty framework operating formal Andean Court of Justice framework + only modern regional supranational binding-treaty framework operating formal Chile-Venezuela-major-departure framework + only modern regional supranational binding-treaty framework operating formal Andean Parliament framework via Andean Parliament 1979.",
+    "Central jurisdiction of formal CAN Andean Court of Justice framework is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal individual-petition court framework + only modern South American regional supranational binding-treaty framework operating formal supranational court framework.",
+    "Central jurisdiction of formal CAN Free Trade Area + Customs Union framework is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal Andean customs-union framework.",
+    "Central jurisdiction of formal CAN Decision 583 Andean Migration framework is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal Andean free-movement-of-persons framework with operational Andean Migration Card framework.",
+    "4 CAN member state + 5 CAN associate member ratification framework with Chile-withdrew-1976 + Venezuela-withdrew-2011 framework is structurally distinctive globally — comprehensive Andean regional coverage framework.",
+    "1966 Declaration of Bogotá + 1969 Cartagena Agreement + 1973 Venezuela + 1976 Chile withdraws + 1979 Andean Court + Andean Parliament + 1983 Andean Court enters force + 1995 CET + 1996 Trujillo Protocol + 1997 entry into force + 2001 Andean Migration Card + 2004 Decision 583 + 2006 Venezuela announces withdrawal + 2011 Venezuela departs + 2024 Chile-rejoining negotiations CAN-framework-development sequence is structurally distinctive globally.",
+    "CAN Cartagena Agreement + Trujillo Protocol + Treaty Creating Court of Justice + CET + Decision 583 + Andean Migration Card formal sextet framework with formal Andean cross-border-children's-rights PA-intersection framework via free-movement-of-persons framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:colombia",
+    "jurisdiction:peru",
+    "jurisdiction:ecuador",
+    "jurisdiction:bolivia",
+    "jurisdiction:mercosur-treaty-of-asuncion",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "CAN",
+      "url": "https://www.comunidadandina.org/",
+      "publisher": "CAN General Secretariat",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "CAN Andean Community jurisdiction sidecar — regional supranational South-American Andean foundational-CAN-treaty meta-framework (CAN Cartagena Agreement 1969 + Trujillo Protocol 1996/1997 + Treaty Creating Court of Justice 1979/1983 + Andean Parliament 1979 + CET 1995 + Decision 583 Andean Migration 2004 + Andean Migration Card 2001 + 1966 Declaration of Bogotá predecessor + 1973 Venezuela + 1976 Chile withdraws + 2011 Venezuela departs + 2024 Chile-rejoining negotiations). Oldest modern South American regional supranational binding-treaty framework globally + only modern South American regional supranational binding-treaty framework operating formal Andean-integration framework + only modern South American regional supranational binding-treaty framework operating formal Andean Court of Justice framework + only modern regional supranational binding-treaty framework operating formal Chile-Venezuela-major-departure framework + central jurisdiction of formal Andean Court of Justice individual-petition framework + central jurisdiction of formal Andean customs-union framework + central jurisdiction of formal Andean Migration + free-movement-of-persons framework + 4 CAN member states (Bolivia + Colombia + Ecuador + Peru) + 5 CAN associate members (Argentina + Brazil + Chile + Paraguay + Uruguay) + 2 observer states + Chile-withdrew-1976 + Venezuela-withdrew-2011 + 1966 Declaration of Bogotá + 1969 Cartagena Agreement + 1973 Venezuela + 1976 Chile withdraws + 1979 Andean Court + Andean Parliament + 1983 Andean Court enters force + 1995 CET + 1996 Trujillo Protocol + 1997 entry into force + 2001 Andean Migration Card + 2004 Decision 583 + 2006-2011 Venezuela departs + 2024 Chile-rejoining negotiations CAN-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: CAN Decision 583 Andean Migration framework operates substantial intersection with parental-alienation framework via formal Andean cross-border-children's-rights framework + free-movement-of-persons framework.",
+    "Joins regional + supranational + South-American-Andean-foundational-CAN-treaty cluster + CAN-Cartagena-Agreement-oldest-modern-South-American-regional-supranational-binding-treaty-globally-distinctive + Andean-Court-of-Justice-Quito-individual-petition-Article-31 + Andean-Parliament-Bogotá-1979 + CAN-General-Secretariat-Lima + CAN-CET-1995 + Andean-Migration-Card-2001 + CAN-Decision-583-Andean-Migration-2004 + 4-CAN-member-states-Bolivia-Colombia-Ecuador-Peru + 5-CAN-associate-members-Argentina-Brazil-Chile-Paraguay-Uruguay + Chile-withdrew-1976-Pinochet + Venezuela-withdrew-2011-Chávez + 2024-Chile-rejoining-negotiations + 1966-Declaration-of-Bogotá-predecessor + Trujillo-Protocol-1996 + Andean-cross-border-children-rights-PA-intersection-via-free-movement-of-persons clusters within the corpus."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "id": "equatorial-guinea",
+  "name": "Equatorial Guinea (Republic of Equatorial Guinea / República de Guinea Ecuatorial)",
+  "jurisdiction_code": "GQ",
+  "legal_system": "civil-law",
+  "language": ["es", "fr", "pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Equatorial Guinea is a Central African civil-law republic — structurally distinctive globally as the only Spanish-speaking African state and the only state with Spanish + French + Portuguese as three official languages. Family-law framework operates under the Civil Code (Código Civil 1889 Spanish-derivative residual application) supplemented by Law 5/1999 on Children and customary-law jurisdiction. Equatorial Guinea is structurally distinctive in absence of comprehensive Family Code — substantive family-law operates through dispersed statutes and Civil Code residual application. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 154-171 residually. The Supreme Court of Justice (Tribunal Supremo de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Juzgado de Primera Instancia). Psychology profession is regulated through the Ministry of Health framework. Equatorial Guinea is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Equatorial Guinea is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code 1889 (Spanish-derivative residual) arts. 154-171",
+      "title": "Civil Code — Patria potestad (residual)",
+      "year": 1889,
+      "url": "https://www.tribunalsupremogq.gq/",
+      "relevance": "Federal Civil Code drawing on Spanish Civil Code 1889 substantive heritage applied residually."
+    },
+    {
+      "citation": "Law 5/1999 on Children",
+      "title": "Law on Children",
+      "year": 1999,
+      "url": "https://www.tribunalsupremogq.gq/",
+      "relevance": "Federal Law on Children aligned in part with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Justice (Tribunal Supremo de Justicia)",
+      "seat": "Malabo",
+      "url": "https://www.tribunalsupremogq.gq/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Tribunal Constitucional)",
+      "seat": "Malabo",
+      "url": "https://www.tribunalconstitucional.gq/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Social Welfare, Equatorial Guinea",
+      "url": "https://www.guineaecuatorialpress.com/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Equatoguinean family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1968,
+      "title": "Independence from Spain",
+      "description": "Equatorial Guinea achieved independence from Spain; retained Spanish Civil Code 1889 substantive heritage."
+    },
+    {
+      "year": 1998,
+      "title": "French as second official language",
+      "description": "French adopted as second official language."
+    },
+    {
+      "year": 1999,
+      "title": "Law 5/1999 on Children",
+      "description": "Federal Law on Children enacted aligned in part with UNCRC obligations."
+    },
+    {
+      "year": 2010,
+      "title": "Portuguese as third official language",
+      "description": "Portuguese adopted as third official language."
+    }
+  ],
+  "structural_findings": [
+    "Equatorial Guinea operates a Spanish-civil-law family-law framework — structurally distinctive globally as the only Spanish-speaking African state in the corpus. Places Equatorial Guinea in the Spanish-civil-law-tradition cluster.",
+    "Trilingual official-language framework (Spanish + French + Portuguese) is structurally distinctive globally — only state with this combination in the corpus.",
+    "Absence of comprehensive Family Code (vs Civil Code residual + dispersed statutes) is structurally distinctive within Central African Spanish-Civil-Code cluster.",
+    "Non-Hague Convention status places Equatorial Guinea in the non-Hague Central African cluster."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:gabon",
+    "jurisdiction:cameroon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Justice",
+      "url": "https://www.tribunalsupremogq.gq/",
+      "publisher": "Supreme Court",
+      "language": "es,fr,pt"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.tribunalconstitucional.gq/",
+      "publisher": "Constitutional Court",
+      "language": "es,fr,pt"
+    },
+    {
+      "title": "Guinea Ecuatorial Press",
+      "url": "https://www.guineaecuatorialpress.com/",
+      "publisher": "Government information service",
+      "language": "es,fr,pt"
+    }
+  ],
+  "editorial_notes": [
+    "Equatorial Guinea jurisdiction sidecar — civil-law Spanish-derivative Central Africa (Civil Code 1889 residual + Law 5/1999 on Children + trilingual Spanish-French-Portuguese + non-Hague). Only Spanish-speaking African state.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central African + civil-law + Spanish-derivative-globally-distinctive cluster + trilingual-Spanish-French-Portuguese-globally-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

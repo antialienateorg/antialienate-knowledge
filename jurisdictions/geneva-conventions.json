@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "id": "geneva-conventions",
+  "name": "Geneva Conventions 1949 + Additional Protocols 1977/2005 (IHL Geneva Framework)",
+  "jurisdiction_code": "GEN",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Geneva Conventions 1949 + Additional Protocols 1977 + 2005 (popularly the IHL Geneva Framework / formally Geneva Convention I-IV of 12 August 1949 + Additional Protocols I-II of 8 June 1977 + Additional Protocol III of 8 December 2005) is a global supranational meta-framework international-humanitarian-law binding-treaty septet adopted by the UN Conference of Plenipotentiaries — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on international-humanitarian-law framework + foundational framework for all subsequent modern international + regional + sub-national international-humanitarian-law frameworks (Geneva Conventions I-IV adopted 12 August 1949 by UN Conference of Plenipotentiaries on the Reaffirmation and Development of International Humanitarian Law Applicable in Armed Conflicts in Geneva + effective 21 October 1950 + Additional Protocol I + II adopted 8 June 1977 + effective 7 December 1978 + Additional Protocol III adopted 8 December 2005 + effective 14 January 2007 — formal universal multilateral binding-treaty septet establishing comprehensive international-humanitarian-law framework, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-international-humanitarian-law-specific framework), as the most-widely-ratified UN binding-treaty framework in human history (Geneva Conventions I-IV have 196 state parties as of 2026 — tied with UNCRC for most-widely-ratified UN binding-treaty framework in human history, with universal coverage except observer states, structurally distinctive globally as the most-widely-ratified UN binding-treaty framework in human history alongside UNCRC), as the central jurisdiction of the formal Geneva Convention IV Article 50 children-and-occupation framework + Additional Protocol I Article 77 children's-special-protection framework + Article 78 children's-evacuation framework (Geneva Convention IV Article 50 framework on care of children in occupied territories + Additional Protocol I Article 77 framework on special protection of children + Additional Protocol I Article 78 framework on evacuation of children — formal foundational children-and-armed-conflict framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal multi-article children-and-armed-conflict framework, with substantial relevance to PA framework via formal cross-border-child-victims-of-armed-conflict framework + cross-border-deportation-of-children framework + cross-border-evacuation-of-children framework), and as the central jurisdiction of the formal grave-breaches universal-jurisdiction framework (Geneva Conventions Common Article 49/50/129/146 framework on grave breaches + universal-jurisdiction framework providing 'High Contracting Parties undertake to enact any legislation necessary to provide effective penal sanctions for persons committing, or ordering to be committed, any of the grave breaches of the present Convention' + 'Each High Contracting Party shall be under the obligation to search for persons alleged to have committed, or to have ordered to be committed, such grave breaches, and shall bring such persons, regardless of their nationality, before its own courts' — formal foundational universal-jurisdiction framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal universal-jurisdiction framework). The Geneva Conventions are binding upon 196 state parties as of 2026 + Additional Protocol I is binding upon 174 state parties as of 2026 + Additional Protocol II is binding upon 169 state parties as of 2026 + Additional Protocol III is binding upon 80 state parties as of 2026 — substantial universal coverage framework. The Conventions + Protocols are silent on 'parental alienation' as a statutory label, though formal Geneva Convention IV Article 50 + Additional Protocol I Article 77 + Article 78 children-and-armed-conflict frameworks operate substantial intersection with parental-alienation framework via formal cross-border-child-victims-of-armed-conflict framework + cross-border-deportation-of-children framework + cross-border-evacuation-of-children framework. The International Committee of the Red Cross ICRC is the formal monitoring framework body; national-level apex courts operate as judicial bodies via formal universal-jurisdiction framework + the International Criminal Court ICC is the formal international-court body. The Geneva Conventions are silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Geneva Conventions I-IV 1949",
+      "title": "Geneva Conventions I-IV",
+      "year": 1950,
+      "url": "https://www.icrc.org/",
+      "relevance": "Geneva Convention I-IV adopted 12 August 1949 by UN Conference of Plenipotentiaries on the Reaffirmation and Development of International Humanitarian Law Applicable in Armed Conflicts in Geneva + effective 21 October 1950 — formal universal multilateral binding-treaty quartet establishing comprehensive international-humanitarian-law framework."
+    },
+    {
+      "citation": "Geneva Conventions Additional Protocol I 1977",
+      "title": "Additional Protocol I",
+      "year": 1978,
+      "url": "https://www.icrc.org/",
+      "relevance": "Geneva Conventions Additional Protocol I adopted 8 June 1977 + effective 7 December 1978 — formal Geneva Conventions extension framework on international armed conflicts."
+    },
+    {
+      "citation": "Geneva Conventions Additional Protocol II 1977",
+      "title": "Additional Protocol II",
+      "year": 1978,
+      "url": "https://www.icrc.org/",
+      "relevance": "Geneva Conventions Additional Protocol II adopted 8 June 1977 + effective 7 December 1978 — formal Geneva Conventions extension framework on non-international armed conflicts."
+    },
+    {
+      "citation": "Geneva Convention IV Article 50 (Children and Occupation Framework)",
+      "title": "Geneva Convention IV Article 50",
+      "year": 1950,
+      "url": "https://www.icrc.org/",
+      "relevance": "Geneva Convention IV Article 50 framework on care of children in occupied territories — formal foundational children-and-occupation framework."
+    },
+    {
+      "citation": "Additional Protocol I Article 77 + Article 78 (Children's Special Protection + Evacuation Framework)",
+      "title": "Additional Protocol I Articles 77 + 78",
+      "year": 1978,
+      "url": "https://www.icrc.org/",
+      "relevance": "Additional Protocol I Article 77 framework on special protection of children + Article 78 framework on evacuation of children — formal foundational children's-special-protection + evacuation framework."
+    },
+    {
+      "citation": "Geneva Conventions Common Article 49/50/129/146 (Grave Breaches + Universal-Jurisdiction Framework)",
+      "title": "Geneva Conventions Common Article on Grave Breaches",
+      "year": 1950,
+      "url": "https://www.icrc.org/",
+      "relevance": "Geneva Conventions Common Article 49 (Convention I) + Article 50 (Convention II) + Article 129 (Convention III) + Article 146 (Convention IV) framework on grave breaches + universal-jurisdiction framework — formal foundational universal-jurisdiction framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "International Committee of the Red Cross (ICRC)",
+      "seat": "Geneva",
+      "url": "https://www.icrc.org/",
+      "role": "Formal monitoring framework body for Geneva Conventions."
+    },
+    {
+      "name": "International Criminal Court (ICC)",
+      "seat": "The Hague",
+      "url": "https://www.icc-cpi.int/",
+      "role": "Formal international-court body for Geneva Conventions grave-breaches framework via Rome Statute Article 8 framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ICRC Secretariat",
+      "url": "https://www.icrc.org/",
+      "role": "Geneva Conventions implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Geneva Conventions-related individual communications operate via national-level court frameworks using initials where appropriate.",
+  "key_developments": [
+    {
+      "year": 1864,
+      "title": "First Geneva Convention adopted",
+      "description": "First Geneva Convention adopted 22 August 1864 — predecessor framework to modern Geneva Conventions."
+    },
+    {
+      "year": 1929,
+      "title": "Geneva Conventions 1929 adopted",
+      "description": "Geneva Conventions 1929 adopted 27 July 1929 — predecessor framework to modern Geneva Conventions 1949."
+    },
+    {
+      "year": 1949,
+      "title": "Geneva Conventions I-IV adopted",
+      "description": "Geneva Convention I-IV adopted 12 August 1949 — formal universal multilateral binding-treaty quartet."
+    },
+    {
+      "year": 1950,
+      "title": "Geneva Conventions enter force",
+      "description": "Geneva Conventions I-IV entered force 21 October 1950 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1977,
+      "title": "Additional Protocols I + II adopted",
+      "description": "Geneva Conventions Additional Protocol I + II adopted 8 June 1977 — formal Geneva Conventions extension framework."
+    },
+    {
+      "year": 1978,
+      "title": "Additional Protocols I + II enter force",
+      "description": "Geneva Conventions Additional Protocol I + II entered force 7 December 1978 — formal Geneva Conventions extension framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "Additional Protocol III adopted",
+      "description": "Geneva Conventions Additional Protocol III adopted 8 December 2005 — formal Geneva Conventions extension framework on third distinctive emblem of the Red Crystal."
+    }
+  ],
+  "structural_findings": [
+    "Geneva Conventions operate a supranational universal multilateral binding-treaty septet framework — places Geneva Conventions in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on international-humanitarian-law framework + foundational framework for all subsequent modern international + regional + sub-national international-humanitarian-law frameworks is structurally distinctive globally — formal-international-humanitarian-law-specific framework.",
+    "Most-widely-ratified UN binding-treaty framework in human history alongside UNCRC is structurally distinctive globally — 196 state parties + universal coverage except observer states.",
+    "Central jurisdiction of formal Geneva Convention IV Article 50 + Additional Protocol I Article 77 + Article 78 children-and-armed-conflict framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal multi-article children-and-armed-conflict framework.",
+    "Central jurisdiction of formal grave-breaches universal-jurisdiction framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal universal-jurisdiction framework.",
+    "196 state party Geneva Conventions + 174 state party Additional Protocol I + 169 state party Additional Protocol II + 80 state party Additional Protocol III ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1864 First Geneva Convention + 1929 Geneva Conventions + 1949 Geneva Conventions + 1950 entry into force + 1977 Additional Protocols I + II + 1978 entry into force + 2005 Additional Protocol III + 2007 entry into force Geneva-Conventions-framework-development sequence is structurally distinctive globally.",
+    "Geneva Convention IV Article 50 + Additional Protocol I Article 77 + Article 78 children-and-armed-conflict + Common Article on Grave Breaches universal-jurisdiction formal quartet framework with formal cross-border-child-victims-of-armed-conflict + cross-border-deportation-of-children + cross-border-evacuation-of-children PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:rome-statute-icc",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "International Committee of the Red Cross (ICRC)",
+      "url": "https://www.icrc.org/",
+      "publisher": "ICRC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Geneva Conventions jurisdiction sidecar — supranational global international-humanitarian-law universal multilateral binding-treaty septet meta-framework (Geneva Conventions I-IV 1949/1950 + Additional Protocol I 1977/1978 + Additional Protocol II 1977/1978 + Additional Protocol III 2005/2007 + Geneva Convention IV Article 50 + Additional Protocol I Article 77 + Article 78 + Common Article on Grave Breaches + ICRC + ICC + 1864 First Geneva Convention + 1929 Geneva Conventions). Only modern universal multilateral binding-treaty framework operating specifically on international-humanitarian-law framework + foundational framework for all subsequent modern international + regional + sub-national international-humanitarian-law frameworks globally + most-widely-ratified UN binding-treaty framework in human history alongside UNCRC + central jurisdiction of formal Geneva Convention IV Article 50 + Additional Protocol I Article 77 + Article 78 children-and-armed-conflict framework + central jurisdiction of formal grave-breaches universal-jurisdiction framework + 196 state party Geneva Conventions + 174 state party Additional Protocol I + 169 state party Additional Protocol II + 80 state party Additional Protocol III ratification framework + 1864 First Geneva Convention + 1929 Geneva Conventions + 1949 Geneva Conventions + 1950 entry into force + 1977 Additional Protocols I + II + 1978 entry into force + 2005 Additional Protocol III + 2007 entry into force Geneva-Conventions-framework-development sequence + Geneva Convention IV Article 50 + Additional Protocol I Article 77 + Article 78 children-and-armed-conflict + Common Article on Grave Breaches universal-jurisdiction formal quartet framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Geneva Convention IV Article 50 + Additional Protocol I Article 77 + Article 78 children-and-armed-conflict frameworks operate substantial intersection with parental-alienation framework via formal cross-border-child-victims-of-armed-conflict framework + cross-border-deportation-of-children framework + cross-border-evacuation-of-children framework.",
+    "Joins global + supranational + universal-multilateral-international-humanitarian-law-binding-treaty cluster + Geneva-Conventions-only-universal-international-humanitarian-law-binding-treaty-foundational-for-all-IHL-frameworks-globally-distinctive + most-widely-ratified-UN-binding-treaty-in-human-history-tied-with-UNCRC + Article-50-Geneva-IV-Children-and-Occupation + Article-77-Additional-Protocol-I-Children-Special-Protection + Article-78-Additional-Protocol-I-Children-Evacuation + Common-Article-49-50-129-146-Grave-Breaches-Universal-Jurisdiction + ICRC-monitoring-body + ICC-international-court-body + Rome-Statute-Article-8-complementary-framework + 1864-First-Geneva-Convention + cross-border-child-victims-of-armed-conflict-PA-intersection + cross-border-deportation-of-children-PA-intersection + cross-border-evacuation-of-children-PA-intersection clusters within the corpus."
+  ]
+}

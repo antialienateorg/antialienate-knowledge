@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "azerbaijan",
+  "name": "Azerbaijan (Republic of Azerbaijan / Azərbaycan Respublikası)",
+  "jurisdiction_code": "AZ",
+  "legal_system": "civil-law",
+  "language": ["az"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Azerbaijan is a South Caucasus civil-law unitary republic whose family-law framework operates under the Family Code of the Republic of Azerbaijan 1999 (effective 1 September 2000), federal civil-code framework drawing on post-Soviet civil-law tradition with European-codification-influenced reforms. Parental rights and child custody are governed by Family Code arts. 49-79. The Supreme Court of the Republic of Azerbaijan (Azərbaycan Respublikası Ali Məhkəməsi) is the apex court for civil and criminal matters; the Constitutional Court (Konstitusiya Məhkəməsi) operates separate constitutional review. Family-law matters are heard at first instance in the District/City Courts. Psychology profession is regulated through the Ministry of Health framework. Azerbaijan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 51. Azerbaijan is non-Hague Convention. Azerbaijan is a Council of Europe member subject to ECHR jurisdiction.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code of the Republic of Azerbaijan 1999 arts. 49-79",
+      "title": "Family Code — Parental rights and custody",
+      "year": 1999,
+      "url": "https://www.e-qanun.az/",
+      "relevance": "Federal Family Code enacted effective 1 September 2000. Arts. 49-79 govern parental rights and child custody. Substantively amended over subsequent decades."
+    },
+    {
+      "citation": "Law on the Rights of the Child 499-IQ of 1998",
+      "title": "Law on the Rights of the Child",
+      "year": 1998,
+      "url": "https://www.e-qanun.az/",
+      "relevance": "Federal children's rights statute aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Ali Məhkəmə)",
+      "seat": "Baku",
+      "url": "https://www.supremecourt.gov.az/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Konstitusiya Məhkəməsi)",
+      "seat": "Baku",
+      "url": "https://www.constcourt.gov.az/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Azerbaijan",
+      "url": "https://www.sehiyye.gov.az/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Azerbaijani family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1998,
+      "title": "Law on the Rights of the Child",
+      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+    },
+    {
+      "year": 1999,
+      "title": "Family Code 1999",
+      "description": "Federal Family Code enacted effective 1 September 2000 codifying marriage, parental rights and child custody."
+    },
+    {
+      "year": 2001,
+      "title": "Council of Europe membership",
+      "description": "Azerbaijan joined the Council of Europe; ECHR became applicable."
+    }
+  ],
+  "structural_findings": [
+    "Azerbaijan operates a post-Soviet civil-law framework with Council of Europe + ECHR membership — places Azerbaijan in the post-Soviet civil-law + ECHR cluster alongside Armenia and Georgia within the corpus.",
+    "Non-Hague Convention status places Azerbaijan in the non-Hague South Caucasus cluster — structural distinction from Hague-acceding Armenia and Georgia.",
+    "Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Azerbaijan from MENA religious-law cluster despite Muslim-majority demography."
+  ],
+  "references": [
+    "jurisdiction:armenia",
+    "jurisdiction:georgia",
+    "jurisdiction:russia",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Azerbaijan",
+      "url": "https://www.supremecourt.gov.az/",
+      "publisher": "Supreme Court",
+      "language": "az,en"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.constcourt.gov.az/",
+      "publisher": "Constitutional Court",
+      "language": "az,en"
+    },
+    {
+      "title": "Electronic Legal Database (e-qanun)",
+      "url": "https://www.e-qanun.az/",
+      "publisher": "Ministry of Justice",
+      "language": "az,en"
+    }
+  ],
+  "editorial_notes": [
+    "Azerbaijan jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Family Code 1999 + Law on Rights of the Child 1998 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Caucasus + civil-law + post-Soviet + ECHR + non-Hague Convention clusters within the corpus."
+  ]
+}

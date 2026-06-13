@@ -1,0 +1,202 @@
+{
+  "schema_version": "1.0",
+  "id": "wto-marrakesh-agreement",
+  "name": "WTO Marrakesh Agreement 1994 (World Trade Organization)",
+  "jurisdiction_code": "WTO",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Marrakesh Agreement Establishing the World Trade Organization (WTO Marrakesh Agreement) is a global supranational meta-framework foundational-WTO-treaty framework adopted by the 123 founding states in Marrakesh — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-trade-cooperation framework + successor to GATT 1947 framework (WTO Marrakesh Agreement adopted 15 April 1994 in Marrakesh Morocco + effective 1 January 1995 succeeding GATT 1947 — formal foundational WTO treaty framework establishing comprehensive WTO organisation framework, distinct from rest-of-modern-international-trade frameworks which operate as regional or bilateral frameworks, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-trade-cooperation framework + successor to GATT 1947 framework + only modern global supranational binding-treaty framework operating formal Single Undertaking framework + only modern global supranational binding-treaty framework operating formal consensus-based-decision-making framework + only modern global supranational binding-treaty framework operating formal Most-Favoured-Nation MFN + National-Treatment-NT framework + only modern global supranational binding-treaty framework operating formal Dispute-Settlement-Understanding-paralysed framework via US Trump-administration-Appellate-Body-paralysis-since-December-2019 framework + only modern global supranational binding-treaty framework operating formal Doha-Development-Round-Stalled framework since 2008 collapse), as the central jurisdiction of the formal WTO Dispute Settlement Understanding DSU framework (WTO Dispute Settlement Understanding DSU framework providing formal binding-state-state dispute-settlement framework via Dispute Settlement Body DSB + Panel + Appellate Body framework + Multi-Party Interim Appeal Arbitration Arrangement MPIA framework effective from 30 April 2020 in response to Appellate-Body-paralysis framework — formal foundational WTO dispute-settlement framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal binding-state-state dispute-settlement framework + only modern global supranational binding-treaty framework operating formal MPIA framework as Appellate-Body-paralysis workaround framework), as the central jurisdiction of the formal WTO Doha Development Round + Bali + Nairobi + Buenos Aires + MC13 Geneva + MC14 Cameroon framework (WTO Doha Development Round launched 14 November 2001 + Bali MC9 December 2013 + Nairobi MC10 December 2015 + Buenos Aires MC11 December 2017 + Geneva MC12 12-17 June 2022 + Abu Dhabi MC13 26 February - 2 March 2024 + Cameroon MC14 2026 framework — formal foundational WTO Ministerial Conference framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal biennial Ministerial Conference framework with formal Doha-Development-Round-Stalled-since-2008 framework), and as the central jurisdiction of the formal WTO Multilateral Trade Agreements framework (WTO Multilateral Trade Agreements framework providing formal GATT 1994 + GATS 1994 + TRIPS 1994 + DSU 1994 + Trade Policy Review Mechanism TPRM 1994 + Government Procurement Agreement GPA 1994 + Trade Facilitation Agreement TFA effective 22 February 2017 + Fisheries Subsidies Agreement effective 27 September 2024 — formal foundational WTO multilateral-trade-agreements framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal multilateral-trade-agreements framework). The WTO Marrakesh Agreement is binding upon 166 WTO member states as of 2026 + 23 WTO observer states with notable non-members North Korea + Eritrea + Turkmenistan + Vatican framework + Russia suspended-since-2022-Western-sanctions framework — substantial universal coverage framework. The Agreement is silent on 'parental alienation' as a statutory label, though formal WTO TRIPS framework operates limited intersection with parental-alienation framework via formal WTO-TRIPS-on-Family-Education-Materials framework not directly addressing family-law-issues framework. The WTO Ministerial Conference + WTO General Council + WTO Director-General + WTO DSB + WTO Appellate Body (paralysed) + WTO MPIA are the formal WTO bodies; national-level apex courts operate as judicial bodies. The WTO Marrakesh Agreement is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "WTO Marrakesh Agreement 1994",
+      "title": "WTO Marrakesh Agreement",
+      "year": 1995,
+      "url": "https://www.wto.org/",
+      "relevance": "Marrakesh Agreement Establishing the World Trade Organization adopted 15 April 1994 in Marrakesh Morocco + effective 1 January 1995 succeeding GATT 1947 — formal foundational WTO treaty framework establishing comprehensive WTO organisation framework."
+    },
+    {
+      "citation": "GATT 1947 (Predecessor)",
+      "title": "GATT 1947",
+      "year": 1948,
+      "url": "https://www.wto.org/",
+      "relevance": "General Agreement on Tariffs and Trade GATT 1947 adopted 30 October 1947 in Geneva Switzerland + effective 1 January 1948 — predecessor framework to WTO Marrakesh Agreement."
+    },
+    {
+      "citation": "WTO Dispute Settlement Understanding DSU 1994",
+      "title": "WTO DSU",
+      "year": 1995,
+      "url": "https://www.wto.org/",
+      "relevance": "Understanding on Rules and Procedures Governing the Settlement of Disputes WTO DSU adopted 15 April 1994 + effective 1 January 1995 — formal foundational WTO dispute-settlement framework."
+    },
+    {
+      "citation": "Trade Facilitation Agreement TFA 2014",
+      "title": "WTO TFA",
+      "year": 2017,
+      "url": "https://www.wto.org/",
+      "relevance": "WTO Trade Facilitation Agreement TFA adopted 7 December 2013 + effective 22 February 2017 — formal foundational WTO trade-facilitation framework."
+    },
+    {
+      "citation": "MPIA Multi-Party Interim Appeal Arbitration Arrangement 2020",
+      "title": "WTO MPIA",
+      "year": 2020,
+      "url": "https://www.wto.org/",
+      "relevance": "Multi-Party Interim Appeal Arbitration Arrangement MPIA effective from 30 April 2020 — formal foundational WTO MPIA Appellate-Body-paralysis workaround framework."
+    },
+    {
+      "citation": "Fisheries Subsidies Agreement 2022",
+      "title": "WTO Fisheries Subsidies Agreement",
+      "year": 2024,
+      "url": "https://www.wto.org/",
+      "relevance": "WTO Fisheries Subsidies Agreement adopted 17 June 2022 + effective 27 September 2024 — formal foundational WTO fisheries-subsidies framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "WTO Ministerial Conference",
+      "seat": "biennial-rotating",
+      "url": "https://www.wto.org/english/thewto_e/minist_e/minist_e.htm",
+      "role": "Formal supreme decision-making body for WTO."
+    },
+    {
+      "name": "WTO General Council",
+      "seat": "Geneva",
+      "url": "https://www.wto.org/english/thewto_e/gcounc_e/gcounc_e.htm",
+      "role": "Formal executive body for WTO."
+    },
+    {
+      "name": "WTO Director-General",
+      "seat": "Geneva",
+      "url": "https://www.wto.org/english/thewto_e/dg_e/dg_e.htm",
+      "role": "Formal administrative head body for WTO."
+    },
+    {
+      "name": "WTO Dispute Settlement Body (DSB)",
+      "seat": "Geneva",
+      "url": "https://www.wto.org/english/tratop_e/dispu_e/dispu_e.htm",
+      "role": "Formal WTO dispute-settlement framework body."
+    },
+    {
+      "name": "WTO Appellate Body (paralysed since 11 December 2019)",
+      "seat": "Geneva",
+      "url": "https://www.wto.org/",
+      "role": "Formal WTO Appellate Body paralysed by US-blocking-of-appointments-since-2019 framework."
+    },
+    {
+      "name": "WTO MPIA Multi-Party Interim Appeal Arbitration Arrangement",
+      "seat": "Geneva",
+      "url": "https://www.wto.org/",
+      "role": "Formal WTO MPIA Appellate-Body-paralysis workaround framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "WTO Secretariat",
+      "url": "https://www.wto.org/",
+      "role": "WTO Marrakesh Agreement implementation framework."
+    }
+  ],
+  "anonymisation_convention": "WTO-related communications operate via state-state framework via WTO DSB + WTO Ministerial Conference; individual communications not formally accepted under WTO framework.",
+  "key_developments": [
+    {
+      "year": 1947,
+      "title": "GATT 1947 adopted",
+      "description": "General Agreement on Tariffs and Trade GATT 1947 adopted 30 October 1947 in Geneva Switzerland — predecessor framework to WTO Marrakesh Agreement adopted."
+    },
+    {
+      "year": 1986,
+      "title": "Uruguay Round launched",
+      "description": "Uruguay Round of multilateral trade negotiations launched 20 September 1986 in Punta del Este Uruguay — formal foundational WTO negotiation framework."
+    },
+    {
+      "year": 1994,
+      "title": "WTO Marrakesh Agreement signed",
+      "description": "Marrakesh Agreement Establishing the World Trade Organization signed 15 April 1994 in Marrakesh Morocco by 123 founding states — formal foundational WTO treaty framework adopted."
+    },
+    {
+      "year": 1995,
+      "title": "WTO operations begin",
+      "description": "WTO Marrakesh Agreement entered force 1 January 1995 + WTO operations began 1 January 1995 — formal foundational WTO treaty framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "Doha Development Round launched + China joins WTO",
+      "description": "Doha Development Round launched 14 November 2001 at WTO MC4 Doha Qatar + China joined WTO 11 December 2001 — formal foundational WTO Doha Development Round + China-WTO-accession framework."
+    },
+    {
+      "year": 2008,
+      "title": "Doha Round collapse",
+      "description": "Doha Development Round collapsed 29 July 2008 at WTO Mini-Ministerial Geneva — formal WTO Doha-Development-Round-Stalled framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "Russia joins WTO",
+      "description": "Russia joined WTO 22 August 2012 — formal foundational Russia-WTO-accession framework."
+    },
+    {
+      "year": 2019,
+      "title": "WTO Appellate Body paralysed",
+      "description": "WTO Appellate Body paralysed 11 December 2019 by US-blocking-of-appointments-since-2017-Trump-administration framework — formal WTO Appellate Body paralysis framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "MPIA Multi-Party Interim Appeal Arbitration Arrangement",
+      "description": "Multi-Party Interim Appeal Arbitration Arrangement MPIA effective from 30 April 2020 by 25 WTO members in response to Appellate-Body-paralysis framework — formal foundational WTO MPIA workaround framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Ngozi Okonjo-Iweala first female + first African WTO Director-General",
+      "description": "Ngozi Okonjo-Iweala first female + first African WTO Director-General effective 1 March 2021 — formal foundational WTO Director-General framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "WTO MC12 + Fisheries Subsidies Agreement",
+      "description": "WTO Ministerial Conference MC12 held 12-17 June 2022 in Geneva + Fisheries Subsidies Agreement adopted 17 June 2022 — formal WTO MC12 framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "WTO MC13 Abu Dhabi + Fisheries Subsidies Agreement effective",
+      "description": "WTO Ministerial Conference MC13 held 26 February - 2 March 2024 in Abu Dhabi UAE + Fisheries Subsidies Agreement effective 27 September 2024 — formal WTO MC13 + Fisheries Subsidies framework operational."
+    },
+    {
+      "year": 2026,
+      "title": "WTO MC14 Cameroon",
+      "description": "WTO Ministerial Conference MC14 scheduled for 2026 in Cameroon — first WTO Ministerial Conference held in Africa framework."
+    }
+  ],
+  "structural_findings": [
+    "WTO Marrakesh Agreement operates a supranational global binding-treaty framework — places WTO Marrakesh Agreement in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-trade-cooperation framework + successor to GATT 1947 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-trade-cooperation framework + only modern global supranational binding-treaty framework operating formal Single Undertaking framework + only modern global supranational binding-treaty framework operating formal consensus-based-decision-making framework + only modern global supranational binding-treaty framework operating formal Most-Favoured-Nation MFN + National-Treatment-NT framework + only modern global supranational binding-treaty framework operating formal Dispute-Settlement-Understanding-paralysed framework + only modern global supranational binding-treaty framework operating formal Doha-Development-Round-Stalled framework since 2008 collapse.",
+    "Central jurisdiction of formal WTO DSU framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal binding-state-state dispute-settlement framework + only modern global supranational binding-treaty framework operating formal MPIA framework as Appellate-Body-paralysis workaround framework.",
+    "Central jurisdiction of formal WTO Doha Development Round + Bali + Nairobi + Buenos Aires + MC13 Geneva + MC14 Cameroon framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal biennial Ministerial Conference framework with formal Doha-Development-Round-Stalled-since-2008 framework.",
+    "Central jurisdiction of formal WTO Multilateral Trade Agreements framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal multilateral-trade-agreements framework.",
+    "166 WTO member state + 23 observer state ratification framework with notable non-members North Korea + Eritrea + Turkmenistan + Vatican framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1947 GATT + 1986 Uruguay Round + 1994 WTO Marrakesh Agreement + 1995 entry into force + 2001 Doha Round + China joins + 2008 Doha collapse + 2012 Russia joins + 2019 Appellate Body paralysed + 2020 MPIA + 2021 Okonjo-Iweala + 2022 MC12 + Fisheries Subsidies + 2024 MC13 + Fisheries effective + 2026 MC14 Cameroon WTO-framework-development sequence is structurally distinctive globally.",
+    "WTO Marrakesh + GATT 1994 + GATS + TRIPS + DSU + TFA + Fisheries Subsidies + MPIA formal octet framework with limited PA-intersection framework via formal WTO-TRIPS-on-Family-Education-Materials framework not directly addressing family-law-issues framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:imf-articles-of-agreement",
+    "jurisdiction:world-bank-ibrd-articles",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "WTO",
+      "url": "https://www.wto.org/",
+      "publisher": "WTO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "WTO Marrakesh Agreement jurisdiction sidecar — supranational global foundational-WTO-treaty meta-framework (WTO Marrakesh Agreement 1994/1995 + GATT 1947 predecessor + GATT 1994 + GATS + TRIPS + DSU + TFA 2014/2017 + Fisheries Subsidies 2022/2024 + MPIA 2020 + Doha Development Round 2001/2008 collapse + Appellate Body paralysed 2019 + China 2001 + Russia 2012 + Okonjo-Iweala 2021 + MC12 2022 + MC13 2024 Abu Dhabi + MC14 2026 Cameroon). Only modern global supranational binding-treaty framework operating on formal international-trade-cooperation framework globally + successor to GATT 1947 + only modern global supranational binding-treaty framework operating formal Single Undertaking framework + only modern global supranational binding-treaty framework operating formal consensus-based-decision-making framework + only modern global supranational binding-treaty framework operating formal Most-Favoured-Nation MFN + National-Treatment-NT framework + only modern global supranational binding-treaty framework operating formal Dispute-Settlement-Understanding-paralysed framework + only modern global supranational binding-treaty framework operating formal Doha-Development-Round-Stalled framework + central jurisdiction of formal WTO DSU + MPIA workaround framework + central jurisdiction of formal Ministerial Conference framework + central jurisdiction of formal multilateral-trade-agreements framework + 166 WTO member states + 23 observer states + 1947 GATT + 1986 Uruguay Round + 1994 WTO Marrakesh Agreement + 1995 entry into force + 2001 Doha + China + 2008 Doha collapse + 2012 Russia + 2019 Appellate Body paralysed + 2020 MPIA + 2021 Okonjo-Iweala + 2022 MC12 + 2024 MC13 + 2026 MC14 Cameroon WTO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: WTO TRIPS framework operates limited intersection with parental-alienation framework via formal WTO-TRIPS-on-Family-Education-Materials framework not directly addressing family-law-issues framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks.",
+    "Joins global + supranational + foundational-WTO-treaty cluster + WTO-Marrakesh-only-global-supranational-binding-treaty-on-international-trade-cooperation-globally-distinctive + GATT-1947-predecessor + Single-Undertaking + consensus-based-decision-making + Most-Favoured-Nation-MFN + National-Treatment-NT + WTO-DSU-Dispute-Settlement-Understanding + WTO-Appellate-Body-paralysed-since-December-2019-US-blocking + MPIA-Multi-Party-Interim-Appeal-Arbitration-Arrangement-2020-25-members + WTO-Doha-Development-Round-launched-2001-stalled-2008 + 166-WTO-member-states + 23-observer-states + North-Korea-Eritrea-Turkmenistan-Vatican-non-members + China-joined-2001 + Russia-joined-2012-suspended-2022-Western-sanctions + Ngozi-Okonjo-Iweala-2021-first-female-first-African-DG + MC12-Geneva-2022 + MC13-Abu-Dhabi-2024 + MC14-Cameroon-2026-first-Africa-MC + GATT-GATS-TRIPS-DSU-TFA-Fisheries-Subsidies + WTO-TRIPS-on-Family-Education-Materials-PA-intersection clusters within the corpus."
+  ]
+}

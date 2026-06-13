@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "id": "grenada",
+  "name": "Grenada",
+  "jurisdiction_code": "GD",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Grenada is a Caribbean common-law constitutional monarchy whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance Act, the Status of Children Act, and the Child Protection and Adoption Act 2010. Parental responsibility and child custody are governed by Child Protection and Adoption Act and case-law applying the welfare-of-the-child principle. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Grenada) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Grenada is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Child Protection and Adoption Act s. 4. Grenada is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Child Protection and Adoption Act 2010",
+      "title": "Child Protection and Adoption Act",
+      "year": 2010,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal Act codifying welfare-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Status of Children Act",
+      "title": "Status of Children Act",
+      "year": 1991,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on legal status of children."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eastern Caribbean Supreme Court — Court of Appeal",
+      "seat": "St. George's",
+      "url": "https://www.eccourts.org/",
+      "role": "Apex domestic appellate court for OECS states including Grenada."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Grenada."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Grenada",
+      "url": "https://www.health.gov.gd/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Grenadian family-court decisions are anonymised per Eastern Caribbean Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1974,
+      "title": "Independence",
+      "description": "Grenada achieved independence from the United Kingdom; retained JCPC as final appellate court."
+    },
+    {
+      "year": 2010,
+      "title": "Child Protection and Adoption Act",
+      "description": "Federal Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection."
+    }
+  ],
+  "structural_findings": [
+    "Grenada operates a common-law framework — places Grenada in the OECS-Anglophone Caribbean common-law cluster.",
+    "Eastern Caribbean Supreme Court appellate jurisdiction places Grenada in the OECS-shared-judicial-system cluster.",
+    "Judicial Committee of the Privy Council retention as final appellate court is shared with other OECS Anglophone states.",
+    "Non-Hague Convention status places Grenada in the non-Hague Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:antigua-and-barbuda",
+    "jurisdiction:saint-lucia",
+    "jurisdiction:united-kingdom",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Caribbean Supreme Court",
+      "url": "https://www.eccourts.org/",
+      "publisher": "ECSC",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health, Grenada",
+      "url": "https://www.health.gov.gd/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Grenada jurisdiction sidecar — common-law Caribbean (Child Protection and Adoption Act 2010 + Status of Children Act 1991 + OECS-ECSC appellate + JCPC final-appellate + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins OECS-Anglophone Caribbean + common-law + OECS-shared-judicial-system + JCPC-final-appellate + non-Hague Convention clusters within the corpus."
+  ]
+}

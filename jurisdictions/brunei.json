@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "brunei",
+  "name": "Brunei Darussalam (نڬارا بروني دارالسلام)",
+  "jurisdiction_code": "BN",
+  "legal_system": "mixed",
+  "language": ["ms", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Brunei Darussalam is a Southeast Asian mixed-legal-system absolute monarchy combining English common-law substantive heritage (via colonial inheritance) with Islamic-law (Syariah) personal-status jurisdiction over Muslims. Family law for Muslims operates under the Islamic Family Law Order 1999 (Perintah Undang-Undang Keluarga Islam) with custody (hadana) provisions at arts. 88-95; non-Muslims operate under the Married Women Act and English common-law residual framework. The Supreme Court (Mahkamah Agung) is the apex court for civil and criminal matters; the Syariah Courts of Appeal operate apex jurisdiction over Islamic personal-status matters. Psychology profession is regulated under the Ministry of Health framework; no unified federal-statutory psychology regulator exists. Brunei is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Brunei is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Islamic Family Law Order 1999 arts. 88-95",
+      "title": "Islamic Family Law Order — Custody and guardianship",
+      "year": 1999,
+      "url": "https://www.agc.gov.bn/",
+      "relevance": "Federal Syariah statute governing Muslim personal-status. Arts. 88-95 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Married Women Act (Cap. 190)",
+      "title": "Married Women Act",
+      "year": 1957,
+      "url": "https://www.agc.gov.bn/",
+      "relevance": "Federal statute governing non-Muslim marital matters; supplemented by English common-law residual framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Brunei (Mahkamah Agung)",
+      "seat": "Bandar Seri Begawan",
+      "url": "https://www.judiciary.gov.bn/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Syariah Court of Appeal",
+      "seat": "Bandar Seri Begawan",
+      "url": "https://www.judiciary.gov.bn/",
+      "role": "Apex Syariah jurisdiction over Islamic personal-status matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Brunei",
+      "url": "https://www.moh.gov.bn/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Bruneian family-court decisions are anonymised per Judiciary practice; published decisions use initials.",
+  "key_developments": [
+    {
+      "year": 1957,
+      "title": "Married Women Act",
+      "description": "Federal statute on non-Muslim marital matters enacted under colonial legislation framework."
+    },
+    {
+      "year": 1999,
+      "title": "Islamic Family Law Order",
+      "description": "Federal Syariah statute codifying Muslim personal-status matters."
+    }
+  ],
+  "structural_findings": [
+    "Brunei operates a parallel dual-track family-law framework — Islamic Family Law Order 1999 (Muslims via Syariah Courts) + Married Women Act + English common-law residual (non-Muslims via Supreme Court).",
+    "Non-Hague Convention status places Brunei in the non-Hague Southeast Asian cluster.",
+    "Psychology profession regulation operates through Ministry of Health framework — lacks unified federal-statutory psychology regulator."
+  ],
+  "references": [
+    "jurisdiction:malaysia",
+    "jurisdiction:singapore",
+    "jurisdiction:indonesia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Brunei Darussalam",
+      "url": "https://www.judiciary.gov.bn/",
+      "publisher": "Judiciary",
+      "language": "ms,en"
+    },
+    {
+      "title": "Attorney General's Chambers",
+      "url": "https://www.agc.gov.bn/",
+      "publisher": "AGC",
+      "language": "ms,en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.moh.gov.bn/",
+      "publisher": "MoH",
+      "language": "ms,en"
+    }
+  ],
+  "editorial_notes": [
+    "Brunei jurisdiction sidecar — mixed-legal-system framework (English common-law substantive + Syariah personal-status). Islamic Family Law Order 1999 + Married Women Act + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southeast Asian + dual-track Syariah/common-law + non-Hague Convention clusters within the corpus."
+  ]
+}

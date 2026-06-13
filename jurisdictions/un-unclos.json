@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "id": "un-unclos",
+  "name": "UN Convention on the Law of the Sea (UNCLOS 1982)",
+  "jurisdiction_code": "UCL",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Convention on the Law of the Sea (UNCLOS) is a global supranational meta-framework law-of-the-sea binding-treaty instrument adopted by the UN Third Conference on the Law of the Sea — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on law-of-the-sea framework (UNCLOS adopted 10 December 1982 in Montego Bay Jamaica + effective 16 November 1994 — formal universal multilateral binding-treaty framework establishing comprehensive law-of-the-sea framework, distinct from rest-of-modern-international-treaty frameworks which operate as substantive treaties on terrestrial-jurisdiction matters, structurally distinctive globally as the 'constitution for the oceans' framework + first major UN comprehensive law-of-the-sea treaty framework), as the central jurisdiction of the formal Part II Territorial Sea + Part V Exclusive Economic Zone EEZ frameworks (UNCLOS Part II Articles 2-33 + Part V Articles 55-75 framework providing formal 12-nautical-mile territorial sea + 200-nautical-mile EEZ framework — formal foundational maritime-zone framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal comprehensive maritime-zone framework), as the central jurisdiction of the formal Part XV Dispute Settlement Framework (UNCLOS Part XV Articles 279-299 framework providing formal compulsory dispute-settlement framework via International Tribunal for the Law of the Sea ITLOS + ICJ + Annex VII arbitration + Annex VIII special arbitration — formal foundational law-of-the-sea dispute-settlement framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal compulsory dispute-settlement framework with four-tier framework), and as the central jurisdiction of the formal Part XI International Seabed Area + International Seabed Authority ISA framework (UNCLOS Part XI Articles 133-191 framework + 1994 Implementation Agreement providing formal common-heritage-of-mankind framework for international seabed area beyond national jurisdiction — formal foundational seabed framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal common-heritage-of-mankind framework). The UNCLOS is binding upon 169 state parties as of 2026 — substantial universal coverage framework (notable non-party: United States). The Convention is silent on 'parental alienation' as a statutory label, though formal Part XV dispute-settlement framework operates substantial intersection with parental-alienation framework via formal cross-border maritime-jurisdiction-disputes-affecting-cross-border-families framework. The International Tribunal for the Law of the Sea ITLOS + International Seabed Authority ISA + Commission on the Limits of the Continental Shelf CLCS are the formal UNCLOS bodies; national-level apex courts operate as judicial bodies. The UNCLOS is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention on the Law of the Sea 1982",
+      "title": "UNCLOS",
+      "year": 1994,
+      "url": "https://www.un.org/depts/los/",
+      "relevance": "UN Convention on the Law of the Sea adopted 10 December 1982 in Montego Bay Jamaica + effective 16 November 1994 — formal universal multilateral binding-treaty framework establishing comprehensive law-of-the-sea framework."
+    },
+    {
+      "citation": "UNCLOS Part II Articles 2-33 (Territorial Sea Framework)",
+      "title": "UNCLOS Part II",
+      "year": 1994,
+      "url": "https://www.un.org/depts/los/",
+      "relevance": "UNCLOS Part II Articles 2-33 framework on 12-nautical-mile territorial sea — formal foundational territorial-sea framework."
+    },
+    {
+      "citation": "UNCLOS Part V Articles 55-75 (Exclusive Economic Zone Framework)",
+      "title": "UNCLOS Part V",
+      "year": 1994,
+      "url": "https://www.un.org/depts/los/",
+      "relevance": "UNCLOS Part V Articles 55-75 framework on 200-nautical-mile EEZ — formal foundational EEZ framework."
+    },
+    {
+      "citation": "UNCLOS Part XV Articles 279-299 (Dispute Settlement Framework)",
+      "title": "UNCLOS Part XV",
+      "year": 1994,
+      "url": "https://www.un.org/depts/los/",
+      "relevance": "UNCLOS Part XV Articles 279-299 framework on compulsory dispute-settlement via ITLOS + ICJ + Annex VII arbitration + Annex VIII special arbitration — formal foundational law-of-the-sea dispute-settlement framework."
+    },
+    {
+      "citation": "UNCLOS Part XI Articles 133-191 (International Seabed Area Framework)",
+      "title": "UNCLOS Part XI",
+      "year": 1994,
+      "url": "https://www.un.org/depts/los/",
+      "relevance": "UNCLOS Part XI Articles 133-191 framework on international seabed area + International Seabed Authority ISA — formal foundational common-heritage-of-mankind framework."
+    },
+    {
+      "citation": "1994 Implementation Agreement",
+      "title": "1994 Implementation Agreement",
+      "year": 1994,
+      "url": "https://www.un.org/depts/los/",
+      "relevance": "1994 Agreement Relating to the Implementation of Part XI of UNCLOS adopted 28 July 1994 — formal modification of Part XI framework to enable Western state ratifications."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "International Tribunal for the Law of the Sea (ITLOS)",
+      "seat": "Hamburg",
+      "url": "https://www.itlos.org/",
+      "role": "Apex judicial body for UNCLOS dispute-settlement framework."
+    },
+    {
+      "name": "International Seabed Authority (ISA)",
+      "seat": "Kingston",
+      "url": "https://www.isa.org.jm/",
+      "role": "Formal UNCLOS Part XI international seabed area body."
+    },
+    {
+      "name": "Commission on the Limits of the Continental Shelf (CLCS)",
+      "seat": "New York",
+      "url": "https://www.un.org/depts/los/clcs_new/clcs_home.htm",
+      "role": "Formal UNCLOS continental shelf framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Division for Ocean Affairs and the Law of the Sea (DOALOS)",
+      "url": "https://www.un.org/depts/los/",
+      "role": "UNCLOS implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNCLOS-related individual communications operate via state-state framework; individual communications not formally accepted under UNCLOS framework.",
+  "key_developments": [
+    {
+      "year": 1958,
+      "title": "Geneva Conventions on the Law of the Sea",
+      "description": "Four Geneva Conventions on the Law of the Sea adopted 29 April 1958 — predecessor framework to UNCLOS."
+    },
+    {
+      "year": 1973,
+      "title": "Third UN Conference on the Law of the Sea begins",
+      "description": "Third UN Conference on the Law of the Sea UNCLOS III begins 3 December 1973 — formal UNCLOS negotiation framework."
+    },
+    {
+      "year": 1982,
+      "title": "UNCLOS adopted",
+      "description": "UN Convention on the Law of the Sea adopted 10 December 1982 in Montego Bay Jamaica — formal universal multilateral binding-treaty framework adopted."
+    },
+    {
+      "year": 1994,
+      "title": "UNCLOS enters force + 1994 Implementation Agreement",
+      "description": "UN UNCLOS entered force 16 November 1994 + 1994 Implementation Agreement adopted 28 July 1994 modifying Part XI framework — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "ITLOS established",
+      "description": "International Tribunal for the Law of the Sea ITLOS established 1 August 1996 in Hamburg — formal UNCLOS dispute-settlement framework body operational."
+    },
+    {
+      "year": 2016,
+      "title": "South China Sea Arbitration",
+      "description": "South China Sea Arbitration Award of 12 July 2016 by Annex VII Arbitral Tribunal — formal UNCLOS dispute-settlement framework Permanent Court of Arbitration PCA award ruling against China nine-dash-line framework."
+    },
+    {
+      "year": 2023,
+      "title": "BBNJ Agreement adopted",
+      "description": "Agreement under UNCLOS on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction BBNJ adopted 19 June 2023 — formal UNCLOS implementation framework for high seas biodiversity."
+    }
+  ],
+  "structural_findings": [
+    "UNCLOS operates a supranational universal multilateral binding-treaty framework — places UNCLOS in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on law-of-the-sea framework is structurally distinctive globally — 'constitution for the oceans' framework + first major UN comprehensive law-of-the-sea treaty framework.",
+    "Central jurisdiction of formal Part II Territorial Sea + Part V EEZ frameworks is structurally distinctive globally — only modern universal binding-treaty framework operating formal comprehensive maritime-zone framework.",
+    "Central jurisdiction of formal Part XV dispute-settlement framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal compulsory dispute-settlement framework with four-tier ITLOS + ICJ + Annex VII + Annex VIII framework.",
+    "Central jurisdiction of formal Part XI International Seabed Area + ISA framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal common-heritage-of-mankind framework.",
+    "169 state party ratification framework with notable US non-party is structurally distinctive globally — substantial-coverage framework with US non-party gap.",
+    "1958 Geneva Conventions + 1973 UNCLOS III + 1982 UNCLOS adopted + 1994 entry into force + 1994 Implementation Agreement + 1996 ITLOS + 2016 South China Sea Arbitration + 2023 BBNJ Agreement law-of-the-sea-framework-development sequence is structurally distinctive globally.",
+    "Part II Territorial Sea + Part V EEZ + Part XI International Seabed Area + Part XV Dispute Settlement formal quartet framework with formal cross-border-maritime-jurisdiction-disputes-affecting-cross-border-families PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UN DOALOS — UNCLOS",
+      "url": "https://www.un.org/depts/los/",
+      "publisher": "United Nations",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNCLOS jurisdiction sidecar — supranational global law-of-the-sea universal multilateral binding-treaty meta-framework (UNCLOS 1982/1994 + Part II Territorial Sea + Part V EEZ + Part XI International Seabed Area + Part XV Dispute Settlement + 1994 Implementation Agreement + ITLOS 1996 + South China Sea Arbitration 2016 + BBNJ Agreement 2023). Only modern universal multilateral binding-treaty framework operating specifically on law-of-the-sea framework globally + 'constitution for the oceans' framework + central jurisdiction of formal Part XV compulsory dispute-settlement framework + central jurisdiction of formal Part XI common-heritage-of-mankind framework + 169 state party ratification framework with notable US non-party + 1958 Geneva + 1973 UNCLOS III + 1982 UNCLOS + 1994 entry into force + 1996 ITLOS + 2016 South China Sea Arbitration + 2023 BBNJ law-of-the-sea-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Part XV dispute-settlement framework operates substantial intersection with parental-alienation framework via formal cross-border maritime-jurisdiction-disputes-affecting-cross-border-families framework.",
+    "Joins global + supranational + universal-multilateral-law-of-the-sea-binding-treaty cluster + UNCLOS-only-universal-law-of-the-sea-binding-treaty-globally-distinctive + Part-II-Territorial-Sea + Part-V-EEZ + Part-XI-International-Seabed-Area + Part-XV-Dispute-Settlement + ITLOS-Hamburg + ISA-Kingston + CLCS-New-York + 169-state-party-substantial-coverage-US-non-party + 1958-Geneva-predecessor + 1973-UNCLOS-III + 1994-Implementation-Agreement + 2016-South-China-Sea-Arbitration + 2023-BBNJ-Agreement clusters within the corpus."
+  ]
+}

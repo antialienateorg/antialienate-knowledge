@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "id": "un-women",
+  "name": "UN Women 2010 (UN Entity for Gender Equality and the Empowerment of Women)",
+  "jurisdiction_code": "UNW",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "UN Women (United Nations Entity for Gender Equality and the Empowerment of Women) is a global supranational meta-framework foundational-UN-Women framework established by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal international-gender-equality-and-women's-empowerment framework + UN-System-wide gender-equality coordination framework (UN Women established 2 July 2010 by UN General Assembly Resolution 64/289 + UN Women operations began 1 January 2011 + consolidating four UN entities Division for the Advancement of Women DAW + International Research and Training Institute for the Advancement of Women INSTRAW + Office of the Special Adviser on Gender Issues and Advancement of Women OSAGI + UN Development Fund for Women UNIFEM framework — formal foundational UN Women framework establishing comprehensive UN Women organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-gender-equality-and-women's-empowerment framework + UN-System-wide gender-equality coordination framework + only modern global supranational framework operating formal four-UN-entity-consolidation 2010 framework + only modern global supranational framework operating formal CEDAW 1979 partnership framework + only modern global supranational framework operating formal Beijing Platform for Action 1995 + 30th anniversary 2025 framework + only modern global supranational framework operating formal Generation Equality Forum 2021 framework + only modern global supranational framework operating formal SDG 5 Gender Equality framework + only modern global supranational framework operating formal Spotlight Initiative EU-UN-joint 2017 framework + only modern global supranational framework operating formal Taliban-2021-women-erasure-from-public-life framework + only modern global supranational framework operating formal Iran-Mahsa-Amini-2022 Woman-Life-Freedom protests framework + only modern global supranational framework operating formal Gender-Apartheid-Codification movement 2023-2026 framework), as the central jurisdiction of the formal CEDAW 1979 + UN Women partnership framework (Convention on the Elimination of All Forms of Discrimination against Women CEDAW adopted 18 December 1979 + effective 3 September 1981 + Optional Protocol 1999 + 189 state parties as of 2026 framework — formal foundational CEDAW + UN Women partnership framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-women's-rights framework + only modern global supranational binding-treaty framework operating formal CEDAW + UN Women partnership framework), as the central jurisdiction of the formal Beijing Platform for Action 1995 + 30th anniversary 2025 framework (Beijing Declaration and Platform for Action adopted 15 September 1995 at Fourth World Conference on Women Beijing China + Beijing+5 + Beijing+10 + Beijing+15 + Beijing+20 + Beijing+25 + Beijing+30 anniversary 2025 framework providing formal 12 critical areas of concern framework — formal foundational Beijing Platform for Action framework, structurally distinctive globally as the only modern global supranational framework operating formal 12-critical-areas-of-concern framework + only modern global supranational framework operating formal 30-year-anniversary 2025 framework), and as the central jurisdiction of the formal Generation Equality Forum + Action Coalitions 2021 framework (Generation Equality Forum convened 29 March - 2 July 2021 in Mexico City Mexico + Paris France providing formal 6 Action Coalitions framework: gender-based violence + economic justice + bodily autonomy + climate justice + technology + innovation + feminist movements + leadership framework — formal foundational Generation Equality Forum + Action Coalitions framework, structurally distinctive globally as the only modern global supranational framework operating formal 6 Action Coalitions framework). The UN Women Mandate is operating upon 90+ UN Women country offices + global coverage framework — comprehensive universal coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UN Women + CEDAW partnership framework operates substantial intersection with parental-alienation framework via formal CEDAW + General Recommendation No. 35 on gender-based-violence 2017 framework + formal Optional Protocol to CEDAW individual-complaints procedure framework. The UN Women Executive Board + UN Women Executive Director + UN Women Secretariat are the formal UN Women bodies; national-level apex courts operate as judicial bodies. The UN Women Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Women Founding Resolution 2010 (UN General Assembly Resolution 64/289)",
+      "title": "UN Women Founding Resolution",
+      "year": 2010,
+      "url": "https://www.unwomen.org/",
+      "relevance": "UN Women established 2 July 2010 by UN General Assembly Resolution 64/289 — formal foundational UN Women framework establishing comprehensive UN Women organisation framework."
+    },
+    {
+      "citation": "Convention on the Elimination of All Forms of Discrimination against Women CEDAW 1979",
+      "title": "CEDAW",
+      "year": 1981,
+      "url": "https://www.unwomen.org/",
+      "relevance": "Convention on the Elimination of All Forms of Discrimination against Women CEDAW adopted 18 December 1979 + effective 3 September 1981 — formal foundational CEDAW + UN Women partnership framework."
+    },
+    {
+      "citation": "Beijing Declaration and Platform for Action 1995",
+      "title": "Beijing Declaration and Platform for Action",
+      "year": 1995,
+      "url": "https://www.unwomen.org/",
+      "relevance": "Beijing Declaration and Platform for Action adopted 15 September 1995 at Fourth World Conference on Women Beijing China — formal foundational Beijing Platform for Action framework."
+    },
+    {
+      "citation": "Generation Equality Forum 2021",
+      "title": "Generation Equality Forum",
+      "year": 2021,
+      "url": "https://www.unwomen.org/",
+      "relevance": "Generation Equality Forum convened 29 March - 2 July 2021 in Mexico City Mexico + Paris France — formal foundational Generation Equality Forum + 6 Action Coalitions framework."
+    },
+    {
+      "citation": "UN Security Council Resolution 1325 (2000) Women, Peace and Security",
+      "title": "UN Security Council Resolution 1325",
+      "year": 2000,
+      "url": "https://www.unwomen.org/",
+      "relevance": "UN Security Council Resolution 1325 adopted 31 October 2000 — formal foundational Women, Peace and Security framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Women Executive Board",
+      "seat": "New York",
+      "url": "https://www.unwomen.org/en/executive-board",
+      "role": "Formal supreme decision-making body for UN Women."
+    },
+    {
+      "name": "UN Women Executive Director",
+      "seat": "New York",
+      "url": "https://www.unwomen.org/en/executive-director",
+      "role": "Formal administrative head body for UN Women — UN Women Executive Director Sima Bahous 2021-2025 + 2025+ next Executive Director framework."
+    },
+    {
+      "name": "UN Women Secretariat",
+      "seat": "New York",
+      "url": "https://www.unwomen.org/",
+      "role": "Formal administrative body for UN Women."
+    },
+    {
+      "name": "UN Women Country Offices (90+ countries)",
+      "seat": "90+ countries",
+      "url": "https://www.unwomen.org/",
+      "role": "Formal UN Women country-level operations body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Women Secretariat",
+      "url": "https://www.unwomen.org/",
+      "role": "UN Women Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UN Women-related communications operate via state-state framework via UN Women Executive Board + UN General Assembly; individual communications under CEDAW Optional Protocol framework operate formal anonymisation convention.",
+  "key_developments": [
+    {
+      "year": 1946,
+      "title": "UN Commission on the Status of Women",
+      "description": "UN Commission on the Status of Women CSW established 21 June 1946 — predecessor framework to UN Women."
+    },
+    {
+      "year": 1975,
+      "title": "First World Conference on Women Mexico City + International Women's Year",
+      "description": "First World Conference on Women held 19 June - 2 July 1975 in Mexico City Mexico + International Women's Year 1975 — formal foundational UN World Conference on Women framework operational."
+    },
+    {
+      "year": 1979,
+      "title": "CEDAW adopted",
+      "description": "Convention on the Elimination of All Forms of Discrimination against Women CEDAW adopted 18 December 1979 — formal foundational CEDAW framework adopted."
+    },
+    {
+      "year": 1995,
+      "title": "Fourth World Conference on Women Beijing",
+      "description": "Fourth World Conference on Women held 4-15 September 1995 in Beijing China + Beijing Declaration and Platform for Action adopted 15 September 1995 — formal foundational Beijing Platform for Action framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "UN Security Council Resolution 1325 Women, Peace and Security",
+      "description": "UN Security Council Resolution 1325 adopted 31 October 2000 — formal foundational Women, Peace and Security framework operational."
+    },
+    {
+      "year": 2010,
+      "title": "UN Women established",
+      "description": "UN Women established 2 July 2010 by UN General Assembly Resolution 64/289 — formal foundational UN Women framework operational."
+    },
+    {
+      "year": 2011,
+      "title": "UN Women operations begin",
+      "description": "UN Women operations began 1 January 2011 + UN Women Executive Director Michelle Bachelet 2011-2013 first UN Women Executive Director framework — formal foundational UN Women operational framework operational."
+    },
+    {
+      "year": 2017,
+      "title": "Spotlight Initiative EU-UN-joint + CEDAW General Recommendation 35",
+      "description": "Spotlight Initiative EU-UN-joint launched 20 September 2017 + CEDAW General Recommendation No. 35 on gender-based-violence adopted 14 July 2017 — formal foundational Spotlight Initiative + CEDAW General Recommendation 35 framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Generation Equality Forum + Taliban-women-erasure",
+      "description": "Generation Equality Forum convened 29 March - 2 July 2021 in Mexico City Mexico + Paris France + Taliban took Kabul 15 August 2021 + Taliban-women-erasure-from-public-life framework — formal Generation Equality Forum + Taliban-women-erasure framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Iran-Mahsa-Amini + Woman-Life-Freedom protests",
+      "description": "Mahsa Amini killed 16 September 2022 in Iran morality police custody + Woman-Life-Freedom Zan-Zendegi-Azadi protests Iran 2022-2023 framework — formal Iran-Mahsa-Amini Woman-Life-Freedom framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Gender-Apartheid-Codification movement begins",
+      "description": "Gender-Apartheid-Codification movement begins 2023 advocating codification of Taliban + Iran gender-apartheid framework via international-criminal-law-codification — formal Gender-Apartheid-Codification movement framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Beijing+30 anniversary",
+      "description": "Beijing+30 anniversary commemorated 2025 + 30 years of Beijing Platform for Action framework — formal Beijing+30 anniversary framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UN Women operates a supranational global framework — places UN Women in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-gender-equality-and-women's-empowerment framework + UN-System-wide gender-equality coordination framework is structurally distinctive globally — only modern global supranational framework operating on formal international-gender-equality-and-women's-empowerment framework + UN-System-wide gender-equality coordination framework + only modern global supranational framework operating formal four-UN-entity-consolidation 2010 framework + only modern global supranational framework operating formal CEDAW 1979 partnership framework + only modern global supranational framework operating formal Beijing Platform for Action 1995 + 30th anniversary 2025 framework + only modern global supranational framework operating formal Generation Equality Forum 2021 framework + only modern global supranational framework operating formal SDG 5 Gender Equality framework + only modern global supranational framework operating formal Spotlight Initiative EU-UN-joint 2017 framework + only modern global supranational framework operating formal Taliban-2021-women-erasure-from-public-life framework + only modern global supranational framework operating formal Iran-Mahsa-Amini-2022 Woman-Life-Freedom protests framework + only modern global supranational framework operating formal Gender-Apartheid-Codification movement 2023-2026 framework.",
+    "Central jurisdiction of formal CEDAW 1979 + UN Women partnership framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-women's-rights framework + only modern global supranational binding-treaty framework operating formal CEDAW + UN Women partnership framework.",
+    "Central jurisdiction of formal Beijing Platform for Action 1995 + 30th anniversary 2025 framework is structurally distinctive globally — only modern global supranational framework operating formal 12-critical-areas-of-concern framework + only modern global supranational framework operating formal 30-year-anniversary 2025 framework.",
+    "Central jurisdiction of formal Generation Equality Forum + Action Coalitions 2021 framework is structurally distinctive globally — only modern global supranational framework operating formal 6 Action Coalitions framework.",
+    "90+ UN Women country office + global coverage framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1946 CSW + 1975 First World Conference + Mexico City + International Women's Year + 1979 CEDAW + 1995 Beijing + 2000 SC 1325 + 2010 UN Women + 2011 operations + 2017 Spotlight + CEDAW GR 35 + 2021 Generation Equality + Taliban + 2022 Mahsa Amini + Woman-Life-Freedom + 2023 Gender Apartheid + 2025 Beijing+30 UN-Women-framework-development sequence is structurally distinctive globally.",
+    "UN Women + CEDAW + Beijing Platform + Generation Equality Forum + SC 1325 Women Peace Security + Spotlight Initiative + Gender Apartheid Codification formal septet framework with formal CEDAW General Recommendation 35 on gender-based-violence + Optional Protocol individual-complaints procedure PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:cedaw",
+    "jurisdiction:uncrc",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UN Women",
+      "url": "https://www.unwomen.org/",
+      "publisher": "UN Women Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UN Women jurisdiction sidecar — supranational global international-gender-equality-and-women's-empowerment foundational-UN-Women meta-framework (UN Women Founding Resolution 2010 + CEDAW 1979/1981 + Beijing Platform 1995 + Generation Equality Forum 2021 + SC 1325 2000 + Spotlight Initiative 2017 + CEDAW GR 35 2017 + Taliban-women-erasure 2021 + Mahsa Amini + Woman-Life-Freedom 2022 + Gender Apartheid Codification 2023 + Beijing+30 2025 + four-UN-entity-consolidation: DAW + INSTRAW + OSAGI + UNIFEM 2010 + 1946 CSW + 1975 First World Conference predecessor). Only modern global supranational framework operating on formal international-gender-equality-and-women's-empowerment framework + UN-System-wide gender-equality coordination + only modern global supranational framework operating formal four-UN-entity-consolidation 2010 + only modern global supranational framework operating formal CEDAW 1979 partnership + only modern global supranational framework operating formal Beijing Platform for Action 1995 + 30th anniversary 2025 + only modern global supranational framework operating formal Generation Equality Forum 2021 + only modern global supranational framework operating formal SDG 5 Gender Equality + only modern global supranational framework operating formal Spotlight Initiative EU-UN-joint 2017 + only modern global supranational framework operating formal Taliban-2021-women-erasure + only modern global supranational framework operating formal Iran-Mahsa-Amini-2022 Woman-Life-Freedom + only modern global supranational framework operating formal Gender-Apartheid-Codification movement + central jurisdiction of formal CEDAW + central jurisdiction of formal Beijing Platform 12-critical-areas-of-concern + 30-year-anniversary 2025 + central jurisdiction of formal Generation Equality Forum 6 Action Coalitions + 90+ UN Women country offices + UN Women Headquartered New York + UN Women Executive Director Sima Bahous 2021-2025 + 1946 CSW + 1975 First World Conference + Mexico City + 1979 CEDAW + 1995 Beijing + 2000 SC 1325 + 2010 UN Women + 2011 operations + 2017 Spotlight + CEDAW GR 35 + 2021 Generation Equality + Taliban + 2022 Mahsa Amini + Woman-Life-Freedom + 2023 Gender Apartheid + 2025 Beijing+30 UN-Women-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UN Women + CEDAW partnership framework operates substantial intersection with parental-alienation framework via formal CEDAW + General Recommendation No. 35 on gender-based-violence 2017 framework + formal Optional Protocol to CEDAW individual-complaints procedure framework.",
+    "Joins global + supranational + international-gender-equality-and-women's-empowerment-foundational-UN-Women cluster + UN-Women-only-global-supranational-framework-on-international-gender-equality-globally-distinctive + UN-System-wide-gender-equality-coordination + four-UN-entity-consolidation-2010-DAW-INSTRAW-OSAGI-UNIFEM + CEDAW-1979-1981-189-state-parties + Beijing-Platform-1995-12-critical-areas-of-concern + Beijing+30-anniversary-2025 + Generation-Equality-Forum-2021-6-Action-Coalitions + Sustainable-Development-Goal-5-Gender-Equality + Spotlight-Initiative-EU-UN-joint-2017 + UN-Security-Council-Resolution-1325-Women-Peace-Security-2000 + Taliban-2021-women-erasure-from-public-life + Iran-Mahsa-Amini-2022-Woman-Life-Freedom + Gender-Apartheid-Codification-movement-2023-2026 + 90-UN-Women-country-offices + UN-Women-Headquartered-New-York + UN-Women-Executive-Director-Sima-Bahous-2021-2025 + 1946-CSW-predecessor + 1975-Mexico-City-First-World-Conference + Michelle-Bachelet-first-UN-Women-Executive-Director-2011 + CEDAW-General-Recommendation-35-gender-based-violence-PA-intersection + Optional-Protocol-CEDAW-individual-complaints-PA-intersection clusters within the corpus."
+  ]
+}

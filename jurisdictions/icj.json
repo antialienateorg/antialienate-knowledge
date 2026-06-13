@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "icj",
+  "name": "International Court of Justice (ICJ / Statute of the ICJ 1945)",
+  "jurisdiction_code": "ICJ",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The International Court of Justice (ICJ / formally International Court of Justice + Statute of the ICJ adopted as Annex to UN Charter 1945) is a global supranational meta-framework UN-principal-judicial-body operating via Statute adopted by the UN Conference of Plenipotentiaries — structurally distinctive globally as the only modern universal multilateral judicial body framework operating both formal state-state-contentious-jurisdiction framework + formal advisory-opinion-jurisdiction framework (ICJ Statute adopted 26 June 1945 + effective 24 October 1945 alongside UN Charter — formal universal multilateral judicial body framework establishing comprehensive ICJ framework + formal complementary framework to UN Charter, distinct from rest-of-modern-international-courts which operate as regional or specialized frameworks, structurally distinctive globally as the only modern universal multilateral judicial body framework operating both formal state-state-contentious-jurisdiction framework + formal advisory-opinion-jurisdiction framework + formal successor framework to Permanent Court of International Justice PCIJ 1922-1946 framework), as the central jurisdiction of the formal Statute Article 38 sources-of-international-law framework (ICJ Statute Article 38 framework providing 'The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply: a. international conventions; b. international custom; c. the general principles of law recognized by civilized nations; d. judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law' — formal foundational sources-of-international-law framework underlying all subsequent modern international + regional + sub-national international-law frameworks, structurally distinctive globally as the only modern universal multilateral judicial body framework operating formal sources-of-international-law framework), as the central jurisdiction of the formal Article 36(2) optional-clause-acceptance framework (ICJ Statute Article 36(2) framework providing 'States parties to the present Statute may at any time declare that they recognize as compulsory ipso facto and without special agreement, in relation to any other state accepting the same obligation, the jurisdiction of the Court in all legal disputes' — formal foundational optional-clause-acceptance framework, structurally distinctive globally as the only modern universal multilateral judicial body framework operating formal optional-clause-acceptance framework with 73 state parties as of 2026), and as the central jurisdiction of the formal LaGrand 2001 + Avena 2004 + Genocide Convention 2007 + South Africa v Israel Genocide Application 2024 ICJ case-law framework on family-rights + children's-rights frameworks (ICJ Germany v United States of America LaGrand Judgment 27 June 2001 + Mexico v United States of America Avena and Other Mexican Nationals Judgment 31 March 2004 + Bosnia and Herzegovina v Serbia and Montenegro Genocide Application Judgment 26 February 2007 + South Africa v Israel Genocide Application order 26 January 2024 — formal foundational ICJ case-law framework with substantial relevance to PA framework via formal cross-border consular-protection-of-children-of-divorced-parents framework + cross-border-genocide-against-children framework + cross-border-deportation-of-children framework). The ICJ Statute is binding upon 193 state parties as of 2026 — universal coverage framework via UN Charter framework. The Statute is silent on 'parental alienation' as a statutory label, though formal Article 38 sources-of-international-law + Article 36(2) optional-clause-acceptance + formal ICJ case-law on cross-border family-rights + children's-rights frameworks operate substantial intersection with parental-alienation framework via formal interpretation-of-international-law-on-children's-rights framework + cross-border consular-protection-of-children-of-divorced-parents framework + cross-border-genocide-against-children framework + cross-border-deportation-of-children framework. The International Court of Justice is the apex judicial body framework; the UN General Assembly + Security Council have formal advisory-opinion-jurisdiction request framework. The ICJ is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Statute of the International Court of Justice 1945",
+      "title": "ICJ Statute",
+      "year": 1945,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "Statute of the International Court of Justice adopted 26 June 1945 + effective 24 October 1945 alongside UN Charter — formal universal multilateral judicial body framework establishing comprehensive ICJ framework."
+    },
+    {
+      "citation": "ICJ Statute Article 38 (Sources-of-International-Law Framework)",
+      "title": "ICJ Statute Article 38",
+      "year": 1945,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "ICJ Statute Article 38 framework on sources-of-international-law — formal foundational sources-of-international-law framework underlying all subsequent modern international + regional + sub-national international-law frameworks."
+    },
+    {
+      "citation": "ICJ Statute Article 36(2) (Optional-Clause-Acceptance Framework)",
+      "title": "ICJ Statute Article 36(2)",
+      "year": 1945,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "ICJ Statute Article 36(2) framework on optional-clause-acceptance — formal foundational optional-clause-acceptance framework with 73 state parties as of 2026."
+    },
+    {
+      "citation": "ICJ LaGrand 2001 + Avena 2004 + Genocide Convention 2007 + South Africa v Israel 2024 Case-Law Framework",
+      "title": "ICJ Family + Children Case-Law Framework",
+      "year": 2024,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "ICJ Germany v United States of America LaGrand Judgment 27 June 2001 + Mexico v United States of America Avena and Other Mexican Nationals Judgment 31 March 2004 + Bosnia and Herzegovina v Serbia and Montenegro Genocide Application Judgment 26 February 2007 + South Africa v Israel Genocide Application order 26 January 2024 — formal foundational ICJ case-law framework."
+    },
+    {
+      "citation": "Permanent Court of International Justice PCIJ 1922-1946 (Predecessor Framework)",
+      "title": "PCIJ 1922-1946",
+      "year": 1922,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "Permanent Court of International Justice PCIJ established 1922 + dissolved 1946 — predecessor framework to ICJ."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "International Court of Justice (ICJ)",
+      "seat": "The Hague",
+      "url": "https://www.icj-cij.org/",
+      "role": "Apex judicial body framework for international law via formal state-state contentious jurisdiction + formal advisory-opinion jurisdiction."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ICJ Registry",
+      "url": "https://www.icj-cij.org/",
+      "role": "ICJ implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ICJ-related individual communications operate via state-state framework; individual communications not formally accepted under ICJ framework.",
+  "key_developments": [
+    {
+      "year": 1922,
+      "title": "PCIJ established",
+      "description": "Permanent Court of International Justice PCIJ established 1922 — predecessor framework to ICJ."
+    },
+    {
+      "year": 1945,
+      "title": "ICJ Statute adopted + UN Charter",
+      "description": "Statute of the International Court of Justice adopted 26 June 1945 + UN Charter signed 26 June 1945 — formal universal multilateral judicial body framework."
+    },
+    {
+      "year": 1946,
+      "title": "ICJ established",
+      "description": "International Court of Justice ICJ established 18 April 1946 + Inaugural Sitting 18 April 1946 — formal universal multilateral judicial body framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "ICJ LaGrand Judgment",
+      "description": "ICJ Germany v United States of America LaGrand Judgment 27 June 2001 — landmark ICJ Article 36 VCCR consular-access case-law framework."
+    },
+    {
+      "year": 2004,
+      "title": "ICJ Avena Judgment",
+      "description": "ICJ Mexico v United States of America Avena and Other Mexican Nationals Judgment 31 March 2004 — landmark ICJ Article 36 VCCR consular-access case-law framework."
+    },
+    {
+      "year": 2007,
+      "title": "ICJ Genocide Convention Application Judgment",
+      "description": "ICJ Bosnia and Herzegovina v Serbia and Montenegro Genocide Application Judgment 26 February 2007 — landmark ICJ Genocide Convention case-law framework."
+    },
+    {
+      "year": 2024,
+      "title": "South Africa v Israel Genocide Application",
+      "description": "ICJ South Africa v Israel Genocide Application order 26 January 2024 — formal ICJ Genocide Convention case-law framework on cross-border-genocide-against-children-of-Gaza framework."
+    }
+  ],
+  "structural_findings": [
+    "ICJ operates a supranational universal multilateral judicial body framework — places ICJ in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral judicial body framework operating both formal state-state-contentious-jurisdiction framework + formal advisory-opinion-jurisdiction framework is structurally distinctive globally — formal universal multilateral judicial body framework with formal complementary framework to UN Charter.",
+    "Central jurisdiction of formal Statute Article 38 sources-of-international-law framework is structurally distinctive globally — only modern universal multilateral judicial body framework operating formal sources-of-international-law framework underlying all subsequent modern international + regional + sub-national international-law frameworks.",
+    "Central jurisdiction of formal Article 36(2) optional-clause-acceptance framework is structurally distinctive globally — only modern universal multilateral judicial body framework operating formal optional-clause-acceptance framework with 73 state parties as of 2026.",
+    "Central jurisdiction of formal LaGrand 2001 + Avena 2004 + Genocide Convention 2007 + South Africa v Israel Genocide Application 2024 ICJ case-law framework on family-rights + children's-rights frameworks is structurally distinctive globally — formal foundational ICJ case-law framework.",
+    "193 state party ratification framework via UN Charter framework is structurally distinctive globally — universal coverage framework.",
+    "1922 PCIJ + 1945 UN Charter + ICJ Statute + 1946 ICJ established + 2001 LaGrand + 2004 Avena + 2007 Genocide Convention + 2024 South Africa v Israel ICJ-framework-development sequence is structurally distinctive globally.",
+    "Article 38 sources-of-international-law + Article 36(2) optional-clause-acceptance + ICJ case-law on cross-border family-rights + children's-rights formal triad framework with formal interpretation-of-international-law-on-children's-rights + cross-border consular-protection-of-children-of-divorced-parents + cross-border-genocide-against-children + cross-border-deportation-of-children PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:un-vienna-convention-consular-relations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "International Court of Justice (ICJ)",
+      "url": "https://www.icj-cij.org/",
+      "publisher": "ICJ",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ICJ jurisdiction sidecar — supranational global UN-principal-judicial-body universal multilateral judicial body framework meta-framework (ICJ Statute 1945/1946 + Article 38 Sources-of-International-Law Framework + Article 36(2) Optional-Clause-Acceptance Framework + LaGrand 2001 + Avena 2004 + Genocide Convention 2007 + South Africa v Israel 2024 + PCIJ 1922-1946 predecessor framework + UN Charter complementary framework). Only modern universal multilateral judicial body framework operating both formal state-state-contentious-jurisdiction framework + formal advisory-opinion-jurisdiction framework globally + central jurisdiction of formal Statute Article 38 sources-of-international-law framework + central jurisdiction of formal Article 36(2) optional-clause-acceptance framework + central jurisdiction of formal LaGrand 2001 + Avena 2004 + Genocide Convention 2007 + South Africa v Israel Genocide Application 2024 ICJ case-law framework on family-rights + children's-rights frameworks + 193 state party ratification framework + 1922 PCIJ + 1945 UN Charter + ICJ Statute + 1946 ICJ established + 2001 LaGrand + 2004 Avena + 2007 Genocide Convention + 2024 South Africa v Israel ICJ-framework-development sequence + Article 38 sources-of-international-law + Article 36(2) optional-clause-acceptance + ICJ case-law on cross-border family-rights + children's-rights formal triad framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 38 sources-of-international-law + Article 36(2) optional-clause-acceptance + ICJ case-law on cross-border family-rights + children's-rights frameworks operate substantial intersection with parental-alienation framework via formal interpretation-of-international-law-on-children's-rights framework + cross-border consular-protection-of-children-of-divorced-parents framework + cross-border-genocide-against-children framework + cross-border-deportation-of-children framework.",
+    "Joins global + supranational + universal-multilateral-judicial-body cluster + ICJ-only-modern-universal-multilateral-judicial-body-framework-globally-distinctive + Article-38-Sources-of-International-Law-foundational + Article-36-2-Optional-Clause-Acceptance + 73-state-party-optional-clause + LaGrand-2001 + Avena-2004 + Genocide-Convention-2007 + South-Africa-v-Israel-2024 + 193-state-party-universal-coverage-via-UN-Charter + PCIJ-1922-1946-predecessor + state-state-contentious-jurisdiction + advisory-opinion-jurisdiction clusters within the corpus."
+  ]
+}

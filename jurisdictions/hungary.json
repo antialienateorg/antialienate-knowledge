@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "id": "hungary",
+  "name": "Hungary (Magyarország)",
+  "jurisdiction_code": "HU",
+  "legal_system": "civil-law",
+  "language": ["hu"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Hungary is a civil-law unitary republic whose family-law framework was substantially modernised by the Polgári Törvénykönyv (Civil Code, Law V of 2013, Ptk) in force 15 March 2014. Parental authority (szülői felügyelet) is governed by Ptk Book Four (Family Law) §§ 4:146-4:201. The Kúria (Curia, Budapest) is the apex court for civil and criminal matters; the Alkotmánybíróság (Constitutional Court) operates a separate constitutional-review jurisdiction. Family-law matters proceed first-instance through Járásbíróság (District Courts) with appeals to Törvényszék (Regional Courts) and the Ítélőtábla (Court of Appeal). Psychology profession is regulated under the Magyar Pszichológiai Társaság (MPT) and the Magyar Pszichológusok Érdekvédelmi Egyesülete (MPEE), with Ministry-of-Human-Capacities licensing requirements. Hungary is silent on 'parental alienation' as a statutory label; courts operate substantively under the gyermek mindenek felett álló érdeke (best-interests-of-the-child) standard.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Ptk Book Four (Law V of 2013) §§ 4:146-4:201",
+      "title": "Civil Code Book Four — Family Law (Parental authority)",
+      "year": 2013,
+      "url": "https://net.jogtar.hu/jogszabaly?docid=A1300005.TV",
+      "relevance": "Federal civil-code basis for parental authority. Law V of 2013 (Ptk) in force 15 March 2014 substantially modernised Hungarian private law. § 4:152 establishes joint exercise of parental authority as the default during marriage and cohabitation; § 4:164 governs determination of parental authority on separation with the welfare standard governing."
+    },
+    {
+      "citation": "Alaptörvény (Fundamental Law) Art. XVI",
+      "title": "Fundamental Law — Children's Rights",
+      "year": 2011,
+      "url": "https://net.jogtar.hu/jogszabaly?docid=A1100425.ATV",
+      "relevance": "Constitutional children's-rights provision under the Fundamental Law in force 1 January 2012. Art. XVI(1) establishes that every child has the right to the protection and care necessary for proper physical, mental and moral development."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Kúria (Curia / Supreme Court)",
+      "seat": "Budapest",
+      "url": "https://kuria-birosag.hu/",
+      "role": "Apex court for civil and criminal matters. Family-law decisions reach the Kúria via the Ítélőtábla (Court of Appeal) following Törvényszék (Regional Court) determinations following first-instance Járásbíróság (District Court) hearings."
+    },
+    {
+      "name": "Alkotmánybíróság (Constitutional Court)",
+      "seat": "Budapest",
+      "url": "https://alkotmanybirosag.hu/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and constitutional complaints."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Magyar Pszichológiai Társaság (MPT)",
+      "url": "https://mpt.hu/",
+      "role": "Peak academic-and-professional psychology society in Hungary. Operates ethics code and divisional structures."
+    },
+    {
+      "name": "Magyar Pszichológusok Érdekvédelmi Egyesülete (MPEE)",
+      "url": "https://mpee.hu/",
+      "role": "Peak professional union representing Hungarian psychologists' interests."
+    }
+  ],
+  "anonymisation_convention": "Hungarian family-law decisions are anonymised per Kúria practice.",
+  "key_developments": [
+    {
+      "year": 2011,
+      "title": "Alaptörvény adopted",
+      "description": "New Fundamental Law adopted 25 April 2011, in force 1 January 2012 — constitutional children's-rights provision in Art. XVI."
+    },
+    {
+      "year": 2014,
+      "title": "Ptk in force",
+      "description": "Law V of 2013 (New Civil Code / Ptk) in force 15 March 2014 — substantial modernisation of Hungarian private law including family-law framework."
+    }
+  ],
+  "structural_findings": [
+    "Hungary sits structurally within the CEE civil-law cluster alongside Poland + Czechia + Slovakia + Romania — modernised Civil Code 2014 + Constitutional Court individual-complaint jurisdiction + Constitutional children's-rights framework.",
+    "Constitutional Art. XVI children's-rights provision provides a constitutional-level overlay that operates as the welfare-paramountcy anchor — structurally similar to Ireland (Art. 42A) and South Africa (Const. s. 28(2)) within the corpus.",
+    "Psychology profession regulation operates less centrally than federal-statutory regimes elsewhere in the corpus — MPT + MPEE peak-body ethics + Ministry-of-Human-Capacities licensing rather than unified statutory professional-order regime."
+  ],
+  "references": [
+    "jurisdiction:poland",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Kúria (Supreme Court of Hungary)",
+      "url": "https://kuria-birosag.hu/",
+      "publisher": "Kúria",
+      "language": "hu,en"
+    },
+    {
+      "title": "Alkotmánybíróság (Constitutional Court)",
+      "url": "https://alkotmanybirosag.hu/",
+      "publisher": "Alkotmánybíróság",
+      "language": "hu,en"
+    },
+    {
+      "title": "Nemzeti Jogszabálytár (National Legal Database)",
+      "url": "https://njt.hu/",
+      "publisher": "Magyar Közlöny Lap- és Könyvkiadó",
+      "language": "hu"
+    }
+  ],
+  "editorial_notes": [
+    "Hungary jurisdiction sidecar — CEE civil-law framework. Ptk Book Four (in force 2014) + Alaptörvény Art. XVI children's rights + Kúria apex + MPT/MPEE peak-body regulation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins CEE civil-law + constitutional-children's-rights clusters within the corpus."
+  ]
+}

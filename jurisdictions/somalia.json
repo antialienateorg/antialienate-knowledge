@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "somalia",
+  "name": "Somalia (Federal Republic of Somalia / Jamhuuriyadda Federaalka Soomaaliya / جمهورية الصومال الفيدرالية)",
+  "jurisdiction_code": "SO",
+  "legal_system": "mixed",
+  "language": ["so", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Somalia is a Horn of Africa mixed-legal-system federal republic combining Shafi'i Islamic-law personal-status jurisdiction (Somalia being predominantly Muslim) with Italian-civil-law substantive heritage (via 1925-1960 Italian Trusteeship for southern Somalia) and English common-law procedural inheritance (via 1884-1960 British Somaliland Protectorate inheritance in northern regions). Following the 1991 collapse of the central government, customary-law (Xeer) operates as a third layer alongside Sharia and statutory law. Family-law framework operates under the Family Code 1975 (still partly in force) supplemented by Sharia provisions applied via local courts. Parental authority and child custody are governed by Family Code arts. 99-122 and Sharia provisions. The Federal Supreme Court is the apex court for civil and criminal matters; the Constitutional Court (provisional) operates separate constitutional review. Family-law matters are heard at first instance in District Courts, Sharia courts, and customary-law (Xeer) tribunals. Psychology profession regulation is uncertain. Somalia is silent on 'parental alienation' as a statutory label. Somalia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1975 arts. 99-122",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1975,
+      "url": "https://www.moj.gov.so/",
+      "relevance": "Federal Family Code drawing on civil-law codification with Shafi'i Islamic-law influence. Arts. 99-122 govern parental authority and child custody within the residual framework."
+    },
+    {
+      "citation": "Provisional Constitution 2012",
+      "title": "Provisional Constitution",
+      "year": 2012,
+      "url": "https://www.moj.gov.so/",
+      "relevance": "Provisional Constitution establishing federal framework and recognising Sharia as primary source of law."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Federal Supreme Court",
+      "seat": "Mogadishu",
+      "url": "https://www.moj.gov.so/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Somalia",
+      "url": "https://www.moh.gov.so/",
+      "role": "Federal regulator of health professionals; clinical psychology framework not consistently documented."
+    }
+  ],
+  "anonymisation_convention": "Somali family-court decisions are anonymised per court practice using initials where available.",
+  "key_developments": [
+    {
+      "year": 1960,
+      "title": "Independence and Union",
+      "description": "Somali Republic established from union of British Somaliland Protectorate and Italian-administered Somaliland Trust Territory — establishing dual legal-system inheritance."
+    },
+    {
+      "year": 1975,
+      "title": "Family Code 1975",
+      "description": "Federal Family Code enacted under Siad Barre government — incorporated socialist-civil-law elements alongside Shafi'i Islamic-law."
+    },
+    {
+      "year": 1991,
+      "title": "State collapse and Somaliland declaration",
+      "description": "Central government collapse; Somaliland declared independence (not internationally recognised). Customary-law (Xeer) became operative third layer in residual framework."
+    },
+    {
+      "year": 2012,
+      "title": "Provisional Constitution + federal framework",
+      "description": "Provisional Constitution establishing federal framework; Sharia recognised as primary source of law."
+    }
+  ],
+  "structural_findings": [
+    "Somalia operates a structurally distinctive triple-layer mixed-legal-system framework — Shafi'i Islamic-law primary + Italian/English civil-common-law inheritance + customary-law (Xeer). Most layered legal-system framework in the African corpus cluster.",
+    "Italian + English dual-colonial-inheritance is structurally distinctive within Africa — Somalia and Cameroon are the only African corpus jurisdictions with explicit dual-colonial-substantive inheritance (Cameroon Anglo-French; Somalia Italian-English).",
+    "Post-1991 state-collapse customary-law (Xeer) operativeness is structurally distinctive within the corpus.",
+    "Non-Hague Convention status places Somalia in the non-Hague Horn of Africa cluster."
+  ],
+  "references": [
+    "jurisdiction:djibouti",
+    "jurisdiction:ethiopia",
+    "jurisdiction:cameroon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice, Somalia",
+      "url": "https://www.moj.gov.so/",
+      "publisher": "Ministry of Justice",
+      "language": "so,ar,en"
+    },
+    {
+      "title": "Refworld (UNHCR) — Somalia legal documents",
+      "url": "https://www.refworld.org/",
+      "publisher": "UNHCR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Somalia jurisdiction sidecar — triple-layer mixed-legal-system Horn of Africa (Shafi'i Islamic-law + Italian/English civil-common-law dual-colonial-inheritance + Xeer customary-law). Family Code 1975 + Provisional Constitution 2012 + non-Hague.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Horn of Africa + triple-layer-distinctive cluster + Italian-English-dual-colonial-distinctive + Xeer-customary-law-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

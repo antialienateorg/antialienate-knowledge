@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "id": "unep-mandate",
+  "name": "UNEP Mandate 1972 (UN Environment Programme)",
+  "jurisdiction_code": "UEP",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Environment Programme (UNEP) is a global supranational meta-framework foundational-UNEP framework established by the UN General Assembly following the Stockholm Conference — structurally distinctive globally as the only modern global supranational framework operating on formal international-environment-coordination framework + first UN agency headquartered in the Global South framework (UNEP established 15 December 1972 by UN General Assembly Resolution 2997 XXVII following Stockholm Conference on Human Environment 5-16 June 1972 + UNEP operations began 1972 + UN Environment Assembly UNEA established 2012 elevating UNEP Governing Council framework — formal foundational UNEP framework establishing comprehensive UNEP organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-environment-coordination framework + first UN agency headquartered in the Global South Nairobi Kenya framework + only modern global supranational framework operating formal Stockholm Conference 1972 + Stockholm+50 2022 framework + only modern global supranational framework operating formal Montreal Protocol 1987 + Kigali Amendment 2016 framework via UNEP Ozone Secretariat framework + only modern global supranational framework operating formal Multilateral Environmental Agreements MEAs framework via 500+ MEAs framework + only modern global supranational framework operating formal Convention on Biological Diversity CBD 1992 + Kunming-Montreal Global Biodiversity Framework 2022 framework + only modern global supranational framework operating formal Global Plastic Treaty negotiations 2022-2026 framework + only modern global supranational framework operating formal IPBES + IPCC environmental-scientific-assessment framework + only modern global supranational framework operating formal Trump-administration-environmental-rollbacks 2025 framework + only modern global supranational framework operating formal Triple Planetary Crisis: climate change + biodiversity loss + pollution framework), as the central jurisdiction of the formal Montreal Protocol 1987 + Kigali Amendment 2016 framework (Montreal Protocol on Substances that Deplete the Ozone Layer adopted 16 September 1987 in Montreal Canada + effective 1 January 1989 + Kigali Amendment to Montreal Protocol adopted 15 October 2016 in Kigali Rwanda + effective 1 January 2019 — formal foundational Montreal Protocol + Kigali Amendment framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Montreal Protocol framework + only modern global supranational binding-treaty framework operating formal universal-ratification framework + only modern global supranational binding-treaty framework credited with healing-ozone-layer framework), as the central jurisdiction of the formal Convention on Biological Diversity CBD 1992 + Kunming-Montreal Global Biodiversity Framework 2022 framework (Convention on Biological Diversity CBD adopted 5 June 1992 at UNCED Rio Earth Summit + effective 29 December 1993 + Kunming-Montreal Global Biodiversity Framework adopted 19 December 2022 at COP15 Montreal Canada providing formal 30x30 framework: protect 30% of land + sea by 2030 framework — formal foundational CBD + Kunming-Montreal framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-biodiversity framework + only modern global supranational binding-treaty framework operating formal 30x30 framework), and as the central jurisdiction of the formal Global Plastic Treaty negotiations framework (Intergovernmental Negotiating Committee on Plastic Pollution INC-1 to INC-5.2 2022-2025 + INC-5.2 held 5-14 August 2025 in Geneva Switzerland + INC-5.2 stalled without consensus on production-cap framework + INC-6 planned 2026 framework — formal foundational Global Plastic Treaty negotiations framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Global Plastic Treaty negotiations framework + first major global environmental treaty stalled by Saudi-Arabia + Iran + Russia + US-Trump-administration coalition framework). The UNEP Mandate is operating upon 193 UNEP member states matching UN membership + 6 UNEP Regional Offices + global coverage framework — comprehensive universal coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UNEP Triple Planetary Crisis framework operates limited intersection with parental-alienation framework via formal cross-border-environmental-displacement-of-families framework. The UN Environment Assembly UNEA + UNEP Executive Director + UNEP Secretariat + UNEP Regional Offices are the formal UNEP bodies; national-level apex courts operate as judicial bodies. The UNEP Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNEP Founding Resolution 1972 (UN General Assembly Resolution 2997 XXVII)",
+      "title": "UNEP Founding Resolution",
+      "year": 1972,
+      "url": "https://www.unep.org/",
+      "relevance": "UNEP established 15 December 1972 by UN General Assembly Resolution 2997 XXVII following Stockholm Conference on Human Environment 5-16 June 1972 — formal foundational UNEP framework establishing comprehensive UNEP organisation framework."
+    },
+    {
+      "citation": "Stockholm Declaration 1972",
+      "title": "Stockholm Declaration",
+      "year": 1972,
+      "url": "https://www.unep.org/",
+      "relevance": "Stockholm Declaration on the Human Environment adopted 16 June 1972 at Stockholm Conference on Human Environment — formal foundational Stockholm Declaration framework."
+    },
+    {
+      "citation": "Montreal Protocol 1987",
+      "title": "Montreal Protocol",
+      "year": 1989,
+      "url": "https://www.unep.org/",
+      "relevance": "Montreal Protocol on Substances that Deplete the Ozone Layer adopted 16 September 1987 in Montreal Canada + effective 1 January 1989 — formal foundational Montreal Protocol framework."
+    },
+    {
+      "citation": "Kigali Amendment 2016",
+      "title": "Kigali Amendment",
+      "year": 2019,
+      "url": "https://www.unep.org/",
+      "relevance": "Kigali Amendment to Montreal Protocol adopted 15 October 2016 in Kigali Rwanda + effective 1 January 2019 — formal foundational Kigali Amendment HFCs phase-down framework."
+    },
+    {
+      "citation": "Convention on Biological Diversity CBD 1992",
+      "title": "CBD",
+      "year": 1993,
+      "url": "https://www.unep.org/",
+      "relevance": "Convention on Biological Diversity CBD adopted 5 June 1992 at UNCED Rio Earth Summit + effective 29 December 1993 — formal foundational CBD framework."
+    },
+    {
+      "citation": "Kunming-Montreal Global Biodiversity Framework 2022",
+      "title": "Kunming-Montreal GBF",
+      "year": 2022,
+      "url": "https://www.unep.org/",
+      "relevance": "Kunming-Montreal Global Biodiversity Framework adopted 19 December 2022 at CBD COP15 Montreal Canada — formal foundational Kunming-Montreal 30x30 biodiversity framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Environment Assembly (UNEA)",
+      "seat": "Nairobi",
+      "url": "https://www.unep.org/environmentassembly/",
+      "role": "Formal supreme decision-making body for UNEP — established 2012 elevating UNEP Governing Council."
+    },
+    {
+      "name": "UNEP Executive Director",
+      "seat": "Nairobi",
+      "url": "https://www.unep.org/about-un-environment/leadership",
+      "role": "Formal administrative head body for UNEP — UNEP Executive Director Inger Andersen 2019-2025+ framework."
+    },
+    {
+      "name": "UNEP Secretariat",
+      "seat": "Nairobi",
+      "url": "https://www.unep.org/",
+      "role": "Formal administrative body for UNEP."
+    },
+    {
+      "name": "UNEP Regional Offices (6 Regional Offices)",
+      "seat": "6 Regional Offices",
+      "url": "https://www.unep.org/regions",
+      "role": "Formal UNEP Regional Offices body: Africa + Asia and the Pacific + Europe + Latin America and the Caribbean + North America + West Asia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNEP Secretariat",
+      "url": "https://www.unep.org/",
+      "role": "UNEP Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNEP-related communications operate via state-state framework via UN Environment Assembly + UNEP Governing Council; individual communications not formally accepted under UNEP framework.",
+  "key_developments": [
+    {
+      "year": 1972,
+      "title": "Stockholm Conference + UNEP established",
+      "description": "Stockholm Conference on Human Environment held 5-16 June 1972 in Stockholm Sweden + UNEP established 15 December 1972 by UN General Assembly Resolution 2997 XXVII — formal foundational Stockholm Conference + UNEP framework operational."
+    },
+    {
+      "year": 1985,
+      "title": "Vienna Convention for the Protection of the Ozone Layer",
+      "description": "Vienna Convention for the Protection of the Ozone Layer adopted 22 March 1985 in Vienna Austria — predecessor framework to Montreal Protocol."
+    },
+    {
+      "year": 1987,
+      "title": "Montreal Protocol adopted",
+      "description": "Montreal Protocol on Substances that Deplete the Ozone Layer adopted 16 September 1987 in Montreal Canada — formal foundational Montreal Protocol framework adopted."
+    },
+    {
+      "year": 1992,
+      "title": "Rio Earth Summit + CBD + UNFCCC + Agenda 21",
+      "description": "UNCED Rio Earth Summit held 3-14 June 1992 + CBD signed 5 June 1992 + UNFCCC signed 9 May 1992 + Agenda 21 adopted 14 June 1992 — formal foundational Rio Earth Summit + Three Rio Conventions framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "Johannesburg World Summit on Sustainable Development",
+      "description": "Johannesburg World Summit on Sustainable Development WSSD held 26 August - 4 September 2002 in Johannesburg South Africa — formal WSSD framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "Rio+20 + UNEA established + Future We Want",
+      "description": "Rio+20 UN Conference on Sustainable Development held 13-22 June 2012 in Rio de Janeiro Brazil + Future We Want outcome document adopted 27 July 2012 + UN Environment Assembly UNEA established 2012 elevating UNEP Governing Council framework — formal Rio+20 + UNEA + Future We Want framework operational."
+    },
+    {
+      "year": 2016,
+      "title": "Kigali Amendment + UNEA-2",
+      "description": "Kigali Amendment to Montreal Protocol adopted 15 October 2016 in Kigali Rwanda + UNEA-2 held 23-27 May 2016 in Nairobi Kenya — formal Kigali Amendment + UNEA-2 framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Stockholm+50 + Kunming-Montreal Global Biodiversity Framework + Plastic Treaty negotiations launched",
+      "description": "Stockholm+50 held 2-3 June 2022 in Stockholm Sweden + Kunming-Montreal Global Biodiversity Framework adopted 19 December 2022 at CBD COP15 Montreal Canada + UN Environment Assembly Resolution 5/14 of 2 March 2022 launching Global Plastic Treaty negotiations framework — formal Stockholm+50 + Kunming-Montreal + Plastic Treaty negotiations framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "INC-5.2 Plastic Treaty negotiations stalled + Trump-environmental-rollbacks",
+      "description": "INC-5.2 Plastic Treaty negotiations held 5-14 August 2025 in Geneva Switzerland + INC-5.2 stalled without consensus on production-cap framework + Trump-administration-environmental-rollbacks 2025 framework — formal INC-5.2 stalled + Trump-environmental-rollbacks framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNEP Mandate operates a supranational global framework — places UNEP Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-environment-coordination framework + first UN agency headquartered in the Global South framework is structurally distinctive globally — only modern global supranational framework operating on formal international-environment-coordination framework + first UN agency headquartered in the Global South Nairobi Kenya framework + only modern global supranational framework operating formal Stockholm Conference 1972 + Stockholm+50 2022 framework + only modern global supranational framework operating formal Montreal Protocol 1987 + Kigali Amendment 2016 framework + only modern global supranational framework operating formal Multilateral Environmental Agreements MEAs framework via 500+ MEAs framework + only modern global supranational framework operating formal CBD 1992 + Kunming-Montreal Global Biodiversity Framework 2022 framework + only modern global supranational framework operating formal Global Plastic Treaty negotiations 2022-2026 framework + only modern global supranational framework operating formal IPBES + IPCC environmental-scientific-assessment framework + only modern global supranational framework operating formal Trump-administration-environmental-rollbacks 2025 framework + only modern global supranational framework operating formal Triple Planetary Crisis: climate change + biodiversity loss + pollution framework.",
+    "Central jurisdiction of formal Montreal Protocol 1987 + Kigali Amendment 2016 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Montreal Protocol framework + only modern global supranational binding-treaty framework operating formal universal-ratification framework + only modern global supranational binding-treaty framework credited with healing-ozone-layer framework.",
+    "Central jurisdiction of formal CBD 1992 + Kunming-Montreal Global Biodiversity Framework 2022 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-biodiversity framework + only modern global supranational binding-treaty framework operating formal 30x30 framework.",
+    "Central jurisdiction of formal Global Plastic Treaty negotiations framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Global Plastic Treaty negotiations framework + first major global environmental treaty stalled by Saudi-Arabia + Iran + Russia + US-Trump-administration coalition framework.",
+    "193 UNEP member state ratification framework matching UN membership + 6 UNEP Regional Offices is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1972 Stockholm + UNEP + 1985 Vienna Convention + 1987 Montreal + 1992 Rio + CBD + UNFCCC + Agenda 21 + 2002 Johannesburg + 2012 Rio+20 + UNEA + 2016 Kigali + UNEA-2 + 2022 Stockholm+50 + Kunming-Montreal + Plastic Treaty launched + 2025 INC-5.2 stalled + Trump-rollbacks UNEP-framework-development sequence is structurally distinctive globally.",
+    "UNEP Mandate + Stockholm Declaration + Montreal Protocol + Kigali Amendment + CBD + Kunming-Montreal + Plastic Treaty + UNEA formal octet framework with limited PA-intersection framework via formal cross-border-environmental-displacement-of-families framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:unfccc-paris-agreement",
+    "jurisdiction:icj",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNEP",
+      "url": "https://www.unep.org/",
+      "publisher": "UNEP Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNEP Mandate jurisdiction sidecar — supranational global international-environment-coordination foundational-UNEP meta-framework (UNEP Founding Resolution 1972 + Stockholm Declaration 1972 + Montreal Protocol 1987/1989 + Kigali Amendment 2016/2019 + Vienna Convention 1985 + CBD 1992/1993 + Kunming-Montreal Global Biodiversity Framework 2022 + Plastic Treaty negotiations INC-1 to INC-5.2 2022-2025 + 1972 Stockholm Conference + 1992 Rio + UNFCCC + Agenda 21 + 2002 Johannesburg + 2012 Rio+20 + UNEA + 2022 Stockholm+50 + 2025 INC-5.2 stalled + Trump-rollbacks). Only modern global supranational framework operating on formal international-environment-coordination framework + first UN agency headquartered in the Global South Nairobi Kenya + only modern global supranational framework operating formal Montreal Protocol 1987 + Kigali Amendment 2016 + only modern global supranational framework operating formal CBD 1992 + Kunming-Montreal 2022 + only modern global supranational framework operating formal Global Plastic Treaty negotiations 2022-2026 + only modern global supranational framework operating formal IPBES + IPCC environmental-scientific-assessment + only modern global supranational framework operating formal Trump-environmental-rollbacks 2025 + only modern global supranational framework operating formal Triple Planetary Crisis: climate change + biodiversity loss + pollution + central jurisdiction of formal Montreal Protocol universal-ratification credited with healing-ozone-layer + central jurisdiction of formal CBD + Kunming-Montreal 30x30 framework + central jurisdiction of formal Global Plastic Treaty negotiations stalled by Saudi-Arabia + Iran + Russia + US-Trump-administration coalition + 193 UNEP member states matching UN membership + 6 UNEP Regional Offices + UNEP Headquartered Nairobi + UNEP Executive Director Inger Andersen 2019-2025 + 1972 Stockholm + UNEP + 1985 Vienna Convention + 1987 Montreal + 1992 Rio + CBD + UNFCCC + Agenda 21 + 2002 Johannesburg + 2012 Rio+20 + UNEA + 2016 Kigali + UNEA-2 + 2022 Stockholm+50 + Kunming-Montreal + Plastic Treaty launched + 2025 INC-5.2 stalled + Trump-rollbacks UNEP-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNEP Triple Planetary Crisis framework operates limited intersection with parental-alienation framework via formal cross-border-environmental-displacement-of-families framework.",
+    "Joins global + supranational + international-environment-coordination-foundational-UNEP cluster + UNEP-only-global-supranational-framework-on-international-environment-coordination-globally-distinctive + first-UN-agency-Headquartered-in-Global-South-Nairobi + Stockholm-Conference-1972 + Stockholm+50-2022 + Montreal-Protocol-1987-1989-universal-ratification-healing-ozone-layer + Kigali-Amendment-2016-2019-HFCs-phase-down + Vienna-Convention-1985-Ozone-Layer + Convention-on-Biological-Diversity-CBD-1992-1993 + Kunming-Montreal-Global-Biodiversity-Framework-2022-CBD-COP15-30x30 + Global-Plastic-Treaty-negotiations-INC-1-to-INC-5.2-2022-2025-Geneva-stalled + Triple-Planetary-Crisis-climate-biodiversity-pollution + 500+-Multilateral-Environmental-Agreements-MEAs + IPBES-IPCC-environmental-scientific-assessment + Trump-environmental-rollbacks-2025 + UN-Environment-Assembly-UNEA-2012-Nairobi + 193-UNEP-member-states + 6-UNEP-Regional-Offices + UNEP-Executive-Director-Inger-Andersen-2019-2025 + UNCED-Rio-Earth-Summit-1992 + Rio+20-2012-Future-We-Want + Agenda-21 + cross-border-environmental-displacement-of-families-PA-intersection clusters within the corpus."
+  ]
+}

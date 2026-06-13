@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "ukraine",
+  "name": "Ukraine (Україна)",
+  "jurisdiction_code": "UA",
+  "legal_system": "civil-law",
+  "language": ["uk"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Ukraine is a civil-law unitary republic whose family-law framework operates under the Family Code of Ukraine (Сімейний кодекс України) Law 2947-III of 10 January 2002, in force 1 January 2004. Parental rights and obligations (батьківські права та обов'язки) are governed by Family Code arts. 121-170; joint exercise during marriage is the statutory default. The Verkhovny Sud (Supreme Court, Kyiv) is the apex court reformed under the 2016 judicial reform; the Constitutional Court of Ukraine operates separate constitutional-review jurisdiction. Psychology profession regulation operates under the Ministry of Health framework with the Ukrainian Psychological Association (UPA) providing peak-body ethics oversight. Ukraine is silent on 'parental alienation' as a statutory label; courts operate substantively under the найкращі інтереси дитини (best-interests-of-the-child) standard. Ukraine is a Council of Europe member; ECHR Strasbourg jurisprudence has produced Ukrainian contact-enforcement cases. The 2022 full-scale Russian invasion has produced significant additional context: many family-court matters have been disrupted or relocated, and a substantial body of cross-border-displacement custody matters has emerged.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code of Ukraine (Сімейний кодекс) Law 2947-III of 2002",
+      "title": "Family Code — Parental rights and obligations",
+      "year": 2002,
+      "url": "https://zakon.rada.gov.ua/laws/show/2947-14",
+      "relevance": "Federal statute on family law in force 1 January 2004. Arts. 121-170 govern parental rights and obligations; joint exercise during marriage is the statutory default. Welfare-of-the-child standard codified."
+    },
+    {
+      "citation": "Law on Judicial System (2016 reform)",
+      "title": "Law on the Judicial System and Status of Judges",
+      "year": 2016,
+      "url": "https://zakon.rada.gov.ua/laws/show/1402-19",
+      "relevance": "Federal statute reforming the Ukrainian court system. Restructured the Supreme Court and established the three-tier judicial system with reformed apex jurisdiction."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Верховний Суд (Supreme Court)",
+      "seat": "Kyiv",
+      "url": "https://supreme.court.gov.ua/",
+      "role": "Apex court for civil and criminal matters following the 2016 judicial reform. Family-law decisions reach the Supreme Court via the Court of Appeal."
+    },
+    {
+      "name": "Конституційний Суд України (Constitutional Court of Ukraine)",
+      "seat": "Kyiv",
+      "url": "https://ccu.gov.ua/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and constitutional complaints."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Українська психологічна асоціація (Ukrainian Psychological Association / UPA)",
+      "url": "https://www.upa.org.ua/",
+      "role": "Peak academic-and-professional psychology society in Ukraine. Operates ethics code and professional standards."
+    }
+  ],
+  "anonymisation_convention": "Ukrainian family-law decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2002,
+      "title": "Family Code adopted",
+      "description": "Federal Family Code (Law 2947-III) adopted 10 January 2002."
+    },
+    {
+      "year": 2004,
+      "title": "Family Code in force",
+      "description": "Сімейний кодекс in force 1 January 2004."
+    },
+    {
+      "year": 2016,
+      "title": "2016 judicial reform",
+      "description": "Substantial reform of the Ukrainian court system restructuring the Supreme Court and three-tier judicial framework."
+    },
+    {
+      "year": 2022,
+      "title": "Full-scale Russian invasion context",
+      "description": "From 24 February 2022, full-scale invasion produced significant disruption of family-court operations and substantial cross-border displacement of families. Cross-border-displacement custody matters have emerged as a distinctive structural feature."
+    }
+  ],
+  "structural_findings": [
+    "Ukraine sits structurally within the post-Soviet civil-law cluster — Family Code 2004 + welfare-standard family-court framework + Constitutional Court constitutional-review.",
+    "Post-2022 invasion context produces distinctive cross-border-displacement custody-matters cluster — Ukrainian families displaced to Poland + Germany + Czechia + other EU member states + further afield generate Hague Convention 1980 cross-border matters and parallel domestic-and-foreign custody proceedings. Sits structurally adjacent to the cross-border-abduction-and-PA-intersection evidence page within the corpus.",
+    "Psychology profession regulation operates through Ministry of Health framework + UPA peak-body ethics oversight rather than unified statutory professional-chamber regime."
+  ],
+  "references": [
+    "jurisdiction:poland",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Верховний Суд (Supreme Court)",
+      "url": "https://supreme.court.gov.ua/",
+      "publisher": "Supreme Court of Ukraine",
+      "language": "uk,en"
+    },
+    {
+      "title": "Конституційний Суд України",
+      "url": "https://ccu.gov.ua/",
+      "publisher": "Constitutional Court of Ukraine",
+      "language": "uk,en"
+    },
+    {
+      "title": "Zakon.rada.gov.ua — Ukrainian legal database",
+      "url": "https://zakon.rada.gov.ua/",
+      "publisher": "Verkhovna Rada of Ukraine",
+      "language": "uk"
+    },
+    {
+      "title": "Українська психологічна асоціація (UPA)",
+      "url": "https://www.upa.org.ua/",
+      "publisher": "UPA",
+      "language": "uk"
+    }
+  ],
+  "editorial_notes": [
+    "Ukraine jurisdiction sidecar — post-Soviet civil-law framework. Family Code 2004 + 2016 judicial reform + Constitutional Court + UPA peak-body psychology regulation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Post-2022 invasion context produces distinctive cross-border-displacement custody cluster within the corpus."
+  ]
+}

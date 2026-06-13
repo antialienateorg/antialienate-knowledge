@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "id": "kuwait",
+  "name": "Kuwait (دولة الكويت)",
+  "jurisdiction_code": "KW",
+  "legal_system": "religious-law",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Kuwait is a Gulf religious-law constitutional monarchy whose family-law framework operates under the Personal Status Law 51/1984 (Qanun al-Ahwal al-Shakhsiyya) drawn primarily from Maliki and Hanafi jurisprudence with provisions for Shia communities. Custody (hadana) and guardianship (wilaya) are governed by arts. 187-215 of the Personal Status Law. The Court of Cassation (Mahkamat al-Tamyiz) is the apex court for civil and criminal matters; family-law matters are heard within the Family Courts under specialised procedure. Psychology profession is regulated through the Kuwait Institute for Medical Specialization (KIMS) under the Ministry of Health framework. Kuwait is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Kuwait is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Personal Status Law 51/1984 arts. 187-215",
+      "title": "Personal Status Law — Custody and guardianship",
+      "year": 1984,
+      "url": "https://www.moj.gov.kw/",
+      "relevance": "Federal statute on personal status drawn primarily from Maliki and Hanafi jurisprudence with provisions for Shia communities. Arts. 187-215 govern custody and guardianship."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (Mahkamat al-Tamyiz)",
+      "seat": "Kuwait City",
+      "url": "https://www.moj.gov.kw/",
+      "role": "Apex court of cassation for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Kuwait Institute for Medical Specialization (KIMS)",
+      "url": "https://www.kims.org.kw/",
+      "role": "Federal institute regulating medical and allied health specialisations including psychology."
+    },
+    {
+      "name": "Kuwait Psychological Society",
+      "url": "https://www.kps.org.kw/",
+      "role": "Peak professional association for psychologists in Kuwait."
+    }
+  ],
+  "anonymisation_convention": "Kuwaiti family-law decisions are anonymised per court practice; published decisions use initials.",
+  "key_developments": [
+    {
+      "year": 1984,
+      "title": "Personal Status Law 51/1984",
+      "description": "Federal Personal Status Law enacted, codifying personal-status provisions primarily on Maliki and Hanafi jurisprudential basis."
+    }
+  ],
+  "structural_findings": [
+    "Kuwait operates a Maliki/Hanafi religious-law framework with codified Personal Status Law alongside Saudi Arabia (Hanbali Personal Status Law 2022) and Bahrain (Sunni-Shia Unified Family Law 2017) within the Gulf cluster.",
+    "Non-Hague Convention status places Kuwait in the non-Hague Gulf cluster alongside Saudi Arabia, Iran, and Bahrain."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:bahrain",
+    "jurisdiction:qatar",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.moj.gov.kw/",
+      "publisher": "Ministry of Justice, State of Kuwait",
+      "language": "ar,en"
+    },
+    {
+      "title": "Kuwait Institute for Medical Specialization",
+      "url": "https://www.kims.org.kw/",
+      "publisher": "KIMS",
+      "language": "ar,en"
+    }
+  ],
+  "editorial_notes": [
+    "Kuwait jurisdiction sidecar — Maliki/Hanafi religious-law framework + Personal Status Law 51/1984 + KIMS psychology regulation + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Gulf + Maliki/Hanafi + non-Hague Convention clusters within the corpus."
+  ]
+}

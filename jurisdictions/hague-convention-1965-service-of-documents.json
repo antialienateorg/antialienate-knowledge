@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "hague-convention-1965-service-of-documents",
+  "name": "Hague Convention 1965 on Service of Documents (Service Convention)",
+  "jurisdiction_code": "HSV",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Hague Convention 1965 on Service of Documents (popularly the Service Convention / formally Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters) is a global supranational meta-framework cross-border-service-of-documents binding-treaty instrument adopted by the Hague Conference on Private International Law (HCCH) — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on cross-border-service-of-documents framework (Service Convention adopted 15 November 1965 in The Hague + effective 10 February 1969 — formal universal multilateral binding-treaty framework establishing comprehensive cross-border-service-of-documents framework via formal Central Authority + Request for Service framework, distinct from rest-of-modern-international-cross-border-service frameworks which operate on bilateral or letters-rogatory framework, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-cross-border-service-of-documents-via-Central-Authority-framework with substantial relevance to PA framework via formal cross-border family-law documents service framework + cross-border child-custody + divorce + adoption proceedings service framework), as the central jurisdiction of the formal Article 2 Central Authority framework (Service Convention Article 2 framework providing 'Each Contracting State shall designate a Central Authority which will undertake to receive requests for service coming from other Contracting States and to proceed in conformity with the provisions of Articles 3 to 6' — formal foundational Central Authority framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal Central Authority framework for cross-border-service-of-documents), as the central jurisdiction of the formal Article 5 service-methods framework (Service Convention Article 5 framework providing for service methods including by Central Authority + special method requested by applicant + service by such method 'as the law of the requested State prescribes for the service of documents in domestic actions upon persons who are within its territory' — formal foundational service-methods framework), and as the central jurisdiction of the formal e-Service Convention + e-APP Apostille framework (HCCH e-Service Convention + e-APP Apostille framework operational since 2007 — formal HCCH framework operating digital + electronic-service-of-documents framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal e-Service framework). The Service Convention is binding upon 81 state parties as of 2026 — substantial universal coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 2 Central Authority + Article 5 service-methods + Article 15 default-judgment-non-appearance frameworks operate substantial intersection with parental-alienation framework via formal cross-border family-law documents service framework + cross-border child-custody + divorce + adoption proceedings service framework. The Permanent Bureau of the Hague Conference on Private International Law is the apex monitoring framework body; national-level Central Authorities operate as administrative bodies. The Service Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Hague Convention 1965 on Service of Documents",
+      "title": "Service Convention",
+      "year": 1969,
+      "url": "https://www.hcch.net/",
+      "relevance": "Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters adopted 15 November 1965 in The Hague + effective 10 February 1969 — formal universal multilateral binding-treaty framework establishing comprehensive cross-border-service-of-documents framework."
+    },
+    {
+      "citation": "Service Convention Article 2 (Central Authority Framework)",
+      "title": "Service Convention Article 2",
+      "year": 1969,
+      "url": "https://www.hcch.net/",
+      "relevance": "Service Convention Article 2 framework on Central Authority designation — formal foundational Central Authority framework for cross-border-service-of-documents."
+    },
+    {
+      "citation": "Service Convention Article 5 (Service Methods Framework)",
+      "title": "Service Convention Article 5",
+      "year": 1969,
+      "url": "https://www.hcch.net/",
+      "relevance": "Service Convention Article 5 framework on service methods — formal foundational service-methods framework."
+    },
+    {
+      "citation": "Service Convention Article 15 (Default Judgment Non-Appearance Framework)",
+      "title": "Service Convention Article 15",
+      "year": 1969,
+      "url": "https://www.hcch.net/",
+      "relevance": "Service Convention Article 15 framework on default judgment-non-appearance framework providing for judgments shall not be given against the defendant served pursuant to Convention framework unless service was effected by service method prescribed by domestic law of the requested State + service was effected on the defendant in a manner enabling defendant to defend the action — formal foundational default-judgment-non-appearance framework."
+    },
+    {
+      "citation": "HCCH e-Service Convention + e-APP Apostille Framework 2007+",
+      "title": "HCCH e-Service Convention Framework",
+      "year": 2007,
+      "url": "https://www.hcch.net/",
+      "relevance": "HCCH e-Service Convention + e-APP Apostille framework operational since 2007 — formal HCCH framework operating digital + electronic-service-of-documents framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Permanent Bureau of the Hague Conference on Private International Law (HCCH)",
+      "seat": "The Hague",
+      "url": "https://www.hcch.net/",
+      "role": "Apex monitoring framework body for Service Convention."
+    },
+    {
+      "name": "National-level Central Authorities",
+      "seat": "Various",
+      "url": "https://www.hcch.net/",
+      "role": "National-level Central Authorities — formal Service Convention administrative bodies."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "HCCH Secretariat",
+      "url": "https://www.hcch.net/",
+      "role": "Service Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Service Convention-related individual communications are anonymised per national-level court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1893,
+      "title": "HCCH founded",
+      "description": "Hague Conference on Private International Law HCCH founded 12 September 1893 — formal intergovernmental organisation operating private international law harmonisation framework."
+    },
+    {
+      "year": 1965,
+      "title": "Service Convention adopted",
+      "description": "Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters adopted 15 November 1965 in The Hague — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 1969,
+      "title": "Service Convention enters force",
+      "description": "Service Convention entered force 10 February 1969 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2007,
+      "title": "HCCH e-Service Convention Framework launched",
+      "description": "HCCH e-Service Convention Framework launched 2007 — formal HCCH framework operating digital + electronic-service-of-documents framework."
+    }
+  ],
+  "structural_findings": [
+    "Service Convention operates a supranational universal multilateral binding-treaty framework — places Service Convention in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on cross-border-service-of-documents framework is structurally distinctive globally — formal-cross-border-service-of-documents-via-Central-Authority-framework.",
+    "Central jurisdiction of formal Article 2 Central Authority framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal Central Authority framework for cross-border-service-of-documents.",
+    "Central jurisdiction of formal Article 5 service-methods framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal service-methods framework.",
+    "Central jurisdiction of formal e-Service Convention + e-APP Apostille framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal e-Service framework.",
+    "81 state party ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1893 HCCH + 1965 Service Convention + 1969 entry into force + 2007 e-Service Convention Service-Convention-framework-development sequence is structurally distinctive globally.",
+    "Article 2 Central Authority + Article 5 service-methods + Article 15 default-judgment-non-appearance formal triad framework with formal cross-border family-law documents service framework + cross-border child-custody + divorce + adoption proceedings service framework PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:hague-conference-on-private-international-law",
+    "jurisdiction:hague-convention-1980-child-abduction",
+    "jurisdiction:hague-convention-1996-protection-of-children",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "Hague Conference on Private International Law (HCCH) — Service Convention",
+      "url": "https://www.hcch.net/en/instruments/conventions/full-text/?cid=17",
+      "publisher": "HCCH",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Service Convention jurisdiction sidecar — supranational global cross-border-service-of-documents universal multilateral binding-treaty meta-framework (Service Convention 1965/1969 + Article 2 Central Authority Framework + Article 5 Service Methods Framework + Article 15 Default Judgment Non-Appearance Framework + HCCH e-Service Convention Framework 2007+ + HCCH founded 1893). Only modern universal multilateral binding-treaty framework operating specifically on cross-border-service-of-documents framework globally + central jurisdiction of formal Article 2 Central Authority framework + central jurisdiction of formal Article 5 service-methods framework + central jurisdiction of formal e-Service Convention + e-APP Apostille framework + 81 state party ratification framework + 1893 HCCH + 1965 Service Convention + 1969 entry into force + 2007 e-Service Convention Service-Convention-framework-development sequence + Article 2 Central Authority + Article 5 service-methods + Article 15 default-judgment-non-appearance formal triad framework with formal cross-border family-law documents service framework + cross-border child-custody + divorce + adoption proceedings service framework PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 2 Central Authority + Article 5 service-methods + Article 15 default-judgment-non-appearance frameworks operate substantial intersection with parental-alienation framework via formal cross-border family-law documents service framework + cross-border child-custody + divorce + adoption proceedings service framework.",
+    "Joins global + supranational + universal-multilateral-cross-border-service-of-documents-binding-treaty cluster + Service-Convention-only-universal-cross-border-service-of-documents-binding-treaty-globally-distinctive + Article-2-Central-Authority-framework + Article-5-service-methods-framework + Article-15-default-judgment-non-appearance-framework + e-Service-Convention-2007 + 81-state-party-substantial-universal-coverage + cross-border-family-law-documents-service-PA-intersection clusters within the corpus."
+  ]
+}

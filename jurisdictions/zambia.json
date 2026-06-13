@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "id": "zambia",
+  "name": "Zambia (Republic of Zambia)",
+  "jurisdiction_code": "ZM",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Zambia is a Southern African common-law unitary republic whose family-law framework operates under the Matrimonial Causes Act 2007, supplemented by the Marriage Act (Cap. 50), the Children's Code Act 2022 (Act No. 12 of 2022), and customary-law jurisdiction via Local Courts under the Local Courts Act. Parental responsibility and child custody are governed by the Children's Code Act Part IV. The Supreme Court of Zambia is the apex court for civil and criminal matters; the Constitutional Court of Zambia (established 2016) operates separate constitutional review. Family-law matters are heard at first instance in the High Court (Family Division) and in Local Courts for customary-law matters. Psychology profession is regulated through the Health Professions Council of Zambia under the Ministry of Health framework with the Psychology Association of Zambia operating professional standards. Zambia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children's Code Act s. 5. Zambia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children's Code Act 2022 (Act No. 12 of 2022)",
+      "title": "Children's Code Act — Parental responsibility and custody",
+      "year": 2022,
+      "url": "https://www.judiciaryzambia.com/",
+      "relevance": "Federal Children's Code Act codifying welfare-of-the-child principle (s. 5), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Matrimonial Causes Act 2007",
+      "title": "Matrimonial Causes Act",
+      "year": 2007,
+      "url": "https://www.judiciaryzambia.com/",
+      "relevance": "Federal divorce and matrimonial-causes statute replacing colonial-era Divorce Ordinance."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Zambia",
+      "seat": "Lusaka",
+      "url": "https://www.judiciaryzambia.com/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court of Zambia",
+      "seat": "Lusaka",
+      "url": "https://www.judiciaryzambia.com/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review (established 2016)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Health Professions Council of Zambia (HPCZ)",
+      "url": "https://www.hpcz.org.zm/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology under Ministry of Health framework."
+    },
+    {
+      "name": "Psychology Association of Zambia",
+      "url": "https://www.paz.org.zm/",
+      "role": "Peak professional association for psychologists in Zambia."
+    }
+  ],
+  "anonymisation_convention": "Zambian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2007,
+      "title": "Matrimonial Causes Act",
+      "description": "Federal divorce and matrimonial-causes statute enacted replacing colonial-era Divorce Ordinance."
+    },
+    {
+      "year": 2016,
+      "title": "Constitutional Court established",
+      "description": "Constitutional Court established with original jurisdiction over constitutional review."
+    },
+    {
+      "year": 2022,
+      "title": "Children's Code Act",
+      "description": "Federal Children's Code Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection."
+    }
+  ],
+  "structural_findings": [
+    "Zambia operates a common-law framework with welfare-of-the-child principle codified in Children's Code Act 2022 s. 5 — places Zambia in the Southern African common-law cluster.",
+    "Dual-track family-law framework — statutory marriage/divorce (Matrimonial Causes Act + Children's Code) + customary-law jurisdiction via Local Courts. Reflects colonial-inheritance heritage shared with Kenya, Uganda, Tanzania.",
+    "Non-Hague Convention status places Zambia in the non-Hague Southern African cluster."
+  ],
+  "references": [
+    "jurisdiction:zimbabwe",
+    "jurisdiction:south-africa",
+    "jurisdiction:botswana",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Zambia",
+      "url": "https://www.judiciaryzambia.com/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Health Professions Council of Zambia",
+      "url": "https://www.hpcz.org.zm/",
+      "publisher": "HPCZ",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Zambia jurisdiction sidecar — common-law Southern African framework. Children's Code Act 2022 + Matrimonial Causes Act 2007 + customary-law via Local Courts + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southern African + common-law + dual-track-statutory-customary + non-Hague Convention clusters within the corpus."
+  ]
+}

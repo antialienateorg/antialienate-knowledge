@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "id": "unhcr-statute",
+  "name": "UNHCR Statute 1950 (United Nations High Commissioner for Refugees)",
+  "jurisdiction_code": "UHC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Statute of the Office of the United Nations High Commissioner for Refugees (UNHCR Statute) is a global supranational meta-framework foundational-UNHCR-framework adopted by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal international-refugee-protection framework + foundational refugee-protection framework alongside 1951 Refugee Convention framework (UNHCR Statute adopted 14 December 1950 by UN General Assembly Resolution 428 V + UNHCR operations began 1 January 1951 — formal foundational UNHCR framework establishing comprehensive UNHCR organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-refugee-protection framework + foundational refugee-protection framework alongside 1951 Refugee Convention + only modern global supranational framework operating formal initial-3-year-mandate-renewed-indefinitely-2003 framework + only modern global supranational framework operating formal UNHCR-Nobel-Peace-Prize-1954 + 1981 framework + only modern global supranational framework operating formal Russia-invasion-of-Ukraine-2022-largest-displacement-in-Europe-since-WWII framework + only modern global supranational framework operating formal Sudan-civil-war-2023-largest-displacement-crisis-globally framework + only modern global supranational framework operating formal Gaza-2023-2024-displacement framework + only modern global supranational framework operating formal Afghanistan-Taliban-2021-largest-Afghan-refugee-population-since-1980s framework + global-refugee-count 122-million-as-of-2025 framework), as the central jurisdiction of the formal 1951 Refugee Convention + 1967 Protocol framework (1951 Convention Relating to the Status of Refugees signed 28 July 1951 in Geneva Switzerland + effective 22 April 1954 + 1967 Protocol Relating to the Status of Refugees signed 31 January 1967 + effective 4 October 1967 removing 1951 European + temporal limitations framework — formal foundational 1951 Refugee Convention framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal refugee-definition + non-refoulement principle framework), as the central jurisdiction of the formal UNHCR Nobel Peace Prize 1954 + 1981 framework (UNHCR Nobel Peace Prize awarded 10 December 1954 + 10 December 1981 — formal foundational UNHCR Nobel Peace Prize framework, structurally distinctive globally as the only modern global supranational framework operating formal Nobel Peace Prize awarded twice framework), and as the central jurisdiction of the formal Global Compact on Refugees 2018 framework (Global Compact on Refugees GCR adopted 17 December 2018 by UN General Assembly Resolution 73/151 providing formal four-objectives-framework: ease-pressure + enhance-self-reliance + expand-third-country-solutions + support-conditions-in-countries-of-origin framework — formal foundational Global Compact on Refugees framework, structurally distinctive globally as the only modern global supranational framework operating formal Global-Compact-on-Refugees framework). The UNHCR Statute is operating upon 146 1951 Refugee Convention + 1967 Protocol state parties as of 2026 + 122 million forcibly-displaced-persons globally including 36.4 million refugees + 6.9 million asylum-seekers + 68 million internally-displaced-persons + 4.4 million stateless-persons framework — substantial universal coverage framework. The Statute is silent on 'parental alienation' as a statutory label, though formal UNHCR refugee-children's-rights framework operates substantial intersection with parental-alienation framework via formal UNHCR cross-border-refugee-children's-rights framework + UNHCR Family Reunification programmes framework. The UN High Commissioner for Refugees + UNHCR Executive Committee + UNHCR Secretariat are the formal UNHCR bodies; national-level apex courts operate as judicial bodies. The UNHCR Statute is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNHCR Statute 1950 (UN General Assembly Resolution 428 V)",
+      "title": "UNHCR Statute",
+      "year": 1950,
+      "url": "https://www.unhcr.org/",
+      "relevance": "UNHCR Statute adopted 14 December 1950 by UN General Assembly Resolution 428 V — formal foundational UNHCR framework establishing comprehensive UNHCR organisation framework."
+    },
+    {
+      "citation": "1951 Refugee Convention",
+      "title": "1951 Refugee Convention",
+      "year": 1954,
+      "url": "https://www.unhcr.org/",
+      "relevance": "1951 Convention Relating to the Status of Refugees signed 28 July 1951 in Geneva Switzerland + effective 22 April 1954 — formal foundational 1951 Refugee Convention framework + refugee-definition + non-refoulement principle framework."
+    },
+    {
+      "citation": "1967 Refugee Protocol",
+      "title": "1967 Refugee Protocol",
+      "year": 1967,
+      "url": "https://www.unhcr.org/",
+      "relevance": "1967 Protocol Relating to the Status of Refugees signed 31 January 1967 + effective 4 October 1967 removing 1951 European + temporal limitations framework — formal foundational 1967 Refugee Protocol framework."
+    },
+    {
+      "citation": "Global Compact on Refugees 2018 (UN General Assembly Resolution 73/151)",
+      "title": "Global Compact on Refugees",
+      "year": 2018,
+      "url": "https://www.unhcr.org/",
+      "relevance": "Global Compact on Refugees GCR adopted 17 December 2018 by UN General Assembly Resolution 73/151 — formal foundational Global Compact on Refugees framework."
+    },
+    {
+      "citation": "UNHCR Mandate Indefinite Extension 2003",
+      "title": "UNHCR Mandate Indefinite Extension",
+      "year": 2003,
+      "url": "https://www.unhcr.org/",
+      "relevance": "UNHCR mandate renewed indefinitely 2003 by UN General Assembly Resolution 58/153 removing 3-year-mandate-renewal framework — formal UNHCR mandate-indefinite-extension framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN High Commissioner for Refugees",
+      "seat": "Geneva",
+      "url": "https://www.unhcr.org/un-high-commissioner-refugees",
+      "role": "Formal administrative head body for UNHCR — currently Filippo Grandi 2016-2025 + 2025+ next High Commissioner framework."
+    },
+    {
+      "name": "UNHCR Executive Committee (ExCom)",
+      "seat": "Geneva",
+      "url": "https://www.unhcr.org/excom",
+      "role": "Formal executive body for UNHCR."
+    },
+    {
+      "name": "UNHCR Secretariat",
+      "seat": "Geneva",
+      "url": "https://www.unhcr.org/",
+      "role": "Formal administrative body for UNHCR."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNHCR Secretariat",
+      "url": "https://www.unhcr.org/",
+      "role": "UNHCR Statute implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNHCR-related communications operate via state-state framework via UN General Assembly + UN ECOSOC; individual communications limited under UNHCR framework except via UNHCR Refugee Status Determination RSD framework.",
+  "key_developments": [
+    {
+      "year": 1919,
+      "title": "League of Nations High Commissioner for Refugees Nansen",
+      "description": "League of Nations High Commissioner for Refugees Fridtjof Nansen appointed 1921 + Nansen Passport for stateless refugees 1922 — predecessor framework to UNHCR."
+    },
+    {
+      "year": 1943,
+      "title": "United Nations Relief and Rehabilitation Administration UNRRA",
+      "description": "United Nations Relief and Rehabilitation Administration UNRRA established 9 November 1943 — predecessor framework to UNHCR."
+    },
+    {
+      "year": 1947,
+      "title": "International Refugee Organization IRO",
+      "description": "International Refugee Organization IRO established 20 April 1946 + operations 1 July 1947 — predecessor framework to UNHCR."
+    },
+    {
+      "year": 1950,
+      "title": "UNHCR Statute adopted",
+      "description": "UNHCR Statute adopted 14 December 1950 by UN General Assembly Resolution 428 V — formal foundational UNHCR framework adopted."
+    },
+    {
+      "year": 1951,
+      "title": "UNHCR operations begin + 1951 Refugee Convention adopted",
+      "description": "UNHCR operations began 1 January 1951 + 1951 Convention Relating to the Status of Refugees signed 28 July 1951 in Geneva Switzerland — formal foundational UNHCR + 1951 Refugee Convention framework operational."
+    },
+    {
+      "year": 1954,
+      "title": "1951 Convention enters force + UNHCR Nobel Peace Prize",
+      "description": "1951 Refugee Convention entered force 22 April 1954 + UNHCR awarded Nobel Peace Prize 10 December 1954 — formal 1951 Refugee Convention + UNHCR Nobel Peace Prize framework operational."
+    },
+    {
+      "year": 1967,
+      "title": "1967 Refugee Protocol",
+      "description": "1967 Protocol Relating to the Status of Refugees signed 31 January 1967 + effective 4 October 1967 removing 1951 European + temporal limitations framework — formal foundational 1967 Refugee Protocol framework operational."
+    },
+    {
+      "year": 1981,
+      "title": "UNHCR second Nobel Peace Prize",
+      "description": "UNHCR awarded second Nobel Peace Prize 10 December 1981 — formal UNHCR second Nobel Peace Prize framework operational."
+    },
+    {
+      "year": 2003,
+      "title": "UNHCR mandate indefinite extension",
+      "description": "UNHCR mandate renewed indefinitely 2003 by UN General Assembly Resolution 58/153 — formal UNHCR mandate-indefinite-extension framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "Global Compact on Refugees adopted",
+      "description": "Global Compact on Refugees GCR adopted 17 December 2018 by UN General Assembly Resolution 73/151 — formal foundational Global Compact on Refugees framework adopted."
+    },
+    {
+      "year": 2022,
+      "title": "Russia invades Ukraine + largest displacement in Europe since WWII",
+      "description": "Russia invaded Ukraine 24 February 2022 + Ukraine displacement crisis ~8 million refugees + ~5 million internally-displaced as of 2026 — largest displacement crisis in Europe since WWII framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Sudan civil war + Gaza-2023 displacement",
+      "description": "Sudan civil war began 15 April 2023 + Sudan displacement crisis ~10 million displaced as of 2026 + largest displacement crisis globally framework + Israel-Hamas-Gaza war 7 October 2023 onwards — formal Sudan + Gaza displacement crises framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Global refugee count 122 million",
+      "description": "Global forcibly-displaced-persons count reached 122 million as of mid-2025 + UNHCR Global Trends Report 2025 framework — formal UNHCR Global Trends Report framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNHCR Statute operates a supranational global framework — places UNHCR Statute in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-refugee-protection framework + foundational refugee-protection framework alongside 1951 Refugee Convention framework is structurally distinctive globally — only modern global supranational framework operating on formal international-refugee-protection framework + foundational refugee-protection framework alongside 1951 Refugee Convention + only modern global supranational framework operating formal initial-3-year-mandate-renewed-indefinitely-2003 framework + only modern global supranational framework operating formal UNHCR-Nobel-Peace-Prize-1954 + 1981 framework + only modern global supranational framework operating formal Russia-invasion-of-Ukraine-2022-largest-displacement-in-Europe-since-WWII framework + only modern global supranational framework operating formal Sudan-civil-war-2023-largest-displacement-crisis-globally framework + only modern global supranational framework operating formal Gaza-2023-2024-displacement framework + only modern global supranational framework operating formal Afghanistan-Taliban-2021-largest-Afghan-refugee-population-since-1980s framework + global-refugee-count 122-million-as-of-2025 framework.",
+    "Central jurisdiction of formal 1951 Refugee Convention + 1967 Protocol framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal refugee-definition + non-refoulement principle framework.",
+    "Central jurisdiction of formal UNHCR Nobel Peace Prize 1954 + 1981 framework is structurally distinctive globally — only modern global supranational framework operating formal Nobel Peace Prize awarded twice framework.",
+    "Central jurisdiction of formal Global Compact on Refugees 2018 framework is structurally distinctive globally — only modern global supranational framework operating formal Global-Compact-on-Refugees framework.",
+    "146 1951 Refugee Convention + 1967 Protocol state party ratification framework + 122 million forcibly-displaced-persons globally framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1919 League of Nations Nansen + 1943 UNRRA + 1947 IRO + 1950 UNHCR + 1951 1951 Refugee Convention + UNHCR operations + 1954 entry into force + Nobel Peace Prize + 1967 Protocol + 1981 second Nobel + 2003 indefinite mandate + 2018 GCR + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2025 122M displaced UNHCR-framework-development sequence is structurally distinctive globally.",
+    "UNHCR Statute + 1951 Refugee Convention + 1967 Protocol + Nobel Peace Prize 1954 + 1981 + GCR 2018 + Family Reunification programmes formal septet framework with formal cross-border-refugee-children's-rights + UNHCR Family Reunification PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:un-refugee-convention",
+    "jurisdiction:united-nations",
+    "jurisdiction:un-icrmw",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UNHCR",
+      "url": "https://www.unhcr.org/",
+      "publisher": "UNHCR Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNHCR Statute jurisdiction sidecar — supranational global international-refugee-protection foundational-UNHCR meta-framework (UNHCR Statute 1950 + 1951 Refugee Convention 1951/1954 Geneva + 1967 Refugee Protocol + UNHCR Nobel Peace Prize 1954 + 1981 + Global Compact on Refugees 2018 + UNHCR mandate indefinite extension 2003 + Nansen 1919-1921 League of Nations predecessor + UNRRA 1943 + IRO 1947 + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2025 122M displaced). Only modern global supranational framework operating on formal international-refugee-protection framework + foundational refugee-protection framework alongside 1951 Refugee Convention + only modern global supranational framework operating formal Nobel Peace Prize awarded twice + only modern global supranational framework operating formal Russia-invasion-of-Ukraine-2022-largest-displacement-in-Europe-since-WWII + only modern global supranational framework operating formal Sudan-civil-war-2023-largest-displacement-crisis-globally + central jurisdiction of formal 1951 Refugee Convention + 1967 Protocol refugee-definition + non-refoulement + central jurisdiction of formal Nobel Peace Prize 1954 + 1981 + central jurisdiction of formal Global Compact on Refugees 2018 + 146 Convention state parties + 122 million forcibly-displaced-persons globally + 36.4 million refugees + 6.9 million asylum-seekers + 68 million IDPs + 4.4 million stateless + UNHCR Headquartered Geneva + 1919 League of Nations Nansen + 1943 UNRRA + 1947 IRO + 1950 UNHCR + 1951 1951 Refugee Convention + UNHCR operations + 1954 entry into force + Nobel + 1967 Protocol + 1981 second Nobel + 2003 indefinite mandate + 2018 GCR + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2025 122M displaced UNHCR-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNHCR refugee-children's-rights framework operates substantial intersection with parental-alienation framework via formal UNHCR cross-border-refugee-children's-rights framework + UNHCR Family Reunification programmes framework.",
+    "Joins global + supranational + international-refugee-protection-foundational-UNHCR cluster + UNHCR-only-global-supranational-framework-on-international-refugee-protection-globally-distinctive + foundational-refugee-protection-alongside-1951-Refugee-Convention + UNHCR-Nobel-Peace-Prize-1954-1981-twice + Russia-Ukraine-2022-largest-displacement-Europe-since-WWII + Sudan-civil-war-2023-largest-displacement-globally + Gaza-2023-2024-displacement + Afghanistan-Taliban-2021 + 122-million-forcibly-displaced-2025 + 36.4-million-refugees + 6.9-million-asylum-seekers + 68-million-IDPs + 4.4-million-stateless + 1951-Refugee-Convention-non-refoulement-principle + 1967-Refugee-Protocol-removed-European-temporal-limits + Global-Compact-on-Refugees-2018-four-objectives + UNHCR-Headquartered-Geneva + Filippo-Grandi-2016-2025 + 146-Convention-state-parties + 1919-Nansen-League-of-Nations-predecessor + UNRRA-1943-IRO-1947 + UNHCR-Family-Reunification-PA-intersection + cross-border-refugee-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

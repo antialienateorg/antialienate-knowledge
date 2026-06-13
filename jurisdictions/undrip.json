@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "id": "undrip",
+  "name": "UNDRIP 2007 (UN Declaration on the Rights of Indigenous Peoples)",
+  "jurisdiction_code": "UDR",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) is a global supranational meta-framework foundational-UNDRIP framework adopted by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal international-indigenous-peoples-rights framework + foundational Indigenous-rights framework alongside ILO Convention 169 framework (UNDRIP adopted 13 September 2007 by UN General Assembly Resolution 61/295 — 144 in favour + 4 against US + Canada + Australia + New Zealand + 11 abstentions + 4-against-states all-reversed-position 2009-2010 + UNDRIP operations began 2007 + UN Permanent Forum on Indigenous Issues UNPFII established 2000 + 25-year mandate framework — formal foundational UNDRIP framework establishing comprehensive UNDRIP organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-indigenous-peoples-rights framework + foundational Indigenous-rights framework alongside ILO Convention 169 + only modern global supranational framework operating formal Free Prior and Informed Consent FPIC framework via Article 19 + Article 32 framework + only modern global supranational framework operating formal Indigenous-Self-Determination framework via Article 3 framework + only modern global supranational framework operating formal Indigenous-Family + Children framework via Article 14 + Article 17 + Article 22 framework + only modern global supranational framework operating formal four-against-states-all-reversed-position 2009-2010 framework + only modern global supranational framework operating formal Canada-Bill-C-15-UNDRIP-Act 2021 framework + only modern global supranational framework operating formal Australia-Federal-Court-rejection 2023 framework + only modern global supranational framework operating formal Trudeau-UNDRIP-Action-Plan 2023 framework + only modern global supranational framework operating formal Indigenous Peoples Special Rapporteur framework + only modern global supranational framework operating formal UNDRIP-15th-anniversary 2022 + 20th-anniversary 2027 framework), as the central jurisdiction of the formal UNDRIP Free Prior and Informed Consent FPIC framework (UNDRIP Article 19 + Article 32 framework providing formal Free Prior and Informed Consent FPIC framework — formal foundational UNDRIP FPIC framework, structurally distinctive globally as the only modern global supranational framework operating formal Free Prior and Informed Consent FPIC framework + only modern global supranational framework operating formal Indigenous-veto framework over Indigenous-Lands + Resources + Cultural-Property framework), as the central jurisdiction of the formal UNDRIP Indigenous Self-Determination + Indigenous Family + Children framework (UNDRIP Article 3 + Article 14 + Article 17 + Article 22 framework providing formal Indigenous-Self-Determination + Indigenous-Education + Indigenous-Family + Indigenous-Children framework — formal foundational UNDRIP Indigenous-Self-Determination + Indigenous-Family + Children framework, structurally distinctive globally as the only modern global supranational framework operating formal Indigenous-Self-Determination framework + only modern global supranational framework operating formal Indigenous-Family + Children + Sixties-Scoop-redress framework), and as the central jurisdiction of the formal Four-against-states-all-reversed-position framework (Four-against-states-all-reversed-position framework: Australia reversed 3 April 2009 + New Zealand reversed 19 April 2010 + Canada reversed 12 November 2010 + United States reversed 16 December 2010 — formal foundational Four-against-states-all-reversed-position framework, structurally distinctive globally as the only modern global supranational framework operating formal Four-against-states-all-reversed-position framework). The UNDRIP is operating upon 193 UN member states framework + Indigenous Peoples organizations + national-level Indigenous self-government frameworks — comprehensive universal coverage framework. The Declaration is silent on 'parental alienation' as a statutory label, though formal UNDRIP Article 14 + Article 17 + Article 22 framework operates substantial intersection with parental-alienation framework via formal Indigenous cross-border-family-rights framework + Sixties-Scoop + Indian Residential Schools-redress framework + Indigenous-Family-Court-Jurisdiction framework + Indigenous-Custom-Adoption framework. The UN Permanent Forum on Indigenous Issues UNPFII + Expert Mechanism on the Rights of Indigenous Peoples EMRIP + Special Rapporteur on the Rights of Indigenous Peoples SRRIP are the formal UNDRIP bodies; national-level apex courts operate as judicial bodies. The UNDRIP is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNDRIP 2007 (UN General Assembly Resolution 61/295)",
+      "title": "UNDRIP",
+      "year": 2007,
+      "url": "https://www.un.org/development/desa/indigenouspeoples/declaration-on-the-rights-of-indigenous-peoples.html",
+      "relevance": "UNDRIP adopted 13 September 2007 by UN General Assembly Resolution 61/295 — formal foundational UNDRIP framework establishing comprehensive UNDRIP organisation framework."
+    },
+    {
+      "citation": "UNDRIP Article 3 (Indigenous Self-Determination Framework)",
+      "title": "UNDRIP Article 3",
+      "year": 2007,
+      "url": "https://www.un.org/",
+      "relevance": "UNDRIP Article 3 framework on Indigenous Self-Determination — formal foundational UNDRIP Indigenous Self-Determination framework."
+    },
+    {
+      "citation": "UNDRIP Articles 19 + 32 (FPIC Framework)",
+      "title": "UNDRIP Articles 19 + 32",
+      "year": 2007,
+      "url": "https://www.un.org/",
+      "relevance": "UNDRIP Article 19 + Article 32 framework on Free Prior and Informed Consent FPIC — formal foundational UNDRIP FPIC framework."
+    },
+    {
+      "citation": "UNDRIP Articles 14 + 17 + 22 (Indigenous Family + Children Framework)",
+      "title": "UNDRIP Articles 14 + 17 + 22",
+      "year": 2007,
+      "url": "https://www.un.org/",
+      "relevance": "UNDRIP Article 14 + Article 17 + Article 22 framework on Indigenous-Education + Indigenous-Family + Indigenous-Children — formal foundational UNDRIP Indigenous-Family + Children framework with PA-intersection framework."
+    },
+    {
+      "citation": "ILO Convention 169 1989",
+      "title": "ILO Convention 169",
+      "year": 1991,
+      "url": "https://www.ilo.org/",
+      "relevance": "ILO Convention 169 on Indigenous and Tribal Peoples adopted 27 June 1989 + effective 5 September 1991 — formal foundational ILO Convention 169 framework + only modern global supranational binding-treaty framework on Indigenous Peoples + 24 ratifications as of 2026."
+    },
+    {
+      "citation": "Canada Bill C-15 United Nations Declaration on the Rights of Indigenous Peoples Act 2021",
+      "title": "Canada UNDRIP Act",
+      "year": 2021,
+      "url": "https://www.justice.gc.ca/",
+      "relevance": "Canada Bill C-15 United Nations Declaration on the Rights of Indigenous Peoples Act adopted 21 June 2021 — formal foundational Canada UNDRIP Act framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Permanent Forum on Indigenous Issues (UNPFII)",
+      "seat": "New York",
+      "url": "https://www.un.org/development/desa/indigenouspeoples/",
+      "role": "Formal UN advisory body for Indigenous Peoples established 28 July 2000 by UN ECOSOC Resolution 2000/22 — first UN agency with Indigenous Peoples expert members."
+    },
+    {
+      "name": "Expert Mechanism on the Rights of Indigenous Peoples (EMRIP)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/hrc-subsidiaries/expert-mechanism-on-indigenous-peoples",
+      "role": "Formal Human Rights Council EMRIP body established 14 December 2007 by HRC Resolution 6/36."
+    },
+    {
+      "name": "Special Rapporteur on the Rights of Indigenous Peoples (SRRIP)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/special-procedures/sr-indigenous-peoples",
+      "role": "Formal Human Rights Council Special Rapporteur on the Rights of Indigenous Peoples body established 24 April 2001 — currently José Francisco Calí Tzay 2020-2025+ framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Department of Economic and Social Affairs DESA Indigenous Peoples Unit",
+      "url": "https://www.un.org/development/desa/indigenouspeoples/",
+      "role": "UNDRIP implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNDRIP-related communications operate via state-state framework via UN General Assembly + UNPFII + EMRIP + SRRIP; individual communications limited under UNDRIP framework + formal anonymisation convention under Indigenous Peoples organization protocols.",
+  "key_developments": [
+    {
+      "year": 1989,
+      "title": "ILO Convention 169",
+      "description": "ILO Convention 169 on Indigenous and Tribal Peoples adopted 27 June 1989 + effective 5 September 1991 — predecessor framework to UNDRIP + only modern global supranational binding-treaty framework on Indigenous Peoples."
+    },
+    {
+      "year": 2000,
+      "title": "UNPFII established",
+      "description": "UN Permanent Forum on Indigenous Issues UNPFII established 28 July 2000 by UN ECOSOC Resolution 2000/22 — formal first UN agency with Indigenous Peoples expert members framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "SRRIP Special Rapporteur on the Rights of Indigenous Peoples established",
+      "description": "Special Rapporteur on the Rights of Indigenous Peoples SRRIP established 24 April 2001 by UN Commission on Human Rights Resolution 2001/57 — formal SRRIP framework operational."
+    },
+    {
+      "year": 2007,
+      "title": "UNDRIP adopted + EMRIP established",
+      "description": "UNDRIP adopted 13 September 2007 by UN General Assembly Resolution 61/295 — 144 in favour + 4 against US + Canada + Australia + New Zealand + 11 abstentions + EMRIP established 14 December 2007 by HRC Resolution 6/36 — formal foundational UNDRIP + EMRIP framework operational."
+    },
+    {
+      "year": 2009,
+      "title": "Australia reverses-against-UNDRIP",
+      "description": "Australia reversed against-position on UNDRIP 3 April 2009 — formal Australia-reversed-UNDRIP framework operational."
+    },
+    {
+      "year": 2010,
+      "title": "New Zealand + Canada + US reverse-against-UNDRIP",
+      "description": "New Zealand reversed 19 April 2010 + Canada reversed 12 November 2010 + United States reversed 16 December 2010 — formal four-against-states-all-reversed-position framework operational."
+    },
+    {
+      "year": 2014,
+      "title": "World Conference on Indigenous Peoples",
+      "description": "World Conference on Indigenous Peoples held 22-23 September 2014 in New York + Outcome Document adopted 22 September 2014 — formal World Conference on Indigenous Peoples framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Canada UNDRIP Act + Indian Residential Schools mass-graves revelations",
+      "description": "Canada Bill C-15 United Nations Declaration on the Rights of Indigenous Peoples Act adopted 21 June 2021 + Indian Residential Schools mass-graves revelations 2021 framework — formal Canada UNDRIP Act + IRS-mass-graves framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "UNDRIP 15th anniversary + UN International Decade of Indigenous Languages 2022-2032",
+      "description": "UNDRIP 15th anniversary commemorated 13 September 2022 + UN International Decade of Indigenous Languages 2022-2032 launched — formal UNDRIP 15th anniversary + Indigenous Languages Decade framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Trudeau UNDRIP Action Plan + Australia Voice referendum rejection",
+      "description": "Trudeau UNDRIP Action Plan adopted 21 June 2023 + Australia Voice to Parliament referendum rejected 14 October 2023 — formal Trudeau-UNDRIP-Action-Plan + Australia-Voice-rejection framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNDRIP operates a supranational global framework — places UNDRIP in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-indigenous-peoples-rights framework + foundational Indigenous-rights framework alongside ILO Convention 169 framework is structurally distinctive globally — only modern global supranational framework operating on formal international-indigenous-peoples-rights framework + foundational Indigenous-rights framework alongside ILO Convention 169 + only modern global supranational framework operating formal Free Prior and Informed Consent FPIC framework + only modern global supranational framework operating formal Indigenous-Self-Determination framework + only modern global supranational framework operating formal Indigenous-Family + Children framework + only modern global supranational framework operating formal four-against-states-all-reversed-position 2009-2010 framework + only modern global supranational framework operating formal Canada-Bill-C-15-UNDRIP-Act 2021 framework + only modern global supranational framework operating formal Australia-Voice-rejection 2023 framework + only modern global supranational framework operating formal Trudeau-UNDRIP-Action-Plan 2023 framework + only modern global supranational framework operating formal Indigenous Peoples Special Rapporteur framework + only modern global supranational framework operating formal UNDRIP-15th-anniversary 2022 + 20th-anniversary 2027 framework.",
+    "Central jurisdiction of formal UNDRIP Free Prior and Informed Consent FPIC framework is structurally distinctive globally — only modern global supranational framework operating formal Free Prior and Informed Consent FPIC framework + only modern global supranational framework operating formal Indigenous-veto framework over Indigenous-Lands + Resources + Cultural-Property framework.",
+    "Central jurisdiction of formal UNDRIP Indigenous Self-Determination + Indigenous Family + Children framework is structurally distinctive globally — only modern global supranational framework operating formal Indigenous-Self-Determination framework + only modern global supranational framework operating formal Indigenous-Family + Children + Sixties-Scoop-redress framework.",
+    "Central jurisdiction of formal Four-against-states-all-reversed-position framework is structurally distinctive globally — only modern global supranational framework operating formal Four-against-states-all-reversed-position framework.",
+    "193 UN member state ratification framework + Indigenous Peoples organizations + national-level Indigenous self-government frameworks is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1989 ILO 169 + 2000 UNPFII + 2001 SRRIP + 2007 UNDRIP + EMRIP + 2009-2010 four-against-states-reversed + 2014 World Conference + 2021 Canada UNDRIP Act + IRS-mass-graves + 2022 15th anniversary + Indigenous Languages Decade + 2023 Trudeau Action Plan + Australia Voice rejection UNDRIP-framework-development sequence is structurally distinctive globally.",
+    "UNDRIP + ILO 169 + UNPFII + EMRIP + SRRIP + FPIC + Indigenous Self-Determination + Indigenous Family + Children formal octet framework with formal Indigenous cross-border-family-rights + Sixties-Scoop + Indian Residential Schools-redress + Indigenous-Family-Court-Jurisdiction + Indigenous-Custom-Adoption PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:ilo-constitution",
+    "jurisdiction:canada",
+    "jurisdiction:australia",
+    "jurisdiction:new-zealand",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UN Indigenous Peoples",
+      "url": "https://www.un.org/development/desa/indigenouspeoples/",
+      "publisher": "UN DESA Indigenous Peoples Unit",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNDRIP jurisdiction sidecar — supranational global international-indigenous-peoples-rights foundational-UNDRIP meta-framework (UNDRIP 2007 Resolution 61/295 + Article 3 + Articles 19 + 32 FPIC + Articles 14 + 17 + 22 + ILO Convention 169 1989/1991 + UNPFII 2000 + EMRIP 2007 + SRRIP 2001 + Canada UNDRIP Act 2021 + 2009-2010 four-against-states-reversed + 2014 World Conference + 2021 IRS-mass-graves + 2022 15th anniversary + 2023 Trudeau Action Plan + Australia Voice rejection). Only modern global supranational framework operating on formal international-indigenous-peoples-rights framework + foundational Indigenous-rights framework alongside ILO Convention 169 + only modern global supranational framework operating formal Free Prior and Informed Consent FPIC framework + only modern global supranational framework operating formal Indigenous-Self-Determination framework + only modern global supranational framework operating formal Indigenous-Family + Children framework + only modern global supranational framework operating formal four-against-states-all-reversed-position 2009-2010 + only modern global supranational framework operating formal Canada-Bill-C-15-UNDRIP-Act 2021 + only modern global supranational framework operating formal Australia-Voice-rejection 2023 + only modern global supranational framework operating formal Trudeau-UNDRIP-Action-Plan 2023 + only modern global supranational framework operating formal Indigenous Peoples Special Rapporteur + only modern global supranational framework operating formal UNDRIP-15th-anniversary 2022 + 20th-anniversary 2027 + central jurisdiction of formal FPIC + Indigenous-veto over Indigenous-Lands + Resources + Cultural-Property + central jurisdiction of formal Indigenous-Self-Determination + Indigenous-Family + Children + Sixties-Scoop-redress + central jurisdiction of formal Four-against-states-all-reversed-position + 193 UN member states + UNPFII New York + EMRIP Geneva + SRRIP Geneva + SRRIP José Francisco Calí Tzay 2020-2025 + 1989 ILO 169 + 2000 UNPFII + 2001 SRRIP + 2007 UNDRIP + EMRIP + 2009-2010 four-against-states-reversed + 2014 World Conference + 2021 Canada UNDRIP Act + IRS-mass-graves + 2022 15th anniversary + Indigenous Languages Decade 2022-2032 + 2023 Trudeau Action Plan + Australia Voice rejection UNDRIP-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNDRIP Article 14 + Article 17 + Article 22 framework operates substantial intersection with parental-alienation framework via formal Indigenous cross-border-family-rights framework + Sixties-Scoop + Indian Residential Schools-redress framework + Indigenous-Family-Court-Jurisdiction framework + Indigenous-Custom-Adoption framework.",
+    "Joins global + supranational + international-indigenous-peoples-rights-foundational-UNDRIP cluster + UNDRIP-only-global-supranational-framework-on-international-indigenous-peoples-rights-globally-distinctive + foundational-Indigenous-rights-alongside-ILO-169 + Free-Prior-and-Informed-Consent-FPIC-Article-19-Article-32 + Indigenous-Self-Determination-Article-3 + Indigenous-Family-Article-17-Article-22 + Indigenous-Education-Article-14 + Indigenous-veto-over-Lands-Resources-Cultural-Property + four-against-states-all-reversed-position-2009-Australia-2010-NZ-2010-Canada-2010-US + Canada-Bill-C-15-UNDRIP-Act-2021 + Trudeau-UNDRIP-Action-Plan-2023 + Australia-Voice-to-Parliament-referendum-rejection-October-2023 + Indian-Residential-Schools-IRS-mass-graves-2021 + Sixties-Scoop-redress + UNPFII-2000-New-York-first-UN-Indigenous-Peoples-expert-members + EMRIP-2007-Geneva + SRRIP-2001-Geneva-José-Francisco-Calí-Tzay + ILO-Convention-169-1989-1991-only-binding-treaty-Indigenous-Peoples-24-ratifications + 144-in-favour-2007 + 11-abstentions + UNDRIP-15th-anniversary-2022 + Indigenous-Languages-Decade-2022-2032 + 2014-World-Conference-on-Indigenous-Peoples + Indigenous-cross-border-family-rights-PA-intersection + Indigenous-Family-Court-Jurisdiction-PA-intersection + Indigenous-Custom-Adoption-PA-intersection clusters within the corpus."
+  ]
+}

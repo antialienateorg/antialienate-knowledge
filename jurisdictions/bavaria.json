@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "id": "bavaria",
+  "name": "Bavaria / Freistaat Bayern (Free State of Bavaria)",
+  "jurisdiction_code": "DE-BY",
+  "legal_system": "civil-law",
+  "language": ["de", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Bavaria (German: Freistaat Bayern 'Free State of Bavaria') is a Southern German civil-law constituent Land of the Federal Republic of Germany — structurally distinctive globally as the largest German Land by area (~70,550 km² — ~19.7% of German land area, largest of all 16 German Länder), as one of three German Länder operating formal 'Free State' (Freistaat) designation (Bavaria + Saxony + Thuringia — historical Free State designation deriving from post-WWI Weimar Republic 1918 abolition of constitutional monarchy framework + post-1945 Bavarian Constitution 1946 re-adoption, distinct from rest-of-German-Länder which operate Land designation), as the central jurisdiction of the most distinctive modern German sub-national constitutional framework operating without ratification of Federal Basic Law 1949 (Bavarian Landtag refused to ratify Federal Basic Law of Germany 8 May 1949 with vote 101-63-9 abstentions — Bavaria continues to operate under Federal Basic Law via the German Federal Constitutional Court's 1959 'Solange I' framework recognising Basic Law applicability despite Bavarian non-ratification, only German Land with formal constitutional non-ratification framework), and as the central jurisdiction of one of the most distinctive modern German sub-national cultural-political-identity frameworks (Bavarian cultural-political-identity framework — Bayernpartei + Christlich-Soziale Union CSU Bavarian-exclusive federal political party, formal Bavarian dialect + Lederhosen + Oktoberfest + Maximilianeum + Bayerische Verfassung 1946 framework, distinct from rest-of-Germany's cultural-political-identity framework). Bavaria operated under the Kingdom of Bavaria 1806-1918 + Free State of Bavaria 1918-1933 + Nazi German Gau-system 1933-1945 + post-1945 American Zone of Occupation 1945-1949 + Bavarian Constitution 1946 + Federal Republic of Germany 1949+. Bavaria comprises ~70,550 km² with a population of ~13.4 million. Family-law framework operates under the federal German civil-law framework (Bürgerliches Gesetzbuch BGB 1896 Family Law portion + German Family-Law Reform Act 2024) applied uniformly across German Länder. The Bavarian Oberlandesgericht is the apex regional court; final appellate jurisdiction lies with the Federal Court of Justice of Germany (Bundesgerichtshof). Bavaria is silent on 'parental alienation' as a statutory label. Germany is a Hague Convention 1980 signatory and party (acceded 27 September 1990 effective 1 December 1990) — Bavaria is governed by German Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Bavarian Constitution 1946 (Verfassung des Freistaates Bayern)",
+      "title": "Bavarian Constitution 1946",
+      "year": 1946,
+      "url": "https://www.bayern.de/",
+      "relevance": "Bavarian Constitution adopted 2 December 1946 — formal post-WWII constitutional framework for Free State of Bavaria, preceding Federal Basic Law of Germany 1949."
+    },
+    {
+      "citation": "Federal Basic Law of Germany 1949 (Grundgesetz)",
+      "title": "Federal Basic Law of Germany",
+      "year": 1949,
+      "url": "https://www.bundestag.de/",
+      "relevance": "German Federal Basic Law adopted 8 May 1949 — Bavarian Landtag refused to ratify Federal Basic Law (vote 101-63-9 abstentions), but Bavaria continues to operate under Federal Basic Law via Federal Constitutional Court's 1959 'Solange I' framework."
+    },
+    {
+      "citation": "German Civil Code 1896 (Bürgerliches Gesetzbuch BGB)",
+      "title": "German Civil Code BGB",
+      "year": 1896,
+      "url": "https://www.gesetze-im-internet.de/",
+      "relevance": "German Federal Civil Code 1896 Family Law portion applicable uniformly across Bavaria."
+    },
+    {
+      "citation": "German Family-Law Reform Act 2024",
+      "title": "German Family-Law Reform Act",
+      "year": 2024,
+      "url": "https://www.bmj.de/",
+      "relevance": "German Federal Family-Law Reform Act 2024 — federal family-law framework applicable uniformly across Bavaria."
+    },
+    {
+      "citation": "Hague Convention 1980 — German accession 27 September 1990",
+      "title": "Hague Convention 1980 — Germany",
+      "year": 1990,
+      "url": "https://www.hcch.net/",
+      "relevance": "German Hague Convention 1980 accession 27 September 1990 effective 1 December 1990 — applicable to Bavaria."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Bavarian Oberlandesgericht (Bayerisches Oberstes Landesgericht)",
+      "seat": "Munich",
+      "url": "https://www.justiz.bayern.de/",
+      "role": "Apex regional appellate court for civil and criminal matters from Bavaria."
+    },
+    {
+      "name": "Federal Court of Justice of Germany (Bundesgerichtshof BGH)",
+      "seat": "Karlsruhe",
+      "url": "https://www.bundesgerichtshof.de/",
+      "role": "Final appellate court for civil and criminal matters from Bavaria."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "German Medical Association (Bundesärztekammer)",
+      "url": "https://www.bundesaerztekammer.de/",
+      "role": "German Federal professional regulatory framework applicable in Bavaria."
+    }
+  ],
+  "anonymisation_convention": "Bavaria family-court decisions are anonymised per German court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1806,
+      "title": "Kingdom of Bavaria founded",
+      "description": "Kingdom of Bavaria founded 1 January 1806 — beginning of formal Bavarian constitutional monarchy framework 1806-1918."
+    },
+    {
+      "year": 1918,
+      "title": "Bavarian monarchy abolished + Free State of Bavaria",
+      "description": "Bavarian Revolution 7-8 November 1918 — abolition of Bavarian constitutional monarchy + proclamation of Free State of Bavaria 8 November 1918."
+    },
+    {
+      "year": 1933,
+      "title": "Nazi German Gau-system + suspension of Bavarian framework",
+      "description": "Nazi German Gleichschaltung 1933 — suspension of Bavarian constitutional framework via Gau-system 1933-1945."
+    },
+    {
+      "year": 1946,
+      "title": "Bavarian Constitution adopted",
+      "description": "Bavarian Constitution adopted 2 December 1946 — formal post-WWII constitutional framework for Free State of Bavaria."
+    },
+    {
+      "year": 1949,
+      "title": "Bavarian non-ratification of Federal Basic Law",
+      "description": "Bavarian Landtag refused to ratify Federal Basic Law of Germany 8 May 1949 with vote 101-63-9 abstentions — only German Land with formal constitutional non-ratification framework."
+    },
+    {
+      "year": 1990,
+      "title": "German reunification + Bavarian framework continuity",
+      "description": "German reunification 3 October 1990 — Bavarian framework continuity within reunified German Federal Republic."
+    },
+    {
+      "year": 2024,
+      "title": "German Family-Law Reform Act",
+      "description": "German Federal Family-Law Reform Act 2024 — federal family-law framework applicable uniformly across Bavaria."
+    }
+  ],
+  "structural_findings": [
+    "Bavaria operates a federal German civil-law constituent Land framework — places Bavaria in the Southern German Land cluster.",
+    "Largest German Land by area (~70,550 km² / ~19.7% of German land area) is structurally distinctive within German Land cluster — largest of all 16 German Länder.",
+    "One of three German Länder operating formal 'Free State' (Freistaat) designation is structurally distinctive within German Land cluster — Bavaria + Saxony + Thuringia.",
+    "Central jurisdiction of most distinctive modern German sub-national constitutional framework operating without ratification of Federal Basic Law 1949 is structurally distinctive globally — only German Land with formal constitutional non-ratification framework.",
+    "Central jurisdiction of one of most distinctive modern German sub-national cultural-political-identity frameworks is structurally distinctive globally — Bayernpartei + CSU Bavarian-exclusive federal political party + formal Bavarian cultural-political-identity framework.",
+    "Kingdom of Bavaria 1806-1918 historical framework is structurally distinctive globally — only German Land with continuous Kingdom-of-Bavaria historical lineage.",
+    "1918 Bavarian Revolution + Free State proclamation framework is structurally distinctive globally.",
+    "German Hague-Convention-1980-accession-1990 framework applies."
+  ],
+  "references": [
+    "jurisdiction:germany",
+    "jurisdiction:austria",
+    "jurisdiction:switzerland",
+    "jurisdiction:czech-republic",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Bayerische Staatsregierung (Bavarian State Government)",
+      "url": "https://www.bayern.de/",
+      "publisher": "Bavarian State Government",
+      "language": "de"
+    },
+    {
+      "title": "Bayerischer Landtag (Bavarian Parliament)",
+      "url": "https://www.bayern.landtag.de/",
+      "publisher": "Bavarian State Government",
+      "language": "de"
+    }
+  ],
+  "editorial_notes": [
+    "Bavaria jurisdiction sidecar — civil-law Southern German constituent Land (Bavarian Constitution 1946 + Federal Basic Law of Germany 1949 (non-ratified) + German Civil Code BGB 1896 + German Family-Law Reform Act 2024 + Kingdom of Bavaria 1806-1918 + Bavarian Revolution 1918 + Free State of Bavaria 1918+ + Nazi German Gleichschaltung 1933-1945 + post-1945 American Zone of Occupation + 1990 German reunification + German Hague-1980). Largest German Land by area + one of three German Länder operating formal Free State designation + central jurisdiction of most distinctive modern German sub-national constitutional framework operating without ratification of Federal Basic Law globally + central jurisdiction of one of most distinctive modern German sub-national cultural-political-identity frameworks + Kingdom of Bavaria 1806-1918 + 1918 Bavarian Revolution.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southern-German + civil-law + German-Land cluster + Free-State-of-Bavaria-Freistaat-designation + largest-German-Land-by-area + Bavarian-non-ratification-of-Federal-Basic-Law-1949-globally-distinctive + Kingdom-of-Bavaria-1806-1918 + Bavarian-Revolution-1918 + CSU-Bavarian-exclusive-federal-political-party + Bavarian-Constitution-1946 + German-Hague-1980-1990 clusters within the corpus."
+  ]
+}

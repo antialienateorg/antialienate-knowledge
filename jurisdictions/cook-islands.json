@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "cook-islands",
+  "name": "Cook Islands (Kūki 'Āirani)",
+  "jurisdiction_code": "CK",
+  "legal_system": "common-law",
+  "language": ["en", "rar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Cook Islands is a Pacific Island common-law self-governing state in free association with New Zealand — structurally distinctive globally as the only Cook Islands-status free-association state with New Zealand. Family-law framework operates under the Cook Islands Act 1915 (NZ) (parts retained at self-government), the Matrimonial Property Act 1991-92, the Family Law Act 2005, and the Crimes Act 1969 family-protection provisions. Cook Islands retained NZ citizenship for Cook Islanders and certain UK/NZ statutes in force at 1965 self-government. Parental responsibility and child custody are governed by Family Law Act 2005 and case-law applying the welfare-of-the-child principle. The High Court of the Cook Islands is the apex domestic court for civil and criminal matters; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. The Maori Land Court / Land Division operates parallel customary-land jurisdiction. Family-law matters are heard at first instance in the High Court (Civil Division) and Justice of the Peace Courts. Psychology profession is regulated through the Ministry of Health framework. Cook Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Cook Islands is non-Hague Convention — Hague Convention 1980 does not apply via New Zealand territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law Act 2005",
+      "title": "Family Law Act",
+      "year": 2005,
+      "url": "https://www.cookislands.gov.ck/",
+      "relevance": "Federal Family Law Act codifying parental responsibility, custody, divorce, and family-law procedural framework."
+    },
+    {
+      "citation": "Matrimonial Property Act 1991-92",
+      "title": "Matrimonial Property Act",
+      "year": 1991,
+      "url": "https://www.cookislands.gov.ck/",
+      "relevance": "Federal statute on matrimonial property division on divorce."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of the Cook Islands",
+      "seat": "Avarua",
+      "url": "https://www.justice.gov.ck/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Cook Islands."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Cook Islands",
+      "url": "https://www.health.gov.ck/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Cook Islands family-court decisions are anonymised per High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1915,
+      "title": "Cook Islands Act 1915 (NZ)",
+      "description": "Cook Islands Act enacted by New Zealand establishing administrative framework — parts retained at 1965 self-government."
+    },
+    {
+      "year": 1965,
+      "title": "Self-government in free association with New Zealand",
+      "description": "Cook Islands achieved self-government in free association with New Zealand — distinctive globally as Cook Islands free-association status."
+    },
+    {
+      "year": 2005,
+      "title": "Family Law Act 2005",
+      "description": "Federal Family Law Act enacted codifying parental responsibility, custody, divorce, and family-law procedural framework."
+    }
+  ],
+  "structural_findings": [
+    "Cook Islands operates a common-law framework — places Cook Islands in the Pacific Island common-law cluster.",
+    "Cook Islands free-association status with New Zealand is structurally distinctive globally — only state with this specific Cook Islands-free-association status in the corpus.",
+    "Maori Land Court / Land Division parallel customary-land jurisdiction is structurally distinctive within the Pacific cluster.",
+    "Non-Hague Convention status (Hague does not apply via NZ territorial extension) is structurally distinctive — Cook Islands has independent treaty-making capacity but has not acceded to Hague."
+  ],
+  "references": [
+    "jurisdiction:new-zealand",
+    "jurisdiction:samoa",
+    "jurisdiction:niue",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice, Cook Islands",
+      "url": "https://www.justice.gov.ck/",
+      "publisher": "Ministry of Justice",
+      "language": "en,rar"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "Government of the Cook Islands",
+      "url": "https://www.cookislands.gov.ck/",
+      "publisher": "Government",
+      "language": "en,rar"
+    }
+  ],
+  "editorial_notes": [
+    "Cook Islands jurisdiction sidecar — common-law Pacific Island free-association state (Family Law Act 2005 + Cook Islands Act 1915 NZ-retention + Maori Land Court + JCPC final-appellate + non-Hague Convention). Only Cook Islands free-association state globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + Cook-Islands-free-association-globally-distinctive cluster + JCPC-final-appellate + Maori-Land-Court-parallel-jurisdiction + non-Hague Convention clusters within the corpus."
+  ]
+}

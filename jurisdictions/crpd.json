@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "id": "crpd",
+  "name": "UN Convention on the Rights of Persons with Disabilities (CRPD)",
+  "jurisdiction_code": "CRP",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The UN Convention on the Rights of Persons with Disabilities (CRPD) is a global supranational meta-framework disability-rights binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on disability-rights framework (CRPD adopted 13 December 2006 by UN General Assembly Resolution 61/106 + effective 3 May 2008 — formal universal multilateral binding-treaty framework establishing comprehensive disability-rights framework, distinct from rest-of-modern-international-children's-rights frameworks which operate on broader best-interests + general-children's-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-disability-rights-specific framework + 21st-century-adopted UN human rights treaty framework), as the second-most-widely-adopted UN human-rights treaty framework after UN Convention on the Rights of the Child UNCRC 1989 (CRPD has 192 state parties as of 2026 — second-most-widely-adopted UN human-rights treaty after UNCRC 196 state parties, ahead of CEDAW 189 state parties + UNCAT 173 state parties + ICCPR 174 state parties + ICESCR 173 state parties, structurally distinctive globally as the second-most-widely-adopted UN human-rights treaty), as the central jurisdiction of one of the most distinctive modern disability-rights elaboration frameworks globally (Convention Article 23 framework on respect for home and the family + Article 24 framework on education + Article 25 framework on health + Article 30 framework on participation in cultural life — formal comprehensive disability-rights framework, distinct from rest-of-modern-international-disability frameworks operating on broader equal-treatment or accessibility frameworks without formal Article 23 framework on respect for home and the family), and as the central jurisdiction of the formal CRPD Optional Protocol individual communications framework (CRPD Optional Protocol adopted 13 December 2006 + effective 3 May 2008 — formal individual communications framework via CRPD Committee, applicable to 105 state parties as of 2026, with CRPD Committee individual communications framework documenting parental-rights-of-persons-with-disabilities framework + child-protection-framework-of-children-with-disabilities framework). The CRPD is binding upon 192 state parties as of 2026 — universal coverage except United States + Russia + Hungary + Marshall Islands. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 23 framework on respect for home and the family operates significant intersection with parental-rights framework. The CRPD Committee is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The CRPD is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention on the Rights of Persons with Disabilities 2006",
+      "title": "CRPD",
+      "year": 2008,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Rights of Persons with Disabilities adopted 13 December 2006 by UN General Assembly Resolution 61/106 + effective 3 May 2008 — formal universal multilateral binding-treaty framework establishing comprehensive disability-rights framework."
+    },
+    {
+      "citation": "CRPD Optional Protocol 2006",
+      "title": "CRPD Optional Protocol",
+      "year": 2008,
+      "url": "https://www.un.org/",
+      "relevance": "CRPD Optional Protocol adopted 13 December 2006 + effective 3 May 2008 — formal CRPD Committee individual communications framework."
+    },
+    {
+      "citation": "CRPD Article 23 (Respect for Home and the Family)",
+      "title": "CRPD Article 23",
+      "year": 2008,
+      "url": "https://www.un.org/",
+      "relevance": "CRPD Article 23 framework on respect for home and the family — formal disability-rights framework operating significant intersection with parental-rights framework for persons with disabilities."
+    },
+    {
+      "citation": "CRPD Committee General Comment 1 2014 (Equal Recognition Before the Law)",
+      "title": "CRPD General Comment 1",
+      "year": 2014,
+      "url": "https://www.ohchr.org/",
+      "relevance": "CRPD Committee General Comment 1 of 11 April 2014 on Article 12 Equal Recognition Before the Law — formal CRPD framework on legal-capacity-of-persons-with-disabilities framework, relevant to parental-legal-capacity framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "CRPD Committee",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/crpd",
+      "role": "Apex monitoring framework body for CRPD."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "CRPD implementation framework."
+    }
+  ],
+  "anonymisation_convention": "CRPD-related individual communications are anonymised per CRPD Committee practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "Universal Declaration of Human Rights",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 by UN General Assembly — universal framework underlying CRPD."
+    },
+    {
+      "year": 1971,
+      "title": "Declaration on the Rights of Mentally Retarded Persons",
+      "description": "UN Declaration on the Rights of Mentally Retarded Persons adopted 1971 — earliest formal UN framework on disability-rights."
+    },
+    {
+      "year": 1975,
+      "title": "Declaration on the Rights of Disabled Persons",
+      "description": "UN Declaration on the Rights of Disabled Persons adopted 1975 — formal UN framework on disability-rights."
+    },
+    {
+      "year": 1993,
+      "title": "Standard Rules on the Equalization of Opportunities for Persons with Disabilities",
+      "description": "UN Standard Rules on the Equalization of Opportunities for Persons with Disabilities adopted 20 December 1993 — predecessor framework to CRPD."
+    },
+    {
+      "year": 2006,
+      "title": "CRPD adopted",
+      "description": "UN Convention on the Rights of Persons with Disabilities adopted 13 December 2006 by UN General Assembly Resolution 61/106 — formal universal multilateral binding-treaty framework establishing comprehensive disability-rights framework."
+    },
+    {
+      "year": 2008,
+      "title": "CRPD enters force",
+      "description": "UN Convention on the Rights of Persons with Disabilities entered force 3 May 2008 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2014,
+      "title": "CRPD General Comment 1 (Equal Recognition Before the Law)",
+      "description": "CRPD Committee General Comment 1 of 11 April 2014 on Article 12 Equal Recognition Before the Law — formal CRPD framework on legal-capacity-of-persons-with-disabilities framework."
+    }
+  ],
+  "structural_findings": [
+    "CRPD operates a supranational universal multilateral binding-treaty framework — places CRPD in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on disability-rights framework is structurally distinctive globally — formal-disability-rights-specific framework.",
+    "Second-most-widely-adopted UN human-rights treaty framework after UNCRC is structurally distinctive globally — CRPD has 192 state parties as of 2026.",
+    "Central jurisdiction of one of most distinctive modern disability-rights elaboration frameworks globally is structurally distinctive globally — Convention Article 23 + 24 + 25 + 30 frameworks.",
+    "Central jurisdiction of formal CRPD Optional Protocol individual communications framework is structurally distinctive globally — formal individual communications framework via CRPD Committee.",
+    "1971 + 1975 + 1993 UN soft-law-framework + 2006 CRPD + 2008 entry into force disability-rights-framework-development sequence is structurally distinctive globally.",
+    "21st-century-adopted UN human rights treaty framework is structurally distinctive globally — first major UN human rights treaty framework adopted in 21st century.",
+    "Article 23 framework on respect for home and the family operates significant intersection with parental-rights framework for persons with disabilities."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — CRPD",
+      "url": "https://www.ohchr.org/en/treaty-bodies/crpd",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "CRPD jurisdiction sidecar — supranational global disability-rights universal multilateral binding-treaty meta-framework (CRPD 2006/2008 + CRPD Optional Protocol 2006/2008 + CRPD General Comment 1 2014 + UN Standard Rules 1993 + UN Declaration 1975). Only modern universal multilateral binding-treaty framework operating specifically on disability-rights framework globally + second-most-widely-adopted UN human-rights treaty framework after UNCRC + central jurisdiction of one of most distinctive modern disability-rights elaboration frameworks globally + central jurisdiction of formal CRPD Optional Protocol individual communications framework + 1971 + 1975 + 1993 UN soft-law-framework + 2006 CRPD + 2008 entry into force disability-rights-framework-development sequence + 21st-century-adopted UN human rights treaty framework first major UN human rights treaty framework adopted in 21st century + Article 23 framework on respect for home and the family operates significant intersection with parental-rights framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + universal-multilateral-disability-rights-binding-treaty cluster + CRPD-only-universal-disability-rights-binding-treaty-globally-distinctive + CRPD-Article-23-respect-for-home-and-family + CRPD-Article-12-equal-recognition-before-the-law + 192-state-party-ratification-second-most-widely-adopted-UN-human-rights-treaty + CRPD-Optional-Protocol-individual-communications + CRPD-General-Comment-1-2014 + 21st-century-adopted-UN-human-rights-treaty + UNCRC-CEDAW-CRPD-three-most-widely-adopted-UN-human-rights-treaties clusters within the corpus."
+  ]
+}

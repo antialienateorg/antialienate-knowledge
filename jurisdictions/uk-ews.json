@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "id": "uk-ews",
+  "name": "United Kingdom — England and Wales (alias for england-and-wales)",
+  "jurisdiction_code": "GB-EAW",
+  "legal_system": "common-law",
+  "language": ["en", "cy"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Alias entry for the unified England-and-Wales jurisdiction. Substantive content is carried by jurisdiction:england-and-wales. This stub resolves backwards-compatible refs from existing files that use the abbreviation 'uk-ews'. See jurisdiction:england-and-wales for full substantive coverage of Children Act 1989, Family Procedure Rules 2010, English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026), Cafcass + HCPC institutional architecture.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "recognition",
+    "professional_regulator_position": "varies-by-region"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Act 1989 + Children and Families Act 2014 + Family Procedure Rules 2010",
+      "title": "E&W substantive children-law statutory frame (see jurisdiction:england-and-wales)",
+      "year": 1989,
+      "url": "https://www.legislation.gov.uk/ukpga/1989/41",
+      "relevance": "Substantive content carried by jurisdiction:england-and-wales."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "England and Wales judicial hierarchy",
+      "url": "https://www.judiciary.uk/",
+      "key_decisions": [
+        {
+          "caption": "Re Y [2026] EWFC 38 (McFarlane P) + English Re-arc — see jurisdiction:england-and-wales.",
+          "case_study_ref": "re-y-2026-ewfc-38",
+          "year": 2026,
+          "stance": "recognition"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "HCPC + Cafcass + BPS",
+      "url": "https://www.hcpc-uk.org/",
+      "position_statement": "See jurisdiction:england-and-wales for substantive regulatory coverage."
+    }
+  ],
+  "anonymisation_convention": "See jurisdiction:england-and-wales for anonymisation conventions.",
+  "key_developments": [
+    {
+      "year": 2026,
+      "description": "Re Y [2026] EWFC 38 — apex evaluator-quality decision. See jurisdiction:england-and-wales.",
+      "url": "https://www.bailii.org/ew/cases/EWFC/2026/"
+    }
+  ],
+  "structural_findings": [
+    "ALIAS ENTRY: 'uk-ews' is a legacy abbreviation alias for the unified 'england-and-wales' jurisdiction. Substantive content is carried by jurisdiction:england-and-wales."
+  ],
+  "references": [
+    "jurisdiction:england-and-wales",
+    "jurisdiction:united-kingdom",
+    "case-study:re-y-2026-ewfc-38"
+  ],
+  "sources": [
+    {
+      "title": "See jurisdiction:england-and-wales",
+      "url": "https://www.legislation.gov.uk/",
+      "publisher": "UK Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Alias jurisdiction entry — resolves legacy 'uk-ews' refs.",
+    "All substantive content carried by jurisdiction:england-and-wales."
+  ]
+}

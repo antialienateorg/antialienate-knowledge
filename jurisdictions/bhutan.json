@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "bhutan",
+  "name": "Bhutan (Kingdom of Bhutan / འབྲུག་རྒྱལ་ཁབ་)",
+  "jurisdiction_code": "BT",
+  "legal_system": "mixed",
+  "language": ["dz"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Bhutan is a South Asian mixed-legal-system constitutional monarchy combining Buddhist customary-law substantive heritage (drawing on Driglam Namzha cultural codification and the historical Tsa Yig legal tradition) with English common-law procedural inheritance. Bhutan is structurally distinctive globally — only Mahayana Buddhist constitutional-monarchy jurisdiction in the corpus, and the only state pursuing the Gross National Happiness (GNH) framework as constitutional policy. Family-law framework operates under the Marriage Act 1980 (revised 1996), the Inheritance Act 1980, the Child Care and Protection Act 2011, and the Domestic Violence Prevention Act 2013. Parental responsibility and child custody are governed by Child Care and Protection Act and case-law applying the welfare-of-the-child principle. The Supreme Court of Bhutan is the apex court for civil and criminal matters; constitutional review jurisdiction lies with the Supreme Court. Family-law matters are heard at first instance in the District Courts (Dzongkhag Courts). Psychology profession is regulated through the Bhutan Medical and Health Council. Bhutan is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Bhutan is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Child Care and Protection Act 2011",
+      "title": "Child Care and Protection Act",
+      "year": 2011,
+      "url": "https://www.judiciary.gov.bt/",
+      "relevance": "Federal Child Care and Protection Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Marriage Act 1980 (revised 1996)",
+      "title": "Marriage Act",
+      "year": 1980,
+      "url": "https://www.judiciary.gov.bt/",
+      "relevance": "Federal statute on marriage. Revised 1996."
+    },
+    {
+      "citation": "Domestic Violence Prevention Act 2013",
+      "title": "Domestic Violence Prevention Act",
+      "year": 2013,
+      "url": "https://www.judiciary.gov.bt/",
+      "relevance": "Federal statute on domestic violence prevention affecting family-law proceedings."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Bhutan",
+      "seat": "Thimphu",
+      "url": "https://www.judiciary.gov.bt/",
+      "role": "Apex court for civil and criminal matters; constitutional review jurisdiction within Supreme Court."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Bhutan Medical and Health Council",
+      "url": "https://www.bmhc.gov.bt/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Bhutanese family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1980,
+      "title": "Marriage Act 1980 + Inheritance Act 1980",
+      "description": "Federal Marriage and Inheritance Acts enacted under Drukgyalpo (King) Jigme Singye Wangchuck reign."
+    },
+    {
+      "year": 2008,
+      "title": "Constitutional monarchy + Constitution",
+      "description": "Bhutan transitioned from absolute to constitutional monarchy; Constitution of the Kingdom of Bhutan adopted establishing GNH as constitutional policy framework."
+    },
+    {
+      "year": 2011,
+      "title": "Child Care and Protection Act",
+      "description": "Federal Child Care and Protection Act enacted codifying welfare-of-the-child principle and child-protection provisions."
+    },
+    {
+      "year": 2013,
+      "title": "Domestic Violence Prevention Act",
+      "description": "Federal statute on domestic violence prevention enacted."
+    }
+  ],
+  "structural_findings": [
+    "Bhutan operates a structurally distinctive globally Mahayana-Buddhist-influenced mixed-legal-system framework — Buddhist customary-law substantive (Driglam Namzha + Tsa Yig tradition) + English common-law procedural. Only Mahayana Buddhist constitutional-monarchy in the corpus.",
+    "Gross National Happiness (GNH) constitutional policy framework is structurally distinctive globally — only state with GNH as constitutional policy.",
+    "Constitutional-monarchy transition (2008) from absolute monarchy is structurally distinctive — rare voluntary transition pattern.",
+    "Non-Hague Convention status places Bhutan in the non-Hague South Asian cluster."
+  ],
+  "references": [
+    "jurisdiction:nepal",
+    "jurisdiction:india",
+    "jurisdiction:mongolia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Bhutan",
+      "url": "https://www.judiciary.gov.bt/",
+      "publisher": "Judiciary",
+      "language": "dz,en"
+    },
+    {
+      "title": "Bhutan Medical and Health Council",
+      "url": "https://www.bmhc.gov.bt/",
+      "publisher": "BMHC",
+      "language": "dz,en"
+    }
+  ],
+  "editorial_notes": [
+    "Bhutan jurisdiction sidecar — Mahayana-Buddhist-influenced mixed-legal-system Kingdom (Buddhist customary-law substantive + English common-law procedural + GNH constitutional policy + Child Care and Protection Act 2011 + Domestic Violence Prevention Act 2013 + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Asian + Mahayana-Buddhist-globally-distinctive cluster + GNH-constitutional-policy-globally-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

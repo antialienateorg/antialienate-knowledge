@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "id": "hong-kong",
+  "name": "Hong Kong Special Administrative Region",
+  "jurisdiction_code": "HK",
+  "legal_system": "common-law",
+  "language": ["en", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Hong Kong is a bilingual common-law jurisdiction within the People's Republic of China under the One Country Two Systems framework. Family-law architecture: Matrimonial Causes Ordinance (Cap. 179) + Matrimonial Proceedings and Property Ordinance (Cap. 192) + Guardianship of Minors Ordinance (Cap. 13) + Matrimonial Causes Rules (Cap. 179A) procedural. H v W [2021] HKCA 733 (Lam VP, Yuen JA, B Chu J) is the leading post-pandemic appellate authority engaging parental alienation as a welfare-factor ground of appeal alongside Social Investigation Report (SIR) and Single Joint Expert (SJE) evidence. The Hong Kong Council of Social Service (HKCSS) functions as institutional umbrella; the Family Court of the District Court is first-instance with appeals to the Court of Appeal of the High Court and Court of Final Appeal. The Law Reform Commission of Hong Kong (LRC) 2005 report on Custody and Access proposed a Parental Responsibility Model; the Children Proceedings (Parental Responsibility) Bill was first floated 2015 and revisited LegCo 2024.",
+  "pa_recognition_status": {
+    "statutory": "indirect-hook",
+    "apex_court_position": "middle",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Matrimonial Proceedings and Property Ordinance (Cap. 192)",
+      "title": "Matrimonial Proceedings and Property Ordinance — substantive matrimonial relief",
+      "year": 1972,
+      "url": "https://www.elegislation.gov.hk/hk/cap192",
+      "relevance": "Substantive Hong Kong matrimonial relief statute. Includes provisions on custody, care and control, access and welfare. The substantive hook under which PA-adjacent fact-patterns are litigated alongside the Guardianship of Minors Ordinance."
+    },
+    {
+      "citation": "Matrimonial Causes Ordinance (Cap. 179)",
+      "title": "Matrimonial Causes Ordinance — divorce jurisdiction",
+      "year": 1972,
+      "url": "https://www.elegislation.gov.hk/hk/cap179",
+      "relevance": "Substantive HK divorce jurisdiction statute. Operates alongside Cap. 192 for the substantive relief and Cap. 179A (Matrimonial Causes Rules) for procedural matters."
+    },
+    {
+      "citation": "Matrimonial Causes Rules (Cap. 179A)",
+      "title": "Matrimonial Causes Rules — procedural rules",
+      "year": 1973,
+      "url": "https://www.elegislation.gov.hk/hk/cap179A",
+      "relevance": "Procedural rules operating under Cap. 179. Establish the strict anonymisation convention for proceedings concerning children — 'H' (Husband/Father), 'W' (Wife/Mother), single-letter pseudonym for child."
+    },
+    {
+      "citation": "Guardianship of Minors Ordinance (Cap. 13)",
+      "title": "Guardianship of Minors Ordinance — welfare paramountcy",
+      "year": 1971,
+      "url": "https://www.elegislation.gov.hk/hk/cap13",
+      "relevance": "s.3 welfare paramountcy provision — 'in any proceedings before any court… the court… shall regard the best interests of the minor as the first and paramount consideration'. The substantive Hong Kong welfare standard against which PA-adjacent fact-patterns are decided."
+    },
+    {
+      "citation": "Family Court (Establishment) — Family Court of the District Court",
+      "title": "Family Court of the District Court — first-instance family forum",
+      "year": 1995,
+      "url": "https://www.judiciary.hk/en/about_us/family.html",
+      "relevance": "Family Court is the specialist family-law division of the District Court. First-instance forum for divorce, custody and access disputes. Appeals lie to the Court of Appeal of the High Court."
+    },
+    {
+      "citation": "Supplementary Legislation Bill — Children Proceedings (Parental Responsibility) Bill",
+      "title": "Children Proceedings (Parental Responsibility) Bill — proposed (first floated 2015; revisited 2024)",
+      "year": 2015,
+      "url": "https://www.legco.gov.hk/",
+      "relevance": "Proposed Bill flowing from the Law Reform Commission of Hong Kong 2005 report on Custody and Access (Children's Custody Sub-committee, Hon Mr Justice Saunders chair). Would introduce a Parental Responsibility Model replacing the existing custody / access terminology. First floated 2015, revisited LegCo 2024. NOT YET ENACTED as of 2026."
+    },
+    {
+      "citation": "Supplementary Medical Professions Ordinance (Cap. 359) — Allied Health Professions",
+      "title": "Supplementary Medical Professions Ordinance — allied health professions framework",
+      "year": 1981,
+      "url": "https://www.elegislation.gov.hk/hk/cap359",
+      "relevance": "Framework covering some allied health professions. Psychologists in Hong Kong are NOT covered by Cap. 359 — there is currently no statutory registration scheme for clinical psychologists in Hong Kong; the Hong Kong Psychological Society (HKPS) operates the only voluntary professional register."
+    },
+    {
+      "citation": "Medical Registration Ordinance (Cap. 161)",
+      "title": "Medical Registration Ordinance — psychiatrists statutory registration",
+      "year": 1957,
+      "url": "https://www.elegislation.gov.hk/hk/cap161",
+      "relevance": "Statutory framework for medical practitioners including psychiatrists. Medical Council of Hong Kong operates under Cap. 161. Asymmetric regulator architecture: psychiatrists statutorily registered; psychologists voluntarily registered with HKPS only."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Hong Kong Court of Final Appeal (CFA)",
+      "url": "https://www.hkcfa.hk/",
+      "key_decisions": [
+        {
+          "caption": "Court of Final Appeal is the apex court of Hong Kong under the Basic Law. Has not issued a PA-construct-specific apex decision. Welfare-paramountcy doctrine under Cap. 13 applies; PA-adjacent reasoning has not reached the CFA on PA grounds.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Court of Appeal of the High Court",
+      "url": "https://www.judiciary.hk/en/about_us/high.html",
+      "key_decisions": [
+        {
+          "caption": "H v W [2021] HKCA 733 — Lam VP, Yuen JA, B Chu J, 24 May 2021. LEADING POST-PANDEMIC HK COURT OF APPEAL RELOCATION AUTHORITY. One of the first reported HK appellate decisions in which 'parental alienation' appears as a separately pleaded ground of appeal in a bilingual common-law jurisdiction. Set aside relocation order; held plan 'rushed and pre-mature'. Engages PA as welfare-factor ground via SIR + SJE framework without endorsing PAS as clinical construct.",
+          "case_study_ref": "h-v-w-2021-hkca-733-hong-kong",
+          "year": 2021,
+          "stance": "recognition"
+        }
+      ]
+    },
+    {
+      "name": "High Court of Hong Kong — Court of First Instance",
+      "url": "https://www.judiciary.hk/en/about_us/high.html",
+      "key_decisions": [
+        {
+          "caption": "Court of First Instance hears more serious family proceedings as well as appeals from the Family Court of the District Court in certain matters. PA-adjacent fact-patterns can be argued at this level under Cap. 13 welfare paramountcy.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Family Court of the District Court",
+      "url": "https://www.judiciary.hk/en/about_us/family.html",
+      "key_decisions": [
+        {
+          "caption": "First-instance specialist family-law forum. The bulk of HK PA-adjacent fact-patterns are decided here under Cap. 13 + Cap. 192 informed by Social Investigation Reports (SIR) prepared by the Social Welfare Department and Single Joint Expert (SJE) clinical-psychology evidence.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Hong Kong Psychological Society (HKPS) — voluntary register",
+      "url": "https://www.hkps.org.hk/",
+      "position_statement": "Voluntary professional society of psychologists in Hong Kong. There is NO statutory registration scheme for clinical psychologists in Hong Kong — HKPS operates the only voluntary professional register. HKPS has issued no PA-specific position statement. Voluntary-registration architecture parallels Singapore SRP pattern and is structurally weaker than UK HCPC or Australia AHPRA."
+    },
+    {
+      "name": "Medical Council of Hong Kong (MCHK) — statutory psychiatrist registration",
+      "url": "https://www.mchk.org.hk/",
+      "position_statement": "Statutory regulator for medical practitioners including psychiatrists under Cap. 161. No PA-specific position. Asymmetric regulator architecture: psychiatrists statutorily registered; psychologists not."
+    },
+    {
+      "name": "Social Welfare Department (SWD) — HKSAR Government",
+      "url": "https://www.swd.gov.hk/",
+      "position_statement": "HKSAR Government department administering child-welfare services. Prepares Social Investigation Reports (SIR) for court direction in family proceedings — the SIR is the standard institutional vehicle through which PA-adjacent fact-patterns enter the HK Family Court record (operationalised in H v W). SWD also operates the FIVE SPECIALISED CO-PARENTING SUPPORT CENTRES (Hong Kong Family Welfare Society + Caritas Hong Kong + ISS-HK + St James' Settlement + others) under SWD funding."
+    },
+    {
+      "name": "Hong Kong Council of Social Service (HKCSS) — 香港社會服務聯會",
+      "url": "https://www.hkcss.org.hk/",
+      "position_statement": "Statutory body under the Hong Kong Council of Social Service Incorporation Ordinance (Cap. 1057); peak umbrella body for ~520 agency members in the HK social-welfare sector. Practice articles include 'Use of Parental Responsibility Model in Helping Divorced Families' and 'Capacity Training for Social Service Professionals: Understanding the Children Proceedings (Parental Responsibility) Bill'. Engages PA-adjacent debate at the institutional umbrella level; supports Parental Responsibility Model adoption (post LRC HK 2005); does NOT adopt the PA construct as a clinical-syndromal label."
+    },
+    {
+      "name": "Law Reform Commission of Hong Kong (LRC HK)",
+      "url": "https://www.hkreform.gov.hk/",
+      "position_statement": "Statutory law reform body. 2005 Report on Custody and Access (Children's Custody Sub-committee, Hon Mr Justice Saunders chair) proposed Parental Responsibility Model. Subsequently produced the doctrinal proposal underlying the Children Proceedings (Parental Responsibility) Bill (first floated 2015, revisited 2024 LegCo)."
+    },
+    {
+      "name": "Hong Kong Family Welfare Society (HKFWS) — Parenting and Co-Parenting Centre",
+      "url": "https://www.hkfws.org.hk/",
+      "position_statement": "NGO operator of SWD-funded Specialised Co-parenting Support Centres. Operational PA-adjacent delivery sits at HKFWS PCC and the other four SWD Specialised Co-parenting Support Centres rather than at the HKCSS umbrella level."
+    }
+  ],
+  "anonymisation_convention": "STRICT anonymisation per Matrimonial Causes Rules (Cap. 179A): all parties in proceedings concerning children are pseudonymised by single-letter — 'H' (Husband/Father), 'W' (Wife/Mother), single-letter or initial pseudonym for child (e.g., 'A'). H v W [2021] HKCA 733 illustrates the convention. HKCFA and Court of Appeal of the High Court publish bilingual judgments (English and Traditional Chinese) on hklii.hk. The anonymisation regime is more strict than US / UK adult-naming and approaches Singapore Family Justice Rules in protective intent.",
+  "key_developments": [
+    {
+      "year": 1957,
+      "description": "Medical Registration Ordinance (Cap. 161) — statutory regulator framework for medical practitioners including psychiatrists.",
+      "url": "https://www.elegislation.gov.hk/hk/cap161"
+    },
+    {
+      "year": 1971,
+      "description": "Guardianship of Minors Ordinance (Cap. 13) — s.3 welfare paramountcy provision.",
+      "url": "https://www.elegislation.gov.hk/hk/cap13"
+    },
+    {
+      "year": 1972,
+      "description": "Matrimonial Causes Ordinance (Cap. 179) + Matrimonial Proceedings and Property Ordinance (Cap. 192) — substantive matrimonial relief framework.",
+      "url": "https://www.elegislation.gov.hk/hk/cap192"
+    },
+    {
+      "year": 1973,
+      "description": "Matrimonial Causes Rules (Cap. 179A) — procedural rules + strict anonymisation convention.",
+      "url": "https://www.elegislation.gov.hk/hk/cap179A"
+    },
+    {
+      "year": 1995,
+      "description": "Family Court of the District Court — establishment of specialist family-law forum.",
+      "url": "https://www.judiciary.hk/en/about_us/family.html"
+    },
+    {
+      "year": 1997,
+      "description": "1 July 1997 — Hong Kong returns to PRC sovereignty under One Country Two Systems; Basic Law operative; common-law system preserved.",
+      "url": "https://www.basiclaw.gov.hk/"
+    },
+    {
+      "year": 2005,
+      "description": "Law Reform Commission of Hong Kong — Report on Custody and Access (Children's Custody Sub-committee, Hon Mr Justice Saunders chair). Proposed Parental Responsibility Model.",
+      "url": "https://www.hkreform.gov.hk/"
+    },
+    {
+      "year": 2015,
+      "description": "Children Proceedings (Parental Responsibility) Bill first floated. Implementation of LRC 2005 proposal.",
+      "url": "https://www.legco.gov.hk/"
+    },
+    {
+      "year": 2018,
+      "description": "HKCSS — 'Facing the Challenge of Family Breakdown' — institutional engagement with co-parenting practice.",
+      "url": "https://www.hkcss.org.hk/"
+    },
+    {
+      "year": 2020,
+      "description": "HKCSS — 'Use of Parental Responsibility Model in Helping Divorced Families' practice article.",
+      "url": "https://www.hkcss.org.hk/"
+    },
+    {
+      "year": 2021,
+      "description": "24 May 2021 — H v W [2021] HKCA 733 (Lam VP, Yuen JA, B Chu J). LEADING POST-PANDEMIC HK COURT OF APPEAL RELOCATION AUTHORITY engaging PA as separately pleaded ground of appeal.",
+      "url": "https://www.hklii.hk/en/cases/hkca/2021/733"
+    },
+    {
+      "year": 2024,
+      "description": "LegCo 2024 — revisitation of Children Proceedings (Parental Responsibility) Bill. HKCSS capacity-training for social-service professionals on the Bill.",
+      "url": "https://www.legco.gov.hk/"
+    }
+  ],
+  "structural_findings": [
+    "H v W [2021] HKCA 733 (Lam VP, Yuen JA, B Chu J) IS THE LEADING HK APPELLATE PA-ADJACENT AUTHORITY. One of the first reported HK appellate decisions in which 'parental alienation' appears as a separately pleaded ground of appeal in a bilingual common-law jurisdiction. PA engaged as welfare-factor ground via SIR + SJE framework WITHOUT endorsing PAS as clinical construct.",
+    "SOCIAL INVESTIGATION REPORT (SIR) + SINGLE JOINT EXPERT (SJE) ARCHITECTURE: PA-adjacent fact-patterns enter the HK Family Court record through (a) SIR prepared by SWD social welfare officer, and (b) SJE clinical-psychology evidence on joint instruction. The SIR/SJE dual track is the HK institutional analogue to Singapore CAPS / England Cafcass / Australia FRW pool.",
+    "PARENTAL RESPONSIBILITY MODEL PROPOSED BUT NOT ENACTED: The Law Reform Commission of Hong Kong 2005 Report proposed a Parental Responsibility Model. The Children Proceedings (Parental Responsibility) Bill was first floated 2015 and revisited 2024 LegCo. NOT YET ENACTED as of 2026. The LRC proposal puts Hong Kong on a path parallel to Singapore Women's Charter and English Children Act 1989 but the legislative implementation is still pending.",
+    "REGULATOR ARCHITECTURE — ASYMMETRIC: Psychiatrists statutorily registered under Medical Registration Ordinance (Cap. 161) / Medical Council of Hong Kong; CLINICAL PSYCHOLOGISTS ARE NOT STATUTORILY REGISTERED — Hong Kong Psychological Society (HKPS) operates the only voluntary register. This is structurally weaker than UK HCPC or Australia AHPRA and parallels the Singapore SRP voluntary-register pattern.",
+    "HKCSS INSTITUTIONAL UMBRELLA: Hong Kong Council of Social Service is the load-bearing peak umbrella for ~520 agency members. Practice articles include 'Use of Parental Responsibility Model in Helping Divorced Families' and 'Capacity Training for Social Service Professionals: Understanding the Children Proceedings (Parental Responsibility) Bill'. Engages PA-adjacent debate at institutional level without adopting PA construct as clinical-syndromal label.",
+    "FIVE SPECIALISED CO-PARENTING SUPPORT CENTRES under SWD funding: HKFWS Parenting and Co-Parenting Centre + Caritas Hong Kong + ISS-HK + St James' Settlement + others. Operational PA-adjacent delivery sits at PCC level rather than at HKCSS umbrella level. The five-centre architecture is the HK operational analogue to Singapore CAPS/DSSA + UK Cafcass.",
+    "ASIAN APEX CLUSTER: H v W [2021] HKCA 733 sits in parallel with TEN v TEO [2020] SGHCF 20 (Singapore, alienating-behaviour two-limb doctrine) and Vivek Singh v Romani Singh (2017) 3 SCC 231 (India, apex PAS-defining). The three constitute the principal common-law Asian apex authorities on PA-adjacent fact-patterns.",
+    "STRICT ANONYMISATION REGIME: Matrimonial Causes Rules (Cap. 179A) codify strict single-letter pseudonymisation — H (Father), W (Mother), single-letter for child. More restrictive than US / UK adult-naming convention; parallels Singapore Family Justice Rules. Bilingual judgments (English + Traditional Chinese) published on hklii.hk."
+  ],
+  "references": [
+    "case-study:h-v-w-2021-hkca-733-hong-kong",
+    "case-study:ten-v-teo-2020-sghcf-20-singapore",
+    "case-study:vivek-singh-v-romani-singh-2017-india",
+    "practitioner:hk.hkcss",
+    "practitioner:hk.hkfws-pcc",
+    "practitioner:hk.swd",
+    "jurisdiction:singapore",
+    "jurisdiction:india",
+    "jurisdiction:australia"
+  ],
+  "sources": [
+    {
+      "title": "Hong Kong e-Legislation (elegislation.gov.hk)",
+      "url": "https://www.elegislation.gov.hk/",
+      "publisher": "HKSAR Department of Justice",
+      "language": "en"
+    },
+    {
+      "title": "Judiciary of Hong Kong",
+      "url": "https://www.judiciary.hk/",
+      "publisher": "Judiciary of the Hong Kong SAR",
+      "language": "en"
+    },
+    {
+      "title": "Hong Kong Legal Information Institute (HKLII)",
+      "url": "https://www.hklii.hk/",
+      "publisher": "Hong Kong Legal Information Institute",
+      "language": "en"
+    },
+    {
+      "title": "Court of Final Appeal of Hong Kong",
+      "url": "https://www.hkcfa.hk/",
+      "publisher": "Court of Final Appeal",
+      "language": "en"
+    },
+    {
+      "title": "Law Reform Commission of Hong Kong",
+      "url": "https://www.hkreform.gov.hk/",
+      "publisher": "Law Reform Commission",
+      "language": "en"
+    },
+    {
+      "title": "Hong Kong Psychological Society (HKPS)",
+      "url": "https://www.hkps.org.hk/",
+      "publisher": "HKPS",
+      "language": "en"
+    },
+    {
+      "title": "Medical Council of Hong Kong (MCHK)",
+      "url": "https://www.mchk.org.hk/",
+      "publisher": "MCHK",
+      "language": "en"
+    },
+    {
+      "title": "Social Welfare Department (SWD) HKSAR",
+      "url": "https://www.swd.gov.hk/",
+      "publisher": "HKSAR Government",
+      "language": "en"
+    },
+    {
+      "title": "Hong Kong Council of Social Service (HKCSS)",
+      "url": "https://www.hkcss.org.hk/",
+      "publisher": "HKCSS",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: elegislation.gov.hk for Cap. statutes; hklii.hk for case-law (H v W); LRC HK 2005 Report for Parental Responsibility Model doctrinal anchor; SWD + HKCSS + HKFWS for institutional.",
+    "Bilingualism preserved: HK courts publish bilingual judgments (English + Traditional Chinese); HKCSS publishes 香港社會服務聯會 alongside English name; Chinese-language sources accepted alongside English.",
+    "Cap.-number citation preserved throughout (Cap. 13 Guardianship of Minors / Cap. 161 Medical Registration / Cap. 179 Matrimonial Causes / Cap. 179A Matrimonial Causes Rules / Cap. 192 Matrimonial Proceedings and Property / Cap. 359 Supplementary Medical Professions).",
+    "Asian apex cluster (HK H v W 2021 + Singapore TEN v TEO 2020 + India Vivek Singh 2017) preserved in structural_findings[6].",
+    "One Country Two Systems framework (1997 handover under Basic Law) recognised but the substantive common-law family-law framework is unchanged; HK is treated as a common-law jurisdiction for v1.0."
+  ]
+}

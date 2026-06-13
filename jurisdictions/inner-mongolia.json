@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "id": "inner-mongolia",
+  "name": "Inner Mongolia Autonomous Region (内蒙古自治区 / ᠥᠪᠥᠷ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠣᠷᠣᠨ)",
+  "jurisdiction_code": "CN-NM",
+  "legal_system": "civil-law",
+  "language": ["mn", "zh", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Inner Mongolia Autonomous Region (内蒙古自治区 Nèi Měnggǔ Zìzhìqū in Chinese / ᠥᠪᠥᠷ ᠮᠣᠩᠭᠣᠯ ᠤᠨ ᠥᠪᠡᠷᠲᠡᠭᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠣᠷᠣᠨ Öbör Mongγol-un öbertegen Jasaqu Orun in Traditional Mongolian Script) is a Northern Chinese civil-law Chinese autonomous-region constituent unit of the People's Republic of China — structurally distinctive globally as the oldest Chinese autonomous-region in modern Chinese state formation history (Inner Mongolia Autonomous Government established 1 May 1947 — preceding the founding of the People's Republic of China by 2 years 5 months 1 October 1949, making Inner Mongolia the precedent template for all subsequent Chinese autonomous-region frameworks), as the third-largest Chinese province-level division by area (~1,183,000 km² — ~12.3% of Chinese land area, third after Xinjiang + Tibet), as the only modern Chinese sub-national territory operating Traditional Mongolian Script ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ in formal government usage (Inner Mongolia is the only modern jurisdiction globally where Traditional Mongolian Script — the vertical script descended from Old Uyghur framework — is used in official government documentation, as Mongolia itself uses Cyrillic-script Mongolian since 1946 Mongolian script reform), and as the central jurisdiction of the 2020 Inner Mongolian-language education protests (August-September 2020 protests against Chinese Government policy reducing Mongolian-language instruction in Inner Mongolian schools — pivotal cultural-political-identity contestation framework). Inner Mongolia historically operated under multiple Mongol Khanate frameworks (Mongol Empire 1206-1368 + Northern Yuan 1368-1635 + Qing Inner Mongolian league framework 1635-1912), was contested 1912-1947 between Republic of China + Mongolian People's Republic (1924-1992) + various Inner Mongolian self-government frameworks, established Inner Mongolia Autonomous Government 1 May 1947, and was formally incorporated into People's Republic of China 1949. Inner Mongolia Autonomous Region comprises ~1,183,000 km² with a population of ~24 million (~4.2 million Mongolian + ~19 million Han + others). Family-law framework operates under the federal Chinese civil-law framework (Chinese Marriage Law 1980 + Chinese Civil Code 2020 Family Law portion Articles 1040-1118) applied uniformly across Chinese autonomous regions. The Inner Mongolia High People's Court is the apex regional court; final appellate jurisdiction lies with the Supreme People's Court of China. Inner Mongolia is silent on 'parental alienation' as a statutory label. China is a Hague Convention 1980 signatory but not a party — Inner Mongolia is governed by the Chinese non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the People's Republic of China Article 4 (Regional Ethnic Autonomy)",
+      "title": "Constitution of China Article 4",
+      "year": 1982,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Constitutional Article 4 providing for Regional Ethnic Autonomy framework — applicable to Inner Mongolia Autonomous Region."
+    },
+    {
+      "citation": "Law on Regional Ethnic Autonomy 1984 (revised 2001)",
+      "title": "Regional Ethnic Autonomy Law",
+      "year": 1984,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Law of 31 May 1984 (revised 28 February 2001) establishing Regional Ethnic Autonomy framework — applicable to Inner Mongolia Autonomous Region."
+    },
+    {
+      "citation": "Inner Mongolia Autonomous Government Establishment Declaration 1947",
+      "title": "Inner Mongolia Autonomous Government 1947",
+      "year": 1947,
+      "url": "https://www.nmg.gov.cn/",
+      "relevance": "Establishment Declaration of 1 May 1947 — preceding the founding of the People's Republic of China by 2 years 5 months, making Inner Mongolia the precedent template for all subsequent Chinese autonomous-region frameworks."
+    },
+    {
+      "citation": "Inner Mongolia Mongolian-Language Education Regulations 2020+",
+      "title": "Inner Mongolia Mongolian-Language Education Regulations",
+      "year": 2020,
+      "url": "https://www.nmg.gov.cn/",
+      "relevance": "Inner Mongolia Autonomous Region regulations of August 2020 reducing Mongolian-language instruction in Inner Mongolian schools — catalyst for 2020 Inner Mongolian-language education protests."
+    },
+    {
+      "citation": "Chinese Civil Code 2020 Family Law portion (Articles 1040-1118)",
+      "title": "Chinese Civil Code Family Law",
+      "year": 2020,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Civil Code 2020 Family Law portion applicable uniformly across Inner Mongolia Autonomous Region."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Inner Mongolia High People's Court",
+      "seat": "Hohhot",
+      "url": "https://www.court.gov.cn/",
+      "role": "Apex regional appellate court for civil and criminal matters from Inner Mongolia Autonomous Region."
+    },
+    {
+      "name": "Supreme People's Court of China",
+      "seat": "Beijing",
+      "url": "https://www.court.gov.cn/",
+      "role": "Final appellate court for civil and criminal matters from Inner Mongolia Autonomous Region."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Chinese National Health Commission (国家卫生健康委员会)",
+      "url": "http://www.nhc.gov.cn/",
+      "role": "Chinese Federal professional regulatory framework applicable in Inner Mongolia Autonomous Region."
+    }
+  ],
+  "anonymisation_convention": "Inner Mongolia family-court decisions are anonymised per Chinese court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1206,
+      "title": "Mongol Empire founded",
+      "description": "Mongol Empire founded 1206 by Chinggis Khan — beginning of Mongol-Khanate framework over Inner Mongolian region 1206-1635."
+    },
+    {
+      "year": 1635,
+      "title": "Qing Inner Mongolian league framework",
+      "description": "Qing protectorate over Inner Mongolia established 1635 — Qing-Mongolian league framework 1635-1912."
+    },
+    {
+      "year": 1924,
+      "title": "Mongolian People's Republic established",
+      "description": "Mongolian People's Republic established 26 November 1924 in Outer Mongolia — distinct framework from Inner Mongolia."
+    },
+    {
+      "year": 1947,
+      "title": "Inner Mongolia Autonomous Government established",
+      "description": "Inner Mongolia Autonomous Government established 1 May 1947 — preceding founding of People's Republic of China by 2 years 5 months, precedent template for all subsequent Chinese autonomous-region frameworks."
+    },
+    {
+      "year": 1949,
+      "title": "PRC incorporation",
+      "description": "Inner Mongolia formally incorporated into People's Republic of China 1 October 1949."
+    },
+    {
+      "year": 1984,
+      "title": "Regional Ethnic Autonomy Law",
+      "description": "Chinese Federal Regional Ethnic Autonomy Law 1984 providing legal framework for Inner Mongolia Autonomous Region."
+    },
+    {
+      "year": 2020,
+      "title": "Inner Mongolian-language education protests",
+      "description": "Inner Mongolian-language education protests August-September 2020 — protests against Chinese Government policy reducing Mongolian-language instruction in Inner Mongolian schools."
+    }
+  ],
+  "structural_findings": [
+    "Inner Mongolia operates a federal Chinese civil-law autonomous-region framework — places Inner Mongolia in the Northern Chinese autonomous-region cluster.",
+    "Oldest Chinese autonomous-region in modern Chinese state formation history (established 1 May 1947) is structurally distinctive globally — preceding founding of People's Republic of China by 2 years 5 months, precedent template for all subsequent Chinese autonomous-region frameworks.",
+    "Third-largest Chinese province-level division by area (~1,183,000 km² / ~12.3% of Chinese land area) is structurally distinctive within Chinese province-level cluster — third after Xinjiang + Tibet.",
+    "Only modern Chinese sub-national territory operating Traditional Mongolian Script in formal government usage is structurally distinctive globally — Mongolia itself uses Cyrillic-script Mongolian since 1946 Mongolian script reform.",
+    "Central jurisdiction of 2020 Inner Mongolian-language education protests is structurally distinctive globally — pivotal Mongolian-language-cultural-political-identity contestation framework.",
+    "Mongol Empire 1206-1368 + Northern Yuan 1368-1635 + Qing Inner Mongolian league framework 1635-1912 historical framework is structurally distinctive globally — only modern Chinese sub-national territory with continuous Mongol-Khanate-framework historical lineage.",
+    "Distinct Inner Mongolia vs Outer Mongolia (Mongolian People's Republic 1924-1992 + modern Mongolia) sub-national framework is structurally distinctive globally — Mongolian-people split-jurisdiction framework.",
+    "Chinese non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:mongolia",
+    "jurisdiction:tibet",
+    "jurisdiction:xinjiang",
+    "jurisdiction:russia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Inner Mongolia Autonomous Region Government",
+      "url": "https://www.nmg.gov.cn/",
+      "publisher": "Inner Mongolia Autonomous Region Government",
+      "language": "zh"
+    }
+  ],
+  "editorial_notes": [
+    "Inner Mongolia Autonomous Region jurisdiction sidecar — civil-law Northern Chinese Chinese-autonomous-region (Chinese Civil Code 2020 + Chinese Marriage Law 1980 + Constitution Article 4 Regional Ethnic Autonomy + Regional Ethnic Autonomy Law 1984/2001 + Inner Mongolia Autonomous Government Establishment Declaration 1947 + Inner Mongolia Mongolian-Language Education Regulations 2020+ + Mongol Empire 1206-1368 + Northern Yuan 1368-1635 + Qing Inner Mongolian league framework 1635-1912 + 2020 Inner Mongolian-language education protests + Mongolian People's Republic 1924-1992 distinct framework + Chinese non-Hague-1980). Oldest Chinese autonomous-region in modern Chinese state formation history globally + third-largest Chinese province-level division by area + only modern Chinese sub-national territory operating Traditional Mongolian Script in formal government usage globally + central jurisdiction of 2020 Mongolian-language education protests + Mongol-Khanate-framework continuous historical lineage.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northern-Chinese + civil-law + Chinese-autonomous-region cluster + oldest-Chinese-autonomous-region-1947-precedent-template-globally-distinctive + Traditional-Mongolian-Script-formal-government-usage + 2020-Inner-Mongolian-language-education-protests + Mongol-Empire-1206-1368-continuous-Khanate-framework + Inner-vs-Outer-Mongolia-split-jurisdiction + Chinese-non-Hague-1980 clusters within the corpus."
+  ]
+}

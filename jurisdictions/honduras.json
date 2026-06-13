@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "id": "honduras",
+  "name": "Honduras (Republic of Honduras / República de Honduras)",
+  "jurisdiction_code": "HN",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Honduras is a Central American civil-law republic whose family-law framework operates under the Family Code 1984 (Código de Familia, Decree 76-1984) drawing on Spanish civil-law substantive heritage. Parental authority (patria potestad) and child custody are governed by Family Code arts. 184-202. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Chamber (Sala de lo Constitucional) operates within the Supreme Court with constitutional review jurisdiction. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos de Honduras under the Professional Colleges Law. Honduras is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1996 art. 8. Honduras acceded to the Hague Convention 1980 effective 1 March 1994.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1984 (Decree 76-1984) arts. 184-202",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1984,
+      "url": "https://www.poderjudicial.gob.hn/",
+      "relevance": "Federal Family Code drawing on Spanish civil-law substantive heritage. Arts. 184-202 govern patria potestad and child custody."
+    },
+    {
+      "citation": "Children and Adolescents Code 1996 (Decree 73-96)",
+      "title": "Children and Adolescents Code",
+      "year": 1996,
+      "url": "https://www.poderjudicial.gob.hn/",
+      "relevance": "Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Justice (Corte Suprema de Justicia)",
+      "seat": "Tegucigalpa",
+      "url": "https://www.poderjudicial.gob.hn/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Chamber (Sala de lo Constitucional)",
+      "seat": "Tegucigalpa",
+      "url": "https://www.poderjudicial.gob.hn/",
+      "role": "Constitutional Chamber within Supreme Court with constitutional review jurisdiction."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Colegio de Psicólogos de Honduras",
+      "url": "https://www.cph.hn/",
+      "role": "Federal professional college for psychologists in Honduras under Professional Colleges Law."
+    }
+  ],
+  "anonymisation_convention": "Honduran family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1984,
+      "title": "Family Code (Decree 76-1984)",
+      "description": "Federal Family Code enacted drawing on Spanish civil-law substantive heritage."
+    },
+    {
+      "year": 1994,
+      "title": "Hague Convention 1980 accession",
+      "description": "Honduras acceded to the Hague Convention 1980 effective 1 March 1994."
+    },
+    {
+      "year": 1996,
+      "title": "Children and Adolescents Code (Decree 73-96)",
+      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+    }
+  ],
+  "structural_findings": [
+    "Honduras operates a Spanish-civil-law family-law framework — places Honduras in the Central American civil-law cluster with Guatemala, Costa Rica, Panama, El Salvador, Nicaragua.",
+    "Hague Convention 1980 accession 1994 places Honduras as among earliest Latin American Hague accessions in the corpus."
+  ],
+  "references": [
+    "jurisdiction:guatemala",
+    "jurisdiction:el-salvador",
+    "jurisdiction:nicaragua",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Power of Honduras",
+      "url": "https://www.poderjudicial.gob.hn/",
+      "publisher": "Judicial Power",
+      "language": "es"
+    },
+    {
+      "title": "Colegio de Psicólogos de Honduras",
+      "url": "https://www.cph.hn/",
+      "publisher": "Colegio de Psicólogos",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Honduras jurisdiction sidecar — civil-law Central America (Family Code 1984 + Children and Adolescents Code 1996 + Hague Convention 1980 accession 1994).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Latin American + civil-law + Central American + Hague Convention clusters within the corpus."
+  ]
+}

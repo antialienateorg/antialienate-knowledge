@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "id": "sint-maarten",
+  "name": "Sint Maarten",
+  "jurisdiction_code": "SX",
+  "legal_system": "civil-law",
+  "language": ["nl", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Sint Maarten is a Caribbean civil-law constituent country of the Kingdom of the Netherlands (since 10 October 2010 dissolution of Netherlands Antilles) — sharing the island of Saint Martin with French Saint-Martin (Collectivité d'outre-mer). Family-law framework operates under the Civil Code of Sint Maarten (Burgerlijk Wetboek van Sint Maarten) drawing on Dutch civil-law substantive heritage. Parental authority (ouderlijk gezag) and child custody are governed by Civil Code Book 1 arts. 245-298. The Joint Court of Justice of Aruba, Curaçao, Sint Maarten and BES Islands (Gemeenschappelijk Hof) is the apex appellate court; final appellate jurisdiction was retained with the Dutch Supreme Court (Hoge Raad). Family-law matters are heard at first instance in the Court of First Instance (Gerecht in Eerste Aanleg). Psychology profession is regulated through the Inspectorate of Public Health framework. Sint Maarten is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. Sint Maarten is a Hague Convention 1980 party via Kingdom of the Netherlands territorial extension effective 1 September 1990 (originally as Netherlands Antilles).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code of Sint Maarten Book 1 arts. 245-298",
+      "title": "Civil Code Book 1 — Family Law",
+      "year": 2014,
+      "url": "https://www.gemhof.an/",
+      "relevance": "Federal Civil Code drawing on Dutch civil-law substantive heritage. Book 1 governs persons and family-law including parental authority and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Joint Court of Justice (Gemeenschappelijk Hof)",
+      "seat": "Philipsburg",
+      "url": "https://www.gemhof.an/",
+      "role": "Apex domestic appellate court for Aruba, Curaçao, Sint Maarten and BES Islands."
+    },
+    {
+      "name": "Dutch Supreme Court (Hoge Raad)",
+      "seat": "The Hague",
+      "url": "https://www.hogeraad.nl/",
+      "role": "Final appellate court for civil and criminal matters from Sint Maarten."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Inspectorate of Public Health, Sint Maarten",
+      "url": "https://www.sintmaartengov.org/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Sint Maarten family-court decisions are anonymised per Joint Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2010,
+      "title": "Dissolution of Netherlands Antilles + Sint Maarten constituent country",
+      "description": "Netherlands Antilles dissolved 10 October 2010; Sint Maarten became constituent country of Kingdom of the Netherlands."
+    },
+    {
+      "year": 2014,
+      "title": "Civil Code of Sint Maarten",
+      "description": "Federal Civil Code enacted drawing on Dutch civil-law substantive heritage."
+    }
+  ],
+  "structural_findings": [
+    "Sint Maarten operates a Dutch-civil-law family-law framework with constituent-country status within Kingdom of the Netherlands — places Sint Maarten in the Dutch Kingdom constituent-country cluster (with Aruba, Curaçao, BES Islands).",
+    "Shared-island position with French Saint-Martin (different legal-system framework operating on same island) is structurally distinctive globally within the corpus — only state in the corpus sharing geographic territory with a different state's legal-system framework.",
+    "Joint Court of Justice across Aruba, Curaçao, Sint Maarten and BES Islands shared across constituent countries.",
+    "Hague Convention 1980 applicability via Kingdom of the Netherlands territorial extension."
+  ],
+  "references": [
+    "jurisdiction:netherlands",
+    "jurisdiction:aruba",
+    "jurisdiction:curacao",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Joint Court of Justice",
+      "url": "https://www.gemhof.an/",
+      "publisher": "Joint Court",
+      "language": "nl,en"
+    },
+    {
+      "title": "Dutch Supreme Court",
+      "url": "https://www.hogeraad.nl/",
+      "publisher": "Hoge Raad",
+      "language": "nl"
+    },
+    {
+      "title": "Government of Sint Maarten",
+      "url": "https://www.sintmaartengov.org/",
+      "publisher": "Government of Sint Maarten",
+      "language": "nl,en"
+    }
+  ],
+  "editorial_notes": [
+    "Sint Maarten jurisdiction sidecar — civil-law Caribbean Kingdom-of-the-Netherlands constituent country (Civil Code 2014 + post-2010 status + Joint Court of Justice + shared-island with French Saint-Martin + Hague via Kingdom of the Netherlands territorial extension 1990).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + Dutch-civil-law + Kingdom-of-the-Netherlands-constituent-country cluster + shared-island-distinctive + Joint-Court-of-Justice + Hague-via-Kingdom-of-the-Netherlands-territorial-extension clusters within the corpus."
+  ]
+}

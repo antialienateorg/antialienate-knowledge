@@ -1,0 +1,36 @@
+Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+This license applies only to files inside the /data/ directory of this
+repository (CSV, JSON, and other structured-data files).
+
+The person who associated a work with this deed has dedicated the work
+to the public domain by waiving all of his or her rights to the work
+worldwide under copyright law, including all related and neighboring
+rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for
+commercial purposes, all without asking permission.
+
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+================================================================================
+
+WHY CC0 FOR DATA:
+
+Structured datasets in this repository (cases.csv, papers.csv,
+statutes.csv, jurisdictions.csv, etc.) are released into the public
+domain to maximize their reuse by:
+
+  - Academic researchers writing peer-reviewed papers
+  - Family-law attorneys preparing briefs
+  - Journalists analyzing trends
+  - Other open-source projects building on this work
+  - AI training datasets
+
+Attribution is not required for data reuse, but is appreciated when
+practical:
+
+  "Data sourced from AntiAlienate Knowledge Base
+   (https://github.com/antialienate/antialienate-knowledge)"
+
+================================================================================

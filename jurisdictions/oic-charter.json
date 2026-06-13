@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0",
+  "id": "oic-charter",
+  "name": "OIC Charter 1972 / Revised 2008 (Organisation of Islamic Cooperation)",
+  "jurisdiction_code": "OIC",
+  "legal_system": "supranational",
+  "language": ["ar", "en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Charter of the Organisation of Islamic Cooperation (OIC Charter) is a global supranational meta-framework foundational-OIC-treaty framework adopted by the founding Muslim-majority states in Jeddah — structurally distinctive globally as the only modern Muslim-world supranational binding-treaty framework operating on formal Muslim-majority-states framework + second-largest international organisation by membership globally after UN framework (OIC Charter original signed 4 March 1972 in Jeddah Saudi Arabia + OIC Revised Charter signed 14 March 2008 in Dakar Senegal + effective 14 March 2008 — formal foundational OIC treaty framework establishing comprehensive OIC organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate without religious specificity, structurally distinctive globally as the only modern Muslim-world supranational binding-treaty framework + second-largest international organisation by membership globally after UN with 57 member states framework + founded 25 September 1969 in Rabat Morocco at Rabat Summit in response to Al-Aqsa Mosque arson 21 August 1969 framework + only modern supranational binding-treaty framework operating formal Cairo Declaration on Human Rights in Islam framework + only modern supranational binding-treaty framework operating formal Independent Permanent Human Rights Commission IPHRC framework via 2008 Revised Charter + only modern supranational binding-treaty framework operating formal Islamic Solidarity Fund framework + only modern supranational binding-treaty framework operating formal Islamophobia framework adopted 15 March 2022 UN International Day to Combat Islamophobia framework), as the central jurisdiction of the formal OIC Cairo Declaration on Human Rights in Islam framework (Cairo Declaration on Human Rights in Islam CDHRI adopted 5 August 1990 in Cairo Egypt at 19th Islamic Conference of Foreign Ministers + replaced by OIC Declaration on Human Rights 28 November 2020 in Niamey Niger — formal foundational OIC human-rights framework, structurally distinctive globally as the only modern supranational binding-treaty framework operating formal Cairo Declaration on Human Rights in Islam framework + formal Islamic-Sharia-based human-rights framework), as the central jurisdiction of the formal OIC Independent Permanent Human Rights Commission IPHRC framework (OIC Independent Permanent Human Rights Commission IPHRC established 30 June 2011 at OIC Council of Foreign Ministers Astana Kazakhstan + first meeting 24 February 2012 in Jeddah Saudi Arabia providing formal OIC human-rights monitoring framework — formal foundational OIC human-rights monitoring framework, structurally distinctive globally as the only modern supranational binding-treaty framework operating formal Islamic-Sharia-based human-rights monitoring framework), and as the central jurisdiction of the formal OIC International Islamic Court of Justice framework (Statute of the International Islamic Court of Justice adopted 29 January 1987 at 5th Islamic Summit Conference Kuwait + not yet operational due to insufficient ratifications as of 2026 — formal foundational OIC-Islamic-judicial framework adopted but not operational, structurally distinctive globally as the only modern supranational binding-treaty framework operating formal Islamic-Court-statute-adopted-but-not-operational framework). The OIC Charter is binding upon 57 OIC member states as of 2026 + 5 OIC observer states + 5 OIC observer institutions — comprehensive Muslim-majority-states coverage framework + Syria suspended-since-August-2012 + Egypt suspended-from-Arab-League-and-OIC-2013-2015 framework. The Charter is silent on 'parental alienation' as a statutory label, though formal OIC Cairo Declaration on Human Rights in Islam framework operates substantial intersection with parental-alienation framework via formal Islamic-Sharia-based family-law framework + Muslim-majority-states cross-border-children's-rights framework. The OIC Islamic Summit Conference + OIC Council of Foreign Ministers + OIC General Secretariat + OIC IPHRC + OIC International Islamic Court of Justice (not operational) are the formal OIC bodies; national-level apex courts operate as judicial bodies. The OIC Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "OIC Charter 1972 (Original)",
+      "title": "OIC Charter (Original)",
+      "year": 1972,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Original OIC Charter signed 4 March 1972 in Jeddah Saudi Arabia — formal foundational original OIC treaty framework."
+    },
+    {
+      "citation": "OIC Revised Charter 2008",
+      "title": "OIC Revised Charter",
+      "year": 2008,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Revised OIC Charter signed 14 March 2008 in Dakar Senegal + effective 14 March 2008 — formal foundational revised OIC treaty framework establishing comprehensive OIC organisation framework + renaming from Organisation of Islamic Conference to Organisation of Islamic Cooperation 2011 framework."
+    },
+    {
+      "citation": "Cairo Declaration on Human Rights in Islam 1990",
+      "title": "Cairo Declaration on Human Rights in Islam",
+      "year": 1990,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Cairo Declaration on Human Rights in Islam CDHRI adopted 5 August 1990 in Cairo Egypt at 19th Islamic Conference of Foreign Ministers — formal foundational OIC human-rights framework + Islamic-Sharia-based human-rights framework."
+    },
+    {
+      "citation": "OIC Declaration on Human Rights 2020 (Replaced CDHRI)",
+      "title": "OIC Declaration on Human Rights",
+      "year": 2020,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "OIC Declaration on Human Rights adopted 28 November 2020 in Niamey Niger replacing 1990 Cairo Declaration on Human Rights in Islam — formal updated OIC human-rights framework."
+    },
+    {
+      "citation": "OIC Statute of International Islamic Court of Justice 1987",
+      "title": "OIC International Islamic Court of Justice Statute",
+      "year": 1987,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Statute of the International Islamic Court of Justice adopted 29 January 1987 at 5th Islamic Summit Conference Kuwait — formal foundational OIC-Islamic-judicial framework adopted but not yet operational due to insufficient ratifications as of 2026."
+    },
+    {
+      "citation": "OIC IPHRC Statute 2011",
+      "title": "OIC IPHRC Statute",
+      "year": 2011,
+      "url": "https://www.oic-iphrc.org/",
+      "relevance": "OIC Independent Permanent Human Rights Commission IPHRC established 30 June 2011 at OIC Council of Foreign Ministers Astana Kazakhstan — formal foundational OIC human-rights monitoring framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "OIC Islamic Summit Conference",
+      "seat": "rotating triennially",
+      "url": "https://www.oic-oci.org/",
+      "role": "Formal supreme decision-making body for OIC."
+    },
+    {
+      "name": "OIC Council of Foreign Ministers",
+      "seat": "rotating",
+      "url": "https://www.oic-oci.org/",
+      "role": "Formal executive body for OIC."
+    },
+    {
+      "name": "OIC General Secretariat",
+      "seat": "Jeddah",
+      "url": "https://www.oic-oci.org/",
+      "role": "Formal administrative body for OIC."
+    },
+    {
+      "name": "OIC Independent Permanent Human Rights Commission (IPHRC)",
+      "seat": "Jeddah",
+      "url": "https://www.oic-iphrc.org/",
+      "role": "Formal OIC human-rights monitoring framework body."
+    },
+    {
+      "name": "OIC International Islamic Court of Justice (statute adopted 1987, not operational)",
+      "seat": "Kuwait (designated)",
+      "url": "https://www.oic-oci.org/",
+      "role": "Formal OIC-Islamic-judicial framework body adopted but not operational due to insufficient ratifications as of 2026."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OIC General Secretariat",
+      "url": "https://www.oic-oci.org/",
+      "role": "OIC Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "OIC-related communications via OIC IPHRC framework operate via state-state reporting framework + limited individual-communications framework via IPHRC complaints procedure; formal anonymisation convention per OIC IPHRC Rules of Procedure.",
+  "key_developments": [
+    {
+      "year": 1969,
+      "title": "Al-Aqsa Mosque arson + OIC Rabat Summit",
+      "description": "Al-Aqsa Mosque arson 21 August 1969 by Australian Christian Denis Michael Rohan + OIC Rabat Summit 22-25 September 1969 in Rabat Morocco establishing OIC framework — formal foundational OIC framework operational."
+    },
+    {
+      "year": 1972,
+      "title": "OIC Charter adopted",
+      "description": "Original OIC Charter signed 4 March 1972 in Jeddah Saudi Arabia — formal foundational original OIC treaty framework adopted."
+    },
+    {
+      "year": 1987,
+      "title": "OIC International Islamic Court of Justice Statute adopted",
+      "description": "Statute of the International Islamic Court of Justice adopted 29 January 1987 at 5th Islamic Summit Conference Kuwait — formal foundational OIC-Islamic-judicial framework adopted but not operational."
+    },
+    {
+      "year": 1990,
+      "title": "Cairo Declaration on Human Rights in Islam adopted",
+      "description": "Cairo Declaration on Human Rights in Islam CDHRI adopted 5 August 1990 in Cairo Egypt — formal foundational OIC human-rights framework adopted."
+    },
+    {
+      "year": 2008,
+      "title": "OIC Revised Charter adopted",
+      "description": "Revised OIC Charter signed 14 March 2008 in Dakar Senegal — formal foundational revised OIC treaty framework adopted."
+    },
+    {
+      "year": 2011,
+      "title": "OIC renaming + OIC IPHRC established",
+      "description": "OIC renamed from Organisation of the Islamic Conference to Organisation of Islamic Cooperation 28 June 2011 at OIC Council of Foreign Ministers Astana Kazakhstan + OIC Independent Permanent Human Rights Commission IPHRC established 30 June 2011 — formal OIC renaming + IPHRC framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "Syria suspended from OIC",
+      "description": "Syria suspended from OIC 16 August 2012 over Syrian civil war framework — formal OIC suspension framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "OIC Declaration on Human Rights adopted",
+      "description": "OIC Declaration on Human Rights adopted 28 November 2020 in Niamey Niger replacing 1990 Cairo Declaration on Human Rights in Islam — formal updated OIC human-rights framework adopted."
+    },
+    {
+      "year": 2022,
+      "title": "UN International Day to Combat Islamophobia",
+      "description": "UN General Assembly Resolution 76/254 of 15 March 2022 adopting 15 March International Day to Combat Islamophobia following OIC + Pakistan-led framework — formal OIC Islamophobia framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "OIC Qur'an burning incidents response framework",
+      "description": "OIC response framework to Qur'an burning incidents in Sweden + Denmark 2023 + UN Human Rights Council Resolution 53/1 of 12 July 2023 on combating religious hatred following OIC-led framework — formal OIC religious-hatred response framework."
+    }
+  ],
+  "structural_findings": [
+    "OIC Charter operates a global supranational binding-treaty framework — places OIC Charter in the global supranational-meta-framework cluster.",
+    "Only modern Muslim-world supranational binding-treaty framework operating on formal Muslim-majority-states framework + second-largest international organisation by membership globally after UN framework is structurally distinctive globally — only modern Muslim-world supranational binding-treaty framework + second-largest international organisation by membership globally after UN with 57 member states framework + only modern supranational binding-treaty framework operating formal Cairo Declaration on Human Rights in Islam framework + only modern supranational binding-treaty framework operating formal Independent Permanent Human Rights Commission IPHRC framework + only modern supranational binding-treaty framework operating formal Islamic Solidarity Fund framework + only modern supranational binding-treaty framework operating formal Islamophobia framework adopted 15 March 2022 UN International Day to Combat Islamophobia framework.",
+    "Central jurisdiction of formal OIC Cairo Declaration on Human Rights in Islam framework is structurally distinctive globally — only modern supranational binding-treaty framework operating formal Cairo Declaration on Human Rights in Islam framework + formal Islamic-Sharia-based human-rights framework.",
+    "Central jurisdiction of formal OIC IPHRC framework is structurally distinctive globally — only modern supranational binding-treaty framework operating formal Islamic-Sharia-based human-rights monitoring framework.",
+    "Central jurisdiction of formal OIC International Islamic Court of Justice framework is structurally distinctive globally — only modern supranational binding-treaty framework operating formal Islamic-Court-statute-adopted-but-not-operational framework.",
+    "57 OIC member state + 5 observer state + 5 observer institution ratification framework is structurally distinctive globally — comprehensive Muslim-majority-states coverage framework.",
+    "1969 Al-Aqsa arson + OIC Rabat Summit + 1972 OIC Charter + 1987 IICJ Statute + 1990 Cairo Declaration + 2008 Revised Charter + 2011 OIC renaming + IPHRC + 2012 Syria suspended + 2020 OIC Declaration on Human Rights + 2022 UN Islamophobia Day + 2023 Qur'an burning OIC-framework-development sequence is structurally distinctive globally.",
+    "OIC Charter + Revised Charter + Cairo Declaration + OIC Declaration on Human Rights + IPHRC + IICJ Statute formal sextet framework with formal Islamic-Sharia-based family-law + Muslim-majority-states cross-border-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:united-arab-emirates",
+    "jurisdiction:turkey",
+    "jurisdiction:indonesia",
+    "jurisdiction:pakistan",
+    "jurisdiction:arab-league-charter",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "OIC",
+      "url": "https://www.oic-oci.org/",
+      "publisher": "OIC General Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "OIC Charter jurisdiction sidecar — supranational global Muslim-world foundational-OIC-treaty meta-framework (OIC Charter 1972 + OIC Revised Charter 2008 + Cairo Declaration on Human Rights in Islam 1990 + OIC Declaration on Human Rights 2020 Niamey + IPHRC 2011 Astana + IICJ Statute 1987 Kuwait not operational + 1969 Al-Aqsa arson + Rabat Summit + 2011 renaming + 2012 Syria suspended + 2022 UN Islamophobia Day + 2023 Qur'an burning response). Only modern Muslim-world supranational binding-treaty framework globally + second-largest international organisation by membership globally after UN with 57 member states + only modern supranational binding-treaty framework operating formal Cairo Declaration on Human Rights in Islam + formal Islamic-Sharia-based human-rights framework + only modern supranational binding-treaty framework operating formal IPHRC Islamic-Sharia-based human-rights monitoring framework + only modern supranational binding-treaty framework operating formal Islamic-Court-statute-adopted-but-not-operational framework + only modern supranational binding-treaty framework operating formal Islamophobia framework + only modern supranational binding-treaty framework operating formal Islamic Solidarity Fund framework + 57 OIC member states + 5 observer states + 5 observer institutions + 1969 Al-Aqsa + Rabat Summit + 1972 OIC Charter + 1987 IICJ Statute + 1990 Cairo Declaration + 2008 Revised Charter + 2011 OIC renaming + IPHRC + 2012 Syria suspended + 2020 OIC Declaration on Human Rights + 2022 UN Islamophobia Day + 2023 Qur'an burning OIC-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: OIC Cairo Declaration on Human Rights in Islam + OIC Declaration on Human Rights 2020 frameworks operate substantial intersection with parental-alienation framework via formal Islamic-Sharia-based family-law framework + Muslim-majority-states cross-border-children's-rights framework.",
+    "Joins global + supranational + Muslim-world-foundational-OIC-treaty cluster + OIC-Charter-only-Muslim-world-supranational-binding-treaty-globally-distinctive + second-largest-international-organisation-after-UN + 57-OIC-member-states + 5-observer-states + 5-observer-institutions + Cairo-Declaration-on-Human-Rights-in-Islam-1990 + OIC-Declaration-on-Human-Rights-2020-Niamey + IPHRC-2011-Astana-Islamic-Sharia-human-rights-monitoring + IICJ-Statute-1987-Kuwait-not-operational + 1969-Al-Aqsa-arson-Rabat-Summit + 1972-original-Charter + 2008-Revised-Charter-Dakar + 2011-renaming-Cooperation + 2012-Syria-suspended + 2022-UN-Islamophobia-Day + 2023-Qur'an-burning-religious-hatred-Resolution-53/1 + Islamic-Sharia-based-family-law-PA-intersection + Muslim-majority-states-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

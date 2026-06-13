@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "id": "kaliningrad",
+  "name": "Kaliningrad Oblast (Калининградская область / Königsberg-Kaliningrad)",
+  "jurisdiction_code": "RU-KGD",
+  "legal_system": "civil-law",
+  "language": ["ru", "en", "de"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Kaliningrad Oblast (Russian: Калининградская область Kaliningradskaya oblast — historically Königsberg until 1946) is a Baltic Russian civil-law constituent oblast of the Russian Federation — structurally distinctive globally as the only modern Russian sub-national territory not contiguous with main Russia (~15,100 km² Russian exclave on the Baltic Sea between Poland to the south + Lithuania to the north + east — formal Russian exclave framework, distinct from rest-of-Russian-sub-national-territorial framework, separated from main Russia by Lithuania ~360 km + Belarus framework via Suwałki Gap framework or via Belarus-Russia surface-connection framework), as the only modern Russian sub-national territory transferred to USSR via Allied WWII post-war territorial-settlement framework (Potsdam Agreement 17 July - 2 August 1945 + Potsdam Final Communiqué 2 August 1945 — formal Allied WWII territorial transfer framework, structurally distinctive globally as the only modern Russian sub-national territory established via formal Allied WWII post-war territorial-settlement framework), as the central jurisdiction of one of the most distinctive modern ethnic-cleansing-and-resettlement frameworks (Soviet expulsion of ~1.1 million Königsberg + East Prussian German civilian population 1945-1948 + Soviet resettlement of ~430,000 Russian + Belarusian + Ukrainian civilian framework 1947-1948 — formal post-WWII population-transfer framework, distinct from rest-of-modern-territorial-frameworks), as the central jurisdiction of one of the most distinctive modern Western-NATO-encircled Russian sub-national frameworks (Kaliningrad Oblast surrounded by Polish + Lithuanian NATO member states since Polish 1999 + Lithuanian 2004 NATO accession — only modern Russian sub-national territory fully surrounded by NATO member states + Baltic Sea, distinct from rest-of-Russian-sub-national territorial framework), and as the only modern Russian sub-national territory operating formal Königsberg-Kaliningrad-Königsberg historical-naming-framework (city renamed Kaliningrad 4 July 1946 from Königsberg — only modern Russian sub-national territory with formal foundational name-change framework establishing distinct Soviet-Russian identity framework). Kaliningrad Oblast historically operated under Old Prussian + Teutonic Order 13th-15th centuries + Duchy of Prussia 1525-1701 + Kingdom of Prussia 1701-1871 + German Empire 1871-1918 + Weimar Republic 1918-1933 + Nazi Germany 1933-1945 + Soviet Königsberg Special District 1945-1946 + Kaliningrad Oblast 1946-1990 + Russian Federation Kaliningrad Oblast 1991+. Kaliningrad Oblast comprises ~15,100 km² with a population of ~1.0 million (~86% Russian + others). Family-law framework operates under the federal Russian civil-law framework (Russian Family Code 1995 + Russian Civil Code 1994) applied uniformly across Russian sub-national territories. The Kaliningrad Regional Court is the apex regional court; final appellate jurisdiction lies with the Supreme Court of the Russian Federation. Kaliningrad is silent on 'parental alienation' as a statutory label. Russia is a Hague Convention 1980 signatory and party (acceded 28 July 2011 effective 1 October 2011) — Kaliningrad is governed by Russian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Potsdam Agreement 1945 (Allied WWII territorial-settlement framework)",
+      "title": "Potsdam Agreement 1945",
+      "year": 1945,
+      "url": "https://www.un.org/",
+      "relevance": "Allied WWII Potsdam Agreement 17 July - 2 August 1945 + Potsdam Final Communiqué 2 August 1945 — formal Allied WWII territorial transfer framework establishing Soviet sovereignty over Königsberg/Kaliningrad."
+    },
+    {
+      "citation": "Constitution of the Russian Federation 1993 Article 5 (Oblasts)",
+      "title": "Constitution of Russian Federation Article 5",
+      "year": 1993,
+      "url": "https://www.constitution.ru/",
+      "relevance": "Russian Constitutional Article 5 establishing oblasts as constituent subjects of Russian Federation — applicable to Kaliningrad."
+    },
+    {
+      "citation": "Kaliningrad Special Economic Zone Federal Law 16/1996 + 13/2006",
+      "title": "Kaliningrad Special Economic Zone Federal Law",
+      "year": 2006,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Russian Federal Kaliningrad Special Economic Zone Federal Law 16/1996 + revised Federal Law 13/2006 — formal Special Economic Zone framework for Kaliningrad Oblast addressing exclave-framework economic-substance-considerations."
+    },
+    {
+      "citation": "Russian Family Code 1995 + Russian Civil Code 1994",
+      "title": "Russian Family Code + Civil Code",
+      "year": 1995,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Russian Federal Family Code 1995 + Russian Federal Civil Code 1994 applicable uniformly across Kaliningrad."
+    },
+    {
+      "citation": "Hague Convention 1980 — Russian accession 28 July 2011",
+      "title": "Hague Convention 1980 — Russia",
+      "year": 2011,
+      "url": "https://www.hcch.net/",
+      "relevance": "Russian Hague Convention 1980 accession 28 July 2011 effective 1 October 2011 — applicable to Kaliningrad."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Kaliningrad Regional Court (Калининградский областной суд)",
+      "seat": "Kaliningrad",
+      "url": "https://kaliningradsky.kln.sudrf.ru/",
+      "role": "Apex regional appellate court for civil and criminal matters from Kaliningrad."
+    },
+    {
+      "name": "Supreme Court of the Russian Federation (Верховный Суд Российской Федерации)",
+      "seat": "Moscow",
+      "url": "https://vsrf.ru/",
+      "role": "Final appellate court for civil and criminal matters from Kaliningrad."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of Kaliningrad Oblast",
+      "url": "https://www.gov39.ru/",
+      "role": "Kaliningrad regional-level + Russian Federal professional regulatory framework applicable in Kaliningrad."
+    }
+  ],
+  "anonymisation_convention": "Kaliningrad family-court decisions are anonymised per Russian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1255,
+      "title": "Königsberg founded",
+      "description": "Königsberg founded 1255 by Teutonic Order — beginning of Teutonic Order framework over Königsberg 1255-1525."
+    },
+    {
+      "year": 1701,
+      "title": "Kingdom of Prussia + Königsberg coronation",
+      "description": "Frederick I crowned Frederick I King in Prussia at Königsberg 18 January 1701 — beginning of formal Prussian Kingdom framework 1701-1871."
+    },
+    {
+      "year": 1945,
+      "title": "Battle of Königsberg + Potsdam Agreement",
+      "description": "Battle of Königsberg 6-9 April 1945 + Potsdam Agreement 17 July - 2 August 1945 — formal Allied WWII territorial transfer framework establishing Soviet sovereignty over Königsberg."
+    },
+    {
+      "year": 1946,
+      "title": "Kaliningrad renaming + Oblast established",
+      "description": "Königsberg renamed Kaliningrad 4 July 1946 + Kaliningrad Oblast formally established 7 April 1946 — beginning of Soviet Kaliningrad Oblast 1946-1990 framework."
+    },
+    {
+      "year": 1945,
+      "title": "Soviet expulsion of German population begins",
+      "description": "Soviet expulsion of ~1.1 million Königsberg + East Prussian German civilian population 1945-1948 + Soviet resettlement of ~430,000 Russian + Belarusian + Ukrainian civilian framework 1947-1948."
+    },
+    {
+      "year": 1991,
+      "title": "Russian Federation Kaliningrad Oblast",
+      "description": "Russian Federation Kaliningrad Oblast continuity within independent Russian Federation framework 1991+."
+    },
+    {
+      "year": 1999,
+      "title": "Polish NATO accession + Kaliningrad encirclement begins",
+      "description": "Polish NATO accession 12 March 1999 — beginning of Kaliningrad NATO-encirclement framework."
+    },
+    {
+      "year": 2004,
+      "title": "Lithuanian NATO accession + Kaliningrad encirclement complete",
+      "description": "Lithuanian NATO accession 29 March 2004 — complete Kaliningrad NATO-encirclement framework + Polish + Lithuanian NATO border + Baltic Sea framework."
+    }
+  ],
+  "structural_findings": [
+    "Kaliningrad operates a federal Russian civil-law constituent oblast framework — places Kaliningrad in the Baltic Russian sub-national cluster.",
+    "Only modern Russian sub-national territory not contiguous with main Russia is structurally distinctive within Russian framework — formal Russian exclave framework on the Baltic Sea separated by Lithuania.",
+    "Only modern Russian sub-national territory transferred to USSR via Allied WWII post-war territorial-settlement framework is structurally distinctive globally — Potsdam Agreement 1945 territorial transfer framework.",
+    "Central jurisdiction of one of most distinctive modern ethnic-cleansing-and-resettlement frameworks is structurally distinctive globally — Soviet expulsion of ~1.1 million Königsberg + East Prussian German civilian population 1945-1948 + Soviet resettlement of ~430,000 framework.",
+    "Central jurisdiction of one of most distinctive modern Western-NATO-encircled Russian sub-national frameworks is structurally distinctive globally — only modern Russian sub-national territory fully surrounded by NATO member states + Baltic Sea since 1999-2004 Polish-Lithuanian NATO accession.",
+    "Only modern Russian sub-national territory operating formal Königsberg-Kaliningrad-Königsberg historical-naming-framework is structurally distinctive globally — only modern Russian sub-national territory with formal foundational name-change framework.",
+    "Kaliningrad Special Economic Zone Federal Law 1996/2006 framework is structurally distinctive globally — only modern Russian sub-national territory with formal economic-exclave-framework Special Economic Zone framework.",
+    "Russian Hague-Convention-1980-accession-2011 framework applies."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:poland",
+    "jurisdiction:lithuania",
+    "jurisdiction:germany",
+    "jurisdiction:belarus",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Kaliningrad Oblast",
+      "url": "https://www.gov39.ru/",
+      "publisher": "Kaliningrad Oblast Government",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "Kaliningrad Oblast jurisdiction sidecar — civil-law Baltic Russian constituent oblast (Potsdam Agreement 1945 + Constitution of Russian Federation 1993 Article 5 + Kaliningrad Special Economic Zone Federal Law 16/1996 + 13/2006 + Russian Family Code 1995 + Teutonic Order Königsberg 1255-1525 + Kingdom of Prussia 1701-1871 + German Empire 1871-1918 + Battle of Königsberg 1945 + Kaliningrad renaming 1946 + Kaliningrad Oblast 1946+ + Soviet expulsion of German population 1945-1948 + Polish NATO accession 1999 + Lithuanian NATO accession 2004 + Russian Hague-1980). Only modern Russian sub-national territory not contiguous with main Russia + only modern Russian sub-national territory transferred to USSR via Allied WWII post-war territorial-settlement framework + central jurisdiction of one of most distinctive modern ethnic-cleansing-and-resettlement frameworks + central jurisdiction of one of most distinctive modern Western-NATO-encircled Russian sub-national frameworks + only modern Russian sub-national territory operating formal Königsberg-Kaliningrad historical-naming-framework + Kaliningrad Special Economic Zone framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Baltic + civil-law + Russian-oblast cluster + Russian-exclave-not-contiguous-with-main-Russia-globally-distinctive + Potsdam-Agreement-1945-Allied-WWII-territorial-transfer + Soviet-expulsion-of-German-population-1945-1948 + Polish-Lithuanian-NATO-encirclement-1999-2004 + Königsberg-Kaliningrad-historical-naming-framework + Teutonic-Order-1255-Königsberg + Kingdom-of-Prussia-1701-Königsberg-coronation + Kaliningrad-Special-Economic-Zone-framework + Russian-Hague-1980-2011 clusters within the corpus."
+  ]
+}

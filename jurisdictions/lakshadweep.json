@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "lakshadweep",
+  "name": "Lakshadweep (लक्षद्वीप)",
+  "jurisdiction_code": "IN-LD",
+  "legal_system": "mixed",
+  "language": ["en", "ml", "mv"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Lakshadweep (लक्षद्वीप in Hindi, meaning 'Hundred Thousand Islands') is an Arabian Sea mixed common-law/Muslim-personal-law/Lakshadweep-customary-law Indian Union Territory comprising 36 atolls of which 10 are inhabited — structurally distinctive globally as the smallest Indian Union Territory by area (~32 km² land area across ~4,200 km² maritime area) and population (~65,000), as the only Indian jurisdiction operating Aboriginal Tribes (Lakshadweep) Regulation 1965 framework explicitly protecting all Lakshadweep islanders as Scheduled Tribes (~96% are recognised as Scheduled Tribes under Aboriginal status framework — the highest Scheduled Tribe percentage of any Indian Union Territory), and as the only Indian Union Territory with ~96% Sunni Muslim population framework operating Mahalliyya Marriage and Divorce framework under Muslim Personal Law (Shariat) Application Act 1937 (the highest Muslim population percentage of any Indian Union Territory). Lakshadweep operates a coral-atoll-only land framework prohibiting non-resident-Lakshadweep land ownership under the Lakshadweep Land Reform Regulation 1965 — only Indian Union Territory with comprehensive non-resident-land-acquisition prohibition framework. Lakshadweep was historically the dependency of the Arakkal Kingdom of Cannanore, then the South Kanara Aboriginal territories of the British Madras Presidency, was constituted as Union Territory on 1 November 1956, and renamed from 'Laccadive, Minicoy and Amindivi Islands' to 'Lakshadweep' on 1 November 1973. Lakshadweep comprises 36 atolls with a population of ~65,000. Family-law framework operates under a dual federal Indian common-law + Muslim Personal Law (Shariat) Application Act 1937 + Lakshadweep customary-law framework. Parental authority and child custody operate under Muslim Personal Law for Muslim majority and federal Indian framework with Aboriginal Tribes Regulation 1965 protection. The Kerala High Court (Kavaratti Circuit Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Lakshadweep is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Lakshadweep is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Aboriginal Tribes (Lakshadweep) Regulation 1965",
+      "title": "Aboriginal Tribes (Lakshadweep) Regulation",
+      "year": 1965,
+      "url": "https://www.lakshadweep.gov.in/",
+      "relevance": "Indian Federal Regulation of 1965 explicitly protecting all Lakshadweep islanders as Scheduled Tribes — ~96% of Lakshadweep population recognised under Aboriginal status framework."
+    },
+    {
+      "citation": "Lakshadweep Land Reform Regulation 1965",
+      "title": "Lakshadweep Land Reform Regulation",
+      "year": 1965,
+      "url": "https://www.lakshadweep.gov.in/",
+      "relevance": "Indian Federal Regulation of 1965 prohibiting non-resident-Lakshadweep land ownership — only Indian Union Territory with comprehensive non-resident-land-acquisition prohibition framework."
+    },
+    {
+      "citation": "Muslim Personal Law (Shariat) Application Act 1937 (applicable in Lakshadweep)",
+      "title": "Muslim Personal Law (Shariat) Application Act 1937",
+      "year": 1937,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Federal Indian Act applicable in Lakshadweep — primary family-law framework for ~96% Muslim Lakshadweep population."
+    },
+    {
+      "citation": "Lakshadweep Renaming 1973",
+      "title": "Lakshadweep Renaming",
+      "year": 1973,
+      "url": "https://www.lakshadweep.gov.in/",
+      "relevance": "Renamed from 'Laccadive, Minicoy and Amindivi Islands' to 'Lakshadweep' on 1 November 1973."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Kerala High Court (Kavaratti Circuit Bench)",
+      "seat": "Kavaratti (Circuit Bench of Kerala)",
+      "url": "https://highcourtofkerala.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Lakshadweep."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Lakshadweep."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Lakshadweep."
+    }
+  ],
+  "anonymisation_convention": "Lakshadweep family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1665,
+      "title": "Arakkal Kingdom dependency",
+      "description": "Lakshadweep dependency of Arakkal Kingdom of Cannanore (Kingdom of Kannur) from ~1665."
+    },
+    {
+      "year": 1956,
+      "title": "Union Territory established",
+      "description": "Union Territory of Laccadive, Minicoy and Amindivi Islands established 1 November 1956."
+    },
+    {
+      "year": 1965,
+      "title": "Aboriginal Tribes Regulation + Land Reform Regulation",
+      "description": "Indian Federal Regulations of 1965 — Aboriginal Tribes (Lakshadweep) Regulation + Lakshadweep Land Reform Regulation."
+    },
+    {
+      "year": 1973,
+      "title": "Renamed Lakshadweep",
+      "description": "Renamed from 'Laccadive, Minicoy and Amindivi Islands' to 'Lakshadweep' on 1 November 1973."
+    }
+  ],
+  "structural_findings": [
+    "Lakshadweep operates a mixed federal Indian common-law + Muslim Personal Law + Lakshadweep customary-law framework — places Lakshadweep in the Arabian Sea Indian-Union-Territory cluster.",
+    "Smallest Indian Union Territory by area (~32 km² land) and population (~65,000) is structurally distinctive within Indian Union Territory cluster.",
+    "Only Indian jurisdiction operating Aboriginal Tribes (Lakshadweep) Regulation 1965 framework explicitly protecting all Lakshadweep islanders as Scheduled Tribes is structurally distinctive globally — ~96% Scheduled Tribe percentage.",
+    "Only Indian Union Territory with ~96% Sunni Muslim population framework is structurally distinctive globally — highest Muslim population percentage of any Indian Union Territory.",
+    "Only Indian Union Territory with comprehensive non-resident-land-acquisition prohibition framework via Lakshadweep Land Reform Regulation 1965 is structurally distinctive globally.",
+    "36-atoll coral-atoll-only land framework is structurally distinctive globally — only Indian Union Territory comprising exclusively coral atolls.",
+    "Mahalliyya Marriage and Divorce framework operating under Muslim Personal Law (Shariat) Application Act 1937 is structurally distinctive within Indian Union Territory cluster.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:maldives",
+    "jurisdiction:sri-lanka",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Lakshadweep",
+      "url": "https://www.lakshadweep.gov.in/",
+      "publisher": "Lakshadweep Administration",
+      "language": "en"
+    },
+    {
+      "title": "Kerala High Court",
+      "url": "https://highcourtofkerala.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Lakshadweep jurisdiction sidecar — mixed federal Indian common-law/Muslim Personal Law/Lakshadweep customary-law Arabian Sea Indian Union Territory (Aboriginal Tribes (Lakshadweep) Regulation 1965 + Lakshadweep Land Reform Regulation 1965 + Muslim Personal Law (Shariat) Application Act 1937 + 36-atoll coral-atoll-only land framework + ~96% Sunni Muslim population + ~96% Scheduled Tribe percentage + Arakkal Kingdom dependency 1665 + Kerala High Court Kavaratti Circuit Bench + Indian non-Hague-1980). Smallest Indian Union Territory globally + only Indian jurisdiction protecting all islanders as Scheduled Tribes + only Indian Union Territory with ~96% Sunni Muslim population framework + only Indian Union Territory with comprehensive non-resident-land-acquisition prohibition framework + only Indian Union Territory comprising exclusively coral atolls.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Arabian-Sea + mixed Indian-common-law/Muslim-Personal-Law/Lakshadweep-customary-law + Indian-Union-Territory cluster + smallest-Indian-Union-Territory-by-area-and-population + Aboriginal-Tribes-Regulation-1965-96-percent-Scheduled-Tribe-globally-distinctive + 96-percent-Sunni-Muslim-population + Lakshadweep-Land-Reform-Regulation-1965-non-resident-land-prohibition + 36-coral-atoll-framework + Mahalliyya-Marriage-Divorce-framework + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

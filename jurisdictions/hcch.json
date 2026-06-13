@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "hcch",
+  "name": "Hague Conference on Private International Law (HCCH)",
+  "jurisdiction_code": "HHC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Hague Conference on Private International Law (HCCH / formally Conférence de La Haye de droit international privé) is a global supranational meta-framework intergovernmental organisation operating private international law harmonisation framework — structurally distinctive globally as the only modern intergovernmental organisation operating private international law harmonisation framework with formal binding-treaty-elaboration framework (HCCH founded 12 September 1893 in The Hague by Tobias Asser — formal intergovernmental organisation operating private international law harmonisation framework, distinct from UN + other international organisations operating broader-scope frameworks, structurally distinctive globally as the only modern intergovernmental organisation operating private international law harmonisation framework with formal binding-treaty-elaboration framework + 89 state party + 1 EU bloc state party framework as of 2026), as the central jurisdiction of the formal HCCH Hague Conventions framework (HCCH has elaborated 41 Hague Conventions + 2 Hague Protocols + 1 Hague Principles + multiple Recommendations as of 2026 — formal HCCH Hague Conventions framework, structurally distinctive globally as the most-developed modern intergovernmental organisation private international law harmonisation framework), as the central jurisdiction of the formal HCCH Children-Family Hague Conventions framework (HCCH has elaborated multiple Children-Family Hague Conventions including Hague Convention 1956 on Child Maintenance + Hague Convention 1961 Adoption + Hague Convention 1965 Adoption + Hague Convention 1970 Recognition Divorces + Hague Convention 1973 Maintenance + Hague Convention 1980 Civil Aspects of International Child Abduction + Hague Convention 1993 Intercountry Adoption + Hague Convention 1996 Protection of Children + Hague Convention 2007 Child Maintenance + Hague Protocol 2007 Maintenance + others — formal HCCH Children-Family Hague Conventions framework, structurally distinctive globally as the most-developed modern intergovernmental organisation Children-Family private international law harmonisation framework), and as the central jurisdiction of the formal HCCH Permanent Bureau institutional framework (HCCH Permanent Bureau formally established 1955 in The Hague — formal HCCH Secretariat institutional framework operating formal Council on General Affairs and Policy + Diplomatic Sessions + Special Commissions frameworks, structurally distinctive globally as the only modern intergovernmental organisation private international law harmonisation framework with formal Permanent Bureau institutional framework). The HCCH is binding upon 89 state parties + 1 EU bloc state party framework as of 2026 — substantial global coverage framework. The HCCH is silent on 'parental alienation' as a statutory label, though formal Hague Convention 1980 + Hague Convention 1996 + Hague Convention 1993 + Hague Convention 2007 frameworks operate substantial intersection with parental-alienation framework. The HCCH Permanent Bureau is the formal Secretariat institutional framework body; national-level apex courts + Central Authorities operate as administrative + judicial bodies. The HCCH is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "HCCH Statute 1955",
+      "title": "HCCH Statute 1955",
+      "year": 1955,
+      "url": "https://www.hcch.net/",
+      "relevance": "HCCH Statute adopted 31 October 1951 + effective 15 July 1955 — formal HCCH intergovernmental organisation framework establishing formal Permanent Bureau institutional framework + Council on General Affairs and Policy framework."
+    },
+    {
+      "citation": "Hague Convention 1980 (Civil Aspects of International Child Abduction)",
+      "title": "Hague Convention 1980",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the Civil Aspects of International Child Abduction 1980 — most directly PA-relevant HCCH Hague Convention framework."
+    },
+    {
+      "citation": "Hague Convention 1993 (Intercountry Adoption)",
+      "title": "Hague Convention 1993",
+      "year": 1995,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption 1993 — formal HCCH intercountry-adoption framework."
+    },
+    {
+      "citation": "Hague Convention 1996 (Protection of Children)",
+      "title": "Hague Convention 1996",
+      "year": 2002,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children 1996 — formal HCCH five-pillar parental-responsibility framework."
+    },
+    {
+      "citation": "Hague Convention 2007 (Child Maintenance)",
+      "title": "Hague Convention 2007",
+      "year": 2013,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007 + Hague Protocol on the Law Applicable to Maintenance Obligations 2007 + effective 1 January 2013 — formal HCCH child-maintenance framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "HCCH Permanent Bureau",
+      "seat": "The Hague",
+      "url": "https://www.hcch.net/",
+      "role": "Formal HCCH Secretariat institutional framework body."
+    },
+    {
+      "name": "National-level Central Authorities",
+      "seat": "Various",
+      "url": "https://www.hcch.net/",
+      "role": "National-level Central Authorities — formal HCCH-Hague-Conventions Central Authority framework operational bodies."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "HCCH Secretariat",
+      "url": "https://www.hcch.net/",
+      "role": "HCCH implementation framework."
+    }
+  ],
+  "anonymisation_convention": "HCCH-related individual communications operate via national-level court frameworks using initials.",
+  "key_developments": [
+    {
+      "year": 1893,
+      "title": "HCCH founded",
+      "description": "Hague Conference on Private International Law HCCH founded 12 September 1893 in The Hague by Tobias Asser — formal intergovernmental organisation operating private international law harmonisation framework."
+    },
+    {
+      "year": 1951,
+      "title": "HCCH Statute adopted",
+      "description": "HCCH Statute adopted 31 October 1951 — formal HCCH intergovernmental organisation framework establishing formal Permanent Bureau institutional framework."
+    },
+    {
+      "year": 1955,
+      "title": "HCCH Statute enters force + Permanent Bureau established",
+      "description": "HCCH Statute entered force 15 July 1955 + HCCH Permanent Bureau formally established 1955 in The Hague — formal HCCH Secretariat institutional framework operational."
+    },
+    {
+      "year": 1980,
+      "title": "Hague Convention 1980",
+      "description": "Hague Convention on the Civil Aspects of International Child Abduction 1980 — formal HCCH cross-border-child-abduction-resolution framework."
+    },
+    {
+      "year": 1993,
+      "title": "Hague Convention 1993",
+      "description": "Hague Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption 1993 — formal HCCH intercountry-adoption framework."
+    },
+    {
+      "year": 1996,
+      "title": "Hague Convention 1996",
+      "description": "Hague Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children 1996 — formal HCCH five-pillar parental-responsibility framework."
+    },
+    {
+      "year": 2007,
+      "title": "Hague Convention 2007 + Hague Protocol 2007 (Maintenance)",
+      "description": "Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007 + Hague Protocol on the Law Applicable to Maintenance Obligations 2007 — formal HCCH child-maintenance framework."
+    }
+  ],
+  "structural_findings": [
+    "HCCH operates a supranational global intergovernmental organisation operating private international law harmonisation framework — places HCCH in the global supranational-meta-framework cluster.",
+    "Only modern intergovernmental organisation operating private international law harmonisation framework with formal binding-treaty-elaboration framework is structurally distinctive globally — formal binding-treaty-elaboration framework.",
+    "Central jurisdiction of formal HCCH Hague Conventions framework is structurally distinctive globally — most-developed modern intergovernmental organisation private international law harmonisation framework with 41 Hague Conventions + 2 Hague Protocols + 1 Hague Principles + multiple Recommendations as of 2026.",
+    "Central jurisdiction of formal HCCH Children-Family Hague Conventions framework is structurally distinctive globally — most-developed modern intergovernmental organisation Children-Family private international law harmonisation framework.",
+    "Central jurisdiction of formal HCCH Permanent Bureau institutional framework is structurally distinctive globally — only modern intergovernmental organisation private international law harmonisation framework with formal Permanent Bureau institutional framework.",
+    "89 state party + 1 EU bloc state party framework is structurally distinctive globally — substantial global coverage framework.",
+    "1893 HCCH founded + 1951 Statute + 1955 Permanent Bureau + 1980 Hague Convention + 1993 Hague Convention + 1996 Hague Convention + 2007 Hague Convention HCCH-framework-development sequence is structurally distinctive globally.",
+    "HCCH Tobias Asser 1893 founder framework is structurally distinctive globally — formal foundational private international law harmonisation framework."
+  ],
+  "references": [
+    "jurisdiction:hague-convention-1980-child-abduction",
+    "jurisdiction:hague-convention-1993-intercountry-adoption",
+    "jurisdiction:hague-convention-1996-protection-of-children",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Hague Conference on Private International Law (HCCH)",
+      "url": "https://www.hcch.net/",
+      "publisher": "HCCH",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "HCCH jurisdiction sidecar — supranational global intergovernmental organisation operating private international law harmonisation meta-framework (HCCH founded 1893 + HCCH Statute 1951/1955 + HCCH Permanent Bureau + Hague Convention 1980 Civil Aspects of International Child Abduction + Hague Convention 1993 Intercountry Adoption + Hague Convention 1996 Protection of Children + Hague Convention 2007 Child Maintenance + Hague Protocol 2007 Maintenance + 41 Hague Conventions + 2 Hague Protocols + 1 Hague Principles + multiple Recommendations). Only modern intergovernmental organisation operating private international law harmonisation framework with formal binding-treaty-elaboration framework globally + central jurisdiction of formal HCCH Hague Conventions framework + central jurisdiction of formal HCCH Children-Family Hague Conventions framework + central jurisdiction of formal HCCH Permanent Bureau institutional framework + 89 state party + 1 EU bloc state party framework + 1893 HCCH founded + 1951 Statute + 1955 Permanent Bureau + 1980 Hague Convention + 1993 Hague Convention + 1996 Hague Convention + 2007 Hague Convention HCCH-framework-development sequence + HCCH Tobias Asser 1893 founder framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + intergovernmental-organisation-operating-private-international-law-harmonisation cluster + HCCH-only-modern-intergovernmental-organisation-operating-private-international-law-harmonisation-framework-globally-distinctive + HCCH-Permanent-Bureau + 41-Hague-Conventions + 2-Hague-Protocols + Children-Family-Hague-Conventions-cluster + Tobias-Asser-1893-founder + 89-state-party-1-EU-bloc-coverage + Hague-Convention-1980-1993-1996-2007-children-family-conventions-cluster clusters within the corpus."
+  ]
+}

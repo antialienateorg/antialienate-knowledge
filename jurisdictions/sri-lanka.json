@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "id": "sri-lanka",
+  "name": "Sri Lanka (ශ්‍රී ලංකා / இலங்கை)",
+  "jurisdiction_code": "LK",
+  "legal_system": "mixed",
+  "language": ["si", "ta", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Sri Lanka is a South Asian mixed-legal-system unitary republic combining Roman-Dutch civil-law substantive heritage with English common-law procedural inheritance, plus religious-community personal laws (Kandyan Sinhalese, Thesawalamai Tamil, Muslim). Family law operates under the General Marriage Ordinance 1907 and Civil Procedure Code for general matters, with Kandyan Marriage and Divorce Act 1952, Thesawalamai (Jaffna Tamils), and Muslim Marriage and Divorce Act 1951 for community-specific matters. Custody is governed by general law via District Courts. The Supreme Court of Sri Lanka is the apex court for civil, criminal, constitutional and administrative matters. Psychology profession regulation is administered through the Sri Lanka Medical Council framework with the Sri Lanka Psychological Association operating professional standards. Sri Lanka is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Sri Lanka acceded to the Hague Convention 1980 effective 1 August 2002.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "General Marriage Ordinance 1907",
+      "title": "General Marriage Ordinance",
+      "year": 1907,
+      "url": "https://www.parliament.lk/",
+      "relevance": "Federal statute governing general marriage and divorce matters."
+    },
+    {
+      "citation": "Muslim Marriage and Divorce Act 1951",
+      "title": "Muslim Marriage and Divorce Act",
+      "year": 1951,
+      "url": "https://www.parliament.lk/",
+      "relevance": "Federal statute governing Muslim personal-status matters via Quazi Courts."
+    },
+    {
+      "citation": "Kandyan Marriage and Divorce Act 1952",
+      "title": "Kandyan Marriage and Divorce Act",
+      "year": 1952,
+      "url": "https://www.parliament.lk/",
+      "relevance": "Federal statute governing Kandyan Sinhalese personal-status matters."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Sri Lanka",
+      "seat": "Colombo",
+      "url": "https://www.supremecourt.lk/",
+      "role": "Apex court for civil, criminal, constitutional and administrative matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Sri Lanka Psychological Association (SLPA)",
+      "url": "https://slpsy.org/",
+      "role": "Peak professional association for psychologists in Sri Lanka."
+    }
+  ],
+  "anonymisation_convention": "Sri Lankan family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1907,
+      "title": "General Marriage Ordinance",
+      "description": "Federal general marriage statute enacted."
+    },
+    {
+      "year": 1951,
+      "title": "Muslim Marriage and Divorce Act",
+      "description": "Federal Muslim personal-status statute."
+    },
+    {
+      "year": 1952,
+      "title": "Kandyan Marriage and Divorce Act",
+      "description": "Federal Kandyan Sinhalese personal-status statute."
+    },
+    {
+      "year": 2002,
+      "title": "Hague Convention 1980 accession",
+      "description": "Sri Lanka acceded to the Hague Convention 1980 effective 1 August 2002."
+    }
+  ],
+  "structural_findings": [
+    "Sri Lanka operates a structurally distinctive mixed-legal-system framework — Roman-Dutch civil-law substantive heritage + English common-law procedural inheritance + religious-community personal laws (Kandyan + Thesawalamai + Muslim). Within the corpus's mixed-jurisdiction cluster.",
+    "Roman-Dutch civil-law substantive heritage is structurally distinctive — Sri Lanka and South Africa share this Roman-Dutch tradition within the corpus.",
+    "Hague Convention 1980 accession 2002 places Sri Lanka in the Hague cluster — earlier South Asian accession.",
+    "Three religious-community personal-law frameworks operating in parallel (Kandyan + Thesawalamai + Muslim) is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:south-africa",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Sri Lanka",
+      "url": "https://www.supremecourt.lk/",
+      "publisher": "Supreme Court",
+      "language": "si,ta,en"
+    },
+    {
+      "title": "Parliament of Sri Lanka",
+      "url": "https://www.parliament.lk/",
+      "publisher": "Parliament",
+      "language": "si,ta,en"
+    },
+    {
+      "title": "Sri Lanka Psychological Association",
+      "url": "https://slpsy.org/",
+      "publisher": "SLPA",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Sri Lanka jurisdiction sidecar — mixed-legal-system framework (Roman-Dutch civil-law substantive + English common-law procedural + religious-community personal laws). General Marriage Ordinance 1907 + Muslim/Kandyan/Thesawalamai community frameworks + Hague Convention 1980 accession 2002.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Asian + Roman-Dutch + Hague Convention clusters within the corpus."
+  ]
+}

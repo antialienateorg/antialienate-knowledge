@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "id": "echr",
+  "name": "European Convention on Human Rights (ECHR / CETS 005)",
+  "jurisdiction_code": "ECH",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The European Convention on Human Rights (ECHR / formally Convention for the Protection of Human Rights and Fundamental Freedoms CETS 005) is a European supranational meta-framework human-rights binding-treaty instrument adopted by the Council of Europe — structurally distinctive globally as the only modern regional binding-treaty framework operating both formal human-rights binding-treaty framework + dedicated judicial-body framework with formal individual-applications jurisdiction (ECHR adopted 4 November 1950 + effective 3 September 1953 — formal European regional binding-treaty framework establishing comprehensive human-rights framework + European Court of Human Rights ECtHR formal judicial-body framework with formal individual-applications jurisdiction, distinct from rest-of-modern-international-human-rights frameworks which operate without formal regional-court-individual-applications-jurisdiction framework, structurally distinctive globally as the only modern regional human-rights framework with formal regional-court-individual-applications-jurisdiction framework processing ~50,000+ applications per year), as the central jurisdiction of the most distinctive modern Strasbourg Article 8 positive-obligations doctrine framework (ECHR Article 8 framework on right to respect for private and family life — formal framework underlying European parental-rights + child-protection + parental-alienation case-law framework, structurally distinctive globally as the most-developed modern regional human-rights framework on parental-rights + child-protection framework via Article 8 case-law framework including landmark cases Görgülü v. Germany 26 February 2004 + Maumousseau and Washington v. France 6 December 2007 + Neulinger and Shuruk v. Switzerland 6 July 2010 + Kupiec v. Poland 30 December 2010 + multiple subsequent ECtHR cases applying Article 8 positive-obligations doctrine framework to parental-alienation framework), as the central jurisdiction of the formal European post-WWII human-rights elaboration framework (ECHR adopted as European regional foundational human-rights binding-treaty framework — applicable to all 46 Council of Europe member states as of 2026 with universal European adoption framework, structurally distinctive globally as the most-widely-adopted regional human-rights binding-treaty framework with formal individual-applications-jurisdiction framework), and as the central jurisdiction of the European Court of Human Rights ECtHR framework with formal Grand Chamber + Chamber + Committee + Judge frameworks (ECtHR established 21 January 1959 under ECHR Article 19 framework + reformed via Protocol No. 11 1998 + Protocol No. 14 2010 + Protocol No. 15 2021 — formal European regional court framework with formal pilot-judgment + interim-measures + advisory-opinion frameworks, distinct from rest-of-modern-international-human-rights frameworks operating without formal regional-court framework). The ECHR is binding upon all 46 Council of Europe member states as of 2026 (excluding Russian Federation post-16 March 2022 expulsion + Belarus + Holy See never-joined frameworks). The Convention is silent on 'parental alienation' as a statutory label, though formal Article 8 framework operates substantial intersection with parental-alienation framework via Article 8 positive-obligations doctrine framework. The European Court of Human Rights is the apex judicial body framework with formal individual-applications jurisdiction. The ECHR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "European Convention on Human Rights 1950 (CETS 005)",
+      "title": "European Convention on Human Rights",
+      "year": 1953,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "Convention for the Protection of Human Rights and Fundamental Freedoms CETS 005 adopted 4 November 1950 + effective 3 September 1953 — formal European regional binding-treaty framework establishing comprehensive human-rights framework."
+    },
+    {
+      "citation": "ECHR Article 8 (Right to Respect for Private and Family Life)",
+      "title": "ECHR Article 8",
+      "year": 1953,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "ECHR Article 8 framework on right to respect for private and family life — formal framework underlying European parental-rights + child-protection + parental-alienation case-law framework."
+    },
+    {
+      "citation": "European Court of Human Rights ECtHR Establishment 1959 (ECHR Article 19)",
+      "title": "ECtHR Establishment",
+      "year": 1959,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "European Court of Human Rights ECtHR established 21 January 1959 under ECHR Article 19 framework — formal European regional court framework with formal individual-applications jurisdiction."
+    },
+    {
+      "citation": "ECHR Protocol No. 11 1998 (ECtHR Reform)",
+      "title": "ECHR Protocol No. 11",
+      "year": 1998,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "ECHR Protocol No. 11 effective 1 November 1998 — formal reform of ECtHR framework establishing permanent court framework + formal individual-applications jurisdiction expansion."
+    },
+    {
+      "citation": "ECtHR Article 8 Positive Obligations Doctrine Case-Law Framework (Görgülü 2004 + Neulinger 2010 + others)",
+      "title": "ECtHR Article 8 Positive Obligations Doctrine",
+      "year": 2010,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "ECtHR Article 8 positive-obligations doctrine framework via landmark cases Görgülü v. Germany 26 February 2004 + Maumousseau and Washington v. France 6 December 2007 + Neulinger and Shuruk v. Switzerland 6 July 2010 + Kupiec v. Poland 30 December 2010 + multiple subsequent cases — formal European parental-alienation case-law framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "European Court of Human Rights (ECtHR)",
+      "seat": "Strasbourg",
+      "url": "https://www.echr.coe.int/",
+      "role": "Apex judicial body framework with formal individual-applications jurisdiction for ECHR violations + ECHR Grand Chamber + Chamber + Committee + Judge frameworks."
+    },
+    {
+      "name": "Committee of Ministers of the Council of Europe",
+      "seat": "Strasbourg",
+      "url": "https://www.coe.int/en/web/cm",
+      "role": "Committee of Ministers of the Council of Europe — formal supervisory framework for ECtHR judgment execution."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Council of Europe Secretariat",
+      "url": "https://www.coe.int/",
+      "role": "ECHR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ECHR-related individual communications are anonymised per ECtHR practice using initials where appropriate.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "title": "Council of Europe founded",
+      "description": "Council of Europe founded 5 May 1949 — beginning of formal Council of Europe regional framework."
+    },
+    {
+      "year": 1950,
+      "title": "ECHR adopted",
+      "description": "Convention for the Protection of Human Rights and Fundamental Freedoms CETS 005 adopted 4 November 1950 — formal European regional binding-treaty framework establishing comprehensive human-rights framework."
+    },
+    {
+      "year": 1953,
+      "title": "ECHR enters force",
+      "description": "Convention for the Protection of Human Rights and Fundamental Freedoms entered force 3 September 1953 — formal European regional binding-treaty framework operational."
+    },
+    {
+      "year": 1959,
+      "title": "ECtHR established",
+      "description": "European Court of Human Rights ECtHR established 21 January 1959 under ECHR Article 19 framework — formal European regional court framework."
+    },
+    {
+      "year": 1998,
+      "title": "ECHR Protocol No. 11 ECtHR Reform",
+      "description": "ECHR Protocol No. 11 effective 1 November 1998 — formal reform of ECtHR framework establishing permanent court framework."
+    },
+    {
+      "year": 2004,
+      "title": "Görgülü v. Germany",
+      "description": "ECtHR Görgülü v. Germany Judgment 26 February 2004 — landmark Article 8 positive-obligations doctrine framework on parental-rights + child-protection framework."
+    },
+    {
+      "year": 2010,
+      "title": "Neulinger and Shuruk v. Switzerland",
+      "description": "ECtHR Neulinger and Shuruk v. Switzerland Grand Chamber Judgment 6 July 2010 — landmark Article 8 positive-obligations doctrine framework on cross-border-child-abduction + parental-alienation framework."
+    },
+    {
+      "year": 2022,
+      "title": "Russian Federation expulsion",
+      "description": "Russian Federation expelled from Council of Europe 16 March 2022 + ceased to be ECHR state party 16 September 2022 — formal end of Russian Federation ECHR framework."
+    }
+  ],
+  "structural_findings": [
+    "ECHR operates a supranational European regional human-rights binding-treaty framework — places ECHR in the European supranational-meta-framework cluster.",
+    "Only modern regional binding-treaty framework operating both formal human-rights binding-treaty framework + dedicated judicial-body framework with formal individual-applications jurisdiction is structurally distinctive globally — formal European Court of Human Rights ECtHR framework processing ~50,000+ applications per year.",
+    "Central jurisdiction of most distinctive modern Strasbourg Article 8 positive-obligations doctrine framework is structurally distinctive globally — formal framework underlying European parental-rights + child-protection + parental-alienation case-law framework.",
+    "Central jurisdiction of formal European post-WWII human-rights elaboration framework is structurally distinctive globally — most-widely-adopted regional human-rights binding-treaty framework with formal individual-applications-jurisdiction framework.",
+    "Central jurisdiction of European Court of Human Rights ECtHR framework with formal Grand Chamber + Chamber + Committee + Judge frameworks is structurally distinctive globally — formal regional court framework with formal pilot-judgment + interim-measures + advisory-opinion frameworks.",
+    "All 46 Council of Europe member state ratification framework is structurally distinctive globally — universal European adoption framework, distinct from Istanbul Convention 2011 38-state-party + Council of Europe Convention on Contact concerning Children 2003 15-state-party frameworks.",
+    "Russian Federation expulsion 16 March 2022 framework is structurally distinctive globally — first formal expulsion from Council of Europe in Council of Europe history.",
+    "Görgülü 2004 + Neulinger 2010 + multiple subsequent Article 8 cases parental-alienation-case-law-framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:council-of-europe",
+    "evidence:strasbourg-article-8-positive-obligations-doctrine",
+    "evidence:eu-apex-sequence-2017-2025",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "European Court of Human Rights",
+      "url": "https://www.echr.coe.int/",
+      "publisher": "ECtHR",
+      "language": "en"
+    },
+    {
+      "title": "Council of Europe",
+      "url": "https://www.coe.int/",
+      "publisher": "Council of Europe",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ECHR jurisdiction sidecar — supranational European regional human-rights binding-treaty meta-framework (ECHR 1950/1953 + ECHR Article 8 + ECtHR Establishment 1959 + ECHR Protocol No. 11 1998 + Görgülü 2004 + Neulinger 2010 + Council of Europe 1949 + Russian Federation expulsion 2022). Only modern regional binding-treaty framework operating both formal human-rights binding-treaty framework + dedicated judicial-body framework with formal individual-applications jurisdiction globally + central jurisdiction of most distinctive modern Strasbourg Article 8 positive-obligations doctrine framework + central jurisdiction of formal European post-WWII human-rights elaboration framework + central jurisdiction of European Court of Human Rights ECtHR framework + All 46 Council of Europe member state ratification framework universal European adoption + Russian Federation expulsion 16 March 2022 first formal expulsion from Council of Europe + Görgülü 2004 + Neulinger 2010 + multiple subsequent Article 8 cases parental-alienation-case-law-framework. Council of Europe regional-children-and-parental-rights triad complete (ECHR 1950 + Council of Europe Convention on the Exercise of Children's Rights 1996 + Council of Europe Convention on Contact concerning Children 2003).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ECtHR Article 8 positive-obligations doctrine framework operates substantial intersection with parental-alienation framework, though no formal ECtHR judgment formally applying Article 8 to parental-alienation framework as such.",
+    "Joins European + supranational + regional-human-rights-binding-treaty cluster + ECHR-only-regional-binding-treaty-with-formal-court-individual-applications-jurisdiction-globally-distinctive + Article-8-positive-obligations-doctrine-Strasbourg-PA-case-law + Görgülü-2004 + Neulinger-2010 + Kupiec-2010 + Maumousseau-Washington-2007 + ECtHR-50000-plus-applications-per-year + universal-46-Council-of-Europe-state-party + Russian-Federation-expulsion-2022 + Council-of-Europe-Convention-2003-Contact-concerning-Children-complementary + Council-of-Europe-Convention-1996-Exercise-of-Children-Rights-complementary clusters within the corpus."
+  ]
+}

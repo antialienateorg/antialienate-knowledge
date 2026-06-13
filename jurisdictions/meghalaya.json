@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0",
+  "id": "meghalaya",
+  "name": "Meghalaya (मेघालय / 'Abode of Clouds')",
+  "jurisdiction_code": "IN-ML",
+  "legal_system": "mixed",
+  "language": ["en", "kha", "grt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Meghalaya (मेघालय in Hindi, meaning 'Abode of Clouds') is a North-eastern Indian Khasi-Jaintia-Garo Hills mixed common-law/Khasi-customary-law/Jaintia-customary-law/Garo-customary-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state operating Constitution Sixth Schedule tribal-areas framework as the primary governance framework with three Autonomous District Councils (Khasi Hills Autonomous District Council, Jaintia Hills Autonomous District Council, Garo Hills Autonomous District Council) operating as the most comprehensive Indian sub-state tribal-autonomy framework, as the only Indian state with matrilineal-society constitutional framework where Khasi, Jaintia, and Garo customary law explicitly recognise matrilineal inheritance and family-property frameworks (where property and clan-membership pass through the maternal line — only modern Indian state with constitutionally-protected matrilineal customary law), and as the central jurisdiction of the most distinctive Indian state-level Christian-majority population framework (~75% Christian, predominantly Roman Catholic and Presbyterian, established through 19th-century Welsh Calvinist Methodist Mission). Meghalaya was carved out of Assam as the 21st state of India on 21 January 1972 under the North-Eastern Areas (Reorganisation) Act 1971. Meghalaya comprises ~22,429 km² with a population of ~3 million. Family-law framework operates under a dual federal Indian common-law + Khasi/Jaintia/Garo matrilineal-customary-law framework with customary law applied via Autonomous District Council customary courts under Sixth Schedule framework. Parental authority and child custody operate under matrilineal customary law for Khasi/Jaintia/Garo persons subject to Indian general framework. The Meghalaya High Court (established 23 March 2013, separating from Gauhati High Court Shillong Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Meghalaya is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Meghalaya is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of India Sixth Schedule (Meghalaya Autonomous District Councils)",
+      "title": "Constitution Sixth Schedule",
+      "year": 1950,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Sixth Schedule establishing tribal-areas autonomous-district-council framework applicable in Meghalaya — Khasi Hills Autonomous District Council + Jaintia Hills Autonomous District Council + Garo Hills Autonomous District Council."
+    },
+    {
+      "citation": "North-Eastern Areas (Reorganisation) Act 1971",
+      "title": "North-Eastern Areas (Reorganisation) Act",
+      "year": 1971,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1971 establishing the State of Meghalaya effective 21 January 1972 — carving out Meghalaya from Assam."
+    },
+    {
+      "citation": "Khasi Hills Autonomous District (Khasi Social Custom of Lineage) Act 1997",
+      "title": "Khasi Hills Matrilineal Lineage Act",
+      "year": 1997,
+      "url": "https://www.meghalaya.gov.in/",
+      "relevance": "Khasi Hills Autonomous District Council Act establishing matrilineal lineage framework for Khasi persons — constitutionally-protected matrilineal customary law."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Meghalaya High Court",
+      "seat": "Shillong",
+      "url": "https://meghalayahighcourt.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Meghalaya — established 23 March 2013."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Meghalaya."
+    },
+    {
+      "name": "Khasi/Jaintia/Garo Hills Autonomous District Councils (customary courts)",
+      "seat": "Various Meghalaya district headquarters",
+      "url": "https://www.meghalaya.gov.in/",
+      "role": "Autonomous District Council customary courts operating under Sixth Schedule framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Meghalaya."
+    }
+  ],
+  "anonymisation_convention": "Meghalaya family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1841,
+      "title": "Welsh Calvinist Methodist Mission begins",
+      "description": "Welsh Calvinist Methodist Mission to Khasi and Jaintia Hills commenced 1841 — beginning of Christianisation framework leading to ~75% Christian-majority population."
+    },
+    {
+      "year": 1950,
+      "title": "Sixth Schedule applicable to Khasi-Jaintia-Garo Hills (then in Assam)",
+      "description": "Constitution of India Sixth Schedule effective 26 January 1950 applicable to Khasi, Jaintia, and Garo Hills (then part of Assam) — establishing autonomous-district-council framework."
+    },
+    {
+      "year": 1972,
+      "title": "Meghalaya State established + Sixth Schedule continuation",
+      "description": "Meghalaya formed as 21st state of India on 21 January 1972 under North-Eastern Areas (Reorganisation) Act 1971 — Sixth Schedule framework continued."
+    },
+    {
+      "year": 2013,
+      "title": "Meghalaya High Court established",
+      "description": "Meghalaya High Court established 23 March 2013 — separating from Gauhati High Court Shillong Bench."
+    }
+  ],
+  "structural_findings": [
+    "Meghalaya operates a mixed federal Indian common-law + Khasi/Jaintia/Garo matrilineal-customary-law framework — places Meghalaya in the North-eastern Indian Indigenous-tribal-customary-law-protected cluster.",
+    "Only Indian state operating Constitution Sixth Schedule tribal-areas framework as the primary governance framework with three Autonomous District Councils is structurally distinctive globally — most comprehensive Indian sub-state tribal-autonomy framework.",
+    "Only Indian state with matrilineal-society constitutional framework where Khasi, Jaintia, and Garo customary law explicitly recognise matrilineal inheritance and family-property frameworks is structurally distinctive globally — only modern Indian state with constitutionally-protected matrilineal customary law.",
+    "Central jurisdiction of most distinctive Indian state-level Christian-majority population framework (~75% Christian) is structurally distinctive within Indian state cluster.",
+    "Welsh Calvinist Methodist Mission 1841+ Christianisation framework is structurally distinctive globally — only modern major Indian sub-state Christian population established via Welsh Calvinist Methodist mission framework.",
+    "Khasi Hills + Jaintia Hills + Garo Hills three-Autonomous-District-Council framework is structurally distinctive globally — only Indian state with three constitutionally-recognised tribal Autonomous District Councils operating under Sixth Schedule.",
+    "Meghalaya High Court 2013 establishment is structurally distinctive within Indian state High Court establishment cluster.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:bangladesh",
+    "jurisdiction:assam",
+    "jurisdiction:nagaland",
+    "jurisdiction:mizoram",
+    "jurisdiction:arunachal-pradesh",
+    "jurisdiction:manipur",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Meghalaya",
+      "url": "https://www.meghalaya.gov.in/",
+      "publisher": "Meghalaya Government",
+      "language": "en"
+    },
+    {
+      "title": "Meghalaya High Court",
+      "url": "https://meghalayahighcourt.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Meghalaya jurisdiction sidecar — mixed federal Indian common-law/Khasi/Jaintia/Garo matrilineal-customary-law North-eastern Indian Khasi-Jaintia-Garo Hills Indian-state (Indian Constitution Sixth Schedule + Khasi Hills + Jaintia Hills + Garo Hills Autonomous District Councils + North-Eastern Areas (Reorganisation) Act 1971 + Khasi Hills Matrilineal Lineage Act 1997 + Welsh Calvinist Methodist Mission Christianisation framework + Meghalaya High Court 2013 + Indian non-Hague-1980). Only Indian state operating Constitution Sixth Schedule tribal-areas framework as primary governance with three Autonomous District Councils globally + only Indian state with matrilineal-society constitutional framework + most distinctive Indian state-level Christian-majority population (~75%) + only modern major Indian sub-state Christian population via Welsh Calvinist Methodist mission framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-eastern-Indian + Khasi-Jaintia-Garo-Hills + mixed Indian-common-law/Khasi/Jaintia/Garo-matrilineal-customary-law + Indian-state cluster + Constitution-Sixth-Schedule-primary-governance-framework-globally-distinctive + matrilineal-customary-law-constitutional-framework + three-Autonomous-District-Councils + ~75-percent-Christian-majority + Welsh-Calvinist-Methodist-Mission-1841-framework + Meghalaya-High-Court-2013 + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

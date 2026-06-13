@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "id": "uncrc",
+  "name": "UN Convention on the Rights of the Child (UNCRC)",
+  "jurisdiction_code": "UNC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The UN Convention on the Rights of the Child (UNCRC) is a global supranational meta-framework children's-rights binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on children's-rights framework with formal universal-coverage framework (UNCRC adopted 20 November 1989 by UN General Assembly Resolution 44/25 + effective 2 September 1990 — formal universal multilateral binding-treaty framework establishing comprehensive children's-rights framework, distinct from rest-of-modern-international-human-rights frameworks which operate on broader general-rights frameworks, structurally distinctive globally as the most-widely-adopted UN human-rights treaty framework in human history), as the most-widely-adopted UN human-rights treaty framework in human history (UNCRC has 196 state parties as of 2026 — universal coverage except United States, which signed 16 February 1995 but did not ratify, structurally distinctive globally as the most-widely-adopted UN human-rights treaty framework in human history, ahead of CRPD 192 state parties + CEDAW 189 state parties + UNCAT 173 state parties), as the central jurisdiction of the formal Article 3 Best Interests of the Child framework (Convention Article 3(1) framework requiring 'best interests of the child shall be a primary consideration' in all actions concerning children — formal foundational best-interests-of-the-child framework underlying all subsequent modern international + regional + sub-national children's-rights frameworks, structurally distinctive globally as the most-fundamental modern children's-rights framework provision), and as the central jurisdiction of one of the most distinctive modern UNCRC Committee General Comment frameworks globally (UNCRC Committee General Comment 12 on the Right of the Child to be Heard 2009 + General Comment 14 on the Right of the Child to Have His or Her Best Interests Taken as a Primary Consideration 2013 + General Comment 25 on Children's Rights in Relation to the Digital Environment 2021 + multiple subsequent General Comments — formal UNCRC Committee General Comment framework, distinct from rest-of-modern-international-children's-rights frameworks operating without formal General Comment framework). The UNCRC is binding upon 196 state parties as of 2026 — universal coverage except United States. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 3 Best Interests + Article 9 Separation from Parents + Article 12 Right to be Heard + Article 18 Common Responsibilities + Article 19 Protection from Harm + Article 27 Standard of Living frameworks operate substantial intersection with parental-alienation framework. The UNCRC Committee is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The UNCRC is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention on the Rights of the Child 1989",
+      "title": "UNCRC",
+      "year": 1990,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Rights of the Child adopted 20 November 1989 by UN General Assembly Resolution 44/25 + effective 2 September 1990 — formal universal multilateral binding-treaty framework establishing comprehensive children's-rights framework."
+    },
+    {
+      "citation": "UNCRC Article 3 (Best Interests of the Child)",
+      "title": "UNCRC Article 3",
+      "year": 1990,
+      "url": "https://www.un.org/",
+      "relevance": "UNCRC Article 3(1) framework requiring 'best interests of the child shall be a primary consideration' in all actions concerning children — formal foundational best-interests-of-the-child framework underlying all subsequent modern international + regional + sub-national children's-rights frameworks."
+    },
+    {
+      "citation": "UNCRC Optional Protocol 3 2011 (Communications Procedure)",
+      "title": "UNCRC Optional Protocol 3",
+      "year": 2014,
+      "url": "https://www.un.org/",
+      "relevance": "UNCRC Optional Protocol 3 on a Communications Procedure adopted 19 December 2011 + effective 14 April 2014 — formal UNCRC Committee individual communications framework, applicable to 51 state parties as of 2026."
+    },
+    {
+      "citation": "UNCRC Committee General Comment 12 2009 (Right of Child to be Heard) + General Comment 14 2013 (Best Interests)",
+      "title": "UNCRC General Comments 12 + 14",
+      "year": 2013,
+      "url": "https://www.ohchr.org/",
+      "relevance": "UNCRC Committee General Comment 12 of 2009 on the Right of the Child to be Heard + General Comment 14 of 2013 on the Right of the Child to Have His or Her Best Interests Taken as a Primary Consideration — formal UNCRC Committee General Comment framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNCRC Committee",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/crc",
+      "role": "Apex monitoring framework body for UNCRC."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "UNCRC implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNCRC-related individual communications are anonymised per UNCRC Committee practice using initials.",
+  "key_developments": [
+    {
+      "year": 1924,
+      "title": "Geneva Declaration of the Rights of the Child",
+      "description": "Geneva Declaration of the Rights of the Child adopted 26 September 1924 by League of Nations — earliest formal international framework on children's-rights."
+    },
+    {
+      "year": 1959,
+      "title": "Declaration of the Rights of the Child",
+      "description": "UN Declaration of the Rights of the Child adopted 20 November 1959 by UN General Assembly — predecessor framework to UNCRC."
+    },
+    {
+      "year": 1989,
+      "title": "UNCRC adopted",
+      "description": "UN Convention on the Rights of the Child adopted 20 November 1989 by UN General Assembly Resolution 44/25 — formal universal multilateral binding-treaty framework establishing comprehensive children's-rights framework."
+    },
+    {
+      "year": 1990,
+      "title": "UNCRC enters force",
+      "description": "UN Convention on the Rights of the Child entered force 2 September 1990 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "UNCRC Optional Protocol 1 + 2",
+      "description": "UNCRC Optional Protocol 1 on the Involvement of Children in Armed Conflict + UNCRC Optional Protocol 2 on the Sale of Children, Child Prostitution and Child Pornography adopted 25 May 2000 — formal UNCRC Optional Protocol framework."
+    },
+    {
+      "year": 2009,
+      "title": "UNCRC General Comment 12 (Right of Child to be Heard)",
+      "description": "UNCRC Committee General Comment 12 of 2009 on the Right of the Child to be Heard — formal UNCRC framework on children's right to participate in family-law proceedings."
+    },
+    {
+      "year": 2011,
+      "title": "UNCRC Optional Protocol 3 (Communications Procedure)",
+      "description": "UNCRC Optional Protocol 3 on a Communications Procedure adopted 19 December 2011 — formal UNCRC Committee individual communications framework."
+    },
+    {
+      "year": 2013,
+      "title": "UNCRC General Comment 14 (Best Interests)",
+      "description": "UNCRC Committee General Comment 14 of 2013 on the Right of the Child to Have His or Her Best Interests Taken as a Primary Consideration — formal UNCRC framework on best-interests-of-the-child framework."
+    }
+  ],
+  "structural_findings": [
+    "UNCRC operates a supranational universal multilateral binding-treaty framework — places UNCRC in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on children's-rights framework is structurally distinctive globally — formal-children's-rights-specific framework.",
+    "Most-widely-adopted UN human-rights treaty framework in human history is structurally distinctive globally — 196 state parties + universal coverage except United States.",
+    "Central jurisdiction of formal Article 3 Best Interests of the Child framework is structurally distinctive globally — formal foundational best-interests-of-the-child framework underlying all subsequent modern international + regional + sub-national children's-rights frameworks.",
+    "Central jurisdiction of one of most distinctive modern UNCRC Committee General Comment frameworks globally is structurally distinctive globally — General Comment 12 + 14 + 25 + multiple subsequent General Comments.",
+    "Article 3 Best Interests + Article 9 Separation from Parents + Article 12 Right to be Heard + Article 18 Common Responsibilities + Article 19 Protection from Harm + Article 27 Standard of Living formal six-article-PA-intersection framework is structurally distinctive globally.",
+    "United States non-ratification framework is structurally distinctive globally — only modern UN member state not party to UNCRC, structurally distinctive within modern children's-rights framework cluster.",
+    "1924 Geneva Declaration + 1959 UN Declaration + 1989 UNCRC + 1990 entry into force + 2000 Optional Protocols 1 + 2 + 2011 Optional Protocol 3 + multiple General Comments children's-rights-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:un-convention-on-the-rights-of-the-child",
+    "evidence:pa-as-child-abuse"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — UNCRC",
+      "url": "https://www.ohchr.org/en/treaty-bodies/crc",
+      "publisher": "OHCHR",
+      "language": "en"
+    },
+    {
+      "title": "UN",
+      "url": "https://www.un.org/",
+      "publisher": "United Nations",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNCRC jurisdiction sidecar — supranational global children's-rights universal multilateral binding-treaty meta-framework (UNCRC 1989/1990 + Article 3 Best Interests + Optional Protocols 1 + 2 2000 + Optional Protocol 3 2011/2014 + General Comments 12 + 14 + 25 + Geneva Declaration 1924 + UN Declaration 1959 + UNCRC Committee). Only modern universal multilateral binding-treaty framework operating specifically on children's-rights framework globally + most-widely-adopted UN human-rights treaty framework in human history + central jurisdiction of formal Article 3 Best Interests of the Child framework + central jurisdiction of one of most distinctive modern UNCRC Committee General Comment frameworks globally + Article 3 Best Interests + Article 9 Separation from Parents + Article 12 Right to be Heard + Article 18 Common Responsibilities + Article 19 Protection from Harm + Article 27 Standard of Living formal six-article-PA-intersection framework + United States non-ratification framework only modern UN member state not party + 1924 Geneva Declaration + 1959 UN Declaration + 1989 UNCRC + 1990 entry into force + 2000 Optional Protocols + 2011 Optional Protocol 3 + multiple General Comments children's-rights-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + universal-multilateral-children's-rights-binding-treaty cluster + UNCRC-most-widely-adopted-UN-human-rights-treaty-in-human-history-globally-distinctive + Article-3-Best-Interests-foundational-framework + Article-9-Separation-from-Parents + Article-12-Right-to-be-Heard + Article-18-Common-Responsibilities + Article-19-Protection-from-Harm + Article-27-Standard-of-Living + General-Comment-12-Right-of-Child-to-be-Heard-2009 + General-Comment-14-Best-Interests-2013 + General-Comment-25-Digital-Environment-2021 + Optional-Protocol-3-Communications-Procedure-2011-2014 + United-States-non-ratification + 196-state-party-universal-coverage + foundational-framework-for-all-subsequent-children-rights-frameworks-globally clusters within the corpus."
+  ]
+}

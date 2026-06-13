@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "id": "trentino",
+  "name": "Trentino (Provincia Autonoma di Trento / Trentin)",
+  "jurisdiction_code": "IT-TN",
+  "legal_system": "civil-law",
+  "language": ["it", "lld", "mhn", "cim"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Trentino (officially Provincia Autonoma di Trento / Provinz Trient / Trentin) is an Alpine civil-law autonomous province of the Italian Republic — the southern Italian-language counterpart to South Tyrol within the broader Trentino-Alto Adige autonomous region — structurally distinctive globally as the only EU member-state subnational entity operating four constitutionally-protected linguistic minority frameworks (Ladin in the Fassa Valley; Mòcheno in the Mòcheno Valley/Bersntol; Cimbrian in Lusern; and Italian as majority language), as the central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities (Ladin Fassa, Mòcheno Bersntol, Cimbrian Lusern — distinct Walser-Bavarian Germanic-language islands within Italian autonomous province), and as the southern co-equal partner with South Tyrol in the unique Trentino-Alto Adige two-province autonomous-region framework where each constituent province (Trentino + South Tyrol) holds equivalent autonomy and the regional layer functions primarily as a coordinator. Trentino's autonomous-province framework was established by Italian Constitutional Law 1/1948 of 26 February 1948 (as integrated into the broader Trentino-Alto Adige Statuto Speciale 1972), comprehensively re-established by Italian Constitutional Law 1/1971 + the 1971 Pacchetto agreement. The 1972 Statuto Speciale per il Trentino-Alto Adige (modified by Constitutional Law 2/2001) grants Trentino exclusive legislative competence over agriculture, forests, tourism, mountain economy, and various other matters. Family-law framework operates under the Italian Civil Code (Codice Civile 1942, as amended by Law 54/2006 Joint Custody Reform) applied via Trentino autonomous-province administrative framework with Ladin, Mòcheno, and Cimbrian language-rights protections. Parental authority (responsabilità genitoriale) and child custody operate under Italian Civil Code Articles 315-342-bis as amended. The Trento Court of Appeal is the apex appellate court for Trentino civil and criminal matters; final appellate jurisdiction lies with the Italian Court of Cassation and the Italian Constitutional Court. Trentino is silent on 'parental alienation' as a statutory label. Italy is a Hague Convention 1980 party (acceded 22 February 1985) — Trentino Hague applicability via Italian territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Statuto Speciale per il Trentino-Alto Adige 1972",
+      "title": "Trentino-Alto Adige Special Statute",
+      "year": 1972,
+      "url": "https://www.consiglio.provincia.tn.it/",
+      "relevance": "Italian Constitutional Law of 31 August 1972 establishing the Special Statute for Trentino-Alto Adige with comprehensive autonomous-province framework for both Trentino and South Tyrol."
+    },
+    {
+      "citation": "Italian Constitutional Law 1/1971 + Pacchetto agreement 1971",
+      "title": "Italian Constitutional Law 1/1971",
+      "year": 1971,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Constitutional Law and Pacchetto agreement comprehensively re-establishing Trentino-South Tyrol autonomous-province framework following 1960s autonomy crisis."
+    },
+    {
+      "citation": "Italian Law 482/1999 (Linguistic Minorities Protection)",
+      "title": "Italian Linguistic Minorities Protection Law",
+      "year": 1999,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities — applies to Ladin Fassa, Mòcheno Bersntol, and Cimbrian Lusern minorities in Trentino."
+    },
+    {
+      "citation": "Provincial Law 6/2008 (Trentino Linguistic Minorities Framework)",
+      "title": "Trentino Linguistic Minorities Framework",
+      "year": 2008,
+      "url": "https://www.consiglio.provincia.tn.it/",
+      "relevance": "Trentino Provincial Law 6/2008 establishing comprehensive protection framework for Ladin, Mòcheno, and Cimbrian minorities."
+    },
+    {
+      "citation": "Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)",
+      "title": "Italian Civil Code — Parental Authority",
+      "year": 2006,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Trentino."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Trento (Corte d'Appello di Trento)",
+      "seat": "Trento",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex appellate court for civil and criminal matters from Trentino."
+    },
+    {
+      "name": "Corte di Cassazione (Italian Court of Cassation)",
+      "seat": "Rome",
+      "url": "https://www.cortedicassazione.it/",
+      "role": "Final appellate court for civil and criminal matters from Trentino."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ordine degli Psicologi della Provincia Autonoma di Trento",
+      "url": "https://www.psicotrento.it/",
+      "role": "Trentino provincial professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Trentino family-court decisions are anonymised per Italian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1919,
+      "title": "Treaty of Saint-Germain + transfer to Italy",
+      "description": "Treaty of Saint-Germain-en-Laye of 10 September 1919 transferring Trentino from Austria to Italy following Austria-Hungarian dissolution after WWI."
+    },
+    {
+      "year": 1948,
+      "title": "Italian Constitutional Law 1/1948 (First Statute)",
+      "description": "Italian Constitutional Law 1/1948 of 26 February 1948 establishing first Trentino-Alto Adige autonomy statute."
+    },
+    {
+      "year": 1971,
+      "title": "Pacchetto agreement + Constitutional Law 1/1971",
+      "description": "Pacchetto agreement and Italian Constitutional Law 1/1971 comprehensively re-establishing Trentino-South Tyrol autonomous-province framework."
+    },
+    {
+      "year": 1972,
+      "title": "Statuto Speciale per il Trentino-Alto Adige 1972",
+      "description": "Italian Constitutional Law of 31 August 1972 establishing comprehensive Trentino-Alto Adige Special Statute with autonomous-province framework."
+    },
+    {
+      "year": 2001,
+      "title": "Constitutional Law 2/2001 + autonomy expansion",
+      "description": "Italian Constitutional Law 2/2001 expanding Trentino-South Tyrol autonomy framework."
+    },
+    {
+      "year": 2008,
+      "title": "Provincial Law 6/2008 (Linguistic Minorities Framework)",
+      "description": "Trentino Provincial Law 6/2008 establishing comprehensive protection framework for Ladin, Mòcheno, and Cimbrian minorities."
+    }
+  ],
+  "structural_findings": [
+    "Trentino operates a civil-law Italian Codice Civile framework via Trentino autonomous-province administrative framework with four constitutionally-protected linguistic-minority frameworks — places Trentino in the Alpine Italian autonomous-province cluster.",
+    "Only EU member-state subnational entity operating four constitutionally-protected linguistic-minority frameworks (Ladin + Mòcheno + Cimbrian + Italian) is structurally distinctive globally.",
+    "Central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities (Ladin Fassa + Mòcheno Bersntol + Cimbrian Lusern) is structurally distinctive globally.",
+    "Southern co-equal partner with South Tyrol in unique Trentino-Alto Adige two-province autonomous-region framework is structurally distinctive globally — where each constituent province holds equivalent autonomy and regional layer functions primarily as a coordinator.",
+    "Trentino-Alto Adige two-province autonomous-region framework with co-equal autonomous provinces is structurally distinctive globally — only modern EU autonomous-region framework with co-equal autonomous-province members.",
+    "Provincial Law 6/2008 Trentino Linguistic Minorities Framework is structurally distinctive within Italian linguistic-minority cluster.",
+    "Cimbrian Lusern (single-commune Cimbrian-language linguistic isolate) and Mòcheno Bersntol (Mòcheno-Valley Mòcheno-language linguistic isolate) are structurally distinctive globally — among the most distinct Germanic-language linguistic isolates in Europe.",
+    "Italian Hague Convention 1980 accession 1985 + Trentino Italian-civil-law framework intersection is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:italy",
+    "jurisdiction:south-tyrol",
+    "jurisdiction:austria",
+    "jurisdiction:germany",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Consiglio della Provincia Autonoma di Trento",
+      "url": "https://www.consiglio.provincia.tn.it/",
+      "publisher": "Trentino Government",
+      "language": "it"
+    },
+    {
+      "title": "Italian Ministry of Justice",
+      "url": "https://www.giustizia.it/",
+      "publisher": "Italian Government",
+      "language": "it"
+    }
+  ],
+  "editorial_notes": [
+    "Trentino jurisdiction sidecar — civil-law Alpine Italian autonomous province with four constitutionally-protected linguistic-minority frameworks (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale per il Trentino-Alto Adige 1972 + Italian Constitutional Law 1/1971 Pacchetto + Italian Law 482/1999 Linguistic Minorities Protection + Provincial Law 6/2008 Trentino Linguistic Minorities Framework + Italian Hague Convention 1980 accession 1985). Only EU member-state subnational with four constitutionally-protected linguistic-minority frameworks globally + central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities + southern co-equal partner with South Tyrol in unique Trentino-Alto Adige two-province autonomous-region framework + only modern EU autonomous-region framework with co-equal autonomous-province members. Completes Italian autonomous-region quintet (Sicily + Sardinia + Valle d'Aosta + Friuli-Venezia Giulia + Trentino-Alto Adige).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Alpine + civil-law + Italian-autonomous-province cluster + four-constitutionally-protected-linguistic-minority-frameworks-globally-distinctive + Ladin-Fassa + Mòcheno-Bersntol + Cimbrian-Lusern-Germanic-language-linguistic-isolates + two-province-co-equal-autonomous-region-framework + Trentino-Alto-Adige-with-South-Tyrol + Italian-Hague-1985-accession clusters within the corpus."
+  ]
+}

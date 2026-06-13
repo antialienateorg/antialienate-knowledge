@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0",
+  "id": "bosnia-and-herzegovina",
+  "name": "Bosnia and Herzegovina (Bosna i Hercegovina)",
+  "jurisdiction_code": "BA",
+  "legal_system": "civil-law",
+  "language": ["bs", "hr", "sr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Bosnia and Herzegovina is a Western Balkans civil-law federal state operating a complex constitutional architecture established by the Dayton Peace Agreement 1995. Family law operates at entity level: the Federation of Bosnia and Herzegovina (FBiH) operates the Porodični zakon FBiH 2005; Republika Srpska (RS) operates the Porodični zakon RS 2002; the Brčko District operates a separate family-law framework. Parental rights are governed by the entity codes; joint exercise during marriage is the statutory default. The Sud Bosne i Hercegovine (Court of BiH) handles state-level matters; family-law cases are heard within the entity courts with apex appellate jurisdiction in the entity Supreme Courts and constitutional review in the Ustavni sud BiH (Constitutional Court of BiH). Psychology profession regulation operates at entity level under Ministry of Health licensing frameworks. BiH is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Council of Europe member.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Porodični zakon FBiH 2005",
+      "title": "Family Code of the Federation of Bosnia and Herzegovina",
+      "year": 2005,
+      "url": "https://advokat-prnjavorac.com/zakoni/porodicni-zakon-fbih.pdf",
+      "relevance": "Entity-level family-law statute for the Federation of Bosnia and Herzegovina. Governs parental rights, custody and contact within FBiH territory."
+    },
+    {
+      "citation": "Porodični zakon Republike Srpske 2002",
+      "title": "Family Code of Republika Srpska",
+      "year": 2002,
+      "url": "https://www.advokat-prnjavorac.com/zakoni/porodicni-zakon-RS.pdf",
+      "relevance": "Entity-level family-law statute for Republika Srpska. Governs parental rights, custody and contact within RS territory."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Ustavni sud Bosne i Hercegovine (Constitutional Court of BiH)",
+      "seat": "Sarajevo",
+      "url": "https://www.ustavnisud.ba/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and individual constitutional complaints engaging European Convention rights (incorporated via Annex 4 to the Dayton Peace Agreement)."
+    },
+    {
+      "name": "Sud Bosne i Hercegovine (Court of BiH)",
+      "seat": "Sarajevo",
+      "url": "https://www.sudbih.gov.ba/",
+      "role": "State-level court handling state-level matters."
+    },
+    {
+      "name": "Vrhovni sud FBiH + Vrhovni sud RS",
+      "seat": "Sarajevo / Banja Luka",
+      "url": "https://www.vsud-fbih.pravosudje.ba/",
+      "role": "Entity-level Supreme Courts with apex appellate jurisdiction in entity-level family-law matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Društvo psihologa Federacije Bosne i Hercegovine (FBiH Psychological Society)",
+      "url": "https://psihologija.ba/",
+      "role": "Entity-level peak professional association for psychologists in FBiH."
+    },
+    {
+      "name": "Društvo psihologa Republike Srpske",
+      "url": "https://www.psihologija.rs.ba/",
+      "role": "Entity-level peak professional association for psychologists in RS."
+    }
+  ],
+  "anonymisation_convention": "BiH family-law decisions are anonymised per entity Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1995,
+      "title": "Dayton Peace Agreement",
+      "description": "General Framework Agreement for Peace in Bosnia and Herzegovina signed 14 December 1995. Established constitutional architecture with FBiH + RS entities and Brčko District. European Convention incorporated via Annex 4."
+    },
+    {
+      "year": 2002,
+      "title": "Porodični zakon RS 2002",
+      "description": "Family Code of Republika Srpska enacted."
+    },
+    {
+      "year": 2005,
+      "title": "Porodični zakon FBiH 2005",
+      "description": "Family Code of the Federation of Bosnia and Herzegovina enacted."
+    }
+  ],
+  "structural_findings": [
+    "Bosnia and Herzegovina operates a structurally distinctive federal architecture within the corpus — Dayton-established two-entity-plus-district framework (FBiH + RS + Brčko District) with family law operating at entity level. Distinctive among Western Balkans jurisdictions for the level of constitutional fragmentation.",
+    "European Convention incorporated via Annex 4 to the Dayton Peace Agreement — gives ECHR direct domestic-law standing. Constitutional Court individual-constitutional-complaint pathway operates engaging Convention rights including Article 8 positive-obligations framework.",
+    "Psychology profession regulation operates at entity level — parallel regulatory frameworks for FBiH and RS."
+  ],
+  "references": [
+    "jurisdiction:serbia",
+    "jurisdiction:croatia",
+    "jurisdiction:montenegro",
+    "jurisdiction:north-macedonia",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:federalism-patterns-and-pa-doctrine-fragmentation",
+    "evidence:strasbourg-article-8-positive-obligations-doctrine",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ustavni sud Bosne i Hercegovine",
+      "url": "https://www.ustavnisud.ba/",
+      "publisher": "Constitutional Court of BiH",
+      "language": "bs,hr,sr,en"
+    },
+    {
+      "title": "Sud Bosne i Hercegovine",
+      "url": "https://www.sudbih.gov.ba/",
+      "publisher": "Court of BiH",
+      "language": "bs,hr,sr,en"
+    },
+    {
+      "title": "Vrhovni sud FBiH",
+      "url": "https://www.vsud-fbih.pravosudje.ba/",
+      "publisher": "Supreme Court of FBiH",
+      "language": "bs,hr"
+    }
+  ],
+  "editorial_notes": [
+    "Bosnia and Herzegovina jurisdiction sidecar — Dayton-established federal architecture. Family law operates at entity level (FBiH + RS + Brčko District); Constitutional Court individual-complaint with ECHR incorporated via Annex 4.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western Balkans civil-law cluster + federalism-fragmentation cluster within the corpus."
+  ]
+}

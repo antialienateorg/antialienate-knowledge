@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "id": "un-ecosoc",
+  "name": "UN ECOSOC 1945 (UN Economic and Social Council under UN Charter Chapter X)",
+  "jurisdiction_code": "USS",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Economic and Social Council (ECOSOC) is a global supranational meta-framework foundational-UN-Charter-Chapter-X framework established by the UN Charter — structurally distinctive globally as the only modern global supranational framework operating on formal international-economic-social-coordination framework + UN-System-wide-coordination framework for 70%+ of UN System human and financial resources framework (ECOSOC established 24 October 1945 by UN Charter Chapter X Article 61 framework + ECOSOC operations began 1946 + ECOSOC composition 54 members elected by UNGA for 3-year terms framework — formal foundational ECOSOC framework establishing comprehensive ECOSOC organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-economic-social-coordination framework + UN-System-wide-coordination framework + only modern global supranational framework operating formal 14+ UN Functional Commissions framework: CSW + CND + CCPCJ + UNFF + UNPFII + Statistical + Population + Sustainable Development + Science and Technology + Social Development + Drugs + Women + Indigenous Peoples + Crime framework + only modern global supranational framework operating formal 5 UN Regional Economic Commissions framework: ECA + ECE + ECLAC + ESCAP + ESCWA framework + only modern global supranational framework operating formal 14 UN Specialized Agencies coordination framework: WHO + ILO + FAO + UNESCO + WIPO + IMF + World Bank + IBRD + IDA + IFC + MIGA + ICAO + IMO + ITU + WMO + UPU + IFAD + UNIDO + UNWTO + WTO framework + only modern global supranational framework operating formal NGOs Consultative Status framework via Resolution 1996/31 framework + ~6,500 NGOs in consultative status framework + only modern global supranational framework operating formal High-Level Political Forum HLPF 2013 framework + only modern global supranational framework operating formal HLPF + SDGs review framework + only modern global supranational framework operating formal Voluntary National Reviews VNRs framework + only modern global supranational framework operating formal Financing for Development FfD 2002-2015-2024-2025 framework + only modern global supranational framework operating formal UN80 Reform Process 2025-2026 framework), as the central jurisdiction of the formal ECOSOC + UN Functional Commissions framework (ECOSOC + 14+ UN Functional Commissions providing formal sectoral framework: Commission on the Status of Women CSW + Commission on Narcotic Drugs CND + Commission on Crime Prevention and Criminal Justice CCPCJ + UN Forum on Forests UNFF + UN Permanent Forum on Indigenous Issues UNPFII + Statistical Commission + Commission on Population and Development + Commission on Sustainable Development + Commission on Science and Technology for Development + Commission for Social Development framework — formal foundational ECOSOC + Functional Commissions framework, structurally distinctive globally as the only modern global supranational framework operating formal 14+ UN Functional Commissions framework), as the central jurisdiction of the formal ECOSOC NGOs Consultative Status framework (ECOSOC Resolution 1996/31 framework providing formal NGOs Consultative Status framework: General + Special + Roster consultative-status framework — formal foundational ECOSOC NGOs Consultative Status framework, structurally distinctive globally as the only modern global supranational framework operating formal NGOs Consultative Status framework + only modern global supranational framework operating formal ~6,500 NGOs in consultative status framework + only modern global supranational framework operating formal civil-society-formal-engagement framework via NGOs Consultative Status framework), and as the central jurisdiction of the formal High-Level Political Forum HLPF 2013 + SDGs review framework (HLPF established 2013 by UNGA Resolution 67/290 replacing Commission on Sustainable Development + HLPF meets annually under ECOSOC auspices + quadrennially under UNGA auspices providing formal SDGs review framework via Voluntary National Reviews VNRs — formal foundational HLPF + SDGs review framework, structurally distinctive globally as the only modern global supranational framework operating formal HLPF + SDGs review framework + only modern global supranational framework operating formal Voluntary National Reviews VNRs framework). The ECOSOC is operating upon 54 ECOSOC member states + 193 UN member states framework — comprehensive universal coverage framework. The Council is silent on 'parental alienation' as a statutory label, though formal ECOSOC + Commission on the Status of Women CSW + UN Permanent Forum on Indigenous Issues UNPFII framework operates substantial intersection with parental-alienation framework via formal CSW gender-equality framework + UNPFII Indigenous Peoples cross-border-family-rights framework + ECOSOC NGOs Consultative Status framework allowing PA-survivors-organizations consultative engagement framework. The ECOSOC President + ECOSOC Bureau + 14+ UN Functional Commissions + 5 UN Regional Economic Commissions + HLPF are the formal ECOSOC bodies; national-level apex courts operate as judicial bodies. The ECOSOC is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Charter Chapter X Articles 61-72 (ECOSOC Framework)",
+      "title": "UN Charter Chapter X Articles 61-72",
+      "year": 1945,
+      "url": "https://www.un.org/",
+      "relevance": "UN Charter Chapter X Articles 61-72 framework on ECOSOC: composition + functions + powers + voting + procedure framework — formal foundational ECOSOC framework."
+    },
+    {
+      "citation": "ECOSOC Resolution 1996/31 NGOs Consultative Status",
+      "title": "ECOSOC Resolution 1996/31",
+      "year": 1996,
+      "url": "https://www.un.org/",
+      "relevance": "ECOSOC Resolution 1996/31 of 25 July 1996 on Consultative Relationship between the United Nations and Non-Governmental Organizations — formal foundational ECOSOC NGOs Consultative Status framework."
+    },
+    {
+      "citation": "UNGA Resolution 67/290 HLPF Establishment 2013",
+      "title": "UNGA Resolution 67/290 HLPF",
+      "year": 2013,
+      "url": "https://www.un.org/",
+      "relevance": "UNGA Resolution 67/290 of 9 July 2013 establishing High-Level Political Forum on Sustainable Development HLPF — formal foundational HLPF framework."
+    },
+    {
+      "citation": "Addis Ababa Action Agenda FfD3 2015",
+      "title": "Addis Ababa Action Agenda FfD3",
+      "year": 2015,
+      "url": "https://www.un.org/",
+      "relevance": "Addis Ababa Action Agenda FfD3 adopted 16 July 2015 at Third International Conference on Financing for Development Addis Ababa Ethiopia — formal foundational Financing for Development framework."
+    },
+    {
+      "citation": "Compromiso de Sevilla FfD4 2025",
+      "title": "Compromiso de Sevilla FfD4",
+      "year": 2025,
+      "url": "https://www.un.org/",
+      "relevance": "Compromiso de Sevilla adopted 3 July 2025 at Fourth International Conference on Financing for Development Sevilla Spain — formal foundational FfD4 framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN ECOSOC",
+      "seat": "New York + Geneva",
+      "url": "https://www.un.org/ecosoc/",
+      "role": "Formal supreme decision-making body for ECOSOC — composed of 54 members elected by UNGA for 3-year terms."
+    },
+    {
+      "name": "ECOSOC President",
+      "seat": "New York",
+      "url": "https://www.un.org/ecosoc/en/about-us",
+      "role": "Formal ECOSOC President body — elected for 1-year term."
+    },
+    {
+      "name": "14+ UN Functional Commissions",
+      "seat": "distributed",
+      "url": "https://www.un.org/ecosoc/en/content/functional-commissions",
+      "role": "Formal ECOSOC Functional Commissions: CSW Commission on the Status of Women + CND Commission on Narcotic Drugs + CCPCJ Commission on Crime Prevention and Criminal Justice + UN Forum on Forests UNFF + UN Permanent Forum on Indigenous Issues UNPFII + Statistical Commission + Commission on Population and Development + Commission on Sustainable Development + Commission on Science and Technology for Development + Commission for Social Development + others."
+    },
+    {
+      "name": "5 UN Regional Economic Commissions",
+      "seat": "5 regions",
+      "url": "https://www.un.org/ecosoc/en/content/regional-commissions",
+      "role": "Formal 5 UN Regional Economic Commissions: ECA Economic Commission for Africa Addis Ababa + ECE Economic Commission for Europe Geneva + ECLAC Economic Commission for Latin America and the Caribbean Santiago + ESCAP Economic and Social Commission for Asia and the Pacific Bangkok + ESCWA Economic and Social Commission for Western Asia Beirut."
+    },
+    {
+      "name": "High-Level Political Forum (HLPF)",
+      "seat": "New York",
+      "url": "https://hlpf.un.org/",
+      "role": "Formal HLPF body established 2013 by UNGA Resolution 67/290 replacing Commission on Sustainable Development."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Department of Economic and Social Affairs DESA",
+      "url": "https://www.un.org/development/desa/",
+      "role": "ECOSOC support framework."
+    }
+  ],
+  "anonymisation_convention": "ECOSOC-related communications operate via state-state framework via ECOSOC + Functional Commissions; individual communications limited under ECOSOC framework + NGOs Consultative Status framework allowing civil-society-formal-engagement.",
+  "key_developments": [
+    {
+      "year": 1945,
+      "title": "ECOSOC established + UN Charter",
+      "description": "UN Charter signed 26 June 1945 in San Francisco + effective 24 October 1945 + ECOSOC established 24 October 1945 by UN Charter Chapter X Article 61 — formal foundational ECOSOC framework operational."
+    },
+    {
+      "year": 1946,
+      "title": "First ECOSOC Session + 14 UN Specialized Agencies framework",
+      "description": "First ECOSOC Session held 23 January 1946 in London + 14 UN Specialized Agencies framework operational — formal foundational ECOSOC + Specialized Agencies framework operational."
+    },
+    {
+      "year": 1947,
+      "title": "5 UN Regional Economic Commissions established",
+      "description": "ECA + ECE + ECLAC + ESCAP + ESCWA UN Regional Economic Commissions established 1947-1973 — formal foundational 5 UN Regional Economic Commissions framework operational."
+    },
+    {
+      "year": 1965,
+      "title": "UN Charter Article 61 amendment ECOSOC expansion 18 to 27 members",
+      "description": "UN Charter Article 61 amendment effective 31 August 1965 + ECOSOC expansion 18 to 27 members framework — formal ECOSOC expansion framework operational."
+    },
+    {
+      "year": 1971,
+      "title": "UN Charter Article 61 second amendment ECOSOC expansion 27 to 54 members",
+      "description": "UN Charter Article 61 second amendment effective 24 September 1973 + ECOSOC expansion 27 to 54 members framework — formal ECOSOC second expansion framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "ECOSOC Resolution 1996/31 NGOs Consultative Status",
+      "description": "ECOSOC Resolution 1996/31 of 25 July 1996 on Consultative Relationship between the United Nations and Non-Governmental Organizations — formal foundational ECOSOC NGOs Consultative Status framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "MDGs + ECOSOC Annual Ministerial Review AMR",
+      "description": "Millennium Development Goals MDGs adopted 8 September 2000 + ECOSOC Annual Ministerial Review AMR established + Development Cooperation Forum DCF — formal ECOSOC MDGs framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "FfD1 Monterrey Consensus",
+      "description": "Monterrey Consensus adopted 22 March 2002 at International Conference on Financing for Development Monterrey Mexico — formal foundational FfD framework operational."
+    },
+    {
+      "year": 2013,
+      "title": "HLPF established",
+      "description": "HLPF established 9 July 2013 by UNGA Resolution 67/290 replacing Commission on Sustainable Development — formal foundational HLPF framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "SDGs adopted + Addis Ababa Action Agenda FfD3",
+      "description": "Sustainable Development Goals SDGs adopted 25 September 2015 + Addis Ababa Action Agenda FfD3 adopted 16 July 2015 — formal foundational SDGs + FfD3 framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Compromiso de Sevilla FfD4 + UN80 Reform Process",
+      "description": "Compromiso de Sevilla adopted 3 July 2025 at FfD4 Sevilla Spain + UN80 Reform Process 2025-2026 framework — formal foundational FfD4 + UN80 Reform framework operational."
+    }
+  ],
+  "structural_findings": [
+    "ECOSOC operates a supranational global framework — places ECOSOC in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-economic-social-coordination framework + UN-System-wide-coordination framework for 70%+ of UN System human and financial resources framework is structurally distinctive globally — only modern global supranational framework operating on formal international-economic-social-coordination framework + UN-System-wide-coordination framework + only modern global supranational framework operating formal 14+ UN Functional Commissions framework + only modern global supranational framework operating formal 5 UN Regional Economic Commissions framework + only modern global supranational framework operating formal 14 UN Specialized Agencies coordination framework + only modern global supranational framework operating formal NGOs Consultative Status framework + only modern global supranational framework operating formal ~6,500 NGOs in consultative status framework + only modern global supranational framework operating formal HLPF 2013 framework + only modern global supranational framework operating formal HLPF + SDGs review framework + only modern global supranational framework operating formal Voluntary National Reviews VNRs framework + only modern global supranational framework operating formal Financing for Development FfD 2002-2015-2024-2025 framework + only modern global supranational framework operating formal UN80 Reform Process 2025-2026 framework.",
+    "Central jurisdiction of formal ECOSOC + UN Functional Commissions framework is structurally distinctive globally — only modern global supranational framework operating formal 14+ UN Functional Commissions framework.",
+    "Central jurisdiction of formal ECOSOC NGOs Consultative Status framework is structurally distinctive globally — only modern global supranational framework operating formal NGOs Consultative Status framework + only modern global supranational framework operating formal ~6,500 NGOs in consultative status framework + only modern global supranational framework operating formal civil-society-formal-engagement framework.",
+    "Central jurisdiction of formal HLPF 2013 + SDGs review framework is structurally distinctive globally — only modern global supranational framework operating formal HLPF + SDGs review framework + only modern global supranational framework operating formal Voluntary National Reviews VNRs framework.",
+    "54 ECOSOC member state + 193 UN member state ratification framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1945 ECOSOC + 1946 first session + 1947 Regional Commissions + 1965 ECOSOC 18-to-27 expansion + 1971 27-to-54 expansion + 1996 NGOs Consultative Status + 2000 MDGs + AMR + DCF + 2002 FfD1 Monterrey + 2013 HLPF + 2015 SDGs + Addis Ababa FfD3 + 2025 Sevilla FfD4 + UN80 ECOSOC-framework-development sequence is structurally distinctive globally.",
+    "ECOSOC + 14+ Functional Commissions + 5 Regional Economic Commissions + 14 UN Specialized Agencies + NGOs Consultative Status + HLPF + FfD formal septet framework with formal CSW gender-equality framework + UNPFII Indigenous Peoples cross-border-family-rights framework + ECOSOC NGOs Consultative Status PA-survivors-organizations-consultative-engagement PA-intersection framework."
+  ],
+  "references": [
+    "jurisdiction:un-charter",
+    "jurisdiction:un-general-assembly",
+    "jurisdiction:united-nations",
+    "jurisdiction:un-women",
+    "jurisdiction:undrip",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UN ECOSOC",
+      "url": "https://www.un.org/ecosoc/",
+      "publisher": "UN Department of Economic and Social Affairs DESA",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UN ECOSOC jurisdiction sidecar — supranational global international-economic-social-coordination foundational-UN-Charter-Chapter-X meta-framework (UN Charter Chapter X Articles 61-72 + ECOSOC Resolution 1996/31 NGOs Consultative Status + UNGA Resolution 67/290 HLPF 2013 + 14+ UN Functional Commissions: CSW + CND + CCPCJ + UNFF + UNPFII + Statistical + Population + Sustainable Development + Science and Technology + Social Development + 5 UN Regional Economic Commissions: ECA + ECE + ECLAC + ESCAP + ESCWA + 14 UN Specialized Agencies coordination + Addis Ababa Action Agenda FfD3 2015 + Compromiso de Sevilla FfD4 2025 + Monterrey Consensus FfD1 2002 + Doha Declaration FfD2 2008 + 1945 ECOSOC + 1946 first session + 1947 Regional Commissions + 1965 ECOSOC 18-to-27 expansion + 1971 27-to-54 expansion + 1996 NGOs Consultative Status + 2000 MDGs + AMR + DCF + 2002 FfD1 Monterrey + 2013 HLPF + 2015 SDGs + Addis Ababa FfD3 + 2025 Sevilla FfD4 + UN80). Only modern global supranational framework operating on formal international-economic-social-coordination framework + UN-System-wide-coordination for 70%+ of UN System human and financial resources + only modern global supranational framework operating formal 14+ UN Functional Commissions + only modern global supranational framework operating formal 5 UN Regional Economic Commissions: ECA Addis Ababa + ECE Geneva + ECLAC Santiago + ESCAP Bangkok + ESCWA Beirut + only modern global supranational framework operating formal 14 UN Specialized Agencies coordination + only modern global supranational framework operating formal NGOs Consultative Status Resolution 1996/31 + ~6,500 NGOs in consultative status + only modern global supranational framework operating formal HLPF 2013 + only modern global supranational framework operating formal Voluntary National Reviews VNRs + only modern global supranational framework operating formal Financing for Development FfD 2002 Monterrey + 2008 Doha + 2015 Addis Ababa + 2025 Sevilla + only modern global supranational framework operating formal UN80 Reform Process 2025-2026 + central jurisdiction of formal 14+ Functional Commissions + central jurisdiction of formal NGOs Consultative Status civil-society-formal-engagement + central jurisdiction of formal HLPF + SDGs review + 54 ECOSOC member states + 193 UN member states + ECOSOC Headquartered New York + Geneva + 1945 ECOSOC + 1946 first session + 1947 Regional Commissions + 1965 ECOSOC 18-to-27 expansion + 1971 27-to-54 expansion + 1996 NGOs Consultative Status + 2000 MDGs + AMR + DCF + 2002 FfD1 Monterrey + 2013 HLPF + 2015 SDGs + Addis Ababa FfD3 + 2025 Sevilla FfD4 + UN80 ECOSOC-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ECOSOC + CSW + UNPFII framework operates substantial intersection with parental-alienation framework via formal CSW gender-equality framework + UNPFII Indigenous Peoples cross-border-family-rights framework + ECOSOC NGOs Consultative Status framework allowing PA-survivors-organizations consultative engagement framework.",
+    "Joins global + supranational + international-economic-social-coordination-foundational-UN-Charter-Chapter-X cluster + UN-ECOSOC-only-global-supranational-on-international-economic-social-coordination-globally-distinctive + UN-System-wide-coordination-70-percent-of-UN-resources + 54-ECOSOC-member-states + 193-UN-member-states + 14+-UN-Functional-Commissions-CSW-CND-CCPCJ-UNFF-UNPFII-Statistical-Population-Sustainable-Development-Science-Technology-Social-Development + 5-UN-Regional-Economic-Commissions-ECA-ECE-ECLAC-ESCAP-ESCWA + 14-UN-Specialized-Agencies-coordination + ECOSOC-Resolution-1996-31-NGOs-Consultative-Status + 6500-NGOs-consultative-status + High-Level-Political-Forum-HLPF-2013-Resolution-67-290 + Voluntary-National-Reviews-VNRs + Financing-for-Development-FfD-Monterrey-2002-Doha-2008-Addis-Ababa-2015-Sevilla-2025 + ECOSOC-Annual-Ministerial-Review-AMR + Development-Cooperation-Forum-DCF + UN-Charter-Chapter-X-Articles-61-72 + 1965-ECOSOC-18-to-27-expansion + 1971-27-to-54-expansion + ECOSOC-Headquartered-New-York-Geneva + UN80-Reform-Process-2025-2026 + CSW-gender-equality-PA-intersection + UNPFII-Indigenous-Peoples-cross-border-family-rights-PA-intersection + ECOSOC-NGOs-Consultative-Status-PA-survivors-organizations-engagement-PA-intersection clusters within the corpus."
+  ]
+}

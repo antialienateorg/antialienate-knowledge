@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "id": "south-africa",
+  "name": "South Africa",
+  "jurisdiction_code": "ZA",
+  "legal_system": "mixed",
+  "language": ["en", "af", "zu", "xh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "South Africa is a mixed Roman-Dutch / common-law jurisdiction whose family-law architecture is the Children's Act 38/2005 (best-interests paramount, s.7 best-interests factor list, s.28 Constitution paramountcy), the Maintenance Act 99/1998, the Divorce Act 70/1979 and a body of Supreme Court of Appeal / High Court family-law jurisprudence. T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (Adams J, Gauteng Local Division Johannesburg, 13 July 2023) is the leading authority crystallising PA as a clinically and judicially recognised phenomenon. Clinical psychology is regulated by the HPCSA Professional Board for Psychology (clinical / counselling / educational / forensic categories); social work by the SACSSP under the Social Service Professions Act 110/1978; parenting coordinators are accredited via NABFAM. SA Standards of Practice for Forensic Assessments (2021, Martalas-chaired task force) form the discipline-level evaluator-quality anchor.",
+  "pa_recognition_status": {
+    "statutory": "indirect-hook",
+    "apex_court_position": "recognition",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children's Act 38/2005",
+      "title": "Children's Act 38/2005 — substantive children's-law statute",
+      "year": 2005,
+      "url": "https://www.gov.za/documents/childrens-act",
+      "relevance": "Substantive South African children's-law statute. s.7 best-interests-of-the-child factor list (12 enumerated factors) operationalises the constitutional paramountcy principle (s.28 of the Bill of Rights). s.6 general principles and s.9 best-interests primacy form the doctrinal frame within which PA-adjacent custody / care / contact disputes are decided at High Court level."
+    },
+    {
+      "citation": "Children's Act 38/2005 s.7",
+      "title": "Children's Act 38/2005 s.7 — best-interests factor list",
+      "year": 2005,
+      "url": "https://www.gov.za/documents/childrens-act",
+      "relevance": "Enumerated best-interests factor list (a)-(n) including the nature of the personal relationship between the child and parents (s.7(1)(a)), the attitude of each parent (s.7(1)(c)), the capacity of parents to provide for the child's needs (s.7(1)(d)), the likely effect of any change of circumstances on the child (s.7(1)(e)), and protection from physical or psychological harm (s.7(1)(l)). The s.7(1)(c) attitude factor is the substantive hook engaged in TLD v BG when assessing alienating parental conduct."
+    },
+    {
+      "citation": "Constitution of South Africa s.28(2)",
+      "title": "Constitution of South Africa 1996 s.28 — children's rights paramountcy",
+      "year": 1996,
+      "url": "https://www.gov.za/documents/constitution-republic-south-africa-1996",
+      "relevance": "Bill of Rights s.28(2): 'A child's best interests are of paramount importance in every matter concerning the child.' Constitutional paramountcy principle that the Children's Act 38/2005 operationalises. All SA family-court PA reasoning ultimately anchors on this constitutional standard."
+    },
+    {
+      "citation": "Divorce Act 70/1979",
+      "title": "Divorce Act 70/1979 — substantive divorce statute",
+      "year": 1979,
+      "url": "https://www.gov.za/documents/divorce-act",
+      "relevance": "Statutory framework for divorce including patrimonial consequences and arrangements regarding minor children (s.6). s.6(1) requires the court to satisfy itself that the arrangements for any minor child are satisfactory or the best that can be effected in the circumstances — substantive hook for SA family-law engagement with PA-adjacent care / contact arrangements at divorce."
+    },
+    {
+      "citation": "Maintenance Act 99/1998",
+      "title": "Maintenance Act 99/1998 — child and spousal maintenance",
+      "year": 1998,
+      "url": "https://www.gov.za/documents/maintenance-act",
+      "relevance": "Procedural and substantive framework for maintenance orders. PA-adjacent fact-patterns frequently surface in maintenance proceedings where contact obstruction intersects with maintenance enforcement disputes."
+    },
+    {
+      "citation": "Health Professions Act 56/1974",
+      "title": "Health Professions Act 56/1974 — HPCSA / Professional Board for Psychology",
+      "year": 1974,
+      "url": "https://www.hpcsa.co.za/",
+      "relevance": "Statutory framework under which the Health Professions Council of South Africa (HPCSA) and its Professional Board for Psychology operate. Establishes statutory registration categories — clinical psychology, counselling psychology, educational psychology, forensic psychology — that are the load-bearing credentials for any court-facing PA work. HPCSA Form 257 statutory psychotherapy register."
+    },
+    {
+      "citation": "Social Service Professions Act 110/1978",
+      "title": "Social Service Professions Act 110/1978 — SACSSP",
+      "year": 1978,
+      "url": "https://www.sacssp.co.za/",
+      "relevance": "Statutory framework for the South African Council for Social Service Professions (SACSSP). Statutory registration for social workers and social-service practitioners. The SACSSP is the regulatory analogue to HPCSA for the social-work register engaged in SA family-court forensic assessment."
+    },
+    {
+      "citation": "Domestic Violence Act 116/1998",
+      "title": "Domestic Violence Act 116/1998 (as amended by Act 14/2021)",
+      "year": 1998,
+      "url": "https://www.gov.za/documents/domestic-violence-act",
+      "relevance": "Substantive DV statute including psychological and economic abuse definitions (s.1). 2021 amendment expands coercive-control and digital-abuse coverage. Re-frames the evidential backdrop for SA family-court PA-adjacent dispute assessment where DV / PA dynamics intersect."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Constitutional Court of South Africa",
+      "url": "https://www.concourt.org.za/",
+      "key_decisions": [
+        {
+          "caption": "Apex constitutional court. Has addressed s.28 paramountcy in S v M (Centre for Child Law as amicus curiae) [2007] ZACC 18 and subsequent children's-rights jurisprudence, but no Constitutional Court decision has directly engaged the parental-alienation construct.",
+          "year": 2007,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Supreme Court of Appeal (SCA)",
+      "url": "https://www.supremecourtofappeal.org.za/",
+      "key_decisions": [
+        {
+          "caption": "ZDE v CE [2024] ZASCA 159 — Supreme Court of Appeal apex-appellate engagement with the High Court PA line. Cross-link case-study TBD when promoted from current africa.json structural-finding reference.",
+          "year": 2024,
+          "stance": "recognition"
+        },
+        {
+          "caption": "SCA family-law appellate jurisprudence on care, contact and parental responsibilities. The SCA reviews High Court decisions on family-law matters including PA-adjacent custody disputes.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "High Court of South Africa — provincial divisions (Gauteng / Western Cape / KZN / Eastern Cape / etc.)",
+      "url": "https://www.judiciary.org.za/",
+      "key_decisions": [
+        {
+          "caption": "T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 — Adams J, Gauteng Local Division Johannesburg, 13 July 2023. Leading SA High Court authority crystallising parental alienation as a clinically and judicially recognised phenomenon. The substantive Recognition-camp anchor in SA jurisprudence.",
+          "case_study_ref": "tld-v-bg-2023-zagpjhc-801-south-africa",
+          "year": 2023,
+          "stance": "recognition"
+        },
+        {
+          "caption": "SA High Court family-law divisions are the first-instance forum for divorce and contested care/contact proceedings. PA-adjacent fact-patterns are decided here under Children's Act s.7 best-interests factor list and Divorce Act s.6, often informed by HPCSA-registered forensic-psychology expert evidence.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Health Professions Council of South Africa (HPCSA) — Professional Board for Psychology",
+      "url": "https://www.hpcsa.co.za/",
+      "position_statement": "Statutory regulator for psychology in South Africa under Health Professions Act 56/1974. Statutory registration categories (clinical / counselling / educational / forensic) are the load-bearing credentials for any court-facing PA work. HPCSA has issued no PA-specific position statement, no scope-of-practice notice, and no notifications-standard guidance on PA-construct deployment. Regulator silence on the construct is the AU/NL/BE/IN/NZ-parallel pattern."
+    },
+    {
+      "name": "South African Council for Social Service Professions (SACSSP)",
+      "url": "https://www.sacssp.co.za/",
+      "position_statement": "Statutory regulator for social workers and social-service practitioners under Social Service Professions Act 110/1978. SACSSP-registered social workers act as forensic assessors and Section 27 / Family Advocate-attached assistants. No PA-specific SACSSP position statement issued."
+    },
+    {
+      "name": "NABFAM — National Accreditation Board for Family Mediators",
+      "url": "https://www.nabfam.co.za/",
+      "position_statement": "Voluntary accreditation board for family mediators and parenting coordinators in South Africa. NABFAM-accredited parenting coordinators operate under court-ordered or voluntary agreements in PA-adjacent contact disputes. No PA-specific NABFAM position statement issued."
+    },
+    {
+      "name": "FAMAC — Family Mediators Association of the Cape",
+      "url": "https://www.famac.co.za/",
+      "position_statement": "Regional family-mediation voluntary association (Cape). Subsidiary professional body to NABFAM. No PA-specific position statement."
+    },
+    {
+      "name": "KAFAM / SAAM — KZN and South African Association of Mediators",
+      "url": "https://www.saam.org.za/",
+      "position_statement": "Provincial / national mediation voluntary associations. Subsidiary professional bodies to NABFAM. No PA-specific position."
+    },
+    {
+      "name": "Family Advocate (Office of the Family Advocate) — Department of Justice",
+      "url": "https://www.justice.gov.za/family-advocate/",
+      "position_statement": "Statutory office under the Mediation in Certain Divorce Matters Act 24/1987. Family Advocates assist the High Court by enquiring into the welfare of minor or dependent children in divorce, care, contact and guardianship proceedings. The Family Advocate's office is the substantive SA institutional analogue to England-and-Wales Cafcass and Australian FRW pool. No PA-specific Family Advocate position; PA-construct engagement happens via individual-case forensic assessment."
+    },
+    {
+      "name": "Mosaic — Training, Service and Healing Centre for Women",
+      "url": "https://mosaic.org.za/",
+      "position_statement": "Civil-society women's-rights organisation focused on DV and abuse. Critique-camp institutional voice; engages PA-adjacent fact-patterns through the DV-survivor protective frame parallel to the Backbone Collective (NZ) and Lawyers Collective WRI (India) pattern."
+    },
+    {
+      "name": "Women Watch SA",
+      "url": "https://www.womenwatchsa.org/",
+      "position_statement": "Independent women's-rights watchdog and advocacy organisation. Critique-camp institutional voice; mirrors the African pattern (Mosaic SA + FIDA Kenya + Project Alert / WACOL Nigeria) of women's-rights organisations as the load-bearing institutional critique register."
+    }
+  ],
+  "anonymisation_convention": "South African High Court and Supreme Court of Appeal family-law judgments anonymise minor children consistently by initial. Adult parties are typically referenced by initial as well (e.g., 'T.L.D v B.G'; 'ZDE v CE') — a tighter anonymisation regime than the England & Wales Family Court but less strict than Australia's FLA s.121. Forensic-assessment experts (HPCSA-registered clinical / counselling / forensic psychologists, social workers) are named in published case reports — the SA convention preserves expert accountability while protecting child identity. SAFLII (Southern African Legal Information Institute) is the principal open-access case-law platform.",
+  "key_developments": [
+    {
+      "year": 1974,
+      "description": "Health Professions Act 56/1974 — establishes HPCSA and the Professional Board for Psychology regulatory framework.",
+      "url": "https://www.hpcsa.co.za/"
+    },
+    {
+      "year": 1978,
+      "description": "Social Service Professions Act 110/1978 — establishes SACSSP regulatory framework for social workers.",
+      "url": "https://www.sacssp.co.za/"
+    },
+    {
+      "year": 1979,
+      "description": "Divorce Act 70/1979 — substantive divorce statute including s.6 satisfactory-arrangements requirement for minor children.",
+      "url": "https://www.gov.za/documents/divorce-act"
+    },
+    {
+      "year": 1987,
+      "description": "Mediation in Certain Divorce Matters Act 24/1987 — establishes the Office of the Family Advocate.",
+      "url": "https://www.justice.gov.za/family-advocate/"
+    },
+    {
+      "year": 1996,
+      "description": "Constitution of South Africa 1996 s.28 — children's rights paramountcy principle.",
+      "url": "https://www.gov.za/documents/constitution-republic-south-africa-1996"
+    },
+    {
+      "year": 1998,
+      "description": "Domestic Violence Act 116/1998 — substantive DV statute (subsequently amended by Act 14/2021 to expand coercive-control and digital-abuse coverage).",
+      "url": "https://www.gov.za/documents/domestic-violence-act"
+    },
+    {
+      "year": 2005,
+      "description": "Children's Act 38/2005 — substantive children's-law statute with s.7 best-interests factor list (12 enumerated factors).",
+      "url": "https://www.gov.za/documents/childrens-act"
+    },
+    {
+      "year": 2021,
+      "description": "SA Standards of Practice for Forensic Assessments — Martalas-chaired task force document. Discipline-level evaluator-quality anchor.",
+      "url": "https://www.hpcsa.co.za/"
+    },
+    {
+      "year": 2023,
+      "description": "13.7.2023 — T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (Adams J, Gauteng Local Division Johannesburg). Leading SA High Court authority crystallising PA as a clinically and judicially recognised phenomenon.",
+      "url": "http://www.saflii.org/za/cases/ZAGPJHC/2023/801.html"
+    },
+    {
+      "year": 2024,
+      "description": "ZDE v CE [2024] ZASCA 159 — Supreme Court of Appeal apex-appellate engagement with the SA High Court PA line.",
+      "url": "http://www.saflii.org/za/cases/ZASCA/2024/159.html"
+    }
+  ],
+  "structural_findings": [
+    "SOUTH AFRICA IS THE SOLE AFRICAN JURISDICTION WITH NAMED-ON-RECORD PA CLINICIANS verifiable via leading apex judgments. The clinical practitioner cluster (Carr, Roux, Olivier, Els, Martalas, Viljoen, NWU social-work team) is documented in africa.json. Other African jurisdictions surface only at institutional or feminist-legal collective level (Kenya: CPRB + FIDA Kenya; Nigeria: NACP + Project Alert / WACOL; Egypt: NCCM).",
+    "T.L.D v B.G [2023] ZAGPJHC 801 IS THE SUBSTANTIVE RECOGNITION ANCHOR (Adams J, Gauteng Local Division Johannesburg, 13.7.2023). The judgment crystallises PA as a clinically and judicially recognised phenomenon under Children's Act s.7(1)(c) attitude-of-parents factor. SA RECOGNITION JURISPRUDENCE is anchored at provincial-High-Court level with subsequent SCA appellate engagement (ZDE v CE [2024] ZASCA 159).",
+    "REGULATOR SILENCE IS THE SECOND LOAD-BEARING STRUCTURAL FINDING. HPCSA Professional Board for Psychology and SACSSP have issued NO PA-position notice; SA recognition jurisprudence operates without explicit regulator doctrinal endorsement. SA clusters with the AU/NL/BE/IN/NZ regulator-silence pattern but is distinct in having an apex-court recognition stance — the closest comparator is India (apex recognition + regulator silence).",
+    "FOUR-CATEGORY PSYCHOLOGY REGISTRATION (HPCSA): clinical / counselling / educational / forensic. Forensic-psychology category registration is the load-bearing credential for SA court-facing PA-construct deployment. The 2021 SA Standards of Practice for Forensic Assessments (Martalas-chaired task force) are the discipline-level evaluator-quality anchor — substantively analogous in policy intent to the English Re Y [2026] EWFC 38 evaluator-regulation requirement but operationalised via professional standards rather than appellate case-law.",
+    "CIVIL-SOCIETY CRITIQUE REGISTER IS WOMEN'S-RIGHTS-ORGANISATION-LED — NOT CLINICIAN-LED. Mosaic + Women Watch SA carry the SA critique-camp institutional weight. This pattern mirrors the African regional pattern (FIDA Kenya, Project Alert / WACOL Nigeria) and the broader Global South pattern (India: Lawyers Collective WRI + Majlis + MASUM + Sakshi) of routing PA-construct critique through DV-protective women's-rights civil-society rather than through psychology professional associations.",
+    "PEER-REVIEWED SA PA LITERATURE: Viljoen & van Rensburg (J. Divorce & Remarriage 2014) and Bosch-Brits, Wessels & Roux (Social Work / Maatskaplike Werk 2018 SciELO) are the principal SA peer-reviewed PA-engaging studies located. No SA equivalent of the German clinician-critique cluster (Zimmermann / Fichtner / Walper) or Spanish Vaccaro coinage has been identified.",
+    "OFFICE OF THE FAMILY ADVOCATE (Mediation in Certain Divorce Matters Act 24/1987) is the SA institutional analogue to England-and-Wales Cafcass and Australian FCFCOA Family Report Writers pool. PA-construct engagement happens via individual-case forensic assessment rather than via Family Advocate doctrinal position — Family Advocate office has no PA-specific institutional stance."
+  ],
+  "references": [
+    "case-study:tld-v-bg-2023-zagpjhc-801-south-africa",
+    "practitioner:za.carr-leonard",
+    "practitioner:za.roux-anna",
+    "practitioner:za.olivier",
+    "practitioner:za.els",
+    "practitioner:za.martalas",
+    "practitioner:za.viljoen",
+    "practitioner:za.mosaic",
+    "practitioner:za.women-watch-sa",
+    "jurisdiction:england-and-wales",
+    "jurisdiction:australia"
+  ],
+  "sources": [
+    {
+      "title": "SAFLII — Southern African Legal Information Institute",
+      "url": "http://www.saflii.org/",
+      "publisher": "Southern African Legal Information Institute",
+      "language": "en"
+    },
+    {
+      "title": "Government of South Africa — gov.za",
+      "url": "https://www.gov.za/",
+      "publisher": "Government of South Africa",
+      "language": "en"
+    },
+    {
+      "title": "Constitutional Court of South Africa",
+      "url": "https://www.concourt.org.za/",
+      "publisher": "Constitutional Court of South Africa",
+      "language": "en"
+    },
+    {
+      "title": "Supreme Court of Appeal of South Africa",
+      "url": "https://www.supremecourtofappeal.org.za/",
+      "publisher": "Supreme Court of Appeal",
+      "language": "en"
+    },
+    {
+      "title": "Health Professions Council of South Africa (HPCSA)",
+      "url": "https://www.hpcsa.co.za/",
+      "publisher": "HPCSA",
+      "language": "en"
+    },
+    {
+      "title": "South African Council for Social Service Professions (SACSSP)",
+      "url": "https://www.sacssp.co.za/",
+      "publisher": "SACSSP",
+      "language": "en"
+    },
+    {
+      "title": "Office of the Family Advocate",
+      "url": "https://www.justice.gov.za/family-advocate/",
+      "publisher": "Department of Justice and Constitutional Development",
+      "language": "en"
+    },
+    {
+      "title": "NABFAM — National Accreditation Board for Family Mediators",
+      "url": "https://www.nabfam.co.za/",
+      "publisher": "NABFAM",
+      "language": "en"
+    },
+    {
+      "title": "Mosaic — Training, Service and Healing Centre for Women",
+      "url": "https://mosaic.org.za/",
+      "publisher": "Mosaic",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: SAFLII for case-law (TLD v BG + ZDE v CE); gov.za for statutes (Children's Act + Divorce Act + Maintenance Act + Domestic Violence Act); HPCSA + SACSSP for regulatory; SCA + ConCourt for appellate.",
+    "SA case-citation convention preserved: provincial-division ZAGPJHC + ZAWCHC + ZAGPPHC + ZAKZNDB + ZAECPEHC + ZAFSHC + ZASCA (SCA appellate) + ZACC (Constitutional Court).",
+    "Multilingual context: SA family-law judgments are predominantly English with Afrikaans, isiZulu and isiXhosa party submissions; the four working languages of family-court practice are English + Afrikaans (predominantly Western Cape / Northern Cape) + isiZulu (KZN) + isiXhosa (Eastern Cape).",
+    "Africa-aggregate africa.json therapist v2 file recognises SA as the only African jurisdiction with clinical-level PA practitioner record. Other African jurisdictions surface only at institutional or feminist-legal collective level; SA-specific jurisdiction sidecar is therefore the load-bearing African coverage at v1.0.",
+    "ZDE v CE [2024] ZASCA 159 referenced as 2024 SCA apex-appellate engagement; case-study promotion from africa.json structural-finding reference to standalone case-study slot is a future deepening task."
+  ]
+}

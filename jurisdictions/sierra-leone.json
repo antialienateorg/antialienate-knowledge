@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "sierra-leone",
+  "name": "Sierra Leone (Republic of Sierra Leone)",
+  "jurisdiction_code": "SL",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Sierra Leone is a West African mixed-legal-system republic combining English common-law substantive heritage (via colonial inheritance) with customary-law personal-status jurisdiction operating through Local Courts under the Local Courts Act 2011. Family-law framework operates under the Child Rights Act 2007, the Christian Marriage Act, the Mohammedan Marriage Act, the Civil Marriage Act, the Customary Marriage and Divorce Act 2009, and the Devolution of Estates Act 2007. Parental responsibility and child custody are governed by Child Rights Act Part VI. The Supreme Court of Sierra Leone is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, and Local Courts for customary-law matters. Psychology profession is regulated through the Ministry of Health and Sanitation framework. Sierra Leone is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Child Rights Act s. 1. Sierra Leone is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Child Rights Act 2007",
+      "title": "Child Rights Act",
+      "year": 2007,
+      "url": "https://www.judiciary.gov.sl/",
+      "relevance": "Federal Child Rights Act codifying best-interests-of-the-child principle (s. 1), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Customary Marriage and Divorce Act 2009",
+      "title": "Customary Marriage and Divorce Act",
+      "year": 2009,
+      "url": "https://www.judiciary.gov.sl/",
+      "relevance": "Federal statute on customary marriage and divorce."
+    },
+    {
+      "citation": "Local Courts Act 2011",
+      "title": "Local Courts Act",
+      "year": 2011,
+      "url": "https://www.judiciary.gov.sl/",
+      "relevance": "Federal statute establishing Local Courts for customary-law jurisdiction."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Sierra Leone",
+      "seat": "Freetown",
+      "url": "https://www.judiciary.gov.sl/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Sanitation, Sierra Leone",
+      "url": "https://www.mohs.gov.sl/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Sierra Leonean family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1961,
+      "title": "Independence",
+      "description": "Sierra Leone achieved independence from the United Kingdom."
+    },
+    {
+      "year": 1971,
+      "title": "Republic transition",
+      "description": "Sierra Leone became a republic."
+    },
+    {
+      "year": 2007,
+      "title": "Child Rights Act + Devolution of Estates Act",
+      "description": "Federal Child Rights Act and Devolution of Estates Act enacted codifying child welfare and inheritance provisions."
+    },
+    {
+      "year": 2009,
+      "title": "Customary Marriage and Divorce Act",
+      "description": "Federal statute on customary marriage and divorce enacted."
+    },
+    {
+      "year": 2011,
+      "title": "Local Courts Act",
+      "description": "Federal statute establishing Local Courts for customary-law jurisdiction."
+    }
+  ],
+  "structural_findings": [
+    "Sierra Leone operates a structurally distinctive mixed-legal-system framework — English common-law substantive heritage + Christian/Mohammedan/Civil/Customary marriage frameworks operating in parallel. Within the West African common-law cluster with Nigeria, Ghana, Gambia.",
+    "Multi-track marriage framework (Christian + Mohammedan + Civil + Customary) is structurally distinctive.",
+    "Non-Hague Convention status places Sierra Leone in the non-Hague West African cluster."
+  ],
+  "references": [
+    "jurisdiction:nigeria",
+    "jurisdiction:ghana",
+    "jurisdiction:gambia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Sierra Leone",
+      "url": "https://www.judiciary.gov.sl/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health and Sanitation",
+      "url": "https://www.mohs.gov.sl/",
+      "publisher": "MoH&S",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Sierra Leone jurisdiction sidecar — mixed-legal-system West Africa (English common-law substantive + multi-track marriage frameworks + customary-law via Local Courts). Child Rights Act 2007 + Customary Marriage Act 2009 + Local Courts Act 2011 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins West African + common-law + multi-track-marriage + non-Hague Convention clusters within the corpus."
+  ]
+}

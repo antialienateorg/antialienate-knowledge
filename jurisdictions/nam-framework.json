@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "id": "nam-framework",
+  "name": "NAM Framework 1961 (Non-Aligned Movement)",
+  "jurisdiction_code": "NAM",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Non-Aligned Movement (NAM) is a global supranational meta-framework non-treaty informal-cooperation framework adopted by the 25 founding Global-South states in Belgrade — structurally distinctive globally as the only modern Global-South non-treaty supranational framework operating on formal non-aligned-Cold-War-era framework + largest Global-South supranational framework after UN framework (NAM First NAM Summit 1-6 September 1961 in Belgrade Yugoslavia by 25 founding states + NAM founding inspired by 1955 Bandung Conference + Tito + Nehru + Nasser + Nkrumah + Sukarno NAM founding leaders framework — formal foundational NAM framework establishing comprehensive NAM organisation framework operating non-treaty informal-cooperation framework, distinct from rest-of-modern-supranational-frameworks which operate as formal binding-treaty frameworks, structurally distinctive globally as the only modern Global-South non-treaty supranational framework + only modern supranational framework operating formal non-aligned-Cold-War-era framework + largest Global-South supranational framework after UN with 120 member states framework + ~55% global population framework + ~25% global GDP framework + only modern supranational framework operating formal Bandung-Conference 1955-precursor framework + only modern supranational framework operating formal Pancha Shila Five Principles of Peaceful Coexistence framework + only modern supranational framework operating formal post-Cold-War-continuation framework despite end of Cold War 1991), as the central jurisdiction of the formal NAM Bandung Conference 1955 Five Principles framework (Bandung Conference adopted 18-24 April 1955 in Bandung Indonesia by 29 Asian + African states adopting formal Pancha Shila Five Principles of Peaceful Coexistence + Bandung Declaration 10 Principles — formal foundational NAM-precursor framework, structurally distinctive globally as the only modern supranational framework operating formal Bandung-Conference 1955-precursor framework + formal Pancha Shila Five Principles of Peaceful Coexistence framework), as the central jurisdiction of the formal NAM Belgrade Declaration 1961 framework (NAM Belgrade Declaration adopted 6 September 1961 at First NAM Summit Belgrade Yugoslavia providing formal NAM-non-aligned-foreign-policy framework — formal foundational NAM-non-aligned-foreign-policy framework, structurally distinctive globally as the only modern supranational framework operating formal NAM-non-aligned-foreign-policy framework), and as the central jurisdiction of the formal NAM Chairmanship + Summit Cycle framework (NAM Chairmanship rotates every 3-4 years + NAM Summit held every 3-4 years framework — formal foundational NAM Chairmanship + Summit framework, structurally distinctive globally as the only modern supranational framework operating formal triennial-quadrennial Chairmanship + Summit framework). The NAM Framework is operating upon 120 NAM member states + 17 NAM observer states + 10 NAM observer international organisations as of 2026 — comprehensive Global-South coverage framework. The Framework is silent on 'parental alienation' as a statutory label, though formal NAM framework operates limited intersection with parental-alienation framework via formal Global-South cross-border-children's-rights framework not directly addressing family-law-issues framework. The NAM Summit + NAM Chairmanship + NAM Coordinating Bureau + NAM Ministerial Meeting are the formal NAM bodies; national-level apex courts operate as judicial bodies. The NAM Framework is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Bandung Conference 1955 (Precursor)",
+      "title": "Bandung Conference",
+      "year": 1955,
+      "url": "https://www.nam.gov.az/",
+      "relevance": "Bandung Conference adopted 18-24 April 1955 in Bandung Indonesia by 29 Asian + African states — formal foundational NAM-precursor framework adopting Pancha Shila Five Principles of Peaceful Coexistence + Bandung Declaration 10 Principles."
+    },
+    {
+      "citation": "NAM Belgrade Declaration 1961",
+      "title": "NAM Belgrade Declaration",
+      "year": 1961,
+      "url": "https://www.nam.gov.az/",
+      "relevance": "NAM Belgrade Declaration adopted 6 September 1961 at First NAM Summit Belgrade Yugoslavia — formal foundational NAM framework + NAM-non-aligned-foreign-policy framework."
+    },
+    {
+      "citation": "Pancha Shila Five Principles of Peaceful Coexistence",
+      "title": "Pancha Shila",
+      "year": 1954,
+      "url": "https://www.nam.gov.az/",
+      "relevance": "Pancha Shila Five Principles of Peaceful Coexistence adopted 29 April 1954 in Sino-Indian Agreement + reaffirmed Bandung 1955 — formal foundational NAM-precursor framework."
+    },
+    {
+      "citation": "NAM Cartagena Document 1995",
+      "title": "NAM Cartagena Document",
+      "year": 1995,
+      "url": "https://www.nam.gov.az/",
+      "relevance": "NAM Cartagena Document adopted 18-20 October 1995 at 11th NAM Summit Cartagena Colombia — formal NAM-post-Cold-War-continuation framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "NAM Summit",
+      "seat": "rotating triennially-quadrennially",
+      "url": "https://www.nam.gov.az/",
+      "role": "Formal supreme decision-making body for NAM."
+    },
+    {
+      "name": "NAM Chairmanship",
+      "seat": "rotating triennially-quadrennially",
+      "url": "https://www.nam.gov.az/",
+      "role": "Formal NAM Chairmanship body rotating every 3-4 years."
+    },
+    {
+      "name": "NAM Coordinating Bureau",
+      "seat": "New York",
+      "url": "https://www.nam.gov.az/",
+      "role": "Formal NAM Coordinating Bureau body at UN."
+    },
+    {
+      "name": "NAM Ministerial Meeting",
+      "seat": "rotating",
+      "url": "https://www.nam.gov.az/",
+      "role": "Formal foreign ministers body for NAM."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "NAM Chairmanship Secretariat",
+      "url": "https://www.nam.gov.az/",
+      "role": "NAM Framework implementation framework — rotates with NAM Chairmanship every 3-4 years."
+    }
+  ],
+  "anonymisation_convention": "NAM-related communications operate via NAM Summit + NAM Chairmanship framework; individual communications not formally accepted under NAM framework.",
+  "key_developments": [
+    {
+      "year": 1954,
+      "title": "Pancha Shila Five Principles",
+      "description": "Pancha Shila Five Principles of Peaceful Coexistence adopted 29 April 1954 in Sino-Indian Agreement — predecessor framework to NAM."
+    },
+    {
+      "year": 1955,
+      "title": "Bandung Conference",
+      "description": "Bandung Conference adopted 18-24 April 1955 in Bandung Indonesia by 29 Asian + African states — formal foundational NAM-precursor framework adopted."
+    },
+    {
+      "year": 1961,
+      "title": "First NAM Summit Belgrade",
+      "description": "First NAM Summit held 1-6 September 1961 in Belgrade Yugoslavia by 25 founding states + NAM Belgrade Declaration adopted 6 September 1961 — formal foundational NAM framework operational."
+    },
+    {
+      "year": 1979,
+      "title": "Egypt's expulsion + Israel-Egypt Peace Treaty",
+      "description": "Egypt's expulsion from NAM 1979 following Egypt-Israel Camp David Accords + Israel-Egypt Peace Treaty — formal NAM expulsion framework operational."
+    },
+    {
+      "year": 1991,
+      "title": "Cold War ends + NAM relevance question framework",
+      "description": "Cold War ended 26 December 1991 with Soviet Union dissolution + NAM relevance question framework — formal NAM post-Cold-War-relevance question framework."
+    },
+    {
+      "year": 1995,
+      "title": "NAM Cartagena Document",
+      "description": "NAM Cartagena Document adopted 18-20 October 1995 at 11th NAM Summit Cartagena Colombia — formal NAM-post-Cold-War-continuation framework adopted."
+    },
+    {
+      "year": 2006,
+      "title": "Egypt rejoins NAM",
+      "description": "Egypt rejoined NAM 16 September 2006 at 14th NAM Summit Havana Cuba — formal NAM Egypt-rejoining framework."
+    },
+    {
+      "year": 2016,
+      "title": "Venezuela hosts 17th NAM Summit",
+      "description": "17th NAM Summit held 17-18 September 2016 in Margarita Island Venezuela — formal NAM Venezuela Chairmanship framework."
+    },
+    {
+      "year": 2019,
+      "title": "Azerbaijan hosts 18th NAM Summit",
+      "description": "18th NAM Summit held 25-26 October 2019 in Baku Azerbaijan + Azerbaijan Chairmanship 2019-2024 — formal NAM Azerbaijan Chairmanship framework."
+    },
+    {
+      "year": 2024,
+      "title": "Uganda hosts 19th NAM Summit",
+      "description": "19th NAM Summit held 15-20 January 2024 in Kampala Uganda + Uganda Chairmanship 2024-2027 — formal NAM Uganda Chairmanship framework."
+    }
+  ],
+  "structural_findings": [
+    "NAM Framework operates a supranational non-treaty informal-cooperation framework — places NAM Framework in the global supranational-meta-framework cluster.",
+    "Only modern Global-South non-treaty supranational framework operating on formal non-aligned-Cold-War-era framework + largest Global-South supranational framework after UN framework is structurally distinctive globally — only modern Global-South non-treaty supranational framework + only modern supranational framework operating formal non-aligned-Cold-War-era framework + largest Global-South supranational framework after UN with 120 member states + ~55% global population + ~25% global GDP + only modern supranational framework operating formal Bandung-Conference 1955-precursor framework + only modern supranational framework operating formal Pancha Shila Five Principles of Peaceful Coexistence framework + only modern supranational framework operating formal post-Cold-War-continuation framework despite end of Cold War 1991.",
+    "Central jurisdiction of formal NAM Bandung Conference 1955 Five Principles framework is structurally distinctive globally — only modern supranational framework operating formal Bandung-Conference 1955-precursor framework + formal Pancha Shila Five Principles of Peaceful Coexistence framework.",
+    "Central jurisdiction of formal NAM Belgrade Declaration 1961 framework is structurally distinctive globally — only modern supranational framework operating formal NAM-non-aligned-foreign-policy framework.",
+    "Central jurisdiction of formal NAM Chairmanship + Summit Cycle framework is structurally distinctive globally — only modern supranational framework operating formal triennial-quadrennial Chairmanship + Summit framework.",
+    "120 NAM member state + 17 NAM observer state + 10 NAM observer international organisation ratification framework is structurally distinctive globally — comprehensive Global-South coverage framework.",
+    "1954 Pancha Shila + 1955 Bandung Conference + 1961 First NAM Summit + 1979 Egypt expulsion + 1991 Cold War ends + 1995 Cartagena Document + 2006 Egypt rejoins + 2016 Venezuela + 2019 Azerbaijan + 2024 Uganda NAM-framework-development sequence is structurally distinctive globally.",
+    "NAM Framework + Bandung Conference + Pancha Shila + NAM Belgrade Declaration + Cartagena Document formal quintet framework with limited PA-intersection framework via formal Global-South cross-border-children's-rights framework not directly addressing family-law-issues framework — distinctive in operating non-treaty informal-cooperation framework relative to other regional + global frameworks."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:indonesia",
+    "jurisdiction:south-africa",
+    "jurisdiction:brics-framework",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "NAM",
+      "url": "https://www.nam.gov.az/",
+      "publisher": "NAM Chairmanship",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "NAM Framework jurisdiction sidecar — supranational global Global-South non-treaty informal-cooperation meta-framework (NAM Framework 1961 Belgrade + Bandung Conference 1955 + Pancha Shila 1954 + NAM Belgrade Declaration 1961 + Cartagena Document 1995 + 1979 Egypt expulsion + 2006 Egypt rejoins + 1991 Cold War ends + 2019 Azerbaijan Chairmanship + 2024 Uganda Chairmanship). Only modern Global-South non-treaty supranational framework globally + largest Global-South supranational framework after UN with 120 member states + ~55% global population + ~25% global GDP + only modern supranational framework operating formal non-aligned-Cold-War-era framework + only modern supranational framework operating formal Bandung-Conference 1955-precursor framework + only modern supranational framework operating formal Pancha Shila Five Principles of Peaceful Coexistence framework + only modern supranational framework operating formal post-Cold-War-continuation framework + central jurisdiction of formal Bandung Conference 1955 Five Principles + central jurisdiction of formal Belgrade Declaration 1961 NAM-non-aligned-foreign-policy + central jurisdiction of formal triennial-quadrennial Chairmanship + Summit + 120 NAM member states + 17 observer states + 10 observer international organisations + 1954 Pancha Shila + 1955 Bandung Conference + 1961 First NAM Summit + 1979 Egypt expulsion + 1991 Cold War ends + 1995 Cartagena Document + 2006 Egypt rejoins + 2016 Venezuela + 2019 Azerbaijan + 2024 Uganda NAM-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: NAM framework operates limited intersection with parental-alienation framework via formal Global-South cross-border-children's-rights framework not directly addressing family-law-issues framework — distinctive in operating non-treaty informal-cooperation framework relative to other regional + global frameworks.",
+    "Joins global + supranational + Global-South-non-treaty-informal-cooperation cluster + NAM-Framework-only-Global-South-non-treaty-supranational-framework-globally-distinctive + largest-Global-South-supranational-after-UN-120-members + 55-percent-global-population + 25-percent-global-GDP + Bandung-Conference-1955-precursor + Pancha-Shila-Five-Principles-of-Peaceful-Coexistence-1954 + Belgrade-Declaration-1961 + Tito-Nehru-Nasser-Nkrumah-Sukarno-founding-leaders + Cartagena-Document-1995-post-Cold-War-continuation + 1979-Egypt-expulsion-Camp-David + 2006-Egypt-rejoins-Havana + 1991-Cold-War-ends + NAM-Coordinating-Bureau-New-York + 19-NAM-Summits-1961-2024 + 2019-Azerbaijan-Baku-Chairmanship + 2024-Uganda-Kampala-Chairmanship + 17-NAM-observer-states + 10-NAM-observer-international-organisations + limited-PA-intersection-via-Global-South-non-treaty-framework clusters within the corpus."
+  ]
+}

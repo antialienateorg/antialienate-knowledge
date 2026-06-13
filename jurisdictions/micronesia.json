@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "id": "micronesia",
+  "name": "Micronesia (Federated States of Micronesia / FSM)",
+  "jurisdiction_code": "FM",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Federated States of Micronesia (FSM) is a Pacific Island common-law federal republic in Compact of Free Association with the United States (Compact 1986, renewed 2003). FSM is a federation of four states: Chuuk, Kosrae, Pohnpei, and Yap — each with autonomous state-level legislative competence including family-law matters. Family-law framework operates under FSM Code Title 6 (Domestic Relations) drawing on US-derivative common-law substantive heritage via Compact framework and prior US Trust Territory administration. State-level Family Codes operate alongside FSM federal-level provisions. Parental responsibility and child custody are governed by FSM Code Title 6 Chapters 1-4 and state-level provisions. The Supreme Court of FSM is the apex court for civil and criminal matters. State Courts of the four federated states operate parallel family-law jurisdiction. Customary-law jurisdiction operates in each of the four states (Chuukese, Kosraen, Pohnpeian, Yapese customary). Psychology profession is regulated through the Department of Health and Social Affairs framework. FSM is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. FSM is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "FSM Code Title 6 (Domestic Relations)",
+      "title": "FSM Code Title 6 — Domestic Relations",
+      "year": 1979,
+      "url": "https://www.fsmsupremecourt.org/",
+      "relevance": "Federal Domestic Relations Code codifying marriage, divorce, parental responsibility, and child custody framework. Chapters 1-4 govern parental responsibility and child custody."
+    },
+    {
+      "citation": "Compact of Free Association 1986 (renewed 2003)",
+      "title": "Compact of Free Association",
+      "year": 1986,
+      "url": "https://www.fsmsupremecourt.org/",
+      "relevance": "Compact establishing FSM's sovereign status with defense and certain economic relationships with the US."
+    },
+    {
+      "citation": "State Family Codes — Chuuk, Kosrae, Pohnpei, Yap",
+      "title": "State Family Codes",
+      "year": 1979,
+      "url": "https://www.fsmsupremecourt.org/",
+      "relevance": "State-level Family Codes operating alongside FSM federal-level provisions in each of the four federated states."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of FSM",
+      "seat": "Palikir, Pohnpei",
+      "url": "https://www.fsmsupremecourt.org/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Department of Health and Social Affairs, FSM",
+      "url": "https://www.fsmhealth.fm/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "FSM family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1979,
+      "title": "FSM Constitution + Code Title 6",
+      "description": "Federal Constitution of FSM adopted establishing federal framework with four-state autonomy; Title 6 (Domestic Relations) enacted."
+    },
+    {
+      "year": 1986,
+      "title": "Compact of Free Association",
+      "description": "Compact of Free Association with US establishing FSM's sovereign status."
+    },
+    {
+      "year": 2003,
+      "title": "Compact renewal (Compact II)",
+      "description": "Compact of Free Association renewed for 20 years from 2004."
+    }
+  ],
+  "structural_findings": [
+    "FSM operates a US-derivative common-law federal framework with structurally distinctive Compact-of-Free-Association status — places FSM in the Compact-of-Free-Association cluster (with Marshall Islands and Palau) within the corpus.",
+    "Four-state federal structure (Chuuk, Kosrae, Pohnpei, Yap) with autonomous state-level legislative competence including family-law matters is structurally distinctive within the Pacific cluster.",
+    "Customary-law jurisdiction in each of the four states reflects state-specific Chuukese, Kosraen, Pohnpeian, Yapese customary traditions.",
+    "Non-Hague Convention status places FSM in the non-Hague Pacific cluster."
+  ],
+  "references": [
+    "jurisdiction:marshall-islands",
+    "jurisdiction:palau",
+    "jurisdiction:united-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of FSM",
+      "url": "https://www.fsmsupremecourt.org/",
+      "publisher": "Supreme Court",
+      "language": "en"
+    },
+    {
+      "title": "Department of Health and Social Affairs",
+      "url": "https://www.fsmhealth.fm/",
+      "publisher": "Department of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "FSM jurisdiction sidecar — common-law Pacific Compact-of-Free-Association federal state (FSM Code Title 6 + Compact 1986/2003 + state-level Family Codes for Chuuk/Kosrae/Pohnpei/Yap + state-specific customary-law + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + US-derivative + Compact-of-Free-Association cluster + four-state-federal-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

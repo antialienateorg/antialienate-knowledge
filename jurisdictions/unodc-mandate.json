@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.0",
+  "id": "unodc-mandate",
+  "name": "UNODC Mandate 1997 (UN Office on Drugs and Crime)",
+  "jurisdiction_code": "UDC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Office on Drugs and Crime (UNODC) is a global supranational meta-framework foundational-UNODC framework established by the UN Secretary-General — structurally distinctive globally as the only modern global supranational framework operating on formal international-drugs-and-crime framework + only modern global supranational framework operating formal joint UN Office for Drug Control and Crime Prevention ODCCP consolidation framework (UNODC established 27 October 1997 by UN Secretary-General Kofi Annan as Office for Drug Control and Crime Prevention ODCCP consolidating UN International Drug Control Programme UNDCP 1991 + Centre for International Crime Prevention CICP 1995 + renamed UN Office on Drugs and Crime UNODC 1 October 2002 — formal foundational UNODC framework establishing comprehensive UNODC organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-drugs-and-crime framework + only modern global supranational framework operating formal joint UN Office for Drug Control and Crime Prevention ODCCP consolidation framework + only modern global supranational framework operating formal Three Drug Conventions framework: 1961 Single Convention + 1971 Convention on Psychotropic Substances + 1988 Convention against Illicit Traffic framework + only modern global supranational framework operating formal UN Convention against Transnational Organized Crime UNTOC 2000 Palermo framework + only modern global supranational framework operating formal UN Convention against Corruption UNCAC 2003 framework + only modern global supranational framework operating formal Palermo Protocols framework: Trafficking in Persons + Smuggling of Migrants + Firearms framework + only modern global supranational framework operating formal Commission on Narcotic Drugs CND + Commission on Crime Prevention and Criminal Justice CCPCJ + UNCAC + UNTOC Conferences of States Parties framework + only modern global supranational framework operating formal Cocaine-Heroin-Fentanyl-Synthetic-Opioids Trump-administration-anti-fentanyl 2025 framework + only modern global supranational framework operating formal Crypto-Crime Online-Crime emerging framework via UNODC Cybercrime Report 2024 framework), as the central jurisdiction of the formal UNODC Three Drug Conventions framework (UN Three Drug Conventions providing formal Single Convention on Narcotic Drugs 1961 + Convention on Psychotropic Substances 1971 + Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances 1988 framework — formal foundational UNODC Three Drug Conventions framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-drugs-control framework + only modern global supranational binding-treaty framework operating formal Three Drug Conventions framework), as the central jurisdiction of the formal UNTOC Palermo Convention 2000 + Three Palermo Protocols framework (UN Convention against Transnational Organized Crime UNTOC Palermo Convention signed 15 November 2000 in Palermo Italy + effective 29 September 2003 + Three Palermo Protocols: Trafficking in Persons + Smuggling of Migrants + Firearms framework — formal foundational UNTOC + Palermo Protocols framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-transnational-organized-crime framework + only modern global supranational binding-treaty framework operating formal Three Palermo Protocols framework with PA-intersection framework via cross-border-trafficking-of-children framework), and as the central jurisdiction of the formal UNCAC 2003 framework (UN Convention against Corruption UNCAC adopted 31 October 2003 by UN General Assembly Resolution 58/4 + effective 14 December 2005 — formal foundational UNCAC framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-anti-corruption framework). The UNODC Mandate is operating upon 80+ countries field operations + global coverage framework — comprehensive drugs-and-crime coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UNODC Palermo Trafficking in Persons Protocol framework operates substantial intersection with parental-alienation framework via formal UNODC cross-border-trafficking-of-children framework + UNODC INTERPOL Yellow Notice coordination framework. The UNODC CND + UNODC CCPCJ + UNODC Executive Director + UNODC Secretariat + UNODC Country Offices are the formal UNODC bodies; national-level apex courts operate as judicial bodies. The UNODC Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNODC Founding 1997",
+      "title": "UNODC Founding",
+      "year": 1997,
+      "url": "https://www.unodc.org/",
+      "relevance": "UNODC established 27 October 1997 by UN Secretary-General Kofi Annan as Office for Drug Control and Crime Prevention ODCCP — formal foundational UNODC framework establishing comprehensive UNODC organisation framework."
+    },
+    {
+      "citation": "Single Convention on Narcotic Drugs 1961",
+      "title": "Single Convention on Narcotic Drugs",
+      "year": 1964,
+      "url": "https://www.unodc.org/",
+      "relevance": "Single Convention on Narcotic Drugs adopted 30 March 1961 in New York + effective 13 December 1964 — formal foundational Single Convention on Narcotic Drugs framework."
+    },
+    {
+      "citation": "Convention on Psychotropic Substances 1971",
+      "title": "Convention on Psychotropic Substances",
+      "year": 1976,
+      "url": "https://www.unodc.org/",
+      "relevance": "Convention on Psychotropic Substances adopted 21 February 1971 in Vienna + effective 16 August 1976 — formal foundational Convention on Psychotropic Substances framework."
+    },
+    {
+      "citation": "Convention against Illicit Traffic 1988",
+      "title": "Convention against Illicit Traffic",
+      "year": 1990,
+      "url": "https://www.unodc.org/",
+      "relevance": "Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances adopted 20 December 1988 in Vienna + effective 11 November 1990 — formal foundational Convention against Illicit Traffic framework."
+    },
+    {
+      "citation": "UNTOC Palermo Convention 2000",
+      "title": "UNTOC Palermo Convention",
+      "year": 2003,
+      "url": "https://www.unodc.org/",
+      "relevance": "UN Convention against Transnational Organized Crime UNTOC Palermo Convention signed 15 November 2000 in Palermo Italy + effective 29 September 2003 — formal foundational UNTOC + Palermo Protocols framework."
+    },
+    {
+      "citation": "UNCAC 2003",
+      "title": "UNCAC",
+      "year": 2005,
+      "url": "https://www.unodc.org/",
+      "relevance": "UN Convention against Corruption UNCAC adopted 31 October 2003 by UN General Assembly Resolution 58/4 + effective 14 December 2005 — formal foundational UNCAC framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNODC Commission on Narcotic Drugs (CND)",
+      "seat": "Vienna",
+      "url": "https://www.unodc.org/unodc/en/commissions/CND/",
+      "role": "Formal supreme decision-making body for UNODC on drug-control."
+    },
+    {
+      "name": "UNODC Commission on Crime Prevention and Criminal Justice (CCPCJ)",
+      "seat": "Vienna",
+      "url": "https://www.unodc.org/unodc/en/commissions/CCPCJ/",
+      "role": "Formal supreme decision-making body for UNODC on crime prevention."
+    },
+    {
+      "name": "UNODC Executive Director",
+      "seat": "Vienna",
+      "url": "https://www.unodc.org/",
+      "role": "Formal administrative head body for UNODC — UNODC Executive Director Ghada Waly 2020-2025+ framework."
+    },
+    {
+      "name": "UNODC Secretariat",
+      "seat": "Vienna",
+      "url": "https://www.unodc.org/",
+      "role": "Formal administrative body for UNODC."
+    },
+    {
+      "name": "UNODC Country Offices (80+ countries)",
+      "seat": "80+ countries",
+      "url": "https://www.unodc.org/",
+      "role": "Formal UNODC country-level operations body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNODC Secretariat",
+      "url": "https://www.unodc.org/",
+      "role": "UNODC Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNODC-related communications operate via state-state framework via UNODC CND + CCPCJ + Conference of States Parties to UNTOC + UNCAC; individual communications limited under UNODC framework + formal anonymisation convention under UNTOC Trafficking in Persons Protocol framework.",
+  "key_developments": [
+    {
+      "year": 1961,
+      "title": "Single Convention on Narcotic Drugs",
+      "description": "Single Convention on Narcotic Drugs adopted 30 March 1961 in New York — formal foundational Single Convention on Narcotic Drugs framework adopted."
+    },
+    {
+      "year": 1971,
+      "title": "Convention on Psychotropic Substances",
+      "description": "Convention on Psychotropic Substances adopted 21 February 1971 in Vienna — formal foundational Convention on Psychotropic Substances framework adopted."
+    },
+    {
+      "year": 1988,
+      "title": "Convention against Illicit Traffic",
+      "description": "Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances adopted 20 December 1988 in Vienna — formal foundational Convention against Illicit Traffic framework adopted."
+    },
+    {
+      "year": 1991,
+      "title": "UNDCP UN International Drug Control Programme",
+      "description": "UNDCP UN International Drug Control Programme established 1991 — predecessor framework to UNODC."
+    },
+    {
+      "year": 1995,
+      "title": "CICP Centre for International Crime Prevention",
+      "description": "CICP Centre for International Crime Prevention established 1995 — predecessor framework to UNODC."
+    },
+    {
+      "year": 1997,
+      "title": "UNODC established as ODCCP",
+      "description": "UNODC established 27 October 1997 by UN Secretary-General Kofi Annan as Office for Drug Control and Crime Prevention ODCCP consolidating UNDCP + CICP — formal foundational UNODC framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "UNTOC Palermo Convention + Three Palermo Protocols",
+      "description": "UN Convention against Transnational Organized Crime UNTOC Palermo Convention signed 15 November 2000 in Palermo Italy + Three Palermo Protocols: Trafficking in Persons + Smuggling of Migrants + Firearms framework — formal foundational UNTOC + Palermo Protocols framework adopted."
+    },
+    {
+      "year": 2002,
+      "title": "ODCCP renamed UNODC",
+      "description": "ODCCP renamed UN Office on Drugs and Crime UNODC 1 October 2002 — formal UNODC renaming framework operational."
+    },
+    {
+      "year": 2003,
+      "title": "UNTOC enters force + UNCAC adopted",
+      "description": "UNTOC entered force 29 September 2003 + UN Convention against Corruption UNCAC adopted 31 October 2003 by UN General Assembly Resolution 58/4 — formal foundational UNTOC + UNCAC framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "UNCAC enters force",
+      "description": "UN Convention against Corruption UNCAC entered force 14 December 2005 — formal foundational UNCAC framework operational."
+    },
+    {
+      "year": 2016,
+      "title": "UNGASS on World Drug Problem",
+      "description": "UN General Assembly Special Session UNGASS on World Drug Problem held 19-21 April 2016 in New York — formal UNGASS World Drug Problem framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "UNODC Cybercrime Convention adopted",
+      "description": "UN Convention against Cybercrime adopted 24 December 2024 by UN General Assembly Resolution 79/243 + opened for signature 2025 Hanoi Vietnam — formal foundational UN Cybercrime Convention framework adopted."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-administration-anti-fentanyl + Sinaloa-Cartel Foreign Terrorist Organization",
+      "description": "Trump-administration-anti-fentanyl framework + Sinaloa Cartel designated Foreign Terrorist Organization 20 January 2025 + UNODC anti-fentanyl response framework — formal UNODC Trump-anti-fentanyl framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNODC Mandate operates a supranational global framework — places UNODC Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-drugs-and-crime framework + only modern global supranational framework operating formal joint UN Office for Drug Control and Crime Prevention ODCCP consolidation framework is structurally distinctive globally — only modern global supranational framework operating on formal international-drugs-and-crime framework + only modern global supranational framework operating formal joint UN Office for Drug Control and Crime Prevention ODCCP consolidation framework + only modern global supranational framework operating formal Three Drug Conventions framework: 1961 + 1971 + 1988 + only modern global supranational framework operating formal UNTOC Palermo 2000 framework + only modern global supranational framework operating formal UNCAC 2003 framework + only modern global supranational framework operating formal Palermo Protocols framework: Trafficking in Persons + Smuggling of Migrants + Firearms + only modern global supranational framework operating formal CND + CCPCJ + UNCAC + UNTOC Conferences of States Parties framework + only modern global supranational framework operating formal Cocaine-Heroin-Fentanyl-Synthetic-Opioids Trump-administration-anti-fentanyl 2025 framework + only modern global supranational framework operating formal Crypto-Crime Online-Crime emerging framework via UNODC Cybercrime Report 2024 framework.",
+    "Central jurisdiction of formal UNODC Three Drug Conventions framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-drugs-control framework + only modern global supranational binding-treaty framework operating formal Three Drug Conventions framework.",
+    "Central jurisdiction of formal UNTOC Palermo Convention 2000 + Three Palermo Protocols framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-transnational-organized-crime framework + only modern global supranational binding-treaty framework operating formal Three Palermo Protocols framework with PA-intersection framework via cross-border-trafficking-of-children framework.",
+    "Central jurisdiction of formal UNCAC 2003 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-anti-corruption framework.",
+    "80+ countries field operations + global coverage framework is structurally distinctive globally — comprehensive drugs-and-crime coverage framework.",
+    "1961 Single Convention + 1971 Psychotropic + 1988 Illicit Traffic + 1991 UNDCP + 1995 CICP + 1997 UNODC + 2000 UNTOC + Palermo Protocols + 2002 ODCCP-renamed-UNODC + 2003 UNTOC + UNCAC + 2005 UNCAC + 2016 UNGASS + 2024 Cybercrime Convention + 2025 Trump-anti-fentanyl + Sinaloa Cartel FTO UNODC-framework-development sequence is structurally distinctive globally.",
+    "UNODC Mandate + Three Drug Conventions + UNTOC + UNCAC + Three Palermo Protocols + Cybercrime Convention + INTERPOL Yellow Notice coordination formal septet framework with formal UNODC Palermo Trafficking in Persons Protocol + cross-border-trafficking-of-children PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:un-palermo-convention",
+    "jurisdiction:un-uncac",
+    "jurisdiction:interpol-constitution",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNODC",
+      "url": "https://www.unodc.org/",
+      "publisher": "UNODC Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNODC Mandate jurisdiction sidecar — supranational global international-drugs-and-crime foundational-UNODC meta-framework (UNODC Founding 1997 + Single Convention 1961 + Psychotropic 1971 + Illicit Traffic 1988 + UNTOC 2000 + UNCAC 2003 + Three Palermo Protocols + Cybercrime Convention 2024 + UNDCP 1991 + CICP 1995 predecessors + ODCCP renamed UNODC 2002 + 2016 UNGASS + 2025 Trump-anti-fentanyl + Sinaloa Cartel FTO + 2024 Cybercrime Convention). Only modern global supranational framework operating on formal international-drugs-and-crime framework + only modern global supranational framework operating formal joint UN Office for Drug Control and Crime Prevention ODCCP consolidation + only modern global supranational framework operating formal Three Drug Conventions 1961 + 1971 + 1988 + only modern global supranational framework operating formal UNTOC Palermo 2000 + only modern global supranational framework operating formal UNCAC 2003 + only modern global supranational framework operating formal Palermo Protocols Trafficking + Smuggling + Firearms + only modern global supranational framework operating formal CND + CCPCJ + UNCAC + UNTOC Conferences of States Parties + only modern global supranational framework operating formal Trump-administration-anti-fentanyl 2025 + only modern global supranational framework operating formal Crypto-Crime Online-Crime emerging via UNODC Cybercrime Report 2024 + central jurisdiction of formal Three Drug Conventions + central jurisdiction of formal UNTOC + Three Palermo Protocols + central jurisdiction of formal UNCAC + 80+ countries field operations + UNODC Headquartered Vienna + UNODC Executive Director Ghada Waly 2020-2025 + 1961 Single Convention + 1971 Psychotropic + 1988 Illicit Traffic + 1991 UNDCP + 1995 CICP + 1997 UNODC + 2000 UNTOC + Palermo Protocols + 2002 ODCCP-renamed-UNODC + 2003 UNTOC + UNCAC + 2005 UNCAC + 2016 UNGASS + 2024 Cybercrime Convention + 2025 Trump-anti-fentanyl + Sinaloa Cartel FTO UNODC-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNODC Palermo Trafficking in Persons Protocol framework operates substantial intersection with parental-alienation framework via formal UNODC cross-border-trafficking-of-children framework + UNODC INTERPOL Yellow Notice coordination framework.",
+    "Joins global + supranational + international-drugs-and-crime-foundational-UNODC cluster + UNODC-only-global-supranational-framework-on-international-drugs-and-crime-globally-distinctive + ODCCP-consolidation-UNDCP-CICP-1997 + Three-Drug-Conventions-1961-Single-1971-Psychotropic-1988-Illicit-Traffic + UNTOC-Palermo-Convention-2000-2003 + UNCAC-2003-2005 + Three-Palermo-Protocols-Trafficking-Persons-Smuggling-Migrants-Firearms + Commission-on-Narcotic-Drugs-CND-Vienna + Commission-on-Crime-Prevention-and-Criminal-Justice-CCPCJ-Vienna + Conferences-of-States-Parties-UNTOC-UNCAC + 80+-countries-field-operations + UNODC-Headquartered-Vienna + UNODC-Executive-Director-Ghada-Waly-2020-2025 + UN-Cybercrime-Convention-2024-Resolution-79-243-Hanoi-2025 + Trump-administration-anti-fentanyl-2025 + Sinaloa-Cartel-Foreign-Terrorist-Organization-January-2025 + 1991-UNDCP + 1995-CICP + 1997-ODCCP-Annan-Kofi + 2002-ODCCP-renamed-UNODC + 2016-UNGASS-World-Drug-Problem + UNODC-Palermo-Trafficking-Protocol-cross-border-trafficking-of-children-PA-intersection + INTERPOL-Yellow-Notice-coordination-PA-intersection clusters within the corpus."
+  ]
+}

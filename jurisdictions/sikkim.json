@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "id": "sikkim",
+  "name": "Sikkim (སུ་ཁྱིམ་ / Indrakil)",
+  "jurisdiction_code": "IN-SK",
+  "legal_system": "mixed",
+  "language": ["ne", "lep", "en", "hi", "sip"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Sikkim (སུ་ཁྱིམ་ in Tibetan / Indrakil / Sikkimese: 'New Palace') is a South Asian Himalayan mixed common-law/Sikkim-customary-law constituent state of the Indian Republic — structurally distinctive globally as the only modern post-WWII state-to-Indian-state-integration framework (Sikkim was an independent Buddhist-Hindu Himalayan monarchy 1642-1975, became an Indian protectorate 1950, and was integrated into India as the 22nd state via the Constitution (Thirty-Sixth Amendment) Act 1975 effective 26 April 1975 following a 14 April 1975 referendum in which 97% of voters supported abolishing the monarchy and joining India — contested by external observers but recognised by India), as the only Indian state operating constitutional Article 371-F special-status framework providing for the protection of Sikkim's pre-1975 laws and the Sikkim Subject Regulation 1961 ethnic-origin framework, and as the central jurisdiction of the largest Indian-state-level Buddhist-cultural-protection framework operating within a Hindu-majority Indian Federal framework. Sikkim comprises ~7,096 km² with a population of ~700,000, making it the second-smallest Indian state (after Goa) and least-populous. Family-law framework operates under a dual federal Indian common-law + Sikkim-customary-law framework including pre-1975 Sikkim Subject Regulation 1961 and Sikkim Old Laws preserved by Article 371-F. Parental authority and child custody operate under the Indian Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, and Sikkim-specific Old Laws applicable to Sikkimese persons of Bhutia, Lepcha, and Nepali heritage. The High Court of Sikkim (one of only two Indian High Courts established post-1975, with the Gauhati High Court) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Sikkim is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party (signed 2007, never ratified) — Sikkim is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of India Article 371-F (Sikkim Special Provisions)",
+      "title": "Constitution of India Article 371-F",
+      "year": 1975,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Article inserted by Constitution (Thirty-Sixth Amendment) Act 1975 establishing special provisions for Sikkim including protection of pre-1975 Sikkim laws and Sikkim Subject Regulation 1961."
+    },
+    {
+      "citation": "Constitution (Thirty-Sixth Amendment) Act 1975",
+      "title": "Constitution 36th Amendment Act",
+      "year": 1975,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Amendment Act of 16 May 1975 effective 26 April 1975 integrating Sikkim into Indian Union as the 22nd state."
+    },
+    {
+      "citation": "Sikkim Subject Regulation 1961",
+      "title": "Sikkim Subject Regulation",
+      "year": 1961,
+      "url": "https://www.sikkim.gov.in/",
+      "relevance": "Pre-1975 Sikkim regulation establishing ethnic-origin framework for Sikkim Subjects — preserved by Article 371-F post-1975 integration."
+    },
+    {
+      "citation": "Hindu Marriage Act 1955 (applicable in Sikkim)",
+      "title": "Hindu Marriage Act 1955",
+      "year": 1955,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Federal Indian Act applicable in Sikkim for Hindu Sikkimese persons."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Sikkim",
+      "seat": "Gangtok",
+      "url": "https://www.hcs.gov.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Sikkim."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Sikkim."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework for clinical psychology applicable in Sikkim."
+    }
+  ],
+  "anonymisation_convention": "Sikkim family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1642,
+      "title": "Kingdom of Sikkim founded",
+      "description": "Kingdom of Sikkim founded 1642 by Phuntsog Namgyal as Chogyal (king) of Sikkim — Buddhist-Hindu Himalayan monarchy until 1975."
+    },
+    {
+      "year": 1890,
+      "title": "Anglo-Chinese Treaty + British protectorate",
+      "description": "Anglo-Chinese Convention of 17 March 1890 establishing British protectorate over Sikkim within British India framework."
+    },
+    {
+      "year": 1950,
+      "title": "Indo-Sikkim Treaty + Indian protectorate",
+      "description": "Indo-Sikkim Treaty of 5 December 1950 establishing Sikkim as Indian protectorate following Indian independence."
+    },
+    {
+      "year": 1973,
+      "title": "Sikkim political unrest + interim government",
+      "description": "Sikkim political unrest April-May 1973 — interim Indian-administered government established following anti-monarchy protests."
+    },
+    {
+      "year": 1975,
+      "title": "Sikkim referendum + Indian integration",
+      "description": "Sikkim referendum of 14 April 1975 — 97% voted for abolishing the monarchy and joining India. Constitution (Thirty-Sixth Amendment) Act effective 26 April 1975 integrating Sikkim into Indian Union as the 22nd state — contested by external observers but recognised by India."
+    },
+    {
+      "year": 1991,
+      "title": "High Court of Sikkim established",
+      "description": "High Court of Sikkim established 16 May 1975 alongside state formation — one of two Indian High Courts established post-1975."
+    }
+  ],
+  "structural_findings": [
+    "Sikkim operates a mixed federal Indian common-law + Sikkim-customary-law framework — places Sikkim in the South Asian Himalayan Indian-state cluster.",
+    "Only modern post-WWII state-to-Indian-state-integration framework is structurally distinctive globally — Sikkim was an independent monarchy 1642-1975, integrated via Constitution 36th Amendment Act 1975.",
+    "Only Indian state operating constitutional Article 371-F special-status framework providing for the protection of pre-1975 Sikkim laws and Sikkim Subject Regulation 1961 ethnic-origin framework is structurally distinctive globally.",
+    "Central jurisdiction of largest Indian-state-level Buddhist-cultural-protection framework operating within Hindu-majority Indian Federal framework is structurally distinctive globally.",
+    "1975 Sikkim integration referendum (97% in favour, contested by external observers) is structurally distinctive globally — only modern state-to-Indian-state integration via referendum framework.",
+    "Sikkim Subject Regulation 1961 ethnic-origin framework preservation by Article 371-F is structurally distinctive within Indian Federal framework.",
+    "High Court of Sikkim establishment 1975 as one of only two Indian High Courts established post-1975 is structurally distinctive.",
+    "Second-smallest Indian state (after Goa) by area and least-populous Indian state is structurally distinctive.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:bhutan",
+    "jurisdiction:nepal",
+    "jurisdiction:china",
+    "jurisdiction:jammu-and-kashmir",
+    "jurisdiction:ladakh",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Sikkim",
+      "url": "https://www.sikkim.gov.in/",
+      "publisher": "Sikkim Government",
+      "language": "en"
+    },
+    {
+      "title": "High Court of Sikkim",
+      "url": "https://www.hcs.gov.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Sikkim jurisdiction sidecar — mixed federal Indian common-law/Sikkim-customary-law South Asian Himalayan Indian-state (Indian Constitution Article 371-F + Constitution (Thirty-Sixth Amendment) Act 1975 + Sikkim Subject Regulation 1961 + 1975 Sikkim referendum + 1950 Indo-Sikkim Treaty + Hindu Marriage Act 1955 + Muslim Personal Law (Shariat) Application Act 1937 + Indian non-Hague-1980). Only modern post-WWII state-to-Indian-state-integration framework globally + only Indian state operating Article 371-F special-status framework + central jurisdiction of largest Indian-state-level Buddhist-cultural-protection framework + only modern state-to-Indian-state integration via referendum framework + second-smallest Indian state by area and least-populous.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Asian + Himalayan + mixed Indian-common-law/Sikkim-customary-law + Indian-state cluster + 1975-state-to-Indian-state-integration-framework-globally-distinctive + Article-371-F-special-status + Sikkim-Subject-Regulation-1961-ethnic-origin-preservation + 1975-referendum-97-percent-favour + 1642-2025-Kingdom-of-Sikkim-monarchy-Buddhist-Hindu + High-Court-of-Sikkim-1975-establishment + second-smallest-Indian-state + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

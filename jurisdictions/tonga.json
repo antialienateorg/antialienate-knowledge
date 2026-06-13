@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "id": "tonga",
+  "name": "Tonga (Kingdom of Tonga / Pule'anga Fakatu'i 'o Tonga)",
+  "jurisdiction_code": "TO",
+  "legal_system": "common-law",
+  "language": ["to", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Tonga is a Pacific Island common-law constitutional monarchy whose family-law framework operates under the Marriage Act, the Divorce Act, the Maintenance of Deserted Wives Act, and the Family Protection Act 2013. Tonga is structurally distinctive within the Pacific cluster as the only never-colonised Pacific Island state (Protectorate status under UK 1900-1970 without formal colonisation). Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Privy Council of Tonga (Privi Kausilio 'o Tonga) is the apex appellate court for civil and criminal matters; the Court of Appeal sits beneath the Privy Council. Family-law matters are heard at first instance in the Supreme Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Tonga is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Tonga is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Protection Act 2013",
+      "title": "Family Protection Act",
+      "year": 2013,
+      "url": "https://www.judiciary.gov.to/",
+      "relevance": "Federal statute on family protection orders affecting family-law proceedings."
+    },
+    {
+      "citation": "Marriage Act",
+      "title": "Marriage Act",
+      "year": 1926,
+      "url": "https://www.judiciary.gov.to/",
+      "relevance": "Federal statute on marriage."
+    },
+    {
+      "citation": "Divorce Act",
+      "title": "Divorce Act",
+      "year": 1927,
+      "url": "https://www.judiciary.gov.to/",
+      "relevance": "Federal divorce statute."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Privy Council of Tonga (Privi Kausilio 'o Tonga)",
+      "seat": "Nuku'alofa",
+      "url": "https://www.judiciary.gov.to/",
+      "role": "Apex appellate court for civil and criminal matters — domestic Privy Council distinct from London JCPC."
+    },
+    {
+      "name": "Court of Appeal of Tonga",
+      "seat": "Nuku'alofa",
+      "url": "https://www.judiciary.gov.to/",
+      "role": "Appellate court below the Privy Council of Tonga."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Tonga",
+      "url": "https://www.health.gov.to/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Tongan family-court decisions are anonymised per Privy Council practice using initials.",
+  "key_developments": [
+    {
+      "year": 1900,
+      "title": "British Protectorate established",
+      "description": "British Protectorate over Tonga established under Treaty of Friendship — Tonga retained internal sovereignty as Protectorate without formal colonisation."
+    },
+    {
+      "year": 1970,
+      "title": "Full independence",
+      "description": "Protectorate status terminated; Tonga assumed full external sovereignty."
+    },
+    {
+      "year": 2013,
+      "title": "Family Protection Act",
+      "description": "Federal statute on family protection orders enacted."
+    }
+  ],
+  "structural_findings": [
+    "Tonga operates a common-law framework — places Tonga in the Pacific Island common-law cluster.",
+    "Never-colonised Protectorate status (1900-1970) is structurally distinctive within the Pacific cluster — Tonga is the only never-formally-colonised state in the Pacific region within the corpus.",
+    "Domestic Privy Council apex jurisdiction (Privi Kausilio 'o Tonga) is structurally distinctive — Tonga's apex is not the London JCPC nor an Australian/NZ-derivative Court of Appeal but a domestic Privy Council.",
+    "Non-Hague Convention status places Tonga in the non-Hague Pacific cluster."
+  ],
+  "references": [
+    "jurisdiction:samoa",
+    "jurisdiction:fiji",
+    "jurisdiction:new-zealand",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Tonga",
+      "url": "https://www.judiciary.gov.to/",
+      "publisher": "Judiciary",
+      "language": "to,en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.health.gov.to/",
+      "publisher": "Ministry of Health",
+      "language": "to,en"
+    }
+  ],
+  "editorial_notes": [
+    "Tonga jurisdiction sidecar — common-law Pacific Island Kingdom (Family Protection Act 2013 + Marriage Act 1926 + Divorce Act 1927 + domestic Privy Council apex distinctive + never-colonised-Protectorate distinctive + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + never-colonised-distinctive cluster + domestic-Privy-Council-apex-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

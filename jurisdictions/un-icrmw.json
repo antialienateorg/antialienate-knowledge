@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "id": "un-icrmw",
+  "name": "UN International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (ICRMW 1990)",
+  "jurisdiction_code": "URM",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (ICRMW) is a global supranational meta-framework migrant-workers-rights binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on migrant-workers-rights framework (ICRMW adopted 18 December 1990 by UN General Assembly Resolution 45/158 + effective 1 July 2003 — formal universal multilateral binding-treaty framework establishing comprehensive migrant-workers-rights framework, distinct from rest-of-modern-international-human-rights frameworks which operate on broader general-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-migrant-workers-rights-specific framework + most directly relevant UN human-rights treaty framework to PA via cross-border-migrant-family-separation framework), as the central jurisdiction of the formal ICRMW Article 44 family-reunification framework (ICRMW Article 44 framework providing 'States Parties, recognizing that the family is the natural and fundamental group unit of society and is entitled to protection by society and the State, shall take appropriate measures to ensure the protection of the unity of the families of migrant workers' — formal foundational migrant-workers-family-reunification framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal migrant-workers-family-reunification framework, with substantial relevance to PA framework via formal cross-border-migrant-family-separation framework), as the central jurisdiction of the formal ICRMW Part III + Part IV documented-vs-undocumented-migrant-workers framework (ICRMW Part III framework providing rights of all migrant workers + Part IV framework providing additional rights of documented migrant workers — formal two-tier documented-vs-undocumented-migrant-workers framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal two-tier framework), and as the least-widely-ratified UN human-rights treaty framework (ICRMW has 60 state parties as of 2026 — least-widely-ratified UN human-rights treaty framework, with substantial non-ratification framework including all major migrant-receiving states + most EU bloc states + United States + Canada + Australia + Japan + Russia + Gulf states + others, structurally distinctive globally as the most-unratified UN human-rights treaty framework reflecting structural North-South divide on migrant-workers-rights framework). The ICRMW is binding upon 60 state parties as of 2026 — substantial non-state-party framework reflecting structural North-South divide on migrant-workers-rights framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 44 family-reunification + Article 14 family-life + Article 30 right to education for children frameworks operate substantial intersection with parental-alienation framework via formal cross-border-migrant-family-separation framework. The Committee on Migrant Workers (CMW Committee) is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The ICRMW is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families 1990",
+      "title": "ICRMW",
+      "year": 2003,
+      "url": "https://www.un.org/",
+      "relevance": "UN International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families adopted 18 December 1990 by UN General Assembly Resolution 45/158 + effective 1 July 2003 — formal universal multilateral binding-treaty framework establishing comprehensive migrant-workers-rights framework."
+    },
+    {
+      "citation": "ICRMW Article 44 (Family-Reunification Framework)",
+      "title": "ICRMW Article 44",
+      "year": 2003,
+      "url": "https://www.un.org/",
+      "relevance": "ICRMW Article 44 framework on migrant-workers-family-reunification — formal foundational migrant-workers-family-reunification framework."
+    },
+    {
+      "citation": "ICRMW Part III + Part IV (Documented vs Undocumented Migrant Workers Framework)",
+      "title": "ICRMW Parts III + IV",
+      "year": 2003,
+      "url": "https://www.un.org/",
+      "relevance": "ICRMW Part III framework on rights of all migrant workers + Part IV framework on additional rights of documented migrant workers — formal two-tier documented-vs-undocumented-migrant-workers framework."
+    },
+    {
+      "citation": "ICRMW Article 14 (Family Life) + Article 30 (Right to Education for Children)",
+      "title": "ICRMW Articles 14 + 30",
+      "year": 2003,
+      "url": "https://www.un.org/",
+      "relevance": "ICRMW Article 14 framework on family life + Article 30 framework on right to education for children of migrant workers — formal foundational family-life + children's-rights framework."
+    },
+    {
+      "citation": "Committee on Migrant Workers CMW Committee General Comments 1-4",
+      "title": "CMW Committee General Comments 1-4",
+      "year": 2020,
+      "url": "https://www.ohchr.org/",
+      "relevance": "Committee on Migrant Workers CMW Committee General Comment 1 of 2010 on migrant domestic workers + General Comment 2 of 2013 on rights of migrant workers in irregular situation + General Comment 3 of 2017 on independence of migrant workers + General Comment 4 of 2017 on principles of equality + General Comment 5 of 2017 on migration data + General Comment 6 of 2018 on family-reunification — formal CMW Committee framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Committee on Migrant Workers (CMW Committee)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cmw",
+      "role": "Apex monitoring framework body for ICRMW."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "ICRMW implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ICRMW-related individual communications are anonymised per CMW Committee practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "UDHR adopted",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 — foundational framework underlying ICRMW."
+    },
+    {
+      "year": 1949,
+      "title": "ILO Migration for Employment Convention",
+      "description": "ILO Migration for Employment Convention No. 97 adopted 1 July 1949 — predecessor framework to ICRMW."
+    },
+    {
+      "year": 1990,
+      "title": "ICRMW adopted",
+      "description": "UN International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families adopted 18 December 1990 by UN General Assembly Resolution 45/158 — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 2003,
+      "title": "ICRMW enters force",
+      "description": "UN ICRMW entered force 1 July 2003 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "Global Compact for Safe, Orderly and Regular Migration",
+      "description": "Global Compact for Safe, Orderly and Regular Migration affirmed by UN General Assembly Resolution 73/195 of 19 December 2018 — formal political framework complementing ICRMW framework."
+    }
+  ],
+  "structural_findings": [
+    "ICRMW operates a supranational universal multilateral binding-treaty framework — places ICRMW in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on migrant-workers-rights framework is structurally distinctive globally — formal-migrant-workers-rights-specific framework + most directly relevant UN human-rights treaty framework to PA via cross-border-migrant-family-separation framework.",
+    "Central jurisdiction of formal ICRMW Article 44 family-reunification framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal migrant-workers-family-reunification framework.",
+    "Central jurisdiction of formal ICRMW Part III + Part IV documented-vs-undocumented-migrant-workers framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal two-tier framework.",
+    "Least-widely-ratified UN human-rights treaty framework is structurally distinctive globally — 60 state parties as of 2026, with substantial non-ratification framework reflecting structural North-South divide on migrant-workers-rights framework.",
+    "60 state party ratification framework with structural North-South divide is structurally distinctive globally.",
+    "Article 14 + Article 30 + Article 44 family-life + children's-rights + family-reunification formal triad framework is structurally distinctive globally.",
+    "1948 UDHR + 1949 ILO + 1990 ICRMW + 2003 entry into force + 2018 Global Compact migrant-workers-rights-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — Committee on Migrant Workers",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cmw",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ICRMW jurisdiction sidecar — supranational global migrant-workers-rights universal multilateral binding-treaty meta-framework (ICRMW 1990/2003 + Article 14 Family Life + Article 30 Right to Education for Children + Article 44 Family Reunification + Part III All Migrant Workers + Part IV Documented Migrant Workers + Committee on Migrant Workers CMW Committee + General Comment 6 Family-Reunification + UDHR 1948 + ILO 1949 + 2018 Global Compact). Only modern universal multilateral binding-treaty framework operating specifically on migrant-workers-rights framework globally + most directly relevant UN human-rights treaty framework to PA via cross-border-migrant-family-separation framework + central jurisdiction of formal ICRMW Article 44 family-reunification framework + central jurisdiction of formal ICRMW Part III + Part IV documented-vs-undocumented-migrant-workers framework + least-widely-ratified UN human-rights treaty framework + 60 state party ratification framework with structural North-South divide + Article 14 + Article 30 + Article 44 family-life + children's-rights + family-reunification formal triad framework + 1948 UDHR + 1949 ILO + 1990 ICRMW + 2003 entry into force + 2018 Global Compact migrant-workers-rights-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 44 family-reunification + Article 14 family-life + Article 30 right to education for children frameworks operate substantial intersection with parental-alienation framework via formal cross-border-migrant-family-separation framework — most-directly-PA-relevant UN human-rights treaty framework.",
+    "Joins global + supranational + universal-multilateral-migrant-workers-rights-binding-treaty cluster + ICRMW-only-universal-migrant-workers-rights-binding-treaty-globally-distinctive + Article-14-Family-Life + Article-30-Right-to-Education-for-Children + Article-44-Family-Reunification + Part-III-IV-Documented-vs-Undocumented-Migrant-Workers-two-tier-framework + 60-state-party-least-widely-ratified-UN-human-rights-treaty + structural-North-South-divide-on-migrant-workers-rights + Committee-on-Migrant-Workers-CMW-Committee + most-directly-PA-relevant-UN-human-rights-treaty-cross-border-migrant-family-separation clusters within the corpus."
+  ]
+}

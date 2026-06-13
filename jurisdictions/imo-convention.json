@@ -1,0 +1,190 @@
+{
+  "schema_version": "1.0",
+  "id": "imo-convention",
+  "name": "IMO Convention 1948 (International Maritime Organization)",
+  "jurisdiction_code": "IMO",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Convention on the International Maritime Organization (IMO Convention) is a global supranational meta-framework foundational-IMO-treaty framework adopted by the United Nations Maritime Conference in Geneva — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-maritime-safety-pollution-and-security framework + foundational international shipping framework (IMO Convention adopted 6 March 1948 in Geneva Switzerland + effective 17 March 1958 + IMO operations began 17 March 1958 + originally Inter-Governmental Maritime Consultative Organization IMCO + renamed IMO 22 May 1982 — formal foundational IMO treaty framework establishing comprehensive IMO organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-maritime-safety-pollution-and-security framework + foundational international shipping framework + only modern global supranational binding-treaty framework operating formal SOLAS Convention on Safety of Life at Sea framework + only modern global supranational binding-treaty framework operating formal MARPOL Convention on Marine Pollution framework + only modern global supranational binding-treaty framework operating formal STCW Convention on Standards of Training Certification and Watchkeeping framework + only modern global supranational binding-treaty framework operating formal SUA Convention on Suppression of Unlawful Acts framework + only modern global supranational binding-treaty framework operating formal Net-Zero Greenhouse Gas Strategy 2023 framework + only modern global supranational binding-treaty framework operating formal Black Sea Grain Initiative 2022-2023 framework via IMO + UN-mediated framework via Russia + Ukraine grain-corridor framework), as the central jurisdiction of the formal IMO SOLAS Convention framework (SOLAS Safety of Life at Sea Convention adopted 1 November 1974 in London UK + effective 25 May 1980 + originally Titanic disaster 1912-response framework — formal foundational IMO SOLAS framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal maritime-safety framework with formal Titanic-1912-disaster-response framework), as the central jurisdiction of the formal IMO MARPOL Convention framework (MARPOL Convention for the Prevention of Pollution from Ships adopted 2 November 1973 in London UK + effective 2 October 1983 + 6 annexes including 2020 sulphur cap framework — formal foundational IMO MARPOL framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal marine-pollution-prevention framework), and as the central jurisdiction of the formal IMO Net-Zero Greenhouse Gas Strategy 2023 framework (IMO Revised Strategy on Reduction of GHG Emissions from Ships adopted 7 July 2023 at MEPC 80 + targets net-zero by 2050 + 20% by 2030 + 70% by 2040 framework + IMO Net-Zero Framework Agreement adopted 11 April 2025 at MEPC 83 framework — formal foundational IMO Net-Zero framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal maritime-net-zero-by-2050 framework + first major industry-wide net-zero framework). The IMO Convention is binding upon 175 IMO member states + 3 associate members as of 2026 — substantial universal coverage framework with notable non-members Liechtenstein + Andorra + Bhutan + Burkina Faso + Botswana + Burundi + Chad + Eswatini + Kyrgyzstan + Laos + Lesotho + Mali + Mongolia + Nepal + Niger + Rwanda + South Sudan + Tajikistan + Uganda + Uzbekistan + Zambia + Zimbabwe landlocked-states + Holy See + Liechtenstein + Andorra framework. The Convention is silent on 'parental alienation' as a statutory label, though formal IMO Maritime Labour Convention 2006 ILO-IMO-joint framework operates limited intersection with parental-alienation framework via formal seafarer-family-cross-border framework. The IMO Assembly + IMO Council + IMO Secretary General + IMO Maritime Safety Committee MSC + IMO Marine Environment Protection Committee MEPC + IMO Legal Committee are the formal IMO bodies; national-level apex courts operate as judicial bodies. The IMO Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "IMO Convention 1948",
+      "title": "IMO Convention",
+      "year": 1958,
+      "url": "https://www.imo.org/",
+      "relevance": "Convention on the International Maritime Organization adopted 6 March 1948 in Geneva Switzerland + effective 17 March 1958 — formal foundational IMO treaty framework establishing comprehensive IMO organisation framework."
+    },
+    {
+      "citation": "SOLAS Convention 1974",
+      "title": "SOLAS",
+      "year": 1980,
+      "url": "https://www.imo.org/",
+      "relevance": "International Convention for the Safety of Life at Sea SOLAS adopted 1 November 1974 in London UK + effective 25 May 1980 — formal foundational IMO SOLAS maritime-safety framework."
+    },
+    {
+      "citation": "MARPOL Convention 1973",
+      "title": "MARPOL",
+      "year": 1983,
+      "url": "https://www.imo.org/",
+      "relevance": "International Convention for the Prevention of Pollution from Ships MARPOL adopted 2 November 1973 in London UK + Protocol 1978 + effective 2 October 1983 — formal foundational IMO MARPOL marine-pollution-prevention framework."
+    },
+    {
+      "citation": "STCW Convention 1978",
+      "title": "STCW",
+      "year": 1984,
+      "url": "https://www.imo.org/",
+      "relevance": "International Convention on Standards of Training, Certification and Watchkeeping for Seafarers STCW adopted 7 July 1978 in London UK + effective 28 April 1984 — formal foundational IMO STCW seafarer-standards framework."
+    },
+    {
+      "citation": "IMO Net-Zero Greenhouse Gas Strategy 2023",
+      "title": "IMO Net-Zero Strategy",
+      "year": 2023,
+      "url": "https://www.imo.org/",
+      "relevance": "IMO Revised Strategy on Reduction of GHG Emissions from Ships adopted 7 July 2023 at MEPC 80 + IMO Net-Zero Framework Agreement adopted 11 April 2025 at MEPC 83 — formal foundational IMO Net-Zero maritime-net-zero-by-2050 framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "IMO Assembly",
+      "seat": "London",
+      "url": "https://www.imo.org/en/About/Pages/Default.aspx",
+      "role": "Formal supreme decision-making body for IMO."
+    },
+    {
+      "name": "IMO Council",
+      "seat": "London",
+      "url": "https://www.imo.org/",
+      "role": "Formal executive body for IMO."
+    },
+    {
+      "name": "IMO Secretary General",
+      "seat": "London",
+      "url": "https://www.imo.org/",
+      "role": "Formal administrative head body for IMO."
+    },
+    {
+      "name": "IMO Maritime Safety Committee (MSC)",
+      "seat": "London",
+      "url": "https://www.imo.org/",
+      "role": "Formal IMO maritime-safety framework body."
+    },
+    {
+      "name": "IMO Marine Environment Protection Committee (MEPC)",
+      "seat": "London",
+      "url": "https://www.imo.org/",
+      "role": "Formal IMO marine-environment-protection framework body."
+    },
+    {
+      "name": "IMO Legal Committee",
+      "seat": "London",
+      "url": "https://www.imo.org/",
+      "role": "Formal IMO maritime-law framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "IMO Secretariat",
+      "url": "https://www.imo.org/",
+      "role": "IMO Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "IMO-related communications operate via state-state framework via IMO Assembly + IMO Council; individual communications not formally accepted under IMO framework.",
+  "key_developments": [
+    {
+      "year": 1912,
+      "title": "Titanic disaster + 1st SOLAS Convention",
+      "description": "Titanic disaster 14-15 April 1912 + 1st SOLAS Convention adopted 20 January 1914 in London UK — predecessor framework to IMO SOLAS Convention."
+    },
+    {
+      "year": 1948,
+      "title": "IMO Convention adopted (IMCO)",
+      "description": "Convention on the International Maritime Organization adopted 6 March 1948 in Geneva Switzerland as Inter-Governmental Maritime Consultative Organization IMCO — formal foundational IMO treaty framework adopted."
+    },
+    {
+      "year": 1958,
+      "title": "IMO Convention enters force + IMO operations begin",
+      "description": "IMO Convention entered force 17 March 1958 + IMO operations began 17 March 1958 in London UK — formal foundational IMO treaty framework operational."
+    },
+    {
+      "year": 1967,
+      "title": "Torrey Canyon disaster + MARPOL precursor framework",
+      "description": "Torrey Canyon oil spill 18 March 1967 off Cornwall UK + 1969 International Convention Relating to Intervention on the High Seas + 1969 International Convention on Civil Liability for Oil Pollution Damage CLC — predecessor framework to MARPOL."
+    },
+    {
+      "year": 1973,
+      "title": "MARPOL Convention adopted",
+      "description": "MARPOL Convention adopted 2 November 1973 in London UK — formal foundational IMO MARPOL marine-pollution-prevention framework adopted."
+    },
+    {
+      "year": 1974,
+      "title": "SOLAS Convention 1974 adopted",
+      "description": "SOLAS Convention 1974 adopted 1 November 1974 in London UK — formal foundational IMO SOLAS maritime-safety framework adopted."
+    },
+    {
+      "year": 1982,
+      "title": "IMCO renamed IMO",
+      "description": "IMCO renamed IMO International Maritime Organization 22 May 1982 — formal IMO renaming framework operational."
+    },
+    {
+      "year": 2006,
+      "title": "Maritime Labour Convention",
+      "description": "Maritime Labour Convention MLC adopted 23 February 2006 in Geneva Switzerland by ILO + IMO joint framework + effective 20 August 2013 — formal foundational ILO + IMO seafarer-labour framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "MARPOL Annex VI 2020 Sulphur Cap",
+      "description": "MARPOL Annex VI 2020 Sulphur Cap effective 1 January 2020 limiting sulphur content of marine fuel to 0.50% — formal MARPOL 2020 Sulphur Cap framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Black Sea Grain Initiative",
+      "description": "Black Sea Grain Initiative signed 22 July 2022 in Istanbul Turkey by Russia + Ukraine + Turkey + UN-mediated + IMO-involved + Russia withdrew 17 July 2023 — formal IMO + UN-mediated Black Sea Grain Initiative framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "IMO Net-Zero Greenhouse Gas Strategy adopted",
+      "description": "IMO Revised Strategy on Reduction of GHG Emissions from Ships adopted 7 July 2023 at MEPC 80 in London UK targeting net-zero by 2050 — formal foundational IMO Net-Zero framework adopted."
+    },
+    {
+      "year": 2025,
+      "title": "IMO Net-Zero Framework Agreement",
+      "description": "IMO Net-Zero Framework Agreement adopted 11 April 2025 at MEPC 83 in London UK — formal foundational IMO Net-Zero Framework Agreement operational + first major industry-wide net-zero framework."
+    }
+  ],
+  "structural_findings": [
+    "IMO Convention operates a supranational global binding-treaty framework — places IMO Convention in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-maritime-safety-pollution-and-security framework + foundational international shipping framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-maritime-safety-pollution-and-security framework + foundational international shipping framework + only modern global supranational binding-treaty framework operating formal SOLAS Convention framework + only modern global supranational binding-treaty framework operating formal MARPOL Convention framework + only modern global supranational binding-treaty framework operating formal STCW Convention framework + only modern global supranational binding-treaty framework operating formal SUA Convention framework + only modern global supranational binding-treaty framework operating formal Net-Zero Greenhouse Gas Strategy 2023 framework + only modern global supranational binding-treaty framework operating formal Black Sea Grain Initiative 2022-2023 framework.",
+    "Central jurisdiction of formal IMO SOLAS Convention framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal maritime-safety framework with formal Titanic-1912-disaster-response framework.",
+    "Central jurisdiction of formal IMO MARPOL Convention framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal marine-pollution-prevention framework.",
+    "Central jurisdiction of formal IMO Net-Zero Greenhouse Gas Strategy 2023 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal maritime-net-zero-by-2050 framework + first major industry-wide net-zero framework.",
+    "175 IMO member state + 3 associate member ratification framework with landlocked-states non-members framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1912 Titanic + 1948 IMO Convention + 1958 entry into force + IMO operations + 1967 Torrey Canyon + 1973 MARPOL + 1974 SOLAS + 1978 STCW + 1982 renamed IMO + 2006 MLC + 2020 Sulphur Cap + 2022 Black Sea Grain Initiative + 2023 Net-Zero Strategy + 2025 Net-Zero Framework Agreement IMO-framework-development sequence is structurally distinctive globally.",
+    "IMO Convention + SOLAS + MARPOL + STCW + SUA + MLC + Net-Zero formal septet framework with limited PA-intersection framework via formal IMO Maritime Labour Convention 2006 ILO-IMO-joint seafarer-family-cross-border framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:un-unclos",
+    "jurisdiction:ilo-constitution",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "IMO",
+      "url": "https://www.imo.org/",
+      "publisher": "IMO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "IMO Convention jurisdiction sidecar — supranational global international-maritime-safety-pollution-and-security foundational-IMO-treaty meta-framework (IMO Convention 1948/1958 + SOLAS 1974/1980 + MARPOL 1973/1983 + STCW 1978/1984 + MLC 2006/2013 + Net-Zero Strategy 2023 + Net-Zero Framework Agreement 2025 + Titanic 1912 predecessor + Torrey Canyon 1967 + IMCO renamed IMO 1982 + 2020 Sulphur Cap + 2022 Black Sea Grain Initiative). Only modern global supranational binding-treaty framework operating on formal international-maritime-safety-pollution-and-security framework + foundational international shipping framework + only modern global supranational binding-treaty framework operating formal SOLAS + MARPOL + STCW + SUA Conventions + only modern global supranational binding-treaty framework operating formal Net-Zero Greenhouse Gas Strategy 2023 framework + only modern global supranational binding-treaty framework operating formal Black Sea Grain Initiative 2022-2023 framework + first major industry-wide net-zero framework via maritime-net-zero-by-2050 + central jurisdiction of formal SOLAS Titanic-1912-disaster-response + central jurisdiction of formal MARPOL marine-pollution-prevention + central jurisdiction of formal Net-Zero Greenhouse Gas Strategy + 175 IMO member states + 3 associate members + IMO Headquartered London + 1912 Titanic + 1948 IMO Convention + 1958 entry into force + 1967 Torrey Canyon + 1973 MARPOL + 1974 SOLAS + 1978 STCW + 1982 renamed IMO + 2006 MLC + 2020 Sulphur Cap + 2022 Black Sea Grain Initiative + 2023 Net-Zero Strategy + 2025 Net-Zero Framework Agreement IMO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: IMO Maritime Labour Convention 2006 ILO-IMO-joint framework operates limited intersection with parental-alienation framework via formal seafarer-family-cross-border framework.",
+    "Joins global + supranational + international-maritime-safety-pollution-and-security-foundational-IMO-treaty cluster + IMO-Convention-only-global-supranational-binding-treaty-on-international-maritime-globally-distinctive + foundational-international-shipping + SOLAS-Titanic-1912-response + MARPOL-Torrey-Canyon-1967-response + STCW-seafarer-standards-1978 + SUA-suppression-unlawful-acts + MLC-2006-ILO-IMO-joint + Net-Zero-Strategy-2023-MEPC-80 + Net-Zero-Framework-Agreement-2025-MEPC-83-first-industry-wide-net-zero + 2020-Sulphur-Cap-MARPOL-Annex-VI + Black-Sea-Grain-Initiative-2022-2023-Istanbul + 175-IMO-member-states + 3-IMO-associate-members + IMO-Headquartered-London + IMCO-renamed-IMO-1982 + landlocked-states-non-members + seafarer-family-cross-border-PA-intersection-via-MLC clusters within the corpus."
+  ]
+}

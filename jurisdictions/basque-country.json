@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "id": "basque-country",
+  "name": "Basque Country (Euskadi / País Vasco / Basque Autonomous Community)",
+  "jurisdiction_code": "ES-PV",
+  "legal_system": "civil-law",
+  "language": ["eu", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Basque Country (Euskadi in Basque / País Vasco in Spanish / Basque Autonomous Community / Euskal Autonomia Erkidegoa) is a Northern Iberian civil-law autonomous community of the Kingdom of Spain comprising three Historical Territories (Lurralde Historikoak): Álava/Araba, Biscay/Bizkaia, and Gipuzkoa — structurally distinctive globally as the only EU member-state subnational jurisdiction operating its own Foral Civil Law tradition (Derecho Foral Vasco / Euskal Foru Zuzenbidea) preserved continuously from medieval times through 1839 Ley Confirmatoria de los Fueros and 1841 Ley Paccionada (Navarre), as the only EU subnational with full fiscal autonomy (Concierto Económico) — collecting and managing its own taxes within Spanish federal framework, and as the central jurisdiction of the post-2018 dissolution of ETA armed-conflict resolution framework. The Basque Foral Civil Law tradition derives from medieval Fueros (regional charters), was preserved through 1839 confirmation despite Carlist Wars and 1876 abolition of political fueros, was formally compiled in the 1959 Compilation of Foral Civil Law of Vizcaya and Álava (Compilación del Derecho Foral de Vizcaya y Álava), and was comprehensively recodified as the Ley 5/2015 de Derecho Civil Vasco / Euskal Zuzenbide Zibilari buruzko Legea (Basque Civil Law Act 2015) — one of the most recent EU subnational civil-code recodifications. Family-law framework operates under the Basque Civil Law Act 2015 with parental authority (potestad parental / guraso ahala) and child custody (custodia) provisions distinct from Spanish national Código Civil framework. The Basque Country also operates distinct provisions on succession (Foral succession framework including troncalidad in Bizkaia and freedom of testation in Álava and Gipuzkoa). The Tribunal Superior de Justicia del País Vasco (TSJPV) is the apex appellate court for Basque-civil-law matters; final appellate jurisdiction on Spanish constitutional questions lies with the Spanish Constitutional Court. The Basque Country is silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 party (acceded 16 June 1987) — Basque Hague applicability via Spanish federal extension subject to Basque Foral Civil Law application framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Ley 5/2015 de Derecho Civil Vasco (Basque Civil Law Act 2015)",
+      "title": "Basque Civil Law Act",
+      "year": 2015,
+      "url": "https://www.parlamento.euskadi.eus/",
+      "relevance": "Basque Civil Law Act effective 3 October 2015 — one of the most recent EU subnational civil-code recodifications, governing family law, succession, and property law distinct from Spanish national Código Civil framework."
+    },
+    {
+      "citation": "Statute of Autonomy of the Basque Country 1979",
+      "title": "Statute of Autonomy of the Basque Country",
+      "year": 1979,
+      "url": "https://www.parlamento.euskadi.eus/",
+      "relevance": "Spanish Organic Law establishing Basque autonomous-community governance framework with distinct civil-law jurisdiction preservation and Concierto Económico fiscal autonomy."
+    },
+    {
+      "citation": "Concierto Económico (Basque Fiscal Autonomy Agreement) 1981",
+      "title": "Concierto Económico",
+      "year": 1981,
+      "url": "https://www.euskadi.eus/",
+      "relevance": "Basque Country fiscal autonomy framework — only EU subnational with full fiscal autonomy, collecting and managing its own taxes within Spanish federal framework."
+    },
+    {
+      "citation": "Spanish Constitution 1978 Article 149.1.8 + First Additional Provision (Foral rights)",
+      "title": "Spanish Constitution Article 149.1.8 + First Additional Provision",
+      "year": 1978,
+      "url": "https://www.boe.es/",
+      "relevance": "Spanish Constitution providing for foral or special civil law preservation + First Additional Provision recognising the rights of the historical territories of the Basque Country — constitutional foundation for Basque foral civil law and Concierto Económico."
+    },
+    {
+      "citation": "Ley Confirmatoria de los Fueros 1839",
+      "title": "Confirmation of the Fueros Act 1839",
+      "year": 1839,
+      "url": "https://www.boe.es/",
+      "relevance": "Spanish Law of 25 October 1839 confirming the fueros of the Basque Provinces and Navarre — foundational preservation framework for Basque foral civil law."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tribunal Superior de Justicia del País Vasco (TSJPV)",
+      "seat": "Bilbao",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Apex appellate court for Basque-civil-law matters from the Basque Country."
+    },
+    {
+      "name": "Tribunal Constitucional de España",
+      "seat": "Madrid",
+      "url": "https://www.tribunalconstitucional.es/",
+      "role": "Apex Spanish constitutional court for federal constitutional questions from the Basque Country."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Colegio Oficial de la Psicología de Bizkaia / Gipuzkoa / Araba",
+      "url": "https://www.copbizkaia.org/",
+      "role": "Basque autonomous-community professional regulatory framework for psychology (organised by Historical Territory)."
+    }
+  ],
+  "anonymisation_convention": "Basque family-court decisions are anonymised per Basque court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1452,
+      "title": "Fuero Viejo de Bizkaia",
+      "description": "Fuero Viejo de Bizkaia ~1452 — medieval Basque charter establishing Foral civil law including troncalidad succession framework."
+    },
+    {
+      "year": 1839,
+      "title": "Ley Confirmatoria de los Fueros",
+      "description": "Spanish Law of 25 October 1839 confirming the fueros of the Basque Provinces and Navarre — foundational preservation framework for Basque foral civil law despite Carlist War losses."
+    },
+    {
+      "year": 1876,
+      "title": "Abolition of political fueros",
+      "description": "Spanish Government abolished Basque political fueros following Third Carlist War — preserved Basque foral civil law continued under modified framework."
+    },
+    {
+      "year": 1959,
+      "title": "Compilación del Derecho Foral de Vizcaya y Álava",
+      "description": "Compilation of Foral Civil Law of Vizcaya and Álava adopted 30 July 1959 — first modern formal codification of Basque foral civil law."
+    },
+    {
+      "year": 1979,
+      "title": "Statute of Autonomy + Spanish Constitution First Additional Provision",
+      "description": "Statute of Autonomy of the Basque Country adopted 18 December 1979 with constitutional First Additional Provision recognising historical territories' rights."
+    },
+    {
+      "year": 1981,
+      "title": "Concierto Económico",
+      "description": "Concierto Económico of 13 May 1981 establishing Basque Country fiscal autonomy — only EU subnational with full fiscal autonomy."
+    },
+    {
+      "year": 2015,
+      "title": "Ley 5/2015 de Derecho Civil Vasco",
+      "description": "Basque Civil Law Act effective 3 October 2015 — comprehensive recodification of Basque foral civil law replacing 1959 Compilation."
+    },
+    {
+      "year": 2018,
+      "title": "ETA dissolution",
+      "description": "ETA dissolution of 3 May 2018 ending ~60-year Basque armed conflict (1968-2011 active period) — post-conflict resolution framework distinct within European post-conflict cluster."
+    }
+  ],
+  "structural_findings": [
+    "Basque Country operates a civil-law framework with own Foral Civil Law jurisdiction — places Basque Country in the EU subnational civil-law-with-own-code cluster.",
+    "Only EU member-state subnational jurisdiction operating its own Foral Civil Law tradition preserved continuously from medieval times is structurally distinctive globally.",
+    "Only EU subnational with full fiscal autonomy (Concierto Económico) is structurally distinctive globally — collecting and managing its own taxes within Spanish federal framework.",
+    "Basque Civil Law Act 2015 is one of the most recent EU subnational civil-code recodifications is structurally distinctive globally.",
+    "Foral succession framework with distinct Historical Territory variations (troncalidad in Bizkaia, freedom of testation in Álava and Gipuzkoa) is structurally distinctive within European succession-law cluster.",
+    "Post-2018 ETA dissolution post-conflict resolution framework is structurally distinctive globally — modern major EU subnational armed-conflict-to-post-conflict transition.",
+    "Spanish Constitution First Additional Provision (Foral rights) recognition is structurally distinctive globally — only EU member-state constitution explicitly recognising medieval subnational rights.",
+    "Spanish Hague Convention 1980 accession 1987 + Basque Foral Civil Law application framework is structurally distinctive — federal Hague extension binding on subnational foral-civil-law jurisdiction."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:france",
+    "jurisdiction:navarre",
+    "jurisdiction:catalonia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Parlamento Vasco / Eusko Legebiltzarra",
+      "url": "https://www.parlamento.euskadi.eus/",
+      "publisher": "Basque Government",
+      "language": "eu"
+    },
+    {
+      "title": "Tribunal Superior de Justicia del País Vasco",
+      "url": "https://www.poderjudicial.es/",
+      "publisher": "Spanish Government",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Basque Country jurisdiction sidecar — civil-law Northern Iberian Spanish autonomous community with own Basque foral civil-law jurisdiction (Basque Civil Law Act 2015 + Statute of Autonomy 1979 + Concierto Económico 1981 + Spanish Constitution Article 149.1.8 + First Additional Provision + Ley Confirmatoria de los Fueros 1839 + ETA dissolution 2018 + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with own Foral Civil Law tradition preserved continuously from medieval times globally + only EU subnational with full fiscal autonomy + most recent EU subnational civil-code recodification + Foral succession framework with distinct Historical Territory variations + modern major EU subnational armed-conflict-to-post-conflict transition.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + Foral-Civil-Law-tradition-continuous-from-medieval-times-globally-distinctive + Concierto-Económico-full-fiscal-autonomy + Basque-Civil-Law-Act-2015-recent-recodification + troncalidad-Bizkaia-freedom-of-testation-Álava-Gipuzkoa-succession-variations + ETA-dissolution-2018-post-conflict + Spanish-Constitution-First-Additional-Provision-Foral-rights clusters within the corpus."
+  ]
+}

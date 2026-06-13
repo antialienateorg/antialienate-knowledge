@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "american-samoa",
+  "name": "American Samoa (Amerika Sāmoa)",
+  "jurisdiction_code": "AS",
+  "legal_system": "mixed",
+  "language": ["en", "sm"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "American Samoa is a Pacific Island mixed-legal-system unincorporated US territory — structurally distinctive globally as the only US territory where birthright citizenship does not apply (American Samoans are US nationals, not US citizens, by default), and the only US territory retaining a substantial fa'a Samoa customary-law personal-status framework through the High Court of American Samoa Land and Titles Division. Family-law framework operates under American Samoa Code Annotated Title 42 (Domestic Relations) drawing on US-derivative common-law substantive heritage, alongside fa'a Samoa customary-law applicable to matai-title and customary-land matters. Parental responsibility and child custody are governed by ASCA Title 42 Chapter 1. The High Court of American Samoa is the apex domestic court for civil and criminal matters; final appellate jurisdiction in certain matters lies with the US Department of Interior Office of Insular Affairs. The Land and Titles Division of the High Court operates customary-law jurisdiction for matai-title and customary-land matters. Family-law matters are heard at first instance in the High Court (Trial Division) and District Court. Psychology profession is regulated through the Department of Health framework. American Samoa is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. American Samoa is a Hague Convention 1980 party via US territorial extension effective 1 July 1988.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "American Samoa Code Annotated Title 42 (Domestic Relations) Chapter 1",
+      "title": "ASCA Title 42 — Domestic Relations",
+      "year": 1981,
+      "url": "https://www.americansamoabar.org/",
+      "relevance": "Federal Domestic Relations Code codifying marriage, divorce, parental responsibility, and child custody. Chapter 1 governs Domestic Relations and parental responsibility."
+    },
+    {
+      "citation": "American Samoa Constitution 1967",
+      "title": "American Samoa Constitution",
+      "year": 1967,
+      "url": "https://www.americansamoabar.org/",
+      "relevance": "Constitution establishing American Samoa's unincorporated US territory status and fa'a Samoa customary-law protection."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of American Samoa",
+      "seat": "Pago Pago",
+      "url": "https://www.americansamoabar.org/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "Land and Titles Division of the High Court",
+      "seat": "Pago Pago",
+      "url": "https://www.americansamoabar.org/",
+      "role": "Specialised court for matai-title and customary-land matters under fa'a Samoa."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Department of Health, American Samoa",
+      "url": "https://www.americansamoa.gov/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "American Samoan family-court decisions are anonymised per High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1900,
+      "title": "US territorial status",
+      "description": "American Samoa established as US unincorporated territory."
+    },
+    {
+      "year": 1967,
+      "title": "American Samoa Constitution + fa'a Samoa protection",
+      "description": "Constitution establishing American Samoa's institutional framework and fa'a Samoa customary-law protection."
+    },
+    {
+      "year": 1988,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by US to American Samoa effective 1 July 1988."
+    }
+  ],
+  "structural_findings": [
+    "American Samoa operates the most structurally distinctive US-territory framework within the corpus — only US territory where birthright citizenship does not apply (American Samoans are US nationals, not US citizens, by default).",
+    "Constitutional protection of fa'a Samoa customary-law with parallel Land and Titles Division jurisdiction is structurally distinctive globally — only US territory retaining substantial customary-law personal-status framework.",
+    "Hague Convention 1980 applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.",
+    "Matai-title customary-status framework operating in parallel with US civil-law family-law framework is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:samoa",
+    "jurisdiction:guam",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "American Samoa Bar Association",
+      "url": "https://www.americansamoabar.org/",
+      "publisher": "Bar Association",
+      "language": "en,sm"
+    },
+    {
+      "title": "American Samoa Government",
+      "url": "https://www.americansamoa.gov/",
+      "publisher": "American Samoa Government",
+      "language": "en,sm"
+    }
+  ],
+  "editorial_notes": [
+    "American Samoa jurisdiction sidecar — mixed-legal-system Pacific US unincorporated territory (ASCA Title 42 + Constitution 1967 + fa'a Samoa customary-law via Land and Titles Division + US nationals (not citizens by default) distinctive + Hague via US territorial extension 1988). Only US territory where birthright citizenship does not apply globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + mixed-legal-system + US-unincorporated-territory cluster + no-birthright-citizenship-distinctive + fa'a Samoa-customary-law + Hague-via-US-territorial-extension clusters within the corpus."
+  ]
+}

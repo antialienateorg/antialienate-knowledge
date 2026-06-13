@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "senegal",
+  "name": "Senegal (Republic of Senegal / République du Sénégal)",
+  "jurisdiction_code": "SN",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "language_secondary": ["wo"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Senegal is a West African civil-law republic whose family-law framework operates under the Family Code 1972 (Code de la famille, Law 72-61) drawing on French civil-law substantive heritage with provisions for Islamic-law personal-status applicable to Muslim parties. Parental authority and child custody are governed by Family Code arts. 277-302. The Supreme Court of Senegal (Cour suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance), with specialised Family-Tribunal procedure. Psychology profession is regulated through the Ministry of Health framework with the Association of Senegalese Psychologists operating professional standards. Senegal is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard codified in Family Code art. 277. Senegal acceded to the Hague Convention 1980 effective 1 November 2012.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1972 (Law 72-61) arts. 277-302",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1972,
+      "url": "https://www.justice.gouv.sn/",
+      "relevance": "Federal Family Code drawing on French civil-law substantive heritage with provisions for Islamic-law personal-status applicable to Muslim parties. Arts. 277-302 govern parental authority and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour suprême)",
+      "seat": "Dakar",
+      "url": "https://www.coursupreme.sn/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Council (Conseil constitutionnel)",
+      "seat": "Dakar",
+      "url": "https://www.conseilconstitutionnel.sn/",
+      "role": "Constitutional Council with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Senegal",
+      "url": "https://www.sante.gouv.sn/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Association of Senegalese Psychologists",
+      "url": "https://www.aps.sn/",
+      "role": "Peak professional association for psychologists in Senegal."
+    }
+  ],
+  "anonymisation_convention": "Senegalese family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1972,
+      "title": "Family Code 1972 (Law 72-61)",
+      "description": "Federal Family Code enacted post-independence drawing on French civil-law substantive heritage with Islamic-law personal-status provisions."
+    },
+    {
+      "year": 2012,
+      "title": "Hague Convention 1980 accession",
+      "description": "Senegal acceded to the Hague Convention 1980 effective 1 November 2012."
+    }
+  ],
+  "structural_findings": [
+    "Senegal operates a French-civil-law family-law framework with hybrid Islamic-law personal-status provisions for Muslim parties — places Senegal in the Francophone West African cluster with provisions reflecting Senegal's Muslim-majority demography.",
+    "Hague Convention 1980 accession 2012 places Senegal in the Hague Africa cluster — early Francophone African accession.",
+    "Civil-law framework with Islamic-law personal-status hybrid is structurally distinctive within the West African cluster."
+  ],
+  "references": [
+    "jurisdiction:france",
+    "jurisdiction:morocco",
+    "jurisdiction:ivory-coast",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Senegal",
+      "url": "https://www.coursupreme.sn/",
+      "publisher": "Supreme Court",
+      "language": "fr"
+    },
+    {
+      "title": "Constitutional Council",
+      "url": "https://www.conseilconstitutionnel.sn/",
+      "publisher": "Constitutional Council",
+      "language": "fr"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.justice.gouv.sn/",
+      "publisher": "Ministry of Justice",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "Senegal jurisdiction sidecar — civil-law framework (French civil-law + Islamic-law personal-status hybrid). Family Code 1972 + Hague Convention 1980 accession 2012.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins West African + Francophone + civil-law + Islamic-law-hybrid + Hague Convention clusters within the corpus."
+  ]
+}

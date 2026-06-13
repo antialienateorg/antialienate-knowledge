@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "id": "inter-american-convention-on-human-rights",
+  "name": "Inter-American Convention on Human Rights (Pact of San Jose / Pacto de San José de Costa Rica 1969)",
+  "jurisdiction_code": "IAH",
+  "legal_system": "supranational",
+  "language": ["es", "pt", "en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Inter-American Convention on Human Rights (popularly the Pact of San Jose / Pacto de San José de Costa Rica) is a Latin American supranational meta-framework human-rights binding-treaty instrument adopted by the Organization of American States (OAS) — structurally distinctive globally as one of three modern regional binding-treaty frameworks operating both formal human-rights binding-treaty framework + dedicated judicial-body framework (American Convention on Human Rights adopted 22 November 1969 + effective 18 July 1978 — formal Inter-American regional binding-treaty framework establishing comprehensive human-rights framework + Inter-American Court of Human Rights IACtHR formal judicial-body framework, structurally distinctive globally as one of three modern regional human-rights frameworks with formal regional-court framework alongside ECHR + ACHPR-protocol-establishing-African-Court, distinct from rest-of-modern-international-human-rights frameworks which operate without formal regional-court framework), as the central jurisdiction of the formal Inter-American Article 17 family-rights framework (American Convention Article 17 framework on Rights of the Family — formal foundational family-rights framework underlying Inter-American parental-rights + child-protection case-law framework, distinct from ECHR Article 8 right to respect for private and family life framework operating through individual-rights-frame, structurally distinctive globally as the only modern regional human-rights binding-treaty framework operating formal family-rights-as-direct-right framework), as the central jurisdiction of the most distinctive modern Inter-American Court of Human Rights case-law framework on family-rights + child-rights (IACtHR Advisory Opinion OC-17/02 of 28 August 2002 on Juridical Condition and Human Rights of the Child + Atala Riffo and Daughters v. Chile 24 February 2012 + Fornerón and Daughter v. Argentina 27 April 2012 + multiple subsequent IACtHR cases applying Article 17 + 19 + 24 frameworks — formal IACtHR family-rights + child-rights case-law framework, structurally distinctive globally as the most-developed modern regional human-rights framework on family-rights + child-rights), and as the central jurisdiction of the formal Inter-American American Convention Article 19 children's-rights framework (American Convention Article 19 framework on Rights of the Child — formal Inter-American framework predating UNCRC 1989 by 20 years, structurally distinctive globally as the earliest formal regional-binding-treaty children's-rights framework). The Inter-American Convention on Human Rights is binding upon 23 of 35 OAS member states that have ratified the Convention as of 2026 (excluding United States + Canada + most-of-Caribbean-CARICOM frameworks). The Convention is silent on 'parental alienation' as a statutory label, though formal Article 17 family-rights + Article 19 children's-rights frameworks operate substantial intersection with parental-alienation framework. The Inter-American Court of Human Rights is the apex judicial body framework; the Inter-American Commission on Human Rights is the formal monitoring body framework. The Inter-American Convention on Human Rights is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "American Convention on Human Rights 1969 (Pact of San Jose)",
+      "title": "American Convention on Human Rights",
+      "year": 1978,
+      "url": "https://www.oas.org/",
+      "relevance": "American Convention on Human Rights signed 22 November 1969 in San José, Costa Rica + effective 18 July 1978 — formal Inter-American regional binding-treaty framework establishing comprehensive human-rights framework."
+    },
+    {
+      "citation": "American Convention Article 17 (Rights of the Family)",
+      "title": "American Convention Article 17",
+      "year": 1978,
+      "url": "https://www.oas.org/",
+      "relevance": "American Convention Article 17 framework on Rights of the Family — formal foundational family-rights framework underlying Inter-American parental-rights + child-protection case-law framework."
+    },
+    {
+      "citation": "American Convention Article 19 (Rights of the Child)",
+      "title": "American Convention Article 19",
+      "year": 1978,
+      "url": "https://www.oas.org/",
+      "relevance": "American Convention Article 19 framework on Rights of the Child — formal Inter-American framework predating UNCRC 1989 by 20 years."
+    },
+    {
+      "citation": "IACtHR Advisory Opinion OC-17/02 2002 + Atala Riffo 2012 + Fornerón 2012",
+      "title": "IACtHR Family + Child Rights Case-Law",
+      "year": 2012,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "Inter-American Court of Human Rights Advisory Opinion OC-17/02 of 28 August 2002 on Juridical Condition and Human Rights of the Child + Atala Riffo and Daughters v. Chile 24 February 2012 + Fornerón and Daughter v. Argentina 27 April 2012 — formal IACtHR family-rights + child-rights case-law framework."
+    },
+    {
+      "citation": "OAS Charter 1948 + Inter-American Commission on Human Rights 1959",
+      "title": "OAS Charter + Inter-American Commission",
+      "year": 1948,
+      "url": "https://www.oas.org/",
+      "relevance": "Organization of American States Charter signed 30 April 1948 + Inter-American Commission on Human Rights established 1959 — formal OAS regional supranational framework underlying American Convention on Human Rights."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Inter-American Court of Human Rights (IACtHR)",
+      "seat": "San José",
+      "url": "https://www.corteidh.or.cr/",
+      "role": "Apex judicial body framework for American Convention on Human Rights."
+    },
+    {
+      "name": "Inter-American Commission on Human Rights",
+      "seat": "Washington DC",
+      "url": "https://www.oas.org/en/iachr/",
+      "role": "Inter-American Commission on Human Rights — formal Inter-American human rights monitoring body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OAS Secretariat",
+      "url": "https://www.oas.org/",
+      "role": "American Convention on Human Rights implementation framework."
+    }
+  ],
+  "anonymisation_convention": "American Convention on Human Rights-related individual communications are anonymised per IACtHR practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "OAS Charter + American Declaration",
+      "description": "Organization of American States Charter signed 30 April 1948 + American Declaration of the Rights and Duties of Man adopted 2 May 1948 — beginning of formal OAS regional supranational framework."
+    },
+    {
+      "year": 1959,
+      "title": "Inter-American Commission on Human Rights established",
+      "description": "Inter-American Commission on Human Rights established 1959 by OAS — formal Inter-American human rights monitoring body."
+    },
+    {
+      "year": 1969,
+      "title": "American Convention on Human Rights adopted",
+      "description": "American Convention on Human Rights signed 22 November 1969 in San José, Costa Rica — formal Inter-American regional binding-treaty framework."
+    },
+    {
+      "year": 1978,
+      "title": "American Convention enters force",
+      "description": "American Convention on Human Rights entered force 18 July 1978 — formal Inter-American regional binding-treaty framework operational."
+    },
+    {
+      "year": 1979,
+      "title": "IACtHR established",
+      "description": "Inter-American Court of Human Rights IACtHR established 22 May 1979 in San José, Costa Rica — formal Inter-American regional court framework."
+    },
+    {
+      "year": 2002,
+      "title": "Advisory Opinion OC-17/02",
+      "description": "IACtHR Advisory Opinion OC-17/02 of 28 August 2002 on Juridical Condition and Human Rights of the Child — formal IACtHR foundational children's-rights framework."
+    },
+    {
+      "year": 2012,
+      "title": "Atala Riffo + Fornerón",
+      "description": "IACtHR Atala Riffo and Daughters v. Chile 24 February 2012 + Fornerón and Daughter v. Argentina 27 April 2012 — landmark formal IACtHR family-rights + child-rights case-law framework."
+    }
+  ],
+  "structural_findings": [
+    "American Convention on Human Rights operates a supranational Latin American regional human-rights binding-treaty framework — places American Convention on Human Rights in the Latin American supranational-meta-framework cluster.",
+    "One of three modern regional binding-treaty frameworks operating both formal human-rights binding-treaty framework + dedicated judicial-body framework is structurally distinctive globally — alongside ECHR + African Court Protocol frameworks.",
+    "Central jurisdiction of formal Inter-American Article 17 family-rights framework is structurally distinctive globally — only modern regional human-rights binding-treaty framework operating formal family-rights-as-direct-right framework.",
+    "Central jurisdiction of most distinctive modern Inter-American Court of Human Rights case-law framework on family-rights + child-rights is structurally distinctive globally — Advisory Opinion OC-17/02 + Atala Riffo + Fornerón + multiple subsequent cases.",
+    "Central jurisdiction of formal Inter-American American Convention Article 19 children's-rights framework is structurally distinctive globally — formal Inter-American framework predating UNCRC 1989 by 20 years.",
+    "23 of 35 OAS member state party ratification framework is structurally distinctive globally — substantial Latin American + Caribbean adoption framework but limited compared to ECHR universal European adoption framework.",
+    "Article 17 + Article 19 family-rights + children's-rights formal dual-framework is structurally distinctive globally.",
+    "1948 OAS Charter + 1959 Inter-American Commission + 1969 American Convention + 1978 entry into force + 1979 IACtHR established + 2002 Advisory Opinion OC-17/02 + 2012 Atala Riffo + Fornerón Inter-American-human-rights-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:organization-of-american-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:latam5-institutional-anti-sap-comparison"
+  ],
+  "sources": [
+    {
+      "title": "Inter-American Court of Human Rights",
+      "url": "https://www.corteidh.or.cr/",
+      "publisher": "Inter-American Court of Human Rights",
+      "language": "es"
+    },
+    {
+      "title": "Organization of American States",
+      "url": "https://www.oas.org/",
+      "publisher": "OAS",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "American Convention on Human Rights jurisdiction sidecar — supranational Latin American regional human-rights binding-treaty meta-framework (American Convention on Human Rights 1969/1978 + Article 17 Rights of the Family + Article 19 Rights of the Child + IACtHR Advisory Opinion OC-17/02 2002 + Atala Riffo 2012 + Fornerón 2012 + OAS Charter 1948 + Inter-American Commission on Human Rights 1959 + IACtHR 1979). One of three modern regional binding-treaty frameworks operating both formal human-rights binding-treaty framework + dedicated judicial-body framework + central jurisdiction of formal Inter-American Article 17 family-rights framework + central jurisdiction of most distinctive modern Inter-American Court of Human Rights case-law framework on family-rights + child-rights + central jurisdiction of formal Inter-American American Convention Article 19 children's-rights framework predating UNCRC 1989 by 20 years + 23 of 35 OAS member state party ratification framework + Article 17 + Article 19 family-rights + children's-rights formal dual-framework + 1948 OAS Charter + 1959 Inter-American Commission + 1969 American Convention + 1978 entry into force + 1979 IACtHR established + 2002 Advisory Opinion OC-17/02 + 2012 Atala Riffo + Fornerón Inter-American-human-rights-framework-development sequence. OAS regional triad complete (Pact of San Jose 1969 + Belém do Pará Convention 1994 + Inter-American Convention on Return of Children 1989).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Latin-American + supranational + regional-human-rights-binding-treaty cluster + American-Convention-Article-17-family-rights-and-Article-19-children-rights-dual-framework-globally-distinctive + Advisory-Opinion-OC-17-02-2002 + Atala-Riffo-2012 + Fornerón-2012 + IACtHR-formal-court-framework + 23-of-35-OAS-state-party-ratification + IACtHR-1979 + Inter-American-Commission-1959 + OAS-Charter-1948 + American-Declaration-1948 + ECHR-IACtHR-African-Court-three-regional-courts clusters within the corpus."
+  ]
+}

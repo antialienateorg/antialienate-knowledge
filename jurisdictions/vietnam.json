@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "id": "vietnam",
+  "name": "Vietnam (Việt Nam)",
+  "jurisdiction_code": "VN",
+  "legal_system": "civil-law",
+  "language": ["vi"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Vietnam is a Southeast Asian socialist-civil-law unitary republic whose family-law framework operates under the Law on Marriage and Family 52/2014/QH13 (Luật Hôn nhân và Gia đình 2014) in force 1 January 2015 and the Civil Code 91/2015/QH13 in force 1 January 2017. Parental rights and obligations (quyền và nghĩa vụ của cha mẹ) are governed by Marriage and Family Law arts. 69-96. Joint exercise during marriage is the statutory default. The Tòa án nhân dân tối cao (Supreme People's Court, Hanoi) is the apex court for civil and criminal matters. Psychology profession regulation is administered through the Ministry of Health licensing framework and the Vietnam Psychological Association. Vietnam is silent on 'parental alienation' as a statutory label; courts operate substantively under the lợi ích tốt nhất của con (best-interests-of-the-child) standard. Vietnam is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Law on Marriage and Family 52/2014/QH13 arts. 69-96",
+      "title": "Marriage and Family Law 2014",
+      "year": 2014,
+      "url": "https://thuvienphapluat.vn/",
+      "relevance": "Federal statute on family law in force 1 January 2015. Arts. 69-96 govern parental rights and obligations; joint exercise during marriage is the statutory default. Welfare standard codified."
+    },
+    {
+      "citation": "Civil Code 91/2015/QH13",
+      "title": "Civil Code 2015",
+      "year": 2015,
+      "url": "https://thuvienphapluat.vn/",
+      "relevance": "Federal civil code in force 1 January 2017 — substantial modernisation of Vietnamese private law."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tòa án nhân dân tối cao (Supreme People's Court)",
+      "seat": "Hanoi",
+      "url": "https://www.toaan.gov.vn/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Hội Tâm lý học Việt Nam (Vietnam Psychological Association)",
+      "url": "http://tamlyhoc.com.vn/",
+      "role": "Peak professional association for psychologists in Vietnam."
+    }
+  ],
+  "anonymisation_convention": "Vietnamese family-court decisions are anonymised per Supreme People's Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2014,
+      "title": "Law on Marriage and Family 52/2014/QH13",
+      "description": "Marriage and Family Law in force 1 January 2015."
+    },
+    {
+      "year": 2015,
+      "title": "Civil Code 91/2015/QH13",
+      "description": "Civil Code in force 1 January 2017 — substantial modernisation."
+    }
+  ],
+  "structural_findings": [
+    "Vietnam operates a socialist-civil-law framework distinctive within the corpus alongside Cuba and certain other socialist-civil-law jurisdictions.",
+    "Psychology profession regulation operates through Ministry of Health framework + peak-body ethics oversight without statutory professional-order regime.",
+    "Non-Hague Convention status places Vietnam in the non-Hague Asian cluster."
+  ],
+  "references": [
+    "jurisdiction:singapore",
+    "jurisdiction:japan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Tòa án nhân dân tối cao",
+      "url": "https://www.toaan.gov.vn/",
+      "publisher": "Supreme People's Court of Vietnam",
+      "language": "vi,en"
+    },
+    {
+      "title": "Thư viện Pháp luật — Legal Library",
+      "url": "https://thuvienphapluat.vn/",
+      "publisher": "ThuVienPhapLuat.vn",
+      "language": "vi,en"
+    },
+    {
+      "title": "Vietnam Psychological Association",
+      "url": "http://tamlyhoc.com.vn/",
+      "publisher": "VPA",
+      "language": "vi"
+    }
+  ],
+  "editorial_notes": [
+    "Vietnam jurisdiction sidecar — socialist-civil-law framework. Marriage and Family Law 2014 + Civil Code 2015 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Asian + socialist-civil-law + non-Hague Convention clusters within the corpus."
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "id": "tatarstan",
+  "name": "Republic of Tatarstan (Республика Татарстан / Татарстан Җөмһүрияте)",
+  "jurisdiction_code": "RU-TA",
+  "legal_system": "civil-law",
+  "language": ["ru", "tt", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Republic of Tatarstan (Russian: Республика Татарстан Respublika Tatarstan / Tatar: Татарстан Җөмһүрияте Tatarstan Cömhüriyäte) is a Volga Russian civil-law constituent republic of the Russian Federation — structurally distinctive globally as the second-largest Russian sub-national republic by population (~3.9 million — second-largest of all 21 Russian republics after Bashkortostan ~4.0 million), as the only Russian sub-national republic to refuse to sign the original Russian Federation Treaty 1992 (Russian Federation Treaty signed 31 March 1992 — Tatarstan + Chechnya were only two Russian republics refusing initial signature, with Tatarstan subsequently signing bilateral Russian-Tatarstan Power-Sharing Treaty 15 February 1994 as substitute framework — distinct from rest-of-Russian-republics framework), as the only Russian sub-national republic with formal post-Soviet bilateral power-sharing treaty framework (Russian-Tatarstan Power-Sharing Treaty 1994 effective 15 February 1994 + Russian-Tatarstan Power-Sharing Treaty 2007 effective 26 June 2007 - 2017 expired — only modern Russian sub-national republic with formal bilateral power-sharing treaty framework, expired 24 July 2017 with no replacement framework as of 2026), and as the central jurisdiction of historical Kazan Khanate 1438-1552 framework (Kazan Khanate established 1438 by Ulugh Muhammad as Golden Horde successor state + Kazan Khanate conquest by Ivan IV the Terrible 2 October 1552 — only modern Russian sub-national republic with continuous Golden-Horde-successor-state historical-cultural-political-Islamic framework). Tatarstan historically operated under Volga Bulgaria 7th-13th centuries + Golden Horde 1242-1438 + Kazan Khanate 1438-1552 + Russian Empire 1552-1917 + Soviet Tatar ASSR 1920-1990 + Republic of Tatarstan 1990+ (with formal sovereignty declaration 30 August 1990). Tatarstan comprises ~67,847 km² with a population of ~3.9 million (~53% Tatar + ~39% Russian + others). Family-law framework operates under the federal Russian civil-law framework (Russian Family Code 1995 + Russian Civil Code 1994) applied uniformly across Russian sub-national territories. The Supreme Court of Tatarstan is the apex regional court; final appellate jurisdiction lies with the Supreme Court of the Russian Federation. Tatarstan is silent on 'parental alienation' as a statutory label. Russia is a Hague Convention 1980 signatory and party (acceded 28 July 2011 effective 1 October 2011) — Tatarstan is governed by Russian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Republic of Tatarstan 1992 (amended 2002)",
+      "title": "Constitution of Tatarstan 1992",
+      "year": 1992,
+      "url": "https://www.gossov.tatarstan.ru/",
+      "relevance": "Tatarstan Constitution adopted 6 November 1992 + amended 2002 — formal constitutional framework for Republic of Tatarstan, originally with formal sovereignty declaration framework, amended 2002 to align with Russian Constitution."
+    },
+    {
+      "citation": "Russian-Tatarstan Power-Sharing Treaty 1994",
+      "title": "Russian-Tatarstan Power-Sharing Treaty 1994",
+      "year": 1994,
+      "url": "https://www.gossov.tatarstan.ru/",
+      "relevance": "Russian-Tatarstan Power-Sharing Treaty signed 15 February 1994 — formal bilateral power-sharing treaty framework establishing Tatarstan-Russian Federation relationship, substitute for unsigned 1992 Russian Federation Treaty."
+    },
+    {
+      "citation": "Russian-Tatarstan Power-Sharing Treaty 2007",
+      "title": "Russian-Tatarstan Power-Sharing Treaty 2007",
+      "year": 2007,
+      "url": "https://www.gossov.tatarstan.ru/",
+      "relevance": "Russian-Tatarstan Power-Sharing Treaty signed 26 June 2007 — renewed bilateral power-sharing treaty framework, expired 24 July 2017 with no replacement framework as of 2026."
+    },
+    {
+      "citation": "Constitution of the Russian Federation 1993 Article 5 (Republics)",
+      "title": "Constitution of Russian Federation Article 5",
+      "year": 1993,
+      "url": "https://www.constitution.ru/",
+      "relevance": "Russian Constitutional Article 5 establishing republics as constituent subjects of Russian Federation — applicable to Tatarstan."
+    },
+    {
+      "citation": "Russian Family Code 1995 + Russian Civil Code 1994",
+      "title": "Russian Family Code + Civil Code",
+      "year": 1995,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Russian Federal Family Code 1995 + Russian Federal Civil Code 1994 applicable uniformly across Tatarstan."
+    },
+    {
+      "citation": "Hague Convention 1980 — Russian accession 28 July 2011",
+      "title": "Hague Convention 1980 — Russia",
+      "year": 2011,
+      "url": "https://www.hcch.net/",
+      "relevance": "Russian Hague Convention 1980 accession 28 July 2011 effective 1 October 2011 — applicable to Tatarstan."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Republic of Tatarstan (Верховный суд Республики Татарстан)",
+      "seat": "Kazan",
+      "url": "https://vs.tatarstan.ru/",
+      "role": "Apex regional appellate court for civil and criminal matters from Tatarstan."
+    },
+    {
+      "name": "Supreme Court of the Russian Federation (Верховный Суд Российской Федерации)",
+      "seat": "Moscow",
+      "url": "https://vsrf.ru/",
+      "role": "Final appellate court for civil and criminal matters from Tatarstan."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of the Republic of Tatarstan",
+      "url": "https://minzdrav.tatarstan.ru/",
+      "role": "Tatarstan regional-level + Russian Federal professional regulatory framework applicable in Tatarstan."
+    }
+  ],
+  "anonymisation_convention": "Tatarstan family-court decisions are anonymised per Russian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1438,
+      "title": "Kazan Khanate established",
+      "description": "Kazan Khanate established 1438 by Ulugh Muhammad as Golden Horde successor state — beginning of formal Kazan Khanate framework 1438-1552."
+    },
+    {
+      "year": 1552,
+      "title": "Kazan Khanate conquest by Ivan IV",
+      "description": "Kazan Khanate conquest by Ivan IV the Terrible 2 October 1552 — formal incorporation into Russian Empire framework 1552-1917."
+    },
+    {
+      "year": 1920,
+      "title": "Tatar ASSR established",
+      "description": "Soviet Tatar Autonomous Soviet Socialist Republic established 27 May 1920 — first formal Tatar autonomous sub-national framework."
+    },
+    {
+      "year": 1990,
+      "title": "Tatarstan sovereignty declaration",
+      "description": "Tatarstan sovereignty declaration 30 August 1990 — formal post-Soviet sovereignty framework."
+    },
+    {
+      "year": 1992,
+      "title": "Russian Federation Treaty refusal + Tatarstan Constitution",
+      "description": "Russian Federation Treaty signed 31 March 1992 — Tatarstan + Chechnya were only two Russian republics refusing initial signature + Tatarstan Constitution adopted 6 November 1992."
+    },
+    {
+      "year": 1994,
+      "title": "Russian-Tatarstan Power-Sharing Treaty",
+      "description": "Russian-Tatarstan Power-Sharing Treaty signed 15 February 1994 — formal bilateral power-sharing treaty framework establishing Tatarstan-Russian Federation relationship."
+    },
+    {
+      "year": 2002,
+      "title": "Tatarstan Constitution amendment",
+      "description": "Tatarstan Constitution amended 2002 to align with Russian Constitution — formal post-Putin-recentralisation framework."
+    },
+    {
+      "year": 2007,
+      "title": "Renewed Power-Sharing Treaty",
+      "description": "Russian-Tatarstan Power-Sharing Treaty signed 26 June 2007 — renewed bilateral power-sharing treaty framework."
+    },
+    {
+      "year": 2017,
+      "title": "Power-Sharing Treaty expiration",
+      "description": "Russian-Tatarstan Power-Sharing Treaty 2007 expired 24 July 2017 with no replacement framework — end of formal Russian-Tatarstan bilateral power-sharing treaty framework."
+    }
+  ],
+  "structural_findings": [
+    "Tatarstan operates a federal Russian civil-law constituent republic framework — places Tatarstan in the Volga Russian Republic cluster.",
+    "Largest Russian sub-national republic by population (~3.9 million) is structurally distinctive within Russian republic cluster — second-largest by population after Bashkortostan.",
+    "Only Russian sub-national republic to refuse to sign original Russian Federation Treaty 1992 is structurally distinctive globally — Tatarstan + Chechnya were only two Russian republics refusing initial signature.",
+    "Only Russian sub-national republic with formal post-Soviet bilateral power-sharing treaty framework is structurally distinctive globally — Russian-Tatarstan Power-Sharing Treaty 1994 + 2007 framework, expired 2017 with no replacement framework.",
+    "Central jurisdiction of historical Kazan Khanate 1438-1552 framework is structurally distinctive globally — only modern Russian sub-national republic with continuous Golden-Horde-successor-state historical-cultural-political-Islamic framework.",
+    "30 August 1990 Tatarstan sovereignty declaration framework is structurally distinctive globally — only modern Russian sub-national territory with continuous formal sovereignty declaration framework predating Soviet dissolution.",
+    "1552 Kazan Khanate conquest by Ivan IV historical framework is structurally distinctive globally — only modern Russian sub-national republic with formal Ivan-the-Terrible-conquest historical framework.",
+    "Russian Hague-Convention-1980-accession-2011 framework applies."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:chechnya",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:turkey",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Republic of Tatarstan",
+      "url": "https://tatarstan.ru/",
+      "publisher": "Tatarstan Government",
+      "language": "ru"
+    },
+    {
+      "title": "State Council of the Republic of Tatarstan",
+      "url": "https://www.gossov.tatarstan.ru/",
+      "publisher": "Tatarstan State Council",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "Republic of Tatarstan jurisdiction sidecar — civil-law Volga Russian constituent republic (Constitution of Tatarstan 1992 + Russian-Tatarstan Power-Sharing Treaty 1994 + Russian-Tatarstan Power-Sharing Treaty 2007 + Constitution of Russian Federation 1993 Article 5 + Russian Family Code 1995 + Kazan Khanate 1438-1552 + Volga Bulgaria 7th-13th centuries + Golden Horde 1242-1438 + Russian Empire 1552-1917 + Tatar ASSR 1920-1990 + 1990 sovereignty declaration + 1992 RF Treaty refusal + 2017 Power-Sharing Treaty expiration + Russian Hague-1980). Largest Russian sub-national republic by population + only Russian sub-national republic to refuse to sign original Russian Federation Treaty 1992 + only Russian sub-national republic with formal post-Soviet bilateral power-sharing treaty framework + central jurisdiction of historical Kazan Khanate 1438-1552 framework + 30 August 1990 Tatarstan sovereignty declaration framework + 1552 Kazan Khanate conquest by Ivan IV historical framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Volga + civil-law + Russian-Republic cluster + largest-Russian-Republic-by-population + Russian-Tatarstan-Power-Sharing-Treaty-1994-2007-2017-globally-distinctive + 1992-Russian-Federation-Treaty-refusal + Kazan-Khanate-1438-1552-Golden-Horde-successor-state + 1552-Ivan-the-Terrible-conquest + 1990-sovereignty-declaration + Tatar-Muslim-cultural-political-identity + Russian-Hague-1980-2011 clusters within the corpus."
+  ]
+}

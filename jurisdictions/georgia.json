@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "id": "georgia",
+  "name": "Georgia (საქართველო)",
+  "jurisdiction_code": "GE",
+  "legal_system": "civil-law",
+  "language": ["ka"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Georgia is a South Caucasus civil-law unitary republic whose family-law framework operates under the Civil Code of Georgia 1997 (substantively reformed by Civil Code amendments of 2017 and Family Mediation Law 2019), Book V (Family Law) governing marriage, parental rights and child custody. Parental rights and child custody are governed by Civil Code arts. 1197-1250. The Supreme Court of Georgia (საქართველოს უზენაესი სასამართლო) is the apex court for civil and criminal matters; the Constitutional Court of Georgia (საქართველოს საკონსტიტუციო სასამართლო) operates constitutional review. Family-law matters are heard at first instance in the City/District Courts. Psychology profession is regulated through the Ministry of Internally Displaced Persons, Labour, Health and Social Affairs framework with the Georgian Psychologists Association operating professional standards. Georgia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard codified in Civil Code art. 1198. Georgia acceded to the Hague Convention 1980 effective 1 October 1997. Georgia is a Council of Europe member subject to ECHR jurisdiction.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code of Georgia 1997 Book V arts. 1197-1250",
+      "title": "Civil Code Book V — Family Law",
+      "year": 1997,
+      "url": "https://www.matsne.gov.ge/",
+      "relevance": "Federal Civil Code Book V on Family Law enacted post-Soviet. Arts. 1197-1250 govern parental rights and child custody. Substantively reformed by 2017 amendments."
+    },
+    {
+      "citation": "Code on the Rights of the Child 5004-IIs of 2019",
+      "title": "Code on the Rights of the Child",
+      "year": 2019,
+      "url": "https://www.matsne.gov.ge/",
+      "relevance": "Federal Code on the Rights of the Child aligned with UNCRC obligations and Council of Europe child-protection standards."
+    },
+    {
+      "citation": "Law on Mediation 2019 (Family Mediation provisions)",
+      "title": "Law on Mediation",
+      "year": 2019,
+      "url": "https://www.matsne.gov.ge/",
+      "relevance": "Federal law on mediation including family-mediation provisions."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (უზენაესი სასამართლო)",
+      "seat": "Tbilisi",
+      "url": "https://www.supremecourt.ge/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (საკონსტიტუციო სასამართლო)",
+      "seat": "Batumi",
+      "url": "https://www.constcourt.ge/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Internally Displaced Persons, Labour, Health and Social Affairs",
+      "url": "https://www.moh.gov.ge/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Georgian Psychologists Association",
+      "url": "https://www.gpa.ge/",
+      "role": "Peak professional association for psychologists in Georgia."
+    }
+  ],
+  "anonymisation_convention": "Georgian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1997,
+      "title": "Civil Code of Georgia (Book V Family Law)",
+      "description": "Federal Civil Code enacted post-Soviet codifying family-law in Book V."
+    },
+    {
+      "year": 1997,
+      "title": "Hague Convention 1980 accession",
+      "description": "Georgia acceded to the Hague Convention 1980 effective 1 October 1997 — among earliest post-Soviet accessions."
+    },
+    {
+      "year": 1999,
+      "title": "Council of Europe membership",
+      "description": "Georgia joined the Council of Europe; ECHR became applicable."
+    },
+    {
+      "year": 2017,
+      "title": "Civil Code 2017 amendments",
+      "description": "Substantive amendments to Civil Code family-law provisions."
+    },
+    {
+      "year": 2019,
+      "title": "Code on the Rights of the Child + Law on Mediation",
+      "description": "Federal Code on Rights of the Child and Law on Mediation (including family-mediation provisions) enacted."
+    }
+  ],
+  "structural_findings": [
+    "Georgia operates a post-Soviet civil-law framework with Council of Europe + ECHR membership — places Georgia in the post-Soviet civil-law + ECHR cluster within the corpus.",
+    "Hague Convention 1980 accession 1997 places Georgia as among earliest post-Soviet Hague accessions.",
+    "Code on Rights of the Child 2019 + Family Mediation Law 2019 reflect Council-of-Europe-influenced child-protection and ADR modernisation trajectory."
+  ],
+  "references": [
+    "jurisdiction:armenia",
+    "jurisdiction:russia",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Georgia",
+      "url": "https://www.supremecourt.ge/",
+      "publisher": "Supreme Court",
+      "language": "ka,en"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.constcourt.ge/",
+      "publisher": "Constitutional Court",
+      "language": "ka,en"
+    },
+    {
+      "title": "Legislative Herald of Georgia (matsne.gov.ge)",
+      "url": "https://www.matsne.gov.ge/",
+      "publisher": "Ministry of Justice",
+      "language": "ka,en"
+    }
+  ],
+  "editorial_notes": [
+    "Georgia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Civil Code 1997 Book V + 2017 amendments + Code on Rights of the Child 2019 + Family Mediation Law 2019 + Hague Convention 1980 accession 1997.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Caucasus + civil-law + post-Soviet + ECHR + Hague Convention clusters within the corpus."
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "id": "kalmykia",
+  "name": "Republic of Kalmykia (Республика Калмыкия / Хальмг Таңһч)",
+  "jurisdiction_code": "RU-KL",
+  "legal_system": "civil-law",
+  "language": ["ru", "xal", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Republic of Kalmykia (Russian: Республика Калмыкия Respublika Kalmykiya / Kalmyk: Хальмг Таңһч Halmg Tanghch) is a Southwestern Russian civil-law constituent republic of the Russian Federation — structurally distinctive globally as the only modern jurisdiction in Europe with Buddhism as predominant religion (Tibetan Gelug-school Buddhism predominant among Kalmyk Mongol population — ~53% of Kalmykia population is Kalmyk, distinct from rest-of-Europe which operates Christian + secular + Islamic-majority frameworks, structurally distinctive globally as westernmost formal Buddhist jurisdiction worldwide), as the only modern jurisdiction in Europe operating formal Mongolic-language (Oirat-Kalmyk language family) official-administrative framework (Kalmyk language formal official language of Kalmykia under Constitution of Kalmykia 1994 Article 17 alongside Russian — only formal European Mongolic-language sub-national jurisdiction, distinct from rest-of-Europe operating Indo-European + Uralic + Caucasian language families), as the central jurisdiction of the formal Kalmyk Deportation 1943-1957 historical framework (Soviet Operation Ulusy 28 December 1943 — Stalin Soviet government deportation of ~92,000 Kalmyk people to Siberia + Central Asia + Soviet Far East with ~40-50% mortality framework, formally recognised as Soviet genocide by Russian Soviet Federative Socialist Republic Supreme Soviet on 26 April 1991), and as the central jurisdiction of historical Kalmyk Khanate 1635-1771 framework (Kalmyk Khanate established 1635 by Oirat Mongol migration from Dzungaria + Kalmyk Khanate dissolution 1771 via Mass Exodus from Volga Steppe back to Dzungaria + remnant Volga Kalmyk framework — only modern jurisdiction globally with continuous Oirat Mongol historical-cultural-political-linguistic framework since 1635). Kalmykia historically operated under Kalmyk Khanate 1635-1771 + Russian Empire 1771-1917 + Soviet Kalmyk Autonomous Oblast 1920-1935 + Soviet Kalmyk ASSR 1935-1943 + Soviet Deportation framework 1943-1957 (with formal abolition of Kalmyk ASSR 27 December 1943 by Stalin) + restored Kalmyk ASSR 1957-1992 + Republic of Kalmykia 1992+. Kalmykia comprises ~74,731 km² with a population of ~270,000. Family-law framework operates under the federal Russian civil-law framework (Russian Family Code 1995 + Russian Civil Code 1994) applied uniformly across Russian sub-national territories. The Supreme Court of Kalmykia is the apex regional court; final appellate jurisdiction lies with the Supreme Court of the Russian Federation. Kalmykia is silent on 'parental alienation' as a statutory label. Russia is a Hague Convention 1980 signatory and party (acceded 28 July 2011 effective 1 October 2011) — Kalmykia is governed by Russian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Republic of Kalmykia 1994 (Steppe Code / Степное уложение)",
+      "title": "Constitution of Kalmykia 1994 (Steppe Code)",
+      "year": 1994,
+      "url": "https://www.kalmregion.ru/",
+      "relevance": "Kalmykia Constitution Steppe Code (Steppe Uloszhenie) adopted 5 April 1994 — distinctive formal Constitution title 'Steppe Code' deriving from historical Kalmyk Khanate Yeke Tsaaz 1640 + Kalmyk-Mongolic-legal-historical-framework, including formal Kalmyk language official-administrative framework Article 17."
+    },
+    {
+      "citation": "Constitution of the Russian Federation 1993 Article 5 (Republics)",
+      "title": "Constitution of Russian Federation Article 5",
+      "year": 1993,
+      "url": "https://www.constitution.ru/",
+      "relevance": "Russian Constitutional Article 5 establishing republics as constituent subjects of Russian Federation — applicable to Kalmykia."
+    },
+    {
+      "citation": "Russian Soviet Federative Socialist Republic Supreme Soviet Resolution 26 April 1991",
+      "title": "RSFSR Supreme Soviet Resolution 26 April 1991",
+      "year": 1991,
+      "url": "https://www.constitution.ru/",
+      "relevance": "RSFSR Supreme Soviet Resolution of 26 April 1991 — formal recognition of Soviet Kalmyk Deportation 1943-1957 as Soviet genocide framework."
+    },
+    {
+      "citation": "Russian Family Code 1995 + Russian Civil Code 1994",
+      "title": "Russian Family Code + Civil Code",
+      "year": 1995,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Russian Federal Family Code 1995 + Russian Federal Civil Code 1994 applicable uniformly across Kalmykia."
+    },
+    {
+      "citation": "Hague Convention 1980 — Russian accession 28 July 2011",
+      "title": "Hague Convention 1980 — Russia",
+      "year": 2011,
+      "url": "https://www.hcch.net/",
+      "relevance": "Russian Hague Convention 1980 accession 28 July 2011 effective 1 October 2011 — applicable to Kalmykia."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Kalmykia (Верховный суд Республики Калмыкия)",
+      "seat": "Elista",
+      "url": "https://www.kalmykia.ru/",
+      "role": "Apex regional appellate court for civil and criminal matters from Kalmykia."
+    },
+    {
+      "name": "Supreme Court of the Russian Federation (Верховный Суд Российской Федерации)",
+      "seat": "Moscow",
+      "url": "https://vsrf.ru/",
+      "role": "Final appellate court for civil and criminal matters from Kalmykia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of the Republic of Kalmykia",
+      "url": "https://www.kalmregion.ru/",
+      "role": "Kalmykia regional-level + Russian Federal professional regulatory framework applicable in Kalmykia."
+    }
+  ],
+  "anonymisation_convention": "Kalmykia family-court decisions are anonymised per Russian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1635,
+      "title": "Kalmyk Khanate founded",
+      "description": "Kalmyk Khanate founded 1635 by Oirat Mongol migration from Dzungaria — beginning of formal Kalmyk Khanate framework 1635-1771."
+    },
+    {
+      "year": 1640,
+      "title": "Yeke Tsaaz Mongol-Oirat Code adopted",
+      "description": "Yeke Tsaaz Mongol-Oirat Code adopted 1640 — formal Kalmyk Khanate legal-historical framework, modern Steppe Code Constitution 1994 lineage."
+    },
+    {
+      "year": 1771,
+      "title": "Kalmyk Mass Exodus + Khanate dissolution",
+      "description": "Kalmyk Mass Exodus from Volga Steppe back to Dzungaria 1771 + dissolution of Kalmyk Khanate by Catherine the Great + remnant Volga Kalmyk framework 1771+."
+    },
+    {
+      "year": 1935,
+      "title": "Kalmyk ASSR established",
+      "description": "Soviet Kalmyk Autonomous Soviet Socialist Republic established 22 October 1935 — first formal Kalmyk autonomous sub-national framework."
+    },
+    {
+      "year": 1943,
+      "title": "Operation Ulusy + Kalmyk Deportation",
+      "description": "Soviet Operation Ulusy 28 December 1943 — Stalin Soviet government deportation of ~92,000 Kalmyk people to Siberia + Central Asia + Soviet Far East with ~40-50% mortality framework + formal abolition of Kalmyk ASSR 27 December 1943."
+    },
+    {
+      "year": 1957,
+      "title": "Kalmyk ASSR restoration",
+      "description": "Soviet Kalmyk ASSR restored 9 January 1957 — return of Kalmyk people to Volga Steppe homeland."
+    },
+    {
+      "year": 1991,
+      "title": "RSFSR genocide recognition",
+      "description": "RSFSR Supreme Soviet Resolution of 26 April 1991 — formal recognition of Soviet Kalmyk Deportation 1943-1957 as Soviet genocide framework."
+    },
+    {
+      "year": 1992,
+      "title": "Republic of Kalmykia established",
+      "description": "Republic of Kalmykia formally established 1992 — constituent republic of newly-independent Russian Federation."
+    },
+    {
+      "year": 1994,
+      "title": "Steppe Code Constitution",
+      "description": "Kalmykia Constitution Steppe Code adopted 5 April 1994 — distinctive formal Constitution title deriving from historical Kalmyk Khanate Yeke Tsaaz 1640."
+    }
+  ],
+  "structural_findings": [
+    "Kalmykia operates a federal Russian civil-law constituent republic framework — places Kalmykia in the Southwestern Russian Republic cluster.",
+    "Only modern jurisdiction in Europe with Buddhism as predominant religion is structurally distinctive globally — Tibetan Gelug-school Buddhism predominant among Kalmyk Mongol population, westernmost formal Buddhist jurisdiction worldwide.",
+    "Only modern jurisdiction in Europe operating formal Mongolic-language official-administrative framework is structurally distinctive globally — Kalmyk language formal official language under Constitution of Kalmykia 1994 Article 17.",
+    "Central jurisdiction of formal Kalmyk Deportation 1943-1957 historical framework is structurally distinctive globally — Soviet Operation Ulusy with ~40-50% mortality framework + formal Soviet genocide recognition 1991.",
+    "Central jurisdiction of historical Kalmyk Khanate 1635-1771 framework is structurally distinctive globally — only modern jurisdiction globally with continuous Oirat Mongol historical-cultural-political-linguistic framework since 1635.",
+    "Yeke Tsaaz Mongol-Oirat Code 1640 + Steppe Code Constitution 1994 distinctive constitutional-title framework is structurally distinctive globally.",
+    "1771 Kalmyk Mass Exodus from Volga Steppe back to Dzungaria framework is structurally distinctive globally — only modern jurisdiction with formal continuous mass-exodus-and-remnant-homeland historical framework.",
+    "Russian Hague-Convention-1980-accession-2011 framework applies."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:mongolia",
+    "jurisdiction:china",
+    "jurisdiction:kazakhstan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Republic of Kalmykia",
+      "url": "https://www.kalmregion.ru/",
+      "publisher": "Kalmykia Government",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "Republic of Kalmykia jurisdiction sidecar — civil-law Southwestern Russian constituent republic (Constitution of Kalmykia 1994 Steppe Code + Yeke Tsaaz Mongol-Oirat Code 1640 + Constitution of Russian Federation 1993 Article 5 + RSFSR Supreme Soviet Resolution 26 April 1991 + Russian Family Code 1995 + Kalmyk Khanate 1635-1771 + 1771 Mass Exodus + Soviet Kalmyk Oblast 1920-1935 + Kalmyk ASSR 1935-1943 + Operation Ulusy 1943 + Kalmyk Deportation 1943-1957 + 1957 restoration + 1991 genocide recognition + Russian Hague-1980). Only modern jurisdiction in Europe with Buddhism as predominant religion globally + westernmost formal Buddhist jurisdiction worldwide + only modern jurisdiction in Europe operating formal Mongolic-language official-administrative framework + central jurisdiction of formal Kalmyk Deportation 1943-1957 historical framework + central jurisdiction of historical Kalmyk Khanate 1635-1771 framework + Yeke Tsaaz Mongol-Oirat Code 1640 + Steppe Code Constitution 1994 distinctive constitutional-title framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southwestern-Russian + civil-law + Russian-Republic cluster + only-European-Buddhist-majority-jurisdiction-globally-distinctive + Tibetan-Gelug-school-Buddhism + Kalmyk-Mongolic-language-formal-official-administrative + Kalmyk-Khanate-1635-1771-Oirat-Mongol-continuous-framework + Yeke-Tsaaz-Mongol-Oirat-Code-1640 + Steppe-Code-Constitution-1994 + 1771-Mass-Exodus-from-Volga-Steppe + Operation-Ulusy-1943-Kalmyk-Deportation + 1991-RSFSR-genocide-recognition + Russian-Hague-1980-2011 clusters within the corpus."
+  ]
+}

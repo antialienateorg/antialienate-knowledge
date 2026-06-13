@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "id": "argentine-antarctica",
+  "name": "Argentine Antarctica (Antártida Argentina)",
+  "jurisdiction_code": "AQ-AR",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Argentine Antarctica (Antártida Argentina) is an Antarctic civil-law Argentine territorial claim comprising the sector of Antarctica between 25°W and 74°W longitude south to the South Pole — structurally distinctive globally as one of three overlapping Antarctic claims (with British Antarctic Territory and Chilean Antarctic Territory) on the Antarctic Peninsula, all three claims overlapping entirely in some areas. Argentine Antarctica is constitutionally integrated as part of the Tierra del Fuego, Antarctica, and South Atlantic Islands Province (Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur) under Argentine Constitution Article 35 (1994 reform). The provincial capital is Ushuaia (Tierra del Fuego), with Base Esperanza on the Antarctic Peninsula serving as the provincial Antarctic administrative seat. Argentine Antarctica is one of seven national Antarctic territorial claims operating under the 1959 Antarctic Treaty's claim-suspension framework (article IV). Argentine Antarctica has six permanent year-round research stations and seven seasonal stations operated by the Dirección Nacional del Antártico. Family-law framework operates under the Argentine Civil and Commercial Code (Código Civil y Comercial 2015) applied via provincial Tierra del Fuego jurisdiction. Parental authority and child custody operate under Civil and Commercial Code arts. 638-704 (responsabilidad parental). Provincial courts of Tierra del Fuego have jurisdiction over Argentine Antarctica matters; final appellate jurisdiction lies with the Supreme Court of Argentina (Corte Suprema de Justicia de la Nación). Base Esperanza notably hosts year-round Argentine families with children born on the Antarctic continent — the first such birth was Emilio Marcos Palma on 7 January 1978 (first human born in Antarctica). Argentine Antarctica is silent on 'parental alienation' as a statutory label. Argentine Antarctica is a Hague Convention 1980 party via Argentine territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Argentine Constitution Article 35 (1994 reform — Tierra del Fuego, Antarctica, South Atlantic Islands Province)",
+      "title": "Argentine Constitution Article 35",
+      "year": 1994,
+      "url": "https://www.argentina.gob.ar/",
+      "relevance": "Argentine Constitutional Article integrating Antártida Argentina as part of the Tierra del Fuego, Antarctica, and South Atlantic Islands Province."
+    },
+    {
+      "citation": "Argentine Civil and Commercial Code (Código Civil y Comercial 2015) arts. 638-704",
+      "title": "Argentine Civil and Commercial Code — Parental responsibility",
+      "year": 2015,
+      "url": "https://www.argentina.gob.ar/",
+      "relevance": "Argentine Code articles 638-704 governing responsabilidad parental and child custody applicable in Argentine Antarctica via provincial Tierra del Fuego jurisdiction."
+    },
+    {
+      "citation": "Antarctic Treaty 1959 (article IV claim suspension)",
+      "title": "Antarctic Treaty",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "International treaty providing for Antarctic claim suspension under article IV — Argentine Antarctica claim suspended pending Treaty term."
+    },
+    {
+      "citation": "Law 18.513 of 1969 (Argentine Antarctic governance framework)",
+      "title": "Argentine Antarctic Governance Law 18.513",
+      "year": 1969,
+      "url": "https://www.argentina.gob.ar/",
+      "relevance": "Argentine Federal Law establishing Argentine Antarctic governance framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Superior Court of Justice of Tierra del Fuego (Superior Tribunal de Justicia de Tierra del Fuego, Antártida e Islas del Atlántico Sur)",
+      "seat": "Ushuaia, Tierra del Fuego",
+      "url": "https://www.justierradelfuego.gov.ar/",
+      "role": "Apex provincial court for civil and criminal matters from Argentine Antarctica."
+    },
+    {
+      "name": "Supreme Court of Argentina (Corte Suprema de Justicia de la Nación)",
+      "seat": "Buenos Aires",
+      "url": "https://www.csjn.gov.ar/",
+      "role": "Final appellate court for civil and criminal matters from Argentine Antarctica."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Argentine Federation of Psychologists (Federación de Psicólogos de la República Argentina, FEPRA)",
+      "url": "https://www.fepra.org.ar/",
+      "role": "Argentine professional regulatory framework for psychology applicable in Argentine Antarctica."
+    }
+  ],
+  "anonymisation_convention": "Argentine Antarctic decisions are anonymised per Argentine court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1904,
+      "title": "Argentine Antarctic permanent presence begins",
+      "description": "Argentine permanent Antarctic presence established at Orcadas Base (originally Scottish, transferred to Argentina) on 22 February 1904 — oldest continuously-occupied Antarctic research station."
+    },
+    {
+      "year": 1942,
+      "title": "Argentine Antarctic claim formalised",
+      "description": "Argentina formally claimed Antártida Argentina via the Pacto del Atlántico of 1942."
+    },
+    {
+      "year": 1959,
+      "title": "Antarctic Treaty signed",
+      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Argentine Antarctica claim suspended pending Treaty term."
+    },
+    {
+      "year": 1978,
+      "title": "First human birth in Antarctica",
+      "description": "Emilio Marcos Palma born at Base Esperanza on 7 January 1978 — first human born on the Antarctic continent, deliberately enabled by Argentina to assert sovereignty claim."
+    },
+    {
+      "year": 1991,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by Argentina to Argentine Antarctica effective 1 June 1991."
+    },
+    {
+      "year": 1994,
+      "title": "Constitutional integration via Article 35",
+      "description": "Argentine Constitutional reform of 1994 integrating Antártida Argentina as part of the Tierra del Fuego, Antarctica, and South Atlantic Islands Province."
+    }
+  ],
+  "structural_findings": [
+    "Argentine Antarctica operates a civil-law Argentine-Federal-and-provincial-law framework — places Argentine Antarctica in the South American Antarctic-claim cluster.",
+    "Constitutional provincial integration via Tierra del Fuego, Antarctica, and South Atlantic Islands Province is structurally distinctive globally — only Antarctic claim integrated into national constitutional framework as part of a constituent province.",
+    "Three-way overlapping claim with BAT and Chilean Antarctic Territory on Antarctic Peninsula is structurally distinctive globally — only state territorial claim with three-way complete overlap.",
+    "First human birth in Antarctica (Emilio Marcos Palma, Base Esperanza, 7 January 1978) is structurally distinctive globally — only sovereignty-motivated Antarctic birth strategy.",
+    "Permanent year-round families with children at Base Esperanza is structurally distinctive globally — only Antarctic claim-jurisdiction with continuous civilian-family presence.",
+    "Antarctic Treaty article IV claim suspension is shared with BAT, AAT, TAAF Adélie Land, Ross Dependency, Queen Maud Land, Chilean Antarctica."
+  ],
+  "references": [
+    "jurisdiction:argentina",
+    "jurisdiction:british-antarctic-territory",
+    "jurisdiction:french-southern-and-antarctic-lands",
+    "jurisdiction:australian-antarctic-territory",
+    "jurisdiction:ross-dependency",
+    "jurisdiction:queen-maud-land",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Dirección Nacional del Antártico",
+      "url": "https://www.dna.gob.ar/",
+      "publisher": "Argentine Government",
+      "language": "es"
+    },
+    {
+      "title": "Argentine Government",
+      "url": "https://www.argentina.gob.ar/",
+      "publisher": "Argentine Government",
+      "language": "es"
+    },
+    {
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "publisher": "Antarctic Treaty Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Argentine Antarctica (Antártida Argentina) jurisdiction sidecar — civil-law Antarctic Argentine territorial claim integrated as part of Tierra del Fuego, Antarctica, and South Atlantic Islands Province (Argentine Civil and Commercial Code + Constitution Article 35 + Antarctic Treaty 1959 article IV claim suspension + Hague via Argentine territorial extension 1991). Only Antarctic claim constitutionally integrated as part of a constituent province + only sovereignty-motivated Antarctic birth strategy (first human born on Antarctic continent 7 January 1978) + only Antarctic claim-jurisdiction with continuous civilian-family presence + three-way overlapping claim with BAT/Chilean Antarctic Territory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Antarctic + civil-law + Argentine-territorial-claim cluster + constitutional-provincial-integration-globally-distinctive + sovereignty-motivated-Antarctic-birth + continuous-civilian-family-presence + three-way-overlapping-claim + Antarctic-Treaty-article-IV-claim-suspension + Hague-via-Argentine-territorial-extension clusters within the corpus."
+  ]
+}

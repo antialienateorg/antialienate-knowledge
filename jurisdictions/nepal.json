@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "nepal",
+  "name": "Nepal (Federal Democratic Republic of Nepal / सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल)",
+  "jurisdiction_code": "NP",
+  "legal_system": "mixed",
+  "language": ["ne"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Nepal is a South Asian mixed-legal-system federal democratic republic combining Hindu-Mitakshara civil-law substantive heritage (via Muluki Civil Code 2017 codifying personal-status law beyond religious-community framework) with English common-law procedural inheritance. Family-law framework operates under the Muluki Civil Code 2017 (effective 17 August 2018) — comprehensive replacement of the prior 1963 Muluki Ain. Parental authority and child custody are governed by Muluki Civil Code Part 3 Chapter 7 (arts. 119-130). The Supreme Court of Nepal is the apex court for civil and criminal matters; the Constitutional Bench of the Supreme Court operates constitutional review. Family-law matters are heard at first instance in the District Courts. Psychology profession is regulated through the Nepal Psychological Association and Ministry of Health and Population framework. Nepal is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Nepal is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Muluki Civil Code 2017 Part 3 Chapter 7 (arts. 119-130)",
+      "title": "Muluki Civil Code — Parental authority",
+      "year": 2017,
+      "url": "https://www.supremecourt.gov.np/",
+      "relevance": "Federal Civil Code effective 17 August 2018 — comprehensive replacement of 1963 Muluki Ain. Arts. 119-130 govern parental authority and child custody."
+    },
+    {
+      "citation": "Act Relating to Children 2018 (Bal Sambandhi Ain)",
+      "title": "Act Relating to Children",
+      "year": 2018,
+      "url": "https://www.supremecourt.gov.np/",
+      "relevance": "Federal Act on Children aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Nepal",
+      "seat": "Kathmandu",
+      "url": "https://www.supremecourt.gov.np/",
+      "role": "Apex court for civil and criminal matters; Constitutional Bench operates constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Nepal Psychological Association",
+      "url": "https://www.npa.org.np/",
+      "role": "Peak professional association for psychologists in Nepal."
+    },
+    {
+      "name": "Ministry of Health and Population, Nepal",
+      "url": "https://www.mohp.gov.np/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Nepali family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1963,
+      "title": "Original Muluki Ain",
+      "description": "Federal civil code enacted under the Panchayat regime — first codification of Hindu personal-status with statutory framework."
+    },
+    {
+      "year": 2008,
+      "title": "Federal Democratic Republic",
+      "description": "Nepal abolished monarchy and became Federal Democratic Republic following 2006-2008 Constituent Assembly process."
+    },
+    {
+      "year": 2015,
+      "title": "Constitution 2015",
+      "description": "Federal Democratic Republican Constitution adopted establishing federal structure with seven provinces."
+    },
+    {
+      "year": 2017,
+      "title": "Muluki Civil Code 2017",
+      "description": "Comprehensive Civil Code enacted effective 17 August 2018 — replaced 1963 Muluki Ain with modernised family-law provisions."
+    }
+  ],
+  "structural_findings": [
+    "Nepal operates a structurally distinctive mixed-legal-system framework — Hindu-Mitakshara civil-law substantive heritage (Muluki Civil Code 2017 codifying personal-status law beyond religious-community framework) + English common-law procedural inheritance. Within the South Asian mixed-legal-system cluster.",
+    "Muluki Civil Code 2017 codifies family-law in a single statute for all communities — structurally distinctive vs India's multi-community personal-status framework. Aligns Nepal with the unified-codification cluster.",
+    "Federal Democratic Republican structure (2015 Constitution) is structurally distinctive within South Asia in the corpus.",
+    "Non-Hague Convention status places Nepal in the non-Hague South Asian cluster."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:bangladesh",
+    "jurisdiction:bhutan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Nepal",
+      "url": "https://www.supremecourt.gov.np/",
+      "publisher": "Supreme Court",
+      "language": "ne,en"
+    },
+    {
+      "title": "Nepal Psychological Association",
+      "url": "https://www.npa.org.np/",
+      "publisher": "NPA",
+      "language": "ne,en"
+    },
+    {
+      "title": "Ministry of Health and Population",
+      "url": "https://www.mohp.gov.np/",
+      "publisher": "MoHP",
+      "language": "ne,en"
+    }
+  ],
+  "editorial_notes": [
+    "Nepal jurisdiction sidecar — mixed-legal-system South Asian federal republic (Muluki Civil Code 2017 unified codification + Act Relating to Children 2018 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Asian + mixed-legal-system + unified-civil-code-distinctive (vs India multi-community) + Federal Democratic Republic + non-Hague Convention clusters within the corpus."
+  ]
+}

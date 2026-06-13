@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "un-vienna-convention-consular-relations",
+  "name": "UN Vienna Convention on Consular Relations 1963 (VCCR)",
+  "jurisdiction_code": "VCC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Vienna Convention on Consular Relations 1963 (VCCR / formally Vienna Convention on Consular Relations) is a global supranational meta-framework consular-relations binding-treaty instrument adopted by the UN Conference of Plenipotentiaries — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on consular-relations framework (VCCR adopted 24 April 1963 by UN Conference of Plenipotentiaries on Consular Relations in Vienna + effective 19 March 1967 — formal universal multilateral binding-treaty framework establishing comprehensive consular-relations framework, distinct from rest-of-modern-international-cross-border frameworks which operate on bilateral or regional frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-consular-relations-specific framework with substantial relevance to PA framework via formal Article 5(h) framework on consular-functions including 'safeguarding, within the limits imposed by the laws and regulations of the receiving State, the interests of minors and other persons lacking full capacity who are nationals of the sending State' + Article 37 framework on death of nationals + appointment of guardians + Article 36 framework on consular access for detained nationals), as the central jurisdiction of the formal Article 5(h) consular-functions-for-minors framework (VCCR Article 5(h) framework on consular-functions including 'safeguarding, within the limits imposed by the laws and regulations of the receiving State, the interests of minors and other persons lacking full capacity who are nationals of the sending State, particularly where any guardianship or trusteeship is required with respect to such persons' — formal foundational consular-functions-for-minors framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal consular-functions-for-minors framework, with substantial relevance to PA framework via formal cross-border consular-protection-of-children-of-divorced-parents framework + formal cross-border consular-guardianship-of-minors framework), as the central jurisdiction of the formal Article 36 consular-access framework (VCCR Article 36 framework providing 'A consular officer of the sending State shall be free to communicate with nationals of the sending State and to have access to them' — formal foundational consular-access framework with formal LaGrand-Avena-Vienna-Convention-violations-Mexico-Germany-Avena-2004 international-law-case-law framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal consular-access framework), and as the most-widely-ratified UN private-international-law treaty framework alongside Vienna Convention on Diplomatic Relations 1961 (VCCR has 181 state parties as of 2026 — substantial universal coverage framework alongside Vienna Convention on Diplomatic Relations 1961's 193 state parties, structurally distinctive globally as the most-widely-ratified UN private-international-law treaty framework alongside Vienna Convention on Diplomatic Relations 1961). The VCCR is binding upon 181 state parties as of 2026 — substantial universal coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 5(h) consular-functions-for-minors + Article 36 consular-access + Article 37 death-of-nationals + guardianship frameworks operate substantial intersection with parental-alienation framework via formal cross-border consular-protection-of-children-of-divorced-parents framework + formal cross-border consular-guardianship-of-minors framework. The UN Office of Legal Affairs is the formal monitoring framework body; national-level apex courts operate as judicial bodies via formal preliminary reference framework + the International Court of Justice ICJ is the apex judicial body for state-state disputes. The VCCR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Vienna Convention on Consular Relations 1963",
+      "title": "VCCR",
+      "year": 1967,
+      "url": "https://www.un.org/",
+      "relevance": "UN Vienna Convention on Consular Relations adopted 24 April 1963 by UN Conference of Plenipotentiaries on Consular Relations in Vienna + effective 19 March 1967 — formal universal multilateral binding-treaty framework establishing comprehensive consular-relations framework."
+    },
+    {
+      "citation": "VCCR Article 5(h) (Consular-Functions-for-Minors Framework)",
+      "title": "VCCR Article 5(h)",
+      "year": 1967,
+      "url": "https://www.un.org/",
+      "relevance": "VCCR Article 5(h) framework on consular-functions for minors and other persons lacking full capacity — formal foundational consular-functions-for-minors framework."
+    },
+    {
+      "citation": "VCCR Article 36 (Consular Access Framework)",
+      "title": "VCCR Article 36",
+      "year": 1967,
+      "url": "https://www.un.org/",
+      "relevance": "VCCR Article 36 framework on consular-access for detained nationals — formal foundational consular-access framework with formal ICJ LaGrand 2001 + Avena 2004 international-law-case-law framework."
+    },
+    {
+      "citation": "VCCR Article 37 (Death of Nationals + Guardianship Framework)",
+      "title": "VCCR Article 37",
+      "year": 1967,
+      "url": "https://www.un.org/",
+      "relevance": "VCCR Article 37 framework on death of nationals + appointment of guardians — formal foundational death-of-nationals + guardianship framework."
+    },
+    {
+      "citation": "ICJ LaGrand 2001 + Avena 2004 + Diallo 2010 VCCR Case-Law Framework",
+      "title": "ICJ VCCR Case-Law Framework",
+      "year": 2010,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "International Court of Justice ICJ LaGrand Judgment 27 June 2001 + Avena and Other Mexican Nationals Judgment 31 March 2004 + Ahmadou Sadio Diallo Judgment 30 November 2010 — formal ICJ VCCR case-law framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Office of Legal Affairs",
+      "seat": "New York",
+      "url": "https://legal.un.org/",
+      "role": "Formal monitoring framework body for VCCR."
+    },
+    {
+      "name": "International Court of Justice (ICJ)",
+      "seat": "The Hague",
+      "url": "https://www.icj-cij.org/",
+      "role": "Apex judicial body for state-state disputes under VCCR."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Office of Legal Affairs",
+      "url": "https://legal.un.org/",
+      "role": "VCCR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "VCCR-related individual communications operate via national-level court frameworks using initials where appropriate.",
+  "key_developments": [
+    {
+      "year": 1961,
+      "title": "Vienna Convention on Diplomatic Relations adopted",
+      "description": "Vienna Convention on Diplomatic Relations adopted 18 April 1961 — predecessor framework to VCCR."
+    },
+    {
+      "year": 1963,
+      "title": "VCCR adopted",
+      "description": "UN Vienna Convention on Consular Relations adopted 24 April 1963 by UN Conference of Plenipotentiaries on Consular Relations in Vienna — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 1967,
+      "title": "VCCR enters force",
+      "description": "UN Vienna Convention on Consular Relations entered force 19 March 1967 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "ICJ LaGrand Judgment",
+      "description": "International Court of Justice ICJ Germany v United States of America LaGrand Judgment 27 June 2001 — landmark ICJ Article 36 consular-access case-law framework."
+    },
+    {
+      "year": 2004,
+      "title": "ICJ Avena Judgment",
+      "description": "International Court of Justice ICJ Mexico v United States of America Avena and Other Mexican Nationals Judgment 31 March 2004 — landmark ICJ Article 36 consular-access case-law framework."
+    },
+    {
+      "year": 2010,
+      "title": "ICJ Diallo Judgment",
+      "description": "International Court of Justice ICJ Republic of Guinea v Democratic Republic of the Congo Ahmadou Sadio Diallo Judgment 30 November 2010 — formal ICJ Article 36 consular-access case-law framework."
+    }
+  ],
+  "structural_findings": [
+    "VCCR operates a supranational universal multilateral binding-treaty framework — places VCCR in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on consular-relations framework is structurally distinctive globally — formal-consular-relations-specific framework.",
+    "Central jurisdiction of formal Article 5(h) consular-functions-for-minors framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal consular-functions-for-minors framework with substantial relevance to PA framework via formal cross-border consular-protection-of-children-of-divorced-parents framework + formal cross-border consular-guardianship-of-minors framework.",
+    "Central jurisdiction of formal Article 36 consular-access framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal consular-access framework with formal LaGrand-Avena-Vienna-Convention-violations international-law-case-law framework.",
+    "Most-widely-ratified UN private-international-law treaty framework alongside Vienna Convention on Diplomatic Relations 1961 is structurally distinctive globally — VCCR 181 state parties + Vienna Convention on Diplomatic Relations 1961 193 state parties.",
+    "181 state party ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1961 Vienna Convention on Diplomatic Relations + 1963 VCCR + 1967 entry into force + 2001 ICJ LaGrand + 2004 ICJ Avena + 2010 ICJ Diallo consular-relations-framework-development sequence is structurally distinctive globally.",
+    "Article 5(h) consular-functions-for-minors + Article 36 consular-access + Article 37 death-of-nationals + guardianship formal triad framework with formal cross-border consular-protection-of-children-of-divorced-parents PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UN Office of Legal Affairs — VCCR",
+      "url": "https://legal.un.org/",
+      "publisher": "UN Office of Legal Affairs",
+      "language": "en"
+    },
+    {
+      "title": "International Court of Justice",
+      "url": "https://www.icj-cij.org/",
+      "publisher": "ICJ",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "VCCR jurisdiction sidecar — supranational global consular-relations universal multilateral binding-treaty meta-framework (VCCR 1963/1967 + Article 5(h) Consular-Functions-for-Minors Framework + Article 36 Consular Access Framework + Article 37 Death of Nationals + Guardianship Framework + ICJ VCCR Case-Law Framework via LaGrand 2001 + Avena 2004 + Diallo 2010 + Vienna Convention on Diplomatic Relations 1961). Only modern universal multilateral binding-treaty framework operating specifically on consular-relations framework globally + central jurisdiction of formal Article 5(h) consular-functions-for-minors framework + central jurisdiction of formal Article 36 consular-access framework + most-widely-ratified UN private-international-law treaty framework alongside Vienna Convention on Diplomatic Relations 1961 + 181 state party ratification framework + 1961 Vienna Convention on Diplomatic Relations + 1963 VCCR + 1967 entry into force + 2001 ICJ LaGrand + 2004 ICJ Avena + 2010 ICJ Diallo consular-relations-framework-development sequence + Article 5(h) consular-functions-for-minors + Article 36 consular-access + Article 37 death-of-nationals + guardianship formal triad framework with formal cross-border consular-protection-of-children-of-divorced-parents PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 5(h) consular-functions-for-minors + Article 36 consular-access + Article 37 death-of-nationals + guardianship frameworks operate substantial intersection with parental-alienation framework via formal cross-border consular-protection-of-children-of-divorced-parents framework + formal cross-border consular-guardianship-of-minors framework.",
+    "Joins global + supranational + universal-multilateral-consular-relations-binding-treaty cluster + VCCR-only-universal-consular-relations-binding-treaty-globally-distinctive + Article-5-h-Consular-Functions-for-Minors + Article-36-Consular-Access + Article-37-Death-of-Nationals-Guardianship + ICJ-LaGrand-2001 + ICJ-Avena-2004 + ICJ-Diallo-2010 + 181-state-party-substantial-universal-coverage + Vienna-Convention-on-Diplomatic-Relations-1961-predecessor + cross-border-consular-protection-of-children-of-divorced-parents-PA-intersection clusters within the corpus."
+  ]
+}

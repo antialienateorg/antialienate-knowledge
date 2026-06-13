@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "id": "north-macedonia",
+  "name": "North Macedonia (Северна Македонија)",
+  "jurisdiction_code": "MK",
+  "legal_system": "civil-law",
+  "language": ["mk", "sq"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "North Macedonia is a Western Balkans civil-law unitary republic whose family-law framework operates under the Закон за семејството (Law on the Family) of 1992 as substantially amended. Parental rights (родителски права) are governed by arts. 45-79; joint exercise during marriage is the statutory default. The Врховен суд (Supreme Court of North Macedonia, Skopje) is the apex court for civil and criminal matters; the Уставен суд (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under Ministry of Health licensing framework with the Комора на психолози на Република Северна Македонија (Chamber of Psychologists) operating professional standards. North Macedonia is silent on 'parental alienation' as a statutory label; courts operate substantively under the најдобар интерес на детето (best-interests-of-the-child) standard. Council of Europe member.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Закон за семејството 1992",
+      "title": "Law on the Family 1992 — Parental rights",
+      "year": 1992,
+      "url": "https://www.slvesnik.com.mk/",
+      "relevance": "Federal statute on family law. Arts. 45-79 govern parental rights; joint exercise during marriage is the statutory default. Welfare standard codified."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Врховен суд на Република Северна Македонија (Supreme Court)",
+      "seat": "Skopje",
+      "url": "https://www.vsrm.mk/",
+      "role": "Apex civil and criminal court."
+    },
+    {
+      "name": "Уставен суд (Constitutional Court)",
+      "seat": "Skopje",
+      "url": "https://ustavensud.mk/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Комора на психолози на Република Северна Македонија (Chamber of Psychologists)",
+      "url": "https://komorapsihologija.mk/",
+      "role": "Professional chamber for psychologists in North Macedonia."
+    }
+  ],
+  "anonymisation_convention": "North Macedonian family-law decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1992,
+      "title": "Закон за семејството 1992",
+      "description": "Law on the Family enacted."
+    },
+    {
+      "year": 2019,
+      "title": "Prespa Agreement implementation",
+      "description": "Country name changed from 'Republic of Macedonia' to 'Republic of North Macedonia' effective 12 February 2019."
+    }
+  ],
+  "structural_findings": [
+    "North Macedonia sits structurally within the Western Balkans civil-law cluster alongside Serbia + Croatia + Slovenia + Albania + Montenegro + BiH — Law on the Family 1992 + welfare-standard family-court framework + Constitutional Court.",
+    "Psychology profession regulation operates through Ministry of Health framework + Chamber of Psychologists professional standards."
+  ],
+  "references": [
+    "jurisdiction:montenegro",
+    "jurisdiction:albania",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Врховен суд",
+      "url": "https://www.vsrm.mk/",
+      "publisher": "Supreme Court of North Macedonia",
+      "language": "mk,en"
+    },
+    {
+      "title": "Уставен суд",
+      "url": "https://ustavensud.mk/",
+      "publisher": "Constitutional Court",
+      "language": "mk,en"
+    },
+    {
+      "title": "Службен весник на Република Северна Македонија",
+      "url": "https://www.slvesnik.com.mk/",
+      "publisher": "Official Gazette",
+      "language": "mk"
+    }
+  ],
+  "editorial_notes": [
+    "North Macedonia jurisdiction sidecar — Western Balkans civil-law framework. Закон за семејството 1992 + Constitutional Court + Chamber of Psychologists.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western Balkans civil-law cluster within the corpus."
+  ]
+}

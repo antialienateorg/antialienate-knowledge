@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "id": "malaysia",
+  "name": "Malaysia",
+  "jurisdiction_code": "MY",
+  "legal_system": "mixed",
+  "language": ["ms", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Malaysia is a Southeast Asian mixed-legal-system federal constitutional monarchy operating a dual personal-status framework: non-Muslims under the Law Reform (Marriage and Divorce) Act 1976 (LRA 1976) heard by Civil High Courts; Muslims under state-level Islamic Family Law Enactments (e.g. Selangor Islamic Family Law Enactment 2003) heard by Syariah Courts. Custody (hadanah) and guardianship is governed by LRA 1976 ss. 88-100 for non-Muslims and by state Islamic Family Law Enactments for Muslims under Shafi'i jurisprudential framework. The Federal Court (Mahkamah Persekutuan) is the apex civil court; the Federal Syariah Court (Mahkamah Syariah Persekutuan) is the apex Syariah court; jurisdictional disputes between them are heard by the Federal Court. Psychology profession is regulated under the Allied Health Professions Act 2016 (Act 774) which is in the process of phased commencement with the Allied Health Professions Council (AHPC) operating the regulatory framework. Malaysia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Malaysia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Law Reform (Marriage and Divorce) Act 1976 (Act 164) ss. 88-100",
+      "title": "LRA 1976 — Custody (non-Muslim)",
+      "year": 1976,
+      "url": "https://lom.agc.gov.my/",
+      "relevance": "Federal statute governing non-Muslim family law in Peninsular Malaysia (extended to Sabah and Sarawak). Ss. 88-100 govern custody on dissolution of marriage."
+    },
+    {
+      "citation": "Selangor Islamic Family Law Enactment 2003 (and equivalents in other states)",
+      "title": "State-level Islamic Family Law Enactments",
+      "year": 2003,
+      "url": "https://www2.esyariah.gov.my/",
+      "relevance": "State-level statutes governing Muslim family law. Each state has its own enactment; Selangor 2003 is widely cited as the modernised template. Govern hadanah and Islamic family-law matters via Syariah Courts."
+    },
+    {
+      "citation": "Allied Health Professions Act 2016 (Act 774)",
+      "title": "Allied Health Professions Act 2016",
+      "year": 2016,
+      "url": "https://lom.agc.gov.my/",
+      "relevance": "Federal statute regulating allied health professions including psychologists via the Allied Health Professions Council. Phased commencement implementation."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Mahkamah Persekutuan (Federal Court)",
+      "seat": "Putrajaya",
+      "url": "https://www.kehakiman.gov.my/",
+      "role": "Apex civil court for civil and criminal matters; also resolves jurisdictional disputes between civil and Syariah courts."
+    },
+    {
+      "name": "Mahkamah Syariah Persekutuan (Federal Syariah Court)",
+      "seat": "Putrajaya",
+      "url": "https://www2.esyariah.gov.my/",
+      "role": "Apex Syariah court for Muslim personal-status and Islamic family-law matters operating in parallel with the civil court system."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Allied Health Professions Council (AHPC)",
+      "url": "https://ahpc.moh.gov.my/",
+      "role": "Statutory regulator under Act 774 — phased commencement implementation for psychology profession."
+    },
+    {
+      "name": "Malaysian Society of Clinical Psychology (MSCP)",
+      "url": "https://www.mscp.org.my/",
+      "role": "Peak professional association for clinical psychologists in Malaysia."
+    }
+  ],
+  "anonymisation_convention": "Malaysian family-law decisions are anonymised per Federal Court practice; Syariah Court decisions follow Syariah court practice.",
+  "key_developments": [
+    {
+      "year": 1976,
+      "title": "Law Reform (Marriage and Divorce) Act 1976",
+      "description": "Federal non-Muslim family law statute enacted."
+    },
+    {
+      "year": 2003,
+      "title": "Selangor Islamic Family Law Enactment 2003",
+      "description": "Modernised state Islamic family law template."
+    },
+    {
+      "year": 2016,
+      "title": "Allied Health Professions Act 2016 (Act 774)",
+      "description": "Federal allied health professions regulation including psychology; phased commencement."
+    }
+  ],
+  "structural_findings": [
+    "Malaysia operates a structurally distinctive dual personal-status framework — civil court system + Syariah court system + Federal Court resolving jurisdictional disputes between them. Within the corpus's mixed-jurisdiction cluster.",
+    "Federal-state architecture for Muslim personal-status (state Islamic Family Law Enactments) creates structural fragmentation parallel to the corpus's federalism patterns documented elsewhere.",
+    "Non-Hague Convention status places Malaysia in the non-Hague Asian cluster.",
+    "AHPC psychology regulation under phased commencement places Malaysia among the emerging statutory psychology regulators."
+  ],
+  "references": [
+    "jurisdiction:singapore",
+    "jurisdiction:indonesia",
+    "evidence:federalism-patterns-and-pa-doctrine-fragmentation",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Office of the Chief Registrar of the Federal Court",
+      "url": "https://www.kehakiman.gov.my/",
+      "publisher": "Judiciary of Malaysia",
+      "language": "ms,en"
+    },
+    {
+      "title": "Laws of Malaysia (LoM)",
+      "url": "https://lom.agc.gov.my/",
+      "publisher": "Attorney General's Chambers",
+      "language": "ms,en"
+    },
+    {
+      "title": "e-Syariah",
+      "url": "https://www2.esyariah.gov.my/",
+      "publisher": "Department of Syariah Judiciary Malaysia",
+      "language": "ms"
+    }
+  ],
+  "editorial_notes": [
+    "Malaysia jurisdiction sidecar — dual personal-status framework (civil + Syariah parallel courts). LRA 1976 + state Islamic Family Law Enactments + AHPC Act 774 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Asian + dual-personal-status + federalism + non-Hague Convention clusters within the corpus."
+  ]
+}

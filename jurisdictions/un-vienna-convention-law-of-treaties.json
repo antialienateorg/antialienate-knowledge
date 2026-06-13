@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0",
+  "id": "un-vienna-convention-law-of-treaties",
+  "name": "UN Vienna Convention on the Law of Treaties 1969 (VCLT)",
+  "jurisdiction_code": "VCT",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Vienna Convention on the Law of Treaties 1969 (VCLT / formally Vienna Convention on the Law of Treaties) is a global supranational meta-framework treaty-law binding-treaty instrument adopted by the UN Conference of Plenipotentiaries — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on treaty-law framework + foundational framework for all subsequent modern international + regional + sub-national treaties (VCLT adopted 23 May 1969 by UN Conference of Plenipotentiaries on the Law of Treaties in Vienna + effective 27 January 1980 — formal universal multilateral binding-treaty framework establishing comprehensive treaty-law framework, distinct from rest-of-modern-international-treaty frameworks which operate as substantive treaties without formal treaty-law framework, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-treaty-law-specific framework + foundational framework for all subsequent modern international + regional + sub-national treaties), as the central jurisdiction of the formal Article 31 + Article 32 interpretation-of-treaties framework (VCLT Article 31 framework providing 'A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose' + Article 32 framework providing supplementary means of interpretation including preparatory work of the treaty + circumstances of its conclusion — formal foundational interpretation-of-treaties framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal interpretation-of-treaties framework, with substantial relevance to PA framework via formal interpretation-of-children's-rights-treaties framework + interpretation-of-Hague-Convention-1980-Article-13-b-grave-risk framework + interpretation-of-CEDAW-General-Recommendation-35 framework), as the central jurisdiction of the formal Article 27 internal-law-cannot-justify-failure-to-perform framework (VCLT Article 27 framework providing 'A party may not invoke the provisions of its internal law as justification for its failure to perform a treaty' — formal foundational pacta sunt servanda framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal pacta-sunt-servanda framework), and as the central jurisdiction of the formal Article 53 jus-cogens-peremptory-norms framework (VCLT Article 53 framework providing 'A treaty is void if, at the time of its conclusion, it conflicts with a peremptory norm of general international law' — formal foundational jus-cogens-peremptory-norms framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal jus-cogens-peremptory-norms framework). The VCLT is binding upon 116 state parties as of 2026 — substantial state-party coverage framework + substantial customary-international-law framework operating beyond state-party framework via formal customary-international-law-application-to-non-state-parties framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 31 + 32 interpretation-of-treaties + Article 27 pacta-sunt-servanda + Article 53 jus-cogens-peremptory-norms frameworks operate substantial intersection with parental-alienation framework via formal interpretation-of-children's-rights-treaties framework + interpretation-of-Hague-Convention-1980-Article-13-b-grave-risk framework. The UN Office of Legal Affairs is the formal monitoring framework body; the International Court of Justice ICJ is the apex judicial body for state-state disputes. The VCLT is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Vienna Convention on the Law of Treaties 1969",
+      "title": "VCLT",
+      "year": 1980,
+      "url": "https://www.un.org/",
+      "relevance": "UN Vienna Convention on the Law of Treaties adopted 23 May 1969 by UN Conference of Plenipotentiaries on the Law of Treaties in Vienna + effective 27 January 1980 — formal universal multilateral binding-treaty framework establishing comprehensive treaty-law framework."
+    },
+    {
+      "citation": "VCLT Article 31 + Article 32 (Interpretation-of-Treaties Framework)",
+      "title": "VCLT Articles 31 + 32",
+      "year": 1980,
+      "url": "https://www.un.org/",
+      "relevance": "VCLT Article 31 framework on general rule of interpretation + Article 32 framework on supplementary means of interpretation — formal foundational interpretation-of-treaties framework."
+    },
+    {
+      "citation": "VCLT Article 27 (Pacta-Sunt-Servanda Framework)",
+      "title": "VCLT Article 27",
+      "year": 1980,
+      "url": "https://www.un.org/",
+      "relevance": "VCLT Article 27 framework providing internal-law-cannot-justify-failure-to-perform — formal foundational pacta sunt servanda framework."
+    },
+    {
+      "citation": "VCLT Article 53 (Jus-Cogens-Peremptory-Norms Framework)",
+      "title": "VCLT Article 53",
+      "year": 1980,
+      "url": "https://www.un.org/",
+      "relevance": "VCLT Article 53 framework providing peremptory norms of general international law — formal foundational jus-cogens-peremptory-norms framework."
+    },
+    {
+      "citation": "VCLT Customary-International-Law Framework",
+      "title": "VCLT Customary-International-Law",
+      "year": 1986,
+      "url": "https://www.un.org/",
+      "relevance": "VCLT customary-international-law framework — substantial customary-international-law framework operating beyond state-party framework via formal customary-international-law-application-to-non-state-parties framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Office of Legal Affairs",
+      "seat": "New York",
+      "url": "https://legal.un.org/",
+      "role": "Formal monitoring framework body for VCLT."
+    },
+    {
+      "name": "International Court of Justice (ICJ)",
+      "seat": "The Hague",
+      "url": "https://www.icj-cij.org/",
+      "role": "Apex judicial body for state-state disputes under VCLT."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Office of Legal Affairs",
+      "url": "https://legal.un.org/",
+      "role": "VCLT implementation framework."
+    }
+  ],
+  "anonymisation_convention": "VCLT-related individual communications operate via national-level court frameworks using initials where appropriate.",
+  "key_developments": [
+    {
+      "year": 1947,
+      "title": "UN International Law Commission ILC established",
+      "description": "UN International Law Commission ILC established 21 November 1947 by UN General Assembly Resolution 174 (II) — formal UN body operating treaty-law codification framework."
+    },
+    {
+      "year": 1969,
+      "title": "VCLT adopted",
+      "description": "UN Vienna Convention on the Law of Treaties adopted 23 May 1969 by UN Conference of Plenipotentiaries on the Law of Treaties in Vienna — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 1980,
+      "title": "VCLT enters force",
+      "description": "UN Vienna Convention on the Law of Treaties entered force 27 January 1980 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1986,
+      "title": "VCLT for International Organizations adopted",
+      "description": "UN Vienna Convention on the Law of Treaties between States and International Organizations or between International Organizations adopted 21 March 1986 — formal companion framework to VCLT 1969."
+    }
+  ],
+  "structural_findings": [
+    "VCLT operates a supranational universal multilateral binding-treaty framework — places VCLT in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on treaty-law framework + foundational framework for all subsequent modern international + regional + sub-national treaties is structurally distinctive globally — formal-treaty-law-specific framework + foundational framework for all subsequent modern international + regional + sub-national treaties.",
+    "Central jurisdiction of formal Article 31 + Article 32 interpretation-of-treaties framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal interpretation-of-treaties framework.",
+    "Central jurisdiction of formal Article 27 pacta-sunt-servanda framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal pacta-sunt-servanda framework.",
+    "Central jurisdiction of formal Article 53 jus-cogens-peremptory-norms framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal jus-cogens-peremptory-norms framework.",
+    "116 state party ratification framework + substantial customary-international-law framework is structurally distinctive globally — substantial customary-international-law framework operating beyond state-party framework via formal customary-international-law-application-to-non-state-parties framework.",
+    "1947 ILC + 1969 VCLT + 1980 entry into force + 1986 VCLT for International Organizations treaty-law-framework-development sequence is structurally distinctive globally.",
+    "Article 31 + 32 interpretation-of-treaties + Article 27 pacta-sunt-servanda + Article 53 jus-cogens-peremptory-norms formal triad framework with formal interpretation-of-children's-rights-treaties + interpretation-of-Hague-Convention-1980-Article-13-b-grave-risk PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UN Office of Legal Affairs — VCLT",
+      "url": "https://legal.un.org/",
+      "publisher": "UN Office of Legal Affairs",
+      "language": "en"
+    },
+    {
+      "title": "International Court of Justice",
+      "url": "https://www.icj-cij.org/",
+      "publisher": "ICJ",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "VCLT jurisdiction sidecar — supranational global treaty-law universal multilateral binding-treaty meta-framework (VCLT 1969/1980 + Article 31 + Article 32 Interpretation-of-Treaties Framework + Article 27 Pacta-Sunt-Servanda Framework + Article 53 Jus-Cogens-Peremptory-Norms Framework + VCLT Customary-International-Law Framework + 1947 ILC + 1986 VCLT for International Organizations companion framework). Only modern universal multilateral binding-treaty framework operating specifically on treaty-law framework + foundational framework for all subsequent modern international + regional + sub-national treaties globally + central jurisdiction of formal Article 31 + Article 32 interpretation-of-treaties framework + central jurisdiction of formal Article 27 pacta-sunt-servanda framework + central jurisdiction of formal Article 53 jus-cogens-peremptory-norms framework + 116 state party ratification framework + substantial customary-international-law framework + 1947 ILC + 1969 VCLT + 1980 entry into force + 1986 VCLT for International Organizations treaty-law-framework-development sequence + Article 31 + 32 interpretation-of-treaties + Article 27 pacta-sunt-servanda + Article 53 jus-cogens-peremptory-norms formal triad framework with formal interpretation-of-children's-rights-treaties + interpretation-of-Hague-Convention-1980-Article-13-b-grave-risk PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 31 + 32 interpretation-of-treaties + Article 27 pacta-sunt-servanda + Article 53 jus-cogens-peremptory-norms frameworks operate substantial intersection with parental-alienation framework via formal interpretation-of-children's-rights-treaties framework + interpretation-of-Hague-Convention-1980-Article-13-b-grave-risk framework + interpretation-of-CEDAW-General-Recommendation-35 framework.",
+    "Joins global + supranational + universal-multilateral-treaty-law-binding-treaty cluster + VCLT-only-universal-treaty-law-binding-treaty-foundational-for-all-subsequent-treaties-globally-distinctive + Article-31-32-Interpretation-of-Treaties + Article-27-Pacta-Sunt-Servanda + Article-53-Jus-Cogens-Peremptory-Norms + 116-state-party-substantial-coverage + customary-international-law-application-beyond-state-parties + 1947-ILC + 1969-VCLT-Adoption + 1980-entry-into-force + 1986-VCLT-for-International-Organizations + interpretation-of-children-rights-treaties-PA-intersection + interpretation-of-Hague-Convention-1980-Article-13-b-grave-risk-PA-intersection clusters within the corpus."
+  ]
+}

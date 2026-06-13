@@ -1,0 +1,391 @@
+{
+  "schema_version": "2.0",
+  "country": "Colombia",
+  "country_code": "CO",
+  "type": "therapists",
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-31",
+  "jurisdictional_context": "Colombia carece de una ley estatutaria que nombre el Síndrome / Fenómeno de Alienación Parental (SAP/AP) para reconocerlo (como Lei 12.318/2010 de Brasil) ni para inadmitirlo (como Disp. ad. 17a de la LOPIVI española). El marco normativo de fondo es la Ley 1098 de 2006 (Código de la Infancia y la Adolescencia), bajo cuyo principio del interés superior del niño se han litigado los conflictos de custodia donde se ha invocado el SAP. La autoridad administrativa de protección es el ICBF (Instituto Colombiano de Bienestar Familiar) y la sanitaria es el Ministerio de Salud y Protección Social.\n\nEl anclaje institucional principal del rechazo al SAP es la Posición Gremial del Colegio Colombiano de Psicólogos (COLPSIC) del 16 de noviembre de 2023, que actualizó una posición previa de 2017 — el Concepto Técnico de la Unidad de Psicología Jurídica y Forense de COLPSIC del 17.9.2017 había sido leído como recognition-leaning — y que ahora explícitamente declara que COLPSIC 'no avala el concepto [de SAP] y no lo utiliza' como categoría diagnóstica y recomienda a los/as psicólogos/as 'evitar el uso del término alienación parental' como rótulo diagnóstico, describiendo en su lugar 'de la manera más completa y clara posible las dinámicas relacionales intrafamiliares'. La Posición está firmada institucionalmente por COLPSIC y publicada en colpsic.org.co.\n\nEl anclaje judicial-apex es la Sentencia T-526 de 2023 de la Corte Constitucional (Sala Tercera de Revisión, M.P. Diana Fajardo Rivera, 30 de noviembre de 2023, expediente T-8.394.866), que proscribe el uso del SAP como instrumento diagnóstico en procesos administrativos y judiciales, citando expresamente al COLPSIC, al ICBF, a la Procuraduría General de la Nación y al Ministerio de Salud y Protección Social como conceptos técnicos convergentes. T-526/23 es precedida por T-181/2023 (29 mayo 2023, M.P. Paola Andrea Meneses Mosquera, Sala Séptima de Revisión) que ya establece límites constitucionales al uso de AP como criterio en medidas de restablecimiento de derechos, y seguida por T-226/2024 que ratifica la proscripción. La línea jurisprudencial pre-2023 (T-115/2014, T-311/2017, T-033/2020, T-051/2022) había aceptado o no cuestionado el SAP — el viraje 2023 es estructural. La proscripción de T-526/23 se ejerce desde una perspectiva de género que cita el Informe A/HRC/53/36 de la Relatora Especial de la ONU sobre violencia contra las mujeres Reem Alsalem (12.8.2022) y la Declaración del MESECVI-OEA de 13.4.2023. El polo crítico ONG está liderado por Sisma Mujer (petición ante la CIDH del 8.7.2024 documentando seis casos de mujeres y la persecución a la periodista Alexandra Correa) con apoyo de Casa de la Mujer, Red Nacional de Mujeres y Volcánicas (Catalina Ruiz-Navarro, columnista de El Espectador). T-526/23 declaró carencia actual de objeto por hecho superado pero realizó análisis sustantivo vinculante.",
+  "structural_findings": [
+    "COLPSIC Posición Gremial 16.11.2023 es el tercer mayor anclaje institucional LATAM por colegio profesional, posterior al CFP brasileño (Nota Técnica 4/2022) y a FePRA argentina (Pronunciamiento 14.12.2019). A diferencia de CFP y FePRA, COLPSIC mantiene una distinción nominal entre 'SAP' como categoría diagnóstica (rechazada) y 'alienación parental' como fenómeno relacional describible — distinción explicitamente reconocida por la Corte Constitucional en T-526/23 y por el análisis Ballesteros/Amaya de septiembre 2024.",
+    "El polo de reconocimiento en Colombia es marcadamente delgado a nivel de literatura revisada por pares — más delgado que en Argentina (Mizrahi/Herscovici/Díaz Usandivaras 2023, CEAP) o Brasil. Los textos académicos colombianos pre-2023 mayoritariamente aceptaban el constructo (Tapias 2013 en Diversitas, Balaguera 2018 en Revista Iberoamericana de Psicología) sin desafiarlo críticamente, pero ninguno constituye un monografía-pivote del estilo Mizrahi 2023. Post-2023, la literatura colombiana es dominantemente crítica.",
+    "La alianza institucional crítica colombiana es excepcionalmente amplia: COLPSIC (regulador profesional) + ICBF (autoridad administrativa de infancia) + Ministerio de Salud (regulador sanitario) + Procuraduría General de la Nación (Procuraduría Delegada para la Defensa de los Derechos de la Infancia) + Corte Constitucional (judicial apex) + Sisma Mujer/Casa de la Mujer/Red Nacional de Mujeres/Volcánicas (sociedad civil) + cobertura periodística investigativa (Alexandra Correa, Premio Nacional de Periodismo López Michelsen 2024). Es la coalición institucional más amplia de Latinoamérica en términos de número de autoridades estatales convergentes.",
+    "Distinción jurisdiccional crítica: la Corte Constitucional (Sala Tercera de Revisión, T-526/23, M.P. Diana Fajardo Rivera) y la Corte Suprema de Justicia (Sala Civil, vía tutelas) operan en líneas separadas. La Corte Suprema Sala Civil mantuvo una línea pre-2023 de no aplicar perspectiva de género en casos invocando AP — explícitamente criticada por T-526/23. La proscripción es jurisprudencial constitucional, no legislativa (a diferencia de Argentina donde la critique se ha institucionalizado vía FePRA + provincial colegios, o España vía LOPIVI).",
+    "Catalina Ruiz-Navarro (Volcánicas + columna El Espectador 25.1.2024 'Adiós al falso Síndrome de Alienación Parental') y Alexandra Correa (35 casos documentados desde 2022; persecución judicial documentada; Premio Nacional de Periodismo López Michelsen 2024) constituyen el eje de amplificación periodística que vincula la posición COLPSIC + T-526/23 con la opinión pública colombiana. Es un patrón análogo al rol de Página/12 + Alexia Castelvecchi en Argentina.",
+    "Diáspora: investigadoras colombianas activas en el campo PA están principalmente situadas en Colombia (Tapias en USTA, Balaguera en UCC, Ballesteros y Amaya en COLPSIC). No se identifica una diáspora colombiana significativa con publicación PA-específica en España, México o EE.UU. — contraste con Argentina (Vaccaro en Madrid)."
+  ],
+  "entries": [
+    {
+      "id": "co.colpsic",
+      "name": "COLPSIC — Colegio Colombiano de Psicólogos",
+      "credentials": "Colegio profesional de psicólogos/as colombianos/as con funciones públicas (Ley 1090 de 2006 — Código Deontológico y Bioético del Ejercicio de la Psicología)",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca (sede nacional)",
+      "affiliation": "Regulador profesional nacional de la psicología en Colombia",
+      "stance": "institutional",
+      "stance_notes": "Posición Gremial sobre Alienación Parental, 16 de noviembre de 2023, publicada el 18 de diciembre de 2023 en colpsic.org.co. La Posición declara textualmente que COLPSIC 'no avala el concepto [de SAP] y no lo utiliza' como categoría diagnóstica, dado que el SAP 'no ha sido incluido en el Manual Diagnóstico y Estadístico de Trastornos Mentales [DSM-5] ni en la Clasificación Internacional de Enfermedades [CIE-11]'. Recomienda a los/as psicólogos/as 'evitar el uso del término alienación parental' como rótulo diagnóstico y, en su lugar, 'describir de la manera más completa y clara posible las dinámicas relacionales intrafamiliares'. La Posición fue citada como concepto técnico vinculante por la Corte Constitucional en T-526/23 (30.11.2023, M.P. Diana Fajardo Rivera). Actualiza un Concepto Técnico previo de la Unidad de Psicología Jurídica y Forense de COLPSIC del 17 de septiembre de 2017 que había sido leído como recognition-leaning. El 17 de enero de 2024 COLPSIC emitió comunicado público de respaldo a T-526/23.",
+      "publications": [
+        {"title": "Posición Gremial sobre Alienación Parental – Colpsic 2023", "year": 2023, "venue": "Colegio Colombiano de Psicólogos, aprobada 16.11.2023, publicada 18.12.2023", "url": "https://www.colpsic.org.co/wp-content/uploads/2023/12/2023-11-16-Posicion-Gremial-sobre-Alienacion-Parental-Colpsic-2023.pdf"},
+        {"title": "Comunicado del Colegio Colombiano de Psicólogos frente a la Sentencia T-526 de 2023", "year": 2024, "venue": "COLPSIC, 17 de enero de 2024", "url": "https://www.colpsic.org.co/comunicados/posicion-del-colegio-colombiano-de-psicologos-colpsic-frente-al-concepto-de-alienacion-parental/"}
+      ],
+      "urls": [
+        "https://www.colpsic.org.co/",
+        "https://www.colpsic.org.co/comunicados/posicion-del-colegio-colombiano-de-psicologos-colpsic-frente-al-concepto-de-alienacion-parental/",
+        "https://www.colpsic.org.co/wp-content/uploads/2023/12/2023-11-16-Posicion-Gremial-sobre-Alienacion-Parental-Colpsic-2023.pdf",
+        "https://www.colpsic.org.co/etiqueta/t-526/"
+      ],
+      "contact": "Vía colpsic.org.co (formulario institucional); sede nacional en Bogotá D.C.",
+      "verification_notes": "Verificado vía colpsic.org.co (página de comunicados y PDF de la Posición Gremial). Fecha exacta (16.11.2023 aprobación, 18.12.2023 publicación PDF), URL primaria del PDF y comunicado del 17.1.2024 confirmados. El Concepto Técnico previo de 2017 está documentado secundariamente y referido por la Posición 2023.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:br.cfp",
+        "practitioner:ar.fepra",
+        "practitioner:co.icbf",
+        "practitioner:co.corte-constitucional-t526"
+      ]
+    },
+    {
+      "id": "co.corte-constitucional-t526",
+      "name": "Corte Constitucional de Colombia — Sentencia T-526 de 2023 (Sala Tercera de Revisión)",
+      "credentials": "Tribunal constitucional colombiano; Sala Tercera de Revisión integrada por Diana Fajardo Rivera (M.P.), Jorge Enrique Ibáñez Najar y Alejandro Linares Cantillo",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca",
+      "affiliation": "Rama Judicial — Corte Constitucional",
+      "stance": "institutional",
+      "stance_notes": "Sentencia T-526 de 2023, expediente T-8.394.866, M.P. Diana Fajardo Rivera, 30 de noviembre de 2023. Decisión apex constitucional que proscribe el uso del Síndrome de Alienación Parental como instrumento diagnóstico en procesos administrativos y judiciales. Texto vinculante: el SAP 'no ha sido incluido en el Manual Diagnóstico y Estadístico de Trastornos Mentales ni en la Clasificación Internacional de Enfermedades (CIE-11)'; su uso 'lesiona los derechos prevalentes de niños, niñas y adolescentes; reproduce estereotipos de género, y genera eventos de discriminación y, por lo tanto, de violencia contra la mujer en razón del género'. Cita los conceptos técnicos convergentes de COLPSIC, ICBF, Procuraduría General de la Nación, Ministerio de Salud y Protección Social. Precedente directo: T-181/2023 (29.5.2023, M.P. Paola Andrea Meneses Mosquera, Sala Séptima). Confirmada y extendida por T-226/2024.",
+      "publications": [
+        {"title": "Sentencia T-526 de 2023, expediente T-8.394.866", "year": 2023, "venue": "Corte Constitucional de Colombia, Sala Tercera de Revisión, M.P. Diana Fajardo Rivera, 30 de noviembre de 2023", "url": "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm"},
+        {"title": "Sentencia T-181 de 2023", "year": 2023, "venue": "Corte Constitucional de Colombia, Sala Séptima de Revisión, M.P. Paola Andrea Meneses Mosquera, 29 de mayo de 2023", "url": "https://www.corteconstitucional.gov.co/relatoria/2023/t-181-23.htm"}
+      ],
+      "urls": [
+        "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm",
+        "https://www.corteconstitucional.gov.co/relatoria/2023/t-181-23.htm",
+        "https://img.lpderecho.pe/wp-content/uploads/2024/01/Sentencia-T-526-de-2023-LPDerecho.pdf"
+      ],
+      "contact": "Vía relatoría de la Corte Constitucional, corteconstitucional.gov.co",
+      "verification_notes": "Verificado vía relatoría oficial de la Corte Constitucional (corteconstitucional.gov.co/relatoria/2023/t-526-23.htm) y copia íntegra alojada por LP Derecho. Composición de Sala (Fajardo Rivera M.P., Ibáñez Najar, Linares Cantillo), número de expediente (T-8.394.866), fecha (30.11.2023) y citas a COLPSIC/ICBF/PGN/MinSalud confirmadas. La sentencia declara carencia actual de objeto por hecho superado pero realiza análisis sustantivo vinculante para futuros operadores judiciales.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.colpsic",
+        "practitioner:co.icbf",
+        "practitioner:co.ministerio-salud",
+        "practitioner:co.procuraduria-general",
+        "case-study:cassazione-9691-2022-italy"
+      ]
+    },
+    {
+      "id": "co.icbf",
+      "name": "ICBF — Instituto Colombiano de Bienestar Familiar",
+      "credentials": "Establecimiento público de carácter nacional adscrito al Departamento Administrativo para la Prosperidad Social; autoridad central de protección integral de la niñez (Ley 7 de 1979; Ley 1098 de 2006)",
+      "city": "Bogotá D.C. (sede nacional)",
+      "region": "Cundinamarca (sede); cobertura nacional",
+      "affiliation": "Autoridad administrativa colombiana de protección a la niñez y la familia",
+      "stance": "institutional",
+      "stance_notes": "Concepto técnico ante la Corte Constitucional en el expediente T-8.394.866 (citado en T-526/23) declara textualmente: 'si bien el ICBF reconoce la instrumentalización de los niños, niñas y adolescentes en conflictos entre las figuras parentales como una forma de violencia psicológica, ello no implica, de ningún modo, que la entidad convalide el llamado Síndrome de Alienación Parental – SAP'. El concepto del ICBF añade que la aplicación del SAP 'representa un retroceso en la protección de los derechos de los NNA'. Es el regulador administrativo de infancia colombiano y opera el Sistema Nacional de Bienestar Familiar; sus Defensorías de Familia son las autoridades de primera instancia en restablecimiento de derechos.",
+      "publications": [
+        {"title": "Concepto técnico ICBF en el expediente T-8.394.866 (citado en T-526/23)", "year": 2023, "venue": "Instituto Colombiano de Bienestar Familiar, ante la Corte Constitucional", "url": "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm"},
+        {"title": "Datos para el cambio — Boletín Observatorio Nacional del SUIN sobre violencias", "year": 2024, "venue": "ICBF / Observatorio del Bienestar de la Niñez", "url": "https://portalsuin.icbf.gov.co/sites/suin/Documents/Boletines%20Datos%20para%20la%20acci%C3%B3n/Datos%20para%20el%20cambio%20violencias%20-%20VF_OBNSUIN.pdf"}
+      ],
+      "urls": [
+        "https://www.icbf.gov.co/",
+        "https://portalsuin.icbf.gov.co/sites/suin/Documents/Boletines%20Datos%20para%20la%20acci%C3%B3n/Datos%20para%20el%20cambio%20violencias%20-%20VF_OBNSUIN.pdf"
+      ],
+      "contact": "Línea Nacional 141 (urgencia niñez); icbf.gov.co (formulario)",
+      "verification_notes": "Verificado vía la reproducción del concepto técnico del ICBF en T-526/23 (relatoría Corte Constitucional). La cita verbatim ('no implica, de ningún modo, que la entidad convalide el llamado Síndrome de Alienación Parental – SAP') figura textualmente en el cuerpo de la sentencia. Sitio institucional icbf.gov.co y portal SUIN confirmados.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.colpsic",
+        "practitioner:co.corte-constitucional-t526"
+      ]
+    },
+    {
+      "id": "co.ministerio-salud",
+      "name": "Ministerio de Salud y Protección Social",
+      "credentials": "Ministerio del Gobierno de Colombia con rectoría sanitaria (Ley 100 de 1993; Ley 1751 de 2015)",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca",
+      "affiliation": "Rama Ejecutiva — Ministerio de Salud y Protección Social",
+      "stance": "institutional",
+      "stance_notes": "Concepto técnico ante la Corte Constitucional en el expediente T-8.394.866 (citado en T-526/23) que sostiene que el SAP 'no constituye un síndrome nosológicamente aceptado ni hace parte de los diagnósticos clínicos vigentes' en Colombia, por no estar incluido como diagnóstico en CIE-11. Su intervención forma parte de la cadena de conceptos técnicos convergentes (COLPSIC + ICBF + Procuraduría + MinSalud) que sustenta la proscripción judicial de T-526/23.",
+      "publications": [
+        {"title": "Concepto técnico Ministerio de Salud en el expediente T-8.394.866 (citado en T-526/23)", "year": 2023, "venue": "Ministerio de Salud y Protección Social ante la Corte Constitucional", "url": "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm"}
+      ],
+      "urls": [
+        "https://www.minsalud.gov.co/",
+        "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm"
+      ],
+      "contact": "Vía minsalud.gov.co (formulario institucional)",
+      "verification_notes": "Verificado vía la reproducción del concepto técnico en T-526/23 (relatoría Corte Constitucional). La caracterización del SAP como 'no nosológicamente aceptado' figura en el cuerpo de la sentencia. No se ha localizado un documento PA-específico publicado autónomamente por MinSalud fuera del trámite de T-8.394.866; la posición está documentada vía la sentencia.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.corte-constitucional-t526",
+        "practitioner:co.icbf",
+        "practitioner:co.colpsic"
+      ]
+    },
+    {
+      "id": "co.procuraduria-general",
+      "name": "Procuraduría General de la Nación — Procuraduría Delegada para la Defensa de los Derechos de la Infancia, la Adolescencia, la Familia y las Mujeres",
+      "credentials": "Órgano de control de la Rama Pública con autonomía constitucional (Constitución Política, art. 275); Procuraduría Delegada con funciones mixtas en infancia/familia/mujeres",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca",
+      "affiliation": "Procuraduría General de la Nación — Ministerio Público",
+      "stance": "institutional",
+      "stance_notes": "Concepto técnico ante la Corte Constitucional en el expediente T-8.394.866 (citado en T-526/23) caracterizando críticamente al SAP. Concepto de la Procuraduría Delegada con Funciones Mixtas para la Defensa de los Derechos de la Infancia, la Adolescencia, la Familia y las Mujeres reconoce el carácter violatorio de derechos del SAP y denuncia su falta de respaldo científico, conforme reproduce T-526/23. Forma parte de la cadena institucional convergente (COLPSIC + ICBF + MinSalud + Procuraduría) que sustenta la proscripción.",
+      "publications": [
+        {"title": "Concepto técnico Procuraduría Delegada en el expediente T-8.394.866 (citado en T-526/23)", "year": 2023, "venue": "Procuraduría General de la Nación ante la Corte Constitucional", "url": "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm"}
+      ],
+      "urls": [
+        "https://www.procuraduria.gov.co/",
+        "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm"
+      ],
+      "contact": "Vía procuraduria.gov.co (formulario institucional)",
+      "verification_notes": "Verificado vía la reproducción del concepto técnico en T-526/23. La denominación exacta de la Procuraduría Delegada ('con Funciones Mixtas para la Defensa de los Derechos de la Infancia, la Adolescencia, la Familia y las Mujeres') figura en la sentencia y en cobertura secundaria de El Tiempo.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.corte-constitucional-t526",
+        "practitioner:co.icbf",
+        "practitioner:co.colpsic"
+      ]
+    },
+    {
+      "id": "co.sisma-mujer",
+      "name": "Sisma Mujer — Corporación de Investigación, Acción y Apoyo a la Mujer",
+      "credentials": "ONG feminista colombiana; entidad sin ánimo de lucro con casi tres décadas de litigio estratégico en violencia contra mujeres",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca (sede)",
+      "affiliation": "Sisma Mujer — Corporación de Investigación, Acción y Apoyo a la Mujer; equipo jurídico encabezado por Laura Barreto (abogada); equipo psicosocial encabezado por Stefany Rivera (psicóloga)",
+      "stance": "critique",
+      "stance_notes": "Petición ante la Comisión Interamericana de Derechos Humanos (CIDH) del 8 de julio de 2024 documentando seis casos de uso del falso SAP en Colombia contra cinco madres y sus hijas/hijos, más la persecución contra la periodista Alexandra Correa por investigar y publicar estos casos. La abogada Laura Barreto declara que tras la proscripción de T-526/23 'la teoría se sigue presentando bajo otros términos —triangulación parental, alineación parental— pero las consecuencias para las madres y las mujeres víctimas son las mismas'. Sisma Mujer es la organización de litigio estratégico LATAM más activa en el campo PA crítico desde la perspectiva de derechos humanos interamericanos.",
+      "publications": [
+        {"title": "Petición ante la CIDH sobre el uso del falso Síndrome de Alienación Parental en Colombia", "year": 2024, "venue": "Sisma Mujer, presentada 8 de julio de 2024", "url": "https://sismamujer.org/"},
+        {"title": "Sisma Mujer ante CIDH: seis casos de SAP en Colombia (cobertura efeminista)", "year": 2024, "venue": "EFEminista (Agencia EFE), julio 2024", "url": "https://efeminista.com/organizacion-colombiana-cidh-casos-falso-sindrome-alienacion-parental/"}
+      ],
+      "urls": [
+        "https://sismamujer.org/",
+        "https://efeminista.com/organizacion-colombiana-cidh-casos-falso-sindrome-alienacion-parental/",
+        "https://afrofeminas.com/2024/07/13/feministas-colombianas-llevan-a-la-cidh-casos-del-falso-sindrome-de-alienacion-parental/"
+      ],
+      "contact": "Vía sismamujer.org (formulario institucional); sede en Bogotá",
+      "verification_notes": "Verificado vía sitio sismamujer.org y cobertura primaria de EFEminista (Agencia EFE) y AfroFéminas sobre la petición ante CIDH del 8.7.2024. Identidades de la abogada Laura Barreto y la psicóloga Stefany Rivera verificadas vía cobertura. El expediente exacto ante CIDH no se publica íntegramente; el seguimiento institucional figura por comunicados de Sisma y agencias.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.correa-alexandra",
+        "practitioner:co.ruiz-navarro-catalina",
+        "practitioner:co.corte-constitucional-t526"
+      ]
+    },
+    {
+      "id": "co.ruiz-navarro-catalina",
+      "name": "Catalina Ruiz-Navarro",
+      "credentials": "Periodista y filósofa feminista; magíster en Filosofía Universidad de los Andes; co-fundadora y directora de Volcánicas; columnista de El Espectador desde 2008",
+      "city": "Bogotá D.C. (origen Barranquilla)",
+      "region": "Cundinamarca / origen Atlántico",
+      "affiliation": "Volcánicas — Magazine Feminista Latinoamericano; El Espectador; Iniciativa Idea",
+      "stance": "critique",
+      "stance_notes": "Columna 'Adiós al falso Síndrome de Alienación Parental' publicada en El Espectador el 25 de enero de 2024, en respuesta a la divulgación de T-526/23. Caracteriza el SAP como construcción 'inventada por el psiquiatra Richard Gardner' que 'nunca fue avalada por sus pares' y documenta su uso histórico para otorgar custodia a padres denunciados por violencia sexual. Cita el informe A/HRC/53/36 de la Relatora ONU Reem Alsalem. Es la voz periodística-académica más visible del polo crítico colombiano en medios masivos, con eje editorial Volcánicas. Co-autora del libro 'Las mujeres que luchan se encuentran. Manual de feminismo pop latinoamericano' (Penguin Random House, 2019).",
+      "publications": [
+        {"title": "Adiós al falso Síndrome de Alienación Parental", "year": 2024, "venue": "El Espectador, columna de opinión, 25 de enero de 2024", "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/adios-al-falso-sindrome-de-alienacion-parental/"},
+        {"title": "Las mujeres que luchan se encuentran. Manual de feminismo pop latinoamericano", "year": 2019, "venue": "Penguin Random House Colombia / Aguilar"}
+      ],
+      "urls": [
+        "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/adios-al-falso-sindrome-de-alienacion-parental/",
+        "https://volcanicas.com/author/cap-catalina-ruiz-navarro/",
+        "https://muckrack.com/catalina-ruiz-navarro"
+      ],
+      "contact": "Vía Volcánicas (volcanicas.com) y El Espectador",
+      "verification_notes": "Verificado vía elespectador.com (columna 25.1.2024), volcanicas.com (perfil de autora) y Muck Rack (perfil periodístico). Es periodista-académica, no terapeuta clínica; incluida por ser anclaje editorial del campo crítico colombiano en medios masivos — patrón equivalente al rol de Página/12 en Argentina.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.sisma-mujer",
+        "practitioner:co.correa-alexandra"
+      ]
+    },
+    {
+      "id": "co.correa-alexandra",
+      "name": "Alexandra Correa Solarte",
+      "credentials": "Periodista colombiana de investigación; corresponsal de Deutsche Welle (Alemania) desde 2012; colaboradora The Washington Post 2019; Premio Nacional de Periodismo López Michelsen 2024",
+      "city": "Bogotá D.C. / Berlín",
+      "region": "Cundinamarca / Berlín",
+      "affiliation": "Deutsche Welle (DW); The Washington Post; trabajo independiente sobre derechos de la niñez y violencia intrafamiliar en Colombia y América Latina",
+      "stance": "critique",
+      "stance_notes": "Investigación periodística desde 2022 documentando 35 casos colombianos en que se ha invocado SAP contra madres denunciantes de violencia y abuso sexual de hijas/hijos, incluyendo casos de incesto. Su reporteo en DW y Washington Post fue cadena documental clave que precedió el viraje judicial de T-526/23. Autora del artículo académico 'El diagnóstico que favorece a agresores intrafamiliares en Colombia y Latinoamérica' en Trayectorias Humanas Trascontinentales (TraHs) Special Issue Nº 13 (2024). Su persecución judicial — múltiples demandas que ganó — figura en la petición de Sisma Mujer ante CIDH del 8.7.2024. Premio Nacional de Periodismo López Michelsen 2024 por esta investigación.",
+      "publications": [
+        {"title": "El diagnóstico que favorece a agresores intrafamiliares en Colombia y Latinoamérica", "year": 2024, "venue": "Trayectorias Humanas Trascontinentales (TraHs), Special Issue Nº 13, Université de Limoges", "url": "https://www.unilim.fr/trahs/6231"},
+        {"title": "Investigación serie sobre custodia, abuso y SAP en Colombia", "year": 2022, "venue": "Deutsche Welle / The Washington Post (serie de reportajes)"}
+      ],
+      "urls": [
+        "https://www.unilim.fr/trahs/6231",
+        "https://x.com/correalexandra"
+      ],
+      "contact": "Vía perfil X @correalexandra; redacción DW",
+      "verification_notes": "Verificado vía sitio oficial TraHs (Université de Limoges, DOI/publicación 2024), perfil X y cobertura cruzada de EFEminista y Sisma Mujer sobre el Premio Nacional López Michelsen 2024 y las 35 demandas documentadas. Es periodista-investigadora, no terapeuta; incluida como anclaje documental del campo crítico — patrón análogo a periodistas argentinas/españolas listadas en jurisdicciones equivalentes.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.sisma-mujer",
+        "practitioner:co.ruiz-navarro-catalina"
+      ]
+    },
+    {
+      "id": "co.ballesteros-amaya-colpsic",
+      "name": "Blanca Patricia Ballesteros de Valderrama & Leonardo Amaya Martínez (autores institucionales COLPSIC)",
+      "credentials": "Psicólogos/as con afiliación a COLPSIC; co-autores del análisis institucional septiembre 2024 sobre T-526/23 y la Posición Gremial COLPSIC 2023",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca",
+      "affiliation": "Colegio Colombiano de Psicólogos (COLPSIC); colaboradores en eticapsicologica.org (sitio oficial COLPSIC sobre ética psicológica)",
+      "stance": "critique",
+      "stance_notes": "Co-autores del documento 'A propósito de la sentencia T-526/23 y el pronunciamiento del Colegio Colombiano de Psicólogos (COLPSIC) en octubre del 2023 sobre el concepto de alienación parental' (septiembre 2024), que articula la convergencia institucional entre COLPSIC y la Corte Constitucional. Citan textualmente la posición COLPSIC: 'ningún rótulo diagnóstico que haga referencia a un problema relacional podría utilizarse para deslegitimar o ignorar los testimonios de alguna de las partes'. Articulan la distinción crítica entre 'SAP como categoría diagnóstica' (rechazada) y 'alienación parental como descripción de dinámicas relacionales' (admisible bajo cautelas). Son la voz autorizada que explicita en lenguaje técnico-clínico la posición COLPSIC.",
+      "publications": [
+        {"title": "A propósito de la sentencia T-526/23 y el pronunciamiento del Colegio Colombiano de Psicólogos (COLPSIC) en octubre del 2023 sobre el concepto de alienación parental", "year": 2024, "venue": "eticapsicologica.org (COLPSIC), Comunicado septiembre 2024", "url": "https://eticapsicologica.org/index.php/documentos/noticias-y-eventos/item/92-com-sept-24"}
+      ],
+      "urls": [
+        "https://eticapsicologica.org/index.php/documentos/noticias-y-eventos/item/92-com-sept-24",
+        "https://www.colpsic.org.co/"
+      ],
+      "contact": "Vía eticapsicologica.org y colpsic.org.co",
+      "verification_notes": "Verificado vía eticapsicologica.org (sitio oficial COLPSIC sobre ética profesional). La autoría conjunta y la fecha (septiembre 2024) están confirmadas. Cargos formales individuales de los/as autores/as dentro de COLPSIC no se exhiben públicamente en la página del comunicado — se registra 'colaboradores institucionales COLPSIC' siguiendo regla editorial conservadora.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.colpsic",
+        "practitioner:co.corte-constitucional-t526"
+      ]
+    },
+    {
+      "id": "co.tapias-angela",
+      "name": "Ángela Cristina Tapias Saldaña",
+      "credentials": "Lic. Psicología; especialista y magíster en Psicología Jurídica y Forense; profesora titular y fundadora de la Maestría en Psicología Jurídica de la Universidad Santo Tomás (Bogotá); fundadora de la Asociación Latinoamericana de Psicología Jurídica y Forense (ALPJF)",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca",
+      "affiliation": "Universidad Santo Tomás (USTA); Maestría en Psicología Jurídica; Asociación Latinoamericana de Psicología Jurídica y Forense",
+      "stance": "recognition",
+      "stance_notes": "Co-autora del estudio 'Reconocimiento de indicadores de alienación parental en operadores de justicia de Bogotá' (Diversitas: Perspectivas en Psicología, USTA, vol. 9 nº 1, 2013) — investigación con 263 funcionarios judiciales que asume el constructo de alienación parental como categoría operativa válida sin cuestionar críticamente su estatuto científico, y caracteriza su no-reconocimiento como un déficit formativo de los operadores. Marco pre-T-526/23. Texto incluido en literatura colombiana sobre AP como referente de la corriente recognition-leaning académica pre-2023. La autora no ha publicado retractación pública tras T-526/23; su trabajo posterior aborda metapericia forense (libro 'Metapericia psicológica forense', everand 2022) sin retomar centralmente el debate AP.",
+      "publications": [
+        {"title": "Reconocimiento de indicadores de alienación parental en operadores de justicia de Bogotá", "year": 2013, "venue": "Diversitas: Perspectivas en Psicología, Universidad Santo Tomás, vol. 9 nº 1, pp. 165-181", "url": "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-43812013000100010"},
+        {"title": "Metapericia psicológica forense", "year": 2022, "venue": "Editorial independiente (Everand/Scribd)"}
+      ],
+      "urls": [
+        "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-43812013000100010",
+        "https://www.researchgate.net/profile/Angela-Tapias-Saldana",
+        "https://facultadpsicologia.usta.edu.co/index.php/directvos-docentes-maestria2"
+      ],
+      "contact": "Vía Maestría Psicología Jurídica USTA (Facultad de Psicología, Bogotá)",
+      "verification_notes": "Verificado vía SciELO Colombia (revista Diversitas USTA, 2013), perfil ResearchGate y página institucional USTA Facultad de Psicología. Asignación 'recognition' se basa en la asunción no-crítica del constructo en el estudio de 2013 y en la operacionalización de 'indicadores de alienación parental' como criterio diagnóstico para los operadores. No se ha localizado publicación post-2023 que indique retractación o reposicionamiento.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.balaguera-gabriel",
+        "practitioner:co.colpsic"
+      ]
+    },
+    {
+      "id": "co.balaguera-gabriel",
+      "name": "Gabriel Balaguera Rojas",
+      "credentials": "Psicólogo Universidad Católica de Colombia (2015); magíster en Investigación Criminal (Escuela de Investigación Criminal de la Policía Nacional de Colombia); doctorando en Derecho Penal Universidad de Buenos Aires",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca",
+      "affiliation": "Universidad Católica de Colombia (egresado); práctica en psicología jurídica y organizacional; miembro de la Asociación Latinoamericana de Psicología Jurídica y Forense (ALPJF)",
+      "stance": "recognition",
+      "stance_notes": "Autor del artículo 'Alienación parental: Expresión del fenómeno en países de habla hispana y redes sociales [análisis descriptivo]' (Revista Iberoamericana de Psicología, Universidad Iberoamericana de Colombia, vol. 11 nº 1, 2018, pp. 23-33; DOI: 10.33881/2027-1786.rip.11105). El artículo asume la alienación parental como 'forma de violencia psicológica intrafamiliar' que consiste en 'la influencia y modelamiento del pensamiento de los hijos por parte de uno de los progenitores para generar rechazo hacia el otro' — encuadre que opera dentro del paradigma de reconocimiento sin tematizar críticamente las objeciones científicas al constructo. Marco pre-T-526/23. Distinguido como Egresado Distinguido por la Universidad Católica de Colombia.",
+      "publications": [
+        {"title": "Alienación parental: Expresión del fenómeno en países de habla hispana y redes sociales [análisis descriptivo]", "year": 2018, "venue": "Revista Iberoamericana de Psicología, Universidad Iberoamericana de Colombia, vol. 11 nº 1, pp. 23-33", "doi": "10.33881/2027-1786.rip.11105", "url": "https://reviberopsicologia.ibero.edu.co/article/view/rip.11105"}
+      ],
+      "urls": [
+        "https://reviberopsicologia.ibero.edu.co/article/view/rip.11105",
+        "https://dialnet.unirioja.es/servlet/articulo?codigo=6598577",
+        "https://www.ucatolica.edu.co/portal/egresados/coordinacion-de-egresados/egresado-distinguido/"
+      ],
+      "contact": "Vía perfil ALPJF / Universidad Católica de Colombia (no se exhibe contacto privado)",
+      "verification_notes": "Verificado vía Revista Iberoamericana de Psicología (DOI), Dialnet y página de Egresados Distinguidos UCC. Asignación 'recognition' se basa en el encuadre conceptual del artículo de 2018 que opera dentro del paradigma de reconocimiento. No se ha localizado publicación post-2023 que indique retractación o reposicionamiento.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.tapias-angela"
+      ]
+    },
+    {
+      "id": "co.casa-mujer",
+      "name": "Casa de la Mujer",
+      "credentials": "Organización feminista colombiana fundada en 1982; ONG con cuatro décadas de trabajo en derechos de las mujeres, paz y justicia de género",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca",
+      "affiliation": "Casa de la Mujer — Corporación; integrante de Red Nacional de Mujeres",
+      "stance": "critique",
+      "stance_notes": "Posición consistente desde el marco de la violencia contra las mujeres contra el uso del SAP como herramienta de revictimización en procesos de custodia y régimen de visitas. Forma parte de la coalición feminista colombiana (junto con Sisma Mujer, Red Nacional de Mujeres, Volcánicas) que respaldó la línea jurisprudencial T-181/2023 - T-526/2023. No se ha localizado un documento institucional propio PA-específico con URL primaria autónoma; la posición se documenta vía pertenencia a la coalición Red Nacional de Mujeres y cobertura conjunta con Sisma Mujer.",
+      "publications": [
+        {"title": "Posición Casa de la Mujer — coalición feminista colombiana sobre SAP (vía Red Nacional de Mujeres)", "year": 2024, "venue": "Casa de la Mujer / Red Nacional de Mujeres", "url": "https://www.casmujer.com/"}
+      ],
+      "urls": [
+        "https://www.casmujer.com/",
+        "https://sismamujer.org/"
+      ],
+      "contact": "Vía casmujer.com (formulario institucional); sede en Bogotá",
+      "verification_notes": "Verificado vía sitio institucional casmujer.com. No se ha podido verificar a partir de fuentes primarias un documento Casa de la Mujer PA-específico con URL autónoma; entrada incluida por pertenencia a la coalición feminista colombiana documentada en la cadena Sisma + Volcánicas + Red Nacional de Mujeres en torno a T-526/23. Marca explícita de limitación documental en stance_notes.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.sisma-mujer",
+        "practitioner:co.ruiz-navarro-catalina"
+      ]
+    },
+    {
+      "id": "co.defensoria-pueblo",
+      "name": "Defensoría del Pueblo de Colombia",
+      "credentials": "Órgano de control de la Rama Pública con autonomía constitucional (Constitución Política, arts. 281-284); institución nacional de derechos humanos",
+      "city": "Bogotá D.C.",
+      "region": "Cundinamarca (sede nacional); cobertura nacional",
+      "affiliation": "Defensoría del Pueblo de Colombia — Ministerio Público",
+      "stance": "institutional",
+      "stance_notes": "La Defensoría del Pueblo participó en el foro institucional sobre alienación parental organizado con la Universidad Externado de Colombia en abril de 2024, posterior a T-526/23. Publica la 'Ruta defensorial para la atención de víctimas de violencia intrafamiliar con enfoque de género' y boletines periódicos sobre violencias de género (Panorama de las violencias de género en Colombia). Su rol en la cadena institucional crítica colombiana es de protección a víctimas de violencia intrafamiliar en línea con el espíritu de T-526/23, sin haber emitido un pronunciamiento autónomo PA-específico equivalente al de Defensoría del Pueblo CABA (Argentina, 25.9.2020) o Defensor del Pueblo de Andalucía.",
+      "publications": [
+        {"title": "Ruta defensorial para la atención de víctimas de violencia intrafamiliar con enfoque de género", "year": 2022, "venue": "Defensoría del Pueblo de Colombia", "url": "https://repositorio.defensoria.gov.co/items/9b7bcd05-1d3c-4878-aa23-e0e5ae87a02f"},
+        {"title": "Panorama de las violencias de género en Colombia", "year": 2025, "venue": "Defensoría del Pueblo de Colombia", "url": "https://www.defensoria.gov.co/-/panorama-de-las-violencias-de-genero-en-colombia-enero-a-mayo-de-2025"}
+      ],
+      "urls": [
+        "https://www.defensoria.gov.co/",
+        "https://repositorio.defensoria.gov.co/items/9b7bcd05-1d3c-4878-aa23-e0e5ae87a02f"
+      ],
+      "contact": "Línea 143 (atención a víctimas); defensoria.gov.co (formulario institucional)",
+      "verification_notes": "Verificado vía defensoria.gov.co y su repositorio institucional. Diferencia con Argentina: no existe pronunciamiento Defensoría del Pueblo Colombia PA-específico equivalente al de Defensoría del Pueblo CABA (25.9.2020). Su posición figura indirectamente vía la Ruta defensorial 2022 y los boletines de violencias de género — registrado explícitamente como limitación documental.",
+      "references": [
+        "jurisdiction:colombia",
+        "practitioner:co.icbf",
+        "practitioner:co.procuraduria-general"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "id": "co.velasquez-diego",
+      "name": "Diego E. Velásquez",
+      "exclusion_reason": "unverifiable — no se ha podido verificar a partir de fuentes primarias un autor colombiano 'Diego E. Velásquez' afiliado a Universidad Católica de Colombia o Universidad de Antioquia con publicación PA-específica retrievable. El nombre podría corresponder a múltiples profesionales colombianos sin producción PA. Sin URL primaria verificable, se excluye siguiendo regla editorial conservadora.",
+      "primary_source_url": "https://www.colpsic.org.co/"
+    },
+    {
+      "id": "co.garcia-becerra-andrea",
+      "name": "Andrea García Becerra",
+      "exclusion_reason": "unverifiable PA-specific position — Andrea García Becerra (Pontificia Universidad Javeriana / Universidad Nacional de Colombia; antropóloga; magíster Estudios de Género UN) es autora verificable activa en violencia de género e investigación feminista, pero no se ha localizado publicación PA-específica suya con URL primaria. Su producción se concentra en antropología feminista, campesinado y género — no en SAP/AP. Se excluye para preservar la regla de respaldo PA-específico.",
+      "primary_source_url": "https://herder.com.mx/es/autores-writers/andrea-garcia-becerra"
+    },
+    {
+      "id": "co.fecolpsi",
+      "name": "FECOLPSI — Federación Colombiana de Asociaciones de Psicología",
+      "exclusion_reason": "unverifiable PA-specific position — no se ha podido verificar a partir de fuentes primarias un pronunciamiento institucional PA-específico de FECOLPSI con URL primaria autónoma. En Colombia el regulador profesional con función pública es COLPSIC (Ley 1090 de 2006), y la Posición Gremial 16.11.2023 cubre el campo federativo; FECOLPSI como entidad federativa de asociaciones científico-académicas no exhibe documento PA-propio. Marca explícita de no-verificación.",
+      "primary_source_url": "https://www.colpsic.org.co/"
+    },
+    {
+      "id": "co.red-nacional-mujeres",
+      "name": "Red Nacional de Mujeres",
+      "exclusion_reason": "unverifiable as discrete PA position — Red Nacional de Mujeres es una red colombiana verificable que integra a Sisma Mujer y Casa de la Mujer (registradas como entradas separadas), pero no se ha localizado un documento Red Nacional de Mujeres PA-específico con URL primaria autónoma. Su rol crítico se ejerce vía sus organizaciones miembros (Sisma, Casa de la Mujer) ya listadas — se excluye para evitar duplicación institucional.",
+      "primary_source_url": "https://sismamujer.org/"
+    },
+    {
+      "id": "co.peritos-juzgados-familia",
+      "name": "Peritos psicólogos forenses en juzgados de familia (Bogotá, Medellín, Cali)",
+      "exclusion_reason": "ethical-naming safeguard — siguiendo regla editorial aplicada al patrón Argentina (AR), no se nombran peritos psicólogos forenses individuales operando en juzgados de familia colombianos salvo que sean también autores publicados con posición pública documentable. Los/as peritos del aparato pericial colombiano (Defensorías de Familia, ICBF; CTI Fiscalía; Medicina Legal) operan bajo encargo judicial y su naming requeriría confirmación primaria caso-a-caso. Se excluye categóricamente como entrada general.",
+      "primary_source_url": "https://www.icbf.gov.co/"
+    },
+    {
+      "id": "co.corte-suprema-sala-civil",
+      "name": "Corte Suprema de Justicia — Sala Civil (línea pre-2023)",
+      "exclusion_reason": "structural exclusion — la Corte Suprema de Justicia Sala Civil mantuvo una línea jurisprudencial pre-2023 que no aplicaba perspectiva de género en casos invocando AP (criticada explícitamente por T-526/23 de la Corte Constitucional). No es una entrada institucional crítica sino una contraparte jurisdiccional cuya línea fue corregida por la Corte Constitucional. Documentada en jurisdictional_context como contexto pero no como entrada per se.",
+      "primary_source_url": "https://cortesuprema.gov.co/"
+    }
+  ]
+}

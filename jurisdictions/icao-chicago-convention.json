@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0",
+  "id": "icao-chicago-convention",
+  "name": "ICAO Chicago Convention 1944 (International Civil Aviation Organization)",
+  "jurisdiction_code": "ICA",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Convention on International Civil Aviation (ICAO Chicago Convention) is a global supranational meta-framework foundational-ICAO-treaty framework adopted by the 52 founding states in Chicago — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-civil-aviation framework + foundational international aviation framework (ICAO Chicago Convention adopted 7 December 1944 in Chicago Illinois USA + effective 4 April 1947 + ICAO operations began 4 April 1947 — formal foundational ICAO treaty framework establishing comprehensive ICAO organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-civil-aviation framework + foundational international aviation framework + only modern global supranational binding-treaty framework operating formal Five Freedoms of the Air framework + only modern global supranational binding-treaty framework operating formal complete-and-exclusive-sovereignty-over-airspace framework via Chicago Convention Article 1 framework + only modern global supranational binding-treaty framework operating formal SARPs Standards and Recommended Practices framework + only modern global supranational binding-treaty framework operating formal MH17 + MH370 aviation accident-investigation framework + only modern global supranational binding-treaty framework operating formal Russian Federation-controversy 2022-2024 framework via ICAO Council decision not-to-relocate-Russia-IATA-codes 2024 framework), as the central jurisdiction of the formal ICAO SARPs Standards and Recommended Practices framework (ICAO SARPs framework providing formal Annexes 1-19 + PANS Procedures for Air Navigation Services framework — formal foundational ICAO SARPs framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal SARPs framework with 19 ICAO Annexes), as the central jurisdiction of the formal Chicago Convention Five Freedoms of the Air framework (Chicago Convention Five Freedoms of the Air framework providing formal First Freedom + Second Freedom + Third Freedom + Fourth Freedom + Fifth Freedom + Sixth-Ninth additional Freedoms framework — formal foundational Five Freedoms of the Air framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Five Freedoms of the Air framework + traditional Nine Freedoms framework), and as the central jurisdiction of the formal ICAO CORSIA Carbon Offsetting and Reduction Scheme for International Aviation framework (ICAO CORSIA adopted 6 October 2016 + voluntary phase 2021-2026 + mandatory phase from 2027 framework — formal foundational ICAO CORSIA climate-mitigation framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal aviation-specific climate-mitigation framework). The ICAO Chicago Convention is binding upon 193 ICAO member states matching UN membership minus North Korea + Liechtenstein + 2-3 micro-states as of 2026 — substantial universal coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal ICAO Annex 9 Facilitation Standards framework operates limited intersection with parental-alienation framework via formal aviation cross-border-children-traveler framework. The ICAO Assembly + ICAO Council + ICAO Secretary General + ICAO Air Navigation Commission + ICAO Air Transport Committee are the formal ICAO bodies; national-level apex courts operate as judicial bodies. The ICAO Chicago Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "ICAO Chicago Convention 1944",
+      "title": "Chicago Convention",
+      "year": 1947,
+      "url": "https://www.icao.int/",
+      "relevance": "Convention on International Civil Aviation Chicago Convention adopted 7 December 1944 in Chicago Illinois USA + effective 4 April 1947 — formal foundational ICAO treaty framework establishing comprehensive ICAO organisation framework."
+    },
+    {
+      "citation": "Chicago Convention Article 1 (Sovereignty Framework)",
+      "title": "Chicago Convention Article 1",
+      "year": 1947,
+      "url": "https://www.icao.int/",
+      "relevance": "Chicago Convention Article 1 framework providing 'complete and exclusive sovereignty over the airspace above its territory' — formal foundational complete-and-exclusive-sovereignty-over-airspace framework."
+    },
+    {
+      "citation": "International Air Services Transit Agreement IASTA 1944",
+      "title": "IASTA",
+      "year": 1945,
+      "url": "https://www.icao.int/",
+      "relevance": "International Air Services Transit Agreement IASTA adopted 7 December 1944 in Chicago Illinois USA + effective 30 January 1945 — formal foundational ICAO Two Freedoms of the Air framework adopted alongside Chicago Convention."
+    },
+    {
+      "citation": "International Air Transport Agreement IATA 1944",
+      "title": "IATA (Five Freedoms)",
+      "year": 1945,
+      "url": "https://www.icao.int/",
+      "relevance": "International Air Transport Agreement IATA adopted 7 December 1944 in Chicago Illinois USA + effective 8 February 1945 — formal foundational ICAO Five Freedoms of the Air framework adopted alongside Chicago Convention + later replaced by bilateral air services agreements framework."
+    },
+    {
+      "citation": "ICAO CORSIA Carbon Offsetting Scheme 2016",
+      "title": "ICAO CORSIA",
+      "year": 2021,
+      "url": "https://www.icao.int/",
+      "relevance": "ICAO Carbon Offsetting and Reduction Scheme for International Aviation CORSIA adopted 6 October 2016 + voluntary phase 2021-2026 + mandatory phase from 2027 — formal foundational ICAO CORSIA aviation-specific climate-mitigation framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "ICAO Assembly",
+      "seat": "Montreal",
+      "url": "https://www.icao.int/about-icao/AssemblyArchive/",
+      "role": "Formal supreme decision-making body for ICAO."
+    },
+    {
+      "name": "ICAO Council",
+      "seat": "Montreal",
+      "url": "https://www.icao.int/about-icao/Council/",
+      "role": "Formal executive body for ICAO."
+    },
+    {
+      "name": "ICAO Secretary General",
+      "seat": "Montreal",
+      "url": "https://www.icao.int/about-icao/SecretaryGeneral/",
+      "role": "Formal administrative head body for ICAO."
+    },
+    {
+      "name": "ICAO Air Navigation Commission",
+      "seat": "Montreal",
+      "url": "https://www.icao.int/",
+      "role": "Formal ICAO Air Navigation framework body."
+    },
+    {
+      "name": "ICAO Air Transport Committee",
+      "seat": "Montreal",
+      "url": "https://www.icao.int/",
+      "role": "Formal ICAO Air Transport framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ICAO Secretariat",
+      "url": "https://www.icao.int/",
+      "role": "ICAO Chicago Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ICAO-related communications operate via state-state framework via ICAO Assembly + ICAO Council; individual communications not formally accepted under ICAO framework.",
+  "key_developments": [
+    {
+      "year": 1944,
+      "title": "ICAO Chicago Convention adopted",
+      "description": "ICAO Chicago Convention adopted 7 December 1944 in Chicago Illinois USA by 52 founding states + International Air Services Transit Agreement IASTA + International Air Transport Agreement IATA adopted alongside — formal foundational ICAO treaty framework adopted."
+    },
+    {
+      "year": 1947,
+      "title": "ICAO Chicago Convention enters force + ICAO operations begin",
+      "description": "ICAO Chicago Convention entered force 4 April 1947 + ICAO operations began 4 April 1947 — formal foundational ICAO treaty framework operational."
+    },
+    {
+      "year": 1983,
+      "title": "Korean Air Flight 007 shoot-down",
+      "description": "Korean Air Flight 007 shoot-down by Soviet Su-15 1 September 1983 + ICAO Council Resolution + Chicago Convention amendment Article 3bis prohibiting use of weapons against civil aircraft signed 10 May 1984 in Montreal — formal ICAO aviation-security framework operational."
+    },
+    {
+      "year": 1998,
+      "title": "Article 3bis enters force",
+      "description": "Chicago Convention Article 3bis on non-use of weapons against civil aircraft entered force 1 October 1998 — formal foundational ICAO non-use-of-weapons-against-civil-aircraft framework operational."
+    },
+    {
+      "year": 2014,
+      "title": "MH370 disappearance + MH17 shoot-down",
+      "description": "MH370 disappearance 8 March 2014 + MH17 shoot-down 17 July 2014 over eastern Ukraine + ICAO involvement in MH370 + MH17 investigations — formal ICAO aviation accident-investigation framework operational."
+    },
+    {
+      "year": 2016,
+      "title": "ICAO CORSIA adopted",
+      "description": "ICAO CORSIA adopted 6 October 2016 at 39th ICAO Assembly Montreal — formal foundational ICAO CORSIA aviation-specific climate-mitigation framework adopted."
+    },
+    {
+      "year": 2021,
+      "title": "ICAO CORSIA voluntary phase begins",
+      "description": "ICAO CORSIA voluntary phase began 1 January 2021 — formal ICAO CORSIA aviation-specific climate-mitigation framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia aviation crisis + ICAO Council decisions",
+      "description": "Russia invaded Ukraine 24 February 2022 + Russia aviation sanctions + ICAO Council 25 March 2022 decisions on Russia + Belarus airspace + ICAO Article 83bis transfer-of-functions issues — formal ICAO Russia aviation framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "ICAO Court of Justice ICJ Iran v US + Saudi Arabia v Qatar Awards",
+      "description": "ICJ Awards in ICAO Council jurisdiction disputes Iran v US September 2023 + Saudi Arabia v Qatar Awards — formal ICAO Council jurisdiction framework operational."
+    },
+    {
+      "year": 2027,
+      "title": "ICAO CORSIA mandatory phase begins",
+      "description": "ICAO CORSIA mandatory phase begins 1 January 2027 — formal ICAO CORSIA aviation-specific climate-mitigation mandatory framework operational."
+    }
+  ],
+  "structural_findings": [
+    "ICAO Chicago Convention operates a supranational global binding-treaty framework — places ICAO Chicago Convention in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-civil-aviation framework + foundational international aviation framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-civil-aviation framework + foundational international aviation framework + only modern global supranational binding-treaty framework operating formal Five Freedoms of the Air framework + only modern global supranational binding-treaty framework operating formal complete-and-exclusive-sovereignty-over-airspace framework + only modern global supranational binding-treaty framework operating formal SARPs Standards and Recommended Practices framework + only modern global supranational binding-treaty framework operating formal MH17 + MH370 aviation accident-investigation framework + only modern global supranational binding-treaty framework operating formal Russian Federation-controversy 2022-2024 framework.",
+    "Central jurisdiction of formal ICAO SARPs framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal SARPs framework with 19 ICAO Annexes.",
+    "Central jurisdiction of formal Chicago Convention Five Freedoms of the Air framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Five Freedoms of the Air framework + traditional Nine Freedoms framework.",
+    "Central jurisdiction of formal ICAO CORSIA framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal aviation-specific climate-mitigation framework.",
+    "193 ICAO member state ratification framework with North Korea + Liechtenstein + 2-3 micro-state non-members framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1944 Chicago Convention + 1947 entry into force + ICAO operations + 1983 KAL 007 + 1984 Article 3bis + 1998 entry into force + 2014 MH370 + MH17 + 2016 CORSIA + 2021 voluntary + 2022 Russia + 2023 ICJ Awards + 2027 mandatory ICAO-framework-development sequence is structurally distinctive globally.",
+    "ICAO Chicago Convention + IASTA + IATA + Article 1 Sovereignty + Article 3bis Non-Use of Weapons + 19 Annexes + CORSIA formal septet framework with limited PA-intersection framework via formal aviation cross-border-children-traveler framework — distinctive in operating limited PA-intersection framework via Annex 9 Facilitation Standards framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "jurisdiction:canada",
+    "jurisdiction:united-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "ICAO",
+      "url": "https://www.icao.int/",
+      "publisher": "ICAO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ICAO Chicago Convention jurisdiction sidecar — supranational global international-civil-aviation foundational-ICAO-treaty meta-framework (ICAO Chicago Convention 1944/1947 + IASTA + IATA 1944/1945 + Article 1 Sovereignty + Article 3bis 1984/1998 + Annexes 1-19 + CORSIA 2016/2021/2027 + 1983 KAL 007 + 2014 MH370 + MH17 + 2022 Russia aviation crisis + 2023 ICJ Awards). Only modern global supranational binding-treaty framework operating on formal international-civil-aviation framework globally + foundational international aviation framework + only modern global supranational binding-treaty framework operating formal Five Freedoms of the Air + Nine Freedoms framework + only modern global supranational binding-treaty framework operating formal complete-and-exclusive-sovereignty-over-airspace framework via Article 1 + only modern global supranational binding-treaty framework operating formal SARPs framework with 19 ICAO Annexes + only modern global supranational binding-treaty framework operating formal MH17 + MH370 aviation accident-investigation framework + only modern global supranational binding-treaty framework operating formal Russian Federation-controversy 2022-2024 framework + central jurisdiction of formal SARPs Annexes 1-19 + central jurisdiction of formal Five Freedoms + central jurisdiction of formal CORSIA aviation-specific climate-mitigation framework + 193 ICAO member states + North Korea + Liechtenstein + 2-3 micro-state non-members + ICAO Headquartered Montreal + 1944 Chicago Convention + 1947 entry into force + ICAO operations + 1983 KAL 007 + 1984 Article 3bis + 1998 entry into force + 2014 MH370 + MH17 + 2016 CORSIA + 2021 voluntary + 2022 Russia + 2023 ICJ Awards + 2027 mandatory ICAO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ICAO Annex 9 Facilitation Standards framework operates limited intersection with parental-alienation framework via formal aviation cross-border-children-traveler framework.",
+    "Joins global + supranational + international-civil-aviation-foundational-ICAO-treaty cluster + ICAO-Chicago-Convention-only-global-supranational-binding-treaty-on-international-civil-aviation-globally-distinctive + foundational-international-aviation-framework + Five-Freedoms-of-the-Air-Nine-Freedoms + complete-and-exclusive-sovereignty-over-airspace-Article-1 + SARPs-Annexes-1-19-PANS + Article-3bis-non-use-of-weapons-1984-1998-KAL-007 + CORSIA-2016-voluntary-2021-mandatory-2027 + 193-ICAO-member-states + North-Korea-Liechtenstein-micro-states-non-members + ICAO-Headquartered-Montreal + 52-founding-states-1944-Chicago + IASTA-Two-Freedoms + IATA-Five-Freedoms-replaced-bilateral + 1983-KAL-007-shoot-down + 2014-MH370-MH17 + 2022-Russia-aviation-crisis-Article-83bis + 2023-ICJ-Iran-v-US-Saudi-Arabia-v-Qatar-Awards + aviation-cross-border-children-traveler-PA-intersection-via-Annex-9-Facilitation-Standards clusters within the corpus."
+  ]
+}

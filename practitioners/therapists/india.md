@@ -1,0 +1,554 @@
+# Practitioners — India — Therapists
+
+## Jurisdictional context
+
+India's apex engagement with the Parental Alienation construct is Lt Col Vivek Singh v Romani Singh, Civil Appeal 3962/2016, (2017) 3 SCC 231 — Supreme Court of India, Bench Chelameswar J. and A.K. Sikri J., decided 13 February 2017. The judgment expressly defined 'The Parental Alienation Syndrome' and engaged the on-record psychological/sociological report dated 12 December 2016 of Ms Iti Kanungo, Principal Counsellor, Family Court Patiala House New Delhi, as the court-appointed evaluator on the child's preferences (cross-link case-study:vivek-singh-v-romani-singh-2017-india). Vivek Singh remains the only Supreme Court of India decision that defines and applies PAS terminology, and Ms Kanungo is the only mental-health-adjacent practitioner named on the record in that decision.
+
+The High Court line subsequent to Vivek Singh has crystallised PA as adjudicable matrimonial cruelty under Hindu Marriage Act 1955 s.13(1)(ia). In ABC v XYZ, 2023 SCC OnLine Del 6099 (Delhi HC, Suresh Kumar Kait J. and Neena Bansal Krishna J., October 2023), the Court held that parental alienation by a non-neglectful parent constitutes an 'extreme act of mental cruelty' under HMA s.13(1)(ia). In A v B, 2026 SCC OnLine Del 276 (Delhi HC, Anil Kshetarpal J. and Harish Vaidyanathan Shankar J., February 2026), custody was transferred to the father on findings of 'sustained parental alienation' by the mother. Neither subsequent judgment names an individual mental-health expert on the record. This HC line — combined with the Guardians and Wards Act 1890 and the Family Courts Act 1984 framework that authorises court counsellors — gives India an unusually strong matrimonial-cruelty grounding for PA findings by comparison with other jurisdictions, while leaving the clinical-expert role substantially unspecified.
+
+The clinical-institutional landscape clusters at NIMHANS Bengaluru (National Institute of Mental Health and Neuro-Sciences, deemed University under NIMHANS Act 2012), which is the national apex centre for forensic psychiatry / child mental-health research and hosts the SAMVAD national child-protection programme (Ministry of Women & Child Development). The Indian Psychiatric Society (IPS) and the Indian Association of Clinical Psychologists (IAPP) are the relevant professional associations — neither has issued a public PA-specific institutional position, and that silence is itself a structural finding. The institutional critique register is carried not by individual clinicians but by women's-rights organisations (Lawyers Collective, Majlis Legal Centre, MASUM Pune, Sakshi Delhi) operating under the PWDVA 2005 and CEDAW frameworks. Practitioner regulation runs through the Rehabilitation Council of India (RCI Act 1992; Central Rehabilitation Register for Clinical Psychologists), the National Medical Commission (NMC Act 2019; Indian Medical Register for psychiatrists), and institutional credentialing for Psychiatric Social Work (no statutory register — NIMHANS PSW / TISS pipelines are the load-bearing pathways).
+
+## Structural findings
+
+- ZERO individual Indian critique-camp clinicians with a peer-reviewed PA-critique publication located in this v1 + v2-deepening directory batch (negative-result-source list: Vikram Patel / Sangath Goa scanned; AIIMS Delhi Psychiatry Sagar + Mehta scanned; NLSIU Centre for Child and the Law scanned; TISS CPCS scanned; MAHE Manipal Psychiatry scanned; SANGATH and NIMHANS Clinical Psychology Roopesh scanned; PGIMER Chandigarh Chakrabarti scanned). The closest located Indian critique-camp authorial signal is Saurabh Gupta's NLSIU Socio-Legal Review forum article 'Parental Alienation Syndrome: Analysis in India' — but Gupta is a law-school author writing in a student-edited forum, not a clinician with a peer-reviewed clinical publication, so does not flip the finding. This is the principal structural finding for the Indian field: unlike Germany (Zimmermann / Fichtner / Walper / Lux / Kindler clinician-led BVerfG-cited critique) or Spain (Vaccaro clinician-led violencia vicaria coinage), India's PA-clinical literature is uniformly recognition-leaning where individual clinicians are concerned.
+- The Indian critique register is institutional and women's-rights-organisation-led — not clinician-led. Lawyers Collective Women's Rights Initiative (in.lcwri-delhi), Majlis Legal Centre Mumbai (in.majlis-mumbai), MASUM Pune (in.masum-pune), and Sakshi Delhi (in.sakshi-delhi) are now entries[] under stance:institutional. IMPORTANT QUALIFICATION discovered in v2 deepening: none of the four has located a public document directly characterising parental alienation / PAS as a DV-survivor-targeting tactic. Their institutional carriage of the critique-adjacent DV-protective register is INFERENTIAL (downstream of PWDVA / CEDAW / feminist DV-frame anchoring) rather than DOCUMENT-SOURCED at the PA-construct-specific level. They remain the structurally load-bearing critique-adjacent register because no Indian clinician-led critique register exists — but the institutional-PA-critique gap is itself a refined structural finding, and the Indian field stands distinct from the Germany / Spain pattern at both the clinician level (silence) and the institutional level (DV-protective frame present, PA-construct-specific stance absent).
+- The Indian recognition camp clusters at NIMHANS Bengaluru (Jangam, Seshadri, Nambiar publication line in Indian Journal of Psychological Medicine + Asian Journal of Psychiatry), at national-level forensic psychiatry centres (Astik Joshi Delhi — ABPN Child & Adolescent + Forensic), and at Family Court Patiala House Delhi (Iti Kanungo court-appointed evaluator practice). The geographic pattern is Bengaluru-Delhi axial with Mumbai represented via Chavda / Nisarga / Shetty.
+- The post-Vivek Singh HC line (ABC v XYZ 2023 SCC OnLine Del 6099 + A v B 2026 SCC OnLine Del 276) has crystallised PA as 'extreme cruelty' under HMA s.13(1)(ia) — an unusually strong matrimonial-cruelty grounding by comparison with most other jurisdictions, which tend to channel PA findings exclusively through custody / best-interests reasoning rather than divorce-fault grounds.
+- IPS (Indian Psychiatric Society) and IAPP (Indian Association of Clinical Psychologists) are both institutionally silent on PA — no association position-paper, no clinical-practice guideline, no public statement. This mirrors the Netherlands pattern (positional weight resides in documents, not associations), but the Indian institutional anchors carrying the positional weight are court-based (Supreme Court + Delhi HC) rather than document-based (clinical guidelines or peer-reviewed consensus statements).
+- Sharma (2025) IJSP is the sole Indian peer-reviewed PA-engaging publication located outside the NIMHANS cluster — single-author, IHBAS Delhi affiliation, recognition-leaning engagement. The NIMHANS / IHBAS bifurcation is the cleanest map of the India PA-recognition literature.
+- v2-deepening REFINED FINDING: The Indian institutional critique register (LCWRI / Majlis / MASUM / Sakshi) is now entry-ized but the PA-construct-specific stance attribution is INFERENTIAL — none of the four organisations has issued a document directly engaging the parental-alienation construct. The DV-protective PWDVA / CEDAW frame these organisations carry is the structural-counterweight to the apex-court PA recognition (Vivek Singh 2017), but at the document-level the Indian field exhibits double silence: clinician silence (no individual peer-reviewed PA critique) AND institutional silence (no PA-construct-specific organisational position). The Indian recognition stance is therefore apex-court-anchored and document-asymmetric to a degree no other v2 jurisdiction exhibits.
+
+## Recognition camp
+
+### Dr Kavita V. Jangam, PhD, MPhil, MSW
+*PhD and MPhil Psychiatric Social Work (NIMHANS); MSW Medical & Psychiatric (Tata Institute of Social Sciences, Mumbai); 16+ years teaching/clinical/research experience*
+Bengaluru · Karnataka · Additional Professor, Department of Psychiatric Social Work, NIMHANS, Bengaluru
+
+**Stance:** Single most-published Indian academic-clinician explicitly framing parental alienation as a form of intra-familial child abuse. Corresponding author / co-author on the NIMHANS PA / custody-disputes publication line in Indian Journal of Psychological Medicine and Asian Journal of Psychiatry (Nambiar, Jangam & Seshadri 2023 IJPM case series; Nambiar, Jangam, Jose & Seshadri 2022 AJP predictors study; Nambiar, Jangam & Seshadri 2024 IJPM qualitative study). NIMHANS Additional Professor rank confirmed via 2026 Clinical Child Psychology and Psychiatry co-author affiliation.
+
+**Publications:**
+- Parental Alienation: Case Series from India (2023) — *Indian Journal of Psychological Medicine 45(3):304-306* — <https://journals.sagepub.com/doi/10.1177/02537176221104363>
+- Predictors of behavioral and emotional issues in children involved in custody disputes (2022) — *Asian Journal of Psychiatry 67:102930* — <https://pubmed.ncbi.nlm.nih.gov/34861567/>
+- Psychosocial Perspectives on Child Mental Health in Custody Disputes (2024) — *Indian Journal of Psychological Medicine 47(4):371-380* — <https://pmc.ncbi.nlm.nih.gov/articles/PMC11572429/>
+- Family Support and Well-being Programme (FSWP), NIMHANS (2022) — *NIMHANS programmatic*
+
+**Verification:**
+- <https://www.nimhans.ac.in/departments/psychiatric-social-work>
+- <https://www.researchgate.net/profile/Kavita-Jangam>
+- <https://scholar.google.com/citations?user=TkbxDBQAAAAJ&hl=en>
+
+**Contact:** Department of Psychiatric Social Work, NIMHANS, Hosur Road, Bengaluru 560029, Karnataka, India; ResearchGate DM
+
+*Notes: Psychiatric Social Work not statutorily registered in India; institutional credentialing via NIMHANS faculty (Additional Professor rank). MSW from TISS Mumbai; MPhil + PhD PSW from NIMHANS. The Indian counterpart to UTAS Matthewson (AU) as a single-author anchor of a national PA-clinical publication line.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.seshadri-nimhans`, `practitioner:in.nambiar`
+
+<sub>ID: `in.jangam-nimhans`</sub>
+
+### Dr Shekhar P. Seshadri, MBBS, MD (Psychiatry)
+*MBBS; MD Psychiatry; Padma Shri 2018; 40+ years NIMHANS Child & Adolescent Psychiatry*
+Bengaluru · Karnataka · Former Senior Professor, Department of Child & Adolescent Psychiatry, NIMHANS; current Advisor, SAMVAD-NIMHANS (Ministry of Women & Child Development national child-protection initiative)
+
+**Stance:** Senior NIMHANS child psychiatrist whose name carries the clinical PA paper trail in India. Co-author on the NIMHANS PA / custody-disputes publication line (Nambiar, Jangam & Seshadri 2023 IJPM case series; Nambiar, Jangam, Jose & Seshadri 2022 AJP study; Nambiar, Jangam & Seshadri 2024 IJPM qualitative study) and the institutional bridge between the NIMHANS research cluster and the SAMVAD national delivery arm. PA stance sourced via co-authorship on three peer-reviewed papers framing PA as a clinically identifiable and intervenable phenomenon.
+
+**Publications:**
+- Parental Alienation: Case Series from India (Nambiar, Jangam & Seshadri) (2023) — *Indian Journal of Psychological Medicine 45(3):304-306* — <https://journals.sagepub.com/doi/10.1177/02537176221104363>
+- Predictors of behavioral and emotional issues in children involved in custody disputes (Nambiar, Jangam, Jose & Seshadri) (2022) — *Asian Journal of Psychiatry 67:102930*
+- Psychosocial Perspectives on Child Mental Health in Custody Disputes (Nambiar, Jangam & Seshadri) (2024) — *Indian Journal of Psychological Medicine 47(4):371-380* — <https://pmc.ncbi.nlm.nih.gov/articles/PMC11572429/>
+- Advisor, SAMVAD-NIMHANS (national child-protection initiative) (2020) — *Ministry of Women & Child Development / NIMHANS*
+
+**Verification:**
+- <https://nimhanschildprotect.in/meet-the-team/>
+- <https://en.wikipedia.org/wiki/Shekhar_Seshadri>
+- <https://www.researchgate.net/profile/Shekhar_Seshadri>
+- <https://www.practo.com/bangalore/doctor/dr-shekar-sheshadri-psychiatrist>
+
+**Contact:** shekhar@nimhanschildprotect.in; Department of Child & Adolescent Psychiatry, NIMHANS, Hosur Road, Bengaluru 560029
+
+*Notes: Medical Council of India / National Medical Commission (MBBS + MD Psychiatry); NIMHANS faculty credentialing (Senior Professor rank, retired); Padma Shri civilian honour 2018. NMC registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.jangam-nimhans`, `practitioner:in.nambiar`, `practitioner:in.samvad-nimhans`
+
+<sub>ID: `in.seshadri-nimhans`</sub>
+
+### Priyanka P. Nambiar, MPhil (Psychiatric Social Work)
+*MPhil Psychiatric Social Work; PhD scholar NIMHANS*
+Bengaluru · Karnataka · Research Scholar, Department of Psychiatric Social Work, NIMHANS, Bengaluru
+
+**Stance:** Lead author on India's entire NIMHANS PA / custody-disputes publication line (Nambiar, Jangam & Seshadri 2023 IJPM case series — lead author; Nambiar, Jangam, Jose & Seshadri 2022 Asian Journal of Psychiatry predictors study — lead author; Nambiar, Jangam & Seshadri 2024 IJPM qualitative study — lead author). PA stance sourced via lead-authorship on three peer-reviewed papers. Research-scholar position; standalone PA leadership not asserted.
+
+**Publications:**
+- Parental Alienation: Case Series from India (2023) — *Indian Journal of Psychological Medicine 45(3):304-306* — <https://journals.sagepub.com/doi/10.1177/02537176221104363>
+- Predictors of behavioral and emotional issues in children involved in custody disputes (2022) — *Asian Journal of Psychiatry 67:102930* — <https://pubmed.ncbi.nlm.nih.gov/34861567/>
+- Psychosocial Perspectives on Child Mental Health in Custody Disputes (2024) — *Indian Journal of Psychological Medicine 47(4):371-380* — <https://pmc.ncbi.nlm.nih.gov/articles/PMC11572429/>
+
+**Verification:**
+- <https://www.researchgate.net/profile/Priyanka-Nambiar>
+- <https://kar.academia.edu/priyankanambiar>
+
+**Contact:** Via NIMHANS Department of Psychiatric Social Work, Hosur Road, Bengaluru 560029; ResearchGate DM
+
+*Notes: Psychiatric Social Work not statutorily registered in India; institutional credentialing via NIMHANS MPhil/PhD scholar status.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.jangam-nimhans`, `practitioner:in.seshadri-nimhans`
+
+<sub>ID: `in.nambiar`</sub>
+
+### Dr Astik Joshi, MBBS, MD (Psychiatry)
+*MBBS (India); Residency Psychiatry (USA); Fellowship Child & Adolescent Psychiatry (USA); Fellowship Forensic Psychiatry (Louisiana, USA); Board-Certified Child & Adolescent Psychiatry, American Board of Psychiatry and Neurology (ABPN); Fellow American Psychiatric Association (FAPA, 2021); former Assistant Professor Department of Psychiatry, Texas Tech University Health Sciences Center, Lubbock TX (Oct 2019 - May 2024)*
+Delhi (Rohini) / Delhi-NCR · Delhi NCT · Founder / Consultant, Veda Child & Adolescent Developmental-Behavioral Clinic, Rohini, Delhi; Consultant Child & Adolescent Psychiatrist, Fortis Healthcare (Vasant Kunj, Shalimar Bagh, FMRI Gurugram)
+
+**Stance:** Practice-site explicit recognition stance: 'Dr Astik Joshi is highly respected for his work in Autism, ADHD, PTSD, Families impacted by Parental Alienation and other child custody related matters. He is the Chair of the Understanding Parental Alienation initiative.' Single private-practice Indian child & adolescent psychiatrist with practice-site explicit PA service line plus ABPN board certification in Child & Adolescent + Forensic Psychiatry plus three Fortis Delhi-NCR affiliations. Practice-site claim of Chair of 'Understanding Parental Alienation' initiative not independently corroborated; PASG / international PA-network membership not publicly confirmed.
+
+**Publications:**
+- Veda Child & Adolescent Developmental-Behavioral Clinic, Rohini, Delhi — practice-site PA service line (2024) — *drastikjoshi.com practice site*
+- Practice-site claim of publications in Journal of the American Academy of Child and Adolescent Psychiatry (specific titles not publicly enumerated) (2023) — *JAACAP (claim per practice site; not independently enumerated)*
+
+**Verification:**
+- <https://www.drastikjoshi.com/>
+- <https://drastikjoshi.com/about.php>
+- <https://www.drastikjoshi.com/contact.php>
+- <https://www.fortishealthcare.com/doctors/dr-astik-joshi-12899>
+- <https://www.linkedin.com/in/astik-joshi-ba40b1347/>
+- <https://health.usnews.com/doctors/astik-joshi-1095352>
+- <https://providers.umchealthsystem.com/details/50528/astik-joshi-child_adolescent_psychiatry-lubbock>
+- <https://www.doximity.com/pub/astik-joshi-md>
+
+**Contact:** https://www.drastikjoshi.com/contact.php ; Veda Clinic, 167/C-13, Sector 3, Rohini, Delhi 110085; Fortis Shalimar Bagh
+
+*Notes: ABPN Board-Certified Child & Adolescent Psychiatry (US); Fellow APA 2021; Indian Medical Register entry (NMC India) searchable at https://www.nmc.org.in/information-desk/indian-medical-register/ . Dual US (ABPN + APA Fellow) and India practice; India NMC registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`
+
+<sub>ID: `in.astik-joshi`</sub>
+
+### Dr Prerna Sharma, PhD, MPhil (Clinical Psychology), MA Psychology
+*MPhil Clinical Psychology (RCI-recognised); PhD; Associate Professor of Clinical Psychology*
+Delhi (Dilshad Garden) · Delhi NCT · Associate Professor, Department of Clinical Psychology, Institute of Human Behaviour and Allied Sciences (IHBAS), Delhi (autonomous body, Government of NCT of Delhi); affiliated with University of Delhi Faculty of Medical Sciences via IHBAS
+
+**Stance:** Author of the sole Indian peer-reviewed PA-engaging publication located outside the NIMHANS cluster: Sharma, P. (2025) 'Parental alienation syndrome (PAS) in India: A complex legal and psychological challenge', International Journal of Social Psychiatry 71(6):1193-1194 (sole author). The 2-page letter engages PAS as a phenomenon requiring legal and psychological response in India rather than dismissing the construct; stance signal is recognition-camp engagement. The IHBAS / NIMHANS bifurcation is the cleanest map of the India PA-recognition literature; Sharma is the North-India / IHBAS counterpart to the Bengaluru NIMHANS line.
+
+**Publications:**
+- Parental alienation syndrome (PAS) in India: A complex legal and psychological challenge (2025) — *International Journal of Social Psychiatry 71(6):1193-1194* — <https://journals.sagepub.com/doi/10.1177/00207640251325836>
+- Unveiling Adolescent Struggles (Sharma, Sen, Sinha & Kumar) (2025) — *Journal of Indian Association for Child and Adolescent Mental Health* — <https://journals.sagepub.com/doi/10.1177/09731342241286273>
+- Influence of Parenting on Maladaptive Schemas and Emotion Regulation in Adolescents Presenting With Self-Injurious Behavior (Shrivastava & Sharma) (2022) — *Journal of Indian Association for Child and Adolescent Mental Health* — <https://journals.sagepub.com/doi/10.1177/09731342221120714>
+
+**Verification:**
+- <https://www.researchgate.net/profile/Prerna-Sharma-12>
+- <https://ihbas.delhi.gov.in/ihbas/clinical-psychology>
+- <https://ihbas.delhi.gov.in/ihbas/academic-departments-institute-and-faculty>
+
+**Contact:** Department of Clinical Psychology, IHBAS, Dilshad Garden, Delhi 110095; ResearchGate DM
+
+*Notes: Rehabilitation Council of India (RCI) registered Clinical Psychologist; IHBAS faculty credentialing (Associate Professor rank); MPhil Clinical Psychology RCI-recognised programme; PhD. RCI CRR number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.ihbas-delhi`
+
+<sub>ID: `in.sharma-ihbas`</sub>
+
+### Dr Kersi Chavda, MBBS, MD (Psychological Medicine)
+*MBBS; MD Psychological Medicine; 34+ years experience; former Chairperson Taskforce on School Psychiatry & Counselling, Indian Psychiatric Society; member IPS ethics group; member Indian Academy of Paediatrics taskforce on developmental difficulties in children*
+Mumbai (Mahim / Girgaon) · Maharashtra · Consultant Psychiatrist, P.D. Hinduja National Hospital & Medical Research Centre (Mahim and Khar branches), Mumbai; Consultant Psychiatrist, Sir H.N. Reliance Foundation Hospital and Research Centre, Mumbai
+
+**Stance:** Senior author on the only Mumbai peer-reviewed publication citing parental alienation syndrome in a post-divorce / single-parent child-development context. Chavda & Nisarga (2023) explicitly cite Gardner: 'parental alienation syndrome, a phenomenon that arises primarily in the context of custody battles, with the manifestation of a child's campaign of denigration ... where the content has no foundation in reality, acting in accord with another parent's manipulation.' PA stance is downstream of the broader single-parenting child-outcomes argument rather than a primary research line; engages PAS as a recognised phenomenon (Gardner-citing) without dismissing the construct.
+
+**Publications:**
+- Single Parenting: Impact on Child's Development (Chavda K. & Nisarga V.) (2023) — *Journal of Indian Association for Child and Adolescent Mental Health 19(1):14-20* — <https://journals.sagepub.com/doi/10.1177/09731342231179017>
+- Former Chairperson IPS Taskforce on School Psychiatry & Counselling (2020) — *Indian Psychiatric Society*
+
+**Verification:**
+- <https://www.hindujahospital.com/doctors/kersi-chavda/>
+- <https://www.rfhospital.org/doctors/psychiatry/dr-kersi-chavda>
+- <https://www.researchgate.net/publication/372943992_Single_Parenting_Impact_on_Child's_Development>
+
+**Contact:** P.D. Hinduja National Hospital, Veer Savarkar Marg, Mahim, Mumbai 400016; appointments 022-67668181 / 022-45108181; Sir H.N. Reliance Foundation Hospital, Prarthana Samaj, Girgaon, Mumbai 400004
+
+*Notes: Maharashtra Medical Council / NMC India (MBBS + MD Psychological Medicine); senior consultant standing 34+ years. MMC number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.nisarga-tnmc`
+
+<sub>ID: `in.chavda-pd-hinduja`</sub>
+
+### Dr Vinyas Nisarga, MBBS, MD (Psychiatry)
+*MBBS; MD Psychiatry; Assistant Professor of Psychiatry*
+Mumbai (Mumbai Central) · Maharashtra · Assistant Professor, Department of Psychiatry, Topiwala National Medical College & B.Y.L. Nair Charitable Hospital, Mumbai (TNMC & Nair Hospital); Early Intervention & Rehabilitation Centre for Children
+
+**Stance:** Junior academic-clinical co-author on the only Mumbai peer-reviewed PA-engaging publication (Chavda & Nisarga 2023 JIACAM single-parenting / Gardner-PAS engagement). PA stance via co-authorship; standalone PA leadership not asserted. Natural early-career PA research collaborator in the BMC government-medical-college pipeline.
+
+**Publications:**
+- Single Parenting: Impact on Child's Development (Chavda K. & Nisarga V.) (2023) — *Journal of Indian Association for Child and Adolescent Mental Health 19(1):14-20* — <https://journals.sagepub.com/doi/10.1177/09731342231179017>
+- TNMC Early Intervention & Rehabilitation Centre for Children (2022) — *TNMC & B.Y.L. Nair Charitable Hospital programmatic*
+
+**Verification:**
+- <https://www.linkedin.com/in/dr-vinyas-nisarga-598244188/>
+- <https://www.medsynapse.app/doctors/dr-vinyas-nisarga-9269>
+
+**Contact:** Via TNMC Department of Psychiatry, Dr A.L. Nair Road, Mumbai Central, Mumbai 400008; LinkedIn DM
+
+*Notes: Maharashtra Medical Council / NMC India (MBBS + MD Psychiatry); Assistant Professor TNMC & Nair Hospital. MMC number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.chavda-pd-hinduja`
+
+<sub>ID: `in.nisarga-tnmc`</sub>
+
+## Middle / methodological camp
+
+### Dr Harish Shetty, MBBS, MD (Psychological Medicine), PGDip Comparative Mythology
+*MBBS Bombay University 1982; MD Psychological Medicine MUHS Nashik 1986; PGDip Comparative Mythology Bombay University; 44+ years practice; long-standing JOTI Nagpur and Judicial Officers Training Centre Uttan Mumbai trainer (20+ years); Distinguished Professor Symbiosis Law School Pune*
+Mumbai (Powai) · Maharashtra · Senior Consultant Psychiatrist, Dr L.H. Hiranandani Hospital Powai Mumbai; private practice Mumbai; lead petitioner Dr Harish Shetty v State of Maharashtra & Ors (Bombay HC PIL on mental-health rights, 2024); active interlocutor to Bombay High Court on setting up a Pre-litigation Counselling Centre for warring couples within HC premises
+
+**Stance:** PA-specific public statement not publicly confirmed; classified middle on the strength of high-conflict-couples / court-attached intervention design rather than explicit PA-construct endorsement. Lead petitioner in the Bombay High Court PIL Dr Harish Shetty v State of Maharashtra & Ors (2024 BHC-AS 14276) on Mental Healthcare Act 2017 implementation — PIL filed 17 February 2022, judgment 22 March 2024. 20+ years training Maharashtra judiciary at JOTI Nagpur and Judicial Officers Training Centre Uttan Mumbai. Contributor to Bombay HC pre-litigation couples counselling centre design. Distinguished Professor Symbiosis Law School Pune. Natural Bombay HC PA-adjacent infrastructure interlocutor and structural counterpart to AFCC-affiliated court-attached clinicians elsewhere.
+
+**Publications:**
+- Dr Harish Shetty v State of Maharashtra & Ors (2024 BHC-AS 14276) — lead petitioner Bombay HC PIL on Mental Healthcare Act 2017 implementation (2024) — *Bombay High Court (PIL filed 17 February 2022; judgment 22 March 2024)* — <https://www.verdictum.in/court-updates/high-courts/2024bhc-as14276-db-dr-harish-shetty-vs-the-state-of-maharashtra-ors-mental-health-1527827>
+- Bombay HC concern over 379 fit-discharge patients stuck at mental health hospital 10 yrs (PIL coverage) (2024) — *Lawbeat* — <https://lawbeat.in/news-updates/bombay-hc-expresses-concern-over-379-fit-discharge-patients-stuck-mental-health-hospital-10-yrs>
+- Bombay HC pre-litigation couples counselling centre design contributor (2024) — *Bombay High Court / Maharashtra judiciary*
+- 20+ years training Maharashtra judiciary at JOTI Nagpur and Judicial Officers Training Centre Uttan Mumbai (2005) — *JOTI / JOTC*
+- Distinguished Professor Symbiosis Law School Pune (2020) — *Symbiosis Law School Pune*
+
+**Verification:**
+- <https://www.practo.com/mumbai/doctor/dr-harish-shetty-psychiatrist-1>
+- <https://m.symlaw.ac.in/distinguished-professor6>
+- <https://www.lybrate.com/mumbai/doctor/dr-harish-shetty-psychiatrist>
+- <https://indiankanoon.org/doc/97442922/>
+- <https://www.verdictum.in/court-updates/high-courts/2024bhc-as14276-db-dr-harish-shetty-vs-the-state-of-maharashtra-ors-mental-health-1527827>
+- <https://lawbeat.in/news-updates/bombay-hc-expresses-concern-over-379-fit-discharge-patients-stuck-mental-health-hospital-10-yrs>
+
+**Contact:** Dr L.H. Hiranandani Hospital, Hill Side Avenue, Hiranandani Gardens, Powai, Mumbai 400076; Practo booking
+
+*Notes: Maharashtra Medical Council / NMC India (MBBS + MD Psychological Medicine); 44+ years practice; senior consultant; Distinguished Professor Symbiosis Law School Pune. MMC number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`
+
+<sub>ID: `in.harish-shetty`</sub>
+
+## Forensic evaluators
+
+### Ms Iti Kanungo
+*Principal Counsellor attached to Family Court Patiala House, New Delhi (Government of NCT of Delhi); specific psychology / social-work credentials not publicly displayed*
+New Delhi (Tilak Marg) · Delhi NCT · Principal Counsellor, Family Court at Patiala House Courts Complex, New Delhi; court-appointed psychological/sociological evaluator in Lt Col Vivek Singh v Romani Singh (2017) 3 SCC 231
+
+**Stance:** Single named court-appointed mental-health-adjacent evaluator on the record in India's apex PA-recognition Supreme Court judgment, Lt Col Vivek Singh v Romani Singh (2017) 3 SCC 231 (Bench Chelameswar J. + Sikri J., decided 13 February 2017). Ms Kanungo submitted the psychological/sociological report dated 12 December 2016 on the child's preferences, which the Supreme Court engaged when defining 'The Parental Alienation Syndrome' and assessing whether the child's stated preference for the father reflected alienation effects. Only individual Indian Family Court counsellor whose work has been engaged by the Supreme Court when defining PAS; structural counterpart of English CAFCASS or Australian FCFCOA Family Report Writer. Classified as forensic-evaluator (court-attached differential practice, not partisan recognition or critique).
+
+**Publications:**
+- Court-submitted psychological/sociological report dated 12 December 2016 on child's preferences in Lt Col Vivek Singh v Romani Singh (2016) — *Family Court Patiala House, New Delhi; engaged by Supreme Court of India in (2017) 3 SCC 231* — <https://main.sci.gov.in/judgment/judis/44566.pdf>
+
+**Verification:**
+- <https://session.delhi.gov.in/session/patiala-house>
+- <https://delhicourts.nic.in/>
+- <https://www.supremecourtcases.com/vivek-singh-v-romani-singh-3/>
+- <https://indiankanoon.org/doc/48721287/>
+- <https://main.sci.gov.in/judgment/judis/44566.pdf>
+
+**Contact:** Via Principal Judge, Family Court, Patiala House Courts Complex, Tilak Marg, New Delhi 110001
+
+*Notes: Family Courts Act 1984 — counsellor appointment via High Court of Delhi; not a standalone regulated profession in India. Family Court counsellor roles in India fall under court-administrative appointment rather than RCI/NMC regulation; typically filled via MA Counselling / Clinical Social Work / Family Therapy. Individual psychology / social-work credentials and current incumbency not publicly confirmed; the Vivek Singh court reference dates from 2016-2017 and current Family-Court attachment status not independently verifiable from public sources. Listed because the named-on-record Supreme-Court engagement is the load-bearing source.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`
+
+<sub>ID: `in.kanungo-iti`</sub>
+
+## Institutional anchors
+
+### SAMVAD-NIMHANS
+*Support, Advocacy & Mental health interventions for children in Vulnerable circumstances And Distress (SAMVAD) — National Initiative & Integrated Resource for Child Protection, Mental Health & Psychosocial Care; Ministry of Women & Child Development, Government of India*
+Bengaluru · Karnataka · Department of Child & Adolescent Psychiatry, NIMHANS, Bengaluru (institutional)
+
+**Stance:** Only national child-protection delivery infrastructure in India formally co-located with the academic PA-recognition cluster. PA-recognition by personnel overlap with Seshadri publication line (Advisor Dr Shekhar Seshadri authored the NIMHANS PA case series + qualitative study); no standalone SAMVAD institutional PA position-paper. Natural institutional gateway for any India PA-judicial-education collaboration. Leadership: Dr K. John Vijay Sagar (Professor & Head Department of Child & Adolescent Psychiatry NIMHANS; PI-SAMVAD); Dr Rajendra K.M. (Assistant Professor; Co-PI SAMVAD); Dr Shekhar Seshadri (Advisor); Sheila Ramaswamy (Technical & Operational Lead).
+
+**Publications:**
+- National training pipeline for State child-protection functionaries (ICPS staff, anganwadi workers, Child Welfare Committees, Juvenile Justice Boards) and judicial personnel (2020) — *NIMHANS / Ministry of Women & Child Development*
+- e-SAMVAD Learning Management System (2021) — *learn.nimhanschildprotect.in*
+- Integration with NIMHANS Department of Child & Adolescent Psychiatry PA research stream (Nambiar / Jangam / Seshadri publication line) (2023) — *NIMHANS*
+
+**Verification:**
+- <https://nimhanschildprotect.in/>
+- <https://nimhanschildprotect.in/about-us/>
+- <https://nimhanschildprotect.in/meet-the-team/>
+- <https://learn.nimhanschildprotect.in/>
+- <https://www.youtube.com/c/NIMHANSChildProtection>
+
+**Contact:** subham@nimhanschildprotect.in (Policy & Law); sagarjohn@gmail.com (PI Dr K. John Vijay Sagar); drrajgowda.cgc@gmail.com (Co-PI Dr Rajendra K.M.); sheila@nimhanschildprotect.in (Operational Lead); c/o Department of Child & Adolescent Psychiatry, NIMHANS, Hosur Road, Bengaluru 560029
+
+*Notes: Institutional; NIMHANS is deemed University under NIMHANS Act 2012. Individual PIs registered via MCI/NMC and NIMHANS faculty credentialing.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.seshadri-nimhans`, `practitioner:in.jangam-nimhans`
+
+<sub>ID: `in.samvad-nimhans`</sub>
+
+### Institute of Human Behaviour and Allied Sciences (IHBAS), Delhi
+*Autonomous body under Government of NCT of Delhi; established 1993 pursuant to SC of India PIL; affiliated with Faculty of Medical Sciences University of Delhi; tertiary-level Psychiatry / Neurology / Behavioural Sciences hospital + academic institute*
+Delhi (Dilshad Garden) · Delhi NCT · 300+ bed neuro-psychiatric tertiary hospital; MPhil Clinical Psychology (RCI-recognised) trainer; MD Psychiatry trainer; host department of Dr Prerna Sharma
+
+**Stance:** Only North-India apex neuro-psychiatric institute with a sourced PA-recognition publication by a current faculty member (Sharma 2025 IJSP — sole India PA paper located outside the NIMHANS cluster). Natural Delhi institutional counterpart to NIMHANS-Bengaluru for any North-India PA-clinical engagement. PA-recognition by personnel overlap with Sharma (2025) IJSP publication; no standalone IHBAS institutional PA position-paper. Other faculty PA stances not publicly confirmed.
+
+**Publications:**
+- Hosts Sharma (2025) IJSP PA-in-India publication with IHBAS Department of Clinical Psychology affiliation (2025) — *International Journal of Social Psychiatry 71(6):1193-1194* — <https://journals.sagepub.com/doi/10.1177/00207640251325836>
+- MPhil Clinical Psychology training pipeline (RCI-recognised) (1993) — *IHBAS / RCI*
+- Tertiary psychiatry and marital-counselling clinical services (1993) — *IHBAS clinical services*
+
+**Verification:**
+- <https://ihbas.delhi.gov.in/>
+- <https://ihbas.delhi.gov.in/ihbas/welcome-institute-human-behaviour-and-allied-sciences>
+- <https://ihbas.delhi.gov.in/ihbas/clinical-psychology>
+- <https://ihbas.delhi.gov.in/ihbas/academic-departments-institute-and-faculty>
+- <https://fmsc.du.ac.in/ihbas.htm>
+
+**Contact:** IHBAS, Dilshad Garden, Delhi 110095 (near UCMS & GTB Hospital, East Delhi); general enquiries via https://ihbas.delhi.gov.in/
+
+*Notes: Institutional; autonomous body under GNCT Delhi; MPhil Clinical Psychology RCI-recognised; MD Psychiatry NMC-recognised. Faculty individually registered via RCI (clinical psychology) or NMC (psychiatry). Former Director Dr Nimesh G. Desai's tenure (2010-2015, 2016-2021) and any institutional PA-stance during that period not publicly enumerated.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.sharma-ihbas`
+
+<sub>ID: `in.ihbas-delhi`</sub>
+
+### TISS — Centre for Equity and Justice for Children and Families, School of Social Work, Mumbai
+*Centre within School of Social Work, Tata Institute of Social Sciences (TISS), Mumbai (established 1936 as Sir Dorabji Tata Graduate School of Social Work; renamed TISS 1944); deemed University under UGC*
+Mumbai (Deonar) · Maharashtra · Centre for Equity and Justice for Children and Families (CEJCF), School of Social Work, TISS Mumbai; offers MA Social Work with Children & Families specialisation
+
+**Stance:** Single national social-work training institution whose alumni (Jangam, MSW TISS) seed the NIMHANS PA-recognition cluster, but whose own CEJCF centre has no PA-specific stance. Straddles PA-critique camp's DV-protective frame and the child-protection / best-interests frame via explicit attention to violence against women alongside child-rights focus. Structurally indispensable Mumbai institutional node for any India PA-social-work professional-development engagement; not a PA-recognition centre in its own right.
+
+**Publications:**
+- MA Social Work (Children & Families) specialisation (2010) — *TISS Mumbai School of Social Work*
+- CEJCF programmatic work on children in difficult circumstances (2015) — *TISS Mumbai*
+- Centre for Women Centered Social Work fieldwork in court / custody / prison settings (2015) — *TISS Mumbai*
+- Department of Medical and Psychiatric Social Work (operational since 1948) — alumni pipeline seeding NIMHANS PA cluster (Jangam MSW source) (1948) — *TISS Mumbai*
+
+**Verification:**
+- <https://tiss.ac.in/view/6/mumbai-campus/school-of-social-work/centre-for-equity-and-justice-for-children-and-fam/about-8/>
+- <https://tiss.ac.in/centres/mumbai-campus/school-of-social-work/>
+- <https://admissions.tiss.ac.in/view/10/admissions/ma-admissions/m-a-social-work-with-children-families/>
+- <https://tiss.ac.in/projects/mumbai-campus/school-of-social-work/>
+- <https://tiss.ac.in/view/6/mumbai-campus/school-of-social-work/women-centre-social-work/fieldwork-11/>
+
+**Contact:** Director, School of Social Work, TISS Mumbai (V.N. Purav Marg, Deonar, Mumbai 400088); CEJCF via https://tiss.ac.in/contact-us
+
+*Notes: Institutional; deemed University status under UGC. Faculty individually registered via Indian Society of Professional Social Work (ISPSW) where applicable; no statutory PSW register.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.jangam-nimhans`
+
+<sub>ID: `in.tiss-cejcf`</sub>
+
+### Indian Psychiatric Society (IPS)
+*National professional association of psychiatrists in India; founded 1947; publisher of Indian Journal of Psychiatry*
+New Delhi (administrative HQ) · National · National psychiatry professional association; publisher of Indian Journal of Psychiatry (Wolters Kluwer Medknow)
+
+**Stance:** No public PA-specific institutional position located. The IPS has no published position-paper, clinical-practice guideline, or association statement on parental alienation as a clinical or forensic construct — this institutional silence is itself a structural finding for the India PA field. Mirrors the Netherlands pattern where positional weight resides in documents and court-engagements rather than association statements. Listed for record-completeness and as the natural addressee for any future India PA professional-body engagement.
+
+**Publications:**
+- Indian Journal of Psychiatry (host venue for India PA-engaging clinical commentary) (1958) — *IPS / Wolters Kluwer Medknow*
+- No PA-specific Clinical Practice Guideline located (2026) — *IPS CPG series (silence is the finding)*
+
+**Verification:**
+- <https://indianpsychiatricsociety.org/>
+- <https://journals.lww.com/indianjpsychiatry/pages/default.aspx>
+
+**Contact:** Via https://indianpsychiatricsociety.org/ ; IPS administrative HQ
+
+*Notes: Listed as a structural-finding-by-silence institutional entry. No PA-specific public statement located in 2025-26 search; institutional silence is the load-bearing finding.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.iapp`
+
+<sub>ID: `in.ips`</sub>
+
+### Indian Association of Clinical Psychologists (IACP / IAPP)
+*National professional association of clinical psychologists in India; founded 1968; partner to Rehabilitation Council of India (RCI) clinical-psychology pathway*
+Bengaluru / Pan-India · National · National clinical-psychology professional association; partner to RCI Central Rehabilitation Register pathway
+
+**Stance:** No public PA-specific institutional position located. The IACP has no published position-paper, clinical-practice guideline, or association statement on parental alienation as a clinical construct — this institutional silence parallels the IPS silence and is the second load-bearing structural finding for the India PA professional-body landscape. Mirrors the Netherlands pattern (positional weight in documents and court-engagements rather than associations), but Indian documents are court-based (Supreme Court Vivek Singh + Delhi HC ABC v XYZ / A v B) rather than association-based.
+
+**Publications:**
+- Indian Journal of Clinical Psychology (host venue for clinical-psychology output) (1974) — *IACP*
+- No PA-specific Clinical Practice Guideline located (2026) — *IACP guidance (silence is the finding)*
+
+**Verification:**
+- <https://iacp.in/>
+- <https://www.rehabcouncil.nic.in/>
+
+**Contact:** Via https://iacp.in/ ; national administrative addressee
+
+*Notes: Listed as a structural-finding-by-silence institutional entry. No PA-specific public statement located in 2025-26 search; institutional silence is the load-bearing finding.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.ips`
+
+<sub>ID: `in.iapp`</sub>
+
+### Lawyers Collective Women's Rights Initiative (LCWRI)
+*Women's-rights legal-services and policy-monitoring initiative within Lawyers Collective; constituted in 1998 under the leadership of Senior Advocate Indira Jaising (former Additional Solicitor General of India 2009-2014, Padma Shri 2005) and Senior Advocate Anand Grover; lead drafter of the Protection of Women from Domestic Violence Act 2005 (PWDVA) through UN-Trust-Fund-supported consultative process; principal monitor of PWDVA implementation through the 'Staying Alive' annual Monitoring & Evaluation Report series 2007-2017+*
+New Delhi (with Mumbai office) · Delhi NCT (national reach) · Lawyers Collective Women's Rights Initiative; partner organisations include UN Trust Fund to End Violence Against Women, Ministry of Women & Child Development, National Commission for Women
+
+**Stance:** Principal institutional drafter of the Protection of Women from Domestic Violence Act 2005 and apex Indian women's-rights legal-services / policy-monitoring NGO carrying the PWDVA-anchored DV-protective register. Indira Jaising (Executive Director, LCWRI) and Pinki Mathur Anurag (Director, Technical, LCWRI) co-edited 'Conflict in the Shared Household: Domestic Violence and the Law in India' (Oxford University Press 2019), the load-bearing scholarly summary of the LCWRI legal-doctrinal frame around PWDVA s.17 right-to-residence, domestic-relationship definitions, and survivor-centred remedy design. LCWRI's CEDAW shadow-report engagement (India Second Shadow Report on CEDAW archived at NYU) and ten-year 'Staying Alive' PWDVA M&E series (2007-2017+) are the load-bearing public documents. IMPORTANT — STANCE QUALIFICATION: no LCWRI public document located in 2026 directly characterising parental alienation or PAS as a DV-survivor-targeting tactic; the PA-construct critique attributed to LCWRI in the parent file's structural_findings[1] is INFERENTIAL (downstream of the PWDVA-anchored DV-protective frame Jaising/Anurag/Grover have built), not document-sourced. LCWRI is the natural addressee for any future India PA-construct critique engagement, but no PA-specific position-paper or court intervention has been located. Listed as institutional carrier of the critique-adjacent DV-protective register, with the PA-construct-specific gap explicitly noted.
+
+**Publications:**
+- Conflict in the Shared Household: Domestic Violence and the Law in India (Jaising I. & Mathur Anurag P., eds.) (2019) — *Oxford University Press* — <https://global.oup.com/academic/product/conflict-in-the-shared-household-9780199489954>
+- Staying Alive: Evaluating Court Orders (PWDVA Monitoring & Evaluation Report) (2017) — *Lawyers Collective Women's Rights Initiative* — <https://lawyerscollective.org/wp-content/uploads/2023/04/Staying-Alive-Evaluating-Court-Orders.pdf>
+- Resource Tool for Monitoring & Evaluation of the PWDVA (2013) — *LCWRI / UN Trust Fund* — <https://www.endvawnow.org/uploads/browser/files/resource_tool_for_monitoring_evaluation_of_pwdva_lawyers_collective.pdf>
+- Manual on the Best Practices under the PWDVA (2009) — *LCWRI* — <http://www.endvawnow.org/uploads/browser/files/manual_on_best_practices_under_pwdva_lawyers_collective.pdf>
+- India Second Shadow Report on CEDAW (2007) — *NYU Faculty Digital Archive* — <https://archive.nyu.edu/handle/2451/42261>
+
+**Verification:**
+- <https://lawyerscollective.org/>
+- <https://global.oup.com/academic/product/conflict-in-the-shared-household-9780199489954>
+- <https://www.unwomen.org/en/news/stories/2012/12/from-campaigning-to-monitoring-making-domestic-violence-laws-meaningful-to-women-in-india>
+- <https://asiapacific.unwomen.org/en/news-and-events/stories/2013/2/6-years-after-introducing-domestic-violence-laws>
+- <https://archive.nyu.edu/handle/2451/42261>
+
+**Contact:** Lawyers Collective, 63/2 Masjid Road, Jangpura, New Delhi 110014; Mumbai office: 7/10 Botawala Building, Horniman Circle, Fort, Mumbai 400001; lc@lawyerscollective.org
+
+*Notes: Two-source verification of existence + affiliation: (1) UN Women feature confirming PWDVA drafting role and Jaising executive directorship; (2) Oxford University Press 2019 book by Jaising & Mathur Anurag confirming LCWRI institutional anchor. Indira Jaising further verified via Padma Shri 2005 + ASG 2009-2014 NMC public record. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. Listed as institutional carrier of critique-adjacent DV-protective register on the strength of the PWDVA-anchored institutional position.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.majlis-mumbai`, `practitioner:in.masum-pune`, `practitioner:in.sakshi-delhi`
+
+<sub>ID: `in.lcwri-delhi`</sub>
+
+### Majlis Legal Centre, Mumbai
+*Women's-rights legal-services and cultural resource centre founded 1990-1991 by Flavia Agnes (Senior Advocate, women's-rights jurist) and Madhushree Dutta (filmmaker); all-women staff including 7+ lawyers; 50,000+ women legally represented since inception; current Director Audrey D'Mello (Advocate, joined 2007); operates 'Majlis Rahat' integrated legal-social-mental-health programme for survivors of sexual and domestic violence*
+Mumbai · Maharashtra · Majlis Legal Centre; advisory engagement with Maharashtra Ministry of Women & Child Development on PWDVA 2005 implementation; collaboration with Mahila Arthik Vikas Mahamandal (MAVIM) on grassroots legal-volunteer training across all 36 Maharashtra districts
+
+**Stance:** Senior Mumbai women's-rights institutional anchor carrying the PWDVA-anchored DV-protective register at state level for Maharashtra. Flavia Agnes' published commentary on custody disputes is the strongest public-facing approach to PA-adjacent territory located in 2026 search: she has stated publicly that custody battles involve 'manipulation' and that 'it is important that women are physically with the children of whom they are fighting for custody' (D+C interview; Free Press Journal Angels-of-Mumbai feature). Agnes & D'Mello co-authored 'Protection of Women from Domestic Violence' Economic and Political Weekly Vol L No. 44 (31 October 2015) on PWDVA implementation gaps including pre-litigation joint-counselling concerns. Agnes is the author of 'Family Law II' (Oxford University Press, 2011, 2nd ed.) which is the standard Indian feminist-jurisprudence text on Hindu Marriage Act, custody under Guardians and Wards Act, and PWDVA interaction. IMPORTANT — STANCE QUALIFICATION: no Majlis public document located in 2026 directly characterising parental alienation / PAS as a DV-survivor-targeting tactic; the PA-construct critique attributed to Majlis in the parent file's structural_findings[1] is INFERENTIAL (downstream of Agnes' custody-manipulation framing and the PWDVA-anchored DV-protective frame), not document-sourced. Listed as institutional carrier of critique-adjacent DV-protective register, with the PA-construct-specific gap explicitly noted. The 'Majlis Rahat' integrated legal-social-mental-health frame is the structurally closest Indian institutional analogue to the European institutional-DV-protective critique register.
+
+**Publications:**
+- Family Law II: Marriage, Divorce, and Matrimonial Litigation (Agnes F.) (2011) — *Oxford University Press* — <https://global.oup.com/academic/product/family-law-ii-9780198072201>
+- Protection of Women from Domestic Violence (Agnes F. & D'Mello A.) (2015) — *Economic and Political Weekly Vol L No. 44, 31 October 2015* — <https://groups.google.com/g/majlislegalcentre/c/1mDbhIC4mTE/m/1cSuBGgbBgAJ>
+- Majlis Rahat integrated legal-social-mental-health programme for DV/sexual violence survivors (2010) — *Majlis Legal Centre programmatic*
+- Majlis-MAVIM partnership for grassroots legal-volunteer training across 36 Maharashtra districts (2024) — *Majlis / Maharashtra State Government* — <https://www.freepressjournal.in/mumbai/majlis-partners-with-mavim-to-expand-grassroots-legal-support-network-for-women-across-maharashtra>
+
+**Verification:**
+- <https://majlislaw.com/>
+- <https://en.wikipedia.org/wiki/Flavia_Agnes>
+- <https://www.legallyindia.com/Blogs/conversation-with-flavia-agnes-director-majlis-legal-centre>
+- <https://jilsblognujs.wordpress.com/2015/08/06/conversation-with-flavia-agnes-director-majlis-legal-centre/>
+- <https://www.dandc.eu/en/article/legal-rights-mean-little-if-you-cant-claim-them-india-womens-rights-lawyer-flavia-agnes>
+- <https://www.ppiapraxis.in/lecture-notes-what-is-gender-justice-with-adv-audrey-dmello/>
+- <https://yourstory.com/2015/09/audrey-dmello>
+- <https://www.freepressjournal.in/angels-of-mumbai/flavia-agnes-mission-to-help-women-facing-domestic-and-sexual-violence-through-majlis-video>
+
+**Contact:** Majlis Legal Centre, A-2/4 Golden Valley, Kalina Kurla Road, Santacruz East, Mumbai 400055; helpline 7506732641 (Mon-Fri 11am-7pm); majlislaw@majlislaw.com; Director Audrey D'Mello
+
+*Notes: Two-source verification of existence + affiliation: (1) Wikipedia + Oxford University Press author page for Flavia Agnes confirming Majlis co-founder status; (2) D+C and Your Story feature articles + PPIA Praxis lecture confirming Audrey D'Mello directorship. Flavia Agnes legal credentials further verified via OUP author profile and EPW co-authorship. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. Listed as institutional carrier of critique-adjacent DV-protective register; Agnes' published custody-manipulation framing is the closest public-facing PA-adjacent statement.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.lcwri-delhi`, `practitioner:in.masum-pune`, `practitioner:in.sakshi-delhi`
+
+<sub>ID: `in.majlis-mumbai`</sub>
+
+### MASUM (Mahila Sarvangeen Utkarsh Mandal), Pune
+*Rural / peri-urban feminist women's-rights grassroots organisation co-founded 1987 by Dr Manisha Gupte and Dr Ramesh Awasthi in drought-prone Purandar block of Pune district; operates across 20+ villages in Pune and Ahmednagar districts, Maharashtra; rights-based feminist-socialist approach combining women's health rights, violence-against-women response, economic empowerment, and political participation; current Founder & Co-Convenor Dr Manisha Gupte (Lancet-profiled 2010; WomenLift Health profile)*
+Pune (rural Purandar / Bhor / Saswad) · Maharashtra · MASUM (Mahila Sarvangeen Utkarsh Mandal); grantee of MacArthur Foundation, Harvard T.H. Chan Maternal Health Task Force, UN-VAWG, Prevent VAW Global Programme; operates Samvaad counselling centres at Saswad and Bhor talukas
+
+**Stance:** Pre-eminent rural Maharashtra feminist grassroots women's-rights organisation carrying the DV-protective register at village level through the Samvaad counselling centres (Saswad and Bhor talukas) and the Aadhar Gat village-level support-group infrastructure. Manisha Gupte is the author of 'Why Feminism Should Inform Our Routine Interventions in Domestic Violence' (Taylor & Francis chapter) — the load-bearing scholarly statement of MASUM's feminist-frame DV intervention methodology, which centres women's-rights-as-human-rights and rejects depoliticised individual-pathology framings of intimate-partner violence. Pinki Mathur Anurag (LCWRI Director, Technical) served as Research Consultant for a MASUM/Swiss Aid study on PWDVA Service Providers in Maharashtra, evidencing the LCWRI-MASUM PWDVA-monitoring axis. IMPORTANT — STANCE QUALIFICATION: no MASUM public document located in 2026 directly characterising parental alienation / PAS as a DV-survivor-targeting tactic; rural focus is on Aadhar Gat household-level emergency intervention, paralegal Saathis programme, and Samvaad counselling rather than urban Family Court custody-evaluation territory where PA arises. The PA-construct critique attributed to MASUM in the parent file's structural_findings[1] is INFERENTIAL (downstream of the Gupte feminist-frame DV intervention methodology), not document-sourced. Listed as institutional carrier of critique-adjacent feminist DV-protective register, with the PA-construct-specific gap and rural/urban-PA-locus mismatch explicitly noted.
+
+**Publications:**
+- Why Feminism Should Inform Our Routine Interventions in Domestic Violence (Gupte M.) (2020) — *Taylor & Francis (chapter in edited volume on feminist DV intervention)* — <https://www.taylorfrancis.com/chapters/edit/10.4324/9780367818531-4/feminism-inform-routine-interventions-domestic-violence-manisha-gupte>
+- Articles by Dr Manisha Gupte (collected feminist-frame writings) (2015) — *MASUM India* — <https://www.masum-india.org.in/manisha.html>
+- MASUM Annual Report 2014 (programmatic record incl. Samvaad counselling centres + Aadhar Gat infrastructure) (2014) — *MASUM India* — <https://www.masum-india.org.in/images/annualreport2014.pdf>
+- Manisha Gupte — working to empower women in rural India (Lancet profile) (2010) — *The Lancet* — <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61867-3/fulltext>
+- Programme on Countering Violence Against Women (Samvaad counselling centres at Saswad and Bhor talukas; Aadhar Gat village support-groups) (1995) — *MASUM programmatic* — <https://www.masum-india.org.in/violence.html>
+
+**Verification:**
+- <https://www.masum-india.org.in/>
+- <https://www.masum-india.org.in/about.html>
+- <https://www.masum-india.org.in/violence.html>
+- <https://www.masum-india.org.in/trustees.html>
+- <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61867-3/fulltext>
+- <https://www.womenlifthealth.org/profile/manisha-gupte/>
+- <https://www.macfound.org/grantee/masum-mahila-sarvangeen-utkarsh-mandal-29204/>
+- <https://ww2preventvawg.org/grantee-partners/mahila-sarvangeen-utkarsh-mandal-masum>
+
+**Contact:** MASUM, Purandar / Pune district, Maharashtra; via https://www.masum-india.org.in/ ; Samvaad counselling centres at Saswad and Bhor
+
+*Notes: Two-source verification of existence + affiliation: (1) Lancet 2010 profile + MacArthur Foundation grantee record confirming Gupte founder status and rural Pune focus; (2) Harvard T.H. Chan MHTF + UN Prevent-VAWG grantee records confirming feminist DV-protective frame. Manisha Gupte further verified via Taylor & Francis 2020 chapter authorship. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. Rural village-level DV-intervention focus is geographically distant from urban Family Court PA-construct territory, which weakens the inference somewhat but does not eliminate it given Gupte's feminist-frame scholarly anchor and the PWDVA-monitoring partnership with LCWRI.*
+
+**See also:** `jurisdiction:india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.lcwri-delhi`, `practitioner:in.majlis-mumbai`, `practitioner:in.sakshi-delhi`
+
+<sub>ID: `in.masum-pune`</sub>
+
+### Sakshi (Violence Intervention Centre), New Delhi
+*Rights-based capacity-building and violence-intervention NGO founded 1992 by Senior Advocate Naina Kapur and Jasjit Purewal; current Executive Director Smita Bharti (joined Sakshi 1995, ED since 2007); load-bearing institutional anchor of the Vishaka Guidelines 1997 (Supreme Court of India workplace-sexual-harassment guidelines that became the foundation for the Sexual Harassment of Women at Workplace [Prevention, Prohibition and Redressal] Act 2013); current programmes include The Rakshin Project youth-led child-sexual-abuse-prevention movement (40,000+ college reach)*
+New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic partnerships with Delhi High Court Mediation & Conciliation Centre, Delhi Commission for Women, Ministry of Women & Child Development
+
+**Stance:** Senior Delhi women's-rights and child-sexual-abuse / gender-based-violence intervention NGO whose Vishaka Guidelines 1997 work is the load-bearing public-document evidence of judicial-system engagement methodology. Naina Kapur (co-founder, former director) is the lead architect of the Vishaka Guidelines and the foundation for the POSH Act 2013. Smita Bharti (Executive Director since 2007) is a verified domestic-abuse survivor and uses theatre-based intervention with traumatised women; her Better India autobiographical feature (2024) is the strongest published-public-record signal of Sakshi's survivor-centred frame. Oxfam Policy & Practice published a profile of Sakshi as a 'Violence Intervention Centre' anchoring the load-bearing institutional designation. IMPORTANT — STANCE QUALIFICATION: no Sakshi public document located in 2026 directly characterising parental alienation / PAS as a DV-survivor-targeting tactic. Sakshi's primary programme focus is child sexual abuse, workplace sexual harassment, and gender-based violence rather than custody-evaluation / Family Court PA-construct territory specifically. The PA-construct critique attributed to Sakshi in the parent file's structural_findings[1] is INFERENTIAL (downstream of the CSA + DV-protective frame), not document-sourced. The CSA-adjacency is the most direct potential PA-construct engagement vector (CSA allegations are a known PA-construct litigation flashpoint), but no specific Sakshi position on PA in CSA-adjacent custody is located. Listed as institutional carrier of critique-adjacent CSA + DV-protective register, with the PA-construct-specific gap explicitly noted.
+
+**Publications:**
+- Vishaka Guidelines 1997 (Supreme Court of India guidelines on workplace sexual harassment, lead architect Naina Kapur via Sakshi PIL) (1997) — *Supreme Court of India (Vishaka & Others v State of Rajasthan, AIR 1997 SC 3011)*
+- I am Witness to...: A profile of Sakshi Violence Intervention Centre in New Delhi, India (2008) — *Oxfam Policy & Practice* — <https://policy-practice.oxfam.org/resources/i-am-witness-to-a-profile-of-sakshi-violence-intervention-centre-in-new-delhi-i-131371/>
+- The Rakshin Project (youth-led national child-sexual-abuse-prevention movement; 40,000+ college reach) (2020) — *Sakshi programmatic* — <https://yourstory.com/socialstory/2020/05/sakshi-ngo-child-sexual-abuse-awareness-campaign>
+- Walking Out of an Abusive Marriage, I Now Help Traumatised Women Rewrite Their Stories (Bharti S.) (2024) — *The Better India* — <https://thebetterindia.com/336865/domestic-abuse-survivor-smita-bharti-sakshi-ngo-uses-theatre-to-help-traumatised-women>
+
+**Verification:**
+- <https://sakshi.org.in/>
+- <https://sakshi.org.in/our-history>
+- <https://en.wikipedia.org/wiki/Smita_Bharti>
+- <https://policy-practice.oxfam.org/resources/i-am-witness-to-a-profile-of-sakshi-violence-intervention-centre-in-new-delhi-i-131371/>
+- <https://thecsruniverse.com/articles/our-goal-is-to-break-societal-norms-end-silence-and-eradicate-shame-surrounding-child-sexual-abuse-smita-bharti-executive-director-sakshi>
+- <https://thebetterindia.com/336865/domestic-abuse-survivor-smita-bharti-sakshi-ngo-uses-theatre-to-help-traumatised-women>
+- <https://yourstory.com/socialstory/2020/05/sakshi-ngo-child-sexual-abuse-awareness-campaign>
+
+**Contact:** Sakshi, 665-666/2, Ghitorni Village, Near MCD School, Ghitorni, New Delhi 110030; via https://sakshi.org.in/ ; Executive Director Smita Bharti (s***@sakshi.org.in)
+
+*Notes: Two-source verification of existence + affiliation: (1) Wikipedia + LinkedIn confirming Smita Bharti ED status since 2007; (2) Oxfam Policy & Practice 2008 institutional profile + Sakshi own-site history page. Naina Kapur Vishaka co-architect status separately verified via Supreme Court Vishaka 1997 judgment. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. CSA-adjacency is the most plausible PA-engagement vector but no specific Sakshi PA position located.*
+
+**See also:** `jurisdiction:india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.lcwri-delhi`, `practitioner:in.majlis-mumbai`, `practitioner:in.masum-pune`
+
+<sub>ID: `in.sakshi-delhi`</sub>
+
+## Excluded (with documented reason)
+
+- **Dr Achal Bhagat (Saarthak Mental Health Services, Delhi)** — Verified Apollo Hospitals MBBS MD MRCPsych Senior Consultant Psychiatrist, Chairperson Saarthak; family/marital therapy in service line but no PA-specific publication or public stance located; gender-rights and mental-health-rights advocate (carries DV-protective lens) but no sourced PA stance. Excluded pending sourced PA stance.
+  - Primary source: <https://saarthakmind.com/>
+- **Dr Nimesh G. Desai (former Director IHBAS Delhi)** — Verified Senior Consultant Psychiatrist MD(Psych) MPH MRCPsych; former Director IHBAS 2010-2015 and 2016-2021; 70+ publications; no PA-specific publication or stance located.
+  - Primary source: <https://www.drnimeshgdesai.care/>
+- **Dr Amit Sen + Dr Shelja Sen + Dr Kavita Arora (Children First Delhi/Gurgaon)** — Verified Children First co-founders, 75+ multidisciplinary team across Safdarjung Enclave and Gurgaon, 12,000+ children seen over 10 years; Shelja Sen is narrative family therapist and Dulwich Centre faculty; no PA-specific publication or public stance located for any of the three founders.
+  - Primary source: <https://childrenfirstindia.com/about-us/our-story/>
+- **Dr Roopesh B.N. (NIMHANS Clinical Psychology)** — Verified Additional Professor / Associate Professor Department of Clinical Psychology NIMHANS, 89 publications, 1094 citations; adolescent psychotherapy, OCD, neuropsychology focus; no PA-specific publication located.
+  - Primary source: <https://www.researchgate.net/profile/Bangalore-Roopesh-2>
+- **Dr Sanjay Chugh (Greater Kailash, Delhi)** — Verified Senior Consultant Neuro-Psychiatrist MBBS MD Psychiatry 1991, private practice Greater Kailash since 1991; addiction medicine, adult and child/adolescent psychiatry, regression therapy; no PA-specific publication or stance located.
+  - Primary source: <http://drchugh.com/>
+- **Dr Subho Chakrabarti (PGIMER Chandigarh)** — Verified Professor Department of Psychiatry PGIMER, FAMS, FRCPsych, 319 publications, 8000+ citations; family-burden / caregiver-coping research; no PA-specific publication located.
+  - Primary source: <https://www.researchgate.net/profile/Subho-Chakrabarti>
+- **Dr Pratima Murthy (Director NIMHANS)** — Verified Director NIMHANS since 18 June 2021, Senior Professor Department of Psychiatry, addiction psychiatry leader; institutional role overlaps with NIMHANS PA cluster but no personal PA-specific publication located. Institutional capacity captured under SAMVAD-NIMHANS entry.
+  - Primary source: <https://nimhans.ac.in/directors-profile/>
+- **Prof Anita Ghai (former Ambedkar University Delhi)** — Deceased 11 December 2024; disability-studies academic and feminist scholar; no PA-specific publication located.
+  - Primary source: <https://en.wikipedia.org/wiki/Anita_Ghai>
+- **Dr Madhumita Pandey (Sheffield Hallam University UK; Indian-trained)** — PhD Criminology Anglia Ruskin, MSc Clinical Psychology Bangor, BA Psychology DU; primarily UK-based criminologist on gender-based violence; out-of-country active practice and no PA-specific publication located. Would be UK-file candidate if PA stance emerges.
+  - Primary source: <https://www.shu.ac.uk/about-us/our-people/staff-profiles/madhumita-pandey>
+- **Dr Anuradha Sovani (University of Mumbai psychology)** — Searches returned no PA-specific publication or stance. Not publicly confirmed.
+  - Primary source: <https://mu.ac.in/>
+- **Dr Soumya Bhattacharya (India)** — Searches returned no identifiable Indian psychiatrist of this name with PA-specific publication or stance. Not publicly confirmed.
+  - Primary source: <https://www.nmc.org.in/information-desk/indian-medical-register/>
+- **Dr Samir Parikh (Fortis Delhi Director Mental Health & Behavioural Sciences)** — Verified MBBS DPM MD Psychiatry Civil Hospital Ahmedabad, Director Fortis Mental Health; family therapy and couple counselling specialism; no PA-specific publication or public stance located.
+  - Primary source: <https://www.fortishealthcare.com/doctors/dr-samir-parikh-5961>
+- **Dr Rajesh Sagar (AIIMS Delhi Psychiatry)** — Verified Full Professor Department of Psychiatry AIIMS Delhi, 800+ publications, 144000+ citations; child/adolescent and substance-use focus; no PA-specific publication located.
+  - Primary source: <https://www.researchgate.net/profile/Rajesh-Sagar>
+- **Dr Manju Mehta (AIIMS Delhi Clinical Psychology)** — Verified Professor Clinical Psychology AIIMS, 144 publications, 2231 citations; no PA-specific publication located.
+  - Primary source: <https://www.researchgate.net/profile/Manju-Mehta>
+- **Dr Sagar Mundada (Mumbai)** — Verified consulting psychiatrist Mumbai, MBBS + MD Psychiatry JJ Hospital, deaddiction and medicolegal focus; no PA-specific publication or stance located.
+  - Primary source: <https://www.drsagarmundada.com/>
+- **Centre for Mental Health Law & Policy (CMHLP), Pune** — Verified India Law Society-based mental-health-policy NGO founded 2007; suicide prevention, peer support, youth mental health focus; no PA-specific publication or programme located. Out-of-scope for therapists directory.
+  - Primary source: <https://cmhlp.org/>
+- **Lawyers Collective Women's Rights Initiative (LCWRI), Delhi** — Adjacent / out-of-scope for therapists file (lawyer-side organisation; PWDVA monitoring reports). Belongs in /practitioners-asia-lawyers.md deepening. Comparative-reception relevance: institutional critique register that would engage cases like BVerfG 1 BvR 1076/23 (Germany 2023) as comparative authority for PA-construct critique in DV contexts.
+  - Primary source: <https://www.endvawnow.org/uploads/browser/files/staying_alive_-_6th_monitoring_report.pdf>
+- **Centre for Social Research (CSR), New Delhi** — Verified women's-rights advocacy NGO founded 1983, director Dr Ranjana Kumari; no PA-specific publication or programme located. Out-of-scope and unsourced for PA.
+  - Primary source: <https://www.csrindia.org/ranjana-kumari/>
+- **Majlis Legal Centre, Mumbai** — Adjacent / out-of-scope for therapists directory: women's-rights legal-services organisation founded by Flavia Agnes; carries DV-protective critique register but no clinical-services PA stance located. Belongs in lawyer-side / institutional-critique register rather than therapists directory. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 as authority for PA-construct critique in DV contexts.
+  - Primary source: <https://majlislaw.com/>
+- **MASUM (Mahila Sarvangeen Utkarsh Mandal), Pune** — Adjacent / out-of-scope for therapists directory: women's-rights / health-rights grassroots NGO; carries DV-protective register but no clinical-services PA stance located. Listed for institutional-critique register completeness; comparative-reception relevance to BVerfG 1 BvR 1076/23.
+  - Primary source: <https://masum.org.in/>
+- **Sakshi (Violence Intervention Centre), New Delhi** — Adjacent / out-of-scope for therapists directory: women's-rights / violence-intervention NGO carrying the institutional critique register; no clinical-services PA stance located. Listed for institutional-critique register completeness; comparative-reception relevance to BVerfG 1 BvR 1076/23.
+  - Primary source: <https://www.sakshingo.org/>
+- **Dr Vikram Patel (Sangath / Harvard / Indian-trained psychiatrist)** — Verified Indian psychiatrist (MBBS Goa Medical College; PhD Institute of Psychiatry London; Pershing Square Professor of Global Health Harvard Medical School; Co-founder Sangath NGO Goa); WHO Public Health Champion of India and MacArthur International Prize; global-mental-health-in-LMIC research focus including child development and adolescent mental health. No Patel- or Sangath-authored PA-specific publication or public stance located in 2026 search. Would have flipped structural finding #1 if PA-critique publication were located — none was. Listed here so the negative-result-source is documented.
+  - Primary source: <https://en.wikipedia.org/wiki/Vikram_Patel>
+- **AIIMS Delhi Department of Psychiatry critique-camp scan (Rajesh Sagar / Manju Mehta block + adjacent)** — AIIMS Delhi Psychiatry was scanned opportunistically for any individual critique-camp clinician (per the parent-task brief). Rajesh Sagar (Full Professor, 800+ publications, 144000+ citations) and Manju Mehta (Professor Clinical Psychology, 144 publications) are already in the parent file's excluded[] with verified no-PA-publication. Extended scan for AIIMS-adjacent critique-camp publication located none. Listed to document negative-result-source.
+  - Primary source: <https://www.researchgate.net/profile/Rajesh-Sagar>
+- **NLSIU Bangalore Centre for Child and the Law (CCL)** — Scanned for critique-camp PA engagement per parent-task brief. CCL is the apex Indian law-school child-rights centre engaged with POCSO and Juvenile Justice Act jurisprudence; no PA-construct-specific publication or position located. Out-of-scope for therapists directory (legal academic institution). Listed to document negative-result-source.
+  - Primary source: <https://www.nls.ac.in/>
+- **TISS Mumbai Centre for Excellence in CPCS (Child Protection and Child Services)** — Scanned per parent-task brief. TISS is the load-bearing Indian social-work institution and parent file already lists in.tiss-cejcf for the Centre for Equity and Justice for Children and Families. Extended scan for TISS Centre for Excellence in CPCS produced no PA-construct-specific publication or position. Listed to document negative-result-source.
+  - Primary source: <https://tiss.ac.in/>
+- **Manipal Academy of Higher Education (MAHE) Department of Psychiatry — critique-camp scan** — Scanned per parent-task brief. MAHE Manipal Psychiatry produced no individual critique-camp clinician with peer-reviewed PA-critique publication. Listed to document negative-result-source.
+  - Primary source: <https://manipal.edu/kmc-manipal/department-faculty/department-list/psychiatry.html>
+- **Saurabh Gupta (Socio-Legal Review forum author — NLSIU)** — Author of NLSIU Socio-Legal Review forum article 'Parental Alienation Syndrome: Analysis in India' — argues PAS is an unfounded theory with no empirical evidence in support and condemns its use by the Indian judiciary. This is a critique-camp argument but Gupta is a law student / academic author (not a clinician), and the venue is a student-edited law-school forum (not peer-reviewed). Does NOT flip structural finding #1 (which requires individual critique-camp CLINICIAN with peer-reviewed PA-critique publication). Listed to document the closest located Indian critique-camp authorial signal and the precise reason it does not flip the finding.
+  - Primary source: <https://www.sociolegalreview.com/post/parental-alienation-syndrome>
+
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

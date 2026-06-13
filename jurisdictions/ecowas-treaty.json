@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "id": "ecowas-treaty",
+  "name": "ECOWAS Revised Treaty 1993 (Economic Community of West African States)",
+  "jurisdiction_code": "ECW",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Revised Treaty of the Economic Community of West African States (ECOWAS Revised Treaty) is a regional supranational meta-framework foundational-ECOWAS-treaty framework adopted by the 16 ECOWAS member states in Cotonou — structurally distinctive globally as the only modern West African regional supranational binding-treaty framework operating on formal West-African common-market framework + English-French-Portuguese trilingual framework (ECOWAS Revised Treaty signed 24 July 1993 in Cotonou Benin + effective 23 August 1995 + ECOWAS founded 28 May 1975 via Treaty of Lagos — formal foundational ECOWAS treaty framework establishing comprehensive ECOWAS organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate on formal monolingual frameworks, structurally distinctive globally as the only modern West African regional supranational binding-treaty framework operating formal English-French-Portuguese trilingual treaty framework + only modern African regional supranational binding-treaty framework operating formal customs-union framework via ECOWAS Common External Tariff CET adopted 25 October 2013 + effective 1 January 2015), as the central jurisdiction of the formal ECOWAS Court of Justice framework (ECOWAS Court of Justice ECCJ established 1991 by Protocol on the Community Court of Justice + Supplementary Protocol 2005 granting jurisdiction over human-rights violations in any ECOWAS member state — formal foundational ECOWAS judicial framework, structurally distinctive globally as the only modern West African regional supranational binding-treaty framework operating formal individual-petition human-rights court framework without exhaustion-of-domestic-remedies requirement framework + first regional African court operating formal individual-petition framework without exhaustion-of-domestic-remedies framework), as the central jurisdiction of the formal ECOWAS Protocol on Free Movement framework (ECOWAS Protocol on Free Movement of Persons signed 29 May 1979 in Dakar Senegal providing formal right of entry + residence + establishment framework — formal foundational West-African free-movement framework, structurally distinctive globally as the only modern African regional supranational binding-treaty framework operating formal free-movement-of-persons framework with operational ECOWAS passport framework + ECOWAS travel-certificate framework), and as the central jurisdiction of the formal ECOWAS Democratic Suspension framework (ECOWAS Protocol on Democracy and Good Governance signed 21 December 2001 in Dakar Senegal + ECOWAS Niger 2023 + Burkina Faso 2022 + Mali 2021 + Guinea 2021 suspension framework — formal foundational ECOWAS democratic-suspension framework, structurally distinctive globally as the only modern African regional supranational binding-treaty framework operating formal democratic-suspension framework with operational suspension framework + only modern regional supranational binding-treaty framework with formal Sahel Trio Burkina-Faso-Mali-Niger withdrawal framework effective 29 January 2025). The ECOWAS Revised Treaty is binding upon 12 ECOWAS member states as of 2026 (down from 15 after Sahel Trio Burkina Faso + Mali + Niger withdrawal effective 29 January 2025 + Cape Verde + Côte d'Ivoire + Gambia + Ghana + Guinea + Guinea-Bissau + Liberia + Nigeria + Senegal + Sierra Leone + Togo + Benin) — substantial West African regional coverage framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal ECOWAS Court of Justice framework operates substantial intersection with parental-alienation framework via formal ECOWAS-regional cross-border-children's-rights framework via individual-petition framework. The ECOWAS Authority of Heads of State and Government + ECOWAS Council of Ministers + ECOWAS Commission + ECOWAS Court of Justice + ECOWAS Parliament are the formal ECOWAS bodies; national-level apex courts operate as judicial bodies. The ECOWAS Revised Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "ECOWAS Treaty of Lagos 1975",
+      "title": "Treaty of Lagos",
+      "year": 1975,
+      "url": "https://www.ecowas.int/",
+      "relevance": "Treaty Establishing the Economic Community of West African States signed 28 May 1975 in Lagos Nigeria + effective 20 June 1975 — formal foundational original ECOWAS treaty framework."
+    },
+    {
+      "citation": "ECOWAS Revised Treaty 1993",
+      "title": "ECOWAS Revised Treaty",
+      "year": 1995,
+      "url": "https://www.ecowas.int/",
+      "relevance": "ECOWAS Revised Treaty signed 24 July 1993 in Cotonou Benin + effective 23 August 1995 — formal foundational revised ECOWAS treaty framework establishing comprehensive ECOWAS organisation framework."
+    },
+    {
+      "citation": "ECOWAS Protocol on Free Movement 1979",
+      "title": "ECOWAS Protocol on Free Movement",
+      "year": 1979,
+      "url": "https://www.ecowas.int/",
+      "relevance": "ECOWAS Protocol on Free Movement of Persons signed 29 May 1979 in Dakar Senegal — formal foundational West-African free-movement framework."
+    },
+    {
+      "citation": "ECOWAS Protocol on Court of Justice 1991",
+      "title": "ECOWAS Protocol on Court of Justice",
+      "year": 1996,
+      "url": "https://www.courtecowas.org/",
+      "relevance": "Protocol on the Community Court of Justice signed 6 July 1991 in Abuja Nigeria + Supplementary Protocol 19 January 2005 granting individual-petition jurisdiction over human-rights violations — formal foundational ECOWAS judicial framework."
+    },
+    {
+      "citation": "ECOWAS Protocol on Democracy and Good Governance 2001",
+      "title": "ECOWAS Protocol on Democracy and Good Governance",
+      "year": 2005,
+      "url": "https://www.ecowas.int/",
+      "relevance": "ECOWAS Protocol on Democracy and Good Governance signed 21 December 2001 in Dakar Senegal — formal foundational ECOWAS democratic-suspension framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "ECOWAS Authority of Heads of State and Government",
+      "seat": "Abuja",
+      "url": "https://www.ecowas.int/",
+      "role": "Formal supreme decision-making body for ECOWAS."
+    },
+    {
+      "name": "ECOWAS Commission",
+      "seat": "Abuja",
+      "url": "https://www.ecowas.int/",
+      "role": "Formal executive body for ECOWAS."
+    },
+    {
+      "name": "ECOWAS Court of Justice (ECCJ)",
+      "seat": "Abuja",
+      "url": "https://www.courtecowas.org/",
+      "role": "Apex judicial body for ECOWAS framework — only modern regional African court operating formal individual-petition human-rights framework without exhaustion-of-domestic-remedies requirement framework."
+    },
+    {
+      "name": "ECOWAS Parliament",
+      "seat": "Abuja",
+      "url": "https://parl.ecowas.int/",
+      "role": "Formal parliamentary body for ECOWAS."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ECOWAS Commission",
+      "url": "https://www.ecowas.int/",
+      "role": "ECOWAS Revised Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ECOWAS-related communications via ECCJ framework operate formal anonymisation convention using initials per ECCJ Rules of Procedure on individual-petition framework.",
+  "key_developments": [
+    {
+      "year": 1975,
+      "title": "ECOWAS Treaty of Lagos adopted",
+      "description": "Treaty Establishing the Economic Community of West African States signed 28 May 1975 in Lagos Nigeria by 15 West African states — formal foundational original ECOWAS treaty framework adopted."
+    },
+    {
+      "year": 1979,
+      "title": "ECOWAS Protocol on Free Movement",
+      "description": "ECOWAS Protocol on Free Movement of Persons signed 29 May 1979 in Dakar Senegal — formal foundational West-African free-movement framework adopted."
+    },
+    {
+      "year": 1990,
+      "title": "ECOMOG established in Liberia",
+      "description": "ECOWAS Monitoring Group ECOMOG established 7 August 1990 to intervene in Liberian Civil War — formal foundational ECOWAS military-intervention framework."
+    },
+    {
+      "year": 1991,
+      "title": "Protocol on ECOWAS Court of Justice",
+      "description": "Protocol on the Community Court of Justice signed 6 July 1991 in Abuja Nigeria — formal foundational ECOWAS judicial framework adopted."
+    },
+    {
+      "year": 1993,
+      "title": "ECOWAS Revised Treaty adopted",
+      "description": "ECOWAS Revised Treaty signed 24 July 1993 in Cotonou Benin — formal foundational revised ECOWAS treaty framework adopted."
+    },
+    {
+      "year": 2001,
+      "title": "ECOWAS Protocol on Democracy",
+      "description": "ECOWAS Protocol on Democracy and Good Governance signed 21 December 2001 in Dakar Senegal — formal foundational ECOWAS democratic-suspension framework adopted."
+    },
+    {
+      "year": 2005,
+      "title": "ECCJ Supplementary Protocol — individual-petition jurisdiction",
+      "description": "ECOWAS Court of Justice Supplementary Protocol signed 19 January 2005 granting jurisdiction over human-rights violations in any ECOWAS member state — formal ECOWAS individual-petition human-rights framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "ECOWAS Common External Tariff CET effective",
+      "description": "ECOWAS Common External Tariff CET adopted 25 October 2013 + effective 1 January 2015 — formal ECOWAS customs-union framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "ECOWAS Mali + Guinea suspensions",
+      "description": "ECOWAS suspended Mali 30 May 2021 + Guinea 8 September 2021 over military coups — formal ECOWAS democratic-suspension framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "ECOWAS Burkina Faso suspension",
+      "description": "ECOWAS suspended Burkina Faso 28 January 2022 over military coup — formal ECOWAS democratic-suspension framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "ECOWAS Niger suspension + threatened military intervention",
+      "description": "ECOWAS suspended Niger 30 July 2023 + threatened military intervention over Niger 26 July 2023 coup — formal ECOWAS democratic-suspension framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Sahel Trio announces withdrawal",
+      "description": "Burkina Faso + Mali + Niger Alliance of Sahel States AES announced ECOWAS withdrawal 28 January 2024 — formal Sahel-Trio-withdrawal-announcement framework."
+    },
+    {
+      "year": 2025,
+      "title": "Sahel Trio withdrawal effective",
+      "description": "Burkina Faso + Mali + Niger withdrawal from ECOWAS effective 29 January 2025 — formal ECOWAS membership-reduction framework operational."
+    }
+  ],
+  "structural_findings": [
+    "ECOWAS Revised Treaty operates a regional supranational binding-treaty framework — places ECOWAS Revised Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern West African regional supranational binding-treaty framework operating on formal West-African common-market framework + English-French-Portuguese trilingual framework is structurally distinctive globally — only modern West African regional supranational binding-treaty framework operating formal English-French-Portuguese trilingual treaty framework + only modern African regional supranational binding-treaty framework operating formal customs-union framework.",
+    "Central jurisdiction of formal ECOWAS Court of Justice framework is structurally distinctive globally — only modern West African regional supranational binding-treaty framework operating formal individual-petition human-rights court framework without exhaustion-of-domestic-remedies requirement framework + first regional African court operating formal individual-petition framework without exhaustion-of-domestic-remedies framework.",
+    "Central jurisdiction of formal ECOWAS Protocol on Free Movement framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal free-movement-of-persons framework with operational ECOWAS passport framework.",
+    "Central jurisdiction of formal ECOWAS Democratic Suspension framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal democratic-suspension framework with operational suspension framework + only modern regional supranational binding-treaty framework with formal Sahel Trio Burkina-Faso-Mali-Niger withdrawal framework effective 29 January 2025.",
+    "12 ECOWAS member state ratification framework (down from 15 after Sahel Trio withdrawal) is structurally distinctive globally — substantial West African regional coverage framework.",
+    "1975 Treaty of Lagos + 1979 Free Movement + 1990 ECOMOG + 1991 ECCJ Protocol + 1993 Revised Treaty + 1995 entry into force + 2001 Democracy Protocol + 2005 ECCJ Supplementary Protocol + 2013 CET + 2015 CET effective + 2021 Mali + Guinea + 2022 Burkina Faso + 2023 Niger + 2024 Sahel Trio announcement + 2025 Sahel Trio withdrawal effective ECOWAS-framework-development sequence is structurally distinctive globally.",
+    "ECOWAS Revised Treaty + Protocol on Free Movement + ECCJ Protocol + Supplementary Protocol + Protocol on Democracy formal quintet framework with formal ECOWAS-regional cross-border-children's-rights PA-intersection framework via ECCJ individual-petition framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:african-charter-human-peoples-rights",
+    "jurisdiction:au-constitutive-act",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "ECOWAS",
+      "url": "https://www.ecowas.int/",
+      "publisher": "ECOWAS",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ECOWAS Revised Treaty jurisdiction sidecar — regional supranational West-African common-market foundational-ECOWAS-treaty meta-framework (ECOWAS Treaty of Lagos 1975 + ECOWAS Revised Treaty 1993/1995 + Protocol on Free Movement 1979 + ECCJ Protocol 1991/Supplementary 2005 + Protocol on Democracy 2001 + CET 2013/2015 + 1990 ECOMOG + 2025 Sahel Trio withdrawal). Only modern West African regional supranational binding-treaty framework operating on formal West-African common-market framework globally + only modern African regional supranational binding-treaty framework operating formal customs-union framework + first regional African court operating formal individual-petition framework without exhaustion-of-domestic-remedies framework + central jurisdiction of formal ECOWAS Court of Justice individual-petition human-rights framework + central jurisdiction of formal ECOWAS Protocol on Free Movement + central jurisdiction of formal ECOWAS Democratic Suspension framework + 12 ECOWAS member states (down from 15 after Sahel Trio withdrawal effective 29 January 2025) + 1975 Treaty of Lagos + 1979 Free Movement + 1990 ECOMOG + 1991 ECCJ Protocol + 1993 Revised Treaty + 1995 entry into force + 2001 Democracy Protocol + 2005 ECCJ Supplementary + 2013 CET + 2015 CET effective + 2021-2023 democratic suspensions + 2025 Sahel Trio withdrawal effective ECOWAS-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ECOWAS Court of Justice individual-petition human-rights framework operates substantial intersection with parental-alienation framework via formal ECOWAS-regional cross-border-children's-rights framework via individual-petition framework without exhaustion-of-domestic-remedies requirement framework.",
+    "Joins regional + supranational + West-African-common-market-foundational-ECOWAS-treaty cluster + ECOWAS-Revised-Treaty-only-West-African-regional-supranational-binding-treaty-with-formal-West-African-common-market-globally-distinctive + ECCJ-only-regional-African-court-individual-petition-without-exhaustion-of-domestic-remedies + English-French-Portuguese-trilingual-treaty + ECOWAS-Protocol-on-Free-Movement-1979 + ECOWAS-passport + Protocol-on-Democracy-2001 + CET-2013-2015 + 12-ECOWAS-member-states-reduced-from-15 + Sahel-Trio-Burkina-Faso-Mali-Niger-withdrawal-2025 + 1990-ECOMOG-Liberia + 1991-Abuja-ECCJ-Protocol + 2005-Supplementary-Protocol-individual-petition + ECOWAS-cross-border-children-rights-PA-intersection-via-ECCJ-individual-petition clusters within the corpus."
+  ]
+}

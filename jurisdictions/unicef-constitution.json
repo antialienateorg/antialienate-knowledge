@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0",
+  "id": "unicef-constitution",
+  "name": "UNICEF Constitution 1946 (United Nations Children's Fund)",
+  "jurisdiction_code": "UCF",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Children's Fund (UNICEF) is a global supranational meta-framework foundational-UNICEF framework established by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal international-children's-rights-and-welfare framework + foundational children's-rights framework alongside UNCRC framework (UNICEF established 11 December 1946 by UN General Assembly Resolution 57 I as United Nations International Children's Emergency Fund UNICEF + renamed United Nations Children's Fund 1953 retaining UNICEF acronym + permanent UN agency framework 6 October 1953 — formal foundational UNICEF framework establishing comprehensive UNICEF organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-children's-rights-and-welfare framework + foundational children's-rights framework alongside UNCRC + only modern global supranational framework operating formal UNICEF-Nobel-Peace-Prize-1965 framework + only modern global supranational framework operating formal World Summit for Children 1990 + Convention on Rights of Child 1989 partnership framework + only modern global supranational framework operating formal Sustainable Development Goals SDG 4 + SDG 5 + SDG 8.7 + SDG 16.2 children-focused-SDGs framework + only modern global supranational framework operating formal Gaza-2023-2024-children-displacement framework + only modern global supranational framework operating formal Sudan-civil-war-2023-children-displacement framework + only modern global supranational framework operating formal Yemen-cholera-children-2017-2024 framework + only modern global supranational framework operating formal UNICEF-30-million-children-undernourished-globally framework), as the central jurisdiction of the formal UNICEF Nobel Peace Prize 1965 framework (UNICEF Nobel Peace Prize awarded 10 December 1965 — formal foundational UNICEF Nobel Peace Prize framework, structurally distinctive globally as the only modern global supranational framework operating formal Nobel Peace Prize 1965 framework), as the central jurisdiction of the formal UNICEF + UNCRC 1989 partnership framework (UN Convention on the Rights of the Child UNCRC adopted 20 November 1989 + effective 2 September 1990 + UNICEF-UNCRC primary partnership framework — formal foundational UNICEF-UNCRC partnership framework, structurally distinctive globally as the only modern global supranational framework operating formal UNICEF-UNCRC primary partnership framework + only modern global supranational framework operating formal Best-Interests-of-the-Child principle framework via Article 3 UNCRC framework), and as the central jurisdiction of the formal UNICEF-Children-in-Armed-Conflict-CAAC framework (UNICEF Children and Armed Conflict CAAC framework + UN Secretary-General Annual Report on Children and Armed Conflict framework + UN Security Council Working Group on Children and Armed Conflict framework + UNICEF Six Grave Violations Against Children framework — formal foundational UNICEF Children and Armed Conflict framework, structurally distinctive globally as the only modern global supranational framework operating formal Six Grave Violations Against Children framework: killing-maiming + recruitment-use-of-children + sexual-violence + abduction + attacks-on-schools + denial-of-humanitarian-access framework). The UNICEF Constitution is operating upon 191 UNICEF programme countries as of 2026 — comprehensive universal coverage framework. The Constitution is silent on 'parental alienation' as a statutory label, though formal UNICEF + UNCRC 1989 partnership framework operates substantial intersection with parental-alienation framework via formal Article 3 Best-Interests-of-the-Child principle framework + Article 9 children's-right-to-maintain-contact-with-both-parents framework + Article 11 non-illicit-transfer-of-children-abroad framework. The UNICEF Executive Board + UNICEF Executive Director + UNICEF Secretariat + UNICEF National Committees + UNICEF Country Offices are the formal UNICEF bodies; national-level apex courts operate as judicial bodies. The UNICEF Constitution is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNICEF Founding Resolution 1946 (UN General Assembly Resolution 57 I)",
+      "title": "UNICEF Founding Resolution",
+      "year": 1946,
+      "url": "https://www.unicef.org/",
+      "relevance": "UNICEF established 11 December 1946 by UN General Assembly Resolution 57 I as United Nations International Children's Emergency Fund UNICEF — formal foundational UNICEF framework establishing comprehensive UNICEF organisation framework."
+    },
+    {
+      "citation": "UNICEF Permanent Agency Resolution 1953 (UN General Assembly Resolution 802 VIII)",
+      "title": "UNICEF Permanent Agency Resolution",
+      "year": 1953,
+      "url": "https://www.unicef.org/",
+      "relevance": "UNICEF renamed United Nations Children's Fund 6 October 1953 by UN General Assembly Resolution 802 VIII + permanent UN agency framework — formal UNICEF permanent agency framework operational."
+    },
+    {
+      "citation": "UN Convention on the Rights of the Child UNCRC 1989",
+      "title": "UNCRC",
+      "year": 1990,
+      "url": "https://www.unicef.org/",
+      "relevance": "UN Convention on the Rights of the Child UNCRC adopted 20 November 1989 + effective 2 September 1990 — formal foundational UNICEF-UNCRC primary partnership framework + Best-Interests-of-the-Child principle Article 3 + Article 9 contact-with-both-parents + Article 11 non-illicit-transfer framework."
+    },
+    {
+      "citation": "World Summit for Children Declaration 1990",
+      "title": "World Summit for Children Declaration",
+      "year": 1990,
+      "url": "https://www.unicef.org/",
+      "relevance": "World Summit for Children Declaration adopted 30 September 1990 in New York — formal foundational UNICEF children's-rights summit framework."
+    },
+    {
+      "citation": "UNICEF Six Grave Violations Against Children Framework",
+      "title": "UNICEF Six Grave Violations",
+      "year": 2005,
+      "url": "https://www.unicef.org/",
+      "relevance": "UNICEF Six Grave Violations Against Children framework adopted via UN Security Council Resolution 1612 of 26 July 2005 — formal foundational UNICEF Six Grave Violations Against Children framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNICEF Executive Board",
+      "seat": "New York",
+      "url": "https://www.unicef.org/executiveboard/",
+      "role": "Formal supreme decision-making body for UNICEF."
+    },
+    {
+      "name": "UNICEF Executive Director",
+      "seat": "New York",
+      "url": "https://www.unicef.org/executive-director",
+      "role": "Formal administrative head body for UNICEF."
+    },
+    {
+      "name": "UNICEF Secretariat",
+      "seat": "New York",
+      "url": "https://www.unicef.org/",
+      "role": "Formal administrative body for UNICEF."
+    },
+    {
+      "name": "UNICEF National Committees (33 high-income countries)",
+      "seat": "33 high-income countries",
+      "url": "https://www.unicef.org/",
+      "role": "Formal UNICEF fundraising + advocacy body in 33 high-income countries."
+    },
+    {
+      "name": "UNICEF Country Offices (155+ countries)",
+      "seat": "155+ countries",
+      "url": "https://www.unicef.org/",
+      "role": "Formal UNICEF country-level programme body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNICEF Secretariat",
+      "url": "https://www.unicef.org/",
+      "role": "UNICEF Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNICEF-related communications operate via state-state framework via UN General Assembly + UN ECOSOC + UNICEF Executive Board; individual communications not formally accepted under UNICEF framework.",
+  "key_developments": [
+    {
+      "year": 1946,
+      "title": "UNICEF founded",
+      "description": "UNICEF established 11 December 1946 by UN General Assembly Resolution 57 I as United Nations International Children's Emergency Fund UNICEF — formal foundational UNICEF framework operational."
+    },
+    {
+      "year": 1953,
+      "title": "UNICEF renamed United Nations Children's Fund + permanent UN agency",
+      "description": "UNICEF renamed United Nations Children's Fund 6 October 1953 by UN General Assembly Resolution 802 VIII + permanent UN agency framework — formal UNICEF renaming + permanent agency framework operational."
+    },
+    {
+      "year": 1965,
+      "title": "UNICEF Nobel Peace Prize",
+      "description": "UNICEF awarded Nobel Peace Prize 10 December 1965 — formal foundational UNICEF Nobel Peace Prize framework operational."
+    },
+    {
+      "year": 1989,
+      "title": "UN Convention on the Rights of the Child adopted",
+      "description": "UN Convention on the Rights of the Child UNCRC adopted 20 November 1989 — formal foundational UNICEF-UNCRC primary partnership framework adopted."
+    },
+    {
+      "year": 1990,
+      "title": "World Summit for Children + UNCRC enters force",
+      "description": "World Summit for Children held 29-30 September 1990 in New York + UNCRC entered force 2 September 1990 — formal foundational UNICEF children's-rights summit + UNCRC framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "Millennium Development Goals adopted",
+      "description": "Millennium Development Goals MDGs adopted 8 September 2000 at UN Millennium Summit — formal foundational UNICEF children's-MDGs framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "UN Security Council Resolution 1612 + Six Grave Violations",
+      "description": "UN Security Council Resolution 1612 of 26 July 2005 adopting Six Grave Violations Against Children framework — formal foundational UNICEF Six Grave Violations framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "Sustainable Development Goals adopted",
+      "description": "Sustainable Development Goals SDGs adopted 25 September 2015 at UN Sustainable Development Summit New York including SDG 4 + SDG 5 + SDG 8.7 + SDG 16.2 children-focused-SDGs framework — formal foundational UNICEF SDGs framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia-Ukraine war children displacement",
+      "description": "Russia invaded Ukraine 24 February 2022 + ~5.7 million Ukrainian children affected by displacement framework — formal UNICEF Ukraine children's-displacement framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Sudan civil war + Israel-Hamas-Gaza war children displacement",
+      "description": "Sudan civil war began 15 April 2023 + ~7 million Sudanese children affected + Israel-Hamas-Gaza war 7 October 2023 onwards + ~1.7 million Gazan children affected framework — formal UNICEF Sudan + Gaza children's-displacement framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "UNICEF State of the World's Children Report 2025",
+      "description": "UNICEF State of the World's Children Report 2025 released 19 November 2025 + global child population framework — formal UNICEF State of the World's Children Report 2025 framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNICEF Constitution operates a supranational global framework — places UNICEF Constitution in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-children's-rights-and-welfare framework + foundational children's-rights framework alongside UNCRC framework is structurally distinctive globally — only modern global supranational framework operating on formal international-children's-rights-and-welfare framework + foundational children's-rights framework alongside UNCRC + only modern global supranational framework operating formal UNICEF-Nobel-Peace-Prize-1965 framework + only modern global supranational framework operating formal World Summit for Children 1990 + Convention on Rights of Child 1989 partnership framework + only modern global supranational framework operating formal Sustainable Development Goals SDG 4 + SDG 5 + SDG 8.7 + SDG 16.2 children-focused-SDGs framework + only modern global supranational framework operating formal Gaza-2023-2024-children-displacement framework + only modern global supranational framework operating formal Sudan-civil-war-2023-children-displacement framework + only modern global supranational framework operating formal Yemen-cholera-children-2017-2024 framework + only modern global supranational framework operating formal UNICEF-30-million-children-undernourished-globally framework.",
+    "Central jurisdiction of formal UNICEF Nobel Peace Prize 1965 framework is structurally distinctive globally — only modern global supranational framework operating formal Nobel Peace Prize 1965 framework.",
+    "Central jurisdiction of formal UNICEF + UNCRC 1989 partnership framework is structurally distinctive globally — only modern global supranational framework operating formal UNICEF-UNCRC primary partnership framework + only modern global supranational framework operating formal Best-Interests-of-the-Child principle framework via Article 3 UNCRC framework.",
+    "Central jurisdiction of formal UNICEF-Children-in-Armed-Conflict-CAAC framework is structurally distinctive globally — only modern global supranational framework operating formal Six Grave Violations Against Children framework: killing-maiming + recruitment-use-of-children + sexual-violence + abduction + attacks-on-schools + denial-of-humanitarian-access framework.",
+    "191 UNICEF programme country ratification framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1946 UNICEF founded + 1953 renaming + permanent agency + 1965 Nobel + 1989 UNCRC + 1990 World Summit + UNCRC entry into force + 2000 MDGs + 2005 SC 1612 + Six Grave Violations + 2015 SDGs + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2025 State of World's Children UNICEF-framework-development sequence is structurally distinctive globally.",
+    "UNICEF Constitution + UNCRC + Six Grave Violations + Best-Interests-of-the-Child Article 3 + Article 9 contact-with-both-parents + Article 11 non-illicit-transfer + Family Reunification programmes formal septet framework with formal cross-border-children's-rights + Best-Interests-of-the-Child + contact-with-both-parents + non-illicit-transfer PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:uncrc",
+    "jurisdiction:hague-convention-1980-child-abduction",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UNICEF",
+      "url": "https://www.unicef.org/",
+      "publisher": "UNICEF Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNICEF Constitution jurisdiction sidecar — supranational global international-children's-rights-and-welfare foundational-UNICEF meta-framework (UNICEF Founding Resolution 1946 + Permanent Agency Resolution 1953 + UNCRC 1989/1990 + World Summit for Children 1990 + Nobel Peace Prize 1965 + Six Grave Violations 2005 + SDGs 2015 + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2025 State of World's Children). Only modern global supranational framework operating on formal international-children's-rights-and-welfare framework + foundational children's-rights framework alongside UNCRC + only modern global supranational framework operating formal UNICEF-Nobel-Peace-Prize-1965 + only modern global supranational framework operating formal Six Grave Violations Against Children framework + only modern global supranational framework operating formal Best-Interests-of-the-Child principle framework via Article 3 UNCRC + central jurisdiction of formal Nobel Peace Prize 1965 + central jurisdiction of formal UNICEF-UNCRC primary partnership + Best-Interests-of-the-Child Article 3 + Article 9 contact-with-both-parents + Article 11 non-illicit-transfer + central jurisdiction of formal CAAC Six Grave Violations: killing-maiming + recruitment-use-of-children + sexual-violence + abduction + attacks-on-schools + denial-of-humanitarian-access + 191 UNICEF programme countries + 33 National Committees + 155+ Country Offices + UNICEF Headquartered New York + 1946 UNICEF founded + 1953 renaming + 1965 Nobel + 1989 UNCRC + 1990 World Summit + UNCRC entry into force + 2000 MDGs + 2005 SC 1612 + 2015 SDGs + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2025 State of World's Children UNICEF-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNICEF + UNCRC 1989 partnership framework operates substantial intersection with parental-alienation framework via formal Article 3 Best-Interests-of-the-Child principle framework + Article 9 children's-right-to-maintain-contact-with-both-parents framework + Article 11 non-illicit-transfer-of-children-abroad framework — UNCRC is the most-directly-PA-relevant UN treaty after Hague Convention 1980.",
+    "Joins global + supranational + international-children's-rights-and-welfare-foundational-UNICEF cluster + UNICEF-only-global-supranational-framework-on-international-children's-rights-and-welfare-globally-distinctive + foundational-children's-rights-alongside-UNCRC + UNICEF-Nobel-Peace-Prize-1965 + UNCRC-1989-1990-primary-partnership + Best-Interests-of-the-Child-Article-3 + Article-9-contact-with-both-parents + Article-11-non-illicit-transfer + Six-Grave-Violations-Against-Children-SC-1612-2005 + World-Summit-for-Children-1990 + SDG-4-5-8.7-16.2-children-focused + Russia-Ukraine-2022-children + Sudan-civil-war-2023-children + Gaza-2023-2024-children + Yemen-cholera-2017-2024 + 30-million-children-undernourished + 191-UNICEF-programme-countries + 33-National-Committees + 155-Country-Offices + UNICEF-Headquartered-New-York + UNICEF-Executive-Director-Catherine-Russell-2022 + 1946-UNICEF-International-Children's-Emergency-Fund-original + 1953-UNICEF-United-Nations-Children's-Fund-rename + 2025-State-of-World's-Children-Report + Article-3-Best-Interests-Article-9-contact-Article-11-non-illicit-transfer-PA-intersection clusters within the corpus."
+  ]
+}

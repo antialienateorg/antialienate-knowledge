@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "id": "unfpa-mandate",
+  "name": "UNFPA Mandate 1969 (UN Population Fund)",
+  "jurisdiction_code": "UFP",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Population Fund (UNFPA) is a global supranational meta-framework foundational-UNFPA framework established by the UN Secretary-General — structurally distinctive globally as the only modern global supranational framework operating on formal international-sexual-and-reproductive-health-and-rights framework + foundational SRHR framework alongside ICPD framework (UNFPA established 6 July 1967 as Trust Fund for Population Activities by UN Secretary-General U Thant + renamed UN Fund for Population Activities 1969 + brought under UN General Assembly authority 18 December 1972 by UN General Assembly Resolution 3019 XXVII + renamed United Nations Population Fund 1987 retaining UNFPA acronym — formal foundational UNFPA framework establishing comprehensive UNFPA organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-sexual-and-reproductive-health-and-rights framework + foundational SRHR framework alongside ICPD + only modern global supranational framework operating formal International Conference on Population and Development ICPD Cairo 1994 + 25th anniversary 2019 + 30th anniversary 2024 framework + only modern global supranational framework operating formal SDG 3.7 + SDG 5.6 SRHR-focused-SDGs framework + only modern global supranational framework operating formal Three Zeros 2030 framework: zero unmet need for family planning + zero preventable maternal deaths + zero gender-based violence + zero harmful practices framework + only modern global supranational framework operating formal Trump-administration-Global-Gag-Rule oscillation 1984-2017-2021-2025 framework + only modern global supranational framework operating formal Helms-Amendment-1973 framework + only modern global supranational framework operating formal Trump-administration-UNFPA-funding-cuts 2017-2021-2025 oscillation framework + only modern global supranational framework operating formal Taliban-2021-women-erasure UNFPA-response framework + only modern global supranational framework operating formal Sudan-civil-war-2023 + Gaza-2023-2024 + Yemen cholera + Ukraine UNFPA-SRHR-response framework), as the central jurisdiction of the formal ICPD Cairo 1994 + ICPD30 2024 framework (International Conference on Population and Development ICPD held 5-13 September 1994 in Cairo Egypt + ICPD Programme of Action adopted 13 September 1994 + ICPD+5 + ICPD+10 + ICPD+15 + ICPD+20 + ICPD+25 + ICPD+30 anniversary 2024 framework providing formal SRHR rights-based-framework — formal foundational ICPD framework, structurally distinctive globally as the only modern global supranational framework operating formal ICPD rights-based-SRHR framework + only modern global supranational framework operating formal 30-year-anniversary ICPD30 2024 framework), as the central jurisdiction of the formal UNFPA Three Zeros 2030 framework (UNFPA Three Zeros 2030 framework: zero unmet need for family planning + zero preventable maternal deaths + zero gender-based violence + zero harmful practices framework adopted 2018 — formal foundational UNFPA Three Zeros 2030 framework, structurally distinctive globally as the only modern global supranational framework operating formal Three Zeros 2030 framework), and as the central jurisdiction of the formal US-Funding-Helms-Amendment + Global-Gag-Rule oscillation framework (US Helms Amendment to the Foreign Assistance Act 1973 + Mexico City Policy Global Gag Rule first imposed 1984 by Reagan + repealed 1993 by Clinton + re-imposed 2001 by Bush + repealed 2009 by Obama + re-imposed 2017 by Trump + repealed 2021 by Biden + re-imposed 2025 by Trump framework — formal foundational US-Helms-Amendment + Global-Gag-Rule oscillation framework, structurally distinctive globally as the only modern global supranational framework operating formal US-Helms-Amendment + Global-Gag-Rule oscillation framework). The UNFPA Mandate is operating upon 150+ countries field operations + global coverage framework — comprehensive sexual-and-reproductive-health-and-rights coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UNFPA Adolescent SRHR + Maternal Health framework operates limited intersection with parental-alienation framework via formal cross-border-adolescent-SRHR-consent-from-parents framework. The UNFPA Executive Board + UNFPA Executive Director + UNFPA Secretariat + UNFPA Country Offices are the formal UNFPA bodies; national-level apex courts operate as judicial bodies. The UNFPA Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNFPA Founding 1967 (Trust Fund for Population Activities)",
+      "title": "UNFPA Founding",
+      "year": 1967,
+      "url": "https://www.unfpa.org/",
+      "relevance": "UNFPA established 6 July 1967 as Trust Fund for Population Activities by UN Secretary-General U Thant — formal foundational UNFPA framework establishing comprehensive UNFPA organisation framework."
+    },
+    {
+      "citation": "UN General Assembly Resolution 3019 XXVII 1972",
+      "title": "UNFPA UN General Assembly Authority Resolution",
+      "year": 1972,
+      "url": "https://www.unfpa.org/",
+      "relevance": "UNFPA brought under UN General Assembly authority 18 December 1972 by UN General Assembly Resolution 3019 XXVII — formal UNFPA UN General Assembly authority framework."
+    },
+    {
+      "citation": "ICPD Programme of Action 1994",
+      "title": "ICPD Programme of Action",
+      "year": 1994,
+      "url": "https://www.unfpa.org/",
+      "relevance": "International Conference on Population and Development ICPD Programme of Action adopted 13 September 1994 in Cairo Egypt — formal foundational ICPD rights-based-SRHR framework."
+    },
+    {
+      "citation": "UNFPA Three Zeros 2030 Strategic Plan 2018-2021",
+      "title": "UNFPA Three Zeros 2030",
+      "year": 2018,
+      "url": "https://www.unfpa.org/",
+      "relevance": "UNFPA Three Zeros 2030 framework: zero unmet need for family planning + zero preventable maternal deaths + zero gender-based violence + zero harmful practices framework adopted 2018 — formal foundational UNFPA Three Zeros 2030 framework."
+    },
+    {
+      "citation": "ICPD30 Nairobi Statement 2024",
+      "title": "ICPD30 Nairobi Statement",
+      "year": 2024,
+      "url": "https://www.unfpa.org/",
+      "relevance": "ICPD30 Nairobi Statement adopted 2024 at ICPD30 commemoration + 30th anniversary of Cairo ICPD framework — formal foundational ICPD30 framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNFPA Executive Board",
+      "seat": "New York",
+      "url": "https://www.unfpa.org/executive-board",
+      "role": "Formal supreme decision-making body for UNFPA."
+    },
+    {
+      "name": "UNFPA Executive Director",
+      "seat": "New York",
+      "url": "https://www.unfpa.org/",
+      "role": "Formal administrative head body for UNFPA — UNFPA Executive Director Natalia Kanem 2017-2024 + Diene Keita Acting Executive Director 2024 + new Executive Director 2025 framework."
+    },
+    {
+      "name": "UNFPA Secretariat",
+      "seat": "New York",
+      "url": "https://www.unfpa.org/",
+      "role": "Formal administrative body for UNFPA."
+    },
+    {
+      "name": "UNFPA Country Offices (150+ countries)",
+      "seat": "150+ countries",
+      "url": "https://www.unfpa.org/",
+      "role": "Formal UNFPA country-level operations body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNFPA Secretariat",
+      "url": "https://www.unfpa.org/",
+      "role": "UNFPA Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNFPA-related communications operate via state-state framework via UN ECOSOC + UNFPA Executive Board; individual communications limited under UNFPA framework + formal anonymisation convention under UNFPA SRHR data-protection framework.",
+  "key_developments": [
+    {
+      "year": 1967,
+      "title": "UNFPA established as Trust Fund for Population Activities",
+      "description": "UNFPA established 6 July 1967 as Trust Fund for Population Activities by UN Secretary-General U Thant — formal foundational UNFPA framework operational."
+    },
+    {
+      "year": 1969,
+      "title": "UNFPA renamed UN Fund for Population Activities + operations begin",
+      "description": "UNFPA renamed UN Fund for Population Activities 1969 + operations began 1969 — formal foundational UNFPA operational framework operational."
+    },
+    {
+      "year": 1972,
+      "title": "UNFPA UN General Assembly Authority",
+      "description": "UNFPA brought under UN General Assembly authority 18 December 1972 by UN General Assembly Resolution 3019 XXVII — formal UNFPA UN General Assembly authority framework operational."
+    },
+    {
+      "year": 1973,
+      "title": "Helms Amendment to US Foreign Assistance Act",
+      "description": "Helms Amendment to Foreign Assistance Act adopted 30 December 1973 prohibiting US foreign-assistance funding for abortion-as-method-of-family-planning — formal Helms-Amendment framework operational."
+    },
+    {
+      "year": 1984,
+      "title": "Mexico City Policy Global Gag Rule first imposed by Reagan",
+      "description": "Mexico City Policy Global Gag Rule first imposed 1984 by Reagan administration prohibiting US foreign-assistance funding for foreign NGOs providing abortion services or counseling — formal Global-Gag-Rule first-imposition framework operational."
+    },
+    {
+      "year": 1987,
+      "title": "UNFPA renamed United Nations Population Fund",
+      "description": "UNFPA renamed United Nations Population Fund 1987 retaining UNFPA acronym — formal UNFPA renaming framework operational."
+    },
+    {
+      "year": 1994,
+      "title": "ICPD Cairo + ICPD Programme of Action",
+      "description": "International Conference on Population and Development ICPD held 5-13 September 1994 in Cairo Egypt + ICPD Programme of Action adopted 13 September 1994 — formal foundational ICPD rights-based-SRHR framework operational."
+    },
+    {
+      "year": 2017,
+      "title": "Trump-administration first UNFPA-funding-cut + Global Gag Rule re-imposed",
+      "description": "Trump-administration first UNFPA-funding-cut April 2017 + Global Gag Rule re-imposed 23 January 2017 + Expanded Global Gag Rule Protecting Life in Global Health Assistance Policy May 2017 — formal Trump-UNFPA-cuts + Expanded-Global-Gag-Rule framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Biden-administration restored UNFPA-funding + Global Gag Rule repealed + Taliban + Mahsa Amini",
+      "description": "Biden-administration restored UNFPA funding May 2021 + Global Gag Rule repealed 28 January 2021 + Taliban took Kabul 15 August 2021 + UNFPA response framework — formal Biden-UNFPA-restored + Taliban-UNFPA-response framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "ICPD30 Nairobi Statement + 30th anniversary",
+      "description": "ICPD30 Nairobi Statement adopted 2024 at ICPD30 commemoration + 30th anniversary of Cairo ICPD framework — formal foundational ICPD30 framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-administration second UNFPA-funding-cut + Global Gag Rule re-imposed",
+      "description": "Trump-administration second UNFPA-funding-cut 2025 + Global Gag Rule re-imposed 24 January 2025 — formal Trump-UNFPA-cuts second-time + Global-Gag-Rule re-imposition framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNFPA Mandate operates a supranational global framework — places UNFPA Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-sexual-and-reproductive-health-and-rights framework + foundational SRHR framework alongside ICPD framework is structurally distinctive globally — only modern global supranational framework operating on formal international-sexual-and-reproductive-health-and-rights framework + foundational SRHR framework alongside ICPD + only modern global supranational framework operating formal International Conference on Population and Development ICPD Cairo 1994 + 25th anniversary 2019 + 30th anniversary 2024 framework + only modern global supranational framework operating formal SDG 3.7 + SDG 5.6 SRHR-focused-SDGs framework + only modern global supranational framework operating formal Three Zeros 2030 framework + only modern global supranational framework operating formal Trump-administration-Global-Gag-Rule oscillation 1984-2017-2021-2025 framework + only modern global supranational framework operating formal Helms-Amendment-1973 framework + only modern global supranational framework operating formal Trump-administration-UNFPA-funding-cuts 2017-2021-2025 oscillation framework + only modern global supranational framework operating formal Taliban-2021-women-erasure UNFPA-response framework + only modern global supranational framework operating formal Sudan-civil-war-2023 + Gaza-2023-2024 + Yemen cholera + Ukraine UNFPA-SRHR-response framework.",
+    "Central jurisdiction of formal ICPD Cairo 1994 + ICPD30 2024 framework is structurally distinctive globally — only modern global supranational framework operating formal ICPD rights-based-SRHR framework + only modern global supranational framework operating formal 30-year-anniversary ICPD30 2024 framework.",
+    "Central jurisdiction of formal UNFPA Three Zeros 2030 framework is structurally distinctive globally — only modern global supranational framework operating formal Three Zeros 2030 framework.",
+    "Central jurisdiction of formal US-Funding-Helms-Amendment + Global-Gag-Rule oscillation framework is structurally distinctive globally — only modern global supranational framework operating formal US-Helms-Amendment + Global-Gag-Rule oscillation framework.",
+    "150+ countries field operations + global coverage framework is structurally distinctive globally — comprehensive sexual-and-reproductive-health-and-rights coverage framework.",
+    "1967 Trust Fund + 1969 UNFPA + 1972 UN General Assembly authority + 1973 Helms + 1984 Reagan Global Gag Rule + 1987 UN Population Fund + 1994 ICPD + 2017 Trump-UNFPA-cut + Global Gag Rule + 2021 Biden-restored + 2024 ICPD30 + 2025 Trump-cut + Global Gag Rule re-imposed UNFPA-framework-development sequence is structurally distinctive globally.",
+    "UNFPA Mandate + Founding + ICPD + ICPD30 + Three Zeros 2030 + Helms Amendment + Global Gag Rule oscillation formal septet framework with limited PA-intersection framework via formal UNFPA Adolescent SRHR cross-border-adolescent-SRHR-consent-from-parents framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:un-women",
+    "jurisdiction:who-constitution",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNFPA",
+      "url": "https://www.unfpa.org/",
+      "publisher": "UNFPA Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNFPA Mandate jurisdiction sidecar — supranational global international-sexual-and-reproductive-health-and-rights foundational-UNFPA meta-framework (UNFPA Founding 1967 + 1969 UNFPA + 1972 UN General Assembly authority + ICPD 1994 + ICPD30 2024 + Three Zeros 2030 + Helms Amendment 1973 + Mexico City Policy Global Gag Rule oscillation 1984-2017-2021-2025 + 1987 renamed UN Population Fund + 2017 Trump-UNFPA-cut + Expanded Global Gag Rule + 2021 Biden-restored + 2024 ICPD30 Nairobi Statement + 2025 Trump-second-UNFPA-cut). Only modern global supranational framework operating on formal international-sexual-and-reproductive-health-and-rights framework + foundational SRHR framework alongside ICPD + only modern global supranational framework operating formal ICPD Cairo 1994 + 25th anniversary 2019 + 30th anniversary 2024 + only modern global supranational framework operating formal SDG 3.7 + SDG 5.6 SRHR-focused-SDGs + only modern global supranational framework operating formal Three Zeros 2030 framework + only modern global supranational framework operating formal Trump-administration-Global-Gag-Rule oscillation 1984-2017-2021-2025 + only modern global supranational framework operating formal Helms-Amendment-1973 + only modern global supranational framework operating formal Trump-UNFPA-funding-cuts 2017-2021-2025 oscillation + only modern global supranational framework operating formal Taliban-2021-women-erasure UNFPA-response + only modern global supranational framework operating formal Sudan-civil-war-2023 + Gaza-2023-2024 + Yemen cholera + Ukraine UNFPA-SRHR-response + central jurisdiction of formal ICPD rights-based-SRHR + ICPD30 + central jurisdiction of formal Three Zeros 2030: zero unmet need for family planning + zero preventable maternal deaths + zero gender-based violence + zero harmful practices + central jurisdiction of formal US-Helms-Amendment + Global-Gag-Rule oscillation + 150+ countries field operations + UNFPA Headquartered New York + UNFPA Executive Director Natalia Kanem 2017-2024 + Diene Keita 2024 Acting + 1967 Trust Fund + 1969 UNFPA + 1972 UN General Assembly authority + 1973 Helms + 1984 Reagan Global Gag Rule + 1987 UN Population Fund + 1994 ICPD + 2017 Trump-cut + Global Gag Rule + 2021 Biden-restored + 2024 ICPD30 + 2025 Trump-cut + Global Gag Rule re-imposed UNFPA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNFPA Adolescent SRHR + Maternal Health framework operates limited intersection with parental-alienation framework via formal cross-border-adolescent-SRHR-consent-from-parents framework.",
+    "Joins global + supranational + international-sexual-and-reproductive-health-and-rights-foundational-UNFPA cluster + UNFPA-only-global-supranational-framework-on-international-SRHR-globally-distinctive + foundational-SRHR-alongside-ICPD + ICPD-Cairo-1994 + ICPD25-2019 + ICPD30-2024-Nairobi-Statement + SDG-3.7-universal-access-SRHR + SDG-5.6-universal-access-SRHR + Three-Zeros-2030-zero-unmet-need-zero-preventable-maternal-deaths-zero-GBV-zero-harmful-practices + Helms-Amendment-1973-prohibiting-US-foreign-assistance-abortion-as-method + Mexico-City-Policy-Global-Gag-Rule-oscillation-Reagan-1984-Clinton-1993-Bush-2001-Obama-2009-Trump-2017-Biden-2021-Trump-2025 + Trump-administration-UNFPA-funding-cuts-2017-2025-oscillation-Biden-restored-2021 + Taliban-2021-women-erasure-UNFPA-response + Sudan-Gaza-Yemen-Ukraine-UNFPA-SRHR-response + 150+-countries-field-operations + UNFPA-Headquartered-New-York + Trust-Fund-for-Population-Activities-1967 + 1969-renamed-UN-Fund-for-Population-Activities + 1972-UN-General-Assembly-authority + 1987-renamed-UN-Population-Fund + 2024-ICPD30 + 2025-Trump-second-cut + UNFPA-Executive-Director-Natalia-Kanem-2017-2024 + UNFPA-Adolescent-SRHR-cross-border-consent-from-parents-PA-intersection clusters within the corpus."
+  ]
+}

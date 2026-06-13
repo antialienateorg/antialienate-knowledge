@@ -1,0 +1,179 @@
+{
+  "schema_version": "1.0",
+  "id": "sapmi",
+  "name": "Sápmi (Sámi homeland / Sámiid Ruoktu)",
+  "jurisdiction_code": "SE-SAP",
+  "legal_system": "civil-law",
+  "language": ["se", "nb", "sv", "fi", "ru", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Sápmi (Northern Sámi: Sápmi 'Sámi homeland' / also Sámiid Ruoktu) is a transnational Arctic civil-law Indigenous homeland territory spanning four sovereign states (Norway + Sweden + Finland + Russia — distinct from rest-of-modern-indigenous-territorial-frameworks operating within single-state framework) — structurally distinctive globally as the only modern indigenous homeland with formal multi-state parliamentary representation (three formally-recognised Sámi parliaments: Sámediggi Finland 1973 + Sámediggi Norway 1989 + Sametinget Sweden 1993 — only modern indigenous people globally with three formally-recognised national-level indigenous parliaments under three different sovereign-state frameworks, with non-recognition framework in Russian Sápmi sub-territory due to Russian Federation 2007 Indigenous Federal-Targeted-Programme deviation from Nordic framework), as the only modern transnational territory operating formal Sámi-language (Saami language family) official-administrative framework across multiple states (Northern Sámi + Inari Sámi + Skolt Sámi + Lule Sámi + Pite Sámi + Southern Sámi + Ume Sámi + Kildin Sámi + Akkala Sámi + Ter Sámi 10-language Sámi-language family framework — formal recognition of Northern Sámi as official language of Sámi areas under Norwegian Sámi Language Act 1990 + Finnish Sámi Language Act 2003 + Swedish Minority Languages Act 2009), as the only modern Arctic-circle-spanning indigenous territory with continuous formal historical framework predating modern sovereign state formation frameworks (Sámi pre-historic reindeer-herding-fishing-hunting framework continuous since ~10,000 BCE Younger Stone Age framework — distinct from rest-of-modern-indigenous-territorial-frameworks which operate post-colonial frameworks), and as the central jurisdiction of the formal Sámi land-rights-recognition framework via the Norwegian Finnmark Act 2005 (Norwegian Finnmark Act of 17 June 2005 — formal recognition of Sámi land-rights over Finnmark county, only modern Nordic land-rights-recognition framework). The Sápmi territory historically operated under pre-historic Sámi framework ~10,000 BCE + Norse Viking expansion 9th-11th centuries + Sámi taxation by Norwegian + Swedish + Russian Crown frameworks 13th-17th centuries + Strömstad Treaty 1751 framework establishing Lapp Codicil (Sámi cross-border reindeer-herding-rights framework — first international treaty on indigenous rights globally) + 19th-century Norwegianisation + Swedification + Finnicisation + Russification assimilation policies + 20th-century Sámi-indigenous-rights-movement framework + 1973 Finland Sámi Delegation + 1989 Norway Sámediggi + 1993 Sweden Sametinget + 2005 Norway Finnmark Act + 2017 Finland Truth and Reconciliation Commission. Sápmi comprises ~390,000 km² with a population of ~80,000-100,000 Sámi. Family-law framework operates under each respective sovereign-state framework (Norway + Sweden + Finland + Russia) applied uniformly across Sámi areas within each state. The Norway Supreme Court (Norway Sápmi) + Sweden Supreme Court (Sweden Sápmi) + Finland Supreme Court (Finland Sápmi) + Russia Supreme Court (Russia Sápmi) are the apex courts. Sápmi is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Norwegian Sámi Act 1987 + Norwegian Constitution 1814 Article 108",
+      "title": "Norwegian Sámi Act",
+      "year": 1987,
+      "url": "https://www.regjeringen.no/",
+      "relevance": "Norwegian Sámi Act 1987 + Norwegian Constitution 1814 Article 108 (amended 1988) — formal Norwegian Sámi Parliament Sámediggi framework, established 1989."
+    },
+    {
+      "citation": "Swedish Sámi Parliament Act 1992 (SFS 1992:1433)",
+      "title": "Swedish Sámi Parliament Act",
+      "year": 1993,
+      "url": "https://www.riksdagen.se/",
+      "relevance": "Swedish Sámi Parliament Act 1992 effective 1993 — formal Swedish Sámi Parliament Sametinget framework."
+    },
+    {
+      "citation": "Finnish Sámi Parliament Act 1995 (974/1995)",
+      "title": "Finnish Sámi Parliament Act",
+      "year": 1995,
+      "url": "https://www.finlex.fi/",
+      "relevance": "Finnish Sámi Parliament Act 974/1995 — formal Finnish Sámi Parliament Sámediggi framework, succeeding 1973 Finnish Sámi Delegation."
+    },
+    {
+      "citation": "Norwegian Finnmark Act 2005",
+      "title": "Norwegian Finnmark Act",
+      "year": 2005,
+      "url": "https://www.regjeringen.no/",
+      "relevance": "Norwegian Finnmark Act of 17 June 2005 — formal recognition of Sámi land-rights over Finnmark county, only modern Nordic land-rights-recognition framework."
+    },
+    {
+      "citation": "Strömstad Treaty 1751 (Lapp Codicil)",
+      "title": "Strömstad Treaty Lapp Codicil",
+      "year": 1751,
+      "url": "https://www.regjeringen.no/",
+      "relevance": "Strömstad Treaty 1751 + Lapp Codicil 21 September 1751 — Sámi cross-border reindeer-herding-rights framework, first international treaty on indigenous rights globally."
+    },
+    {
+      "citation": "Finnish Truth and Reconciliation Commission 2017+",
+      "title": "Finnish Truth and Reconciliation Commission",
+      "year": 2017,
+      "url": "https://www.totuusjasovinto.fi/",
+      "relevance": "Finnish Truth and Reconciliation Commission concerning the Sámi People established 28 October 2021 — formal Finnish state truth-and-reconciliation framework regarding historical Sámi-Finnish-government framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Norway (Norway Sápmi)",
+      "seat": "Oslo",
+      "url": "https://www.domstol.no/",
+      "role": "Apex court for civil and criminal matters from Norway Sápmi."
+    },
+    {
+      "name": "Supreme Court of Sweden (Sweden Sápmi)",
+      "seat": "Stockholm",
+      "url": "https://www.domstol.se/",
+      "role": "Apex court for civil and criminal matters from Sweden Sápmi."
+    },
+    {
+      "name": "Supreme Court of Finland (Finland Sápmi)",
+      "seat": "Helsinki",
+      "url": "https://korkeinoikeus.fi/",
+      "role": "Apex court for civil and criminal matters from Finland Sápmi."
+    },
+    {
+      "name": "Supreme Court of Russia (Russia Sápmi)",
+      "seat": "Moscow",
+      "url": "https://vsrf.ru/",
+      "role": "Apex court for civil and criminal matters from Russia Sápmi."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Norwegian + Swedish + Finnish + Russian Federal Health Authorities",
+      "url": "https://www.regjeringen.no/",
+      "role": "Multi-state Federal professional regulatory frameworks applicable in Sápmi."
+    }
+  ],
+  "anonymisation_convention": "Sápmi family-court decisions are anonymised per respective sovereign-state court practice using initials.",
+  "key_developments": [
+    {
+      "year": -10000,
+      "title": "Sámi pre-historic framework",
+      "description": "Sámi pre-historic reindeer-herding-fishing-hunting framework continuous since ~10,000 BCE Younger Stone Age framework — only modern indigenous homeland with continuous pre-historic framework predating modern sovereign state formation frameworks."
+    },
+    {
+      "year": 1751,
+      "title": "Strömstad Treaty + Lapp Codicil",
+      "description": "Strömstad Treaty 1751 + Lapp Codicil 21 September 1751 — Sámi cross-border reindeer-herding-rights framework, first international treaty on indigenous rights globally."
+    },
+    {
+      "year": 1973,
+      "title": "Finland Sámi Delegation",
+      "description": "Finnish Sámi Delegation established 1973 — first formal Sámi parliamentary representation framework."
+    },
+    {
+      "year": 1989,
+      "title": "Norway Sámediggi",
+      "description": "Norwegian Sámi Parliament Sámediggi formally inaugurated 9 October 1989 — first formal national-level Sámi Parliament framework."
+    },
+    {
+      "year": 1993,
+      "title": "Sweden Sametinget",
+      "description": "Swedish Sámi Parliament Sametinget formally inaugurated 26 August 1993 — second formal national-level Sámi Parliament framework."
+    },
+    {
+      "year": 2005,
+      "title": "Norwegian Finnmark Act",
+      "description": "Norwegian Finnmark Act of 17 June 2005 — formal recognition of Sámi land-rights over Finnmark county."
+    },
+    {
+      "year": 2021,
+      "title": "Finland Truth and Reconciliation Commission",
+      "description": "Finnish Truth and Reconciliation Commission concerning the Sámi People established 28 October 2021 — formal Finnish state truth-and-reconciliation framework."
+    },
+    {
+      "year": 2023,
+      "title": "Norway Truth and Reconciliation Commission Report",
+      "description": "Norwegian Truth and Reconciliation Commission for the Norwegianisation Policy and Injustice Against the Sámi + Kvens + Forest Finns final report 1 June 2023 — formal Norwegian state truth-and-reconciliation framework regarding historical Norwegianisation policy framework."
+    }
+  ],
+  "structural_findings": [
+    "Sápmi operates a transnational Arctic civil-law Indigenous homeland framework spanning four sovereign states — places Sápmi in the Arctic transnational-indigenous-territorial cluster.",
+    "Only modern indigenous homeland with formal multi-state parliamentary representation is structurally distinctive globally — three formally-recognised Sámi parliaments across Norway + Sweden + Finland.",
+    "Only modern transnational territory operating formal Sámi-language official-administrative framework across multiple states is structurally distinctive globally — 10-language Sámi-language family framework.",
+    "Only modern Arctic-circle-spanning indigenous territory with continuous formal historical framework predating modern sovereign state formation frameworks is structurally distinctive globally — Sámi pre-historic framework ~10,000 BCE.",
+    "Central jurisdiction of formal Sámi land-rights-recognition framework via Norwegian Finnmark Act 2005 is structurally distinctive globally — only modern Nordic land-rights-recognition framework.",
+    "Strömstad Treaty 1751 + Lapp Codicil framework is structurally distinctive globally — first international treaty on indigenous rights globally.",
+    "Finnish 2021 + Norwegian 2023 Truth and Reconciliation Commissions framework is structurally distinctive globally — modern Nordic state-truth-and-reconciliation framework for historical assimilation-policy framework.",
+    "Multi-state Hague-Convention-1980 framework applies — Norway + Sweden + Finland + Russia all separate Hague-1980 frameworks."
+  ],
+  "references": [
+    "jurisdiction:norway",
+    "jurisdiction:sweden",
+    "jurisdiction:finland",
+    "jurisdiction:russia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Sámi Parliament of Norway (Sámediggi)",
+      "url": "https://www.sametinget.no/",
+      "publisher": "Norwegian Sámi Parliament",
+      "language": "se"
+    },
+    {
+      "title": "Sámi Parliament of Sweden (Sametinget)",
+      "url": "https://www.sametinget.se/",
+      "publisher": "Swedish Sámi Parliament",
+      "language": "sv"
+    },
+    {
+      "title": "Sámi Parliament of Finland (Sámediggi)",
+      "url": "https://www.samediggi.fi/",
+      "publisher": "Finnish Sámi Parliament",
+      "language": "fi"
+    }
+  ],
+  "editorial_notes": [
+    "Sápmi jurisdiction sidecar — transnational Arctic civil-law Indigenous homeland territory (Norwegian Sámi Act 1987 + Norwegian Constitution 1814 Article 108 + Swedish Sámi Parliament Act 1992 + Finnish Sámi Parliament Act 974/1995 + Norwegian Finnmark Act 2005 + Strömstad Treaty 1751 Lapp Codicil + Finnish 2021 + Norwegian 2023 Truth and Reconciliation Commissions + Sámi pre-historic framework ~10,000 BCE + Sámediggi Norway 1989 + Sametinget Sweden 1993 + Sámediggi Finland 1973 + multi-state Hague-1980). Only modern indigenous homeland with formal multi-state parliamentary representation globally + only modern transnational territory operating formal Sámi-language official-administrative framework across multiple states + only modern Arctic-circle-spanning indigenous territory with continuous formal historical framework predating modern sovereign state formation frameworks + central jurisdiction of formal Sámi land-rights-recognition framework via Norwegian Finnmark Act 2005 + Strömstad Treaty 1751 Lapp Codicil first international treaty on indigenous rights globally + Finnish + Norwegian Truth and Reconciliation Commissions.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Arctic + civil-law + transnational-indigenous-territorial cluster + three-Sámi-parliaments-globally-distinctive + 10-language-Sámi-language-family + Norwegian-Finnmark-Act-2005-land-rights + Strömstad-Treaty-1751-Lapp-Codicil-first-international-indigenous-rights-treaty + Sámi-pre-historic-framework-10000-BCE + 1989-Norway-Sámediggi + 1993-Sweden-Sametinget + 1973-Finland-Sámi-Delegation + 2021-Finland-2023-Norway-Truth-and-Reconciliation-Commissions clusters within the corpus."
+  ]
+}

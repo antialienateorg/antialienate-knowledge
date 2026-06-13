@@ -1,0 +1,6 @@
+# Pinned to the last release line that accepts `docs_dir: .` (current repo
+# layout has content at the root). When repo content is restructured into
+# a `docs/` subdirectory, these pins can be removed.
+mkdocs>=1.5,<1.6
+mkdocs-material>=9.5,<9.6
+mkdocs-awesome-pages-plugin>=2.9,<2.10

@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0",
+  "id": "qatar",
+  "name": "Qatar (دولة قطر)",
+  "jurisdiction_code": "QA",
+  "legal_system": "mixed",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Qatar is a Gulf mixed-legal-system absolute monarchy whose family-law framework operates under Family Law 22/2006 (Qanun al-Usra) drawn from Hanbali jurisprudence with provisions from other Sunni schools. Custody (hadana) and guardianship (wilaya) are governed by arts. 162-200 of the Family Law. The Court of Cassation (Mahkamat al-Tamyiz) is the apex court for civil and criminal matters; family-law matters are heard within the Family Courts. The Qatar Financial Centre (QFC) Civil and Commercial Court operates a common-law jurisdiction for commercial matters. Psychology profession is regulated under the Ministry of Public Health (MOPH) through the Department of Healthcare Professions Registration (DHP). Qatar is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Qatar acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2014.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law 22/2006 (Qanun al-Usra) arts. 162-200",
+      "title": "Family Law 2006 — Custody and guardianship",
+      "year": 2006,
+      "url": "https://almeezan.qa/",
+      "relevance": "Federal statute governing family law. Arts. 162-200 govern custody (hadana) and guardianship (wilaya). Hanbali jurisprudential basis with provisions from other Sunni schools. Welfare-of-the-child standard operates as the substantive test."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Mahkamat al-Tamyiz (Court of Cassation)",
+      "seat": "Doha",
+      "url": "https://www.sjc.gov.qa/",
+      "role": "Apex court of cassation for civil and criminal matters."
+    },
+    {
+      "name": "QFC Civil and Commercial Court",
+      "seat": "Doha",
+      "url": "https://www.qicdrc.gov.qa/",
+      "role": "Common-law jurisdiction for commercial matters within the Qatar Financial Centre."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Department of Healthcare Professions Registration (DHP)",
+      "url": "https://dhp.moph.gov.qa/",
+      "role": "Ministry of Public Health department operating statutory licensing of health professionals including psychologists."
+    }
+  ],
+  "anonymisation_convention": "Qatari family-law decisions are anonymised per court practice; published decisions use initials or pseudonyms.",
+  "key_developments": [
+    {
+      "year": 2006,
+      "title": "Family Law 22/2006",
+      "description": "Federal Family Law enacted, codifying personal-status provisions on Hanbali jurisprudential basis."
+    },
+    {
+      "year": 2014,
+      "title": "Hague Convention 1980 accession",
+      "description": "Qatar acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2014."
+    }
+  ],
+  "structural_findings": [
+    "Qatar operates a Hanbali religious-law framework with codified family-law statute alongside Saudi Arabia (Personal Status Law 2022) — distinctive among the Hanbali primary-cluster within the corpus.",
+    "QFC Civil and Commercial Court provides a common-law commercial jurisdiction parallel to the religious-law civil framework — structurally similar to DIFC/ADGM in UAE.",
+    "Hague Convention 1980 accession 2014 places Qatar in the Hague cluster — distinguishes from Saudi Arabia (non-Hague) within the Gulf cluster."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:united-arab-emirates",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Judicial Council",
+      "url": "https://www.sjc.gov.qa/",
+      "publisher": "Supreme Judicial Council of Qatar",
+      "language": "ar,en"
+    },
+    {
+      "title": "Al Meezan — Qatar legal portal",
+      "url": "https://almeezan.qa/",
+      "publisher": "Government of Qatar",
+      "language": "ar,en"
+    },
+    {
+      "title": "Department of Healthcare Professions Registration",
+      "url": "https://dhp.moph.gov.qa/",
+      "publisher": "Ministry of Public Health, Qatar",
+      "language": "ar,en"
+    }
+  ],
+  "editorial_notes": [
+    "Qatar jurisdiction sidecar — Hanbali religious-law framework + Family Law 22/2006 + QFC common-law commercial + DHP statutory psychology regulation + Hague Convention 1980 accession 2014.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Gulf + Hanbali + Hague Convention clusters within the corpus."
+  ]
+}

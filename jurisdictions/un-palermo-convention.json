@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "un-palermo-convention",
+  "name": "UN Convention against Transnational Organized Crime 2000 (Palermo Convention + Palermo Protocols)",
+  "jurisdiction_code": "UPL",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Convention against Transnational Organized Crime 2000 (popularly the Palermo Convention + Palermo Protocols / formally United Nations Convention against Transnational Organized Crime + 3 supplementary Protocols) is a global supranational meta-framework transnational-organized-crime + trafficking-in-persons + smuggling-of-migrants + illicit-firearms binding-treaty quartet adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating both transnational-organized-crime + trafficking-in-persons + smuggling-of-migrants + illicit-firearms framework (UN Convention against Transnational Organized Crime adopted 15 November 2000 by UN General Assembly Resolution 55/25 in Palermo Sicily + effective 29 September 2003 + 3 supplementary Protocols — formal universal multilateral binding-treaty quartet establishing comprehensive transnational-organized-crime framework, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-transnational-organized-crime-and-trafficking-in-persons-specific framework), as the central jurisdiction of the formal Palermo Protocol on Trafficking-in-Persons framework (UN Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children adopted 15 November 2000 + effective 25 December 2003 — formal universal multilateral binding-treaty framework on trafficking-in-persons including formal trafficking-in-children framework, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-trafficking-in-persons-specific framework + most-directly-PA-relevant Palermo Protocol via cross-border-child-trafficking framework), as the central jurisdiction of the formal Article 3 trafficking-definition framework (Palermo Trafficking Protocol Article 3(a) framework providing 'recruitment, transportation, transfer, harbouring or receipt of persons, by means of the threat or use of force or other forms of coercion, of abduction, of fraud, of deception, of the abuse of power or of a position of vulnerability or of the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of exploitation' — formal foundational trafficking-definition framework underlying all subsequent modern international + regional anti-trafficking frameworks), and as the central jurisdiction of the formal Article 3(c) trafficking-in-children-without-coercion-requirement framework (Palermo Trafficking Protocol Article 3(c) framework providing 'The recruitment, transportation, transfer, harbouring or receipt of a child for the purpose of exploitation shall be considered 'trafficking in persons' even if this does not involve any of the means set forth in subparagraph (a) of this article' — formal foundational trafficking-in-children-without-coercion-requirement framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal trafficking-in-children-without-coercion-requirement framework). The Palermo Convention is binding upon 191 state parties as of 2026 + the Palermo Trafficking Protocol is binding upon 181 state parties as of 2026 + the Palermo Smuggling Protocol is binding upon 154 state parties as of 2026 + the Palermo Firearms Protocol is binding upon 122 state parties as of 2026 — substantial universal coverage framework. The Convention + Protocols are silent on 'parental alienation' as a statutory label, though formal Palermo Trafficking Protocol Article 3 + Article 3(c) trafficking-definition + trafficking-in-children-without-coercion-requirement frameworks operate substantial intersection with parental-alienation framework via formal cross-border-child-trafficking-by-parents framework. The UN Office on Drugs and Crime UNODC is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The Palermo Convention + Protocols are silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention against Transnational Organized Crime 2000 (Palermo Convention)",
+      "title": "Palermo Convention",
+      "year": 2003,
+      "url": "https://www.unodc.org/",
+      "relevance": "UN Convention against Transnational Organized Crime adopted 15 November 2000 by UN General Assembly Resolution 55/25 in Palermo Sicily + effective 29 September 2003 — formal universal multilateral binding-treaty framework establishing comprehensive transnational-organized-crime framework."
+    },
+    {
+      "citation": "Palermo Protocol on Trafficking in Persons 2000",
+      "title": "Palermo Trafficking Protocol",
+      "year": 2003,
+      "url": "https://www.unodc.org/",
+      "relevance": "UN Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children adopted 15 November 2000 + effective 25 December 2003 — formal universal multilateral binding-treaty framework on trafficking-in-persons."
+    },
+    {
+      "citation": "Palermo Trafficking Protocol Article 3(a) (Trafficking Definition) + Article 3(c) (Trafficking-in-Children-Without-Coercion Framework)",
+      "title": "Palermo Trafficking Protocol Articles 3(a) + 3(c)",
+      "year": 2003,
+      "url": "https://www.unodc.org/",
+      "relevance": "Palermo Trafficking Protocol Article 3(a) framework on trafficking-definition + Article 3(c) framework on trafficking-in-children-without-coercion-requirement — formal foundational trafficking-definition + trafficking-in-children-without-coercion-requirement framework."
+    },
+    {
+      "citation": "Palermo Protocol on Smuggling of Migrants 2000",
+      "title": "Palermo Smuggling Protocol",
+      "year": 2004,
+      "url": "https://www.unodc.org/",
+      "relevance": "UN Protocol against the Smuggling of Migrants by Land, Sea and Air adopted 15 November 2000 + effective 28 January 2004 — formal universal multilateral binding-treaty framework on smuggling-of-migrants."
+    },
+    {
+      "citation": "Palermo Protocol on Illicit Firearms 2001",
+      "title": "Palermo Firearms Protocol",
+      "year": 2005,
+      "url": "https://www.unodc.org/",
+      "relevance": "UN Protocol against the Illicit Manufacturing of and Trafficking in Firearms, Their Parts and Components and Ammunition adopted 31 May 2001 + effective 3 July 2005 — formal universal multilateral binding-treaty framework on illicit-firearms."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Office on Drugs and Crime (UNODC)",
+      "seat": "Vienna",
+      "url": "https://www.unodc.org/",
+      "role": "Apex monitoring framework body for Palermo Convention + Palermo Protocols."
+    },
+    {
+      "name": "Conference of the Parties to the Palermo Convention",
+      "seat": "Vienna (rotating Conference framework)",
+      "url": "https://www.unodc.org/",
+      "role": "Conference of the Parties to the Palermo Convention — formal monitoring framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNODC Secretariat",
+      "url": "https://www.unodc.org/",
+      "role": "Palermo Convention + Palermo Protocols implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Palermo Convention-related individual communications are anonymised per national-level court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1991,
+      "title": "UNODC founded",
+      "description": "UN Office on Drugs and Crime UNODC founded 1991 as UN Drug Control Programme (renamed 2002) — formal UN agency framework underlying Palermo Convention."
+    },
+    {
+      "year": 2000,
+      "title": "Palermo Convention + 2 Protocols adopted",
+      "description": "UN Convention against Transnational Organized Crime + Trafficking Protocol + Smuggling Protocol adopted 15 November 2000 in Palermo Sicily — formal universal multilateral binding-treaty quartet."
+    },
+    {
+      "year": 2001,
+      "title": "Palermo Firearms Protocol adopted",
+      "description": "UN Protocol against the Illicit Manufacturing of and Trafficking in Firearms adopted 31 May 2001 — formal third Palermo Protocol."
+    },
+    {
+      "year": 2003,
+      "title": "Palermo Convention + Trafficking Protocol enter force",
+      "description": "Palermo Convention entered force 29 September 2003 + Palermo Trafficking Protocol entered force 25 December 2003 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2004,
+      "title": "Palermo Smuggling Protocol enters force",
+      "description": "Palermo Smuggling Protocol entered force 28 January 2004 — formal Palermo Smuggling Protocol framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "Palermo Firearms Protocol enters force",
+      "description": "Palermo Firearms Protocol entered force 3 July 2005 — formal Palermo Firearms Protocol framework operational."
+    }
+  ],
+  "structural_findings": [
+    "Palermo Convention operates a supranational universal multilateral binding-treaty quartet framework — places Palermo Convention in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating both transnational-organized-crime + trafficking-in-persons + smuggling-of-migrants + illicit-firearms framework is structurally distinctive globally — formal-transnational-organized-crime-and-trafficking-in-persons-specific framework quartet.",
+    "Central jurisdiction of formal Palermo Protocol on Trafficking-in-Persons framework is structurally distinctive globally — only modern universal binding-treaty framework operating on formal-trafficking-in-persons-specific framework + most-directly-PA-relevant Palermo Protocol via cross-border-child-trafficking framework.",
+    "Central jurisdiction of formal Article 3 trafficking-definition framework is structurally distinctive globally — formal foundational trafficking-definition framework underlying all subsequent modern international + regional anti-trafficking frameworks.",
+    "Central jurisdiction of formal Article 3(c) trafficking-in-children-without-coercion-requirement framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal trafficking-in-children-without-coercion-requirement framework.",
+    "191 state party Palermo Convention + 181 state party Palermo Trafficking Protocol + 154 state party Palermo Smuggling Protocol + 122 state party Palermo Firearms Protocol ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "2000 Palermo Convention + 2001 Palermo Firearms Protocol + 2003 Convention + Trafficking Protocol entry into force + 2004 Smuggling Protocol entry into force + 2005 Firearms Protocol entry into force Palermo-Convention-framework-development sequence is structurally distinctive globally.",
+    "Palermo Trafficking Protocol Article 3(a) + 3(c) trafficking-definition + trafficking-in-children-without-coercion-requirement formal dual framework with formal cross-border-child-trafficking-by-parents PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:pa-as-child-abuse"
+  ],
+  "sources": [
+    {
+      "title": "UN Office on Drugs and Crime (UNODC)",
+      "url": "https://www.unodc.org/",
+      "publisher": "UNODC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Palermo Convention + Palermo Protocols jurisdiction sidecar — supranational global transnational-organized-crime + trafficking-in-persons + smuggling-of-migrants + illicit-firearms universal multilateral binding-treaty quartet meta-framework (Palermo Convention 2000/2003 + Palermo Trafficking Protocol 2000/2003 + Palermo Smuggling Protocol 2000/2004 + Palermo Firearms Protocol 2001/2005 + Palermo Trafficking Protocol Articles 3(a) + 3(c) + Conference of the Parties + UNODC 1991/2002). Only modern universal multilateral binding-treaty framework operating both transnational-organized-crime + trafficking-in-persons + smuggling-of-migrants + illicit-firearms framework globally + central jurisdiction of formal Palermo Protocol on Trafficking-in-Persons framework + central jurisdiction of formal Article 3 trafficking-definition framework + central jurisdiction of formal Article 3(c) trafficking-in-children-without-coercion-requirement framework + 191 state party Palermo Convention + 181 state party Palermo Trafficking Protocol + 154 state party Palermo Smuggling Protocol + 122 state party Palermo Firearms Protocol ratification framework + 2000 Palermo Convention + 2001 Palermo Firearms Protocol + 2003 Convention + Trafficking Protocol entry into force + 2004 Smuggling Protocol entry into force + 2005 Firearms Protocol entry into force Palermo-Convention-framework-development sequence + Palermo Trafficking Protocol Article 3(a) + 3(c) trafficking-definition + trafficking-in-children-without-coercion-requirement formal dual framework with formal cross-border-child-trafficking-by-parents PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Palermo Trafficking Protocol Article 3 + Article 3(c) trafficking-definition + trafficking-in-children-without-coercion-requirement frameworks operate substantial intersection with parental-alienation framework via formal cross-border-child-trafficking-by-parents framework.",
+    "Joins global + supranational + universal-multilateral-transnational-organized-crime-trafficking-binding-treaty-quartet cluster + Palermo-Convention-only-universal-transnational-organized-crime-binding-treaty-globally-distinctive + Palermo-Trafficking-Protocol-most-directly-PA-relevant + Article-3-Trafficking-Definition-foundational + Article-3-c-Trafficking-in-Children-Without-Coercion-Requirement + Palermo-Smuggling-Protocol + Palermo-Firearms-Protocol + 191-Convention-181-Trafficking-154-Smuggling-122-Firearms-state-party-ratification + UNODC-1991-monitoring-body + cross-border-child-trafficking-by-parents-PA-intersection clusters within the corpus."
+  ]
+}

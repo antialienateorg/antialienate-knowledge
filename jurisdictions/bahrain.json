@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "id": "bahrain",
+  "name": "Bahrain (مملكة البحرين)",
+  "jurisdiction_code": "BH",
+  "legal_system": "religious-law",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Bahrain is a Gulf religious-law constitutional monarchy whose family-law framework operates under the Unified Family Law 19/2017 (Qanun al-Usra al-Muwahhad) — Bahrain's first unified family-law statute covering both Sunni and Shia communities (overcoming prior dual-track structure). Custody (hadana) and guardianship (wilaya) are governed by arts. 122-148 of the Unified Family Law. The Court of Cassation is the apex court for civil and criminal matters; family-law matters are heard within the Family Courts under Family-Court Procedure rules. Psychology profession is regulated through the National Health Regulatory Authority (NHRA) under the Bahraini health-personnel licensing framework. Bahrain is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Bahrain is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Unified Family Law 19/2017 arts. 122-148",
+      "title": "Unified Family Law — Custody and guardianship",
+      "year": 2017,
+      "url": "https://www.legalaffairs.gov.bh/",
+      "relevance": "Federal statute unifying Sunni and Shia family-law into a single codified framework. Arts. 122-148 govern custody and guardianship. Substantial reform of prior dual-track personal-status regime."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (Mahkamat al-Tamyiz)",
+      "seat": "Manama",
+      "url": "https://www.moj.gov.bh/",
+      "role": "Apex court of cassation for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "National Health Regulatory Authority (NHRA)",
+      "url": "https://www.nhra.bh/",
+      "role": "Federal regulator for health professionals including psychologists."
+    },
+    {
+      "name": "Bahrain Psychological Association",
+      "url": "https://www.psyba.org/",
+      "role": "Peak professional association for psychologists in Bahrain."
+    }
+  ],
+  "anonymisation_convention": "Bahraini family-law decisions are anonymised per court practice; published decisions use initials.",
+  "key_developments": [
+    {
+      "year": 2017,
+      "title": "Unified Family Law 19/2017",
+      "description": "First unified family-law statute covering both Sunni and Shia communities — overcame prior dual-track structure."
+    }
+  ],
+  "structural_findings": [
+    "Bahrain operates a structurally distinctive Sunni-Shia unified family-law framework — Unified Family Law 19/2017 is among the rare codifications addressing both Sunni and Shia personal-status under a single statutory framework.",
+    "Non-Hague Convention status places Bahrain in the non-Hague Gulf cluster alongside Saudi Arabia and Iran.",
+    "Psychology profession regulation through NHRA federal framework — operates alongside Saudi SCFHS and UAE MOHAP/DOH/DHA in the Gulf federal-regulator cluster."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:united-arab-emirates",
+    "jurisdiction:qatar",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.moj.gov.bh/",
+      "publisher": "Ministry of Justice, Kingdom of Bahrain",
+      "language": "ar,en"
+    },
+    {
+      "title": "Legislation and Legal Opinion Commission",
+      "url": "https://www.legalaffairs.gov.bh/",
+      "publisher": "Legal Affairs Commission",
+      "language": "ar,en"
+    },
+    {
+      "title": "National Health Regulatory Authority",
+      "url": "https://www.nhra.bh/",
+      "publisher": "NHRA",
+      "language": "ar,en"
+    }
+  ],
+  "editorial_notes": [
+    "Bahrain jurisdiction sidecar — Sunni-Shia unified family-law framework. Unified Family Law 19/2017 + NHRA psychology regulator + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Gulf + Sunni-Shia-unified + non-Hague Convention clusters within the corpus."
+  ]
+}

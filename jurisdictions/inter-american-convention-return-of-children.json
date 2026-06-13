@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "inter-american-convention-return-of-children",
+  "name": "Inter-American Convention on the International Return of Children 1989 (Montevideo Convention)",
+  "jurisdiction_code": "IAR",
+  "legal_system": "supranational",
+  "language": ["es", "pt", "en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Inter-American Convention on the International Return of Children 1989 (popularly the Montevideo Convention — formally Convención Interamericana sobre Restitución Internacional de Menores) is a Latin American supranational meta-framework cross-border-child-abduction-resolution instrument adopted by the Organization of American States (OAS) — structurally distinctive globally as the only modern regional cross-border-child-abduction-resolution framework operating alongside the Hague Convention 1980 framework (Inter-American Convention adopted 15 July 1989 by IV Inter-American Specialized Conference on Private International Law CIDIP-IV in Montevideo + effective 4 November 1994 — second international cross-border-child-abduction-resolution instrument in the world after Hague Convention 1980 + first regional cross-border-child-abduction-resolution instrument framework + formal Latin American-specific framework distinguishing from Hague Convention 1980 in formal Latin American-context-specific provisions, distinct from Hague Convention 1980 which operates universal multilateral framework), as the central jurisdiction of the formal Latin American post-1980 cross-border-child-abduction-resolution elaboration framework (Inter-American Convention 1989 adopted as Latin American regional response to Hague Convention 1980 framework + applicable to 14 Latin American + Caribbean state parties: Argentina + Bolivia + Brazil + Costa Rica + Ecuador + Guatemala + Mexico + Nicaragua + Paraguay + Peru + Uruguay + Venezuela + Suriname + Belize — 14 of 33 OAS member states have ratified the Convention as of 2026), as the only modern regional cross-border-child-abduction-resolution framework with formal Article 16(2) framework where Hague Convention 1980 and Inter-American Convention 1989 operate concurrently (Article 16(2) framework providing for hierarchical application of Inter-American Convention 1989 as priority framework where both Conventions are applicable between two Latin American state parties — distinct from Hague Convention 1980 multilateral framework), and as the central jurisdiction of one of the most distinctive modern regional best-interests-of-the-child + parental-authority frameworks (Convention Article 1 cross-border-child-abduction-resolution framework + Article 2 child-under-16-years framework + Article 14 wrongful-removal-or-retention framework — formal Latin American-specific framework). The Inter-American Convention 1989 is silent on 'parental alienation' as a statutory label. The Inter-American Court of Human Rights is the apex judicial body for state-party violations. The Inter-American Convention 1989 is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Inter-American Convention on the International Return of Children 1989",
+      "title": "Inter-American Convention on the International Return of Children",
+      "year": 1994,
+      "url": "https://www.oas.org/",
+      "relevance": "Inter-American Convention on the International Return of Children adopted 15 July 1989 by IV Inter-American Specialized Conference on Private International Law CIDIP-IV in Montevideo + effective 4 November 1994 — formal Latin American regional cross-border-child-abduction-resolution treaty framework."
+    },
+    {
+      "citation": "Hague Convention on the Civil Aspects of International Child Abduction 1980",
+      "title": "Hague Convention 1980",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the Civil Aspects of International Child Abduction adopted 25 October 1980 + effective 1 December 1983 — universal multilateral cross-border-child-abduction-resolution treaty framework, basis for Latin American 1989 Inter-American Convention framework."
+    },
+    {
+      "citation": "Article 16(2) Inter-American Convention 1989 (Hierarchical Application Framework)",
+      "title": "Inter-American Convention Article 16(2)",
+      "year": 1994,
+      "url": "https://www.oas.org/",
+      "relevance": "Inter-American Convention Article 16(2) — formal hierarchical application framework providing for Inter-American Convention 1989 as priority framework where both Hague Convention 1980 and Inter-American Convention 1989 are applicable between two Latin American state parties."
+    },
+    {
+      "citation": "OAS Charter 1948 + Inter-American Specialized Conferences on Private International Law CIDIP",
+      "title": "OAS Charter + CIDIP framework",
+      "year": 1948,
+      "url": "https://www.oas.org/",
+      "relevance": "Organization of American States Charter signed 30 April 1948 + Inter-American Specialized Conferences on Private International Law CIDIP framework operating since 1975 — formal OAS regional supranational framework underlying Inter-American Convention 1989."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Inter-American Court of Human Rights (IACHR)",
+      "seat": "San José",
+      "url": "https://www.corteidh.or.cr/",
+      "role": "Apex judicial body for state-party violations of Inter-American Convention on the International Return of Children + American Convention on Human Rights."
+    },
+    {
+      "name": "Inter-American Commission on Human Rights",
+      "seat": "Washington DC",
+      "url": "https://www.oas.org/en/iachr/",
+      "role": "Inter-American Commission on Human Rights — formal Inter-American human rights monitoring body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OAS Secretariat for Legal Affairs",
+      "url": "https://www.oas.org/en/sla/dil/",
+      "role": "Inter-American Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Inter-American Convention-related individual communications are anonymised per IACHR practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "OAS Charter",
+      "description": "Organization of American States Charter signed 30 April 1948 — beginning of formal OAS regional supranational framework."
+    },
+    {
+      "year": 1975,
+      "title": "CIDIP-I + Inter-American Specialized Conferences on Private International Law",
+      "description": "Inter-American Specialized Conferences on Private International Law CIDIP framework begun 1975 — formal regional private-international-law harmonisation framework."
+    },
+    {
+      "year": 1980,
+      "title": "Hague Convention 1980 adopted",
+      "description": "Hague Convention on the Civil Aspects of International Child Abduction adopted 25 October 1980 — universal multilateral framework that catalysed Inter-American Convention 1989 development."
+    },
+    {
+      "year": 1989,
+      "title": "Inter-American Convention adopted",
+      "description": "Inter-American Convention on the International Return of Children adopted 15 July 1989 by IV CIDIP-IV in Montevideo — first regional cross-border-child-abduction-resolution instrument."
+    },
+    {
+      "year": 1994,
+      "title": "Inter-American Convention enters force",
+      "description": "Inter-American Convention on the International Return of Children entered force 4 November 1994 — second international cross-border-child-abduction-resolution instrument in the world."
+    },
+    {
+      "year": 2000,
+      "title": "Argentina + Mexico + Peru + Uruguay ratification cluster",
+      "description": "Cluster of Latin American state ratifications 2000s — Argentina 26 May 2000 + Mexico 15 November 1991 + Peru 9 December 2003 + Uruguay 12 December 2001 + Brazil 11 September 1995 + Paraguay 17 June 1999 + others."
+    }
+  ],
+  "structural_findings": [
+    "Inter-American Convention 1989 operates a supranational Latin American regional cross-border-child-abduction-resolution binding treaty framework — places Inter-American Convention 1989 in the Latin American supranational-meta-framework cluster.",
+    "Only modern regional cross-border-child-abduction-resolution framework operating alongside Hague Convention 1980 framework is structurally distinctive globally — second international cross-border-child-abduction-resolution instrument in the world.",
+    "Central jurisdiction of formal Latin American post-1980 cross-border-child-abduction-resolution elaboration framework is structurally distinctive globally — first regional cross-border-child-abduction-resolution instrument.",
+    "Only modern regional cross-border-child-abduction-resolution framework with formal Article 16(2) hierarchical application framework is structurally distinctive globally — formal priority framework where both Hague Convention 1980 and Inter-American Convention 1989 are applicable.",
+    "Central jurisdiction of one of most distinctive modern regional best-interests-of-the-child + parental-authority frameworks is structurally distinctive globally — Convention Article 1 + 2 + 14 frameworks.",
+    "1980 Hague Convention + 1989 Inter-American Convention + 1994 Inter-American Convention entry into force regional-framework-development sequence is structurally distinctive globally.",
+    "14 of 33 OAS member state party ratification framework is structurally distinctive globally — relatively-limited Latin American state party ratification framework.",
+    "Concurrent applicability framework with Hague Convention 1980 is structurally distinctive globally — only modern regional Hague-1980-equivalent framework operating in formal concurrent-applicability framework with Hague Convention 1980."
+  ],
+  "references": [
+    "jurisdiction:organization-of-american-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child",
+    "evidence:hague-convention-1980"
+  ],
+  "sources": [
+    {
+      "title": "Organization of American States",
+      "url": "https://www.oas.org/",
+      "publisher": "OAS",
+      "language": "en"
+    },
+    {
+      "title": "Inter-American Court of Human Rights",
+      "url": "https://www.corteidh.or.cr/",
+      "publisher": "Inter-American Court of Human Rights",
+      "language": "es"
+    },
+    {
+      "title": "Hague Conference on Private International Law",
+      "url": "https://www.hcch.net/",
+      "publisher": "HCCH",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Inter-American Convention on the International Return of Children 1989 jurisdiction sidecar — supranational Latin American regional cross-border-child-abduction-resolution binding treaty meta-framework (Inter-American Convention 1989/1994 + Hague Convention 1980/1983 + Article 16(2) Hierarchical Application Framework + OAS Charter 1948 + CIDIP framework + IACHR + Inter-American Commission on Human Rights). Only modern regional cross-border-child-abduction-resolution framework operating alongside Hague Convention 1980 framework globally + central jurisdiction of formal Latin American post-1980 cross-border-child-abduction-resolution elaboration framework + only modern regional cross-border-child-abduction-resolution framework with formal Article 16(2) hierarchical application framework + central jurisdiction of one of most distinctive modern regional best-interests-of-the-child + parental-authority frameworks + 1980 Hague Convention + 1989 Inter-American Convention regional-framework-development sequence + 14 of 33 OAS member state party ratification framework + concurrent applicability framework with Hague Convention 1980.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Latin-American + supranational + regional-cross-border-child-abduction-resolution-binding-treaty cluster + Inter-American-Convention-1989-second-international-instrument-after-Hague-1980-globally-distinctive + Article-16-2-Hierarchical-Application-Framework + concurrent-applicability-with-Hague-Convention-1980 + Article-1-cross-border-child-abduction-resolution + Article-2-child-under-16-years + Article-14-wrongful-removal-or-retention + CIDIP-IV-Montevideo-1989 + Inter-American-Court-of-Human-Rights + 14-of-33-OAS-state-party-ratification clusters within the corpus."
+  ]
+}

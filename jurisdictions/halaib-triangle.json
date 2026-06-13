@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "halaib-triangle",
+  "name": "Hala'ib Triangle (مثلث حلايب)",
+  "jurisdiction_code": "EG-HAL",
+  "legal_system": "mixed",
+  "language": ["ar", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Hala'ib Triangle (Arabic: مثلث حلايب Muthallath Ḥalāyib) is a North African mixed disputed-claim territory between Egypt and Sudan on the Red Sea coast — structurally distinctive globally as the only modern doubly-claimed territory between two sovereign states paired with formal terra nullius adjacent territory framework (Hala'ib Triangle ~20,580 km² disputed territory claimed by both Egypt + Sudan, paired with Bir Tawil ~2,060 km² not claimed by either Egypt or Sudan — structurally distinctive globally as the only modern paired claim-vs-non-claim framework between two sovereign states deriving from formal Egypt-Sudan border-line discrepancy 1899 22°N parallel framework vs. 1902 Anglo-Egyptian administrative-line framework), as the central jurisdiction of one of the longest-running modern post-colonial African border-disputes (Hala'ib Triangle dispute 1958-2026 68+ years — continuous Egypt-Sudan diplomatic dispute, with Egypt establishing formal Egyptian administrative-control framework over Hala'ib Triangle 1995+ following Sudan's recognition of Sudanese-Iraqi assassination-attempt on Egyptian President Hosni Mubarak 26 June 1995 in Addis Ababa, Egypt extending de facto administrative-control framework 1995-present), as the central jurisdiction of one of the most distinctive modern formal sovereign-claim+counter-claim-frameworks (Egypt formal claim under 1899 Anglo-Egyptian Sudan Condominium 22°N parallel framework + Sudan formal claim under 1902 Anglo-Egyptian administrative-line framework — both states maintain formal sovereign claim despite Egyptian de facto administrative-control framework 1995-present), and as the central jurisdiction of one of the most economically distinctive disputed-territory frameworks (~20,580 km² Red Sea coastal territory with substantial fishing-rights + offshore oil-exploration + tourism + Beja indigenous communities ~60,000 population — distinct economically-substantial-disputed-territory framework). The Hala'ib Triangle territory historically operated under Egyptian Pharaonic Period ~3000 BCE + Roman + Arab Caliphate framework 640 CE + Egyptian + Anglo-Egyptian Sudan Condominium 1899-1956 + Egyptian-Sudanese-shared-administration 1956-1995 + Egyptian de facto administrative-control 1995-present. Hala'ib Triangle comprises ~20,580 km² with a population of ~60,000 (predominantly Beja indigenous communities). Family-law framework operates under Egyptian civil-law framework via Egyptian de facto administrative-control 1995-present (Egyptian Personal Status Law 25/1929 + Egyptian Family Court Law 10/2004) + contested Sudanese Personal Status Law claim. The Court of Appeal of Hala'ib + Aswan Court of First Instance operate under Egyptian framework; final appellate jurisdiction lies with the Supreme Court of Egypt + contested Sudanese Supreme Court claim. Hala'ib Triangle is silent on 'parental alienation' as a statutory label. Egypt is a Hague Convention 1980 signatory but not a party + Sudan is a Hague Convention 1980 signatory but not a party — Hala'ib Triangle is governed by Egyptian + Sudanese non-Hague-Convention-1980-ratification framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Anglo-Egyptian Sudan Condominium Agreement 1899 (22°N parallel framework)",
+      "title": "Anglo-Egyptian Sudan Condominium 1899",
+      "year": 1899,
+      "url": "https://www.un.org/",
+      "relevance": "Anglo-Egyptian Sudan Condominium Agreement signed 19 January 1899 — formal Anglo-Egyptian framework establishing Egypt-Sudan formal border at 22°N parallel line — Hala'ib Triangle located south of 22°N parallel line within Sudan framework + basis for Egyptian formal claim."
+    },
+    {
+      "citation": "Anglo-Egyptian Administrative Line 1902",
+      "title": "Anglo-Egyptian Administrative Line 1902",
+      "year": 1902,
+      "url": "https://www.un.org/",
+      "relevance": "Anglo-Egyptian Administrative Line of 4 November 1902 — formal Anglo-Egyptian administrative-line framework deviating from 1899 22°N parallel line, placing Hala'ib Triangle within Egypt framework + basis for Sudanese formal claim under 1902 framework + Egyptian administrative-control framework."
+    },
+    {
+      "citation": "Egypt-Sudan Border Dispute 1956+",
+      "title": "Egypt-Sudan Border Dispute 1956+",
+      "year": 1956,
+      "url": "https://www.un.org/",
+      "relevance": "Egypt-Sudan border-dispute framework 1956+ following Sudanese independence 1 January 1956 — Egypt claims 1899 22°N parallel line framework + Sudan claims 1902 Anglo-Egyptian administrative-line framework + Hala'ib Triangle disputed-claim framework."
+    },
+    {
+      "citation": "Egyptian Personal Status Law 25/1929 + Egyptian Family Court Law 10/2004",
+      "title": "Egyptian Personal Status Law + Family Court Law",
+      "year": 2004,
+      "url": "https://www.cabinet.gov.eg/",
+      "relevance": "Egyptian Personal Status Law 25/1929 + Egyptian Family Court Law 10/2004 — Egyptian framework family-law applicable in Hala'ib Triangle via Egyptian de facto administrative-control 1995-present."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Aswan Court of First Instance (Egyptian framework)",
+      "seat": "Aswan",
+      "url": "https://www.cabinet.gov.eg/",
+      "role": "Primary trial court for civil and criminal matters from Hala'ib Triangle under Egyptian framework."
+    },
+    {
+      "name": "Court of Cassation of Egypt (Egyptian framework)",
+      "seat": "Cairo",
+      "url": "https://www.cabinet.gov.eg/",
+      "role": "Final appellate court for civil and criminal matters from Hala'ib Triangle under Egyptian framework."
+    },
+    {
+      "name": "Supreme Court of Sudan (contested Sudanese framework)",
+      "seat": "Khartoum",
+      "url": "https://judiciary.gov.sd/",
+      "role": "Final appellate court — contested Sudanese framework over Hala'ib Triangle."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Egyptian Ministry of Health (de facto administrative-control framework)",
+      "url": "https://www.cabinet.gov.eg/",
+      "role": "Egyptian professional regulatory framework applicable in Hala'ib Triangle via Egyptian de facto administrative-control 1995-present."
+    }
+  ],
+  "anonymisation_convention": "Hala'ib Triangle family-court decisions are anonymised per Egyptian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1899,
+      "title": "Anglo-Egyptian Sudan Condominium",
+      "description": "Anglo-Egyptian Sudan Condominium Agreement signed 19 January 1899 — formal Anglo-Egyptian framework establishing Egypt-Sudan formal border at 22°N parallel line."
+    },
+    {
+      "year": 1902,
+      "title": "Anglo-Egyptian Administrative Line",
+      "description": "Anglo-Egyptian Administrative Line of 4 November 1902 — formal Anglo-Egyptian administrative-line framework deviating from 1899 22°N parallel line, placing Hala'ib Triangle within Egypt framework."
+    },
+    {
+      "year": 1956,
+      "title": "Sudanese independence + border dispute",
+      "description": "Sudanese independence 1 January 1956 — beginning of Egypt-Sudan border-dispute framework + Hala'ib Triangle disputed-claim framework."
+    },
+    {
+      "year": 1958,
+      "title": "Hala'ib Triangle dispute escalation",
+      "description": "Hala'ib Triangle dispute escalation 1958 — pivotal Egypt-Sudan border-dispute framework with Egyptian military buildup framework."
+    },
+    {
+      "year": 1995,
+      "title": "Egyptian administrative-control framework",
+      "description": "Egypt established formal Egyptian administrative-control framework over Hala'ib Triangle 1995+ following Sudan's recognition of Sudanese-Iraqi assassination-attempt on Egyptian President Hosni Mubarak 26 June 1995 in Addis Ababa."
+    },
+    {
+      "year": 2018,
+      "title": "Sudanese formal arbitration request",
+      "description": "Sudan formally requested International Court of Justice arbitration over Hala'ib Triangle dispute December 2018 — Egypt declined formal ICJ jurisdiction framework."
+    }
+  ],
+  "structural_findings": [
+    "Hala'ib Triangle operates as Egyptian de facto administrative-control + contested-Sudanese-claim framework — places Hala'ib Triangle in the North African disputed-territory cluster.",
+    "Only modern doubly-claimed territory between two sovereign states paired with formal terra nullius adjacent territory framework is structurally distinctive globally — Hala'ib Triangle + Bir Tawil paired claim-vs-non-claim framework.",
+    "Central jurisdiction of one of longest-running modern post-colonial African border-disputes is structurally distinctive globally — Hala'ib Triangle dispute 1958-2026 68+ years continuous Egypt-Sudan diplomatic dispute.",
+    "Central jurisdiction of one of most distinctive modern formal sovereign-claim+counter-claim-frameworks is structurally distinctive globally — Egypt 1899 framework + Sudan 1902 framework both states maintain formal sovereign claim.",
+    "Central jurisdiction of one of most economically distinctive disputed-territory frameworks is structurally distinctive globally — ~20,580 km² Red Sea coastal territory with substantial fishing-rights + offshore oil-exploration + Beja indigenous communities ~60,000 population framework.",
+    "1995 Egyptian administrative-control framework establishment following Sudan-Mubarak assassination-attempt framework is structurally distinctive globally.",
+    "2018 Sudanese formal ICJ arbitration request + Egyptian decline framework is structurally distinctive globally — only modern formal ICJ arbitration request over African border-dispute declined by counter-claimant state.",
+    "Egyptian + Sudanese non-Hague-Convention-1980-ratification framework applies."
+  ],
+  "references": [
+    "jurisdiction:egypt",
+    "jurisdiction:sudan",
+    "jurisdiction:bir-tawil",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "Egyptian Government Cabinet",
+      "url": "https://www.cabinet.gov.eg/",
+      "publisher": "Egyptian Government",
+      "language": "ar"
+    },
+    {
+      "title": "Sudanese Judiciary",
+      "url": "https://judiciary.gov.sd/",
+      "publisher": "Sudanese Government",
+      "language": "ar"
+    }
+  ],
+  "editorial_notes": [
+    "Hala'ib Triangle jurisdiction sidecar — Egyptian de facto administrative-control + contested-Sudanese-claim North African disputed-territory (Anglo-Egyptian Sudan Condominium 1899 + Anglo-Egyptian Administrative Line 1902 + Egypt-Sudan Border Dispute 1956+ + Egyptian Personal Status Law 25/1929 + 1958 dispute escalation + 1995 Egyptian administrative-control framework + 1995 Sudan-Mubarak assassination-attempt + 2018 Sudanese ICJ request + Beja indigenous communities + Egyptian + Sudanese non-Hague-1980-ratification framework). Only modern doubly-claimed territory between two sovereign states paired with formal terra nullius adjacent territory framework globally + central jurisdiction of one of longest-running modern post-colonial African border-disputes + central jurisdiction of one of most distinctive modern formal sovereign-claim+counter-claim-frameworks + central jurisdiction of one of most economically distinctive disputed-territory frameworks + 1995 Egyptian administrative-control framework + 2018 Sudanese formal ICJ arbitration request. Egypt-Sudan border-line discrepancy duo complete (Hala'ib Triangle + Bir Tawil).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-African + Egyptian-de-facto-administrative-control + disputed-territory cluster + doubly-claimed-territory-paired-with-terra-nullius-globally-distinctive + Egypt-Sudan-Border-Dispute-1956-68-year-continuous + Egypt-1899-22-N-parallel-framework + Sudan-1902-Anglo-Egyptian-administrative-line-framework + 1995-Egyptian-administrative-control + 1995-Sudan-Mubarak-assassination-attempt + 2018-Sudanese-ICJ-request + Beja-indigenous-communities + Egyptian-Sudanese-non-Hague-1980 clusters within the corpus."
+  ]
+}

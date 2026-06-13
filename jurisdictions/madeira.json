@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "id": "madeira",
+  "name": "Madeira (Região Autónoma da Madeira / Autonomous Region of Madeira)",
+  "jurisdiction_code": "PT-MAD",
+  "legal_system": "civil-law",
+  "language": ["pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Madeira (Região Autónoma da Madeira / RAM) is a North-eastern Atlantic civil-law autonomous region of the Portuguese Republic comprising the Madeira archipelago (Madeira Island + Porto Santo + Desertas + Selvagens) located ~1,000 km southwest of mainland Portugal and ~700 km west of Morocco — structurally distinctive globally as one of only two Portuguese autonomous regions (with the Azores) constitutionally established under Portuguese Constitution 1976 Article 6 (modified subsequently), as one of nine EU 'outermost regions' (Régions ultrapériphériques / RUP) operating under EU Treaty Article 349 special-regime framework, and as the central jurisdiction of the Estatuto Político-Administrativo da Região Autónoma da Madeira 1991 (modernised 2006) which establishes Madeira's distinctive legislative-assembly framework with Lei Orgânica autonomy. Madeira has the constitutional power to enact regional legislative acts (decretos legislativos regionais) within its statutorily defined competence including specific powers over family-law-adjacent matters such as guardianship and child welfare. Family-law framework operates under the Portuguese Civil Code (Código Civil 1966, as amended) applied via Madeira regional administrative framework with Madeira-specific regulatory decrees in some areas. Parental authority (responsabilidade parental) and child custody operate under Portuguese Civil Code Articles 1877-1920 as substantially amended by Lei 61/2008 (Joint Parental Responsibility Reform). The Tribunal da Relação de Lisboa has jurisdiction over Madeira appellate matters (the Madeira Judicial District 'Comarca da Madeira' is integrated into the Lisbon Court of Appeals system); final appellate jurisdiction lies with the Portuguese Supreme Court of Justice (Supremo Tribunal de Justiça). Madeira is silent on 'parental alienation' as a statutory label. Portugal is a Hague Convention 1980 party (acceded 6 December 1983) — Madeira Hague applicability via Portuguese territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Portuguese Constitution 1976 Article 6 (Autonomous Regions)",
+      "title": "Portuguese Constitution Article 6",
+      "year": 1976,
+      "url": "https://www.parlamento.pt/",
+      "relevance": "Portuguese Constitutional Article establishing the autonomous regions of Madeira and Azores within the Portuguese Republic — constitutional foundation for Madeira autonomous-region framework."
+    },
+    {
+      "citation": "Estatuto Político-Administrativo da Região Autónoma da Madeira 1991 (modernised 2006)",
+      "title": "Madeira Political-Administrative Statute",
+      "year": 2006,
+      "url": "https://www.alram.pt/",
+      "relevance": "Portuguese Organic Law of 5 June 1991 (Lei 13/91) establishing Madeira's distinctive legislative-assembly framework with Lei Orgânica autonomy — modernised by Lei 130/99 and Lei Orgânica 1/2006."
+    },
+    {
+      "citation": "EU Treaty Article 349 (Outermost Regions framework)",
+      "title": "EU Treaty Article 349",
+      "year": 2009,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "Treaty on the Functioning of the European Union Article 349 establishing EU 'outermost regions' (Régions ultrapériphériques / RUP) special-regime framework — Madeira one of nine RUP."
+    },
+    {
+      "citation": "Portuguese Civil Code Articles 1877-1920 (Parental Responsibility, as amended by Lei 61/2008)",
+      "title": "Portuguese Civil Code — Parental Responsibility",
+      "year": 2008,
+      "url": "https://www.parlamento.pt/",
+      "relevance": "Portuguese Civil Code articles governing responsabilidade parental and child custody — substantially amended by Lei 61/2008 (Joint Parental Responsibility Reform) introducing presumption of joint parental responsibility."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tribunal da Relação de Lisboa (Madeira Judicial District)",
+      "seat": "Lisbon",
+      "url": "https://www.tribunais.org.pt/",
+      "role": "Apex appellate court for civil and criminal matters from Madeira (integrated into Lisbon Court of Appeals system)."
+    },
+    {
+      "name": "Supremo Tribunal de Justiça",
+      "seat": "Lisbon",
+      "url": "https://www.stj.pt/",
+      "role": "Apex Portuguese appellate court for civil and criminal matters from Madeira."
+    },
+    {
+      "name": "Tribunal Constitucional",
+      "seat": "Lisbon",
+      "url": "https://www.tribunalconstitucional.pt/",
+      "role": "Apex Portuguese constitutional court for federal constitutional questions from Madeira."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ordem dos Psicólogos Portugueses (OPP)",
+      "url": "https://www.ordemdospsicologos.pt/",
+      "role": "Portuguese professional regulatory framework for psychology applicable in Madeira."
+    }
+  ],
+  "anonymisation_convention": "Madeira-related decisions are anonymised per Portuguese court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1419,
+      "title": "Portuguese discovery and settlement",
+      "description": "Portuguese discovery of Madeira by João Gonçalves Zarco and Tristão Vaz Teixeira in 1419 — beginning of Portuguese sovereignty over Madeira."
+    },
+    {
+      "year": 1976,
+      "title": "Portuguese Constitution + autonomous-region establishment",
+      "description": "Portuguese Constitution of 2 April 1976 Article 6 establishing the autonomous regions of Madeira and Azores within the Portuguese Republic."
+    },
+    {
+      "year": 1991,
+      "title": "Estatuto Político-Administrativo da RAM",
+      "description": "Portuguese Organic Law 13/91 of 5 June 1991 establishing Madeira's distinctive legislative-assembly framework — first comprehensive Madeira Political-Administrative Statute."
+    },
+    {
+      "year": 1997,
+      "title": "Amsterdam Treaty Outermost Regions framework",
+      "description": "Amsterdam Treaty of 2 October 1997 establishing EU 'outermost regions' (RUP) special-regime framework — Madeira designated as RUP."
+    },
+    {
+      "year": 2006,
+      "title": "Estatuto Político-Administrativo da RAM modernisation",
+      "description": "Lei Orgânica 1/2006 of 13 February 2006 comprehensively modernising Madeira Political-Administrative Statute."
+    },
+    {
+      "year": 2008,
+      "title": "Lei 61/2008 Joint Parental Responsibility Reform",
+      "description": "Portuguese Law 61/2008 of 31 October 2008 substantially amending Portuguese Civil Code Articles 1877-1920 — introducing presumption of joint parental responsibility."
+    },
+    {
+      "year": 2009,
+      "title": "Lisbon Treaty + EU Treaty Article 349",
+      "description": "Lisbon Treaty effective 1 December 2009 continuing EU 'outermost regions' (RUP) framework via Treaty on the Functioning of the European Union Article 349."
+    }
+  ],
+  "structural_findings": [
+    "Madeira operates a civil-law Portuguese Civil Code framework via regional autonomous-region framework — places Madeira in the eastern-Atlantic Portuguese autonomous-region cluster.",
+    "One of only two Portuguese autonomous regions (with Azores) constitutionally established under Portuguese Constitution 1976 Article 6 is structurally distinctive globally.",
+    "One of nine EU 'outermost regions' (RUP) operating under EU Treaty Article 349 special-regime framework is structurally distinctive globally — alongside other Iberian, French, and EU outermost regions.",
+    "Estatuto Político-Administrativo da RAM constitutional legislative-assembly framework with Lei Orgânica autonomy is structurally distinctive within EU subnational cluster.",
+    "Constitutional power to enact regional legislative acts (decretos legislativos regionais) within statutorily defined competence is structurally distinctive globally.",
+    "Lei 61/2008 (Portuguese Joint Parental Responsibility Reform) is structurally distinctive within European family-law cluster — introducing presumption of joint parental responsibility in 2008.",
+    "EU Article 349 RUP special-regime framework intersection with Portuguese autonomous-region framework is structurally distinctive — dual-EU-and-Portuguese autonomy framework.",
+    "Portuguese Hague Convention 1980 accession 1983 + Madeira Estatuto Político-Administrativo intersection is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:portugal",
+    "jurisdiction:spain",
+    "jurisdiction:azores",
+    "jurisdiction:canary-islands",
+    "jurisdiction:cabo-verde",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Assembleia Legislativa da Região Autónoma da Madeira",
+      "url": "https://www.alram.pt/",
+      "publisher": "Madeira Government",
+      "language": "pt"
+    },
+    {
+      "title": "Supremo Tribunal de Justiça",
+      "url": "https://www.stj.pt/",
+      "publisher": "Portuguese Government",
+      "language": "pt"
+    }
+  ],
+  "editorial_notes": [
+    "Madeira jurisdiction sidecar — civil-law eastern-Atlantic Portuguese autonomous region (Portuguese Civil Code Articles 1877-1920 as amended by Lei 61/2008 + Portuguese Constitution 1976 Article 6 + Estatuto Político-Administrativo da RAM 1991 modernised 2006 + EU Treaty Article 349 Outermost Regions framework + Portuguese Hague Convention 1980 accession 1983). One of only two Portuguese autonomous regions globally + one of nine EU outermost regions (RUP) + constitutional legislative-assembly framework with Lei Orgânica autonomy + constitutional power to enact regional legislative acts within statutorily defined competence + Lei 61/2008 Joint Parental Responsibility Reform.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins eastern-Atlantic + civil-law + Portuguese-autonomous-region cluster + Constitution-Article-6-constitutionally-established-globally-distinctive + EU-Article-349-Outermost-Regions-RUP-framework + Estatuto-Político-Administrativo-legislative-assembly-Lei-Orgânica-autonomy + decretos-legislativos-regionais-regional-legislative-power + Lei-61/2008-Joint-Parental-Responsibility-Reform-2008 + Portuguese-Hague-1983-accession clusters within the corpus."
+  ]
+}

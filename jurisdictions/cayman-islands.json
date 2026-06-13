@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "cayman-islands",
+  "name": "Cayman Islands",
+  "jurisdiction_code": "KY",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Cayman Islands is a Caribbean common-law British Overseas Territory. Family-law framework operates under the Matrimonial Causes Law (2005 Revision), the Maintenance Law, and the Children Law 2003 (drawing on English Children Act 1989 model). Parental responsibility and child custody are governed by Children Law 2003 Part II. The Court of Appeal of the Cayman Islands is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Grand Court (Family Division) and Summary Court. Psychology profession is regulated through the Health Practice Commission framework. Cayman Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Law 2003 s. 3. Cayman Islands is a Hague Convention 1980 party via UK territorial extension effective 1 August 1998.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Law 2003",
+      "title": "Children Law",
+      "year": 2003,
+      "url": "https://www.judicial.ky/",
+      "relevance": "Federal Children Law drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Matrimonial Causes Law (2005 Revision)",
+      "title": "Matrimonial Causes Law",
+      "year": 2005,
+      "url": "https://www.judicial.ky/",
+      "relevance": "Federal matrimonial-causes statute."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of the Cayman Islands",
+      "seat": "George Town",
+      "url": "https://www.judicial.ky/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from the Cayman Islands."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Health Practice Commission, Cayman Islands",
+      "url": "https://www.cayhpc.gov.ky/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Caymanian family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1998,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Cayman Islands effective 1 August 1998."
+    },
+    {
+      "year": 2003,
+      "title": "Children Law 2003",
+      "description": "Federal Children Law enacted drawing on English Children Act 1989 model."
+    }
+  ],
+  "structural_findings": [
+    "Cayman Islands operates a common-law framework drawing on English-law model with British Overseas Territory status — places Cayman Islands in the Caribbean BOT cluster.",
+    "Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:bermuda",
+    "jurisdiction:british-virgin-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Administration of the Cayman Islands",
+      "url": "https://www.judicial.ky/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "Health Practice Commission",
+      "url": "https://www.cayhpc.gov.ky/",
+      "publisher": "HPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Cayman Islands jurisdiction sidecar — common-law Caribbean BOT (Children Law 2003 + Matrimonial Causes Law 2005 Revision + JCPC final-appellate + Hague via UK territorial extension 1998).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + common-law + BOT cluster + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

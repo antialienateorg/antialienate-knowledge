@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "id": "azad-kashmir",
+  "name": "Azad Jammu and Kashmir (Azad Kashmir / AJK)",
+  "jurisdiction_code": "PK-AJK",
+  "legal_system": "mixed",
+  "language": ["ur", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Azad Jammu and Kashmir (AJK / Azad Kashmir / آزاد جموں و کشمیر) is a South Asian mixed common-law/Islamic-personal-law Pakistani-administered self-governing territory — structurally distinctive globally as the only territory operating a dual-state-and-territory constitutional framework where the AJK Interim Constitution Act 1974 explicitly designates AJK as 'separate' from Pakistan pending the final UN-supervised plebiscite resolving the Kashmir dispute, while simultaneously being governed by a Pakistani Federal Ministry (Kashmir Affairs and Gilgit-Baltistan) and having its appellate decisions reviewable by the Supreme Court of Pakistan via the AJK Council mechanism. AJK is one of the central jurisdictions of the broader Kashmir conflict involving Indian-administered J&K + Ladakh and Chinese-administered Aksai Chin. AJK comprises ~13,297 km² with a population of ~4.5 million. The territory has its own President, Prime Minister, Legislative Assembly, Supreme Court of AJK, and High Court of AJK. Family-law framework operates under a dual common-law (English-derived via Pakistani inheritance) + Muslim Personal Law (Shariat) Application Act 1937 framework — Muslim Personal Law applies to the predominantly-Muslim (~99%) population. Parental authority and child custody operate under the Guardians and Wards Act 1890 supplemented by Hanafi-school Sunni and Twelver-Shi'a personal-law frameworks. The Supreme Court of AJK is the apex appellate court for AJK matters; the AJK Council (joint AJK-Pakistani body) exercises some appellate-supervisory functions. AJK is silent on 'parental alienation' as a statutory label. Pakistan is a Hague Convention 1980 party (acceded 1 March 2017) — AJK Hague applicability operates via Pakistani territorial extension subject to AJK's dual-state-and-territory constitutional status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "AJK Interim Constitution Act 1974 (as amended)",
+      "title": "AJK Interim Constitution Act 1974",
+      "year": 1974,
+      "url": "https://www.ajk.gov.pk/",
+      "relevance": "AJK Constitution establishing self-governing dual-state-and-territory framework pending final UN-supervised plebiscite resolving the Kashmir dispute."
+    },
+    {
+      "citation": "Muslim Personal Law (Shariat) Application Act 1937 (applicable in AJK)",
+      "title": "Muslim Personal Law (Shariat) Application Act 1937",
+      "year": 1937,
+      "url": "https://www.ajk.gov.pk/",
+      "relevance": "Muslim Personal Law Act applicable in AJK — primary family-law framework for predominantly-Muslim AJK population."
+    },
+    {
+      "citation": "Guardians and Wards Act 1890 (applicable in AJK)",
+      "title": "Guardians and Wards Act 1890",
+      "year": 1890,
+      "url": "https://www.ajk.gov.pk/",
+      "relevance": "Guardians and Wards Act 1890 applicable in AJK for parental responsibility and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Azad Jammu and Kashmir",
+      "seat": "Muzaffarabad",
+      "url": "https://www.supremecourtajk.gov.pk/",
+      "role": "Apex appellate court for civil and criminal matters from AJK."
+    },
+    {
+      "name": "High Court of Azad Jammu and Kashmir",
+      "seat": "Muzaffarabad",
+      "url": "https://www.ajkhighcourt.gov.pk/",
+      "role": "Constitutional and appellate court for civil and criminal matters from AJK."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Pakistan Psychology Council (PPC) — applicable via Pakistani-Federal extension",
+      "url": "https://www.pps.org.pk/",
+      "role": "Pakistani professional regulatory framework for psychology applicable in AJK."
+    }
+  ],
+  "anonymisation_convention": "AJK family-court decisions are anonymised per High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1947,
+      "title": "First Kashmir War + AJK formation",
+      "description": "First Kashmir War October 1947-January 1949 — AJK formed in October 1947 as Pakistani-administered portion of the disputed Princely State of Jammu and Kashmir."
+    },
+    {
+      "year": 1949,
+      "title": "Karachi Agreement + UN Ceasefire Line",
+      "description": "Karachi Agreement of 27 July 1949 established UN Ceasefire Line between Indian and Pakistani forces in Kashmir."
+    },
+    {
+      "year": 1974,
+      "title": "AJK Interim Constitution Act",
+      "description": "AJK Interim Constitution Act 1974 establishing self-governing dual-state-and-territory framework pending final UN-supervised plebiscite."
+    },
+    {
+      "year": 2017,
+      "title": "Pakistani Hague Convention 1980 accession",
+      "description": "Pakistan acceded to the Hague Convention 1980 effective 1 March 2017 — AJK Hague applicability via Pakistani territorial extension."
+    }
+  ],
+  "structural_findings": [
+    "Azad Kashmir operates a mixed common-law + Muslim Personal Law framework — places AJK in the Pakistani-administered self-governing territory cluster.",
+    "Only territory operating a dual-state-and-territory constitutional framework is structurally distinctive globally — AJK Interim Constitution Act 1974 explicitly designates AJK as 'separate' from Pakistan pending final UN-supervised plebiscite.",
+    "Self-governing territory status with own President, Prime Minister, Legislative Assembly, Supreme Court, and High Court is structurally distinctive within Pakistani-administered cluster.",
+    "AJK Council joint AJK-Pakistani body mechanism is structurally distinctive — only joint-state-and-territory appellate-supervisory body within Pakistan.",
+    "Kashmir conflict integration with Indian-administered J&K + Ladakh and Chinese-administered Aksai Chin is structurally distinctive globally — only state-level territorial conflict involving three nuclear-armed neighbouring states.",
+    "Pakistani Hague Convention 1980 accession (2017) is structurally distinctive — recent (~9-year) accession, with applicability operating via Pakistani territorial extension subject to AJK's dual-state-and-territory constitutional status."
+  ],
+  "references": [
+    "jurisdiction:pakistan",
+    "jurisdiction:india",
+    "jurisdiction:china",
+    "jurisdiction:jammu-and-kashmir",
+    "jurisdiction:ladakh",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Azad Jammu and Kashmir",
+      "url": "https://www.ajk.gov.pk/",
+      "publisher": "AJK Government",
+      "language": "en"
+    },
+    {
+      "title": "Supreme Court of Azad Jammu and Kashmir",
+      "url": "https://www.supremecourtajk.gov.pk/",
+      "publisher": "AJK Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Azad Kashmir jurisdiction sidecar — mixed common-law/Muslim Personal Law South Asian Pakistani-administered self-governing territory (AJK Interim Constitution Act 1974 + Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 + Pakistani Hague Convention 1980 accession 2017). Only territory operating dual-state-and-territory constitutional framework + self-governing with own President/PM/Assembly/Supreme Court/High Court + AJK Council joint-state-and-territory appellate-supervisory body + central jurisdiction of Kashmir conflict involving three nuclear-armed states.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Asian + mixed common-law/Muslim-Personal-Law + Pakistani-administered-self-governing-territory cluster + dual-state-and-territory-constitutional-framework-globally-distinctive + AJK-Council-joint-appellate-supervisory + Kashmir-conflict-three-nuclear-state-jurisdiction + Pakistani-Hague-1980-2017-accession clusters within the corpus."
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "id": "africa",
+  "name": "Africa (regional aggregate)",
+  "jurisdiction_code": "AFR",
+  "legal_system": "mixed",
+  "language": ["en", "ar", "sw"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Regional aggregate jurisdiction covering African PA-construct landscape. Anchored by South Africa (only African jurisdiction with named-on-record PA clinician cluster verifiable via T.L.D v B.G [2023] ZAGPJHC 801). Other African jurisdictions surface only at institutional / feminist-legal collective level. Constituent jurisdictions with v1.0 sidecars: South Africa, Kenya, Nigeria, Egypt, Ghana. Regional African pattern: women's-rights-organisation-led critique register (Mosaic SA, FIDA Kenya, Project Alert + WACOL Nigeria, FIDA-Ghana, NCCM Egypt) — NOT clinician-led. Mirrors India pattern. Peer-reviewed African PA literature is thin and SA-monopolised (Viljoen 2014; Bosch-Brits, Wessels & Roux 2018).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "split",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "African Charter on Human and Peoples' Rights (Banjul Charter) 1981",
+      "title": "Banjul Charter — African human-rights framework",
+      "year": 1981,
+      "url": "https://au.int/en/treaties/african-charter-human-and-peoples-rights",
+      "relevance": "Regional human-rights framework. Art. 18(3) recognises child as object of state protection. Operates as constitutional backdrop for African children's-rights reasoning."
+    },
+    {
+      "citation": "African Charter on the Rights and Welfare of the Child 1990",
+      "title": "African Children's Charter (ACRWC)",
+      "year": 1990,
+      "url": "https://au.int/en/treaties/african-charter-rights-and-welfare-child",
+      "relevance": "Regional treaty on children's rights, complementing UN CRC. Art. 4 best-interests-of-the-child paramountcy applicable in all African member states. Ratified by most African Union members."
+    },
+    {
+      "citation": "Maputo Protocol 2003 (Protocol to the African Charter on Human and Peoples' Rights on the Rights of Women in Africa)",
+      "title": "Maputo Protocol — women's rights in Africa",
+      "year": 2003,
+      "url": "https://au.int/en/treaties/protocol-african-charter-human-and-peoples-rights-rights-women-africa",
+      "relevance": "Protocol addressing women's rights including art. 4 (right to life, integrity and security of the person), art. 13 (economic and social welfare), art. 21 (right to inheritance). Operates as regional backdrop for women's-rights African PA-adjacent advocacy."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "African Court on Human and Peoples' Rights (AfCHPR)",
+      "url": "https://www.african-court.org/",
+      "key_decisions": [
+        {
+          "caption": "African Court on Human and Peoples' Rights — regional human-rights court. Sits in Arusha, Tanzania. Has not issued PA-construct-specific decision; engages family-life and children's-rights matters under Banjul Charter framework.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "African Committee of Experts on the Rights and Welfare of the Child (ACERWC)",
+      "url": "https://www.acerwc.africa/",
+      "key_decisions": [
+        {
+          "caption": "Treaty body monitoring African Children's Charter implementation. Conducts state reporting reviews and individual communications. No PA-construct-specific position.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "National apex courts of constituent jurisdictions",
+      "url": "https://au.int/",
+      "key_decisions": [
+        {
+          "caption": "Sub-jurisdiction apex: South Africa (Constitutional Court + SCA — TLD v BG 2023 + ZDE v CE 2024); Kenya (Supreme Court of Kenya); Nigeria (Supreme Court of Nigeria); Egypt (Supreme Constitutional Court + Court of Cassation); Ghana (Supreme Court of Ghana). See per-country jurisdiction sidecars.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Africa Union Department of Health, Humanitarian Affairs and Social Development",
+      "url": "https://au.int/en/health",
+      "position_statement": "African Union department coordinating regional health policy. No PA-construct-specific position. Regional coordination layer above constituent-jurisdiction regulators."
+    },
+    {
+      "name": "African Psychology Coordinating Committee",
+      "url": "https://www.psyssa.com/",
+      "position_statement": "Regional African psychology coordination via PsySSA (Psychological Society of South Africa) and other national bodies. No PA-construct-specific regional position. Reflects regional fragmentation of statutory psychology regulation."
+    }
+  ],
+  "anonymisation_convention": "Anonymisation conventions vary by constituent jurisdiction. See per-country sidecars (south-africa, kenya, nigeria, egypt, ghana).",
+  "key_developments": [
+    {
+      "year": 1981,
+      "description": "African Charter on Human and Peoples' Rights (Banjul Charter) adopted.",
+      "url": "https://au.int/en/treaties/african-charter-human-and-peoples-rights"
+    },
+    {
+      "year": 1990,
+      "description": "African Charter on the Rights and Welfare of the Child (ACRWC) adopted.",
+      "url": "https://au.int/en/treaties/african-charter-rights-and-welfare-child"
+    },
+    {
+      "year": 2003,
+      "description": "Maputo Protocol on Rights of Women in Africa adopted.",
+      "url": "https://au.int/en/treaties/protocol-african-charter-human-and-peoples-rights-rights-women-africa"
+    },
+    {
+      "year": 2023,
+      "description": "TLD v BG [2023] ZAGPJHC 801 (SA, Adams J) — leading African apex PA-recognition authority.",
+      "url": "http://www.saflii.org/za/cases/ZAGPJHC/2023/801.html"
+    }
+  ],
+  "structural_findings": [
+    "AFRICA IS ANCHORED BY SOUTH AFRICA AT THE CLINICAL LEVEL: SA is the sole African jurisdiction with named-on-record PA clinicians (Carr, Roux, Olivier, Els, Martalas, Viljoen, NWU social-work team) verifiable via leading apex judgment (T.L.D v B.G [2023] ZAGPJHC 801). Other African jurisdictions surface only at institutional / feminist-legal collective level. Centrality recognition for SA — not evaluative ranking.",
+    "REGIONAL CRITIQUE REGISTER IS WOMEN'S-RIGHTS-ORGANISATION-LED: Mosaic SA, FIDA Kenya, Project Alert + WACOL Nigeria, FIDA-Ghana, NCCM Egypt. Pattern parallel to India (Lawyers Collective WRI + Majlis + MASUM + Sakshi). Distinct from German clinician-led critique (Zimmermann/Walper/Fichtner cluster) or Spanish Vaccaro coinage.",
+    "PEER-REVIEWED AFRICAN PA LITERATURE THIN AND SA-MONOPOLISED: Viljoen & van Rensburg (J. Divorce & Remarriage 2014) and Bosch-Brits, Wessels & Roux (Social Work / Maatskaplike Werk 2018 SciELO) are the only African peer-reviewed PA-engaging studies. No PA-position statement from HPCSA + SACSSP + CPRB + NACP + NPA + EPA + NCCM regional regulators.",
+    "REGULATOR-SILENCE REGIONAL PATTERN: HPCSA Professional Board for Psychology (SA) + SACSSP + CPRB (Kenya) + NACP/NPA (Nigeria) + Egyptian Psychiatric Association + Ghana Psychology Council all institutionally silent on PA. Parallels India IPS/IAPP pattern.",
+    "NORTH AFRICAN vs SUB-SAHARAN PATTERN DISTINCTION: Egypt's NCCM is state-statutory body critique anchor; sub-Saharan jurisdictions (SA/KE/NG/GH) anchor critique in women's-rights NGOs (Mosaic / FIDA / Project Alert+WACOL / FIDA-Ghana). Reflects different state-civil-society relationship in North African vs sub-Saharan contexts.",
+    "ZERO NAMED INDIVIDUAL PA CLINICIANS LOCATED IN KE/NG/EG/GH/TZ/ZW/UG/BW/MA within time-budget public-web search. African PA-clinician footprint is SA-monopolised at named-individual level.",
+    "AFRICAN CHARTER ON THE RIGHTS AND WELFARE OF THE CHILD (ACRWC 1990) IS THE LOAD-BEARING REGIONAL FRAMEWORK: Art. 4 best-interests-of-the-child paramountcy operationalises in all member state national legislation. ACERWC monitors implementation.",
+    "REGIONAL INSTITUTIONAL ARCHITECTURE STILL DEVELOPING: African Court on Human and Peoples' Rights (Arusha) has issued no PA-construct-specific decision; ACERWC monitoring has not engaged PA construct directly. Regional apex layer below national-apex maturity level."
+  ],
+  "references": [
+    "case-study:tld-v-bg-2023-zagpjhc-801-south-africa",
+    "jurisdiction:south-africa",
+    "jurisdiction:kenya",
+    "jurisdiction:nigeria",
+    "jurisdiction:egypt",
+    "jurisdiction:ghana"
+  ],
+  "sources": [
+    {
+      "title": "African Union (AU)",
+      "url": "https://au.int/",
+      "publisher": "African Union Commission",
+      "language": "en"
+    },
+    {
+      "title": "African Court on Human and Peoples' Rights",
+      "url": "https://www.african-court.org/",
+      "publisher": "AfCHPR",
+      "language": "en"
+    },
+    {
+      "title": "African Committee of Experts on the Rights and Welfare of the Child (ACERWC)",
+      "url": "https://www.acerwc.africa/",
+      "publisher": "ACERWC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Regional aggregate jurisdiction — substantive content carried by constituent per-country sidecars (south-africa, kenya, nigeria, egypt, ghana).",
+    "Resolves backwards-compatible refs from africa.json therapist file + africa.md lawyer file that point to jurisdiction:africa.",
+    "Constituent jurisdiction discovery via references[]; SA as load-bearing African anchor preserved in structural_findings[0]."
+  ]
+}

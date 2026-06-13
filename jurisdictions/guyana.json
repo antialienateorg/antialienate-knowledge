@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "guyana",
+  "name": "Guyana (Co-operative Republic of Guyana)",
+  "jurisdiction_code": "GY",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Guyana is a South American/Caribbean mixed-legal-system republic combining Roman-Dutch civil-law substantive heritage (via Dutch colonial inheritance pre-1814) with English common-law procedural inheritance (post-1814). Within the Caribbean cluster, Guyana shares the Roman-Dutch substantive heritage uniquely (with Sri Lanka and Southern African Roman-Dutch cluster). Family-law framework operates under the Family and Dependants Provision Act, Married Persons (Property) Act, Maintenance Act, and Status of Children Act 2009. Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Court of Appeal of Guyana is the apex domestic court for civil and criminal matters; the Caribbean Court of Justice (CCJ) is the final appellate court — Guyana is a founding member of the CCJ's appellate jurisdiction (transferred from JCPC in 2005). Family-law matters are heard at first instance in the Magistrates' Family Court and High Court (Family Division). Psychology profession is regulated through the Ministry of Health framework. Guyana is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Guyana is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Status of Children Act 2009",
+      "title": "Status of Children Act",
+      "year": 2009,
+      "url": "https://www.judiciary.gov.gy/",
+      "relevance": "Federal statute on legal status of children including those born to unmarried parents."
+    },
+    {
+      "citation": "Family and Dependants Provision Act",
+      "title": "Family and Dependants Provision Act",
+      "year": 1990,
+      "url": "https://www.judiciary.gov.gy/",
+      "relevance": "Federal statute on family and dependants' provision rights."
+    },
+    {
+      "citation": "Maintenance Act",
+      "title": "Maintenance Act",
+      "year": 1981,
+      "url": "https://www.judiciary.gov.gy/",
+      "relevance": "Federal statute on maintenance obligations including child support."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Guyana",
+      "seat": "Georgetown",
+      "url": "https://www.judiciary.gov.gy/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Caribbean Court of Justice (CCJ)",
+      "seat": "Port of Spain",
+      "url": "https://www.ccj.org/",
+      "role": "Final appellate court for civil and criminal matters from Guyana (founding member 2005)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Guyana",
+      "url": "https://www.health.gov.gy/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Guyanese family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1814,
+      "title": "British colonial inheritance",
+      "description": "British colonial administration commenced after Dutch colonial period; Roman-Dutch substantive heritage retained with English common-law procedural inheritance."
+    },
+    {
+      "year": 1966,
+      "title": "Independence",
+      "description": "Guyana achieved independence from the United Kingdom."
+    },
+    {
+      "year": 1970,
+      "title": "Republic transition",
+      "description": "Guyana became a republic in 1970 — first Caribbean former-British-monarchy to transition to republic."
+    },
+    {
+      "year": 2005,
+      "title": "CCJ appellate jurisdiction transfer",
+      "description": "Guyana transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice — founding member of CCJ appellate jurisdiction."
+    },
+    {
+      "year": 2009,
+      "title": "Status of Children Act",
+      "description": "Federal statute on legal status of children enacted."
+    }
+  ],
+  "structural_findings": [
+    "Guyana operates a structurally distinctive mixed-legal-system framework — Roman-Dutch civil-law substantive heritage (via Dutch colonial pre-1814) + English common-law procedural inheritance (post-1814). Unique within Caribbean cluster; shares Roman-Dutch substantive tradition with Sri Lanka and Southern African Roman-Dutch cluster.",
+    "CCJ-final-appellate-jurisdiction transfer (2005) is shared with Barbados within the corpus.",
+    "First Caribbean republic transition (1970) is structurally distinctive — earliest Caribbean former-British-monarchy to republic transition.",
+    "Non-Hague Convention status places Guyana in the non-Hague Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:barbados",
+    "jurisdiction:south-africa",
+    "jurisdiction:sri-lanka",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Guyana",
+      "url": "https://www.judiciary.gov.gy/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Caribbean Court of Justice",
+      "url": "https://www.ccj.org/",
+      "publisher": "CCJ",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.health.gov.gy/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Guyana jurisdiction sidecar — mixed-legal-system Caribbean (Roman-Dutch substantive + English common-law procedural + CCJ final-appellate from 2005 + first Caribbean republic 1970 + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + mixed-legal-system + Roman-Dutch substantive + CCJ-final-appellate + non-Hague Convention clusters within the corpus."
+  ]
+}

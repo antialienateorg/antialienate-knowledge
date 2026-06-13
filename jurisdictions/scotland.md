@@ -1,0 +1,116 @@
+# Scotland
+
+**Jurisdiction code:** `UK-SCO` · **Legal system:** mixed  
+**Language(s):** en, sco, gd  
+
+Scotland is a mixed civil-common (Scottish hybrid) jurisdiction whose family courts apply the Children (Scotland) Act 1995 welfare test (s.11, s.11(7C)) as reformed by the Children (Scotland) Act 2020. Scotland produced the strongest single Scottish judicial PA finding to date in NF v AF [2025] CSOH 13 (Lord Stuart), which characterised a parent's knowingly false allegations against the other parent as direct emotional abuse of the child. The institutional landscape is institutional-voice + judicial-output dominated rather than bar-based: practitioner identity sits with Shared Parenting Scotland (recognition camp) and Scottish Women's Aid + Engender (critique camp) rather than with a named Faculty of Advocates PA bar.
+
+## PA recognition status
+
+- **Statutory:** silent
+- **Apex court position:** recognition
+- **Professional regulator position:** varies-by-region
+
+## Statutory framework
+
+- **Children (Scotland) Act 1995 ss.11, 11(7C)** — Children (Scotland) Act 1995 — court orders relating to parental responsibilities and the welfare test (1995) — <https://www.legislation.gov.uk/ukpga/1995/36/contents>
+  - Primary statutory basis for s.11 orders (residence, contact, specific issue, parental responsibilities). s.11(7) welfare paramountcy and s.11(7A)-(7E) protective factors (need to protect from abuse, effect of abuse) are the hooks used by Scottish courts to address PA-style fact-patterns without naming the construct.
+- **Children (Scotland) Act 2020** — Children (Scotland) Act 2020 — welfare-test reform and procedural modernisation (2020) — <https://www.legislation.gov.uk/asp/2020/16/contents>
+  - Reforms the 1995 Act welfare regime: child's views, regulation of child welfare reporters and curators ad litem, contact-centre regulation, alternative dispute resolution and protection-from-domestic-abuse considerations. Provides the modern statutory frame within which NF v AF [2025] CSOH 13 was decided.
+- **Family Law (Scotland) Act 2006** — Family Law (Scotland) Act 2006 (2006) — <https://www.legislation.gov.uk/asp/2006/2/contents>
+  - Modernises Scottish family law (cohabitants, parental responsibilities for unmarried fathers, s.24 abolition of status of illegitimacy) and amends the 1995 Act welfare provisions; relevant background statute for s.11 contact and residence disputes.
+- **Adults with Incapacity (Scotland) Act 2000** — Adults with Incapacity (Scotland) Act 2000 (2000) — <https://www.legislation.gov.uk/asp/2000/4/contents>
+  - Capacity framework relevant to adult-incapacity and guardianship questions that intersect with intergenerational family-law disputes; sets the wider Scottish welfare-jurisdiction architecture in which sheriff courts and the Court of Session operate.
+- **Children's Hearings (Scotland) Act 2011** — Children's Hearings (Scotland) Act 2011 (2011) — <https://www.legislation.gov.uk/asp/2011/1/contents>
+  - Constitutes the Children's Hearings System (panels, Reporter, compulsory supervision orders); the distinctive Scottish welfare-jurisdiction route that sits alongside (and feeds) sheriff court family-law proceedings.
+- **Domestic Abuse (Scotland) Act 2018** — Domestic Abuse (Scotland) Act 2018 — coercive control criminalisation (2018) — <https://www.legislation.gov.uk/asp/2018/5/contents>
+  - Creates the statutory offence of engaging in a course of abusive behaviour towards a partner or ex-partner (s.1), expressly including psychological/coercive control. Re-frames the evidential backdrop against which Scottish family courts assess allegations and counter-allegations of abuse in s.11 contact disputes — a critical context for the Scottish Women's Aid / Engender critique line.
+
+## Apex courts
+
+### Court of Session — Outer House
+<https://www.judiciary.scot/home/the-courts/court-of-session>
+- **NF v AF [2025] CSOH 13 (Lord Stuart) — strongest single Scottish judicial PA finding: Lord Stuart characterised a parent's knowingly false allegations against the other parent as direct emotional abuse of the child, without resting the finding on the contested 'parental alienation syndrome' label.** (2025) — recognition — [`nf-v-af-2025-csoh-13-scotland`](../case-studies/nf-v-af-2025-csoh-13-scotland.md)
+
+### Court of Session — Inner House
+<https://www.judiciary.scot/home/the-courts/court-of-session>
+- **Scottish appellate court (First and Second Divisions); no direct Inner House PA ruling has been identified as of generation date.** (2026) — middle
+
+### United Kingdom Supreme Court (Scottish appellate jurisdiction)
+<https://www.supremecourt.uk/>
+- **Final court of appeal in Scottish civil matters; no PA-specific Scottish appeal has reached the UKSC as of generation date.** (2026) — middle
+
+### Sheriff Court (Scottish family-law first-instance forum)
+<https://www.scotcourts.gov.uk/the-courts/sheriff-court>
+- **Sheriff courts hear the bulk of Children (Scotland) Act 1995 s.11 contact and residence proofs at first instance; Scottish PA-adjacent fact-patterns are typically litigated and decided at sheriff level before reaching the Court of Session.** (2026) — middle
+
+## Professional regulators
+
+- **British Psychological Society — Scottish branches / Division of Forensic Psychology** — BPS operates UK-wide (Scotland is served via BPS Scottish branches and the UK-wide Division of Forensic Psychology); there is no Scotland-specific PA position statement. BPS guidance on expert evidence and the use of contested constructs applies in Scotland by extension. — <https://www.bps.org.uk/>
+- **Health and Care Professions Council (HCPC)** — HCPC is the UK-wide statutory regulator for practitioner psychologists and allied health professions; fitness-to-practise standards apply in Scotland as elsewhere in the UK. HCPC has issued no Scotland-specific PA position. — <https://www.hcpc-uk.org/>
+- **Royal College of Psychiatrists in Scotland** — Scottish division of the Royal College of Psychiatrists; no published Scotland-specific position statement on parental alienation as a diagnostic construct. ICD-11 caregiver-child relationship problem (QE52.0) coding is available without committing the College to a PA position. — <https://www.rcpsych.ac.uk/about-us/our-locations/scotland>
+- **Social Work Scotland** — Scottish national body for social work leadership; the relevant statutory regulator for individual social workers is the Scottish Social Services Council (SSSC). No Scotland-specific PA position statement identified; safeguarding and welfare standards apply through the Children (Scotland) Act 1995 / 2020 frame. — <https://socialworkscotland.org/>
+
+## Anonymisation convention
+
+Court of Session anonymises children by initial; NF v AF uses 2-letter party initials per Scottish family-law convention. Sheriff court Children (Scotland) Act 1995 proceedings are similarly anonymised in publicly reported judgments; reporting restrictions under the Children and Young Persons (Scotland) Act and Children's Hearings (Scotland) Act 2011 apply where relevant.
+
+## Key developments
+
+- **1995** — Children (Scotland) Act 1995 — establishes the modern Scottish welfare-test architecture for s.11 orders (residence, contact, specific issue, parental responsibilities); s.11(7) welfare paramountcy is the statutory hook for all subsequent PA-adjacent litigation. — <https://www.legislation.gov.uk/ukpga/1995/36/contents>
+- **2006** — Family Law (Scotland) Act 2006 — modernises parental responsibilities for unmarried fathers, cohabitants' rights, and amends the 1995 Act welfare regime. — <https://www.legislation.gov.uk/asp/2006/2/contents>
+- **2018** — Domestic Abuse (Scotland) Act 2018 — coercive control criminalisation: creates the statutory offence of a course of abusive behaviour towards a partner or ex-partner (s.1), expressly including psychological abuse. Re-frames Scottish family-court assessment of allegations and counter-allegations in s.11 disputes. — <https://www.legislation.gov.uk/asp/2018/5/contents>
+- **2020** — Children (Scotland) Act 2020 — welfare-test reform; regulation of child welfare reporters/curators ad litem, contact-centre regulation, child's views, protection-from-domestic-abuse considerations. — <https://www.legislation.gov.uk/asp/2020/16/contents>
+- **2025** — 5.2.2025 — NF v AF [2025] CSOH 13 (F25/23), Lord Stuart, Court of Session Outer House: strongest single Scottish judicial PA finding. Lord Stuart found that a parent's knowingly false allegations against the other parent constituted direct emotional abuse of the child, decided on welfare/abuse grounds rather than on the contested 'parental alienation syndrome' label. — <https://www.bailii.org/scot/cases/ScotCS/2025/>
+
+## Structural findings
+
+- NF v AF [2025] CSOH 13 (Lord Stuart, Court of Session Outer House) is the strongest single Scottish judicial PA finding to date: it characterised a parent's knowingly false allegations against the other parent as direct emotional abuse of the child, while keeping the reasoning anchored in welfare/abuse rather than the contested 'parental alienation syndrome' label.
+- Scotland's PA landscape is institutional-voice + judicial-output dominated rather than bar-based: practitioner identity sits with institutional voices (Shared Parenting Scotland on the recognition side; Scottish Women's Aid and Engender on the critique side) and with named judicial decisions, rather than with a named Faculty of Advocates PA bar.
+- Shared Parenting Scotland is the recognition-camp institutional voice; Scottish Women's Aid (national lead on women's experience of domestic abuse) and Engender (Scotland's feminist policy and advocacy organisation) are the critique-camp institutional voices, particularly emphasising the Domestic Abuse (Scotland) Act 2018 coercive-control frame.
+- EDITORIAL CORRECTION (preserved from UK-Devolved lawyers v2): 'Mary Connolly KC' does not exist on the Faculty of Advocates roll — earlier drafts confused this name with Martina Connolly KC at the Northern Ireland Bar. Removed from the Scottish practitioner list.
+- EDITORIAL CORRECTION (preserved from UK-Devolved lawyers v2): Jonathan Dunlop KC is a commercial silk, not a family-law practitioner — removed from the Scottish family-law PA practitioner list.
+- EDITORIAL CORRECTION (preserved from UK-Devolved lawyers v2): Cara Goodwin is not on the Faculty of Advocates roll — removed from the Scottish advocate list.
+- EDITORIAL CORRECTION (preserved from UK-Devolved lawyers v2): 'Family Law Scotland Ltd' does not exist as a registered Scottish firm — removed from the Scottish firms list.
+
+## See also
+
+- `case-study:nf-v-af-2025-csoh-13-scotland`
+- `practitioner:uk-sco.lord-stuart`
+- `practitioner:uk-sco.scott-kc`
+- `practitioner:uk-sco.lady-wise`
+- `practitioner:uk-sco.lilley-sarah`
+- `practitioner:uk-sco.millar-caroline`
+- `practitioner:uk-sco.sutherland-sandra`
+- `practitioner:uk-sco.sps`
+- `practitioner:uk-sco.swa`
+- `practitioner:uk-sco.engender`
+- `jurisdiction:england-and-wales`
+
+## Sources
+
+1. **NF v AF [2025] CSOH 13 — Court of Session Outer House (Lord Stuart)** — <https://www.bailii.org/scot/cases/ScotCS/2025/> (Scottish Courts and Tribunals Service / BAILII) [en]
+2. **Scottish Courts and Tribunals Service — judicial.scot** — <https://www.judiciary.scot/> (Judiciary of Scotland) [en]
+3. **Faculty of Advocates** — <https://www.advocates.org.uk/> (Faculty of Advocates) [en]
+4. **Law Society of Scotland** — <https://www.lawscot.org.uk/> (Law Society of Scotland) [en]
+5. **BAILII — Scottish jurisdictions (Court of Session, High Court of Justiciary, Sheriff Courts)** — <https://www.bailii.org/scot/> (British and Irish Legal Information Institute) [en]
+6. **Scottish Government — family law and children** — <https://www.gov.scot/policies/families/> (Scottish Government) [en]
+7. **Shared Parenting Scotland** — <https://sharedparenting.scot/> (Shared Parenting Scotland) [en]
+8. **Scottish Women's Aid** — <https://womensaid.scot/> (Scottish Women's Aid) [en]
+9. **Engender — Scotland's feminist policy and advocacy organisation** — <https://www.engender.org.uk/> (Engender) [en]
+10. **Children (Scotland) Act 1995 (consolidated)** — <https://www.legislation.gov.uk/ukpga/1995/36/contents> (UK Government / legislation.gov.uk) [en]
+11. **Children (Scotland) Act 2020** — <https://www.legislation.gov.uk/asp/2020/16/contents> (Scottish Government / legislation.gov.uk) [en]
+12. **Domestic Abuse (Scotland) Act 2018** — <https://www.legislation.gov.uk/asp/2018/5/contents> (Scottish Government / legislation.gov.uk) [en]
+
+## Editorial notes
+
+- Primary-source order: Scottish Courts (judicial.scot, scotcourts.gov.uk), legislation.gov.uk and BAILII Scottish jurisdictions are cited first; institutional voices (Shared Parenting Scotland, Scottish Women's Aid, Engender) follow.
+- Verbatim Scottish English is preserved throughout (e.g., 'sheriff court', 'curator ad litem', 'proof', 'Inner House', 'Outer House').
+- Preserved corrections from UK-Devolved lawyers v2: 'Mary Connolly KC' does not exist (NI bar confusion with Martina Connolly KC); Jonathan Dunlop KC is a commercial silk, not family; Cara Goodwin is not on the Faculty of Advocates roll; 'Family Law Scotland Ltd' does not exist as a registered firm.
+- Scotland is treated as a distinct jurisdiction (not a subset of 'United Kingdom') given its separate legal system, Children (Scotland) Act 1995/2020 welfare regime, Court of Session apex jurisdiction, and Faculty of Advocates / Law Society of Scotland regulation.
+- Where a Scottish institutional position is not primary-source-verifiable it is flagged accordingly rather than asserted.
+
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

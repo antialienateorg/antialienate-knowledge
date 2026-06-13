@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "id": "angola",
+  "name": "Angola (Republic of Angola / República de Angola)",
+  "jurisdiction_code": "AO",
+  "legal_system": "civil-law",
+  "language": ["pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Angola is a Southern African civil-law republic whose family-law framework operates under the Family Code 1988 (Código da Família, Law 1/88) drawing on Portuguese civil-law substantive heritage with significant socialist-civil-law adaptations. Parental power (poder paternal) and child custody are governed by Family Code arts. 127-153. The Supreme Court of Angola (Tribunal Supremo) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Provincial Courts (Tribunal Provincial), with specialised Family-Court procedure. Psychology profession is regulated through the Ministry of Health framework with the Angolan Order of Psychologists operating professional standards. Angola is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 127. Angola is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1988 (Law 1/88) arts. 127-153",
+      "title": "Family Code — Parental power and custody",
+      "year": 1988,
+      "url": "https://www.tribunalsupremo.ao/",
+      "relevance": "Federal Family Code drawing on Portuguese civil-law substantive heritage with socialist-civil-law adaptations. Arts. 127-153 govern parental power (poder paternal) and child custody."
+    },
+    {
+      "citation": "Law on the Civil Identification and Registration 1/2005",
+      "title": "Law on Civil Identification and Registration",
+      "year": 2005,
+      "url": "https://www.tribunalsupremo.ao/",
+      "relevance": "Federal statute on civil identification and registration of births, marriages, and family events."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Tribunal Supremo)",
+      "seat": "Luanda",
+      "url": "https://www.tribunalsupremo.ao/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Tribunal Constitucional)",
+      "seat": "Luanda",
+      "url": "https://www.tribunalconstitucional.ao/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Angola",
+      "url": "https://www.minsa.gov.ao/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Angolan Order of Psychologists (Ordem dos Psicólogos de Angola)",
+      "url": "https://www.opa.org.ao/",
+      "role": "Federal professional order for psychologists in Angola."
+    }
+  ],
+  "anonymisation_convention": "Angolan family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1988,
+      "title": "Family Code 1988 (Law 1/88)",
+      "description": "Federal Family Code enacted with socialist-civil-law adaptations on Portuguese civil-law substantive heritage."
+    },
+    {
+      "year": 2005,
+      "title": "Law on Civil Identification and Registration",
+      "description": "Federal statute on civil identification and registration enacted."
+    }
+  ],
+  "structural_findings": [
+    "Angola operates a Portuguese-civil-law family-law framework with socialist-civil-law adaptations — places Angola in the Lusophone African cluster within the Portuguese-civil-law substantive tradition (alongside Mozambique, Brazil, Portugal, East Timor within the corpus).",
+    "Non-Hague Convention status places Angola in the non-Hague Lusophone African cluster — structural distinction from Hague-acceding Mozambique.",
+    "Family Code 1988 socialist-civil-law adaptations reflect post-independence MPLA-Marxist-Leninist legal-system orientation, with subsequent constitutional-democratic reforms post-1992."
+  ],
+  "references": [
+    "jurisdiction:mozambique",
+    "jurisdiction:portugal",
+    "jurisdiction:brazil",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Angola",
+      "url": "https://www.tribunalsupremo.ao/",
+      "publisher": "Supreme Court",
+      "language": "pt"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.tribunalconstitucional.ao/",
+      "publisher": "Constitutional Court",
+      "language": "pt"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.minsa.gov.ao/",
+      "publisher": "MINSA",
+      "language": "pt"
+    }
+  ],
+  "editorial_notes": [
+    "Angola jurisdiction sidecar — civil-law Lusophone Africa (Portuguese civil-law substantive + socialist-civil-law adaptations). Family Code 1988 + Civil Identification and Registration Law 2005 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southern African + Lusophone + civil-law + socialist-civil-law-adapted + non-Hague Convention clusters within the corpus."
+  ]
+}

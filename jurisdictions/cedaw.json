@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "cedaw",
+  "name": "UN Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+  "jurisdiction_code": "CED",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The UN Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) is a global supranational meta-framework women's-rights binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on women's-rights framework (CEDAW adopted 18 December 1979 by UN General Assembly Resolution 34/180 + effective 3 September 1981 — formal universal multilateral binding-treaty framework establishing comprehensive women's-rights framework, distinct from rest-of-modern-international-children's-rights frameworks which operate on broader best-interests + general-children's-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-women's-rights-specific framework), as the central jurisdiction of the formal UN post-1979 women's-rights elaboration framework (CEDAW adopted as universal women's-rights binding-treaty framework — applicable to 189 state parties as of 2026, third-most-widely-adopted UN human-rights treaty framework after UNCRC 1989 196 state parties + Convention on the Rights of Persons with Disabilities CRPD 2006 192 state parties, with substantial reservations framework reflecting wide adoption but limited harmonisation), as the central jurisdiction of one of the most distinctive modern feminist-PA-critique frameworks globally (CEDAW General Recommendation 35 of 14 July 2017 on gender-based violence against women + CEDAW Committee individual communications framework documenting parental-alienation-syndrome-PAS as gender-based violence framework + 2018-2022 multiple CEDAW Committee Concluding Observations critiquing state-party use of PAS framework — UN-formal-feminist-critique-of-PAS framework, distinct from PA recognition frameworks), and as the central jurisdiction of one of the most distinctive modern Special Rapporteur frameworks globally (UN Special Rapporteur on Violence Against Women Reem Alsalem 2022+ Report Custody, Violence Against Women and Violence Against Children A/HRC/53/36 13 June 2023 — formal UN Special Rapporteur critique of PAS framework + parental-alienation framework as gender-based violence framework, structurally distinctive globally as the most-significant modern UN Special Rapporteur PA-critique framework). The CEDAW is binding upon 189 state parties as of 2026 — universal coverage except United States + Iran + Somalia + Sudan + Palau + Tonga + Holy See (excluded from CEDAW signatures + accessions framework). The Convention is silent on 'parental alienation' as a statutory label, though formal women's-rights framework operates significant PA-critique framework via CEDAW General Recommendation 35 + Reem Alsalem Special Rapporteur Report frameworks. The CEDAW Committee is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The CEDAW is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "critique",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention on the Elimination of All Forms of Discrimination Against Women 1979",
+      "title": "CEDAW",
+      "year": 1981,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Elimination of All Forms of Discrimination Against Women adopted 18 December 1979 by UN General Assembly Resolution 34/180 + effective 3 September 1981 — formal universal multilateral binding-treaty framework establishing comprehensive women's-rights framework."
+    },
+    {
+      "citation": "CEDAW Optional Protocol 1999",
+      "title": "CEDAW Optional Protocol",
+      "year": 2000,
+      "url": "https://www.un.org/",
+      "relevance": "CEDAW Optional Protocol adopted 6 October 1999 + effective 22 December 2000 — formal CEDAW Committee individual communications framework."
+    },
+    {
+      "citation": "CEDAW General Recommendation 35 2017 (gender-based violence against women)",
+      "title": "CEDAW General Recommendation 35",
+      "year": 2017,
+      "url": "https://www.ohchr.org/",
+      "relevance": "CEDAW Committee General Recommendation 35 of 14 July 2017 on gender-based violence against women — formal CEDAW framework documenting parental-alienation-syndrome-PAS as gender-based violence framework."
+    },
+    {
+      "citation": "UN Special Rapporteur on Violence Against Women Custody Report 2023",
+      "title": "UN SR Violence Against Women Custody Report",
+      "year": 2023,
+      "url": "https://www.ohchr.org/",
+      "relevance": "UN Special Rapporteur on Violence Against Women Reem Alsalem Report Custody, Violence Against Women and Violence Against Children A/HRC/53/36 13 June 2023 — formal UN Special Rapporteur critique of PAS framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "CEDAW Committee",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cedaw",
+      "role": "Apex monitoring framework body for CEDAW."
+    },
+    {
+      "name": "UN Special Rapporteur on Violence Against Women",
+      "seat": "Geneva (United Nations Office at Geneva framework)",
+      "url": "https://www.ohchr.org/",
+      "role": "UN Special Rapporteur on Violence Against Women — formal UN-thematic-Special-Rapporteur framework with formal mandate to investigate + report on violence against women including PAS framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "CEDAW implementation framework."
+    }
+  ],
+  "anonymisation_convention": "CEDAW-related individual communications are anonymised per CEDAW Committee practice using initials.",
+  "key_developments": [
+    {
+      "year": 1979,
+      "title": "CEDAW adopted",
+      "description": "UN Convention on the Elimination of All Forms of Discrimination Against Women adopted 18 December 1979 by UN General Assembly Resolution 34/180 — formal universal multilateral binding-treaty framework establishing comprehensive women's-rights framework."
+    },
+    {
+      "year": 1981,
+      "title": "CEDAW enters force",
+      "description": "UN Convention on the Elimination of All Forms of Discrimination Against Women entered force 3 September 1981 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1992,
+      "title": "CEDAW General Recommendation 19 (violence against women)",
+      "description": "CEDAW Committee General Recommendation 19 of January 1992 on violence against women — first formal CEDAW framework on violence against women."
+    },
+    {
+      "year": 1999,
+      "title": "CEDAW Optional Protocol",
+      "description": "CEDAW Optional Protocol adopted 6 October 1999 — formal CEDAW Committee individual communications framework."
+    },
+    {
+      "year": 2000,
+      "title": "CEDAW Optional Protocol enters force",
+      "description": "CEDAW Optional Protocol entered force 22 December 2000 — formal CEDAW Committee individual communications framework operational."
+    },
+    {
+      "year": 2017,
+      "title": "CEDAW General Recommendation 35",
+      "description": "CEDAW Committee General Recommendation 35 of 14 July 2017 on gender-based violence against women — formal CEDAW framework documenting parental-alienation-syndrome-PAS as gender-based violence framework."
+    },
+    {
+      "year": 2022,
+      "title": "Reem Alsalem Special Rapporteur mandate begins",
+      "description": "Reem Alsalem appointed UN Special Rapporteur on Violence Against Women 1 August 2022 — formal UN Special Rapporteur PA-critique framework."
+    },
+    {
+      "year": 2023,
+      "title": "UN SR Custody Report 2023",
+      "description": "UN Special Rapporteur on Violence Against Women Reem Alsalem Report Custody, Violence Against Women and Violence Against Children A/HRC/53/36 13 June 2023 — formal UN Special Rapporteur critique of PAS framework."
+    }
+  ],
+  "structural_findings": [
+    "CEDAW operates a supranational universal multilateral binding-treaty framework — places CEDAW in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on women's-rights framework is structurally distinctive globally — formal-women's-rights-specific framework.",
+    "Central jurisdiction of formal UN post-1979 women's-rights elaboration framework is structurally distinctive globally — CEDAW 1979 + 189 state parties framework.",
+    "Central jurisdiction of one of most distinctive modern feminist-PA-critique frameworks globally is structurally distinctive globally — CEDAW General Recommendation 35 2017 + Reem Alsalem Special Rapporteur Report 2023.",
+    "Central jurisdiction of one of most distinctive modern Special Rapporteur frameworks globally is structurally distinctive globally — UN Special Rapporteur on Violence Against Women PA-critique framework.",
+    "189 of 196 UN member state ratification framework is structurally distinctive globally — third-most-widely-adopted UN human-rights treaty framework after UNCRC + CRPD.",
+    "1979 CEDAW + 1981 entry into force + 1992 General Recommendation 19 + 1999 Optional Protocol + 2017 General Recommendation 35 + 2023 Special Rapporteur Report women's-rights-framework-development sequence is structurally distinctive globally.",
+    "Wide adoption framework with substantial reservations framework reflecting limited harmonisation framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child",
+    "evidence:global-south-womens-rights-critique-register"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — CEDAW",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cedaw",
+      "publisher": "OHCHR",
+      "language": "en"
+    },
+    {
+      "title": "UN Special Rapporteur on Violence Against Women",
+      "url": "https://www.ohchr.org/en/special-procedures/sr-violence-against-women",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "CEDAW jurisdiction sidecar — supranational global women's-rights universal multilateral binding-treaty meta-framework (CEDAW 1979/1981 + CEDAW Optional Protocol 1999/2000 + CEDAW General Recommendation 35 2017 + UN Special Rapporteur on Violence Against Women Reem Alsalem 2022+ + Custody Report A/HRC/53/36 2023). Only modern universal multilateral binding-treaty framework operating specifically on women's-rights framework globally + central jurisdiction of formal UN post-1979 women's-rights elaboration framework + central jurisdiction of one of most distinctive modern feminist-PA-critique frameworks globally + central jurisdiction of one of most distinctive modern Special Rapporteur frameworks globally + 189 of 196 UN member state ratification framework + Wide adoption framework with substantial reservations framework reflecting limited harmonisation framework + 1979 CEDAW + 1981 entry into force + 2017 General Recommendation 35 + 2023 Special Rapporteur Report women's-rights-framework-development sequence.",
+    "PA-recognition: silent statutory + critique apex-position (CEDAW General Recommendation 35 + Reem Alsalem Special Rapporteur Report) + silent regulator. NOTE: This is one of the few jurisdictions in the corpus with formal critique apex-position rather than silent or recognition framework.",
+    "Joins global + supranational + universal-multilateral-women's-rights-binding-treaty cluster + CEDAW-only-universal-women's-rights-binding-treaty-globally-distinctive + 189-state-party-ratification + CEDAW-General-Recommendation-35-2017-gender-based-violence + Reem-Alsalem-UN-SR-2022-Custody-Report-2023 + CEDAW-Optional-Protocol-1999-2000 + CEDAW-Committee-individual-communications-framework + General-Recommendation-19-1992-violence-against-women + feminist-PA-critique-framework + UNCRC-CEDAW-CRPD-three-most-widely-adopted-UN-human-rights-treaties clusters within the corpus."
+  ]
+}

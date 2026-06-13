@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "id": "northern-mariana-islands",
+  "name": "Northern Mariana Islands (Commonwealth of the Northern Mariana Islands / CNMI)",
+  "jurisdiction_code": "MP",
+  "legal_system": "common-law",
+  "language": ["en", "ch"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Northern Mariana Islands (CNMI) is a Pacific Island common-law US Commonwealth — structurally distinctive globally as the only US Commonwealth Pacific Island state established via 1976 Covenant to Establish a Commonwealth (effective 1986), uniquely transitioning from UN Trust Territory of the Pacific Islands to Commonwealth status with substantial customary-land protection. Family-law framework operates under the CNMI Code Title 8 (Domestic Relations) drawing on US-derivative common-law substantive heritage. Parental responsibility and child custody are governed by CNMI Code Title 8 Chapter 1. The Supreme Court of the Northern Mariana Islands is the apex domestic court for civil and criminal matters; appellate jurisdiction in certain federal questions lies with the US Court of Appeals for the Ninth Circuit. Family-law matters are heard at first instance in the Superior Court (Family Court Division). Customary-land jurisdiction is constitutionally protected via Article XII of CNMI Constitution. Psychology profession is regulated through the CNMI Department of Public Health framework. CNMI is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. CNMI is a Hague Convention 1980 party via US territorial extension effective 1 July 1988.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "CNMI Code Title 8 (Domestic Relations) Chapter 1",
+      "title": "CNMI Code Title 8 — Domestic Relations",
+      "year": 1986,
+      "url": "https://www.cnmilaw.org/",
+      "relevance": "Federal Domestic Relations Code codifying marriage, divorce, parental responsibility, and child custody. Chapter 1 governs parental responsibility and child custody."
+    },
+    {
+      "citation": "Covenant to Establish a Commonwealth 1976",
+      "title": "Covenant to Establish a Commonwealth",
+      "year": 1976,
+      "url": "https://www.cnmilaw.org/",
+      "relevance": "Federal Covenant establishing CNMI Commonwealth status (effective 1986) with substantial customary-land protection."
+    },
+    {
+      "citation": "CNMI Constitution Article XII — customary-land protection",
+      "title": "CNMI Constitution Article XII",
+      "year": 1978,
+      "url": "https://www.cnmilaw.org/",
+      "relevance": "Constitutional Article protecting customary-land ownership by persons of Northern Marianas descent."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Northern Mariana Islands",
+      "seat": "Saipan",
+      "url": "https://www.cnmilaw.org/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "US Court of Appeals for the Ninth Circuit + US Supreme Court",
+      "seat": "San Francisco / Washington DC",
+      "url": "https://www.supremecourt.gov/",
+      "role": "Final appellate court for certain federal questions from CNMI."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "CNMI Department of Public Health",
+      "url": "https://www.chcc.gov.mp/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "CNMI family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1976,
+      "title": "Covenant to Establish a Commonwealth",
+      "description": "Federal Covenant establishing CNMI Commonwealth status (effective 1986) with substantial customary-land protection."
+    },
+    {
+      "year": 1978,
+      "title": "CNMI Constitution + Article XII customary-land protection",
+      "description": "Constitution adopted with Article XII protecting customary-land ownership by persons of Northern Marianas descent."
+    },
+    {
+      "year": 1988,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by US to CNMI effective 1 July 1988."
+    }
+  ],
+  "structural_findings": [
+    "CNMI operates a US-derivative common-law framework with US Commonwealth status — structurally distinctive globally as only US Commonwealth Pacific Island state established via 1976 Covenant.",
+    "Article XII constitutional protection of customary-land ownership by persons of Northern Marianas descent is structurally distinctive globally — only state with this specific constitutional customary-land protection.",
+    "Transition from UN Trust Territory of the Pacific Islands to Commonwealth (1976 Covenant) is structurally distinctive — only UN Trust Territory Commonwealth-transition in the corpus.",
+    "Hague Convention 1980 applicability via US territorial extension reflects Commonwealth Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:guam",
+    "jurisdiction:micronesia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "CNMI Law",
+      "url": "https://www.cnmilaw.org/",
+      "publisher": "CNMI Judiciary",
+      "language": "en,ch"
+    },
+    {
+      "title": "CNMI Department of Public Health",
+      "url": "https://www.chcc.gov.mp/",
+      "publisher": "Department of Public Health",
+      "language": "en,ch"
+    },
+    {
+      "title": "US Supreme Court",
+      "url": "https://www.supremecourt.gov/",
+      "publisher": "US Supreme Court",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "CNMI jurisdiction sidecar — common-law Pacific US Commonwealth (CNMI Code Title 8 + Covenant 1976 + Constitution Article XII customary-land protection + Hague via US territorial extension 1988). Only US Commonwealth Pacific Island state with UN Trust Territory transition.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + US-Commonwealth-distinctive + UN-Trust-Territory-transition + Article-XII-customary-land-protection-distinctive + Hague-via-US-territorial-extension clusters within the corpus."
+  ]
+}

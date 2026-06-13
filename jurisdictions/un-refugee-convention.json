@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "un-refugee-convention",
+  "name": "UN Refugee Convention 1951 + 1967 Protocol (UN 1951 Convention + 1967 Protocol Relating to the Status of Refugees)",
+  "jurisdiction_code": "URC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Refugee Convention 1951 + 1967 Protocol Relating to the Status of Refugees (formally Convention relating to the Status of Refugees + Protocol Relating to the Status of Refugees) is a global supranational meta-framework refugee-protection binding-treaty duo adopted by the UN Conference of Plenipotentiaries + UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on refugee-protection framework (UN Refugee Convention adopted 28 July 1951 by UN Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons in Geneva + effective 22 April 1954 + 1967 Protocol adopted 31 January 1967 by UN General Assembly + effective 4 October 1967 — formal universal multilateral binding-treaty duo establishing comprehensive refugee-protection framework, distinct from rest-of-modern-international-human-rights frameworks which operate on broader general-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-refugee-protection-specific framework), as the central jurisdiction of the formal Article 1A(2) refugee-definition framework (Convention Article 1A(2) framework providing 'owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or, owing to such fear, is unwilling to avail himself of the protection of that country' — formal foundational refugee-definition framework with formal 'particular social group' framework underlying gender-based persecution + LGBTI+ persecution + cross-border family violence persecution-claim frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating formal refugee-definition framework), as the central jurisdiction of the formal Article 33 non-refoulement framework (Convention Article 33 framework providing 'No Contracting State shall expel or return a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion' — formal foundational non-refoulement framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal non-refoulement framework), and as the central jurisdiction of the formal UNHCR Mandate framework (UN High Commissioner for Refugees UNHCR established by UN General Assembly Resolution 428 (V) of 14 December 1950 — formal UNHCR Mandate framework operating identification + protection + assistance + durable-solutions framework for refugees, structurally distinctive globally as the only modern UN agency framework with formal Refugee Mandate). The 1951 Convention is binding upon 146 state parties as of 2026 + the 1967 Protocol is binding upon 147 state parties as of 2026 — substantial state party + non-state-party framework reflecting widespread global adoption framework. The Conventions are silent on 'parental alienation' as a statutory label, though formal Article 1A(2) refugee-definition + Article 33 non-refoulement + Article 22 access to elementary education + Article 24 labour legislation frameworks operate substantial intersection with parental-alienation framework via formal cross-border family-violence refugee-claim framework + formal cross-border children-of-refugee-parents framework + formal cross-border separation-of-refugee-parents-from-children framework. The UN High Commissioner for Refugees UNHCR is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The 1951 Convention + 1967 Protocol are silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention relating to the Status of Refugees 1951",
+      "title": "1951 Refugee Convention",
+      "year": 1954,
+      "url": "https://www.unhcr.org/",
+      "relevance": "UN Convention relating to the Status of Refugees adopted 28 July 1951 by UN Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons in Geneva + effective 22 April 1954 — formal universal multilateral binding-treaty framework establishing comprehensive refugee-protection framework."
+    },
+    {
+      "citation": "UN 1967 Protocol Relating to the Status of Refugees",
+      "title": "1967 Protocol",
+      "year": 1967,
+      "url": "https://www.unhcr.org/",
+      "relevance": "UN 1967 Protocol Relating to the Status of Refugees adopted 31 January 1967 by UN General Assembly + effective 4 October 1967 — formal Protocol removing temporal + geographical limitations of 1951 Convention framework."
+    },
+    {
+      "citation": "1951 Convention Article 1A(2) (Refugee Definition) + Article 33 (Non-Refoulement)",
+      "title": "1951 Convention Articles 1A(2) + 33",
+      "year": 1954,
+      "url": "https://www.unhcr.org/",
+      "relevance": "1951 Convention Article 1A(2) framework on refugee-definition + Article 33 framework on non-refoulement — formal foundational refugee-protection framework."
+    },
+    {
+      "citation": "UNHCR Mandate Framework (UN GA Resolution 428(V) 1950)",
+      "title": "UNHCR Mandate",
+      "year": 1950,
+      "url": "https://www.unhcr.org/",
+      "relevance": "UN High Commissioner for Refugees UNHCR established by UN General Assembly Resolution 428 (V) of 14 December 1950 — formal UNHCR Mandate framework."
+    },
+    {
+      "citation": "UNHCR Guidelines on International Protection No. 1 (Gender-Related Persecution) 2002",
+      "title": "UNHCR Guidelines on Gender-Related Persecution",
+      "year": 2002,
+      "url": "https://www.unhcr.org/",
+      "relevance": "UNHCR Guidelines on International Protection No. 1 Gender-Related Persecution within the context of Article 1A(2) of the 1951 Convention and/or its 1967 Protocol relating to the Status of Refugees of 7 May 2002 — formal UNHCR guidance framework on gender-based persecution refugee-claim framework, relevant to PA framework via family-violence-refugee-claim framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN High Commissioner for Refugees (UNHCR)",
+      "seat": "Geneva",
+      "url": "https://www.unhcr.org/",
+      "role": "Apex monitoring framework body for UN Refugee Convention 1951 + 1967 Protocol."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNHCR Secretariat",
+      "url": "https://www.unhcr.org/",
+      "role": "UN Refugee Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UN Refugee Convention-related individual communications are anonymised per national-level court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "UDHR Article 14",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 + UDHR Article 14 framework on right to seek and enjoy asylum — foundational framework underlying 1951 Refugee Convention."
+    },
+    {
+      "year": 1950,
+      "title": "UNHCR established",
+      "description": "UN High Commissioner for Refugees UNHCR established by UN General Assembly Resolution 428 (V) of 14 December 1950 — formal UNHCR Mandate framework."
+    },
+    {
+      "year": 1951,
+      "title": "1951 Refugee Convention adopted",
+      "description": "UN Convention relating to the Status of Refugees adopted 28 July 1951 by UN Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons in Geneva — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 1954,
+      "title": "1951 Refugee Convention enters force",
+      "description": "UN Convention relating to the Status of Refugees entered force 22 April 1954 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1967,
+      "title": "1967 Protocol adopted",
+      "description": "UN 1967 Protocol Relating to the Status of Refugees adopted 31 January 1967 + effective 4 October 1967 — formal Protocol removing temporal + geographical limitations of 1951 Convention framework."
+    },
+    {
+      "year": 2002,
+      "title": "UNHCR Guidelines on Gender-Related Persecution",
+      "description": "UNHCR Guidelines on International Protection No. 1 Gender-Related Persecution of 7 May 2002 — formal UNHCR guidance framework on gender-based persecution refugee-claim framework."
+    },
+    {
+      "year": 2018,
+      "title": "Global Compact on Refugees",
+      "description": "Global Compact on Refugees affirmed by UN General Assembly Resolution 73/151 of 17 December 2018 — formal political framework complementing 1951 Convention framework."
+    }
+  ],
+  "structural_findings": [
+    "UN Refugee Convention operates a supranational universal multilateral binding-treaty duo framework — places UN Refugee Convention in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on refugee-protection framework is structurally distinctive globally — formal-refugee-protection-specific framework.",
+    "Central jurisdiction of formal Article 1A(2) refugee-definition framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal refugee-definition framework with formal 'particular social group' framework.",
+    "Central jurisdiction of formal Article 33 non-refoulement framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal non-refoulement framework.",
+    "Central jurisdiction of formal UNHCR Mandate framework is structurally distinctive globally — only modern UN agency framework with formal Refugee Mandate.",
+    "146 state party 1951 Convention + 147 state party 1967 Protocol ratification framework is structurally distinctive globally — widespread global adoption framework.",
+    "1948 UDHR Article 14 + 1950 UNHCR + 1951 Convention + 1954 entry into force + 1967 Protocol + 2002 UNHCR Guidelines + 2018 Global Compact on Refugees refugee-framework-development sequence is structurally distinctive globally.",
+    "Convention Article 1A(2) refugee-definition + Article 33 non-refoulement + Article 22 access to elementary education + Article 24 labour legislation formal four-framework PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:global-south-womens-rights-critique-register"
+  ],
+  "sources": [
+    {
+      "title": "UNHCR — Refugee Convention",
+      "url": "https://www.unhcr.org/1951-refugee-convention",
+      "publisher": "UNHCR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UN Refugee Convention jurisdiction sidecar — supranational global refugee-protection universal multilateral binding-treaty duo meta-framework (1951 Convention + 1954 entry into force + 1967 Protocol + Article 1A(2) Refugee Definition + Article 33 Non-Refoulement + UNHCR Mandate 1950 + UNHCR Guidelines on Gender-Related Persecution 2002 + 2018 Global Compact on Refugees + UDHR Article 14). Only modern universal multilateral binding-treaty framework operating specifically on refugee-protection framework globally + central jurisdiction of formal Article 1A(2) refugee-definition framework + central jurisdiction of formal Article 33 non-refoulement framework + central jurisdiction of formal UNHCR Mandate framework + 146 state party 1951 Convention + 147 state party 1967 Protocol ratification framework + 1948 UDHR Article 14 + 1950 UNHCR + 1951 Convention + 1954 entry into force + 1967 Protocol + 2002 UNHCR Guidelines + 2018 Global Compact on Refugees refugee-framework-development sequence + Convention Article 1A(2) refugee-definition + Article 33 non-refoulement + Article 22 access to elementary education + Article 24 labour legislation formal four-framework PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 1A(2) refugee-definition + Article 33 non-refoulement frameworks operate substantial intersection with parental-alienation framework via formal cross-border family-violence refugee-claim framework + formal cross-border children-of-refugee-parents framework + formal cross-border separation-of-refugee-parents-from-children framework.",
+    "Joins global + supranational + universal-multilateral-refugee-protection-binding-treaty cluster + UN-Refugee-Convention-only-universal-refugee-protection-binding-treaty-globally-distinctive + Article-1A-2-Refugee-Definition-particular-social-group + Article-33-Non-Refoulement + UNHCR-Mandate-1950 + 2002-UNHCR-Guidelines-Gender-Related-Persecution + 2018-Global-Compact-on-Refugees + 146-state-party-1951-147-state-party-1967-ratification + UDHR-Article-14-foundational + cross-border-family-violence-refugee-claim-PA-intersection clusters within the corpus."
+  ]
+}

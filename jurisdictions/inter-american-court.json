@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "id": "inter-american-court",
+  "name": "Inter-American Court of Human Rights (Corte Interamericana de Derechos Humanos / IACtHR)",
+  "jurisdiction_code": "OAS-IAC",
+  "legal_system": "supranational",
+  "language": ["es", "en", "pt", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Inter-American Court of Human Rights (Corte Interamericana de Derechos Humanos / IACtHR) is a supranational meta-legal-system framework operating across 20 Organization of American States (OAS) member states that have accepted the IACtHR contentious-jurisdiction (under American Convention on Human Rights / Pact of San José 1969, effective 18 July 1978) — structurally distinctive globally as the only modern regional human-rights court explicitly authorising 'reparations to victims' beyond declaratory relief (Article 63(1) of the American Convention establishing comprehensive reparations including restitution, satisfaction, rehabilitation, guarantees of non-repetition, and compensation), as the only modern regional human-rights court with binding advisory-opinion framework binding on all OAS member states, and as the central jurisdictional framework for the largest body of Latin American family-law-relevant inter-state human-rights jurisprudence. The IACtHR framework establishes (i) American Convention Article 17 right to family + protection of family rights; (ii) American Convention Article 19 rights of the child (foundational Latin American children's-rights provision); (iii) American Convention Article 11 protection of honour and dignity (including family-private-life protection); (iv) IACtHR contentious-jurisdiction (~330+ contentious cases decided since 1979); (v) IACtHR advisory-jurisdiction (binding advisory opinions on all OAS member states). Notable IACtHR family-law jurisprudence includes Atala Riffo and Daughters v Chile 2012 (LGBT-parent rights in custody), Fornerón and Daughter v Argentina 2012 (adoption + biological parent rights), Furlan and Family v Argentina 2012 (procedural rights of disabled children), and many more. The IACtHR is silent on 'parental alienation' as an American Convention term, though Article 17 + Article 19 jurisprudence substantively addresses family-discord and parental-relationship-rupture frameworks via several Inter-American jurisprudence decisions. The IACtHR operates under the Statute of the Inter-American Court of Human Rights and Rules of Procedure of the Inter-American Court of Human Rights. Member states with IACtHR jurisdiction operate via national-court Convention-compatibility framework + IACtHR contentious + advisory framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "American Convention on Human Rights 1969 (Pact of San José)",
+      "title": "American Convention on Human Rights",
+      "year": 1969,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "Pact of San José adopted 22 November 1969 effective 18 July 1978 — foundational Inter-American human-rights framework."
+    },
+    {
+      "citation": "American Convention Article 17 (Rights of the Family)",
+      "title": "American Convention Article 17",
+      "year": 1969,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "American Convention Article establishing right to family + protection of family rights — Inter-American family-law human-rights provision."
+    },
+    {
+      "citation": "American Convention Article 19 (Rights of the Child)",
+      "title": "American Convention Article 19",
+      "year": 1969,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "American Convention Article establishing rights of the child — foundational Latin American children's-rights provision."
+    },
+    {
+      "citation": "American Convention Article 63(1) (Reparations)",
+      "title": "American Convention Article 63(1)",
+      "year": 1969,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "American Convention Article establishing IACtHR authority for comprehensive reparations including restitution, satisfaction, rehabilitation, guarantees of non-repetition, and compensation."
+    },
+    {
+      "citation": "Atala Riffo and Daughters v Chile (IACtHR 2012)",
+      "title": "Atala Riffo and Daughters v Chile",
+      "year": 2012,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "Foundational IACtHR judgment of 24 February 2012 establishing LGBT-parent rights in custody framework under Article 17 + Article 19 framework."
+    },
+    {
+      "citation": "Fornerón and Daughter v Argentina (IACtHR 2012)",
+      "title": "Fornerón and Daughter v Argentina",
+      "year": 2012,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "Foundational IACtHR judgment of 27 April 2012 establishing adoption + biological parent rights framework under Article 17 + Article 19 framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Inter-American Court of Human Rights (IACtHR)",
+      "seat": "San José, Costa Rica",
+      "url": "https://www.corteidh.or.cr/",
+      "role": "Apex regional human-rights court for American Convention on Human Rights interpretation — operates contentious + advisory jurisdiction."
+    },
+    {
+      "name": "Inter-American Commission on Human Rights (IACHR)",
+      "seat": "Washington, DC",
+      "url": "https://www.oas.org/en/iachr/",
+      "role": "Inter-American Human Rights Commission — pre-Court complaint review framework."
+    },
+    {
+      "name": "Member State apex courts (per American Convention compatibility framework)",
+      "seat": "Various OAS member state capitals",
+      "url": "",
+      "role": "OAS Member State apex courts exercise Convention-compatibility jurisdiction under national-court framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OAS Member State professional regulators per nationality framework",
+      "url": "",
+      "role": "OAS Member State professional regulators apply via Inter-American Court framework."
+    }
+  ],
+  "anonymisation_convention": "IACtHR decisions are anonymised per IACtHR practice using initials or first-name-only designations.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "American Declaration of the Rights and Duties of Man",
+      "description": "American Declaration of the Rights and Duties of Man adopted 2 May 1948 — foundational Inter-American human-rights framework predating American Convention."
+    },
+    {
+      "year": 1959,
+      "title": "Inter-American Commission on Human Rights established",
+      "description": "Inter-American Commission on Human Rights established August 1959 — pre-Court Inter-American human-rights body."
+    },
+    {
+      "year": 1969,
+      "title": "American Convention on Human Rights signed",
+      "description": "American Convention on Human Rights (Pact of San José) signed 22 November 1969."
+    },
+    {
+      "year": 1978,
+      "title": "American Convention effective + IACtHR established",
+      "description": "American Convention effective 18 July 1978 — IACtHR established in San José, Costa Rica."
+    },
+    {
+      "year": 2012,
+      "title": "Atala Riffo and Daughters v Chile + LGBT-parent rights framework",
+      "description": "Foundational IACtHR judgment of 24 February 2012 establishing LGBT-parent rights in custody framework — landmark Inter-American family-law jurisprudence."
+    },
+    {
+      "year": 2012,
+      "title": "Fornerón and Daughter v Argentina + biological parent rights",
+      "description": "Foundational IACtHR judgment of 27 April 2012 establishing adoption + biological parent rights framework."
+    }
+  ],
+  "structural_findings": [
+    "Inter-American Court of Human Rights operates a supranational meta-legal-system framework — places IACtHR in the unique Inter-American-regional-human-rights supranational cluster.",
+    "Only modern regional human-rights court explicitly authorising 'reparations to victims' beyond declaratory relief is structurally distinctive globally — Article 63(1) comprehensive reparations framework.",
+    "Only modern regional human-rights court with binding advisory-opinion framework binding on all OAS member states is structurally distinctive globally.",
+    "American Convention Article 17 + Article 19 family-and-children's-rights jurisprudence framework is structurally distinctive globally — only multi-state regional-court framework with both Family Rights Article 17 + Children's Rights Article 19 explicit provisions.",
+    "Atala Riffo and Daughters v Chile 2012 LGBT-parent rights jurisprudence is structurally distinctive globally — foundational regional-court LGBT-parent rights framework.",
+    "Inter-American Commission + IACtHR two-tier framework is structurally distinctive within multi-state-human-rights-court cluster.",
+    "20 OAS member states with IACtHR contentious-jurisdiction is structurally distinctive within multi-state-human-rights-court cluster — significantly smaller than ECHR 46 member states.",
+    "Member State Convention-compatibility framework via national-court application is structurally distinctive globally.",
+    "Comprehensive reparations framework including restitution + satisfaction + rehabilitation + guarantees of non-repetition + compensation is structurally distinctive globally — only modern multi-state human-rights court with all five reparation types."
+  ],
+  "references": [
+    "jurisdiction:argentina",
+    "jurisdiction:chile",
+    "jurisdiction:brazil",
+    "jurisdiction:mexico",
+    "jurisdiction:colombia",
+    "jurisdiction:peru",
+    "jurisdiction:echr-council-of-europe",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Inter-American Court of Human Rights",
+      "url": "https://www.corteidh.or.cr/",
+      "publisher": "IACtHR",
+      "language": "es"
+    },
+    {
+      "title": "Inter-American Commission on Human Rights",
+      "url": "https://www.oas.org/en/iachr/",
+      "publisher": "OAS",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Inter-American Court of Human Rights jurisdiction sidecar — supranational meta-legal-system Inter-American regional human-rights framework (American Convention on Human Rights 1969/1978 + Article 17 family rights + Article 19 children's rights + Article 63(1) comprehensive reparations + IACtHR contentious + advisory jurisdiction + Atala Riffo and Daughters v Chile 2012 + Fornerón and Daughter v Argentina 2012 + Inter-American Commission on Human Rights). Only modern regional human-rights court explicitly authorising 'reparations to victims' beyond declaratory relief globally + only modern regional human-rights court with binding advisory-opinion framework + foundational regional-court LGBT-parent rights framework (Atala Riffo 2012) + only multi-state regional-court framework with both Family Rights Article 17 and Children's Rights Article 19 explicit provisions.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins supranational + Inter-American-regional-human-rights + IACtHR-framework cluster + Article-63(1)-comprehensive-reparations-globally-distinctive + binding-advisory-opinion-framework + Article-17-family-rights-Article-19-children's-rights + Atala-Riffo-LGBT-parent-rights + Fornerón-biological-parent-rights + Inter-American-Commission-pre-Court-framework + 20-OAS-member-state-contentious-jurisdiction + member-state-Convention-compatibility-framework clusters within the corpus."
+  ]
+}

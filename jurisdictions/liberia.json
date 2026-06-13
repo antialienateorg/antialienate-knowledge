@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "liberia",
+  "name": "Liberia (Republic of Liberia)",
+  "jurisdiction_code": "LR",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Liberia is a West African mixed-legal-system republic combining US-style common-law substantive heritage (via Americo-Liberian settler colonisation rather than direct British colonial inheritance — structurally distinctive in African corpus) with customary-law personal-status jurisdiction operating through Tribal Courts. Family-law framework operates under the Domestic Relations Law (Title 9, Liberian Code of Laws Revised), the Children's Law 2011, the Customary Marriage Law of 1956, and the Equal Rights of Customary Marriage Law 1998. Parental responsibility and child custody are governed by Children's Law 2011 Chapter 5. The Supreme Court of Liberia is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Circuit Courts (Family Section), Magistrates' Courts, and Tribal Courts for customary-law matters. Psychology profession is regulated through the Ministry of Health framework. Liberia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Children's Law s. 1.4. Liberia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children's Law 2011 Chapter 5",
+      "title": "Children's Law — Parental responsibility and custody",
+      "year": 2011,
+      "url": "https://www.judiciary.gov.lr/",
+      "relevance": "Federal Children's Law codifying best-interests-of-the-child principle (s. 1.4), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Domestic Relations Law Title 9 Liberian Code of Laws Revised",
+      "title": "Domestic Relations Law",
+      "year": 1973,
+      "url": "https://www.judiciary.gov.lr/",
+      "relevance": "Federal statute on domestic relations including marriage, divorce and custody drawing on US-style common-law tradition."
+    },
+    {
+      "citation": "Equal Rights of Customary Marriage Law 1998",
+      "title": "Equal Rights of Customary Marriage Law",
+      "year": 1998,
+      "url": "https://www.judiciary.gov.lr/",
+      "relevance": "Federal statute codifying gender-equality provisions in customary marriages."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Liberia",
+      "seat": "Monrovia",
+      "url": "https://www.judiciary.gov.lr/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Liberia",
+      "url": "https://www.moh.gov.lr/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Liberian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1847,
+      "title": "Liberian independence",
+      "description": "Liberia declared independence; legal-system inheritance via Americo-Liberian settlers from US legal tradition (rather than direct British colonial inheritance) — structurally distinctive in African corpus."
+    },
+    {
+      "year": 1956,
+      "title": "Customary Marriage Law",
+      "description": "Federal statute on customary marriage enacted."
+    },
+    {
+      "year": 1973,
+      "title": "Liberian Code of Laws Revised",
+      "description": "Comprehensive Liberian Code revision including Domestic Relations Law Title 9."
+    },
+    {
+      "year": 1998,
+      "title": "Equal Rights of Customary Marriage Law",
+      "description": "Federal statute codifying gender-equality in customary marriages enacted."
+    },
+    {
+      "year": 2011,
+      "title": "Children's Law",
+      "description": "Federal Children's Law enacted codifying best-interests principle and child-protection provisions."
+    }
+  ],
+  "structural_findings": [
+    "Liberia operates a structurally distinctive mixed-legal-system framework — US-style common-law substantive heritage (Americo-Liberian settler-inheritance, not direct British colonial) + customary-law personal-status. Unique within the African corpus for US-style common-law substantive tradition.",
+    "Independence date 1847 makes Liberia the earliest African independence in the corpus.",
+    "Non-Hague Convention status places Liberia in the non-Hague West African cluster."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:sierra-leone",
+    "jurisdiction:nigeria",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Liberia",
+      "url": "https://www.judiciary.gov.lr/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.moh.gov.lr/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Liberia jurisdiction sidecar — mixed-legal-system West Africa (US-style common-law substantive via Americo-Liberian settler-inheritance + customary-law personal-status). Children's Law 2011 + Domestic Relations Law 1973 + Equal Rights of Customary Marriage Law 1998 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins West African + US-style-common-law distinctive cluster + earliest-African-independence + non-Hague Convention clusters within the corpus."
+  ]
+}

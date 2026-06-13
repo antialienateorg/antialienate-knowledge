@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "id": "undp-mandate",
+  "name": "UNDP Mandate 1965 (United Nations Development Programme)",
+  "jurisdiction_code": "UDP",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Development Programme (UNDP) is a global supranational meta-framework foundational-UNDP framework established by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal international-development-coordination framework + UN-System-wide development coordination framework (UNDP established 22 November 1965 by UN General Assembly Resolution 2029 XX consolidating Expanded Programme of Technical Assistance EPTA 1949 + UN Special Fund 1958 frameworks + UNDP operations began 1 January 1966 — formal foundational UNDP framework establishing comprehensive UNDP organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-development-coordination framework + UN-System-wide development coordination framework + only modern global supranational framework operating formal Human Development Report HDR + Human Development Index HDI framework from 1990 Mahbub-ul-Haq + Amartya Sen framework + only modern global supranational framework operating formal Millennium Development Goals MDGs 2000-2015 coordination framework + only modern global supranational framework operating formal Sustainable Development Goals SDGs 2015-2030 coordination framework + only modern global supranational framework operating formal Multidimensional Poverty Index MPI framework from 2010 Oxford Poverty and Human Development Initiative OPHI + UNDP joint framework + only modern global supranational framework operating formal 170 countries operations framework as of 2026 + only modern global supranational framework operating formal Russia-invasion-of-Ukraine-2022-USD-3-billion-UNDP-Ukraine-recovery framework + only modern global supranational framework operating formal Trump-administration-USAID-cuts-2025 budget-crisis framework + only modern global supranational framework operating formal UN80-Reform-Process 2025-2026 framework via UN Secretary-General Guterres-UN80-Initiative framework), as the central jurisdiction of the formal Human Development Report + Human Development Index framework (Human Development Report HDR + Human Development Index HDI launched 1990 by UNDP + Mahbub-ul-Haq + Amartya Sen providing formal three-dimensions framework: life expectancy + education + per-capita-income framework — formal foundational Human Development Report + HDI framework, structurally distinctive globally as the only modern global supranational framework operating formal Human Development Report + HDI framework + only modern global supranational framework operating formal three-dimensions life-education-income framework), as the central jurisdiction of the formal MDGs + SDGs coordination framework (Millennium Development Goals MDGs adopted 8 September 2000 + Sustainable Development Goals SDGs adopted 25 September 2015 + UNDP MDGs + SDGs coordination role framework — formal foundational UNDP MDGs + SDGs coordination framework, structurally distinctive globally as the only modern global supranational framework operating formal MDGs 2000-2015 + SDGs 2015-2030 coordination framework), and as the central jurisdiction of the formal Multidimensional Poverty Index MPI framework (Multidimensional Poverty Index MPI framework launched 2010 by Oxford Poverty and Human Development Initiative OPHI + UNDP joint framework providing formal three-dimensions framework: health + education + living standards framework — formal foundational Multidimensional Poverty Index MPI framework, structurally distinctive globally as the only modern global supranational framework operating formal Multidimensional Poverty Index framework). The UNDP Mandate is operating upon 170 countries + 5 regional bureaus + UNDP Crisis Bureau + global coverage framework — comprehensive universal coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UNDP gender-development framework operates limited intersection with parental-alienation framework via formal UNDP Gender Inequality Index GII + UNDP-UN-Women-joint gender-equality framework. The UNDP Executive Board + UNDP Administrator + UNDP Secretariat + UNDP Resident Coordinator framework are the formal UNDP bodies; national-level apex courts operate as judicial bodies. The UNDP Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNDP Founding Resolution 1965 (UN General Assembly Resolution 2029 XX)",
+      "title": "UNDP Founding Resolution",
+      "year": 1965,
+      "url": "https://www.undp.org/",
+      "relevance": "UNDP established 22 November 1965 by UN General Assembly Resolution 2029 XX consolidating Expanded Programme of Technical Assistance EPTA 1949 + UN Special Fund 1958 frameworks — formal foundational UNDP framework establishing comprehensive UNDP organisation framework."
+    },
+    {
+      "citation": "Human Development Report 1990",
+      "title": "Human Development Report 1990",
+      "year": 1990,
+      "url": "https://hdr.undp.org/",
+      "relevance": "Human Development Report HDR + Human Development Index HDI launched 24 May 1990 by UNDP + Mahbub-ul-Haq + Amartya Sen — formal foundational Human Development Report + HDI framework."
+    },
+    {
+      "citation": "UNDP MDGs 2000 + SDGs 2015 Coordination",
+      "title": "UNDP MDGs + SDGs Coordination",
+      "year": 2015,
+      "url": "https://www.undp.org/",
+      "relevance": "Millennium Development Goals MDGs adopted 8 September 2000 + Sustainable Development Goals SDGs adopted 25 September 2015 + UNDP MDGs + SDGs coordination role framework — formal foundational UNDP MDGs + SDGs coordination framework."
+    },
+    {
+      "citation": "Multidimensional Poverty Index MPI 2010",
+      "title": "Multidimensional Poverty Index MPI",
+      "year": 2010,
+      "url": "https://hdr.undp.org/",
+      "relevance": "Multidimensional Poverty Index MPI framework launched 2010 by Oxford Poverty and Human Development Initiative OPHI + UNDP joint framework — formal foundational Multidimensional Poverty Index MPI framework."
+    },
+    {
+      "citation": "UNDP Strategic Plan 2022-2025",
+      "title": "UNDP Strategic Plan 2022-2025",
+      "year": 2022,
+      "url": "https://www.undp.org/",
+      "relevance": "UNDP Strategic Plan 2022-2025 adopted September 2021 — formal foundational UNDP Strategic Plan framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNDP Executive Board",
+      "seat": "New York",
+      "url": "https://www.undp.org/executive-board",
+      "role": "Formal supreme decision-making body for UNDP."
+    },
+    {
+      "name": "UNDP Administrator",
+      "seat": "New York",
+      "url": "https://www.undp.org/administrator",
+      "role": "Formal administrative head body for UNDP — UNDP Administrator Achim Steiner 2017-2025 + 2025+ next Administrator framework."
+    },
+    {
+      "name": "UNDP Secretariat",
+      "seat": "New York",
+      "url": "https://www.undp.org/",
+      "role": "Formal administrative body for UNDP."
+    },
+    {
+      "name": "UNDP Country Offices (170 countries)",
+      "seat": "170 countries",
+      "url": "https://www.undp.org/",
+      "role": "Formal UNDP country-level operations body."
+    },
+    {
+      "name": "UNDP Crisis Bureau",
+      "seat": "New York",
+      "url": "https://www.undp.org/crisis",
+      "role": "Formal UNDP Crisis Bureau body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNDP Secretariat",
+      "url": "https://www.undp.org/",
+      "role": "UNDP Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNDP-related communications operate via state-state framework via UNDP Executive Board + UN General Assembly; individual communications not formally accepted under UNDP framework.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "title": "Expanded Programme of Technical Assistance EPTA",
+      "description": "Expanded Programme of Technical Assistance EPTA established 4 November 1949 by UN General Assembly Resolution 304 IV — predecessor framework to UNDP."
+    },
+    {
+      "year": 1958,
+      "title": "UN Special Fund",
+      "description": "UN Special Fund established 14 October 1958 by UN General Assembly Resolution 1240 XIII — predecessor framework to UNDP."
+    },
+    {
+      "year": 1965,
+      "title": "UNDP established",
+      "description": "UNDP established 22 November 1965 by UN General Assembly Resolution 2029 XX consolidating EPTA + UN Special Fund — formal foundational UNDP framework operational."
+    },
+    {
+      "year": 1966,
+      "title": "UNDP operations begin",
+      "description": "UNDP operations began 1 January 1966 + UNDP Administrator Paul Hoffman 1966-1972 first UNDP Administrator framework — formal foundational UNDP operational framework operational."
+    },
+    {
+      "year": 1990,
+      "title": "Human Development Report + HDI launched",
+      "description": "Human Development Report HDR + Human Development Index HDI launched 24 May 1990 by UNDP + Mahbub-ul-Haq + Amartya Sen — formal foundational Human Development Report + HDI framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "MDGs adopted",
+      "description": "Millennium Development Goals MDGs adopted 8 September 2000 at UN Millennium Summit + UNDP MDGs coordination role framework — formal foundational UNDP MDGs coordination framework operational."
+    },
+    {
+      "year": 2010,
+      "title": "Multidimensional Poverty Index MPI launched",
+      "description": "Multidimensional Poverty Index MPI framework launched 2010 by Oxford Poverty and Human Development Initiative OPHI + UNDP joint framework — formal foundational Multidimensional Poverty Index MPI framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "SDGs adopted + UNDP SDGs coordination",
+      "description": "Sustainable Development Goals SDGs adopted 25 September 2015 at UN Sustainable Development Summit New York + UNDP SDGs coordination role framework — formal foundational UNDP SDGs coordination framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia-Ukraine + UNDP Ukraine recovery USD 3 billion",
+      "description": "Russia invaded Ukraine 24 February 2022 + UNDP Ukraine recovery USD 3 billion 2022-2024 framework — formal UNDP Ukraine recovery framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Gaza recovery + Pact for the Future",
+      "description": "Gaza recovery framework operational from 2024 + Pact for the Future adopted 22 September 2024 at UN Summit of the Future New York — formal UNDP Gaza recovery + Pact for the Future framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "UN80 Reform Process + Trump-USAID cuts UNDP budget-crisis",
+      "description": "UN80 Reform Process 2025-2026 framework via UN Secretary-General Guterres-UN80-Initiative March 2025 + Trump-administration-USAID-cuts-2025 + UNDP budget-crisis framework — formal UN80 Reform + Trump-USAID cuts UNDP-budget-crisis framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNDP Mandate operates a supranational global framework — places UNDP Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-development-coordination framework + UN-System-wide development coordination framework is structurally distinctive globally — only modern global supranational framework operating on formal international-development-coordination framework + UN-System-wide development coordination framework + only modern global supranational framework operating formal Human Development Report HDR + Human Development Index HDI framework from 1990 Mahbub-ul-Haq + Amartya Sen framework + only modern global supranational framework operating formal Millennium Development Goals MDGs 2000-2015 coordination framework + only modern global supranational framework operating formal Sustainable Development Goals SDGs 2015-2030 coordination framework + only modern global supranational framework operating formal Multidimensional Poverty Index MPI framework from 2010 Oxford Poverty and Human Development Initiative OPHI + UNDP joint framework + only modern global supranational framework operating formal 170 countries operations framework as of 2026 + only modern global supranational framework operating formal Russia-invasion-of-Ukraine-2022-USD-3-billion-UNDP-Ukraine-recovery framework + only modern global supranational framework operating formal Trump-administration-USAID-cuts-2025 budget-crisis framework + only modern global supranational framework operating formal UN80-Reform-Process 2025-2026 framework.",
+    "Central jurisdiction of formal Human Development Report + Human Development Index framework is structurally distinctive globally — only modern global supranational framework operating formal Human Development Report + HDI framework + only modern global supranational framework operating formal three-dimensions life-education-income framework.",
+    "Central jurisdiction of formal MDGs + SDGs coordination framework is structurally distinctive globally — only modern global supranational framework operating formal MDGs 2000-2015 + SDGs 2015-2030 coordination framework.",
+    "Central jurisdiction of formal Multidimensional Poverty Index MPI framework is structurally distinctive globally — only modern global supranational framework operating formal Multidimensional Poverty Index framework.",
+    "170 countries + 5 regional bureaus + UNDP Crisis Bureau + global coverage framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1949 EPTA + 1958 UN Special Fund + 1965 UNDP + 1966 operations + 1990 HDR + HDI + 2000 MDGs + 2010 MPI + 2015 SDGs + 2022 Russia-Ukraine + UNDP Ukraine recovery + 2024 Gaza + Pact for Future + 2025 UN80 + Trump-USAID UNDP-framework-development sequence is structurally distinctive globally.",
+    "UNDP Mandate + Founding Resolution + HDR + HDI + MPI + SDGs coordination + Strategic Plan 2022-2025 formal sextet framework with limited PA-intersection framework via formal UNDP Gender Inequality Index GII + UNDP-UN-Women-joint gender-equality framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:un-women",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNDP",
+      "url": "https://www.undp.org/",
+      "publisher": "UNDP Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNDP Mandate jurisdiction sidecar — supranational global international-development-coordination foundational-UNDP meta-framework (UNDP Founding Resolution 1965 + Human Development Report + HDI 1990 + MDGs 2000-2015 coordination + SDGs 2015-2030 coordination + MPI 2010 + Strategic Plan 2022-2025 + EPTA 1949 + UN Special Fund 1958 predecessors + 1990 Mahbub-ul-Haq + Amartya Sen + 2022 Russia-Ukraine + UNDP Ukraine recovery USD 3 billion + 2024 Gaza recovery + Pact for the Future + 2025 UN80 Reform + Trump-USAID cuts). Only modern global supranational framework operating on formal international-development-coordination framework + UN-System-wide development coordination + only modern global supranational framework operating formal HDR + HDI framework from 1990 Mahbub-ul-Haq + Amartya Sen + only modern global supranational framework operating formal MDGs 2000-2015 coordination + only modern global supranational framework operating formal SDGs 2015-2030 coordination + only modern global supranational framework operating formal MPI framework from 2010 OPHI + UNDP joint + only modern global supranational framework operating formal 170 countries operations + only modern global supranational framework operating formal Russia-Ukraine-2022-USD-3-billion-recovery + only modern global supranational framework operating formal Trump-USAID-cuts-2025 budget-crisis + only modern global supranational framework operating formal UN80-Reform-Process 2025-2026 + central jurisdiction of formal HDR + HDI three-dimensions life-education-income + central jurisdiction of formal MDGs + SDGs coordination + central jurisdiction of formal MPI three-dimensions health-education-living-standards + 170 countries + 5 regional bureaus + UNDP Crisis Bureau + UNDP Headquartered New York + UNDP Administrator Achim Steiner 2017-2025 + 1949 EPTA + 1958 UN Special Fund + 1965 UNDP + 1966 operations + 1990 HDR + HDI + 2000 MDGs + 2010 MPI + 2015 SDGs + 2022 Russia-Ukraine + UNDP Ukraine recovery + 2024 Gaza + Pact for Future + 2025 UN80 + Trump-USAID UNDP-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNDP gender-development framework operates limited intersection with parental-alienation framework via formal UNDP Gender Inequality Index GII + UNDP-UN-Women-joint gender-equality framework.",
+    "Joins global + supranational + international-development-coordination-foundational-UNDP cluster + UNDP-only-global-supranational-framework-on-international-development-coordination-globally-distinctive + UN-System-wide-development-coordination + Human-Development-Report-HDR + Human-Development-Index-HDI-1990-Mahbub-ul-Haq-Amartya-Sen + three-dimensions-life-education-income + Multidimensional-Poverty-Index-MPI-2010-OPHI-UNDP-joint + Millennium-Development-Goals-MDGs-2000-2015-coordination + Sustainable-Development-Goals-SDGs-2015-2030-coordination + UNDP-170-countries-operations + 5-UNDP-regional-bureaus + UNDP-Crisis-Bureau + UNDP-Headquartered-New-York + UNDP-Administrator-Achim-Steiner-2017-2025 + EPTA-1949-predecessor + UN-Special-Fund-1958-predecessor + Paul-Hoffman-first-UNDP-Administrator-1966-1972 + Russia-Ukraine-2022-USD-3-billion-UNDP-Ukraine-recovery + Trump-USAID-cuts-2025-UNDP-budget-crisis + UN80-Reform-Process-2025-2026 + Pact-for-the-Future-2024 + UNDP-Gender-Inequality-Index-GII + UNDP-UN-Women-joint-gender-equality-PA-intersection clusters within the corpus."
+  ]
+}

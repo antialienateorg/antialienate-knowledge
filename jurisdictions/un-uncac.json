@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "un-uncac",
+  "name": "UN Convention against Corruption (UNCAC 2003)",
+  "jurisdiction_code": "UCC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Convention against Corruption (UNCAC) is a global supranational meta-framework anti-corruption binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on anti-corruption framework (UNCAC adopted 31 October 2003 by UN General Assembly Resolution 58/4 + opened for signature 9 December 2003 in Merida Mexico + effective 14 December 2005 — formal universal multilateral binding-treaty framework establishing comprehensive anti-corruption framework, distinct from rest-of-modern-international-anti-corruption frameworks which operate as regional + sub-national treaties, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-anti-corruption-specific framework + first major UN anti-corruption treaty framework), as the central jurisdiction of the formal Chapter V Asset Recovery Framework (UNCAC Chapter V Articles 51-59 framework providing 'The return of assets pursuant to this chapter is a fundamental principle of this Convention, and States Parties shall afford one another the widest measure of cooperation and assistance in this regard' — formal foundational asset-recovery framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal asset-recovery framework), as the central jurisdiction of the formal Chapter IV International Cooperation Framework (UNCAC Chapter IV Articles 43-50 framework providing formal extradition + mutual-legal-assistance + transfer-of-sentenced-persons + joint-investigations + special-investigative-techniques framework — formal foundational anti-corruption international-cooperation framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal anti-corruption international-cooperation framework), and as the central jurisdiction of the formal UNCAC Implementation Review Mechanism IRM (UNCAC IRM operational from 2010 via UNCAC Conference of States Parties COSP Resolution 3/1 — formal foundational anti-corruption peer-review-mechanism framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal anti-corruption peer-review-mechanism framework). The UNCAC is binding upon 190 state parties as of 2026 — substantial universal coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Chapter V asset-recovery framework + Chapter IV international-cooperation frameworks operate substantial intersection with parental-alienation framework via formal cross-border child-support-enforcement-corruption + judicial-corruption-in-family-court framework. The UN Office on Drugs and Crime UNODC + UNCAC Conference of States Parties COSP + UNCAC Implementation Review Group IRG are the formal anti-corruption framework bodies; national-level apex courts operate as judicial bodies. The UNCAC is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention against Corruption 2003",
+      "title": "UNCAC",
+      "year": 2005,
+      "url": "https://www.unodc.org/",
+      "relevance": "UN Convention against Corruption adopted 31 October 2003 by UN General Assembly Resolution 58/4 + opened for signature 9 December 2003 in Merida Mexico + effective 14 December 2005 — formal universal multilateral binding-treaty framework establishing comprehensive anti-corruption framework."
+    },
+    {
+      "citation": "UNCAC Chapter V Articles 51-59 (Asset Recovery Framework)",
+      "title": "UNCAC Chapter V",
+      "year": 2005,
+      "url": "https://www.unodc.org/",
+      "relevance": "UNCAC Chapter V Articles 51-59 framework on asset-recovery — formal foundational asset-recovery framework."
+    },
+    {
+      "citation": "UNCAC Chapter IV Articles 43-50 (International Cooperation Framework)",
+      "title": "UNCAC Chapter IV",
+      "year": 2005,
+      "url": "https://www.unodc.org/",
+      "relevance": "UNCAC Chapter IV Articles 43-50 framework on international-cooperation — formal foundational anti-corruption international-cooperation framework."
+    },
+    {
+      "citation": "UNCAC Chapter II Articles 5-14 (Preventive Measures Framework)",
+      "title": "UNCAC Chapter II",
+      "year": 2005,
+      "url": "https://www.unodc.org/",
+      "relevance": "UNCAC Chapter II Articles 5-14 framework on preventive measures — formal foundational anti-corruption preventive-measures framework."
+    },
+    {
+      "citation": "UNCAC Chapter III Articles 15-42 (Criminalization Framework)",
+      "title": "UNCAC Chapter III",
+      "year": 2005,
+      "url": "https://www.unodc.org/",
+      "relevance": "UNCAC Chapter III Articles 15-42 framework on criminalization + law enforcement — formal foundational anti-corruption criminalization framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNCAC Conference of States Parties (COSP)",
+      "seat": "Vienna",
+      "url": "https://www.unodc.org/unodc/en/corruption/COSP/conference-of-the-states-parties.html",
+      "role": "Formal anti-corruption framework body for UNCAC."
+    },
+    {
+      "name": "UNCAC Implementation Review Group (IRG)",
+      "seat": "Vienna",
+      "url": "https://www.unodc.org/",
+      "role": "Apex peer-review framework body for UNCAC."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Office on Drugs and Crime (UNODC)",
+      "url": "https://www.unodc.org/",
+      "role": "UNCAC implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNCAC-related individual communications operate via state-state framework; individual communications not formally accepted under UNCAC framework.",
+  "key_developments": [
+    {
+      "year": 1996,
+      "title": "OAS Inter-American Convention against Corruption",
+      "description": "OAS Inter-American Convention against Corruption adopted 29 March 1996 — first regional anti-corruption convention framework predecessor to UNCAC."
+    },
+    {
+      "year": 1997,
+      "title": "OECD Anti-Bribery Convention",
+      "description": "OECD Anti-Bribery Convention adopted 21 November 1997 — predecessor framework to UNCAC."
+    },
+    {
+      "year": 2003,
+      "title": "UNCAC adopted",
+      "description": "UN Convention against Corruption adopted 31 October 2003 by UN General Assembly Resolution 58/4 + opened for signature 9 December 2003 in Merida Mexico — formal universal multilateral binding-treaty framework adopted."
+    },
+    {
+      "year": 2005,
+      "title": "UNCAC enters force",
+      "description": "UN UNCAC entered force 14 December 2005 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2010,
+      "title": "UNCAC Implementation Review Mechanism Operational",
+      "description": "UNCAC Implementation Review Mechanism IRM operational from 2010 via UNCAC Conference of States Parties COSP Resolution 3/1 — formal anti-corruption peer-review-mechanism framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "UNGASS Anti-Corruption Political Declaration",
+      "description": "UN General Assembly Special Session UNGASS on Corruption Political Declaration 'Our common commitment to effectively addressing challenges and implementing measures to prevent and combat corruption and strengthen international cooperation' adopted 2-4 June 2021 — formal UNCAC implementation framework."
+    }
+  ],
+  "structural_findings": [
+    "UNCAC operates a supranational universal multilateral binding-treaty framework — places UNCAC in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on anti-corruption framework is structurally distinctive globally — formal-anti-corruption-specific framework + first major UN anti-corruption treaty framework.",
+    "Central jurisdiction of formal Chapter V Articles 51-59 asset-recovery framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal asset-recovery framework.",
+    "Central jurisdiction of formal Chapter IV Articles 43-50 international-cooperation framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal anti-corruption international-cooperation framework.",
+    "Central jurisdiction of formal UNCAC IRM peer-review-mechanism framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal anti-corruption peer-review-mechanism framework.",
+    "190 state party ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1996 OAS Inter-American Convention + 1997 OECD Anti-Bribery + 2003 UNCAC + 2005 entry into force + 2010 IRM operational + 2021 UNGASS Political Declaration anti-corruption-framework-development sequence is structurally distinctive globally.",
+    "Chapter II preventive measures + Chapter III criminalization + Chapter IV international cooperation + Chapter V asset recovery formal quartet framework with formal cross-border child-support-enforcement-corruption + judicial-corruption-in-family-court PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UNODC — UNCAC",
+      "url": "https://www.unodc.org/unodc/en/corruption/",
+      "publisher": "UNODC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNCAC jurisdiction sidecar — supranational global anti-corruption universal multilateral binding-treaty meta-framework (UNCAC 2003/2005 + Chapter II Preventive Measures + Chapter III Criminalization + Chapter IV International Cooperation + Chapter V Asset Recovery + UNCAC IRM 2010 + UNGASS 2021). Only modern universal multilateral binding-treaty framework operating specifically on anti-corruption framework globally + central jurisdiction of formal Chapter V asset-recovery framework + central jurisdiction of formal Chapter IV international-cooperation framework + central jurisdiction of formal UNCAC IRM peer-review-mechanism framework + 190 state party ratification framework + 1996 OAS + 1997 OECD + 2003 UNCAC + 2005 entry into force + 2010 IRM + 2021 UNGASS anti-corruption-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Chapter V asset-recovery framework + Chapter IV international-cooperation framework operate substantial intersection with parental-alienation framework via formal cross-border child-support-enforcement-corruption + judicial-corruption-in-family-court framework.",
+    "Joins global + supranational + universal-multilateral-anti-corruption-binding-treaty cluster + UNCAC-only-universal-anti-corruption-binding-treaty-globally-distinctive + Chapter-II-Preventive-Measures + Chapter-III-Criminalization + Chapter-IV-International-Cooperation + Chapter-V-Asset-Recovery + UNCAC-IRM-2010 + 190-state-party-substantial-coverage + 1996-OAS-Inter-American-Convention-predecessor + 1997-OECD-Anti-Bribery-predecessor + 2021-UNGASS-Political-Declaration + cross-border-child-support-enforcement-corruption-PA-intersection clusters within the corpus."
+  ]
+}

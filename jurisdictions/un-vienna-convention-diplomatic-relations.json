@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "un-vienna-convention-diplomatic-relations",
+  "name": "UN Vienna Convention on Diplomatic Relations (VCDR 1961)",
+  "jurisdiction_code": "VCD",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Vienna Convention on Diplomatic Relations (VCDR) is a global supranational meta-framework diplomatic-relations binding-treaty instrument adopted by the UN Conference on Diplomatic Intercourse and Immunities in Vienna — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on diplomatic-relations framework (VCDR adopted 18 April 1961 in Vienna Austria + effective 24 April 1964 — formal universal multilateral binding-treaty framework establishing comprehensive diplomatic-relations framework, distinct from rest-of-modern-international-treaty frameworks which operate on substantive treaties operating within state framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal diplomatic-immunity framework + codification of customary international diplomatic-relations law framework + most-ratified UN universal treaty framework with 193 state parties matching UN membership), as the central jurisdiction of the formal Article 22 Premises Inviolability framework (VCDR Article 22 framework providing 'The premises of the mission shall be inviolable. The agents of the receiving State may not enter them, except with the consent of the head of the mission' — formal foundational diplomatic-premises-inviolability framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal absolute diplomatic-premises-inviolability framework), as the central jurisdiction of the formal Article 29 Personal Inviolability framework (VCDR Article 29 framework providing 'The person of a diplomatic agent shall be inviolable. He shall not be liable to any form of arrest or detention. The receiving State shall treat him with due respect and shall take all appropriate steps to prevent any attack on his person, freedom or dignity' — formal foundational diplomatic-personal-inviolability framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal absolute diplomatic-personal-inviolability framework), and as the central jurisdiction of the formal Article 31 Diplomatic Immunity from Jurisdiction framework (VCDR Article 31 framework providing 'A diplomatic agent shall enjoy immunity from the criminal jurisdiction of the receiving State. He shall also enjoy immunity from its civil and administrative jurisdiction' — formal foundational diplomatic-immunity-from-jurisdiction framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal absolute diplomatic-immunity-from-criminal-jurisdiction framework). The VCDR is binding upon 193 state parties matching UN membership as of 2026 — universal coverage framework + most-ratified UN universal treaty framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 31 diplomatic-immunity-from-jurisdiction framework operates substantial intersection with parental-alienation framework via formal cross-border diplomatic-immunity-blocking-family-court-jurisdiction framework where diplomatic-staff-parent-alienator cases occur. The ICJ + national-level apex courts are the formal judicial bodies; UN Secretariat operates as formal Implementation Framework body. The VCDR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Vienna Convention on Diplomatic Relations 1961",
+      "title": "VCDR",
+      "year": 1964,
+      "url": "https://legal.un.org/ilc/texts/9_1.shtml",
+      "relevance": "UN Vienna Convention on Diplomatic Relations adopted 18 April 1961 in Vienna Austria + effective 24 April 1964 — formal universal multilateral binding-treaty framework establishing comprehensive diplomatic-relations framework."
+    },
+    {
+      "citation": "VCDR Article 22 (Premises Inviolability Framework)",
+      "title": "VCDR Article 22",
+      "year": 1964,
+      "url": "https://legal.un.org/ilc/texts/9_1.shtml",
+      "relevance": "VCDR Article 22 framework on diplomatic-premises-inviolability — formal foundational absolute diplomatic-premises-inviolability framework."
+    },
+    {
+      "citation": "VCDR Article 29 (Personal Inviolability Framework)",
+      "title": "VCDR Article 29",
+      "year": 1964,
+      "url": "https://legal.un.org/ilc/texts/9_1.shtml",
+      "relevance": "VCDR Article 29 framework on diplomatic-personal-inviolability — formal foundational absolute diplomatic-personal-inviolability framework."
+    },
+    {
+      "citation": "VCDR Article 31 (Diplomatic Immunity from Jurisdiction Framework)",
+      "title": "VCDR Article 31",
+      "year": 1964,
+      "url": "https://legal.un.org/ilc/texts/9_1.shtml",
+      "relevance": "VCDR Article 31 framework on diplomatic-immunity-from-jurisdiction — formal foundational absolute diplomatic-immunity-from-criminal-jurisdiction framework."
+    },
+    {
+      "citation": "Optional Protocol concerning Acquisition of Nationality 1961",
+      "title": "VCDR Optional Protocol 1",
+      "year": 1964,
+      "url": "https://legal.un.org/ilc/texts/9_1.shtml",
+      "relevance": "Optional Protocol to VCDR concerning Acquisition of Nationality adopted 18 April 1961 + effective 24 April 1964 — formal foundational diplomatic-nationality framework."
+    },
+    {
+      "citation": "Optional Protocol concerning Compulsory Settlement of Disputes 1961",
+      "title": "VCDR Optional Protocol 2",
+      "year": 1964,
+      "url": "https://legal.un.org/ilc/texts/9_1.shtml",
+      "relevance": "Optional Protocol to VCDR concerning Compulsory Settlement of Disputes adopted 18 April 1961 + effective 24 April 1964 — formal foundational diplomatic-dispute-settlement framework granting ICJ compulsory jurisdiction framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "International Court of Justice (ICJ)",
+      "seat": "The Hague",
+      "url": "https://www.icj-cij.org/",
+      "role": "Apex judicial body for VCDR disputes under Optional Protocol 2 framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Secretariat — Office of Legal Affairs",
+      "url": "https://legal.un.org/",
+      "role": "VCDR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "VCDR-related ICJ communications operate via state-state framework; individual communications not formally accepted under VCDR framework.",
+  "key_developments": [
+    {
+      "year": 1815,
+      "title": "Congress of Vienna",
+      "description": "Congress of Vienna Regulation on Diplomatic Agents adopted 19 March 1815 in Vienna Austria — predecessor framework to VCDR."
+    },
+    {
+      "year": 1961,
+      "title": "VCDR adopted",
+      "description": "UN Vienna Convention on Diplomatic Relations adopted 18 April 1961 in Vienna Austria — formal universal multilateral binding-treaty framework adopted."
+    },
+    {
+      "year": 1964,
+      "title": "VCDR enters force",
+      "description": "UN VCDR entered force 24 April 1964 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1980,
+      "title": "ICJ Tehran Hostages Case",
+      "description": "ICJ United States Diplomatic and Consular Staff in Tehran USA v Iran Judgment of 24 May 1980 — formal ICJ VCDR + VCCR jurisprudence framework affirming absolute diplomatic-inviolability framework."
+    },
+    {
+      "year": 1984,
+      "title": "Yvonne Fletcher killing London Libyan Embassy",
+      "description": "Yvonne Fletcher police officer killing 17 April 1984 by gunfire from Libyan Embassy London + 11-day Libyan Embassy siege — formal VCDR Article 22 + Article 29 enforcement framework operational test."
+    },
+    {
+      "year": 2008,
+      "title": "ICJ Djibouti v France",
+      "description": "ICJ Certain Questions of Mutual Assistance in Criminal Matters Djibouti v France Judgment of 4 June 2008 — formal ICJ VCDR jurisprudence framework on Article 29 diplomatic-personal-inviolability framework."
+    },
+    {
+      "year": 2019,
+      "title": "ICJ Equatorial Guinea v France",
+      "description": "ICJ Immunities and Criminal Proceedings Equatorial Guinea v France Judgment of 11 December 2019 — formal ICJ VCDR jurisprudence framework on Article 22 diplomatic-premises-inviolability framework."
+    }
+  ],
+  "structural_findings": [
+    "VCDR operates a supranational universal multilateral binding-treaty framework — places VCDR in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on diplomatic-relations framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal diplomatic-immunity framework + codification of customary international diplomatic-relations law framework + most-ratified UN universal treaty framework with 193 state parties matching UN membership.",
+    "Central jurisdiction of formal Article 22 premises inviolability framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal absolute diplomatic-premises-inviolability framework.",
+    "Central jurisdiction of formal Article 29 personal inviolability framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal absolute diplomatic-personal-inviolability framework.",
+    "Central jurisdiction of formal Article 31 diplomatic-immunity-from-jurisdiction framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal absolute diplomatic-immunity-from-criminal-jurisdiction framework.",
+    "193 state party ratification framework matching UN membership is structurally distinctive globally — universal coverage framework + most-ratified UN universal treaty framework.",
+    "1815 Congress of Vienna + 1961 VCDR + 1964 entry into force + 1980 ICJ Tehran Hostages + 1984 Yvonne Fletcher + 2008 ICJ Djibouti v France + 2019 ICJ Equatorial Guinea v France VCDR-framework-development sequence is structurally distinctive globally.",
+    "Article 22 premises inviolability + Article 29 personal inviolability + Article 31 jurisdiction immunity formal triad framework with formal cross-border diplomatic-immunity-blocking-family-court-jurisdiction PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "jurisdiction:un-vienna-convention-consular-relations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UN ILC — VCDR",
+      "url": "https://legal.un.org/ilc/texts/9_1.shtml",
+      "publisher": "United Nations",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "VCDR jurisdiction sidecar — supranational global diplomatic-relations universal multilateral binding-treaty meta-framework (VCDR 1961/1964 + Article 22 Premises Inviolability + Article 29 Personal Inviolability + Article 31 Jurisdiction Immunity + Optional Protocol 1 Nationality + Optional Protocol 2 ICJ Compulsory Jurisdiction + 1815 Congress of Vienna predecessor + 1980 ICJ Tehran Hostages + 1984 Yvonne Fletcher + 2008 ICJ Djibouti v France + 2019 ICJ Equatorial Guinea v France). Only modern universal multilateral binding-treaty framework operating specifically on diplomatic-relations framework globally + most-ratified UN universal treaty framework with 193 state parties matching UN membership + central jurisdiction of formal Article 22 + Article 29 + Article 31 diplomatic-inviolability triad + 1815 Congress of Vienna + 1961 VCDR + 1964 entry into force + 1980 ICJ Tehran Hostages + 1984 Yvonne Fletcher + 2008 ICJ Djibouti v France + 2019 ICJ Equatorial Guinea v France VCDR-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 31 diplomatic-immunity-from-jurisdiction framework operates substantial intersection with parental-alienation framework via formal cross-border diplomatic-immunity-blocking-family-court-jurisdiction framework where diplomatic-staff-parent-alienator cases occur.",
+    "Joins global + supranational + universal-multilateral-diplomatic-relations-binding-treaty cluster + VCDR-only-universal-diplomatic-relations-binding-treaty-globally-distinctive + Article-22-Premises-Inviolability + Article-29-Personal-Inviolability + Article-31-Jurisdiction-Immunity + Optional-Protocol-1-Nationality + Optional-Protocol-2-ICJ-Compulsory-Jurisdiction + 193-state-party-universal-coverage-matching-UN-membership + most-ratified-UN-universal-treaty + 1815-Congress-of-Vienna-predecessor + 1980-ICJ-Tehran-Hostages + 1984-Yvonne-Fletcher-Libyan-Embassy + 2008-ICJ-Djibouti-v-France + 2019-ICJ-Equatorial-Guinea-v-France + diplomatic-immunity-blocking-family-court-jurisdiction-PA-intersection clusters within the corpus."
+  ]
+}

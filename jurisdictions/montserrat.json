@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "montserrat",
+  "name": "Montserrat",
+  "jurisdiction_code": "MS",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Montserrat is a Caribbean common-law British Overseas Territory whose family-law framework operates under the Domestic Violence Act 1995, the Status of Children Act, and case-law applying the welfare-of-the-child principle. The volcanic eruptions of 1995-1997 (Soufrière Hills) caused substantial displacement and led to the relocation of the capital from Plymouth (now in exclusion zone) to a new de facto capital at Brades/Little Bay. The Court of Appeal of the Eastern Caribbean Supreme Court (sitting for Montserrat) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the High Court of Justice and Magistrates' Court. Psychology profession is regulated through the Montserrat Health Authority framework. Montserrat is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Montserrat is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Domestic Violence Act 1995",
+      "title": "Domestic Violence Act",
+      "year": 1995,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on domestic violence protection orders affecting family-law proceedings."
+    },
+    {
+      "citation": "Status of Children Act",
+      "title": "Status of Children Act",
+      "year": 1991,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on legal status of children."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eastern Caribbean Supreme Court — Court of Appeal (Montserrat)",
+      "seat": "Brades",
+      "url": "https://www.eccourts.org/",
+      "role": "Apex domestic appellate court for OECS-shared judicial system including Montserrat."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Montserrat."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Montserrat Health Authority",
+      "url": "https://www.gov.ms/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Montserratian family-court decisions are anonymised per ECSC practice using initials.",
+  "key_developments": [
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Montserrat effective 1 August 1986."
+    },
+    {
+      "year": 1995,
+      "title": "Soufrière Hills volcanic eruptions",
+      "description": "Volcanic eruptions of 1995-1997 caused substantial displacement and the relocation of capital from Plymouth (now in exclusion zone) to de facto capital at Brades/Little Bay."
+    }
+  ],
+  "structural_findings": [
+    "Montserrat operates a common-law framework with British Overseas Territory status — places Montserrat in the Caribbean BOT cluster.",
+    "Eastern Caribbean Supreme Court appellate jurisdiction (OECS-shared) places Montserrat in the OECS-shared-judicial-system BOT cluster alongside BVI and Anguilla.",
+    "Post-1995 volcanic-eruption displacement is structurally distinctive — only state in corpus with capital relocation due to natural disaster.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:anguilla",
+    "jurisdiction:british-virgin-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Caribbean Supreme Court",
+      "url": "https://www.eccourts.org/",
+      "publisher": "ECSC",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Montserrat jurisdiction sidecar — common-law Caribbean BOT (Domestic Violence Act 1995 + Status of Children Act + ECSC OECS-shared + JCPC + Hague via UK territorial extension 1986 + post-1995 volcanic-eruption displacement distinctive).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + common-law + BOT cluster + OECS-shared-judicial-system + capital-relocation-due-to-volcanic-eruption-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

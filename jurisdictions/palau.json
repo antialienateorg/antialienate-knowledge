@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "id": "palau",
+  "name": "Palau (Republic of Palau / Beluu er a Belau)",
+  "jurisdiction_code": "PW",
+  "legal_system": "common-law",
+  "language": ["en", "pau"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Palau is a Pacific Island common-law republic in Compact of Free Association with the United States (Compact 1994). Family-law framework operates under the Palau National Code Title 21 (Domestic Relations) drawing on US-derivative common-law substantive heritage via Compact framework and prior US Trust Territory administration. Parental responsibility and child custody are governed by National Code Title 21 Chapters 1-7. The Supreme Court of Palau is the apex court for civil and criminal matters. Customary-law jurisdiction operates in parallel — Palau is structurally distinctive globally as the only state with constitutionally-recognised matrilineal customary-law framework (Belauan tradition). The Court of Common Pleas operates first-instance customary-law jurisdiction. Family-law matters are heard at first instance in the Supreme Court (Trial Division) and Court of Common Pleas. Psychology profession is regulated through the Ministry of Health framework. Palau is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Palau is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Palau National Code Title 21 (Domestic Relations)",
+      "title": "Palau National Code Title 21 — Domestic Relations",
+      "year": 1980,
+      "url": "https://www.palausupremecourt.net/",
+      "relevance": "Federal Domestic Relations Code codifying marriage, divorce, parental responsibility, and child custody framework. Chapters 1-7 govern parental responsibility and child custody."
+    },
+    {
+      "citation": "Compact of Free Association 1994",
+      "title": "Compact of Free Association",
+      "year": 1994,
+      "url": "https://www.palausupremecourt.net/",
+      "relevance": "Compact establishing Palau's sovereign status with defense and certain economic relationships with the US."
+    },
+    {
+      "citation": "Constitution 1981 — matrilineal customary-law recognition",
+      "title": "Constitution — matrilineal customary-law",
+      "year": 1981,
+      "url": "https://www.palausupremecourt.net/",
+      "relevance": "Constitution constitutionally-recognising Belauan matrilineal customary-law framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Palau",
+      "seat": "Ngerulmud",
+      "url": "https://www.palausupremecourt.net/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Court of Common Pleas",
+      "seat": "Ngerulmud",
+      "url": "https://www.palausupremecourt.net/",
+      "role": "First-instance court for civil and customary-law matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Human Services, Palau",
+      "url": "https://www.palauhealth.org/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Palauan family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1980,
+      "title": "Palau National Code Title 21",
+      "description": "Federal Domestic Relations Code enacted codifying marriage, divorce, parental responsibility, and child custody framework."
+    },
+    {
+      "year": 1981,
+      "title": "Constitution — matrilineal customary-law recognition",
+      "description": "Constitution adopted constitutionally-recognising Belauan matrilineal customary-law framework."
+    },
+    {
+      "year": 1994,
+      "title": "Compact of Free Association + independence",
+      "description": "Compact of Free Association with US ratified; Palau achieved independence from US Trust Territory framework."
+    }
+  ],
+  "structural_findings": [
+    "Palau operates a US-derivative common-law framework with structurally distinctive Compact-of-Free-Association status — places Palau in the Compact-of-Free-Association cluster (with Marshall Islands and Micronesia) within the corpus.",
+    "Constitutional recognition of Belauan matrilineal customary-law is structurally distinctive globally — only state with constitutionally-recognised matrilineal customary-law framework within the corpus.",
+    "Newest Compact-of-Free-Association state (1994 ratification) within the corpus.",
+    "Non-Hague Convention status places Palau in the non-Hague Pacific cluster."
+  ],
+  "references": [
+    "jurisdiction:marshall-islands",
+    "jurisdiction:micronesia",
+    "jurisdiction:united-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Palau",
+      "url": "https://www.palausupremecourt.net/",
+      "publisher": "Supreme Court",
+      "language": "en,pau"
+    },
+    {
+      "title": "Ministry of Health and Human Services",
+      "url": "https://www.palauhealth.org/",
+      "publisher": "Ministry of Health",
+      "language": "en,pau"
+    }
+  ],
+  "editorial_notes": [
+    "Palau jurisdiction sidecar — common-law Pacific Compact-of-Free-Association state (National Code Title 21 + Compact 1994 + Constitution 1981 matrilineal customary-law + non-Hague). Only constitutionally-recognised matrilineal customary-law framework globally. Completes Compact-of-Free-Association cluster (MH+FM+PW).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + US-derivative + Compact-of-Free-Association cluster + matrilineal-customary-law-globally-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

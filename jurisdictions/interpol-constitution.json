@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0",
+  "id": "interpol-constitution",
+  "name": "INTERPOL Constitution 1956 (International Criminal Police Organization)",
+  "jurisdiction_code": "INT",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Constitution of the International Criminal Police Organization (INTERPOL Constitution) is a global supranational meta-framework foundational-INTERPOL-treaty framework adopted by the 47 founding states in Vienna — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-police-cooperation framework + second-largest international organisation by membership globally after UN framework (INTERPOL Constitution adopted 13 June 1956 at 25th INTERPOL General Assembly Vienna Austria + International Criminal Police Commission ICPC predecessor founded 7 September 1923 in Vienna Austria at 2nd International Criminal Police Congress + INTERPOL renamed 1956 from ICPC — formal foundational INTERPOL treaty framework establishing comprehensive INTERPOL organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate without police-cooperation framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-police-cooperation framework + second-largest international organisation by membership globally after UN with 196 member states framework + only modern global supranational binding-treaty framework operating formal Red Notice + Yellow Notice + Blue Notice + Black Notice + Green Notice + Orange Notice + Purple Notice + UN Special Notice 8-color-coded-notice framework + only modern global supranational binding-treaty framework operating formal I-24/7 Global Police Communications System framework + only modern global supranational binding-treaty framework operating formal Notices Commission framework + only modern global supranational binding-treaty framework operating formal Article 3 Constitution-Neutrality-Apolitical framework + only modern global supranational binding-treaty framework operating formal Russia-suspension-issues-2022-2024 framework via Russia-NCB-suspension framework + only modern global supranational binding-treaty framework operating formal Saudi-Arabia-Khashoggi-Red-Notice-misuse 2018-controversy framework), as the central jurisdiction of the formal INTERPOL 8-Color-Coded-Notice framework (INTERPOL Notice framework providing formal Red Notice arrest-warrant + Yellow Notice missing-person + Blue Notice information + Black Notice unidentified-body + Green Notice repeat-offender-warning + Orange Notice threat-warning + Purple Notice criminal-modus-operandi + INTERPOL-UN Security Council Special Notice 8-color-coded-notice framework — formal foundational INTERPOL 8-Color-Coded-Notice framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal 8-Color-Coded-Notice framework), as the central jurisdiction of the formal INTERPOL Article 3 Constitution-Neutrality-Apolitical framework (INTERPOL Constitution Article 3 framework providing 'It is strictly forbidden for the Organization to undertake any intervention or activities of a political, military, religious or racial character' — formal foundational INTERPOL Article 3 Constitution-Neutrality-Apolitical framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Article 3 Constitution-Neutrality-Apolitical framework + only modern global supranational binding-treaty framework operating formal political-military-religious-racial-non-intervention framework), and as the central jurisdiction of the formal INTERPOL Notices Commission framework (INTERPOL Commission for the Control of Files CCF established 1982 + reformed 2017 providing formal individual-petition framework for Red Notice + Yellow Notice review + redress framework — formal foundational INTERPOL Notices Commission framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal individual-petition framework for Notice review + redress framework + only modern global supranational binding-treaty framework operating formal Notices Commission framework). The INTERPOL Constitution is binding upon 196 INTERPOL member states as of 2026 + Russia-NCB-suspension-issues 2022-2024 framework — substantial universal coverage framework. The Constitution is silent on 'parental alienation' as a statutory label, though formal INTERPOL Yellow Notice missing-person framework operates substantial intersection with parental-alienation framework via formal cross-border-parental-abduction Yellow Notice framework + Hague Convention 1980 INTERPOL coordination framework. The INTERPOL General Assembly + INTERPOL Executive Committee + INTERPOL General Secretariat + INTERPOL Secretary General + INTERPOL Commission for the Control of Files CCF + INTERPOL National Central Bureaus NCBs in each member state are the formal INTERPOL bodies; national-level apex courts operate as judicial bodies. The INTERPOL Constitution is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "INTERPOL Constitution 1956",
+      "title": "INTERPOL Constitution",
+      "year": 1956,
+      "url": "https://www.interpol.int/",
+      "relevance": "Constitution of the International Criminal Police Organization adopted 13 June 1956 at 25th INTERPOL General Assembly Vienna Austria — formal foundational INTERPOL treaty framework establishing comprehensive INTERPOL organisation framework."
+    },
+    {
+      "citation": "INTERPOL Constitution Article 3 (Constitution-Neutrality-Apolitical Framework)",
+      "title": "INTERPOL Constitution Article 3",
+      "year": 1956,
+      "url": "https://www.interpol.int/",
+      "relevance": "INTERPOL Constitution Article 3 framework on Constitution-Neutrality-Apolitical — formal foundational INTERPOL Article 3 Constitution-Neutrality-Apolitical framework + political-military-religious-racial-non-intervention framework."
+    },
+    {
+      "citation": "INTERPOL CCF Commission for the Control of Files 1982",
+      "title": "INTERPOL CCF",
+      "year": 1982,
+      "url": "https://www.interpol.int/Who-we-are/Commission-for-the-Control-of-INTERPOL-s-Files-CCF",
+      "relevance": "INTERPOL Commission for the Control of Files CCF established 1982 + reformed 2017 — formal foundational INTERPOL Notices Commission framework with individual-petition for Notice review + redress framework."
+    },
+    {
+      "citation": "INTERPOL I-24/7 Global Police Communications System 2003",
+      "title": "INTERPOL I-24/7",
+      "year": 2003,
+      "url": "https://www.interpol.int/",
+      "relevance": "INTERPOL I-24/7 Global Police Communications System operational 2003 — formal foundational INTERPOL Global Police Communications System framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "INTERPOL General Assembly",
+      "seat": "annual-rotating",
+      "url": "https://www.interpol.int/",
+      "role": "Formal supreme decision-making body for INTERPOL."
+    },
+    {
+      "name": "INTERPOL Executive Committee",
+      "seat": "Lyon",
+      "url": "https://www.interpol.int/",
+      "role": "Formal executive body for INTERPOL."
+    },
+    {
+      "name": "INTERPOL General Secretariat",
+      "seat": "Lyon",
+      "url": "https://www.interpol.int/",
+      "role": "Formal administrative body for INTERPOL."
+    },
+    {
+      "name": "INTERPOL Secretary General",
+      "seat": "Lyon",
+      "url": "https://www.interpol.int/",
+      "role": "Formal administrative head body for INTERPOL."
+    },
+    {
+      "name": "INTERPOL Commission for the Control of Files (CCF)",
+      "seat": "Lyon",
+      "url": "https://www.interpol.int/Who-we-are/Commission-for-the-Control-of-INTERPOL-s-Files-CCF",
+      "role": "Formal INTERPOL individual-petition framework body for Notice review + redress framework."
+    },
+    {
+      "name": "INTERPOL National Central Bureaus (NCBs)",
+      "seat": "196 NCBs in each member state",
+      "url": "https://www.interpol.int/",
+      "role": "Formal INTERPOL national-level body in each member state."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "INTERPOL General Secretariat",
+      "url": "https://www.interpol.int/",
+      "role": "INTERPOL Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "INTERPOL-related communications via INTERPOL CCF framework operate formal anonymisation convention per CCF Rules of Procedure on individual-petition framework for Notice review + redress framework.",
+  "key_developments": [
+    {
+      "year": 1914,
+      "title": "1st International Criminal Police Congress Monaco",
+      "description": "1st International Criminal Police Congress held 14-20 April 1914 in Monaco — predecessor framework to INTERPOL."
+    },
+    {
+      "year": 1923,
+      "title": "ICPC predecessor founded Vienna",
+      "description": "International Criminal Police Commission ICPC founded 7 September 1923 in Vienna Austria at 2nd International Criminal Police Congress — predecessor framework to INTERPOL Constitution."
+    },
+    {
+      "year": 1938,
+      "title": "Nazi-takeover ICPC Berlin relocation",
+      "description": "Nazi Germany took over ICPC + relocated headquarters to Berlin 1938-1945 — formal ICPC Nazi-takeover framework."
+    },
+    {
+      "year": 1946,
+      "title": "ICPC re-established post-WWII Brussels",
+      "description": "ICPC re-established 1946 in Brussels Belgium post-WWII — formal ICPC re-establishment framework."
+    },
+    {
+      "year": 1956,
+      "title": "INTERPOL Constitution adopted",
+      "description": "INTERPOL Constitution adopted 13 June 1956 at 25th INTERPOL General Assembly Vienna Austria + INTERPOL renamed from ICPC — formal foundational INTERPOL treaty framework operational."
+    },
+    {
+      "year": 1989,
+      "title": "INTERPOL Headquarters Lyon",
+      "description": "INTERPOL Headquarters relocated to Lyon France 1989 — formal INTERPOL Lyon Headquarters framework operational."
+    },
+    {
+      "year": 2003,
+      "title": "INTERPOL I-24/7 Global Police Communications System",
+      "description": "INTERPOL I-24/7 Global Police Communications System operational 2003 — formal foundational INTERPOL Global Police Communications System framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "Khashoggi Red Notice misuse controversy",
+      "description": "Saudi journalist Jamal Khashoggi assassinated 2 October 2018 in Saudi Consulate Istanbul + Red Notice misuse controversy 2018 + INTERPOL CCF reforms 2017 framework — formal INTERPOL Red Notice misuse framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "Meng Hongwei disappearance + first Chinese INTERPOL President",
+      "description": "INTERPOL President Meng Hongwei disappeared during China visit September 2018 + detained by Chinese authorities + first Chinese INTERPOL President framework — formal INTERPOL China-controversy framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Ahmed Naser Al-Raisi UAE elected INTERPOL President",
+      "description": "Ahmed Naser Al-Raisi UAE elected INTERPOL President 25 November 2021 + controversy over Al-Raisi UAE Internal Security background framework — formal INTERPOL Al-Raisi-controversy framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia INTERPOL suspension issues + Ukraine NCB Kyiv",
+      "description": "Russia invaded Ukraine 24 February 2022 + INTERPOL Russia NCB suspension issues 2022 framework + Ukraine INTERPOL NCB Kyiv continued operations — formal INTERPOL Russia-NCB-suspension framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Sirius Sirois 92nd INTERPOL General Assembly Glasgow",
+      "description": "92nd INTERPOL General Assembly held 4-7 November 2024 in Glasgow UK + Valdecy Urquiza Brazil elected INTERPOL Secretary General — formal INTERPOL framework operational."
+    }
+  ],
+  "structural_findings": [
+    "INTERPOL Constitution operates a supranational global binding-treaty framework — places INTERPOL Constitution in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-police-cooperation framework + second-largest international organisation by membership globally after UN framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-police-cooperation framework + second-largest international organisation by membership globally after UN with 196 member states framework + only modern global supranational binding-treaty framework operating formal Red Notice + Yellow Notice + Blue Notice + Black Notice + Green Notice + Orange Notice + Purple Notice + UN Special Notice 8-color-coded-notice framework + only modern global supranational binding-treaty framework operating formal I-24/7 Global Police Communications System framework + only modern global supranational binding-treaty framework operating formal Article 3 Constitution-Neutrality-Apolitical framework + only modern global supranational binding-treaty framework operating formal Russia-suspension-issues-2022-2024 framework + only modern global supranational binding-treaty framework operating formal Saudi-Arabia-Khashoggi-Red-Notice-misuse 2018-controversy framework.",
+    "Central jurisdiction of formal INTERPOL 8-Color-Coded-Notice framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal 8-Color-Coded-Notice framework.",
+    "Central jurisdiction of formal INTERPOL Article 3 Constitution-Neutrality-Apolitical framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Article 3 Constitution-Neutrality-Apolitical framework + only modern global supranational binding-treaty framework operating formal political-military-religious-racial-non-intervention framework.",
+    "Central jurisdiction of formal INTERPOL Notices Commission framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal individual-petition framework for Notice review + redress framework + only modern global supranational binding-treaty framework operating formal Notices Commission framework.",
+    "196 INTERPOL member state ratification framework with Russia-NCB-suspension-issues 2022-2024 framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1914 Monaco Congress + 1923 ICPC + 1938 Nazi-takeover + 1946 re-established + 1956 INTERPOL Constitution + 1989 Lyon + 2003 I-24/7 + 2018 Khashoggi + Meng Hongwei + 2021 Al-Raisi + 2022 Russia + 2024 Glasgow + Urquiza INTERPOL-framework-development sequence is structurally distinctive globally.",
+    "INTERPOL Constitution + Article 3 + 8 Color-Coded Notices + CCF + I-24/7 + NCBs formal sextet framework with formal cross-border-parental-abduction Yellow Notice PA-intersection framework + Hague Convention 1980 INTERPOL coordination framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:hague-convention-1980-child-abduction",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "INTERPOL",
+      "url": "https://www.interpol.int/",
+      "publisher": "INTERPOL General Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "INTERPOL Constitution jurisdiction sidecar — supranational global international-police-cooperation foundational-INTERPOL-treaty meta-framework (INTERPOL Constitution 1956 Vienna + Article 3 Constitution-Neutrality-Apolitical + ICPC 1923 Vienna predecessor + Nazi-takeover 1938 + re-established 1946 Brussels + Lyon Headquarters 1989 + I-24/7 2003 + 8 Color-Coded Notices + CCF 1982/2017 + NCBs in 196 states + 1914 Monaco Congress predecessor + 2018 Khashoggi + Meng Hongwei + 2021 Al-Raisi + 2022 Russia + 2024 Glasgow + Urquiza). Only modern global supranational binding-treaty framework operating on formal international-police-cooperation framework + second-largest international organisation by membership globally after UN with 196 member states + only modern global supranational binding-treaty framework operating formal 8-Color-Coded-Notice framework + only modern global supranational binding-treaty framework operating formal Article 3 Constitution-Neutrality-Apolitical framework + only modern global supranational binding-treaty framework operating formal Notices Commission framework + only modern global supranational binding-treaty framework operating formal Russia-suspension-issues 2022-2024 + only modern global supranational binding-treaty framework operating formal Saudi-Arabia-Khashoggi-Red-Notice-misuse 2018-controversy + central jurisdiction of formal 8 Color-Coded Notices: Red arrest-warrant + Yellow missing-person + Blue information + Black unidentified-body + Green repeat-offender + Orange threat + Purple criminal-modus-operandi + UN Special + central jurisdiction of formal Article 3 + central jurisdiction of formal CCF individual-petition + 196 INTERPOL member states + 1914 Monaco Congress + 1923 ICPC + 1938 Nazi-takeover + 1946 re-established Brussels + 1956 INTERPOL Vienna + 1989 Lyon + 2003 I-24/7 + 2018 Khashoggi + Meng Hongwei + 2021 Al-Raisi UAE controversy + 2022 Russia NCB suspension + 2024 Glasgow + Urquiza Brazil SG INTERPOL-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: INTERPOL Yellow Notice missing-person framework operates substantial intersection with parental-alienation framework via formal cross-border-parental-abduction Yellow Notice framework + Hague Convention 1980 INTERPOL coordination framework.",
+    "Joins global + supranational + international-police-cooperation-foundational-INTERPOL-treaty cluster + INTERPOL-Constitution-only-global-supranational-binding-treaty-on-international-police-cooperation-globally-distinctive + second-largest-international-organisation-after-UN-196-member-states + 8-Color-Coded-Notices-Red-Yellow-Blue-Black-Green-Orange-Purple-UN-Special + Article-3-Constitution-Neutrality-Apolitical-political-military-religious-racial-non-intervention + CCF-Commission-for-the-Control-of-Files-1982-2017-individual-petition + I-24-7-Global-Police-Communications-2003 + INTERPOL-Headquartered-Lyon + NCBs-in-196-states + 1914-Monaco-Congress-predecessor + ICPC-1923-Vienna + Nazi-takeover-1938-Berlin + re-established-1946-Brussels + INTERPOL-renamed-1956 + 1989-Lyon-Headquarters + Khashoggi-Red-Notice-misuse-2018-Saudi-Arabia + Meng-Hongwei-2018-China-controversy + Al-Raisi-UAE-2021-controversy + Russia-NCB-suspension-issues-2022-2024 + 2024-Glasgow-Urquiza-Brazil-SG + cross-border-parental-abduction-Yellow-Notice-PA-intersection + Hague-Convention-1980-INTERPOL-coordination clusters within the corpus."
+  ]
+}

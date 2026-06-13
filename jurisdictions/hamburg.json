@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "id": "hamburg",
+  "name": "Hamburg / Freie und Hansestadt Hamburg (Free and Hanseatic City of Hamburg)",
+  "jurisdiction_code": "DE-HH",
+  "legal_system": "civil-law",
+  "language": ["de", "en", "nds"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Hamburg (German: Freie und Hansestadt Hamburg 'Free and Hanseatic City of Hamburg') is a Northern German civil-law constituent Land of the Federal Republic of Germany — structurally distinctive globally as the only modern German Land with continuous Hanseatic League (Hansa / Hanse) framework historical-cultural-political lineage operating in formal current-Land-name designation (Freie und Hansestadt — only modern jurisdiction globally with formal Hanseatic prefix in current sub-national jurisdiction name, alongside Bremen as 'Freie Hansestadt Bremen' — Hamburg's Hansa membership 1241+ continuous through Hanseatic League dissolution 1862 + formal Free Hanseatic City designation continuous through Imperial Free City framework 1410-1806 + Free City of Hamburg 1815-1933 + Free and Hanseatic City of Hamburg 1949+), as one of three German Stadtstaaten (city-state Länder operating simultaneously as Land + municipality — Hamburg + Berlin + Bremen, distinct from rest-of-German-Länder territorial framework), as the second-largest German port + central jurisdiction of the largest port of Continental Europe (Port of Hamburg — handling ~7.7 million TEU containers 2024, second-largest port in Europe after Rotterdam + third-largest in Europe by tonnage), and as the central jurisdiction of one of the most economically distinctive modern German sub-national maritime-commercial frameworks (Hamburg historically dominant Hansa-League commercial framework + modern North-Sea-Baltic-Sea logistics framework + Hamburg-Altona-rail-network framework). Hamburg historically operated under Hanseatic League 1241-1862 + Imperial Free City 1410-1806 + Free City of Hamburg 1815-1933 + Nazi German Gau-system 1933-1945 (suffering Operation Gomorrah firebombing 24 July - 3 August 1943 with ~37,000 civilian deaths) + post-1945 British Zone of Occupation 1945-1949 + Federal Republic of Germany 1949+. Hamburg comprises ~755 km² with a population of ~1.85 million. Family-law framework operates under the federal German civil-law framework (Bürgerliches Gesetzbuch BGB 1896 Family Law portion + German Family-Law Reform Act 2024) applied uniformly across German Länder. The Hanseatic Oberlandesgericht is the apex regional court; final appellate jurisdiction lies with the Federal Court of Justice of Germany. Hamburg is silent on 'parental alienation' as a statutory label. Germany is a Hague Convention 1980 signatory and party (acceded 27 September 1990 effective 1 December 1990) — Hamburg is governed by German Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Hamburg 1952 (Verfassung der Freien und Hansestadt Hamburg)",
+      "title": "Constitution of Hamburg 1952",
+      "year": 1952,
+      "url": "https://www.hamburg.de/",
+      "relevance": "Hamburg Constitution adopted 6 June 1952 — formal post-WWII constitutional framework for Free and Hanseatic City of Hamburg."
+    },
+    {
+      "citation": "Hanseatic League Charter Framework 1241+",
+      "title": "Hanseatic League Charter",
+      "year": 1241,
+      "url": "https://www.hamburg.de/",
+      "relevance": "Hamburg-Lübeck Agreement 1241 — formal beginning of Hamburg's Hanseatic League membership 1241-1862."
+    },
+    {
+      "citation": "Imperial Free City Status 1410+",
+      "title": "Imperial Free City Status",
+      "year": 1410,
+      "url": "https://www.hamburg.de/",
+      "relevance": "Hamburg granted Imperial Free City (Freie Reichsstadt) status 1410 — formal Imperial Free City framework 1410-1806."
+    },
+    {
+      "citation": "Federal Basic Law of Germany 1949 (Grundgesetz)",
+      "title": "Federal Basic Law of Germany",
+      "year": 1949,
+      "url": "https://www.bundestag.de/",
+      "relevance": "German Federal Basic Law adopted 8 May 1949 — Hamburg ratified, fully applicable to Hamburg from 23 May 1949."
+    },
+    {
+      "citation": "German Civil Code 1896 (Bürgerliches Gesetzbuch BGB)",
+      "title": "German Civil Code BGB",
+      "year": 1896,
+      "url": "https://www.gesetze-im-internet.de/",
+      "relevance": "German Federal Civil Code 1896 Family Law portion applicable uniformly across Hamburg."
+    },
+    {
+      "citation": "Hague Convention 1980 — German accession 27 September 1990",
+      "title": "Hague Convention 1980 — Germany",
+      "year": 1990,
+      "url": "https://www.hcch.net/",
+      "relevance": "German Hague Convention 1980 accession 27 September 1990 effective 1 December 1990 — applicable to Hamburg."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Hanseatic Oberlandesgericht (Hanseatic Higher Regional Court)",
+      "seat": "Hamburg",
+      "url": "https://www.justiz.hamburg.de/",
+      "role": "Apex regional appellate court for civil and criminal matters from Hamburg."
+    },
+    {
+      "name": "Federal Court of Justice of Germany (Bundesgerichtshof BGH)",
+      "seat": "Karlsruhe",
+      "url": "https://www.bundesgerichtshof.de/",
+      "role": "Final appellate court for civil and criminal matters from Hamburg."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "German Medical Association (Bundesärztekammer)",
+      "url": "https://www.bundesaerztekammer.de/",
+      "role": "German Federal professional regulatory framework applicable in Hamburg."
+    }
+  ],
+  "anonymisation_convention": "Hamburg family-court decisions are anonymised per German court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1189,
+      "title": "Hamburg granted Imperial customs-freedom charter",
+      "description": "Hamburg granted Imperial customs-freedom charter 7 May 1189 by Emperor Frederick I — beginning of formal Hamburg autonomy framework."
+    },
+    {
+      "year": 1241,
+      "title": "Hamburg-Lübeck Agreement + Hanseatic League membership",
+      "description": "Hamburg-Lübeck Agreement 1241 — formal beginning of Hamburg's Hanseatic League membership 1241-1862."
+    },
+    {
+      "year": 1410,
+      "title": "Imperial Free City status",
+      "description": "Hamburg granted Imperial Free City (Freie Reichsstadt) status 1410 — formal Imperial Free City framework 1410-1806."
+    },
+    {
+      "year": 1862,
+      "title": "Hanseatic League dissolution",
+      "description": "Hanseatic League formally dissolved 1862 — Hamburg + Bremen + Lübeck continue to retain Free Hanseatic City designation."
+    },
+    {
+      "year": 1943,
+      "title": "Operation Gomorrah firebombing",
+      "description": "Operation Gomorrah firebombing 24 July - 3 August 1943 — Allied firebombing campaign with ~37,000 civilian deaths."
+    },
+    {
+      "year": 1949,
+      "title": "Free and Hanseatic City of Hamburg + Federal Republic",
+      "description": "Federal Republic of Germany Basic Law adopted 8 May 1949 — Hamburg ratified, fully applicable to Free and Hanseatic City of Hamburg from 23 May 1949."
+    },
+    {
+      "year": 1952,
+      "title": "Constitution of Hamburg",
+      "description": "Constitution of Hamburg adopted 6 June 1952 — formal post-WWII constitutional framework for Free and Hanseatic City of Hamburg."
+    },
+    {
+      "year": 1962,
+      "title": "Hamburg flood disaster",
+      "description": "Hamburg flood disaster 16-17 February 1962 — North Sea storm surge with ~315 deaths in Hamburg."
+    }
+  ],
+  "structural_findings": [
+    "Hamburg operates a federal German civil-law constituent Land + city-state framework — places Hamburg in the Northern German Stadtstaat cluster.",
+    "Only modern German Land with continuous Hanseatic League framework historical-cultural-political lineage operating in formal current-Land-name designation is structurally distinctive globally — alongside Bremen 'Freie Hansestadt Bremen' framework.",
+    "One of three German Stadtstaaten (city-state Länder operating simultaneously as Land + municipality) is structurally distinctive within German Land cluster — Hamburg + Berlin + Bremen.",
+    "Second-largest German port + central jurisdiction of one of largest Continental European ports framework is structurally distinctive globally — Port of Hamburg ~7.7 million TEU 2024.",
+    "Central jurisdiction of one of most economically distinctive modern German sub-national maritime-commercial frameworks is structurally distinctive globally — Hanseatic-League dominant commercial framework historical + modern North-Sea-Baltic-Sea logistics framework.",
+    "Imperial Free City (Freie Reichsstadt) 1410-1806 + Free City of Hamburg 1815-1933 historical framework is structurally distinctive globally.",
+    "1943 Operation Gomorrah firebombing framework is structurally distinctive globally — one of most devastating Allied firebombing campaigns of WWII with ~37,000 civilian deaths.",
+    "German Hague-Convention-1980-accession-1990 framework applies."
+  ],
+  "references": [
+    "jurisdiction:germany",
+    "jurisdiction:bremen",
+    "jurisdiction:berlin",
+    "jurisdiction:denmark",
+    "jurisdiction:netherlands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Hamburg Senate (Senat der Freien und Hansestadt Hamburg)",
+      "url": "https://www.hamburg.de/",
+      "publisher": "Hamburg Senate",
+      "language": "de"
+    },
+    {
+      "title": "Hamburg Parliament (Hamburgische Bürgerschaft)",
+      "url": "https://www.hamburgische-buergerschaft.de/",
+      "publisher": "Hamburg State Government",
+      "language": "de"
+    }
+  ],
+  "editorial_notes": [
+    "Hamburg jurisdiction sidecar — civil-law Northern German constituent Land + Stadtstaat + Free and Hanseatic City (Constitution of Hamburg 1952 + Hanseatic League Charter 1241+ + Imperial Free City Status 1410+ + Federal Basic Law of Germany 1949 + German Civil Code BGB 1896 + Imperial customs-freedom charter 1189 + Hanseatic League 1241-1862 + Imperial Free City 1410-1806 + Free City of Hamburg 1815-1933 + Operation Gomorrah firebombing 1943 + Port of Hamburg + German Hague-1980). Only modern German Land with continuous Hanseatic League framework historical-cultural-political lineage operating in formal current-Land-name designation globally + one of three German Stadtstaaten + second-largest German port + central jurisdiction of one of largest Continental European ports framework + central jurisdiction of one of most economically distinctive modern German sub-national maritime-commercial frameworks + Imperial Free City 1410-1806 + Operation Gomorrah 1943.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northern-German + civil-law + German-Land + German-Stadtstaat + Hanseatic-Free-City cluster + Hanseatic-League-1241-1862-continuous-framework-globally-distinctive + Imperial-Free-City-1410-1806 + Port-of-Hamburg-Continental-European-largest + Operation-Gomorrah-firebombing-1943 + Imperial-customs-freedom-charter-1189 + German-Hague-1980-1990 clusters within the corpus."
+  ]
+}

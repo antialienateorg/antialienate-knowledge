@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0",
+  "id": "world-bank-ibrd-articles",
+  "name": "World Bank IBRD Articles of Agreement 1944 (International Bank for Reconstruction and Development)",
+  "jurisdiction_code": "WBK",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Articles of Agreement of the International Bank for Reconstruction and Development (World Bank IBRD Articles of Agreement) and the World Bank Group is a global supranational meta-framework foundational-World-Bank-Group-treaty framework adopted by the 44 founding states at Bretton Woods — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-development-financing framework + foundational Bretton Woods framework alongside IMF framework + only modern global supranational binding-treaty framework operating formal World-Bank-Group-five-institutions framework (World Bank IBRD Articles of Agreement adopted 22 July 1944 at Bretton Woods Conference in Bretton Woods New Hampshire USA by 44 founding states + effective 27 December 1945 + World Bank operations began 25 June 1946 — formal foundational World Bank IBRD treaty framework establishing comprehensive World Bank organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-development-financing framework + foundational Bretton Woods framework alongside IMF + only modern global supranational binding-treaty framework operating formal World-Bank-Group-five-institutions framework via IBRD + IDA + IFC + MIGA + ICSID + only modern global supranational binding-treaty framework operating formal weighted-voting framework via shareholding-based-voting framework + only modern global supranational binding-treaty framework operating formal traditionally-American-President framework + only modern global supranational binding-treaty framework operating formal Aiib + NDB China-led-alternative-banks framework parallel framework), as the central jurisdiction of the formal World Bank Group Five Institutions framework (World Bank Group framework providing formal five-institutions framework: International Bank for Reconstruction and Development IBRD 1944 + International Development Association IDA 1960 + International Finance Corporation IFC 1956 + Multilateral Investment Guarantee Agency MIGA 1988 + International Centre for Settlement of Investment Disputes ICSID 1966 — formal foundational World-Bank-Group-five-institutions framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal World-Bank-Group-five-institutions framework), as the central jurisdiction of the formal ICSID Convention framework (Convention on the Settlement of Investment Disputes between States and Nationals of Other States ICSID Convention signed 18 March 1965 in Washington DC + effective 14 October 1966 providing formal investor-state dispute settlement framework — formal foundational ICSID Convention framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal investor-state-dispute-settlement framework + only modern global supranational binding-treaty framework operating formal Bolivia + Ecuador + Venezuela withdrawal framework via Bolivia withdrew 2 May 2007 + Ecuador withdrew 7 July 2009 + Venezuela withdrew 24 January 2012 framework), and as the central jurisdiction of the formal World Bank Climate + SDG financing framework (World Bank Climate + SDG financing framework providing formal Climate Investment Funds CIF + Green Climate Fund GCF + 2025 IDA21 Replenishment USD 100 billion framework — formal foundational World Bank Climate + SDG financing framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Climate + SDG financing framework). The World Bank IBRD Articles of Agreement is binding upon 189 World Bank IBRD member states + 174 IDA member states + 186 IFC member states + 182 MIGA member states + 158 ICSID Convention member states as of 2026 — substantial universal coverage framework. The Articles are silent on 'parental alienation' as a statutory label, though formal World Bank Group Conditionality framework operates limited intersection with parental-alienation framework via formal World-Bank-Conditionality-on-Social-Spending framework affecting family-policy-spending framework. The World Bank Board of Governors + World Bank Executive Directors + World Bank President + World Bank ICSID + World Bank Inspection Panel are the formal World Bank bodies; national-level apex courts operate as judicial bodies. The World Bank IBRD Articles of Agreement is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "World Bank IBRD Articles of Agreement 1944 (Bretton Woods)",
+      "title": "World Bank IBRD Articles of Agreement",
+      "year": 1945,
+      "url": "https://www.worldbank.org/",
+      "relevance": "World Bank IBRD Articles of Agreement adopted 22 July 1944 at Bretton Woods Conference in Bretton Woods New Hampshire USA + effective 27 December 1945 — formal foundational World Bank IBRD treaty framework establishing comprehensive World Bank organisation framework."
+    },
+    {
+      "citation": "ICSID Convention 1965",
+      "title": "ICSID Convention",
+      "year": 1966,
+      "url": "https://icsid.worldbank.org/",
+      "relevance": "Convention on the Settlement of Investment Disputes between States and Nationals of Other States ICSID Convention signed 18 March 1965 in Washington DC + effective 14 October 1966 — formal foundational ICSID Convention framework + investor-state dispute settlement framework."
+    },
+    {
+      "citation": "IDA Articles of Agreement 1960",
+      "title": "IDA Articles of Agreement",
+      "year": 1960,
+      "url": "https://ida.worldbank.org/",
+      "relevance": "International Development Association IDA Articles of Agreement adopted 26 January 1960 + effective 24 September 1960 — formal foundational IDA concessional-lending framework for low-income countries."
+    },
+    {
+      "citation": "IFC Articles of Agreement 1956",
+      "title": "IFC Articles of Agreement",
+      "year": 1956,
+      "url": "https://www.ifc.org/",
+      "relevance": "International Finance Corporation IFC Articles of Agreement adopted 25 May 1955 + effective 20 July 1956 — formal foundational IFC private-sector-financing framework."
+    },
+    {
+      "citation": "MIGA Convention 1985",
+      "title": "MIGA Convention",
+      "year": 1988,
+      "url": "https://www.miga.org/",
+      "relevance": "Multilateral Investment Guarantee Agency MIGA Convention adopted 11 October 1985 + effective 12 April 1988 — formal foundational MIGA political-risk-guarantee framework."
+    },
+    {
+      "citation": "IDA21 Replenishment 2024",
+      "title": "IDA21 Replenishment",
+      "year": 2025,
+      "url": "https://ida.worldbank.org/",
+      "relevance": "IDA21 Replenishment USD 100 billion adopted 6 December 2024 + effective 1 July 2025 — formal IDA largest-ever-replenishment framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "World Bank Board of Governors",
+      "seat": "Washington DC",
+      "url": "https://www.worldbank.org/en/about/leadership/governors",
+      "role": "Formal supreme decision-making body for World Bank Group."
+    },
+    {
+      "name": "World Bank Executive Directors",
+      "seat": "Washington DC",
+      "url": "https://www.worldbank.org/en/about/leadership/directors",
+      "role": "Formal executive body for World Bank Group."
+    },
+    {
+      "name": "World Bank President",
+      "seat": "Washington DC",
+      "url": "https://www.worldbank.org/en/about/president",
+      "role": "Formal administrative head body for World Bank Group — traditionally American-President framework."
+    },
+    {
+      "name": "International Centre for Settlement of Investment Disputes (ICSID)",
+      "seat": "Washington DC",
+      "url": "https://icsid.worldbank.org/",
+      "role": "Formal investor-state-dispute-settlement framework body."
+    },
+    {
+      "name": "World Bank Inspection Panel",
+      "seat": "Washington DC",
+      "url": "https://www.worldbank.org/en/programs/inspection-panel",
+      "role": "Formal World Bank accountability framework body established 22 September 1993."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "World Bank Staff",
+      "url": "https://www.worldbank.org/",
+      "role": "World Bank IBRD Articles of Agreement implementation framework."
+    }
+  ],
+  "anonymisation_convention": "World Bank-related communications operate via state-state framework via World Bank Board of Governors + Executive Directors; individual communications limited under World Bank framework except via Inspection Panel + ICSID frameworks.",
+  "key_developments": [
+    {
+      "year": 1944,
+      "title": "Bretton Woods Conference + World Bank IBRD Articles",
+      "description": "Bretton Woods Conference held 1-22 July 1944 in Bretton Woods New Hampshire USA + World Bank IBRD Articles of Agreement adopted 22 July 1944 + IMF Articles of Agreement adopted 22 July 1944 — formal foundational World Bank + Bretton Woods system framework adopted."
+    },
+    {
+      "year": 1946,
+      "title": "World Bank operations begin",
+      "description": "World Bank operations began 25 June 1946 — formal foundational World Bank operational framework operational."
+    },
+    {
+      "year": 1956,
+      "title": "IFC established",
+      "description": "International Finance Corporation IFC Articles of Agreement effective 20 July 1956 — formal foundational IFC private-sector-financing framework operational."
+    },
+    {
+      "year": 1960,
+      "title": "IDA established",
+      "description": "International Development Association IDA Articles of Agreement effective 24 September 1960 — formal foundational IDA concessional-lending framework operational."
+    },
+    {
+      "year": 1965,
+      "title": "ICSID Convention signed",
+      "description": "ICSID Convention signed 18 March 1965 in Washington DC — formal foundational ICSID Convention framework adopted."
+    },
+    {
+      "year": 1966,
+      "title": "ICSID Convention enters force",
+      "description": "ICSID Convention entered force 14 October 1966 — formal foundational ICSID investor-state-dispute-settlement framework operational."
+    },
+    {
+      "year": 1988,
+      "title": "MIGA established",
+      "description": "MIGA Convention effective 12 April 1988 — formal foundational MIGA political-risk-guarantee framework operational."
+    },
+    {
+      "year": 1993,
+      "title": "World Bank Inspection Panel established",
+      "description": "World Bank Inspection Panel established 22 September 1993 — formal foundational World Bank accountability framework operational."
+    },
+    {
+      "year": 2007,
+      "title": "Bolivia withdraws from ICSID",
+      "description": "Bolivia withdrew from ICSID Convention 2 May 2007 — formal first ICSID withdrawal framework operational."
+    },
+    {
+      "year": 2009,
+      "title": "Ecuador withdraws from ICSID",
+      "description": "Ecuador withdrew from ICSID Convention 7 July 2009 + Ecuador rejoined ICSID 2021 framework — formal ICSID withdrawal-rejoining framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "Venezuela withdraws from ICSID",
+      "description": "Venezuela withdrew from ICSID Convention 24 January 2012 — formal ICSID withdrawal framework operational."
+    },
+    {
+      "year": 2016,
+      "title": "AIIB established by China + 16 founding members",
+      "description": "Asian Infrastructure Investment Bank AIIB established 16 January 2016 in Beijing China + NDB BRICS-led established 7 July 2015 — formal China-led-alternative-banks parallel framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Ajay Banga becomes World Bank President + Evolution Roadmap",
+      "description": "Ajay Banga became World Bank President 2 June 2023 + World Bank Evolution Roadmap adopted October 2023 — formal World Bank reform framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "IDA21 Replenishment USD 100 billion effective",
+      "description": "IDA21 Replenishment USD 100 billion effective 1 July 2025 — formal IDA largest-ever-replenishment framework operational."
+    }
+  ],
+  "structural_findings": [
+    "World Bank IBRD Articles of Agreement operates a supranational global binding-treaty framework — places World Bank IBRD Articles of Agreement in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-development-financing framework + foundational Bretton Woods framework alongside IMF framework + only modern global supranational binding-treaty framework operating formal World-Bank-Group-five-institutions framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-development-financing framework + foundational Bretton Woods framework alongside IMF + only modern global supranational binding-treaty framework operating formal World-Bank-Group-five-institutions framework + only modern global supranational binding-treaty framework operating formal weighted-voting framework via shareholding-based-voting framework + only modern global supranational binding-treaty framework operating formal traditionally-American-President framework + only modern global supranational binding-treaty framework operating formal AIIB + NDB China-led-alternative-banks framework parallel framework.",
+    "Central jurisdiction of formal World Bank Group Five Institutions framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal World-Bank-Group-five-institutions framework via IBRD + IDA + IFC + MIGA + ICSID.",
+    "Central jurisdiction of formal ICSID Convention framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal investor-state-dispute-settlement framework + only modern global supranational binding-treaty framework operating formal Bolivia + Ecuador + Venezuela withdrawal framework.",
+    "Central jurisdiction of formal World Bank Climate + SDG financing framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Climate + SDG financing framework.",
+    "189 World Bank IBRD member state + 174 IDA + 186 IFC + 182 MIGA + 158 ICSID Convention ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1944 Bretton Woods + 1945 entry into force + 1946 operations begin + 1956 IFC + 1960 IDA + 1965 ICSID Convention + 1966 entry into force + 1988 MIGA + 1993 Inspection Panel + 2007-2012 Bolivia-Ecuador-Venezuela withdrawals + 2016 AIIB + 2023 Banga + Evolution Roadmap + 2025 IDA21 World-Bank-framework-development sequence is structurally distinctive globally.",
+    "World Bank IBRD Articles + IDA + IFC + MIGA + ICSID Convention + Inspection Panel + Climate + SDG financing formal septet framework with limited PA-intersection framework via formal World-Bank-Conditionality-on-Social-Spending framework affecting family-policy-spending framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:imf-articles-of-agreement",
+    "jurisdiction:united-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "World Bank",
+      "url": "https://www.worldbank.org/",
+      "publisher": "World Bank",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "World Bank IBRD Articles of Agreement jurisdiction sidecar — supranational global Bretton-Woods foundational-World-Bank-Group-treaty meta-framework (World Bank IBRD Articles 1944/1945/1946 + IDA 1960 + IFC 1956 + MIGA 1985/1988 + ICSID Convention 1965/1966 + Inspection Panel 1993 + Bolivia 2007 + Ecuador 2009 + Venezuela 2012 ICSID withdrawals + AIIB 2016 China-led-parallel + Banga 2023 + Evolution Roadmap + IDA21 2025). Only modern global supranational binding-treaty framework operating on formal international-development-financing framework globally + foundational Bretton Woods framework alongside IMF + only modern global supranational binding-treaty framework operating formal World-Bank-Group-five-institutions framework via IBRD + IDA + IFC + MIGA + ICSID + only modern global supranational binding-treaty framework operating formal weighted-voting framework via shareholding-based-voting + only modern global supranational binding-treaty framework operating formal traditionally-American-President + only modern global supranational binding-treaty framework operating formal AIIB + NDB China-led-alternative-banks parallel framework + central jurisdiction of formal Five Institutions + central jurisdiction of formal ICSID Convention investor-state-dispute-settlement + central jurisdiction of formal Bolivia + Ecuador + Venezuela withdrawal framework + central jurisdiction of formal Climate + SDG financing framework + 189 IBRD members + 174 IDA + 186 IFC + 182 MIGA + 158 ICSID Convention + 1944 Bretton Woods + 1946 operations + 1956 IFC + 1960 IDA + 1965 ICSID + 1988 MIGA + 1993 Inspection Panel + 2007-2012 ICSID withdrawals + 2016 AIIB + 2023 Banga + Evolution Roadmap + 2025 IDA21 World-Bank-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: World Bank Group Conditionality framework operates limited intersection with parental-alienation framework via formal World-Bank-Conditionality-on-Social-Spending framework affecting family-policy-spending framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks.",
+    "Joins global + supranational + Bretton-Woods-foundational-World-Bank-Group-treaty cluster + World-Bank-IBRD-only-global-supranational-binding-treaty-on-international-development-financing-globally-distinctive + foundational-Bretton-Woods-framework-alongside-IMF + World-Bank-Group-five-institutions-IBRD-IDA-IFC-MIGA-ICSID + shareholding-based-voting + traditionally-American-President + AIIB-NDB-China-led-alternative-banks-parallel + ICSID-Convention-1965-1966-investor-state-dispute-settlement + Bolivia-2007-Ecuador-2009-Venezuela-2012-ICSID-withdrawals + Ecuador-rejoined-ICSID-2021 + Inspection-Panel-1993 + 189-IBRD-members + 174-IDA-members + 186-IFC-members + 182-MIGA-members + 158-ICSID-Convention-members + Bretton-Woods-1944-Conference + IDA21-Replenishment-USD-100-billion-2025 + Banga-2023-Evolution-Roadmap + Climate-Investment-Funds-CIF + Green-Climate-Fund-GCF + World-Bank-Conditionality-on-Social-Spending-PA-intersection clusters within the corpus."
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "un-charter",
+  "name": "UN Charter 1945 (Charter of the United Nations)",
+  "jurisdiction_code": "UNC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Charter 1945 (formally Charter of the United Nations adopted by the UN Conference on International Organization in San Francisco) is a global supranational meta-framework foundational-UN-treaty framework adopted by the UN Conference on International Organization — structurally distinctive globally as the foundational modern UN international treaty framework underlying all subsequent modern UN human-rights + international-law + international-criminal-law + private-international-law frameworks (UN Charter signed 26 June 1945 in San Francisco + effective 24 October 1945 — formal foundational UN treaty framework establishing comprehensive UN organisation framework + ICJ Statute, distinct from rest-of-modern-international-treaty frameworks which operate as substantive treaties subsequent to + underlying the UN Charter framework, structurally distinctive globally as the foundational modern UN international treaty framework underlying all subsequent modern UN human-rights + international-law + international-criminal-law + private-international-law frameworks), as the central jurisdiction of the formal Article 1 UN purposes framework (UN Charter Article 1 framework providing 'The Purposes of the United Nations are: 1. To maintain international peace and security... 2. To develop friendly relations among nations based on respect for the principle of equal rights and self-determination of peoples... 3. To achieve international co-operation in solving international problems of an economic, social, cultural, or humanitarian character, and in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion' — formal foundational UN purposes framework, structurally distinctive globally as the foundational modern UN purposes framework), as the central jurisdiction of the formal Chapter VII Article 39-51 collective-security framework (UN Charter Chapter VII Articles 39-51 framework providing collective-security framework via UN Security Council + Article 41 sanctions framework + Article 42 military-action framework + Article 51 self-defense framework — formal foundational collective-security framework, structurally distinctive globally as the foundational modern collective-security framework), and as the central jurisdiction of the formal Article 103 UN-Charter-supremacy framework (UN Charter Article 103 framework providing 'In the event of a conflict between the obligations of the Members of the United Nations under the present Charter and their obligations under any other international agreement, their obligations under the present Charter shall prevail' — formal foundational UN-Charter-supremacy framework, structurally distinctive globally as the only modern international treaty framework operating formal supremacy framework). The UN Charter is binding upon all 193 UN member states + observer states — universal coverage framework. The Charter is silent on 'parental alienation' as a statutory label, though formal Article 1 UN purposes framework operates substantial intersection with parental-alienation framework via formal cross-border-children's-rights-framework underlying all subsequent modern international + regional + sub-national children's-rights frameworks. The UN General Assembly + UN Security Council + International Court of Justice ICJ + UN Secretariat + UN Trusteeship Council + UN Economic and Social Council ECOSOC are the formal UN principal organ bodies; national-level apex courts operate as judicial bodies. The UN Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Charter 1945",
+      "title": "UN Charter",
+      "year": 1945,
+      "url": "https://www.un.org/",
+      "relevance": "Charter of the United Nations signed 26 June 1945 in San Francisco by 50 founding states + effective 24 October 1945 — formal foundational UN treaty framework establishing comprehensive UN organisation framework."
+    },
+    {
+      "citation": "UN Charter Article 1 (UN Purposes Framework)",
+      "title": "UN Charter Article 1",
+      "year": 1945,
+      "url": "https://www.un.org/",
+      "relevance": "UN Charter Article 1 framework on UN purposes — formal foundational UN purposes framework."
+    },
+    {
+      "citation": "UN Charter Chapter VII Articles 39-51 (Collective-Security Framework)",
+      "title": "UN Charter Chapter VII",
+      "year": 1945,
+      "url": "https://www.un.org/",
+      "relevance": "UN Charter Chapter VII Articles 39-51 framework on collective-security — formal foundational collective-security framework."
+    },
+    {
+      "citation": "UN Charter Article 103 (UN-Charter-Supremacy Framework)",
+      "title": "UN Charter Article 103",
+      "year": 1945,
+      "url": "https://www.un.org/",
+      "relevance": "UN Charter Article 103 framework on UN-Charter-supremacy — formal foundational UN-Charter-supremacy framework."
+    },
+    {
+      "citation": "UN Charter Article 55 + 56 (Human Rights Framework)",
+      "title": "UN Charter Articles 55 + 56",
+      "year": 1945,
+      "url": "https://www.un.org/",
+      "relevance": "UN Charter Article 55 + 56 framework on universal respect for + observance of human rights and fundamental freedoms — formal foundational UN human-rights framework underlying all subsequent UN human-rights treaties."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN General Assembly",
+      "seat": "New York",
+      "url": "https://www.un.org/en/ga/",
+      "role": "Formal UN principal organ body for UN Charter."
+    },
+    {
+      "name": "UN Security Council",
+      "seat": "New York",
+      "url": "https://www.un.org/en/sc/",
+      "role": "Formal UN principal organ body for UN Charter + formal Chapter VII collective-security framework."
+    },
+    {
+      "name": "International Court of Justice (ICJ)",
+      "seat": "The Hague",
+      "url": "https://www.icj-cij.org/",
+      "role": "Apex judicial body for state-state disputes under UN Charter framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Secretariat",
+      "url": "https://www.un.org/",
+      "role": "UN Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UN Charter-related individual communications operate via state-state framework; individual communications not formally accepted under UN Charter framework.",
+  "key_developments": [
+    {
+      "year": 1941,
+      "title": "Atlantic Charter signed",
+      "description": "Atlantic Charter signed 14 August 1941 by US President Franklin D. Roosevelt + UK Prime Minister Winston Churchill — predecessor framework to UN Charter."
+    },
+    {
+      "year": 1942,
+      "title": "Declaration by United Nations",
+      "description": "Declaration by United Nations signed 1 January 1942 by 26 states — first formal use of term 'United Nations'."
+    },
+    {
+      "year": 1945,
+      "title": "UN Charter signed in San Francisco",
+      "description": "UN Charter signed 26 June 1945 in San Francisco by 50 founding states — formal foundational UN treaty framework."
+    },
+    {
+      "year": 1945,
+      "title": "UN Charter enters force + UN established",
+      "description": "UN Charter entered force 24 October 1945 + United Nations UN formally established 24 October 1945 — formal foundational UN treaty framework operational."
+    },
+    {
+      "year": 1946,
+      "title": "First UN General Assembly + first UN Security Council meeting",
+      "description": "First UN General Assembly meeting 10 January 1946 in London + first UN Security Council meeting 17 January 1946 in London — formal UN principal organ frameworks operational."
+    },
+    {
+      "year": 1971,
+      "title": "PRC China replaces ROC Taiwan UN seat",
+      "description": "UN General Assembly Resolution 2758 of 25 October 1971 — formal People's Republic of China PRC replaced Republic of China ROC Taiwan UN seat including UN Security Council permanent-membership framework."
+    }
+  ],
+  "structural_findings": [
+    "UN Charter operates a supranational global foundational-UN-treaty framework — places UN Charter in the global supranational-meta-framework cluster.",
+    "Foundational modern UN international treaty framework underlying all subsequent modern UN human-rights + international-law + international-criminal-law + private-international-law frameworks is structurally distinctive globally — formal foundational UN treaty framework underlying all subsequent modern international + regional + sub-national frameworks.",
+    "Central jurisdiction of formal Article 1 UN purposes framework is structurally distinctive globally — foundational modern UN purposes framework.",
+    "Central jurisdiction of formal Chapter VII Article 39-51 collective-security framework is structurally distinctive globally — foundational modern collective-security framework.",
+    "Central jurisdiction of formal Article 103 UN-Charter-supremacy framework is structurally distinctive globally — only modern international treaty framework operating formal supremacy framework.",
+    "193 UN member state ratification framework is structurally distinctive globally — universal coverage framework.",
+    "1941 Atlantic Charter + 1942 Declaration by United Nations + 1945 UN Charter + 1945 entry into force + 1946 first UN GA + first UN SC + 1971 PRC China UN Charter-framework-development sequence is structurally distinctive globally.",
+    "Article 1 UN purposes + Chapter VII collective-security + Article 103 UN-Charter-supremacy + Article 55 + 56 human-rights formal quartet framework with formal cross-border-children's-rights-framework underlying all subsequent UN children's-rights frameworks PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "United Nations",
+      "url": "https://www.un.org/",
+      "publisher": "United Nations",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UN Charter jurisdiction sidecar — supranational global foundational-UN-treaty framework meta-framework (UN Charter 1945 + Article 1 UN Purposes Framework + Chapter VII Articles 39-51 Collective-Security Framework + Article 103 UN-Charter-Supremacy Framework + Articles 55 + 56 Human Rights Framework + ICJ Statute + Atlantic Charter 1941 + Declaration by United Nations 1942 + 1945 entry into force + 1946 first UN GA + first UN SC + 1971 PRC China). Foundational modern UN international treaty framework underlying all subsequent modern UN human-rights + international-law + international-criminal-law + private-international-law frameworks globally + central jurisdiction of formal Article 1 UN purposes framework + central jurisdiction of formal Chapter VII Article 39-51 collective-security framework + central jurisdiction of formal Article 103 UN-Charter-supremacy framework + 193 UN member state ratification framework + 1941 Atlantic Charter + 1942 Declaration by United Nations + 1945 UN Charter + 1945 entry into force + 1946 first UN GA + first UN SC + 1971 PRC China UN Charter-framework-development sequence + Article 1 UN purposes + Chapter VII collective-security + Article 103 UN-Charter-supremacy + Article 55 + 56 human-rights formal quartet framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + foundational-UN-treaty cluster + UN-Charter-foundational-modern-UN-international-treaty-globally-distinctive + Article-1-UN-Purposes + Chapter-VII-Articles-39-51-Collective-Security + Article-103-UN-Charter-Supremacy + Articles-55-56-Human-Rights + ICJ-Statute-companion-framework + 193-UN-member-state-universal-coverage + Atlantic-Charter-1941 + Declaration-by-United-Nations-1942 + 1945-San-Francisco-50-founding-states + 1971-PRC-China-Resolution-2758 + cross-border-children-rights-framework-foundational-PA-intersection clusters within the corpus."
+  ]
+}

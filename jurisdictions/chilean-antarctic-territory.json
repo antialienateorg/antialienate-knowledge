@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "id": "chilean-antarctic-territory",
+  "name": "Chilean Antarctic Territory (Territorio Chileno Antártico)",
+  "jurisdiction_code": "AQ-CL",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Chilean Antarctic Territory (Territorio Chileno Antártico) is an Antarctic civil-law Chilean territorial claim comprising the sector of Antarctica between 53°W and 90°W longitude south to the South Pole — structurally distinctive globally as one of three overlapping Antarctic claims (with British Antarctic Territory and Argentine Antarctica) on the Antarctic Peninsula, all three claims overlapping entirely in some areas, and as one of two Antarctic claim-jurisdictions with continuous civilian-family presence (with Argentine Antarctica). Chilean Antarctic Territory is administratively part of the Antártica Commune within Cabo de Hornos Province in Magallanes y la Antártica Chilena Region (XII Region). The regional capital is Punta Arenas (mainland Chile), with Villa Las Estrellas at Frei Base on King George Island serving as the largest civilian Antarctic settlement. Chilean Antarctic Territory is one of seven national Antarctic territorial claims operating under the 1959 Antarctic Treaty's claim-suspension framework (article IV). Chilean Antarctic Territory has multiple permanent year-round research stations including Frei, Escudero, Prat, and O'Higgins, plus civilian residences at Villa Las Estrellas. Family-law framework operates under the Chilean Civil Code (Código Civil) applied via regional Magallanes jurisdiction. Parental authority and child custody operate under Civil Code arts. 222-244 (patria potestad / cuidado personal). Regional courts of Magallanes y la Antártica Chilena have jurisdiction over Chilean Antarctic Territory matters; final appellate jurisdiction lies with the Supreme Court of Chile (Corte Suprema). Villa Las Estrellas notably hosts year-round Chilean families with children educated at the on-site Escuela F-50 (the only school in Antarctica). Chilean Antarctic Territory is silent on 'parental alienation' as a statutory label. Chilean Antarctic Territory is a Hague Convention 1980 party via Chilean accession effective 1 May 1994.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Decree 1.747 of 6 November 1940 (Chilean Antarctic claim)",
+      "title": "Chilean Antarctic Claim Decree 1940",
+      "year": 1940,
+      "url": "https://www.bcn.cl/",
+      "relevance": "Chilean Presidential Decree of 6 November 1940 formally claiming the Chilean Antarctic Territory between 53°W and 90°W longitude."
+    },
+    {
+      "citation": "Chilean Civil Code arts. 222-244 (applicable in Chilean Antarctic Territory)",
+      "title": "Chilean Civil Code — Patria potestad and cuidado personal",
+      "year": 1855,
+      "url": "https://www.bcn.cl/",
+      "relevance": "Chilean Civil Code articles 222-244 governing patria potestad and cuidado personal applicable in Chilean Antarctic Territory via regional Magallanes jurisdiction."
+    },
+    {
+      "citation": "Antarctic Treaty 1959 (article IV claim suspension)",
+      "title": "Antarctic Treaty",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "International treaty providing for Antarctic claim suspension under article IV — Chilean Antarctic Territory claim suspended pending Treaty term."
+    },
+    {
+      "citation": "Statute of the Chilean Antarctic Institute (INACH) Law 11.846 of 1955",
+      "title": "INACH Statute Law 11.846",
+      "year": 1955,
+      "url": "https://www.bcn.cl/",
+      "relevance": "Chilean Law establishing the Chilean Antarctic Institute (Instituto Antártico Chileno / INACH) as the Antarctic governance body."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeals of Punta Arenas (Corte de Apelaciones de Punta Arenas)",
+      "seat": "Punta Arenas, Magallanes",
+      "url": "https://www.pjud.cl/",
+      "role": "Apex regional court for civil and criminal matters from Chilean Antarctic Territory."
+    },
+    {
+      "name": "Supreme Court of Chile (Corte Suprema)",
+      "seat": "Santiago",
+      "url": "https://www.pjud.cl/",
+      "role": "Final appellate court for civil and criminal matters from Chilean Antarctic Territory."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Colegio de Psicólogos de Chile",
+      "url": "https://www.colegiopsicologos.cl/",
+      "role": "Chilean professional regulatory framework for psychology applicable in Chilean Antarctic Territory."
+    }
+  ],
+  "anonymisation_convention": "Chilean Antarctic decisions are anonymised per Chilean court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1940,
+      "title": "Chilean Antarctic claim formalised",
+      "description": "Chilean Presidential Decree 1.747 of 6 November 1940 formally claiming the Chilean Antarctic Territory between 53°W and 90°W longitude."
+    },
+    {
+      "year": 1947,
+      "title": "Soberanía Base established",
+      "description": "Chilean Soberanía Base (later Arturo Prat Base) established on Greenwich Island on 6 February 1947 — first Chilean permanent Antarctic presence."
+    },
+    {
+      "year": 1955,
+      "title": "INACH Statute Law 11.846",
+      "description": "Chilean Law establishing the Chilean Antarctic Institute (Instituto Antártico Chileno / INACH)."
+    },
+    {
+      "year": 1959,
+      "title": "Antarctic Treaty signed",
+      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Chilean Antarctic Territory claim suspended pending Treaty term."
+    },
+    {
+      "year": 1984,
+      "title": "Villa Las Estrellas civilian settlement established",
+      "description": "Chilean civilian settlement Villa Las Estrellas established at Frei Base on King George Island on 9 April 1984 — largest civilian Antarctic settlement with year-round families and on-site school."
+    },
+    {
+      "year": 1994,
+      "title": "Hague Convention 1980 accession by Chile",
+      "description": "Hague Convention 1980 accession by Chile effective 1 May 1994 — applies to Chilean Antarctic Territory via Chilean territorial extension."
+    }
+  ],
+  "structural_findings": [
+    "Chilean Antarctic Territory operates a civil-law Chilean-Federal-and-regional-law framework — places Chilean Antarctic Territory in the South American Antarctic-claim cluster.",
+    "Three-way overlapping claim with BAT and Argentine Antarctica on Antarctic Peninsula is structurally distinctive globally — only state territorial claim with three-way complete overlap.",
+    "Largest civilian Antarctic settlement (Villa Las Estrellas) with on-site school (Escuela F-50) is structurally distinctive globally — only school in Antarctica.",
+    "Continuous civilian-family presence is structurally distinctive globally — one of two Antarctic claim-jurisdictions with continuous civilian-family presence (with Argentine Antarctica).",
+    "Antarctic Treaty article IV claim suspension is shared with BAT, AAT, TAAF Adélie Land, Ross Dependency, Queen Maud Land, Argentine Antarctica."
+  ],
+  "references": [
+    "jurisdiction:chile",
+    "jurisdiction:british-antarctic-territory",
+    "jurisdiction:argentine-antarctica",
+    "jurisdiction:australian-antarctic-territory",
+    "jurisdiction:ross-dependency",
+    "jurisdiction:queen-maud-land",
+    "jurisdiction:french-southern-and-antarctic-lands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Instituto Antártico Chileno (INACH)",
+      "url": "https://www.inach.cl/",
+      "publisher": "Chilean Government",
+      "language": "es"
+    },
+    {
+      "title": "Biblioteca del Congreso Nacional de Chile",
+      "url": "https://www.bcn.cl/",
+      "publisher": "Chilean Government",
+      "language": "es"
+    },
+    {
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "publisher": "Antarctic Treaty Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Chilean Antarctic Territory (Territorio Chileno Antártico) jurisdiction sidecar — civil-law Antarctic Chilean territorial claim administered as part of Magallanes y la Antártica Chilena Region (Chilean Civil Code + Decree 1.747 of 1940 + INACH Statute 1955 + Antarctic Treaty 1959 article IV claim suspension + Hague via Chilean accession 1994). Three-way overlapping claim with BAT/Argentine Antarctica + largest civilian Antarctic settlement (Villa Las Estrellas) + only school in Antarctica (Escuela F-50) + continuous civilian-family presence (with Argentine Antarctica). Completes 7 of 7 national Antarctic territorial claim sidecars.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Antarctic + civil-law + Chilean-territorial-claim cluster + three-way-overlapping-claim + Villa-Las-Estrellas-civilian-settlement + Escuela-F-50-only-school-in-Antarctica + continuous-civilian-family-presence + Antarctic-Treaty-article-IV-claim-suspension + Hague-via-Chilean-accession clusters within the corpus."
+  ]
+}

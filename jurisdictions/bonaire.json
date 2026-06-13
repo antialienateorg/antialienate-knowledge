@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "id": "bonaire",
+  "name": "Caribbean Netherlands (Bonaire, Sint Eustatius and Saba / BES Islands)",
+  "jurisdiction_code": "BQ",
+  "legal_system": "civil-law",
+  "language": ["nl", "pap"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Caribbean Netherlands (BES Islands: Bonaire, Sint Eustatius and Saba) is a Caribbean civil-law special-municipality grouping of the Netherlands — structurally distinctive within the Kingdom of the Netherlands as the only constituent territory directly integrated into the Netherlands as special municipalities (openbaar lichaam) rather than constituent country status (since 10 October 2010 dissolution of Netherlands Antilles). Family-law framework operates under the Dutch Civil Code (Burgerlijk Wetboek) Book 1 with BES-specific adaptations via the BES Implementation Acts. Parental authority (ouderlijk gezag) and child custody are governed by Civil Code Book 1 arts. 245-298. The Joint Court of Justice of Aruba, Curaçao, Sint Maarten and BES Islands (Gemeenschappelijk Hof) is the apex appellate court; final appellate jurisdiction was retained with the Dutch Supreme Court (Hoge Raad). Family-law matters are heard at first instance in the Court of First Instance (Gerecht in Eerste Aanleg). Psychology profession is regulated through the Dutch Health and Youth Care Inspectorate. BES Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. BES Islands is a Hague Convention 1980 party via Kingdom of the Netherlands territorial extension effective 1 September 1990.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Dutch Civil Code Book 1 (BES Implementation) arts. 245-298",
+      "title": "Dutch Civil Code Book 1 — Family Law (BES Implementation)",
+      "year": 2010,
+      "url": "https://www.gemhof.an/",
+      "relevance": "Dutch Civil Code Book 1 with BES-specific adaptations via BES Implementation Acts effective 10 October 2010. Book 1 governs persons and family-law including parental authority and child custody."
+    },
+    {
+      "citation": "BES Implementation Acts 2010",
+      "title": "BES Implementation Acts",
+      "year": 2010,
+      "url": "https://www.gemhof.an/",
+      "relevance": "BES Implementation Acts establishing special-municipality framework integrating BES Islands directly into the Netherlands."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Joint Court of Justice (Gemeenschappelijk Hof)",
+      "seat": "Kralendijk / Oranjestad (Sint Eustatius) / The Bottom (Saba)",
+      "url": "https://www.gemhof.an/",
+      "role": "Apex domestic appellate court for Aruba, Curaçao, Sint Maarten and BES Islands."
+    },
+    {
+      "name": "Dutch Supreme Court (Hoge Raad)",
+      "seat": "The Hague",
+      "url": "https://www.hogeraad.nl/",
+      "role": "Final appellate court for civil and criminal matters from BES Islands."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Dutch Health and Youth Care Inspectorate (Inspectie Gezondheidszorg en Jeugd)",
+      "url": "https://www.igj.nl/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology applicable in BES Islands."
+    }
+  ],
+  "anonymisation_convention": "BES Islands family-court decisions are anonymised per Joint Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2010,
+      "title": "Dissolution of Netherlands Antilles + BES special-municipality status",
+      "description": "Netherlands Antilles dissolved 10 October 2010; Bonaire, Sint Eustatius and Saba became special municipalities (openbaar lichaam) directly integrated into the Netherlands rather than constituent country status."
+    }
+  ],
+  "structural_findings": [
+    "Caribbean Netherlands (BES Islands) operates a Dutch-civil-law family-law framework with special-municipality status directly integrated into the Netherlands — structurally distinctive within the Kingdom of the Netherlands cluster (vs constituent-country status of Aruba, Curaçao, Sint Maarten).",
+    "Special-municipality status (openbaar lichaam) is structurally distinctive globally — only direct Caribbean integration into a European Member State within the corpus.",
+    "Joint Court of Justice across Aruba, Curaçao, Sint Maarten and BES Islands shared judicial system.",
+    "Hague Convention 1980 applicability via Kingdom of the Netherlands territorial extension reflects special-municipality Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:netherlands",
+    "jurisdiction:aruba",
+    "jurisdiction:curacao",
+    "jurisdiction:sint-maarten",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Joint Court of Justice",
+      "url": "https://www.gemhof.an/",
+      "publisher": "Joint Court",
+      "language": "nl,pap"
+    },
+    {
+      "title": "Dutch Supreme Court",
+      "url": "https://www.hogeraad.nl/",
+      "publisher": "Hoge Raad",
+      "language": "nl"
+    },
+    {
+      "title": "Dutch Health and Youth Care Inspectorate",
+      "url": "https://www.igj.nl/",
+      "publisher": "IGJ",
+      "language": "nl"
+    }
+  ],
+  "editorial_notes": [
+    "Caribbean Netherlands (Bonaire/Sint Eustatius/Saba/BES Islands) jurisdiction sidecar — civil-law Caribbean Kingdom-of-the-Netherlands special-municipality (Dutch Civil Code Book 1 + BES Implementation Acts 2010 + Joint Court of Justice + Hague via Kingdom of the Netherlands). Only direct Caribbean integration into European Member State globally. Completes Kingdom-of-the-Netherlands cluster (AW+CW+SX+BQ).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + Dutch-civil-law + Kingdom-of-the-Netherlands-special-municipality-distinctive cluster + Joint-Court-of-Justice + Hague-via-Kingdom-of-the-Netherlands-territorial-extension clusters within the corpus."
+  ]
+}

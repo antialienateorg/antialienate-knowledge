@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "id": "nakhchivan",
+  "name": "Nakhchivan Autonomous Republic (Naxçıvan Muxtar Respublikası / Нахичеванская Автономная Республика)",
+  "jurisdiction_code": "AZ-NX",
+  "legal_system": "civil-law",
+  "language": ["az", "ru", "fa", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Nakhchivan Autonomous Republic (Azerbaijani: Naxçıvan Muxtar Respublikası / Russian: Нахичеванская Автономная Республика Nakhichevanskaya Avtonomnaya Respublika) is a Caucasian civil-law constituent autonomous republic of the Republic of Azerbaijan — structurally distinctive globally as the only modern Azerbaijani sub-national territory not contiguous with main Azerbaijan (~5,500 km² Azerbaijani exclave separated from main Azerbaijan by the Republic of Armenia ~30 km wide Zangezur corridor — formal Azerbaijani exclave framework, distinct from rest-of-Azerbaijani-sub-national territorial framework, requiring formal cross-border transit through Iran or Turkey for surface connection to main Azerbaijan), as the only modern autonomous republic established by international-treaty framework rather than internal-constitutional framework (Treaty of Moscow 16 March 1921 + Treaty of Kars 13 October 1921 between Soviet Russia + Turkey + South Caucasus Soviet republics — formal Nakhchivan Autonomous Republic framework established by Soviet-Turkish-mediated treaty framework, distinct from rest-of-modern-autonomous-republic frameworks established via internal-constitutional framework, with formal Turkish guarantee of Nakhchivan autonomy framework continuous 1921-present 104+ years), as the central jurisdiction of the most distinctive modern Azerbaijani-Iranian land-border framework (Nakhchivan-Iran border ~179 km — Azerbaijan's only formal land border with Iran, structurally distinctive globally as the only formal Azerbaijani land border with Iran), and as one of only two modern Turkic-speaking exclave-frameworks globally (alongside Russian Kaliningrad Oblast exclave-framework — distinct framework). Nakhchivan territory historically operated under Persian + Arab Caliphate + Atabegs of Azerbaijan + Safavid Persian + Qajar Persian frameworks + Treaty of Turkmenchay 1828 Russian-Persian transfer + Russian Empire 1828-1917 + Soviet Nakhchivan ASSR 1924-1990 + Soviet Nakhchivan Autonomous Republic 1990-1991 + Nakhchivan Autonomous Republic 1991+. Nakhchivan Autonomous Republic comprises ~5,500 km² with a population of ~460,000 (~99% Azerbaijani Turkic-speakers). Family-law framework operates under the federal Azerbaijani civil-law framework (Azerbaijani Family Code 1999 + Azerbaijani Civil Code 1999) applied uniformly across Azerbaijani sub-national territories. The Supreme Court of Nakhchivan Autonomous Republic is the apex regional court; final appellate jurisdiction lies with the Supreme Court of Azerbaijan. Nakhchivan is silent on 'parental alienation' as a statutory label. Azerbaijan is a Hague Convention 1980 signatory and party (acceded 22 January 2020 effective 1 April 2020) — Nakhchivan is governed by Azerbaijani Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Treaty of Moscow 1921 + Treaty of Kars 1921 (Nakhchivan Autonomous Republic framework)",
+      "title": "Treaty of Moscow + Treaty of Kars 1921",
+      "year": 1921,
+      "url": "https://www.president.az/",
+      "relevance": "Treaty of Moscow signed 16 March 1921 + Treaty of Kars signed 13 October 1921 — Soviet-Turkish-mediated treaty framework establishing formal Nakhchivan Autonomous Republic framework with formal Turkish guarantee of Nakhchivan autonomy framework."
+    },
+    {
+      "citation": "Constitution of Nakhchivan Autonomous Republic 1998",
+      "title": "Constitution of Nakhchivan 1998",
+      "year": 1998,
+      "url": "https://www.nakhchivan.az/",
+      "relevance": "Nakhchivan Autonomous Republic Constitution adopted 28 April 1998 — formal constitutional framework for Nakhchivan Autonomous Republic."
+    },
+    {
+      "citation": "Constitution of Azerbaijan 1995 Article 134-141 (Autonomous Republic Status)",
+      "title": "Constitution of Azerbaijan Article 134-141",
+      "year": 1995,
+      "url": "https://www.president.az/",
+      "relevance": "Azerbaijani Constitutional Articles 134-141 establishing autonomous republic status for Nakhchivan — applicable to Nakhchivan."
+    },
+    {
+      "citation": "Azerbaijani Family Code 1999 + Azerbaijani Civil Code 1999",
+      "title": "Azerbaijani Family Code + Civil Code",
+      "year": 1999,
+      "url": "https://e-qanun.az/",
+      "relevance": "Azerbaijani Federal Family Code 1999 + Azerbaijani Federal Civil Code 1999 applicable uniformly across Nakhchivan."
+    },
+    {
+      "citation": "Hague Convention 1980 — Azerbaijani accession 22 January 2020",
+      "title": "Hague Convention 1980 — Azerbaijan",
+      "year": 2020,
+      "url": "https://www.hcch.net/",
+      "relevance": "Azerbaijani Hague Convention 1980 accession 22 January 2020 effective 1 April 2020 — applicable to Nakhchivan."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Nakhchivan Autonomous Republic (Naxçıvan Muxtar Respublikası Ali Məhkəməsi)",
+      "seat": "Nakhchivan City",
+      "url": "https://www.nakhchivan.az/",
+      "role": "Apex regional appellate court for civil and criminal matters from Nakhchivan."
+    },
+    {
+      "name": "Supreme Court of Azerbaijan (Azərbaycan Respublikası Ali Məhkəməsi)",
+      "seat": "Baku",
+      "url": "https://www.supremecourt.gov.az/",
+      "role": "Final appellate court for civil and criminal matters from Nakhchivan."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Azerbaijani Ministry of Health",
+      "url": "https://sehiyye.gov.az/",
+      "role": "Azerbaijani Federal professional regulatory framework applicable in Nakhchivan."
+    }
+  ],
+  "anonymisation_convention": "Nakhchivan family-court decisions are anonymised per Azerbaijani court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1828,
+      "title": "Treaty of Turkmenchay + Russian transfer",
+      "description": "Treaty of Turkmenchay signed 21 February 1828 — formal Russian-Persian transfer of Nakhchivan to Russian Empire framework 1828-1917."
+    },
+    {
+      "year": 1921,
+      "title": "Treaty of Moscow + Treaty of Kars",
+      "description": "Treaty of Moscow signed 16 March 1921 + Treaty of Kars signed 13 October 1921 — formal Nakhchivan Autonomous Republic framework established with formal Turkish guarantee."
+    },
+    {
+      "year": 1924,
+      "title": "Nakhchivan ASSR established",
+      "description": "Soviet Nakhchivan Autonomous Soviet Socialist Republic established 9 February 1924 — formal Soviet sub-national framework 1924-1990."
+    },
+    {
+      "year": 1990,
+      "title": "Nakhchivan sovereignty declaration",
+      "description": "Nakhchivan sovereignty declaration 17 November 1990 — formal post-Soviet sovereignty framework."
+    },
+    {
+      "year": 1991,
+      "title": "Azerbaijani independence + Nakhchivan continuity",
+      "description": "Azerbaijani independence 18 October 1991 + Nakhchivan Autonomous Republic continuity within independent Azerbaijan framework."
+    },
+    {
+      "year": 1998,
+      "title": "Constitution of Nakhchivan",
+      "description": "Nakhchivan Autonomous Republic Constitution adopted 28 April 1998 — formal constitutional framework for Nakhchivan Autonomous Republic."
+    },
+    {
+      "year": 2020,
+      "title": "Second Nagorno-Karabakh War + Zangezur corridor framework",
+      "description": "Second Nagorno-Karabakh War 27 September - 10 November 2020 + 9 November 2020 Tripartite Statement framework establishing Zangezur corridor framework providing potential surface-connection framework Nakhchivan + main Azerbaijan."
+    }
+  ],
+  "structural_findings": [
+    "Nakhchivan operates a federal Azerbaijani civil-law constituent autonomous republic framework — places Nakhchivan in the Caucasian Azerbaijani autonomous-republic cluster.",
+    "Only modern Azerbaijani sub-national territory not contiguous with main Azerbaijan is structurally distinctive within Azerbaijani framework — formal Azerbaijani exclave framework separated by Republic of Armenia.",
+    "Only modern autonomous republic established by international-treaty framework rather than internal-constitutional framework is structurally distinctive globally — Treaty of Moscow 1921 + Treaty of Kars 1921 with formal Turkish guarantee of Nakhchivan autonomy framework.",
+    "Central jurisdiction of most distinctive modern Azerbaijani-Iranian land-border framework is structurally distinctive globally — Azerbaijan's only formal land border with Iran.",
+    "One of only two modern Turkic-speaking exclave-frameworks globally is structurally distinctive globally — alongside Russian Kaliningrad Oblast exclave-framework.",
+    "Treaty of Moscow 1921 + Treaty of Kars 1921 formal Turkish guarantee of Nakhchivan autonomy framework is structurally distinctive globally — continuous 1921-2026 104+ years framework.",
+    "1828 Treaty of Turkmenchay Russian-Persian transfer historical framework is structurally distinctive globally.",
+    "Azerbaijani Hague-Convention-1980-accession-2020 framework applies — late accession framework."
+  ],
+  "references": [
+    "jurisdiction:azerbaijan",
+    "jurisdiction:armenia",
+    "jurisdiction:turkey",
+    "jurisdiction:iran",
+    "jurisdiction:russia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Nakhchivan Autonomous Republic",
+      "url": "https://www.nakhchivan.az/",
+      "publisher": "Nakhchivan Government",
+      "language": "az"
+    },
+    {
+      "title": "President of Azerbaijan",
+      "url": "https://www.president.az/",
+      "publisher": "Azerbaijani Government",
+      "language": "az"
+    }
+  ],
+  "editorial_notes": [
+    "Nakhchivan Autonomous Republic jurisdiction sidecar — civil-law Caucasian Azerbaijani autonomous republic (Treaty of Moscow 1921 + Treaty of Kars 1921 + Constitution of Nakhchivan 1998 + Constitution of Azerbaijan 1995 Articles 134-141 + Azerbaijani Family Code 1999 + Treaty of Turkmenchay 1828 + Russian Empire 1828-1917 + Soviet Nakhchivan ASSR 1924-1990 + 1990 sovereignty declaration + Nakhchivan-Armenia exclave separation + Nakhchivan-Iran border + 2020 Second Nagorno-Karabakh War + Zangezur corridor framework + Azerbaijani Hague-1980). Only modern Azerbaijani sub-national territory not contiguous with main Azerbaijan + only modern autonomous republic established by international-treaty framework rather than internal-constitutional framework + central jurisdiction of most distinctive modern Azerbaijani-Iranian land-border framework + one of only two modern Turkic-speaking exclave-frameworks globally + Treaty of Moscow 1921 + Treaty of Kars 1921 formal Turkish guarantee continuous 1921-present 104+ years framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caucasian + civil-law + Azerbaijani-autonomous-republic cluster + Azerbaijani-exclave-not-contiguous-with-main-Azerbaijan + Treaty-of-Moscow-1921-Treaty-of-Kars-1921-international-treaty-framework-globally-distinctive + Turkish-guarantee-of-Nakhchivan-autonomy + Nakhchivan-Iran-formal-land-border + Turkic-speaking-exclave + 1828-Treaty-of-Turkmenchay + 2020-Second-Nagorno-Karabakh-War-Zangezur-corridor + Azerbaijani-Hague-1980-2020 clusters within the corpus."
+  ]
+}

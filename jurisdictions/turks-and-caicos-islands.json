@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "id": "turks-and-caicos-islands",
+  "name": "Turks and Caicos Islands (TCI)",
+  "jurisdiction_code": "TC",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Turks and Caicos Islands (TCI) is a Caribbean common-law British Overseas Territory whose family-law framework operates under the Matrimonial Causes Ordinance and the Children Ordinance 2014 drawing on English Children Act 1989 model. Parental responsibility and child custody are governed by Children Ordinance 2014 Part II. The Court of Appeal of the Turks and Caicos Islands is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Supreme Court (Family Division) and Magistrates' Court. Psychology profession is regulated through the Ministry of Health framework. TCI is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. TCI is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Ordinance 2014",
+      "title": "Children Ordinance",
+      "year": 2014,
+      "url": "https://www.gov.tc/",
+      "relevance": "Federal Children Ordinance drawing on English Children Act 1989 model codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Matrimonial Causes Ordinance",
+      "title": "Matrimonial Causes Ordinance",
+      "year": 1990,
+      "url": "https://www.gov.tc/",
+      "relevance": "Federal matrimonial-causes statute."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of the Turks and Caicos Islands",
+      "seat": "Cockburn Town",
+      "url": "https://www.gov.tc/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from TCI."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Agriculture, Sports and Human Services, TCI",
+      "url": "https://www.gov.tc/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "TCI family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to TCI effective 1 August 1986."
+    },
+    {
+      "year": 2014,
+      "title": "Children Ordinance 2014",
+      "description": "Federal Children Ordinance enacted drawing on English Children Act 1989 model."
+    }
+  ],
+  "structural_findings": [
+    "TCI operates a common-law framework with British Overseas Territory status — places TCI in the Caribbean BOT cluster.",
+    "Independent Court of Appeal (not ECSC) is structurally distinctive within the Caribbean BOT cluster — TCI has its own appellate framework.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:bahamas",
+    "jurisdiction:cayman-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of TCI",
+      "url": "https://www.gov.tc/",
+      "publisher": "Government of TCI",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Turks and Caicos Islands jurisdiction sidecar — common-law Caribbean BOT (Children Ordinance 2014 + Matrimonial Causes Ordinance + independent Court of Appeal + JCPC + Hague via UK territorial extension 1986).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + common-law + BOT cluster + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

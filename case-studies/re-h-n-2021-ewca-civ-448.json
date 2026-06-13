@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0",
+  "slug": "re-h-n-2021-ewca-civ-448",
+  "caption": "Re H-N (Children) (Domestic Abuse: Finding of Fact Hearings) [2021] EWCA Civ 448",
+  "neutral_citation": "[2021] EWCA Civ 448",
+  "jurisdiction_code": "UK-EWS",
+  "decision_date": "2021-03-30",
+  "court": "Court of Appeal (Civil Division), on appeal from Central Family Court, Guildford Combined Court and Family Court, Canterbury Combined Court Centre",
+  "panel": "Sir Andrew McFarlane P / King LJ / Holroyde LJ (judgment of the court)",
+  "judges": [
+    {"name": "Sir Andrew McFarlane", "role": "President of the Family Division", "url": "https://www.judiciary.uk/about-the-judiciary/who-are-the-judiciary/senior-judiciary/president-family-division/"},
+    {"name": "Dame Eleanor King", "role": "Lady Justice of Appeal (King LJ)"},
+    {"name": "Sir Peter Holroyde", "role": "Lord Justice of Appeal (Holroyde LJ)"}
+  ],
+  "parties": {
+    "applicant": "Four appellant mothers (Re B-B, Re T, Re H-N, Re H) — anonymised by the Court per s.97 CA 1989",
+    "respondent": "Four respondent fathers — anonymised by the Court per s.97 CA 1989",
+    "children": [
+      {"anonym": "B-B", "sex": "not_stated", "notes": "Subject child in the Re B-B conjoined appeal; anonymised by the Court of Appeal per s.97 CA 1989"},
+      {"anonym": "T", "sex": "not_stated", "notes": "Subject child in the Re T conjoined appeal; anonymised"},
+      {"anonym": "H-N", "sex": "not_stated", "notes": "Subject child in the Re H-N conjoined appeal; anonymised — gives the lead case its name"},
+      {"anonym": "H", "sex": "not_stated", "notes": "Subject child in the Re H conjoined appeal; anonymised"}
+    ]
+  },
+  "counsel": [
+    {"name": "Christopher Hames KC", "role": "Leading counsel", "for": "Appellant Mother (Re H-N)", "firm": "instructed by Goodman Ray Solicitors"},
+    {"name": "Camini Kumar", "role": "Junior counsel", "for": "Appellant Mother (Re H-N)", "firm": "instructed by Goodman Ray Solicitors"},
+    {"name": "Charlotte Baker", "role": "Junior counsel", "for": "Appellant Mother (Re H-N)", "firm": "instructed by Goodman Ray Solicitors"},
+    {"name": "Janet Bazley KC", "role": "Leading counsel", "for": "Respondent Father (Re H-N)", "firm": "instructed by Bindmans LLP"},
+    {"name": "Jessica Lee", "role": "Junior counsel", "for": "Respondent Father (Re H-N)", "firm": "instructed by Bindmans LLP"},
+    {"name": "Costanza Bertoni", "role": "Junior counsel", "for": "Respondent Father (Re H-N)", "firm": "instructed by Bindmans LLP"},
+    {"name": "Amanda Weston KC", "role": "Leading counsel", "for": "Appellant Mother (Re H)", "firm": "instructed by Duncan Lewis Solicitors"},
+    {"name": "Charlotte Proudman", "role": "Junior counsel", "for": "Appellant Mother (Re H)", "firm": "instructed by Duncan Lewis Solicitors"},
+    {"name": "Denise Gilling KC", "role": "Leading counsel", "for": "Respondent Father (Re H)", "firm": "instructed by Mills & Reeve LLP"},
+    {"name": "Arlene Small", "role": "Junior counsel", "for": "Respondent Father (Re H)", "firm": "instructed by Mills & Reeve LLP"},
+    {"name": "Melissa Elsworth", "role": "Junior counsel", "for": "Respondent Father (Re H)", "firm": "instructed by Mills & Reeve LLP"},
+    {"name": "Amanda Weston KC", "role": "Leading counsel", "for": "Appellant Mother (Re B-B)", "firm": "instructed by Beck Fitzgerald"},
+    {"name": "Charlotte Proudman", "role": "Junior counsel", "for": "Appellant Mother (Re B-B)", "firm": "instructed by Beck Fitzgerald"},
+    {"name": "Teertha Gupta KC", "role": "Leading counsel", "for": "Respondent Father (Re B-B)", "firm": "instructed by Penningtons Manches Cooper LLP"},
+    {"name": "Matthew Persson", "role": "Junior counsel", "for": "Respondent Father (Re B-B)", "firm": "instructed by Penningtons Manches Cooper LLP"},
+    {"name": "Clarissa Wigoder", "role": "Junior counsel", "for": "Respondent Father (Re B-B)", "firm": "instructed by Penningtons Manches Cooper LLP"},
+    {"name": "Jo Delahunty KC", "role": "Leading counsel (Professor)", "for": "Appellant Mother (Re T)", "firm": "instructed by Beck Fitzgerald"},
+    {"name": "Chris Barnes", "role": "Junior counsel", "for": "Appellant Mother (Re T)", "firm": "instructed by Beck Fitzgerald"},
+    {"name": "Adele Cameron-Douglas", "role": "Junior counsel", "for": "Appellant Mother (Re T)", "firm": "instructed by Beck Fitzgerald"},
+    {"name": "Charles Hale KC", "role": "Leading counsel", "for": "Respondent Father (Re T)", "firm": "instructed by Meadows Ryan Solicitors"},
+    {"name": "Rebecca Foulkes", "role": "Junior counsel", "for": "Respondent Father (Re T)", "firm": "instructed by Meadows Ryan Solicitors"},
+    {"name": "Miriam Best", "role": "Junior counsel", "for": "Respondent Father (Re T)", "firm": "instructed by Meadows Ryan Solicitors"},
+    {"name": "Mark Jarman", "role": "Counsel", "for": "Cafcass (First Intervener)", "firm": "instructed by Cafcass Legal"},
+    {"name": "Michael Gration", "role": "Counsel", "for": "Cafcass (First Intervener)", "firm": "instructed by Cafcass Legal"},
+    {"name": "Barbara Mills KC", "role": "Leading counsel", "for": "Women's Aid, Women's Aid Wales, Rape Crisis and Rights of Women (Second Intervener)", "firm": "instructed by Scott Moncrieff & Associates Ltd"},
+    {"name": "Joy Brereton", "role": "Junior counsel", "for": "Second Intervener", "firm": "instructed by Scott Moncrieff & Associates Ltd"},
+    {"name": "Emma Spruce", "role": "Junior counsel", "for": "Second Intervener", "firm": "instructed by Scott Moncrieff & Associates Ltd"},
+    {"name": "Sarah Morgan KC", "role": "Leading counsel", "for": "Families Need Fathers (Third Intervener)", "firm": "instructed by Irwin Mitchell"},
+    {"name": "Tom Wilson", "role": "Junior counsel", "for": "Families Need Fathers (Third Intervener)", "firm": "instructed by Irwin Mitchell"},
+    {"name": "Lucy Maxwell", "role": "Junior counsel", "for": "Families Need Fathers (Third Intervener)", "firm": "instructed by Irwin Mitchell"},
+    {"name": "Deirdre Fottrell KC", "role": "Leading counsel", "for": "Association of Lawyers for Children (Fourth Intervener)", "firm": "instructed by ITN Solicitors"},
+    {"name": "Lorraine Cavanagh KC", "role": "Leading counsel", "for": "Association of Lawyers for Children (Fourth Intervener)", "firm": "instructed by ITN Solicitors"}
+  ],
+  "experts": [
+    {"name": "Ministry of Justice Harm Panel (Assessing Risk of Harm to Children and Parents in Private Law Children Cases, June 2020)", "field": "Expert panel — conceptual scaffolding accepted by the Court of Appeal; not a witness in the conjoined appeals but extensively cited by the Court", "instructed_by": "Ministry of Justice (panel report)", "practitioner_ref": ""}
+  ],
+  "procedural_history": "Four conjoined second-tier private-law Children Act 1989 appeals (case numbers B4/2020/1872, B4/2020/1874, B4/2020/1918, B4/2020/1945) from HHJ Tolson QC (Re H-N and Re H), HHJ Evans-Gordon (Re T), and HHJ Scarratt (Re B-B). At a case management hearing on 22 December 2020 King LJ set the parameters; four interveners (Cafcass; Women's Aid / Women's Aid Wales / Rape Crisis / Rights of Women; Families Need Fathers; Association of Lawyers for Children) were admitted. The conjoined hearing took place over three days on 19-21 January 2021. Judgment was handed down remotely at 10:00am on 30 March 2021.",
+  "summary": "Re H-N is the modern English Court of Appeal restatement of how the Family Court must approach allegations of domestic abuse in private-law children proceedings under Practice Direction 12J. Four conjoined appeals (Re B-B, Re T, Re H-N, Re H) were used to give comprehensive guidance on (i) when a finding-of-fact hearing is necessary, (ii) how to plead and try patterns of coercive and controlling behaviour rather than discrete incidents, (iii) the irrelevance of criminal-law concepts such as mens rea, and (iv) the limitations of Scott Schedules. Three of the four appeals were allowed and remitted; the appeal in Re H was dismissed. The case is the central English authority at the heart of the Re A → Re S → Re H-N → Re C → Re Y arc, and it operates as the procedural anchor that later cases (notably Re Y [2026] EWFC 38) build upon: in PA-framed proceedings, fact-finding on the underlying abuse allegations must be done properly, on the civil standard, with attention to patterns rather than just incidents, before any welfare or expert evidence on alienation is allowed to displace it.",
+  "holding": "(1) PD12J remains fit for purpose; the problem identified by the Harm Panel is one of implementation, not of the rule itself (paras 28, 224). (2) Family courts must focus on patterns of behaviour, particularly coercive and controlling behaviour, and not merely on discrete incidents; Scott Schedules are 'a potential barrier to fairness and good process' where they reduce a pattern case to an incident-list (paras 33-50). (3) The civil standard of proof (balance of probabilities) applies throughout; criminal-law concepts (mens rea, specific offence elements, criminal standard) are not imported into the family fact-finding exercise (paras 5, 71-74). (4) The proper approach to deciding whether a fact-finding hearing is necessary is the four-stage analysis at paragraph 37: (i) nature of the allegations and likely relevance to a CAO under PD12J.5; (ii) purpose of the hearing under PD12J.16 as a basis for risk-assessment; (iii) the PD12J.17 'necessity' analysis including whether other evidence provides a sufficient factual basis and the relevance of the allegations if proved; (iv) PD12J.17(h) necessity and proportionality, read with the overriding objective and the President's 'Road Ahead' guidance. (5) Appeals in Re B-B, Re T and Re H-N allowed; appeal in Re H dismissed.",
+  "verbatim_quotes": [
+    {
+      "paragraph": "[1]",
+      "language": "en",
+      "text": "The court is concerned with four appeals each of which involves an allegation of domestic abuse by one parent against the other. Later in this judgment at paragraph 78 onwards, we address the individual appeals, but we also take the opportunity to give more general guidance about matters which commonly arise in the Family Court and are of great importance. In particular we address the issue of whether, where domestic abuse is alleged in proceedings affecting the welfare of children, the focus should in some cases be on a pattern of behaviour as opposed to specific incidents. We also address the issue of the extent to which it is appropriate for a Family Court to have regard to concepts which are applicable in criminal proceedings. We consider the consequence of these issues for the way such cases are conducted in applications made for private law children orders ('private law orders') made under the Children Act 1989 ('CA 1989').",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    },
+    {
+      "paragraph": "[4]",
+      "language": "en",
+      "text": "Despite the high volume of cases, the need to identify and, where necessary, decide upon issues of domestic abuse is a matter that is rightly afforded a high level of importance in Family Court proceedings. Where past domestic abuse is found to have taken place, the court must consider the impact that abuse has had on both the child and parent and thereafter determine what orders are to be made for the future protection and welfare of parent and child in the light of those findings. Depending upon the circumstances, such orders may substantially restrict, or even close down, the continuing relationship between the abusive parent and their child.",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    },
+    {
+      "paragraph": "[28]",
+      "language": "en",
+      "text": "We are therefore of the view that PD12J is and remains, fit for the purpose for which it was designed namely to provide the courts with a structure enabling the court first to recognise all forms of domestic abuse and thereafter on how to approach such allegations when made in private law proceedings. As was also recognised by The Harm Panel, we are satisfied that the structure properly reflects modern concepts and understanding of domestic abuse. The challenge relates to the proper implementation of PD12J.",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    },
+    {
+      "paragraph": "[31]",
+      "language": "en",
+      "text": "The circumstances encompassed by the definition of 'domestic abuse' in PD12J fully recognise that coercive and/or controlling behaviour by one party may cause serious emotional and psychological harm to the other members of the family unit, whether or not there has been any actual episode of violence or sexual abuse. In short, a pattern of coercive and/or controlling behaviour can be as abusive as or more abusive than any particular factual incident that might be written down and included in a schedule in court proceedings (see 'Scott Schedules' at paragraph 42 -50). It follows that the harm to a child in an abusive household is not limited to cases of actual violence to the child or to the parent. A pattern of abusive behaviour is as relevant to the child as to the adult victim.",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    },
+    {
+      "paragraph": "[34]",
+      "language": "en",
+      "text": "In our judgment there are a number of important issues which arise out of the submissions made by the parties to these appeals in relation to the proper approach of the court to such cases namely: i) Whether there should be a finding of fact hearing; ii) The challenges presented by Scott Schedules as a means of pleading a case; iii) If a fact-finding hearing is necessary and proportionate, how should an allegation of domestic abuse be approached? iv) The relevance of criminal law concepts.",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    },
+    {
+      "paragraph": "[37]",
+      "language": "en",
+      "text": "The court will carefully consider the totality of PD12J, but to summarise, the proper approach to deciding if a fact-finding hearing is necessary is, we suggest, as follows: i) The first stage is to consider the nature of the allegations and the extent to which it is likely to be relevant in deciding whether to make a child arrangements order and if so in what terms (PD12J.5). ii) In deciding whether to have a finding of fact hearing the court should have in mind its purpose (PD12J.16) which is, in broad terms, to provide a basis of assessment of risk and therefore the impact of the alleged abuse on the child or children. iii) Careful consideration must be given to PD12J.17 as to whether it is 'necessary' to have a finding of fact hearing, including whether there is other evidence which provides a sufficient factual basis to proceed and importantly, the relevance to the issue before the court if the allegations are proved. iv) Under PD12J.17 (h) the court has to consider whether a separate fact-finding hearing is 'necessary and proportionate'. The court and the parties should have in mind as part of its analysis both the overriding objective and the President's Guidance as set out in 'The Road Ahead'.",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    },
+    {
+      "paragraph": "[224]",
+      "language": "en",
+      "text": "Each of these appeals are examples in differing ways of the importance of the modern judiciary having a proper understanding of the nature of domestic abuse and in particular of controlling and coercive behaviour and of its impact on both the victims and the children caught up in the atmosphere engendered in such a household. Training together with a proper application of PD12J largely ensures that such errors are the exception rather than the rule, but that that is the case does not lessen the impact on those individuals affected when things do go wrong.",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    },
+    {
+      "paragraph": "[225]",
+      "language": "en",
+      "text": "We would accordingly allow the appeals for the reasons given in: Re B-B, Re T and Re H-N and dismiss the appeal in Re H.",
+      "source_url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
+    }
+  ],
+  "outcome": "Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case management and (where directed) re-hearing of fact-finding. Appeal in Re H dismissed. Court confirms PD12J is fit for purpose and that the proper approach to finding-of-fact hearings in private-law CA 1989 proceedings is the four-stage analysis at paragraph 37, applied with attention to patterns of coercive and controlling behaviour rather than discrete-incident schedules.",
+  "comparative_jurisprudence": [
+    {"caption": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38", "jurisdiction_code": "UK-EWS", "case_study_ref": "re-y-2026-ewfc-38", "relevance": "Later in the English arc; Sir Andrew McFarlane P (the author of the leading judgment in Re H-N) sets aside findings of 'alienating behaviour' built on an unregulated PA-specialist report. Re H-N is the procedural anchor — fact-finding on DA allegations must be done properly first — that Re Y completes on the expert-quality flank."},
+    {"caption": "Re A (Children) (Parental Alienation) [2019] EWFC B56", "jurisdiction_code": "UK-EWS", "relevance": "Earliest of the modern English PA arc (Re A → Re S → Re H-N → Re C → Re Y). Re H-N corrects the pre-2021 tendency for serious DA allegations to be brushed aside as 'high-conflict' or 'alienation' without proper adjudication."},
+    {"caption": "Re S [2020] EWCA Civ 568", "jurisdiction_code": "UK-EWS", "relevance": "Court of Appeal least-harmful welfare analysis in PA-framed proceedings; immediately precedes Re H-N in the modern English arc."},
+    {"caption": "Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam)", "jurisdiction_code": "UK-EWS", "relevance": "Sir Andrew McFarlane P's later guidance restricting expert psychology in PA-framed proceedings to HCPC-registered practitioner psychologists; sits between Re H-N (procedural anchor) and Re Y (expert-quality remedy) in the arc."},
+    {"caption": "F v M [2021] EWFC 4", "jurisdiction_code": "UK-EWS", "relevance": "Hayden J's parallel landmark on coercive and controlling behaviour, expressly endorsed and quoted by the Court of Appeal in Re H-N at paragraphs 29-30 as essential reading for the Family judiciary."},
+    {"caption": "Re L; Re V; Re M; Re H (Contact: Domestic Violence) [2000] 2 FCR 404; [2000] 2 FLR 334", "jurisdiction_code": "UK-EWS", "relevance": "The 2000 Court of Appeal conjoined-four-appeal predecessor expressly invoked at paragraph 24 of Re H-N as the historical seminal moment in the family court's approach to domestic violence."},
+    {"caption": "BVerfG 17.11.2023 – 1 BvR 1076/23", "jurisdiction_code": "DE", "case_study_ref": "bverfg-1-bvr-1076-23-germany-2023", "relevance": "German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten — parallel critique of the alienation framing operating to displace proper fact-finding on Kindeswohl/Art. 6 Abs. 2 GG grounds."},
+    {"caption": "Cassazione Civ. n. 9691/2022", "jurisdiction_code": "IT", "case_study_ref": "cassazione-9691-2022-italy", "relevance": "Italian Court of Cassation requirement that PA findings rest on scientifically validated methodology — civil-law parallel to Re H-N's demand for procedural rigour when the alienation/abuse framings collide."},
+    {"caption": "NF v AF [2025] CSOH 13", "jurisdiction_code": "UK-SCO", "case_study_ref": "nf-v-af-2025-csoh-13-scotland", "relevance": "Scottish Outer House (Lord Stuart) decision in PA-framed proceedings within the same UK constitutional space — Scottish doctrinal counterpart against which the EWCA Re H-N approach is read by UK devolved practitioners."}
+  ],
+  "subsequent_reception": [
+    {"venue": "Court of Appeal (Civil Division)", "year": 2023, "citation": "Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam)", "url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html", "summary": "Sir Andrew McFarlane P, sitting in the High Court (Family Division), builds on Re H-N's procedural-rigour line by restricting expert psychology in PA-framed proceedings to HCPC-registered practitioner psychologists."},
+    {"venue": "Family Court (EWFC)", "year": 2026, "citation": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38", "url": "https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html", "summary": "Sir Andrew McFarlane P sets aside findings of 'alienating behaviour' built on the report of an unregulated PA specialist; explicitly completes the arc whose procedural foundation is Re H-N."},
+    {"venue": "Family Justice Council", "year": 2022, "citation": "Guidance on responding to allegations of alienating behaviour (consultation 2022, finalised 2024)", "url": "https://www.judiciary.uk/guidance-and-resources/family-justice-council/", "summary": "FJC guidance expressly grounded in Re H-N's pattern-of-behaviour framework and its insistence that fact-finding on the abuse allegations is the precondition for any consideration of alienating-behaviour framing."},
+    {"venue": "Cafcass", "year": 2022, "citation": "Cafcass private-law operating framework revisions post Re H-N", "url": "https://www.cafcass.gov.uk/", "summary": "Cafcass (the First Intervener) revised its safeguarding and welfare-reporting practice in light of Re H-N, including the proposal endorsed at paragraphs 38-40 for enhanced pre-fact-finding involvement."},
+    {"venue": "Transparency Project", "year": 2021, "citation": "Jack Harrison — 'Re H-N [2021] EWCA 448: The Court of Appeal considers domestic abuse'", "url": "https://transparencyproject.org.uk/re-h-n-2021-ewca-448-the-court-of-appeal-considers-domestic-abuse/", "summary": "Welcomes the pattern-of-behaviour framing as important; characterises the judgment as evolutionary not revolutionary ('a Kylie and not a Home Alone 3'); warns that proper implementation depends on hearing time the underfunded family courts cannot deliver and specifically critiques judges focused on a mother's 'mental health rather than on the allegations of domestic abuse'."},
+    {"venue": "Transparency Project", "year": 2022, "citation": "'Mind the Gap — the welfare decisions for H-N, a child' (multi-part series)", "url": "https://transparencyproject.org.uk/mind-the-gap-the-welfare-decisions-for-h-n-a-child-part-one/", "summary": "Follow-up reporting on the welfare hearings for the H-N child after the high-profile appeal moment passed — important for showing what implementation actually looks like at first instance."},
+    {"venue": "7BR Chambers", "year": 2021, "citation": "Re H and others case digest", "url": "https://www.7br.co.uk/wp-content/uploads/2021/05/Re-H-and-other-case-digest.pdf", "summary": "Practitioner chambers digest treating Re H-N as the standard starting point for modern DA fact-finding in private-law CA 1989 proceedings."},
+    {"venue": "18 St John Street", "year": 2021, "citation": "Re H-N & Others (Children) (Domestic Abuse: Finding of Fact Hearings) [2021] EWCA Civ 448 — analysis", "url": "https://www.18sjs.com/re-h-n-others-children-domestic-abuse-finding-fact-hearings-2021-ewca-civ-448/", "summary": "Practitioner-chambers analysis."},
+    {"venue": "Right to Equality (Dr Charlotte Proudman, junior counsel in Re H and Re B-B)", "year": 2024, "citation": "Family Courts campaign", "url": "https://righttoequality.org/campaign/family-courts/", "summary": "Continues to use Re H-N as a reference point in advocacy to repeal the s.1(2A) Children Act presumption of contact in DA-affected cases."}
+  ],
+  "references": [
+    "case-study:re-y-2026-ewfc-38",
+    "case-study:nf-v-af-2025-csoh-13-scotland",
+    "case-study:bverfg-1-bvr-1076-23-germany-2023",
+    "case-study:cassazione-9691-2022-italy",
+    "practitioner:uk-ews.gill-melanie",
+    "jurisdiction:england-and-wales"
+  ],
+  "sources": [
+    {"title": "Re H-N and Others (children) (domestic abuse: finding of fact hearings) [2021] EWCA Civ 448 — BAILII listing", "url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html", "publisher": "BAILII (British and Irish Legal Information Institute)", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Re H-N and Others (children) (domestic abuse: finding of fact hearings) — Approved Judgment PDF", "url": "https://www.judiciary.uk/wp-content/uploads/2022/07/H-N-and-Others-children-judgment-1.pdf", "publisher": "Courts and Tribunals Judiciary", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Judiciary case page — Re H-N and Others (children) (domestic abuse: finding of fact hearings)", "url": "https://www.judiciary.uk/judgments/re-h-n-and-others-children-domestic-abuse-finding-of-fact-hearings/", "publisher": "Courts and Tribunals Judiciary", "language": "en", "accessed": "2026-05-30", "type": "official-database"},
+    {"title": "Practice Direction 12J — Child Arrangements & Contact Orders: Domestic Abuse and Harm", "url": "https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j", "publisher": "Ministry of Justice", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Assessing risk of harm to children and parents in private law children cases (Harm Panel Report, June 2020)", "url": "https://www.gov.uk/government/publications/assessing-risk-of-harm-to-children-and-parents-in-private-law-children-cases", "publisher": "Ministry of Justice", "language": "en", "accessed": "2026-05-30", "type": "ngo-report"},
+    {"title": "F v M [2021] EWFC 4 (Hayden J)", "url": "https://www.bailii.org/ew/cases/EWFC/HCJ/2021/4.html", "publisher": "BAILII", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Children Act 1989", "url": "https://www.legislation.gov.uk/ukpga/1989/41/contents", "publisher": "legislation.gov.uk", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Transparency Project — Re H-N [2021] EWCA 448: The Court of Appeal considers domestic abuse (Jack Harrison)", "url": "https://transparencyproject.org.uk/re-h-n-2021-ewca-448-the-court-of-appeal-considers-domestic-abuse/", "publisher": "The Transparency Project", "language": "en", "accessed": "2026-05-30", "type": "academic-blog"},
+    {"title": "Transparency Project — Mind the Gap: the welfare decisions for H-N, a child (Part One)", "url": "https://transparencyproject.org.uk/mind-the-gap-the-welfare-decisions-for-h-n-a-child-part-one/", "publisher": "The Transparency Project", "language": "en", "accessed": "2026-05-30", "type": "academic-blog"},
+    {"title": "7BR Chambers — Re H and other case digest", "url": "https://www.7br.co.uk/wp-content/uploads/2021/05/Re-H-and-other-case-digest.pdf", "publisher": "7BR Chambers", "language": "en", "accessed": "2026-05-30", "type": "journal-article"},
+    {"title": "18 St John Street — Re H-N & Others analysis", "url": "https://www.18sjs.com/re-h-n-others-children-domestic-abuse-finding-fact-hearings-2021-ewca-civ-448/", "publisher": "18 St John Street Chambers", "language": "en", "accessed": "2026-05-30", "type": "journal-article"},
+    {"title": "Right to Equality — Family Courts campaign", "url": "https://righttoequality.org/campaign/family-courts/", "publisher": "Right to Equality", "language": "en", "accessed": "2026-05-30", "type": "ngo-report"},
+    {"title": "Family Justice Council — Guidance on responding to a child's unexplained reluctance, resistance or refusal to spend time with a parent and allegations of alienating behaviour (consultation 2022; final guidance 2024)", "url": "https://www.judiciary.uk/guidance-and-resources/family-justice-council/", "publisher": "Family Justice Council", "language": "en", "accessed": "2026-05-30", "type": "official-database"}
+  ],
+  "editorial_notes": [
+    "Primary verification done against the approved-judgment PDF served from judiciary.uk (filename 'H-N-and-Others-children-judgment-1.pdf'). BAILII page (https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html) returned a bot-protection wall at retrieval time on 2026-05-30 and could not be read directly; the judgment text used for verbatim quotes therefore comes from the judiciary.uk PDF, which is the same Approved Judgment as the BAILII version. Source_url on each verbatim quote nevertheless points at BAILII as the canonical citation venue per house style.",
+    "Bench composition verified from the judgment cover sheet: Sir Andrew McFarlane (President of the Family Division), Lady Justice King and Lord Justice Holroyde — NOT Dame Victoria Sharp PQBD as the source MD's 'Who else was involved' section had recorded. The source MD's draft is incorrect on this point and was corrected against the primary text.",
+    "The judgment of the court is given jointly ('The President of the Family Division, Lady Justice King and Lord Justice Holroyde'). It is not attributed to a single judge as author, although McFarlane P sat in the lead-judgment chair as President of the Family Division.",
+    "IMPORTANT: the word 'alienation' (and stem 'alien') does NOT appear in the body of the [2021] EWCA Civ 448 judgment. The Court of Appeal's treatment of the alienation-vs-DA framing is therefore implicit rather than express: it operates through (a) the insistence in paragraphs 29-34 that coercive and controlling behaviour patterns must be properly tried rather than reduced to a Scott Schedule, and (b) the corrective character of the case as a whole, which restored fact-finding on DA allegations in three of the four appeals where lower courts had narrowed or dismissed them. The treatment of parental alienation as a 'counter-allegation' that Re H-N is celebrated for addressing is thus a doctrinal characterisation by commentators (and by later cases including Re C [2023] and Re Y [2026]) rather than an express verbatim engagement on the face of [2021] EWCA Civ 448. The verbatim_quotes set reflects this honestly: it includes the structural paragraphs (1, 4, 28, 31, 34, 37, 224, 225) on which the doctrine actually rests rather than fabricating an 'alienation' quotation that is not in the judgment.",
+    "The four-direction guidance the brief asked for is at paragraph 37 (not paragraph 4) — paragraph 37 sets out the four-stage 'is fact-finding necessary?' analysis (i-iv) and paragraph 34 sets out the four-issue framing for the substantive guidance (i-iv). Both are quoted verbatim. Paragraph 4 is the opening paragraph on the high-importance status of DA fact-finding and is included for completeness.",
+    "Counsel listed from the BAILII/judiciary.uk front sheet. KC suffix is used in this entry to reflect the current style (the front sheet uses QC, reflecting the rank as it was in March 2021 prior to the September 2022 demise of HM Queen Elizabeth II).",
+    "Outcome: three appeals allowed (Re B-B, Re T, Re H-N) with remittal for further case management / re-hearing; one dismissed (Re H). This is expressly stated at paragraph 225.",
+    "The Ministry of Justice Harm Panel is included in the 'experts' array as the panel whose conceptual framework was accepted by the Court of Appeal (paragraphs 19-22, 28, 286-?); it is not an expert witness in the conjoined appeals in the FPR Part 25 sense and is so noted in the field.",
+    "Children entries use the case-shorthand letters (B-B, T, H-N, H) as anonymised by the Court of Appeal in compliance with s.97 Children Act 1989. No further demographic detail (year of birth, sex) is publicly recorded on the face of the judgment and 'not_stated' is used per the schema enum.",
+    "Re A [2019] EWFC B56 and Re S [2020] EWCA Civ 568 are recorded in comparative_jurisprudence without case_study_ref pending separate case-study entries in the AntiAlienate knowledge base."
+  ],
+  "word_count": 0,
+  "author": "Alan Markson",
+  "license": "CC-BY-4.0"
+}

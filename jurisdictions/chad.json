@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "id": "chad",
+  "name": "Chad (Republic of Chad / République du Tchad / تشاد)",
+  "jurisdiction_code": "TD",
+  "legal_system": "mixed",
+  "language": ["fr", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Chad is a Central African mixed-legal-system republic combining French civil-law substantive heritage (via colonial inheritance) with Maliki Islamic-law personal-status provisions (for the Muslim-majority population) and customary-law jurisdiction. Family-law framework operates under the Code of Persons and Family 2002 (draft Code Civil pending — substantive family-law remains largely uncodified) supplemented by Civil Code 1958 residual application drawing on French Napoleonic heritage. Chad is structurally distinctive within the corpus alongside Niger as among the few states without a comprehensive Family or Persons and Family Code — family-law operates through dispersed statutes, Islamic-law for Muslim communities, and customary-law jurisdiction. Parental authority and child custody are governed by Civil Code arts. 371-387 residually. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil Constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance, Islamic Sharia courts, and customary courts. Psychology profession is regulated through the Ministry of Health framework. Chad is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Chad is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code 1958 (residual)",
+      "title": "Civil Code (Napoleonic, residual)",
+      "year": 1958,
+      "url": "https://www.cour-supreme.td/",
+      "relevance": "Federal Civil Code drawing on French Napoleonic Code substantive heritage; applied residually."
+    },
+    {
+      "citation": "Draft Code of Persons and Family 2002 (pending)",
+      "title": "Draft Code of Persons and Family",
+      "year": 2002,
+      "url": "https://www.cour-supreme.td/",
+      "relevance": "Draft Code pending comprehensive codification; not yet enacted as comprehensive Family Code."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour Suprême)",
+      "seat": "N'Djamena",
+      "url": "https://www.cour-supreme.td/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Council (Conseil Constitutionnel)",
+      "seat": "N'Djamena",
+      "url": "https://www.cc.td/",
+      "role": "Constitutional Council with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Public Health, Chad",
+      "url": "https://www.sante.gov.td/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Chadian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1958,
+      "title": "Civil Code 1958",
+      "description": "Federal Civil Code drawing on French Napoleonic Code substantive heritage adopted under colonial inheritance."
+    },
+    {
+      "year": 2002,
+      "title": "Draft Code of Persons and Family",
+      "description": "Draft Code pending comprehensive family-law codification; not enacted."
+    }
+  ],
+  "structural_findings": [
+    "Chad operates a mixed-legal-system framework — French civil-law substantive (Civil Code 1958 residual) + Maliki Islamic-law personal-status + customary-law jurisdiction. Among the few states without a comprehensive Family Code or Persons and Family Code in the Central African cluster — shared structural pattern with Niger in Sahel region.",
+    "Absence of comprehensive Family Code is structurally distinctive within Central Africa within the corpus.",
+    "Non-Hague Convention status places Chad in the non-Hague Central African cluster."
+  ],
+  "references": [
+    "jurisdiction:niger",
+    "jurisdiction:central-african-republic",
+    "jurisdiction:cameroon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Chad",
+      "url": "https://www.cour-supreme.td/",
+      "publisher": "Supreme Court",
+      "language": "fr,ar"
+    },
+    {
+      "title": "Constitutional Council",
+      "url": "https://www.cc.td/",
+      "publisher": "Constitutional Council",
+      "language": "fr,ar"
+    }
+  ],
+  "editorial_notes": [
+    "Chad jurisdiction sidecar — mixed-legal-system Central African Sahel (French civil-law + Maliki Islamic-law + customary-law + no-comprehensive-Family-Code-distinctive + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central African + Sahel + mixed-legal-system + no-comprehensive-Family-Code-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

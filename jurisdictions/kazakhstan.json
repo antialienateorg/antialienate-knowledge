@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "kazakhstan",
+  "name": "Kazakhstan (Republic of Kazakhstan / Қазақстан Республикасы)",
+  "jurisdiction_code": "KZ",
+  "legal_system": "civil-law",
+  "language": ["kk", "ru"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Kazakhstan is a Central Asian civil-law unitary republic whose family-law framework operates under the Code on Marriage (Matrimony) and Family of 26 December 2011 (No. 518-IV) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Code arts. 60-77. The Supreme Court of Kazakhstan (Қазақстан Республикасының Жоғарғы Соты) is the apex court for civil and criminal matters; the Constitutional Court (restructured 2023 from Constitutional Council) operates constitutional review. Family-law matters are heard at first instance in District/City Specialised Inter-District Court for Civil Cases. Psychology profession is regulated through the Ministry of Healthcare framework. Kazakhstan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Code art. 61. Kazakhstan acceded to the Hague Convention 1980 effective 1 September 2013.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Code on Marriage (Matrimony) and Family 2011 (No. 518-IV) arts. 60-77",
+      "title": "Code on Marriage and Family — Parental rights and custody",
+      "year": 2011,
+      "url": "https://www.adilet.zan.kz/",
+      "relevance": "Federal Code on Marriage and Family enacted replacing 1998 Marriage and Family Law. Arts. 60-77 govern parental rights and child custody."
+    },
+    {
+      "citation": "Law on Rights of the Child 345-II of 2002",
+      "title": "Law on Rights of the Child",
+      "year": 2002,
+      "url": "https://www.adilet.zan.kz/",
+      "relevance": "Federal children's rights statute aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Жоғарғы Сот)",
+      "seat": "Astana",
+      "url": "https://www.sud.gov.kz/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court",
+      "seat": "Astana",
+      "url": "https://www.ksrk.gov.kz/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review (restructured 2023 from Constitutional Council)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Healthcare, Kazakhstan",
+      "url": "https://www.gov.kz/memleket/entities/dsm/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Kazakhstani family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1998,
+      "title": "Law on Marriage and Family",
+      "description": "Federal family-law statute enacted post-Soviet."
+    },
+    {
+      "year": 2002,
+      "title": "Law on Rights of the Child",
+      "description": "Federal children's rights statute aligned with UNCRC obligations."
+    },
+    {
+      "year": 2011,
+      "title": "Code on Marriage (Matrimony) and Family",
+      "description": "Federal Code replacing 1998 statute codifying marriage, parental rights and child custody."
+    },
+    {
+      "year": 2013,
+      "title": "Hague Convention 1980 accession",
+      "description": "Kazakhstan acceded to the Hague Convention 1980 effective 1 September 2013."
+    },
+    {
+      "year": 2023,
+      "title": "Constitutional Court restructure",
+      "description": "Constitutional Council restructured as Constitutional Court."
+    }
+  ],
+  "structural_findings": [
+    "Kazakhstan operates a post-Soviet civil-law framework — Code on Marriage and Family 2011 reflects post-Soviet codification trajectory shared with Russia, Belarus, Ukraine within the corpus.",
+    "Hague Convention 1980 accession 2013 places Kazakhstan in the Hague Central Asian cluster.",
+    "Bilingual official-language framework (Kazakh + Russian) reflects post-Soviet language-policy heritage."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:uzbekistan",
+    "jurisdiction:mongolia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Kazakhstan",
+      "url": "https://www.sud.gov.kz/",
+      "publisher": "Supreme Court",
+      "language": "kk,ru"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.ksrk.gov.kz/",
+      "publisher": "Constitutional Court",
+      "language": "kk,ru"
+    },
+    {
+      "title": "Legal Information System",
+      "url": "https://www.adilet.zan.kz/",
+      "publisher": "Republican Centre of Legal Information",
+      "language": "kk,ru"
+    }
+  ],
+  "editorial_notes": [
+    "Kazakhstan jurisdiction sidecar — civil-law post-Soviet Central Asia. Code on Marriage and Family 2011 + Law on Rights of the Child 2002 + Hague Convention 1980 accession 2013.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central Asian + civil-law + post-Soviet + Hague Convention clusters within the corpus."
+  ]
+}

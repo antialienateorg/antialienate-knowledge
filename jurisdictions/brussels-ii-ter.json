@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "id": "brussels-ii-ter",
+  "name": "Brussels II ter Regulation Framework (EU Family-Law Cross-Border Framework)",
+  "jurisdiction_code": "EU-BII",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "de", "es", "it", "nl", "pl", "pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Brussels II ter Regulation Framework (Council Regulation (EU) 2019/1111 of 25 June 2019, applicable from 1 August 2022) is a supranational meta-legal-system framework establishing the most comprehensive cross-border family-law-jurisdiction and mutual-recognition framework operating across all EU member states (with limited Danish opt-out) — structurally distinctive globally as the only supranational framework operating binding mutual-recognition of parental-responsibility decisions across 26 sovereign states without intermediate-court enforcement requirement, as the central jurisdictional framework for EU cross-border parental-abduction, parental-responsibility, and child-protection-measure recognition, and as the modern recast of the original Brussels II Regulation 1347/2000 (effective 1 March 2001), Brussels IIa Regulation 2201/2003 (effective 1 March 2005), and Brussels II ter Regulation 2019/1111 (applicable from 1 August 2022). Brussels II ter governs (i) parental-responsibility jurisdiction with primary-habitual-residence-of-child-jurisdiction default rule (Articles 7-9); (ii) priority rules vis-à-vis Hague Convention 1980 (where Hague applies, returns are governed by Hague + Brussels II ter integration framework with EU-Hague-Convention-1980 integration applied via 'mutual trust' principle); (iii) automatic mutual-recognition of parental-responsibility decisions (Articles 30-31); (iv) abolition of exequatur for parental-responsibility decisions; (v) specific procedural protections in international child-abduction returns including expedited 6-week return-decision timeline (Article 24) and direct application of EU 'mutual trust' principle. Brussels II ter operates within and integrates with the Hague Convention 1980 framework — applying Hague when both states are Hague parties but adding additional EU-specific procedural protections via Brussels II ter overlay. Apex court is the Court of Justice of the European Union (CJEU) for Brussels II ter interpretation questions referred via Article 267 TFEU preliminary-reference procedure. Brussels II ter applies to all EU member states except Denmark (which has opted out of EU judicial-cooperation framework). Brussels II ter is silent on 'parental alienation' as a statutory label, though CJEU jurisprudence and EU member-state apex courts have substantively addressed the concept under Brussels II ter framework via various national-court referrals.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Council Regulation (EU) 2019/1111 (Brussels II ter)",
+      "title": "Brussels II ter Regulation",
+      "year": 2019,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU Council Regulation of 25 June 2019 applicable from 1 August 2022 — most comprehensive supranational family-law cross-border framework."
+    },
+    {
+      "citation": "Council Regulation (EC) 2201/2003 (Brussels IIa)",
+      "title": "Brussels IIa Regulation",
+      "year": 2003,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "Previous EU Council Regulation of 27 November 2003 effective 1 March 2005 — predecessor to Brussels II ter."
+    },
+    {
+      "citation": "Council Regulation (EC) 1347/2000 (Original Brussels II)",
+      "title": "Original Brussels II Regulation",
+      "year": 2000,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "First EU Council Regulation of 29 May 2000 effective 1 March 2001 establishing EU cross-border family-law framework."
+    },
+    {
+      "citation": "Hague Convention 1980 Article 11 + Brussels II ter Article 22 (integration)",
+      "title": "Brussels II ter — Hague Integration",
+      "year": 2019,
+      "url": "https://www.hcch.net/",
+      "relevance": "Brussels II ter Article 22 establishing additional EU-specific procedural protections in Hague Convention 1980 returns including expedited 6-week return-decision timeline."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Justice of the European Union (CJEU)",
+      "seat": "Luxembourg",
+      "url": "https://curia.europa.eu/",
+      "role": "Apex EU court for Brussels II ter interpretation questions referred via Article 267 TFEU preliminary-reference procedure."
+    },
+    {
+      "name": "EU Member State apex courts (per Article 267 TFEU referrals)",
+      "seat": "Various EU Member State capitals",
+      "url": "",
+      "role": "EU Member State apex courts exercise Brussels II ter jurisdiction with referral rights to CJEU."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "EU Member State professional regulators per nationality framework",
+      "url": "",
+      "role": "EU Member State professional regulators apply via member-state framework."
+    }
+  ],
+  "anonymisation_convention": "Brussels II ter decisions are anonymised per CJEU and member-state court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1968,
+      "title": "Brussels Convention (foundational)",
+      "description": "Original Brussels Convention of 27 September 1968 — foundational EU cross-border-jurisdiction framework predating Brussels II."
+    },
+    {
+      "year": 2000,
+      "title": "Original Brussels II Regulation 1347/2000",
+      "description": "EU Council Regulation of 29 May 2000 effective 1 March 2001 — first EU cross-border family-law framework."
+    },
+    {
+      "year": 2003,
+      "title": "Brussels IIa Regulation 2201/2003",
+      "description": "EU Council Regulation of 27 November 2003 effective 1 March 2005 expanding Brussels II to comprehensive cross-border parental-responsibility framework."
+    },
+    {
+      "year": 2019,
+      "title": "Brussels II ter Regulation 2019/1111",
+      "description": "EU Council Regulation of 25 June 2019 applicable from 1 August 2022 — most comprehensive recast of cross-border family-law framework."
+    },
+    {
+      "year": 2022,
+      "title": "Brussels II ter applicable",
+      "description": "Brussels II ter Regulation applicable from 1 August 2022 — current operational framework."
+    }
+  ],
+  "structural_findings": [
+    "Brussels II ter Regulation operates a supranational meta-legal-system EU framework — places Brussels II ter in the unique EU-supranational-family-law cluster.",
+    "Only supranational framework operating binding mutual-recognition of parental-responsibility decisions across 26 sovereign states without intermediate-court enforcement requirement is structurally distinctive globally.",
+    "Most comprehensive cross-border family-law-jurisdiction framework operating across multiple sovereign states is structurally distinctive globally.",
+    "Brussels II ter expedited 6-week return-decision timeline (Article 24) is structurally distinctive globally — only supranational framework with mandatory expedited international-child-abduction return timeline below Hague Convention 1980's 6-week guideline.",
+    "Brussels II ter abolition of exequatur for parental-responsibility decisions is structurally distinctive globally — only multi-state framework with abolition-of-exequatur for cross-border family-law recognition.",
+    "Brussels II ter integration with Hague Convention 1980 via overlay framework (where Hague applies, returns governed by Hague + Brussels II ter integration) is structurally distinctive globally.",
+    "CJEU Article 267 TFEU preliminary-reference procedure for Brussels II ter interpretation is structurally distinctive globally — only modern supranational apex-court framework for multi-state family-law jurisdiction.",
+    "Denmark opt-out from EU judicial-cooperation framework is structurally distinctive within EU family-law cluster.",
+    "Brussels II ter 'mutual trust' principle for cross-border family-law recognition is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:france",
+    "jurisdiction:germany",
+    "jurisdiction:italy",
+    "jurisdiction:spain",
+    "jurisdiction:netherlands",
+    "jurisdiction:poland",
+    "jurisdiction:belgium",
+    "jurisdiction:denmark",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "EUR-Lex Brussels II ter Regulation",
+      "url": "https://eur-lex.europa.eu/eli/reg/2019/1111/oj",
+      "publisher": "European Union",
+      "language": "en"
+    },
+    {
+      "title": "Court of Justice of the European Union",
+      "url": "https://curia.europa.eu/",
+      "publisher": "European Union",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Brussels II ter Regulation jurisdiction sidecar — supranational meta-legal-system EU cross-border family-law-jurisdiction framework (Council Regulation (EU) 2019/1111 applicable 1 August 2022 + predecessor Brussels IIa 2003 + Original Brussels II 2000 + integration with Hague Convention 1980 via overlay framework + CJEU Article 267 TFEU preliminary-reference procedure + Denmark opt-out). Only supranational framework operating binding mutual-recognition of parental-responsibility decisions across 26 sovereign states without intermediate-court enforcement requirement globally + most comprehensive cross-border family-law-jurisdiction framework + expedited 6-week return-decision timeline + abolition of exequatur for parental-responsibility decisions + 'mutual trust' principle for cross-border family-law recognition.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins supranational + EU-supranational-family-law-framework cluster + binding-mutual-recognition-parental-responsibility-decisions-26-sovereign-states-globally-distinctive + 6-week-expedited-return-decision-timeline + abolition-of-exequatur + Hague-Convention-1980-integration-overlay + CJEU-Article-267-TFEU-preliminary-reference + Denmark-opt-out + mutual-trust-principle clusters within the corpus."
+  ]
+}

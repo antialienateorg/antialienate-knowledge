@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "id": "central-african-republic",
+  "name": "Central African Republic (CAR / République Centrafricaine)",
+  "jurisdiction_code": "CF",
+  "legal_system": "civil-law",
+  "language": ["fr", "sg"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Central African Republic is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1997 (Code de la Famille, Law 97.013) drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 269-301. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. CAR is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. CAR is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1997 (Law 97.013) arts. 269-301",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1997,
+      "url": "https://www.cc-rca.cf/",
+      "relevance": "Federal Family Code drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 269-301 govern parental authority and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (Cour de Cassation)",
+      "seat": "Bangui",
+      "url": "https://www.cc-rca.cf/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Cour Constitutionnelle)",
+      "seat": "Bangui",
+      "url": "https://www.cc-rca.cf/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, CAR",
+      "url": "https://www.sante.cf/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "CAR family-court decisions are anonymised per Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 1997,
+      "title": "Family Code 1997 (Law 97.013)",
+      "description": "Federal Family Code enacted drawing on French civil-law substantive heritage with codification of customary-law marriage provisions."
+    }
+  ],
+  "structural_findings": [
+    "CAR operates a French-civil-law family-law framework with codification of customary-law marriage provisions — places CAR in the Central African Francophone civil-law cluster with French-derivative substantive heritage.",
+    "Bilingual official-language framework (French + Sango) reflects post-independence language-policy heritage.",
+    "Non-Hague Convention status places CAR in the non-Hague Central African cluster."
+  ],
+  "references": [
+    "jurisdiction:chad",
+    "jurisdiction:cameroon",
+    "jurisdiction:republic-of-the-congo",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Constitutional Court of CAR",
+      "url": "https://www.cc-rca.cf/",
+      "publisher": "Constitutional Court",
+      "language": "fr,sg"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.sante.cf/",
+      "publisher": "Ministry of Health",
+      "language": "fr,sg"
+    }
+  ],
+  "editorial_notes": [
+    "Central African Republic jurisdiction sidecar — civil-law Central African Francophone (Family Code 1997 + customary-law-codified + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central African + Francophone + civil-law + French-derivative + customary-law-codified + non-Hague Convention clusters within the corpus."
+  ]
+}

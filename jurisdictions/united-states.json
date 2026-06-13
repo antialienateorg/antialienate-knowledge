@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.0",
+  "id": "united-states",
+  "name": "United States",
+  "jurisdiction_code": "US",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "The United States has no federal family-court jurisdiction: parental alienation is litigated and clinically practiced almost entirely at the state level under state Family Codes (California §§3010 et seq., Texas Chapters 153/263, New York DRL/FCA, Florida Chapter 61, Massachusetts Chapter 208). State psychology boards regulate clinical practice with substantial variation; AFCC Model Standards for Child Custody Evaluations (2006, updated) function as the de facto national practice standard. The DSM-5-TR CAPRD relational V/Z-code (Bernet, Wamboldt & Narrow 2016 JAACAP framework paper) is the most-cited US institutional reference. Tsimhoni v Eibschitz-Tsimhoni (Michigan, 2015) and In re Marriage of Humphries (Colorado COA, 2024) are anchor case studies. Regulatory disclosure: Randy Rand EdD (Family Bridges co-developer) California Board of Psychology license inactive since 2009 following disciplinary action; preserved in excluded[].",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "varies-by-region"
+  },
+  "statutory_framework": [
+    {
+      "citation": "California Family Code §§ 3010, 3011, 3020-3032",
+      "title": "California Family Code — joint custody, best-interests standard, family-violence factor",
+      "year": 1992,
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=FAM",
+      "relevance": "California substantive Family Code. §3011 best-interest factors including history of family violence (§3011(a)(2)) and contact with both parents (§3011(a)(4)) plus §3044 rebuttable presumption against custody/joint custody for perpetrator of DV within prior 5 years. The substantive California hook for PA-adjacent fact-pattern adjudication."
+    },
+    {
+      "citation": "Texas Family Code Chapter 153 (Conservatorship, Possession, Access)",
+      "title": "Texas Family Code — conservatorship and possession",
+      "year": 1995,
+      "url": "https://statutes.capitol.texas.gov/?link=FA",
+      "relevance": "Texas substantive Family Code Chapter 153. §153.002 best interest of the child standard; §153.131 parental preference (rebuttable presumption appointing parents as joint managing conservators); §153.133 joint managing conservatorship if in best interest. Texas operates a conservatorship vs custody terminology distinct from common-law jurisdictions but functionally equivalent for PA-adjacent fact-patterns."
+    },
+    {
+      "citation": "New York Domestic Relations Law § 240 + Family Court Act Article 6",
+      "title": "New York Domestic Relations Law / Family Court Act — custody and visitation",
+      "year": 1962,
+      "url": "https://www.nysenate.gov/legislation/laws/DOM/240",
+      "relevance": "New York substantive matrimonial / domestic-relations statute (DRL §240 custody and visitation) plus Family Court Act Article 6 (custody and visitation proceedings in Family Court). Tropea v Tropea 87 NY2d 727 (1996) established the BIOC relocation framework. PA-adjacent fact-patterns are decided here under BIOC standard."
+    },
+    {
+      "citation": "Florida Statutes Chapter 61 (Dissolution of Marriage)",
+      "title": "Florida Statutes Chapter 61 — Dissolution of Marriage; Support; Time-Sharing",
+      "year": 2008,
+      "url": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0061/0061ContentsIndex.html",
+      "relevance": "Florida substantive family-law statute. §61.13 parenting plan + parental responsibility + time-sharing schedule + best-interest factors. §61.13(3)(a)-(t) twenty-factor enumerated BIOC test. Florida operates a time-sharing terminology distinct from custody but functionally equivalent for PA-adjacent fact-patterns."
+    },
+    {
+      "citation": "Massachusetts General Laws Chapter 208 §31",
+      "title": "Massachusetts General Laws Chapter 208 §31 — custody of children",
+      "year": 1986,
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter208/Section31",
+      "relevance": "Massachusetts substantive divorce statute. §31 sole / shared legal custody, sole / shared physical custody, best-interests standard. Substantive Massachusetts hook for PA-adjacent fact-patterns."
+    },
+    {
+      "citation": "Michigan Compiled Laws § 722.23 (Best Interests of the Child) + Friend of the Court Act",
+      "title": "Michigan Child Custody Act § 722.23 — best interests factor list + Friend of the Court Act",
+      "year": 1970,
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-23",
+      "relevance": "Michigan substantive Child Custody Act. §722.23 twelve-factor BIOC test. Michigan Friend of the Court Act establishes Friend of the Court office attached to each circuit court — the Michigan institutional analogue to Ontario OCL / England Cafcass / South Africa Family Advocate. Tsimhoni v Eibschitz-Tsimhoni 2015 was litigated under this statutory framework."
+    },
+    {
+      "citation": "Colorado Revised Statutes § 14-10-124",
+      "title": "Colorado Revised Statutes — Allocation of Parental Responsibilities",
+      "year": 1998,
+      "url": "https://leg.colorado.gov/sites/default/files/images/olls/crs2023-title-14.pdf",
+      "relevance": "Colorado substantive parental-responsibilities statute. §14-10-124 best interest of the child factors including the ability of each party to encourage the sharing of love, affection, and contact between the child and the other party — the explicit Colorado statutory hook for PA-adjacent reasoning engaged in In re Marriage of Humphries 2024 COA 92."
+    },
+    {
+      "citation": "Indian Child Welfare Act of 1978 (ICWA, 25 USC §§ 1901-1963)",
+      "title": "Indian Child Welfare Act — federal tribal-jurisdiction statute",
+      "year": 1978,
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title25/html/USCODE-2022-title25-chap21.htm",
+      "relevance": "Federal statute creating tribal-court jurisdiction over child-welfare proceedings involving Indian children. Constitutes the one substantive federal family-law statute (alongside Hague Convention implementing statutes). PA-adjacent fact-patterns involving Indian children may be transferred to tribal court under §1911."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the United States (SCOTUS)",
+      "url": "https://www.supremecourt.gov/",
+      "key_decisions": [
+        {
+          "caption": "Federal apex court. Has addressed parental fundamental rights in Troxel v Granville 530 US 57 (2000) (third-party visitation) and Santosky v Kramer 455 US 745 (1982) (parental rights termination) but has NOT issued a parental-alienation-construct-engaging decision. PA construct adjudication has not reached the federal apex.",
+          "year": 2000,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "State Supreme Courts (50 + DC) — family-law appellate jurisdiction",
+      "url": "https://www.ncsc.org/court-statistics",
+      "key_decisions": [
+        {
+          "caption": "Tropea v Tropea 87 NY2d 727 (1996) — New York Court of Appeals — relocation BIOC framework subsequently applied in PA-adjacent New York fact-patterns. No state supreme court has issued a PA-construct-disqualifying decision comparable to Italian Cass. 9691/2022 or Spanish STS 519/2017.",
+          "year": 1996,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "State Intermediate Appellate Courts (Court of Appeals / Appellate Division / etc.)",
+      "url": "https://www.ncsc.org/",
+      "key_decisions": [
+        {
+          "caption": "In re Marriage of Humphries 2024 COA 92 — Colorado Court of Appeals — PA-engaging appellate decision applying CRS §14-10-124 BIOC factor (ability to encourage contact). Substantive Colorado recognition-line anchor.",
+          "case_study_ref": "in-re-marriage-of-humphries-2024-coa-92",
+          "year": 2024,
+          "stance": "recognition"
+        }
+      ]
+    },
+    {
+      "name": "State Circuit / Superior / Family Courts — first-instance trial-level",
+      "url": "https://www.ncsc.org/",
+      "key_decisions": [
+        {
+          "caption": "Tsimhoni v Eibschitz-Tsimhoni (Oakland County Michigan Family Division, 2015) — high-profile state-trial-level PA case (Sankas Detention referee Brennan) — operational engagement with the Michigan Friend of the Court framework + §722.23 BIOC twelve-factor test. Cross-link case study.",
+          "case_study_ref": "tsimhoni-v-eibschitz-tsimhoni-michigan-2015",
+          "year": 2015,
+          "stance": "recognition"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "American Psychological Association (APA)",
+      "url": "https://www.apa.org/",
+      "position_statement": "Federal voluntary professional association. APA is NOT a regulator. APA Resolution on Male Violence (1996, reaffirmed), APA 2019 Resolution on Maltreatment of Children, and APA 2022 Guidelines on Psychological Practice in Health Care Delivery Systems produce an APA posture that recognises relational distress and child-maltreatment frameworks but has NOT endorsed PA as a stand-alone diagnostic entity. APA has not issued a PA-specific resolution."
+    },
+    {
+      "name": "American Academy of Child and Adolescent Psychiatry (AACAP)",
+      "url": "https://www.aacap.org/",
+      "position_statement": "Federal professional society of child and adolescent psychiatrists. AACAP Practice Parameter for Child Custody Evaluation (2011) engages alienation behaviours within a differential-diagnosis frame without endorsing PAS-as-syndrome. No subsequent AACAP PA-specific position update located."
+    },
+    {
+      "name": "State Psychology Licensing Boards (50 + DC)",
+      "url": "https://www.asppb.net/",
+      "position_statement": "Each state operates a separate statutory psychology board. ASPPB (Association of State and Provincial Psychology Boards) provides national coordination and the EPPP licensing examination but is not itself a regulator. No state psychology board has issued a PA-construct-specific scope-of-practice notice. Regulator silence on the construct is the AU/NL/BE/IN/NZ/CA-parallel pattern at state-by-state level."
+    },
+    {
+      "name": "California Board of Psychology (CABOP)",
+      "url": "https://www.psychology.ca.gov/",
+      "position_statement": "California statutory psychology regulator under Business and Professions Code §2900 et seq. Operationally significant: CABOP recorded Randy Rand EdD's psychology license as inactive since 2009 following disciplinary action (gross negligence, unprofessional conduct, dishonesty). The Family Bridges programme subsequently operated as an 'educational workshop' outside CABOP oversight. Canonical US regulatory disclosure for reunification-camp credentials audit."
+    },
+    {
+      "name": "Texas State Board of Examiners of Psychologists (TSBEP)",
+      "url": "https://www.tsbep.texas.gov/",
+      "position_statement": "Texas statutory psychology regulator. No PA-specific position statement issued."
+    },
+    {
+      "name": "New York State Office of the Professions — Board for Psychology",
+      "url": "http://www.op.nysed.gov/prof/psych/",
+      "position_statement": "New York statutory psychology regulator under State Education Department. No PA-specific position statement issued."
+    },
+    {
+      "name": "Association of Family and Conciliation Courts (AFCC)",
+      "url": "https://www.afccnet.org/",
+      "position_statement": "International voluntary association of family-court professionals. AFCC Model Standards for Child Custody Evaluations (2006, updated 2022) function as the de facto national US practice standard for custody evaluation absent a federal regulator. AFCC Guidelines for Examining Intimate Partner Violence (2016) provide DV-informed practice guidance. AFCC's institutional position on PA is differential-diagnosis-oriented rather than recognition-anchored."
+    },
+    {
+      "name": "American Academy of Matrimonial Lawyers (AAML)",
+      "url": "https://www.aaml.org/",
+      "position_statement": "Voluntary professional academy of US matrimonial lawyers. No PA-specific institutional position; engages PA via individual-member commentary and CLE programming."
+    },
+    {
+      "name": "Friend of the Court (FOC) — Michigan + state analogues",
+      "url": "https://www.michigan.gov/courts/administration/scao/department-of-judicial-services/friend-of-the-court",
+      "position_statement": "Michigan Friend of the Court Act establishes FOC office attached to each circuit court — investigates, mediates, makes recommendations on custody / parenting time / support. Michigan FOC is the principal US institutional vehicle most directly analogous to Ontario OCL / England Cafcass / SA Family Advocate. Other states operate variant institutional anchors (Texas Domestic Relations Office; California Family Court Services)."
+    }
+  ],
+  "anonymisation_convention": "US state-court family-law decisions vary significantly: California / New York routinely publish full party names (e.g., Tropea v Tropea; Humphries v Humphries); Michigan / Texas use surname-only or initials at trial level but full names at appellate. Children are typically anonymised by initial or pseudonym in published opinions. No federal anonymisation regime equivalent to Australia FLA s.121 exists. Adult party identification in published US family-court decisions is the norm — substantially more permissive than UK / AU / SA family-court reporting conventions. Federal HIPAA confidentiality applies to clinical records but not to court-ordered evaluations.",
+  "key_developments": [
+    {
+      "year": 1970,
+      "description": "Michigan Child Custody Act §722.23 — twelve-factor best interests test; Michigan Friend of the Court Act establishes FOC institutional vehicle.",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-23"
+    },
+    {
+      "year": 1978,
+      "description": "Indian Child Welfare Act of 1978 (ICWA, 25 USC §§1901-1963) — federal tribal-court jurisdiction over Indian children child-welfare proceedings.",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2022-title25/html/USCODE-2022-title25-chap21.htm"
+    },
+    {
+      "year": 1985,
+      "description": "Richard Gardner — coinage of 'Parental Alienation Syndrome' (Cresskill NJ private publication; Creative Therapeutics 1992). Foundational PAS-construct introduction subsequently anchoring the recognition-camp US clinical literature.",
+      "url": "https://www.amazon.com/Parental-Alienation-Syndrome-differentiation-fabricated/dp/0933812426"
+    },
+    {
+      "year": 1996,
+      "description": "Tropea v Tropea 87 NY2d 727 (1996) — New York Court of Appeals — relocation BIOC framework.",
+      "url": "https://law.justia.com/cases/new-york/court-of-appeals/1996/87-n-y-2d-727-0.html"
+    },
+    {
+      "year": 2000,
+      "description": "Troxel v Granville 530 US 57 (2000) — Supreme Court of the United States — fundamental parental-rights frame for third-party visitation.",
+      "url": "https://supreme.justia.com/cases/federal/us/530/57/"
+    },
+    {
+      "year": 2006,
+      "description": "AFCC Model Standards for Child Custody Evaluations (2006, updated 2022) — de facto national US practice standard for custody evaluation.",
+      "url": "https://www.afccnet.org/"
+    },
+    {
+      "year": 2011,
+      "description": "AACAP Practice Parameter for Child Custody Evaluation (2011) — engages alienation behaviours within differential-diagnosis frame without endorsing PAS-as-syndrome.",
+      "url": "https://www.aacap.org/"
+    },
+    {
+      "year": 2013,
+      "description": "DSM-5 — Child Affected by Parental Relationship Distress (CAPRD) V/Z-code (V995.51 / Z62.898) introduced.",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm"
+    },
+    {
+      "year": 2015,
+      "description": "Tsimhoni v Eibschitz-Tsimhoni (Oakland County Michigan Family Division, 2015) — high-profile state-trial-level PA case engaging the Michigan FOC framework and §722.23 BIOC twelve-factor test.",
+      "url": "https://www.canlii.org/"
+    },
+    {
+      "year": 2016,
+      "description": "Bernet, Wamboldt & Narrow (2016) JAACAP — DSM-5 CAPRD framework paper. Most-cited US institutional reference in the PA debate.",
+      "url": "https://www.jaacap.org/"
+    },
+    {
+      "year": 2016,
+      "description": "AFCC Guidelines for Examining Intimate Partner Violence (2016) — DV-informed custody-evaluation practice guidance.",
+      "url": "https://www.afccnet.org/"
+    },
+    {
+      "year": 2019,
+      "description": "APA Resolution on Maltreatment of Children — APA-level recognition of child-maltreatment frameworks without PA-as-syndrome endorsement.",
+      "url": "https://www.apa.org/"
+    },
+    {
+      "year": 2022,
+      "description": "DSM-5-TR — CAPRD V995.51 / Z62.898 retained; APA 2022 Guidelines on Psychological Practice in Health Care Delivery Systems.",
+      "url": "https://www.psychiatry.org/"
+    },
+    {
+      "year": 2024,
+      "description": "In re Marriage of Humphries 2024 COA 92 — Colorado Court of Appeals — appellate decision applying CRS §14-10-124 BIOC factor (ability to encourage contact). Substantive recent Colorado PA-engaging appellate authority.",
+      "url": "https://www.coloradojudicial.gov/"
+    }
+  ],
+  "structural_findings": [
+    "NO FEDERAL FAMILY-COURT JURISDICTION: PA is litigated almost entirely at the state level under state Family Codes with substantial substantive and procedural variation. The federal exceptions are ICWA (Indian children) and Hague Convention implementing statutes (international parental abduction). Federalist fragmentation is the defining US structural feature distinguishing the US from every other v2 jurisdiction.",
+    "STATE-BY-STATE REGULATOR FRAGMENTATION: 50 + DC separate state psychology boards. ASPPB provides EPPP coordination but is not itself a regulator. Federal CPA-analogue does not exist. No single national-level credentialing test for PA evaluators; AFCC Model Standards function as the de facto national practice standard absent a federal regulator.",
+    "DSM-5-TR CAPRD V995.51 / Z62.898 (Child Affected by Parental Relationship Distress) is the load-bearing US institutional reference — relational V/Z-code (not a diagnosis of the child as 'alienated'). Bernet, Wamboldt & Narrow (2016) JAACAP framework paper is the most-cited US institutional reference in the PA debate. International parallel is ICD-11 QE52.0 caregiver-child relationship problem and contested QE52.01 psychological-abuse framing.",
+    "APA INSTITUTIONAL POSTURE: APA Resolution on Male Violence (1996, reaffirmed) + APA 2019 Resolution on Maltreatment of Children + APA 2022 Guidelines together produce a posture that recognises relational distress and child maltreatment frameworks but has NOT endorsed PA as a stand-alone diagnostic entity. AACAP Practice Parameter 2011 similarly engages alienation behaviours within differential-diagnosis frame without endorsing PAS-as-syndrome.",
+    "INSTITUTIONAL ANCHORS: AFCC (Model Standards 2006/2022 + IPV Guidelines 2016) is the de facto national practice-standard body. AAML voluntary academy. State-level Friend of the Court / Family Court Services analogues — Michigan FOC is the principal US institutional vehicle most directly analogous to Ontario OCL / England Cafcass.",
+    "REGULATORY DISCLOSURE — RANDY RAND EdD: CABOP recorded psychology license as inactive since 2009 following disciplinary action (gross negligence, unprofessional conduct, dishonesty). Family Bridges programme subsequently operated as 'educational workshop' outside CABOP oversight. Canonical US regulatory disclosure for reunification-camp credentials audit. Preserved in us.json excluded[]. License status verifiable at CA DCA license search.",
+    "ANCHOR CASE STUDIES: Tsimhoni v Eibschitz-Tsimhoni (Michigan 2015) operationalises §722.23 BIOC + Michigan FOC framework; In re Marriage of Humphries 2024 COA 92 operationalises CRS §14-10-124 BIOC encourage-contact factor — substantive Colorado recognition-line appellate authority. No US apex SCOTUS or state-supreme-court PA-construct adjudication.",
+    "NO SCOTUS PA-CONSTRUCT DECISION: SCOTUS has addressed parental fundamental rights in Troxel v Granville (2000) and Santosky v Kramer (1982) but has not engaged the PA construct directly. US clusters with AU + NL + BE + DE + NZ + CA in 'no-apex-PA-position' bloc — distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).",
+    "ADULT-PARTY NAMING in published US family-court decisions is the norm — substantially MORE PERMISSIVE than UK / AU / SA family-court reporting conventions. No federal anonymisation regime equivalent to Australia FLA s.121 exists. This produces a distinctively rich named-evaluator case-law base in US PA litigation by comparison with other common-law jurisdictions."
+  ],
+  "references": [
+    "case-study:tsimhoni-v-eibschitz-tsimhoni-michigan-2015",
+    "case-study:in-re-marriage-of-humphries-2024-coa-92",
+    "practitioner:us.bernet-william",
+    "practitioner:us.warshak-richard",
+    "practitioner:us.lorandos-demosthenes",
+    "practitioner:us.fidler-barbara-jo",
+    "practitioner:us.afcc",
+    "practitioner:us.aacap",
+    "practitioner:us.apa",
+    "jurisdiction:canada",
+    "jurisdiction:england-and-wales"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of the United States",
+      "url": "https://www.supremecourt.gov/",
+      "publisher": "Supreme Court of the United States",
+      "language": "en"
+    },
+    {
+      "title": "Cornell Legal Information Institute (LII) — state statutes",
+      "url": "https://www.law.cornell.edu/states/",
+      "publisher": "Cornell Law School",
+      "language": "en"
+    },
+    {
+      "title": "National Center for State Courts (NCSC)",
+      "url": "https://www.ncsc.org/",
+      "publisher": "NCSC",
+      "language": "en"
+    },
+    {
+      "title": "Association of Family and Conciliation Courts (AFCC)",
+      "url": "https://www.afccnet.org/",
+      "publisher": "AFCC",
+      "language": "en"
+    },
+    {
+      "title": "American Psychological Association (APA)",
+      "url": "https://www.apa.org/",
+      "publisher": "APA",
+      "language": "en"
+    },
+    {
+      "title": "American Academy of Child and Adolescent Psychiatry (AACAP)",
+      "url": "https://www.aacap.org/",
+      "publisher": "AACAP",
+      "language": "en"
+    },
+    {
+      "title": "Association of State and Provincial Psychology Boards (ASPPB)",
+      "url": "https://www.asppb.net/",
+      "publisher": "ASPPB",
+      "language": "en"
+    },
+    {
+      "title": "California Department of Consumer Affairs — license search",
+      "url": "https://search.dca.ca.gov/",
+      "publisher": "California DCA",
+      "language": "en"
+    },
+    {
+      "title": "DSM-5-TR — Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision",
+      "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+      "publisher": "American Psychiatric Association",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: state Family Codes via Cornell LII / state legislatures cited first; SCOTUS + state appellate courts for case-law; APA + AACAP + AFCC for institutional positions; CA DCA license search for regulatory disclosure verification (Randy Rand EdD canonical example).",
+    "US is treated as a federal jurisdiction; six high-volume PA-litigation states are statutorily foregrounded (California / Texas / New York / Florida / Massachusetts / Michigan / Colorado); smaller states referenced where institutionally relevant.",
+    "DSM-5-TR CAPRD V995.51 / Z62.898 is foregrounded as the load-bearing US institutional reference; Bernet et al. 2016 JAACAP framework paper noted as most-cited US PA-debate reference.",
+    "Adult-party naming in published US family-court decisions is the norm and is recognised in anonymisation_convention; this distinguishes US case-law from UK / AU / SA reporting conventions and produces a distinctively rich named-evaluator base for PA litigation.",
+    "Regulatory disclosure (Randy Rand EdD CABOP) preserved as canonical US regulator-trail example with verifiable CA DCA license search citation."
+  ]
+}

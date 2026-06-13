@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "id": "un-convention-reduction-of-statelessness",
+  "name": "UN Convention on the Reduction of Statelessness 1961 + UN Convention relating to the Status of Stateless Persons 1954",
+  "jurisdiction_code": "URS",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Convention on the Reduction of Statelessness 1961 + UN Convention relating to the Status of Stateless Persons 1954 (popularly the Statelessness Conventions / formally Convention on the Reduction of Statelessness adopted 30 August 1961 + Convention relating to the Status of Stateless Persons adopted 28 September 1954) is a global supranational meta-framework statelessness binding-treaty duo adopted by the UN General Assembly + UN Conference of Plenipotentiaries — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on statelessness framework (Convention 1961 + Convention 1954 framework — Convention 1954 adopted 28 September 1954 by UN Conference of Plenipotentiaries on the Status of Stateless Persons + effective 6 June 1960 + Convention 1961 adopted 30 August 1961 by UN Conference of Plenipotentiaries on the Elimination or Reduction of Future Statelessness + effective 13 December 1975 — formal universal multilateral binding-treaty duo establishing comprehensive statelessness framework, distinct from rest-of-modern-international-human-rights frameworks which operate on broader general-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-statelessness-specific framework), as the central jurisdiction of the formal Convention 1961 Article 1 children's-nationality-at-birth framework (Convention 1961 Article 1 framework providing 'A Contracting State shall grant its nationality to a person born in its territory who would otherwise be stateless' — formal foundational children's-nationality-at-birth framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal children's-nationality-at-birth framework, with substantial relevance to PA framework via formal cross-border children-of-stateless-parents framework + children-of-different-citizenship-parents framework), as the central jurisdiction of the formal Convention 1954 Article 12 personal-status framework (Convention 1954 Article 12 framework providing 'The personal status of a stateless person shall be governed by the law of the country of his domicile' — formal foundational personal-status framework for stateless persons including formal marriage + family-law + children's-rights framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal personal-status framework for stateless persons), and as the central jurisdiction of the formal UNHCR Statelessness Mandate framework (UNHCR Statelessness Mandate established by UN General Assembly Resolutions 50/152 1995 + 61/137 2006 — formal UNHCR Statelessness Mandate framework operating identification + prevention + reduction + protection of stateless persons framework, structurally distinctive globally as the only modern UN agency framework with formal Statelessness Mandate). The Convention 1961 is binding upon 81 state parties as of 2026 + Convention 1954 is binding upon 99 state parties as of 2026 — substantial state party + non-state-party framework reflecting growing but limited adoption framework. The Conventions are silent on 'parental alienation' as a statutory label, though formal Convention 1961 Article 1 children's-nationality-at-birth + Convention 1954 Article 12 personal-status frameworks operate substantial intersection with parental-alienation framework via formal cross-border children-of-different-citizenship-parents framework. The UN High Commissioner for Refugees UNHCR is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The Statelessness Conventions are silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention on the Reduction of Statelessness 1961",
+      "title": "Convention 1961",
+      "year": 1975,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Reduction of Statelessness adopted 30 August 1961 by UN Conference of Plenipotentiaries on the Elimination or Reduction of Future Statelessness + effective 13 December 1975 — formal universal multilateral binding-treaty framework establishing comprehensive statelessness reduction framework."
+    },
+    {
+      "citation": "UN Convention relating to the Status of Stateless Persons 1954",
+      "title": "Convention 1954",
+      "year": 1960,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention relating to the Status of Stateless Persons adopted 28 September 1954 by UN Conference of Plenipotentiaries on the Status of Stateless Persons + effective 6 June 1960 — formal universal multilateral binding-treaty framework establishing comprehensive status of stateless persons framework."
+    },
+    {
+      "citation": "Convention 1961 Article 1 (Children's Nationality at Birth)",
+      "title": "Convention 1961 Article 1",
+      "year": 1975,
+      "url": "https://www.un.org/",
+      "relevance": "Convention 1961 Article 1 framework providing children's-nationality-at-birth — formal foundational children's-nationality-at-birth framework."
+    },
+    {
+      "citation": "Convention 1954 Article 12 (Personal Status)",
+      "title": "Convention 1954 Article 12",
+      "year": 1960,
+      "url": "https://www.un.org/",
+      "relevance": "Convention 1954 Article 12 framework providing personal-status of stateless persons — formal foundational personal-status framework."
+    },
+    {
+      "citation": "UNHCR Statelessness Mandate Framework",
+      "title": "UNHCR Statelessness Mandate",
+      "year": 2006,
+      "url": "https://www.unhcr.org/",
+      "relevance": "UNHCR Statelessness Mandate established by UN General Assembly Resolutions 50/152 1995 + 61/137 2006 — formal UNHCR Statelessness Mandate framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN High Commissioner for Refugees (UNHCR)",
+      "seat": "Geneva",
+      "url": "https://www.unhcr.org/",
+      "role": "Apex monitoring framework body for Statelessness Conventions."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNHCR Secretariat",
+      "url": "https://www.unhcr.org/",
+      "role": "Statelessness Conventions implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Statelessness Conventions-related individual communications are anonymised per national-level court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "UDHR Article 15",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 + UDHR Article 15 framework on right to nationality — foundational framework underlying Statelessness Conventions."
+    },
+    {
+      "year": 1954,
+      "title": "Convention 1954 adopted",
+      "description": "UN Convention relating to the Status of Stateless Persons adopted 28 September 1954 by UN Conference of Plenipotentiaries on the Status of Stateless Persons — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 1960,
+      "title": "Convention 1954 enters force",
+      "description": "UN Convention relating to the Status of Stateless Persons entered force 6 June 1960 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1961,
+      "title": "Convention 1961 adopted",
+      "description": "UN Convention on the Reduction of Statelessness adopted 30 August 1961 by UN Conference of Plenipotentiaries on the Elimination or Reduction of Future Statelessness — formal universal multilateral binding-treaty framework."
+    },
+    {
+      "year": 1975,
+      "title": "Convention 1961 enters force",
+      "description": "UN Convention on the Reduction of Statelessness entered force 13 December 1975 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1995,
+      "title": "UNHCR Statelessness Mandate established",
+      "description": "UN General Assembly Resolution 50/152 of 21 December 1995 — formal UNHCR Statelessness Mandate framework established."
+    },
+    {
+      "year": 2014,
+      "title": "#IBelong Campaign",
+      "description": "UNHCR #IBelong Campaign launched 4 November 2014 — formal 10-year UNHCR campaign to end statelessness by 2024."
+    }
+  ],
+  "structural_findings": [
+    "Statelessness Conventions operate a supranational universal multilateral binding-treaty duo framework — places Statelessness Conventions in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on statelessness framework is structurally distinctive globally — formal-statelessness-specific framework.",
+    "Central jurisdiction of formal Convention 1961 Article 1 children's-nationality-at-birth framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal children's-nationality-at-birth framework.",
+    "Central jurisdiction of formal Convention 1954 Article 12 personal-status framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal personal-status framework for stateless persons.",
+    "Central jurisdiction of formal UNHCR Statelessness Mandate framework is structurally distinctive globally — only modern UN agency framework with formal Statelessness Mandate.",
+    "81 state party + 99 state party ratification framework is structurally distinctive globally — substantial state party + non-state-party framework reflecting growing but limited adoption framework.",
+    "1948 UDHR Article 15 + 1954 Convention + 1960 Convention 1954 entry into force + 1961 Convention + 1975 Convention 1961 entry into force + 1995 UNHCR Statelessness Mandate + 2014 #IBelong Campaign statelessness-framework-development sequence is structurally distinctive globally.",
+    "Convention 1961 Article 1 children's-nationality-at-birth + Convention 1954 Article 12 personal-status PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UNHCR — Statelessness",
+      "url": "https://www.unhcr.org/statelessness",
+      "publisher": "UNHCR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Statelessness Conventions jurisdiction sidecar — supranational global statelessness universal multilateral binding-treaty duo meta-framework (Convention 1961/1975 + Convention 1954/1960 + Convention 1961 Article 1 Children's Nationality at Birth + Convention 1954 Article 12 Personal Status + UNHCR Statelessness Mandate 1995 + 2014 #IBelong Campaign + UDHR Article 15). Only modern universal multilateral binding-treaty framework operating specifically on statelessness framework globally + central jurisdiction of formal Convention 1961 Article 1 children's-nationality-at-birth framework + central jurisdiction of formal Convention 1954 Article 12 personal-status framework + central jurisdiction of formal UNHCR Statelessness Mandate framework + 81 state party + 99 state party ratification framework + 1948 UDHR Article 15 + 1954 Convention + 1960 Convention 1954 entry into force + 1961 Convention + 1975 Convention 1961 entry into force + 1995 UNHCR Statelessness Mandate + 2014 #IBelong Campaign statelessness-framework-development sequence + Convention 1961 Article 1 children's-nationality-at-birth + Convention 1954 Article 12 personal-status PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Convention 1961 Article 1 children's-nationality-at-birth + Convention 1954 Article 12 personal-status frameworks operate substantial intersection with parental-alienation framework via formal cross-border children-of-different-citizenship-parents framework.",
+    "Joins global + supranational + universal-multilateral-statelessness-binding-treaty cluster + Statelessness-Conventions-only-universal-statelessness-binding-treaty-duo-globally-distinctive + Convention-1961-Article-1-Children-Nationality-at-Birth + Convention-1954-Article-12-Personal-Status + UNHCR-Statelessness-Mandate-1995-2006 + 2014-IBelong-Campaign + 81-state-party-1961-99-state-party-1954-ratification + UDHR-Article-15-foundational + cross-border-children-of-different-citizenship-parents-PA-intersection clusters within the corpus."
+  ]
+}

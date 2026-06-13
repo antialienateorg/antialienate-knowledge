@@ -1,0 +1,182 @@
+{
+  "schema_version": "1.0",
+  "id": "afcfta",
+  "name": "AfCFTA 2018 (African Continental Free Trade Area)",
+  "jurisdiction_code": "AFC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "ar", "pt", "es", "sw"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Agreement Establishing the African Continental Free Trade Area (AfCFTA) is a regional supranational meta-framework foundational-AfCFTA-treaty framework adopted by the 44 founding African states in Kigali — structurally distinctive globally as the largest free trade area globally by member states + only modern African continental supranational binding-treaty framework operating on formal continental free-trade framework (AfCFTA Agreement signed 21 March 2018 in Kigali Rwanda by 44 founding African states + effective 30 May 2019 + trading-operational 1 January 2021 — formal foundational AfCFTA treaty framework establishing comprehensive African continental free-trade framework, distinct from rest-of-modern-regional-treaty frameworks which operate on regional or sub-continental scopes, structurally distinctive globally as the largest free trade area globally by member states with 54 of 55 AU member states framework + only modern African continental supranational binding-treaty framework operating formal continental free-trade framework + 1.4 billion population coverage framework + USD 3.4 trillion combined GDP framework + only modern regional supranational binding-treaty framework operating formal Eritrea-only-non-signatory framework + only modern regional supranational binding-treaty framework operating formal English-French-Arabic-Portuguese-Spanish-Swahili six-language framework), as the central jurisdiction of the formal AfCFTA Protocol on Trade in Goods + Trade in Services frameworks (AfCFTA Protocol on Trade in Goods + Protocol on Trade in Services adopted 21 March 2018 providing formal continental free-trade-in-goods + free-trade-in-services framework — formal foundational AfCFTA trade-in-goods + trade-in-services framework, structurally distinctive globally as the only modern African continental supranational binding-treaty framework operating formal continental trade-in-goods + trade-in-services framework), as the central jurisdiction of the formal AfCFTA Dispute Settlement Mechanism framework (AfCFTA Protocol on Rules and Procedures on the Settlement of Disputes adopted 21 March 2018 providing formal AfCFTA dispute-settlement mechanism via Dispute Settlement Body DSB + AfCFTA Appellate Body framework following WTO Dispute Settlement Understanding model — formal foundational AfCFTA dispute-settlement framework, structurally distinctive globally as the only modern African continental supranational binding-treaty framework operating formal WTO-DSU-model continental dispute-settlement framework), and as the central jurisdiction of the formal AfCFTA Phase II + Phase III Protocols framework (AfCFTA Phase II Protocols on Investment + Intellectual Property Rights + Competition Policy adopted 19 February 2023 at 36th AU Summit + AfCFTA Phase III Protocol on Digital Trade + Protocol on Women + Youth in Trade adopted 2024-2025 — formal foundational AfCFTA Phase II + Phase III framework, structurally distinctive globally as the only modern African continental supranational binding-treaty framework operating formal continental investment + IP + competition + digital-trade + women-youth-in-trade framework). The AfCFTA Agreement is binding upon 54 of 55 AU member states as of 2026 (Eritrea-only-non-signatory) with 47 ratifications as of 2026 — comprehensive African continental coverage framework. The Agreement is silent on 'parental alienation' as a statutory label, though formal AfCFTA Protocol on Women + Youth in Trade framework operates substantial intersection with parental-alienation framework via formal African continental women + youth + cross-border-children's-rights framework. The AfCFTA Council of Ministers + AfCFTA Senior Trade Officials Committee + AfCFTA Secretariat + AfCFTA Dispute Settlement Body DSB are the formal AfCFTA bodies; national-level apex courts operate as judicial bodies. The AfCFTA Agreement is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "AfCFTA Agreement 2018",
+      "title": "AfCFTA Agreement",
+      "year": 2019,
+      "url": "https://au-afcfta.org/",
+      "relevance": "Agreement Establishing the African Continental Free Trade Area signed 21 March 2018 in Kigali Rwanda + effective 30 May 2019 + trading-operational 1 January 2021 — formal foundational AfCFTA treaty framework establishing comprehensive African continental free-trade framework."
+    },
+    {
+      "citation": "AfCFTA Protocol on Trade in Goods 2018",
+      "title": "AfCFTA Protocol on Trade in Goods",
+      "year": 2019,
+      "url": "https://au-afcfta.org/",
+      "relevance": "AfCFTA Protocol on Trade in Goods adopted 21 March 2018 — formal foundational AfCFTA continental trade-in-goods framework."
+    },
+    {
+      "citation": "AfCFTA Protocol on Trade in Services 2018",
+      "title": "AfCFTA Protocol on Trade in Services",
+      "year": 2019,
+      "url": "https://au-afcfta.org/",
+      "relevance": "AfCFTA Protocol on Trade in Services adopted 21 March 2018 — formal foundational AfCFTA continental trade-in-services framework."
+    },
+    {
+      "citation": "AfCFTA Protocol on Rules and Procedures on the Settlement of Disputes 2018",
+      "title": "AfCFTA Dispute Settlement Protocol",
+      "year": 2019,
+      "url": "https://au-afcfta.org/",
+      "relevance": "AfCFTA Protocol on Rules and Procedures on the Settlement of Disputes adopted 21 March 2018 — formal foundational AfCFTA dispute-settlement framework following WTO Dispute Settlement Understanding model."
+    },
+    {
+      "citation": "AfCFTA Phase II Protocols 2023 (Investment + IP + Competition)",
+      "title": "AfCFTA Phase II Protocols",
+      "year": 2023,
+      "url": "https://au-afcfta.org/",
+      "relevance": "AfCFTA Phase II Protocols on Investment + Intellectual Property Rights + Competition Policy adopted 19 February 2023 at 36th AU Summit — formal foundational AfCFTA Phase II framework."
+    },
+    {
+      "citation": "AfCFTA Phase III Protocols 2024-2025 (Digital Trade + Women + Youth)",
+      "title": "AfCFTA Phase III Protocols",
+      "year": 2025,
+      "url": "https://au-afcfta.org/",
+      "relevance": "AfCFTA Phase III Protocol on Digital Trade + Protocol on Women + Youth in Trade adopted 2024-2025 — formal foundational AfCFTA Phase III framework with PA-intersection framework via women + youth-in-trade framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "AfCFTA Council of Ministers",
+      "seat": "rotating",
+      "url": "https://au-afcfta.org/",
+      "role": "Formal supreme decision-making body for AfCFTA."
+    },
+    {
+      "name": "AfCFTA Senior Trade Officials Committee",
+      "seat": "rotating",
+      "url": "https://au-afcfta.org/",
+      "role": "Formal executive body for AfCFTA."
+    },
+    {
+      "name": "AfCFTA Secretariat",
+      "seat": "Accra",
+      "url": "https://au-afcfta.org/",
+      "role": "Formal administrative body for AfCFTA."
+    },
+    {
+      "name": "AfCFTA Dispute Settlement Body (DSB) + AfCFTA Appellate Body",
+      "seat": "Accra",
+      "url": "https://au-afcfta.org/",
+      "role": "Apex AfCFTA dispute-settlement framework body following WTO Dispute Settlement Understanding model."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "AfCFTA Secretariat",
+      "url": "https://au-afcfta.org/",
+      "role": "AfCFTA Agreement implementation framework."
+    }
+  ],
+  "anonymisation_convention": "AfCFTA-related communications via AfCFTA Dispute Settlement Body framework operate via state-state framework following WTO DSU model; individual communications not formally accepted under AfCFTA framework.",
+  "key_developments": [
+    {
+      "year": 1980,
+      "title": "Lagos Plan of Action",
+      "description": "Lagos Plan of Action for Economic Development of Africa adopted 28-29 April 1980 in Lagos Nigeria — predecessor framework to AfCFTA."
+    },
+    {
+      "year": 1991,
+      "title": "Abuja Treaty",
+      "description": "Treaty Establishing the African Economic Community Abuja Treaty signed 3 June 1991 in Abuja Nigeria + effective 12 May 1994 — predecessor framework to AfCFTA establishing six-stage continental economic integration framework."
+    },
+    {
+      "year": 2012,
+      "title": "AU Decision on Boosting Intra-African Trade",
+      "description": "AU Decision on Boosting Intra-African Trade and Fast-tracking the Continental Free Trade Area adopted 30 January 2012 at 18th AU Summit in Addis Ababa — formal AU AfCFTA decision framework."
+    },
+    {
+      "year": 2015,
+      "title": "AfCFTA negotiations launched",
+      "description": "AfCFTA negotiations launched 15 June 2015 at 25th AU Summit in Johannesburg South Africa — formal AfCFTA negotiation framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "AfCFTA Agreement signed",
+      "description": "AfCFTA Agreement signed 21 March 2018 in Kigali Rwanda by 44 founding African states — formal foundational AfCFTA treaty framework adopted."
+    },
+    {
+      "year": 2019,
+      "title": "AfCFTA Agreement enters force",
+      "description": "AfCFTA Agreement entered force 30 May 2019 — formal foundational AfCFTA treaty framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "AfCFTA Secretariat Accra",
+      "description": "AfCFTA Secretariat established in Accra Ghana 17 August 2020 — formal AfCFTA Secretariat operational."
+    },
+    {
+      "year": 2021,
+      "title": "AfCFTA trading-operational",
+      "description": "AfCFTA trading-operational 1 January 2021 — formal foundational AfCFTA trade framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "AfCFTA Guided Trade Initiative",
+      "description": "AfCFTA Guided Trade Initiative launched 7 October 2022 — formal AfCFTA trading-pilot framework."
+    },
+    {
+      "year": 2023,
+      "title": "AfCFTA Phase II Protocols adopted",
+      "description": "AfCFTA Phase II Protocols on Investment + Intellectual Property Rights + Competition Policy adopted 19 February 2023 at 36th AU Summit — formal foundational AfCFTA Phase II framework adopted."
+    },
+    {
+      "year": 2025,
+      "title": "AfCFTA Phase III Protocols adopted",
+      "description": "AfCFTA Phase III Protocol on Digital Trade + Protocol on Women + Youth in Trade adopted 2024-2025 — formal foundational AfCFTA Phase III framework adopted."
+    }
+  ],
+  "structural_findings": [
+    "AfCFTA Agreement operates a regional supranational binding-treaty framework — places AfCFTA Agreement in the regional supranational-meta-framework cluster.",
+    "Largest free trade area globally by member states + only modern African continental supranational binding-treaty framework operating on formal continental free-trade framework is structurally distinctive globally — largest free trade area globally by member states with 54 of 55 AU member states framework + only modern African continental supranational binding-treaty framework operating formal continental free-trade framework + 1.4 billion population coverage + USD 3.4 trillion combined GDP + only modern regional supranational binding-treaty framework operating formal Eritrea-only-non-signatory framework + only modern regional supranational binding-treaty framework operating formal English-French-Arabic-Portuguese-Spanish-Swahili six-language framework.",
+    "Central jurisdiction of formal AfCFTA Protocol on Trade in Goods + Trade in Services frameworks is structurally distinctive globally — only modern African continental supranational binding-treaty framework operating formal continental trade-in-goods + trade-in-services framework.",
+    "Central jurisdiction of formal AfCFTA Dispute Settlement Mechanism framework is structurally distinctive globally — only modern African continental supranational binding-treaty framework operating formal WTO-DSU-model continental dispute-settlement framework.",
+    "Central jurisdiction of formal AfCFTA Phase II + Phase III Protocols framework is structurally distinctive globally — only modern African continental supranational binding-treaty framework operating formal continental investment + IP + competition + digital-trade + women-youth-in-trade framework.",
+    "54 of 55 AU member state signature framework with 47 ratifications as of 2026 + Eritrea-only-non-signatory framework is structurally distinctive globally — comprehensive African continental coverage framework.",
+    "1980 Lagos Plan + 1991 Abuja Treaty + 2012 AU Boosting Intra-African Trade Decision + 2015 AfCFTA negotiations launched + 2018 AfCFTA Agreement + 2019 entry into force + 2020 Secretariat Accra + 2021 trading-operational + 2022 Guided Trade Initiative + 2023 Phase II Protocols + 2025 Phase III Protocols AfCFTA-framework-development sequence is structurally distinctive globally.",
+    "AfCFTA Agreement + Protocols on Trade in Goods + Trade in Services + Dispute Settlement + Investment + IP + Competition + Digital Trade + Women + Youth in Trade formal nonet framework with formal continental cross-border-children's-rights PA-intersection framework via women + youth-in-trade framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:au-constitutive-act",
+    "jurisdiction:comesa-treaty",
+    "jurisdiction:eac-treaty",
+    "jurisdiction:sadc-treaty",
+    "jurisdiction:ecowas-treaty",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "AfCFTA Secretariat",
+      "url": "https://au-afcfta.org/",
+      "publisher": "AfCFTA Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "AfCFTA jurisdiction sidecar — regional supranational African continental foundational-AfCFTA-treaty meta-framework (AfCFTA Agreement 2018/2019 + trading-operational 2021 + Protocol on Trade in Goods + Protocol on Trade in Services + Protocol on Dispute Settlement + Phase II Protocols on Investment + IP + Competition 2023 + Phase III Protocols on Digital Trade + Women + Youth in Trade 2024-2025 + Abuja Treaty 1991 predecessor + Lagos Plan 1980 + 2012 AU Decision + 2015 negotiations launched + 2020 Secretariat Accra + 2022 Guided Trade Initiative). Largest free trade area globally by member states + only modern African continental supranational binding-treaty framework operating on formal continental free-trade framework + 54 of 55 AU member states with Eritrea-only-non-signatory + 1.4 billion population + USD 3.4 trillion combined GDP + central jurisdiction of formal Trade in Goods + Trade in Services + central jurisdiction of formal WTO-DSU-model dispute-settlement framework + central jurisdiction of formal Phase II + Phase III Protocols framework + 47 ratifications as of 2026 + 1980 Lagos Plan + 1991 Abuja Treaty + 2012 AU Decision + 2015 negotiations launched + 2018 AfCFTA Agreement + 2019 entry into force + 2020 Secretariat Accra + 2021 trading-operational + 2022 Guided Trade Initiative + 2023 Phase II Protocols + 2025 Phase III Protocols AfCFTA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: AfCFTA Phase III Protocol on Women + Youth in Trade framework operates substantial intersection with parental-alienation framework via formal African continental women + youth + cross-border-children's-rights framework.",
+    "Joins regional + supranational + African-continental-foundational-AfCFTA-treaty cluster + AfCFTA-largest-free-trade-area-globally-by-member-states-globally-distinctive + 54-of-55-AU-member-states-Eritrea-only-non-signatory + 1.4-billion-population + USD-3.4-trillion-combined-GDP + English-French-Arabic-Portuguese-Spanish-Swahili-six-language + AfCFTA-Secretariat-Accra + AfCFTA-DSB-WTO-DSU-model + Protocol-on-Trade-in-Goods + Protocol-on-Trade-in-Services + Phase-II-Investment-IP-Competition-2023 + Phase-III-Digital-Trade-Women-Youth-2024-2025 + 1980-Lagos-Plan-predecessor + 1991-Abuja-Treaty-six-stage-continental-integration + 2015-Johannesburg-negotiations-launched + 2018-Kigali-signing + 2021-trading-operational + 2022-Guided-Trade-Initiative + 47-ratifications-as-of-2026 + African-continental-cross-border-children-rights-PA-intersection-via-women-youth-in-trade clusters within the corpus."
+  ]
+}

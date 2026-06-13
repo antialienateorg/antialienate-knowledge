@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "albania",
+  "name": "Albania (Shqipëria)",
+  "jurisdiction_code": "AL",
+  "legal_system": "civil-law",
+  "language": ["sq"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Albania is a Western Balkans civil-law unitary republic whose family-law framework operates under the Family Code (Kodi i Familjes, Law 9062/2003) in force 21 December 2003. Parental responsibility (përgjegjësia prindërore) is governed by Kodi i Familjes arts. 215-255; joint exercise during marriage is the statutory default. The Gjykata e Lartë (High Court of Albania, Tirana) is the apex court for civil and criminal matters; the Gjykata Kushtetuese (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated under Law 40/2016 (On the Profession of Psychologist) establishing the Urdhri i Psikologut (Order of Psychologists) — statutory professional-order regime. Albania is silent on 'parental alienation' as a statutory label; courts operate substantively under the interesi më i lartë i fëmijës (best-interests-of-the-child) standard. Council of Europe member; ECHR Strasbourg jurisprudence applies.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Kodi i Familjes (Law 9062/2003) arts. 215-255",
+      "title": "Family Code 2003 — Parental responsibility",
+      "year": 2003,
+      "url": "https://qbz.gov.al/",
+      "relevance": "Federal statute on family law in force 21 December 2003. Arts. 215-255 govern parental responsibility; joint exercise during marriage is the statutory default. Welfare standard codified."
+    },
+    {
+      "citation": "Law 40/2016 — On the Profession of Psychologist",
+      "title": "Law on the Profession of Psychologist",
+      "year": 2016,
+      "url": "https://qbz.gov.al/",
+      "relevance": "Federal statute establishing the Urdhri i Psikologut (Order of Psychologists) as statutory professional-order regulator. Mandatory membership for practising psychologists."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Gjykata e Lartë (High Court of Albania)",
+      "seat": "Tirana",
+      "url": "https://www.gjykataelarte.gov.al/",
+      "role": "Apex civil and criminal court."
+    },
+    {
+      "name": "Gjykata Kushtetuese (Constitutional Court)",
+      "seat": "Tirana",
+      "url": "https://www.gjk.gov.al/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and individual constitutional complaints."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Urdhri i Psikologut të Shqipërisë (Order of Psychologists of Albania)",
+      "url": "https://urdhriipsikologut.al/",
+      "role": "Statutory professional-order regulator under Law 40/2016."
+    }
+  ],
+  "anonymisation_convention": "Albanian family-law decisions are anonymised per Gjykata e Lartë practice using initials.",
+  "key_developments": [
+    {
+      "year": 2003,
+      "title": "Kodi i Familjes 2003",
+      "description": "Family Code in force 21 December 2003."
+    },
+    {
+      "year": 2016,
+      "title": "Law 40/2016 Order of Psychologists",
+      "description": "Statutory professional-order psychology regulator established."
+    }
+  ],
+  "structural_findings": [
+    "Albania sits structurally within the Western Balkans civil-law cluster alongside Serbia + Croatia + Slovenia + Montenegro + N. Macedonia — Family Code 2003 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction.",
+    "Urdhri i Psikologut statutory professional-order regime places Albania among the federal-statutory psychology regulator group within the corpus (order tradition alongside Romania CPR + Croatia HPK + Portugal OPP)."
+  ],
+  "references": [
+    "jurisdiction:serbia",
+    "jurisdiction:croatia",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Gjykata e Lartë",
+      "url": "https://www.gjykataelarte.gov.al/",
+      "publisher": "High Court of Albania",
+      "language": "sq,en"
+    },
+    {
+      "title": "Gjykata Kushtetuese",
+      "url": "https://www.gjk.gov.al/",
+      "publisher": "Constitutional Court",
+      "language": "sq,en"
+    },
+    {
+      "title": "Qendra e Botimeve Zyrtare (QBZ) — Official Publications Centre",
+      "url": "https://qbz.gov.al/",
+      "publisher": "Government of Albania",
+      "language": "sq"
+    }
+  ],
+  "editorial_notes": [
+    "Albania jurisdiction sidecar — Western Balkans civil-law framework. Kodi i Familjes 2003 + Law 40/2016 + Constitutional Court individual-complaint.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western Balkans + statutory professional-order psychology regulator clusters."
+  ]
+}

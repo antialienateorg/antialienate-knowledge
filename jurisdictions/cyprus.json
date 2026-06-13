@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "cyprus",
+  "name": "Cyprus (Κύπρος / Kıbrıs)",
+  "jurisdiction_code": "CY",
+  "legal_system": "mixed",
+  "language": ["el", "tr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Cyprus is a Mediterranean unitary republic operating a mixed-legal-system framework combining common-law procedural inheritance from the British colonial period with civil-law statutory layers and the family-court jurisdictions for the recognised religious communities. Family-law matters are heard by specialised Family Courts (Οικογενειακά Δικαστήρια) under the Family Courts Law of 1990. Parental responsibility (γονική μέριμνα) is governed by the Children Law Cap. 352 as amended. The Supreme Court of Cyprus (Ανώτατο Δικαστήριο) operates as the apex court for civil and criminal matters and as the Constitutional Court. Psychology profession is regulated under the Psychologists Registration Law of 1995 (as amended) operated by the Cyprus Psychologists' Board (Συμβούλιο Εγγραφής Ψυχολόγων). Cyprus is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Cyprus is a Council of Europe member; ECHR Strasbourg jurisprudence applies.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Law Cap. 352 (as amended)",
+      "title": "Children Law — Parental responsibility",
+      "year": 1956,
+      "url": "http://www.cylaw.com/",
+      "relevance": "Federal statute governing parental responsibility, custody and contact. Substantially amended over time including the framework for the welfare-of-the-child standard."
+    },
+    {
+      "citation": "Family Courts Law 23/1990",
+      "title": "Family Courts Law 1990",
+      "year": 1990,
+      "url": "http://www.cylaw.com/",
+      "relevance": "Federal statute establishing specialised Family Courts (Οικογενειακά Δικαστήρια) with jurisdiction over family-law matters."
+    },
+    {
+      "citation": "Psychologists Registration Law 68(I)/1995",
+      "title": "Psychologists Registration Law 1995",
+      "year": 1995,
+      "url": "http://www.cylaw.com/",
+      "relevance": "Federal statute regulating the psychology profession. Establishes the Cyprus Psychologists' Board (Συμβούλιο Εγγραφής Ψυχολόγων) and statutory registration. Statutory anchor for evaluator-quality in court-appointed psychological assessments."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Cyprus (Ανώτατο Δικαστήριο)",
+      "seat": "Nicosia",
+      "url": "https://www.supremecourt.gov.cy/",
+      "role": "Apex court operating as Supreme Court for civil and criminal appellate matters and as Constitutional Court."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Cyprus Psychologists' Board (Συμβούλιο Εγγραφής Ψυχολόγων)",
+      "url": "https://www.cypsa.org.cy/",
+      "role": "Statutory registration board for psychologists under Psychologists Registration Law 68(I)/1995."
+    },
+    {
+      "name": "Cyprus Psychologists Association (CyPsA)",
+      "url": "https://www.cypsa.org.cy/",
+      "role": "Peak professional association for psychologists in Cyprus."
+    }
+  ],
+  "anonymisation_convention": "Cypriot family-law decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1990,
+      "title": "Family Courts Law 1990",
+      "description": "Specialised Family Courts established."
+    },
+    {
+      "year": 1995,
+      "title": "Psychologists Registration Law 1995",
+      "description": "Federal statutory psychology profession regulation."
+    },
+    {
+      "year": 2004,
+      "title": "EU accession",
+      "description": "Cyprus acceded to the European Union 1 May 2004."
+    }
+  ],
+  "structural_findings": [
+    "Cyprus operates a mixed-legal-system framework — common-law procedural inheritance from the British colonial period + civil-law statutory layers. Structurally adjacent to Malta and (in a different way) to Israel within the corpus's mixed-jurisdiction cluster.",
+    "Specialised Family Courts under Family Courts Law 1990 + Psychologists Registration Law 1995 statutory regulator + Supreme Court operating as Constitutional Court.",
+    "Cyprus Psychologists' Board statutory-registration regime places Cyprus among the federal-statutory psychology regulator group within the corpus."
+  ],
+  "references": [
+    "jurisdiction:greece",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Cyprus",
+      "url": "https://www.supremecourt.gov.cy/",
+      "publisher": "Government of the Republic of Cyprus",
+      "language": "el,en"
+    },
+    {
+      "title": "Cylaw — Cyprus legal database",
+      "url": "http://www.cylaw.com/",
+      "publisher": "Cyprus Bar Association",
+      "language": "el,en"
+    },
+    {
+      "title": "Cyprus Psychologists Association",
+      "url": "https://www.cypsa.org.cy/",
+      "publisher": "CyPsA",
+      "language": "el,en"
+    }
+  ],
+  "editorial_notes": [
+    "Cyprus jurisdiction sidecar — Mediterranean mixed-legal-system framework. Children Law Cap. 352 + Family Courts Law 1990 + Psychologists Registration Law 1995 + Supreme Court as Constitutional Court.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Mediterranean mixed-jurisdiction + federal-statutory psychology regulator clusters within the corpus."
+  ]
+}

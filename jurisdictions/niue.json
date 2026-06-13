@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "id": "niue",
+  "name": "Niue",
+  "jurisdiction_code": "NU",
+  "legal_system": "common-law",
+  "language": ["en", "niu"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Niue is a Pacific Island common-law self-governing state in free association with New Zealand (since 1974) — structurally distinctive globally alongside Cook Islands as a Niue-status free-association state with NZ. Family-law framework operates under the Niue Act 1966 (NZ) (parts retained at self-government), the Marriage Act 1929, the Niue Amendment Act 1968 (NZ), and family-law statutes adapted to Niuean conditions. Niue retains NZ citizenship for Niueans. Parental responsibility and child custody are governed by Niue Act 1966 provisions and case-law applying the welfare-of-the-child principle. The High Court of Niue is the apex domestic court for civil and criminal matters; final appellate jurisdiction was retained with the Court of Appeal of New Zealand and ultimately the Judicial Committee of the Privy Council. The Maori Land Court / Land Division operates parallel customary-land jurisdiction. Family-law matters are heard at first instance in the High Court and Resident Magistrates' Courts. Psychology profession is regulated through the Department of Health framework. Niue is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Niue is non-Hague Convention — Hague Convention 1980 does not apply via NZ territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Niue Act 1966 (NZ)",
+      "title": "Niue Act",
+      "year": 1966,
+      "url": "https://www.gov.nu/",
+      "relevance": "Federal Niue Act enacted by New Zealand establishing administrative and family-law framework — parts retained at 1974 self-government."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Niue",
+      "seat": "Alofi",
+      "url": "https://www.gov.nu/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "Court of Appeal of New Zealand",
+      "seat": "Wellington",
+      "url": "https://www.courtsofnz.govt.nz/",
+      "role": "Appellate court for Niuean matters (Niue Act 1966 framework)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Department of Health, Niue",
+      "url": "https://www.health.gov.nu/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Niuean family-court decisions are anonymised per High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1966,
+      "title": "Niue Act 1966 (NZ)",
+      "description": "Niue Act enacted by New Zealand establishing administrative and family-law framework — parts retained at 1974 self-government."
+    },
+    {
+      "year": 1974,
+      "title": "Self-government in free association with New Zealand",
+      "description": "Niue achieved self-government in free association with New Zealand — distinctive globally alongside Cook Islands."
+    }
+  ],
+  "structural_findings": [
+    "Niue operates a common-law framework — places Niue in the Pacific Island common-law cluster.",
+    "Niue free-association status with New Zealand is structurally distinctive globally alongside Cook Islands — only two states with this New Zealand free-association status in the corpus.",
+    "Maori Land Court / Land Division parallel customary-land jurisdiction is structurally distinctive within the Pacific cluster.",
+    "Non-Hague Convention status (Hague does not apply via NZ territorial extension) is structurally distinctive — Niue has independent treaty-making capacity but has not acceded to Hague."
+  ],
+  "references": [
+    "jurisdiction:cook-islands",
+    "jurisdiction:new-zealand",
+    "jurisdiction:tonga",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Niue",
+      "url": "https://www.gov.nu/",
+      "publisher": "Government of Niue",
+      "language": "en,niu"
+    },
+    {
+      "title": "Department of Health",
+      "url": "https://www.health.gov.nu/",
+      "publisher": "Department of Health",
+      "language": "en,niu"
+    }
+  ],
+  "editorial_notes": [
+    "Niue jurisdiction sidecar — common-law Pacific Island free-association state (Niue Act 1966 NZ-retention + 1974 self-government + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + NZ-free-association cluster (with Cook Islands) + Maori-Land-Court-parallel-jurisdiction + non-Hague Convention clusters within the corpus."
+  ]
+}

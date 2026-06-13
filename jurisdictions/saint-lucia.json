@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "saint-lucia",
+  "name": "Saint Lucia",
+  "jurisdiction_code": "LC",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Saint Lucia is a Caribbean mixed-legal-system constitutional monarchy combining French civil-law substantive heritage (via 17th-19th century French colonial inheritance — Civil Code of Saint Lucia 1879 drawing on Quebec/Lower Canadian codification) with English common-law procedural inheritance (post-1814 British administration). This is structurally distinctive within the corpus — Saint Lucia and Quebec share the French-civil-substantive + English-common-law-procedural hybrid pattern. Family-law framework operates under the Civil Code of Saint Lucia 1879 (CAP 4.01), the Divorce Act, the Children and Young Persons Act, and the Maintenance Act. Parental rights and child custody are governed by Civil Code arts. 218-247. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Saint Lucia) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Saint Lucia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Saint Lucia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code of Saint Lucia 1879 CAP 4.01 arts. 218-247",
+      "title": "Civil Code — Parental rights and custody",
+      "year": 1879,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal Civil Code drawing on Quebec/Lower Canadian codification + French civil-law substantive heritage. Arts. 218-247 govern parental rights and child custody."
+    },
+    {
+      "citation": "Children and Young Persons Act CAP 4.07",
+      "title": "Children and Young Persons Act",
+      "year": 1973,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on children's protection."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eastern Caribbean Supreme Court — Court of Appeal",
+      "seat": "Castries",
+      "url": "https://www.eccourts.org/",
+      "role": "Apex domestic appellate court for OECS states including Saint Lucia."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Saint Lucia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Wellness, Family Affairs, National Mobilisation, Youth Development, Saint Lucia",
+      "url": "https://www.govt.lc/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Saint Lucian family-court decisions are anonymised per Eastern Caribbean Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1814,
+      "title": "British colonial administration",
+      "description": "Saint Lucia transferred from French to British colonial administration; Civil Code substantive heritage retained with English common-law procedural inheritance."
+    },
+    {
+      "year": 1879,
+      "title": "Civil Code of Saint Lucia",
+      "description": "Federal Civil Code adopted drawing on Quebec/Lower Canadian codification."
+    },
+    {
+      "year": 1978,
+      "title": "Independence",
+      "description": "Saint Lucia achieved independence from the United Kingdom; retained Judicial Committee of the Privy Council as final appellate court."
+    }
+  ],
+  "structural_findings": [
+    "Saint Lucia operates a structurally distinctive mixed-legal-system framework — French civil-law substantive (via Quebec/Lower Canadian codification heritage in 1879 Civil Code) + English common-law procedural inheritance. Unique pattern in Caribbean; shared with Quebec.",
+    "Eastern Caribbean Supreme Court appellate jurisdiction places Saint Lucia in the OECS-shared-judicial-system cluster.",
+    "Judicial Committee of the Privy Council retention as final appellate court is shared with Jamaica, Trinidad and Tobago, Bahamas within the corpus.",
+    "Non-Hague Convention status places Saint Lucia in the non-Hague Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:trinidad-and-tobago",
+    "jurisdiction:jamaica",
+    "jurisdiction:canada",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Caribbean Supreme Court",
+      "url": "https://www.eccourts.org/",
+      "publisher": "ECSC",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "Government of Saint Lucia",
+      "url": "https://www.govt.lc/",
+      "publisher": "Government of Saint Lucia",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Saint Lucia jurisdiction sidecar — mixed-legal-system Caribbean (French civil-law substantive via Quebec/Lower Canadian codification + English common-law procedural + OECS-ECSC appellate jurisdiction + JCPC final-appellate + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + mixed-legal-system + French-civil-via-Quebec-derivative distinctive cluster + OECS-shared-judicial-system + JCPC-final-appellate + non-Hague Convention clusters within the corpus."
+  ]
+}

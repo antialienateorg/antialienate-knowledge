@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "mozambique",
+  "name": "Mozambique (Republic of Mozambique / República de Moçambique)",
+  "jurisdiction_code": "MZ",
+  "legal_system": "civil-law",
+  "language": ["pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Mozambique is a Southern/East African civil-law republic whose family-law framework operates under the Family Law 10/2004 (Lei da Família), drawing on Portuguese civil-law substantive heritage with substantial modernisation reforms. Parental rights and child custody are governed by Family Law arts. 304-340. The Supreme Court of Mozambique (Tribunal Supremo) is the apex court for civil and criminal matters; the Constitutional Council (Conselho Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Judicial Court of First Instance (Tribunal Judicial de Primeira Instância), with specialised Family-Court procedure. Psychology profession is regulated through the Ministry of Health framework with the Mozambican Association of Psychologists operating professional standards. Mozambique is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Law art. 304. Mozambique acceded to the Hague Convention 1980 effective 1 December 2022.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law 10/2004 arts. 304-340",
+      "title": "Family Law — Parental authority and custody",
+      "year": 2004,
+      "url": "https://www.ts.gov.mz/",
+      "relevance": "Federal Family Law drawing on Portuguese civil-law substantive heritage with substantial 2004 modernisation reforms. Arts. 304-340 govern parental authority and child custody."
+    },
+    {
+      "citation": "Child Promotion and Protection Law 7/2008",
+      "title": "Child Promotion and Protection Law",
+      "year": 2008,
+      "url": "https://www.ts.gov.mz/",
+      "relevance": "Federal children's protection statute aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Tribunal Supremo)",
+      "seat": "Maputo",
+      "url": "https://www.ts.gov.mz/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Council (Conselho Constitucional)",
+      "seat": "Maputo",
+      "url": "https://www.cconstitucional.org.mz/",
+      "role": "Constitutional Council with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Mozambique",
+      "url": "https://www.misau.gov.mz/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Mozambican Association of Psychologists",
+      "url": "https://www.amop.org.mz/",
+      "role": "Peak professional association for psychologists in Mozambique."
+    }
+  ],
+  "anonymisation_convention": "Mozambican family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2004,
+      "title": "Family Law 10/2004",
+      "description": "Federal Family Law enacted with substantial modernisation reforms — codifying gender-equal marriage, parental authority and divorce provisions."
+    },
+    {
+      "year": 2008,
+      "title": "Child Promotion and Protection Law",
+      "description": "Federal children's protection statute aligned with UNCRC obligations."
+    },
+    {
+      "year": 2022,
+      "title": "Hague Convention 1980 accession",
+      "description": "Mozambique acceded to the Hague Convention 1980 effective 1 December 2022."
+    }
+  ],
+  "structural_findings": [
+    "Mozambique operates a Portuguese-civil-law family-law framework — places Mozambique in the Lusophone African cluster within the Portuguese-civil-law substantive tradition (alongside Angola, Brazil, Portugal, East Timor within the corpus).",
+    "Recent Hague Convention 1980 accession (2022) places Mozambique in the late-acceding African Lusophone cluster.",
+    "Family Law 2004 + Child Promotion and Protection Law 2008 codify modernised gender-equal and child-protection provisions consistent with post-2004 Constitution."
+  ],
+  "references": [
+    "jurisdiction:angola",
+    "jurisdiction:portugal",
+    "jurisdiction:south-africa",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Mozambique",
+      "url": "https://www.ts.gov.mz/",
+      "publisher": "Supreme Court",
+      "language": "pt"
+    },
+    {
+      "title": "Constitutional Council",
+      "url": "https://www.cconstitucional.org.mz/",
+      "publisher": "Constitutional Council",
+      "language": "pt"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.misau.gov.mz/",
+      "publisher": "MISAU",
+      "language": "pt"
+    }
+  ],
+  "editorial_notes": [
+    "Mozambique jurisdiction sidecar — civil-law Lusophone Africa (Portuguese civil-law substantive heritage). Family Law 10/2004 + Child Promotion and Protection Law 2008 + Hague Convention 1980 accession 2022.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southern/East African + Lusophone + civil-law + Hague Convention clusters within the corpus."
+  ]
+}

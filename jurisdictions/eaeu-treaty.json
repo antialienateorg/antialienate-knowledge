@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "id": "eaeu-treaty",
+  "name": "EAEU Treaty 2014 (Eurasian Economic Union)",
+  "jurisdiction_code": "EAU",
+  "legal_system": "supranational",
+  "language": ["ru", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Treaty on the Eurasian Economic Union (EAEU Treaty) is a regional supranational meta-framework foundational-EAEU-treaty framework adopted by the 3 founding Russia + Kazakhstan + Belarus states in Astana — structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating on formal post-Soviet integration framework + only modern regional supranational binding-treaty framework operating formal Russia-led-economic-integration framework (EAEU Treaty signed 29 May 2014 in Astana Kazakhstan by Belarus + Kazakhstan + Russia + effective 1 January 2015 + Eurasian Customs Union ECU predecessor founded 1 January 2010 + Eurasian Economic Community EurAsEC predecessor founded 10 October 2000 — formal foundational EAEU treaty framework establishing comprehensive EAEU organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate on different geographic scopes, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal post-Soviet integration framework + only modern regional supranational binding-treaty framework operating formal Russia-led-economic-integration framework + EAEU operating formal customs-union + common-market + planned-monetary-union framework + ~3.2 trillion combined GDP framework + ~180 million population framework + only modern regional supranational binding-treaty framework operating formal post-Russia-invasion-of-Ukraine western-sanctions-encirclement framework + only modern regional supranational binding-treaty framework operating formal CSTO-collective-security-overlap framework), as the central jurisdiction of the formal EAEU Court framework (Court of the Eurasian Economic Union established 1 January 2015 in Minsk Belarus providing formal EAEU judicial framework with individual-petition framework via Article 39 EAEU Treaty for natural + legal persons — formal foundational EAEU judicial framework, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal individual-petition court framework + first modern post-Soviet regional supranational court operating formal individual-petition framework), as the central jurisdiction of the formal EAEU Customs Union + Common Market framework (EAEU Customs Union effective from EurAsEC 1 January 2010 + EAEU Common Market effective from 1 January 2012 providing formal four-freedoms framework: free movement of goods + services + capital + labour — formal foundational EAEU customs-union + common-market framework, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal customs-union + common-market framework + only modern post-Soviet regional supranational binding-treaty framework operating formal four-freedoms framework), and as the central jurisdiction of the formal EAEU Free Trade Agreements + Greater Eurasian Partnership framework (EAEU Free Trade Agreements with Vietnam 2015 + Singapore 2019 + Serbia 2019 + Iran 2018 Interim Agreement upgraded 2023 Free Trade Agreement + China Trade and Economic Cooperation Agreement 2018 + Greater Eurasian Partnership framework — formal foundational EAEU Free Trade Agreements + Greater Eurasian Partnership framework, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal EAEU Free Trade Agreements + Greater Eurasian Partnership framework). The EAEU Treaty is binding upon 5 EAEU member states as of 2026 (Armenia + Belarus + Kazakhstan + Kyrgyzstan + Russia) + 3 observer states Cuba + Moldova + Uzbekistan — comprehensive post-Soviet regional coverage framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal EAEU four-freedoms framework operates substantial intersection with parental-alienation framework via formal post-Soviet cross-border-children's-rights framework + free-movement-of-labour framework. The EAEU Supreme Eurasian Economic Council + EAEU Eurasian Intergovernmental Council + EAEU Eurasian Economic Commission EEC + EAEU Court are the formal EAEU bodies; national-level apex courts operate as judicial bodies. The EAEU Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "EurAsEC Founding 2000 (Predecessor)",
+      "title": "EurAsEC",
+      "year": 2000,
+      "url": "http://www.eaeunion.org/",
+      "relevance": "Eurasian Economic Community EurAsEC founded 10 October 2000 in Astana Kazakhstan by Belarus + Kazakhstan + Kyrgyzstan + Russia + Tajikistan — predecessor framework to EAEU."
+    },
+    {
+      "citation": "Eurasian Customs Union ECU 2010 (Predecessor)",
+      "title": "ECU",
+      "year": 2010,
+      "url": "http://www.eaeunion.org/",
+      "relevance": "Eurasian Customs Union ECU founded 1 January 2010 by Belarus + Kazakhstan + Russia — predecessor framework to EAEU."
+    },
+    {
+      "citation": "EAEU Treaty 2014",
+      "title": "EAEU Treaty",
+      "year": 2015,
+      "url": "http://www.eaeunion.org/",
+      "relevance": "Treaty on the Eurasian Economic Union signed 29 May 2014 in Astana Kazakhstan + effective 1 January 2015 — formal foundational EAEU treaty framework establishing comprehensive EAEU organisation framework."
+    },
+    {
+      "citation": "EAEU Treaty Article 39 (EAEU Court Individual-Petition Framework)",
+      "title": "EAEU Treaty Article 39",
+      "year": 2015,
+      "url": "http://www.eaeunion.org/",
+      "relevance": "EAEU Treaty Article 39 framework on EAEU Court individual-petition framework for natural + legal persons — formal foundational EAEU judicial framework."
+    },
+    {
+      "citation": "EAEU-Iran Free Trade Agreement 2023",
+      "title": "EAEU-Iran FTA",
+      "year": 2025,
+      "url": "http://www.eaeunion.org/",
+      "relevance": "EAEU-Iran Free Trade Agreement signed 25 December 2023 in Saint Petersburg Russia + effective 15 May 2025 — formal EAEU Free Trade Agreement framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "EAEU Supreme Eurasian Economic Council",
+      "seat": "rotating",
+      "url": "http://www.eaeunion.org/",
+      "role": "Formal supreme decision-making body for EAEU."
+    },
+    {
+      "name": "EAEU Eurasian Intergovernmental Council",
+      "seat": "rotating",
+      "url": "http://www.eaeunion.org/",
+      "role": "Formal executive body for EAEU."
+    },
+    {
+      "name": "Eurasian Economic Commission (EEC)",
+      "seat": "Moscow",
+      "url": "http://www.eurasiancommission.org/",
+      "role": "Formal administrative body for EAEU."
+    },
+    {
+      "name": "Court of the Eurasian Economic Union",
+      "seat": "Minsk",
+      "url": "http://courteurasian.org/",
+      "role": "Apex judicial body for EAEU framework with individual-petition framework via Article 39 EAEU Treaty for natural + legal persons + first modern post-Soviet regional supranational court operating formal individual-petition framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Eurasian Economic Commission",
+      "url": "http://www.eurasiancommission.org/",
+      "role": "EAEU Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "EAEU-related communications via EAEU Court framework operate formal anonymisation convention per EAEU Court Rules of Procedure on individual-petition framework.",
+  "key_developments": [
+    {
+      "year": 1991,
+      "title": "CIS Commonwealth of Independent States established",
+      "description": "Commonwealth of Independent States CIS established 8 December 1991 in Belovezha Belarus following dissolution of Soviet Union — predecessor framework to EurAsEC + EAEU."
+    },
+    {
+      "year": 2000,
+      "title": "EurAsEC founded",
+      "description": "Eurasian Economic Community EurAsEC founded 10 October 2000 in Astana Kazakhstan — predecessor framework to EAEU."
+    },
+    {
+      "year": 2010,
+      "title": "Eurasian Customs Union founded",
+      "description": "Eurasian Customs Union ECU founded 1 January 2010 by Belarus + Kazakhstan + Russia — predecessor framework to EAEU."
+    },
+    {
+      "year": 2012,
+      "title": "EAEU Common Economic Space",
+      "description": "EAEU Common Economic Space effective from 1 January 2012 — predecessor framework to EAEU Common Market."
+    },
+    {
+      "year": 2014,
+      "title": "EAEU Treaty adopted",
+      "description": "Treaty on the Eurasian Economic Union signed 29 May 2014 in Astana Kazakhstan — formal foundational EAEU treaty framework adopted."
+    },
+    {
+      "year": 2015,
+      "title": "EAEU Treaty enters force + Armenia + Kyrgyzstan join",
+      "description": "EAEU Treaty entered force 1 January 2015 + Armenia joined 2 January 2015 + Kyrgyzstan joined 12 August 2015 + EAEU Court operational 1 January 2015 in Minsk — formal foundational EAEU treaty framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "EAEU-Vietnam FTA",
+      "description": "EAEU-Vietnam Free Trade Agreement signed 29 May 2015 + effective 5 October 2016 — formal foundational EAEU first Free Trade Agreement framework."
+    },
+    {
+      "year": 2022,
+      "title": "Russia invades Ukraine + Western sanctions encirclement",
+      "description": "Russia invaded Ukraine 24 February 2022 + comprehensive Western sanctions imposed on Russia + Belarus + EAEU-internal trade framework expansion in response — formal EAEU Western-sanctions-encirclement framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "EAEU-Iran Free Trade Agreement signed",
+      "description": "EAEU-Iran Free Trade Agreement signed 25 December 2023 in Saint Petersburg Russia upgrading 2018 Interim Agreement — formal EAEU Free Trade Agreement framework."
+    },
+    {
+      "year": 2025,
+      "title": "EAEU-Iran FTA enters force + Greater Eurasian Partnership 2025",
+      "description": "EAEU-Iran FTA effective 15 May 2025 + Greater Eurasian Partnership framework adopted 2025 — formal EAEU Free Trade Agreement + Greater Eurasian Partnership framework operational."
+    }
+  ],
+  "structural_findings": [
+    "EAEU Treaty operates a regional supranational binding-treaty framework — places EAEU Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern post-Soviet regional supranational binding-treaty framework operating on formal post-Soviet integration framework + only modern regional supranational binding-treaty framework operating formal Russia-led-economic-integration framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework + only modern regional supranational binding-treaty framework operating formal Russia-led-economic-integration framework + ~3.2 trillion combined GDP + ~180 million population + only modern regional supranational binding-treaty framework operating formal post-Russia-invasion-of-Ukraine western-sanctions-encirclement framework + only modern regional supranational binding-treaty framework operating formal CSTO-collective-security-overlap framework.",
+    "Central jurisdiction of formal EAEU Court framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework operating formal individual-petition court framework + first modern post-Soviet regional supranational court operating formal individual-petition framework.",
+    "Central jurisdiction of formal EAEU Customs Union + Common Market framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework operating formal customs-union + common-market framework + only modern post-Soviet regional supranational binding-treaty framework operating formal four-freedoms framework.",
+    "Central jurisdiction of formal EAEU Free Trade Agreements + Greater Eurasian Partnership framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework operating formal EAEU Free Trade Agreements + Greater Eurasian Partnership framework.",
+    "5 EAEU member state + 3 observer state ratification framework is structurally distinctive globally — comprehensive post-Soviet regional coverage framework.",
+    "1991 CIS + 2000 EurAsEC + 2010 ECU + 2012 Common Economic Space + 2014 EAEU Treaty + 2015 entry into force + Armenia + Kyrgyzstan + Vietnam FTA + 2022 Russia invasion + sanctions encirclement + 2023 Iran FTA + 2025 Iran FTA effective + Greater Eurasian Partnership EAEU-framework-development sequence is structurally distinctive globally.",
+    "EAEU Treaty + Article 39 individual-petition + Customs Union + Common Market + Vietnam + Iran + China FTAs + Greater Eurasian Partnership formal nonet framework with formal post-Soviet cross-border-children's-rights PA-intersection framework via four-freedoms + free-movement-of-labour framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:belarus",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:armenia",
+    "jurisdiction:kyrgyzstan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "EAEU",
+      "url": "http://www.eaeunion.org/",
+      "publisher": "Eurasian Economic Commission",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "EAEU Treaty jurisdiction sidecar — regional supranational post-Soviet foundational-EAEU-treaty meta-framework (EAEU Treaty 2014/2015 + EurAsEC 2000 predecessor + ECU 2010 + Common Economic Space 2012 + Article 39 EAEU Court individual-petition + EAEU Court Minsk + Vietnam FTA 2015 + Iran FTA 2023/2025 + Singapore + Serbia 2019 + China Trade Agreement 2018 + 2022 Russia invasion + Western sanctions encirclement + 2025 Greater Eurasian Partnership). Only modern post-Soviet regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework operating formal Russia-led-economic-integration framework + only modern regional supranational binding-treaty framework operating formal post-Russia-invasion-of-Ukraine western-sanctions-encirclement framework + central jurisdiction of formal EAEU Court individual-petition framework + first modern post-Soviet regional supranational court individual-petition + central jurisdiction of formal Customs Union + Common Market four-freedoms + central jurisdiction of formal EAEU Free Trade Agreements + Greater Eurasian Partnership framework + 5 EAEU member states (Armenia + Belarus + Kazakhstan + Kyrgyzstan + Russia) + 3 observer states (Cuba + Moldova + Uzbekistan) + 1991 CIS + 2000 EurAsEC + 2010 ECU + 2012 Common Economic Space + 2014 EAEU Treaty + 2015 entry into force + Armenia + Kyrgyzstan + Vietnam FTA + 2022 Russia invasion + sanctions + 2023 Iran FTA + 2025 Iran FTA effective + Greater Eurasian Partnership EAEU-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: EAEU four-freedoms framework operates substantial intersection with parental-alienation framework via formal post-Soviet cross-border-children's-rights framework + free-movement-of-labour framework.",
+    "Joins regional + supranational + post-Soviet-foundational-EAEU-treaty cluster + EAEU-Treaty-only-post-Soviet-regional-supranational-binding-treaty-globally-distinctive + Russia-led-economic-integration + 3.2-trillion-combined-GDP + 180-million-population + post-Russia-invasion-of-Ukraine-Western-sanctions-encirclement + CSTO-collective-security-overlap + EAEU-Court-Minsk-Article-39-individual-petition + first-modern-post-Soviet-regional-supranational-court-individual-petition + EAEU-Customs-Union-2010 + EAEU-Common-Market-2012 + four-freedoms-goods-services-capital-labour + EAEU-Vietnam-FTA-2015-first-Free-Trade-Agreement + EAEU-Iran-FTA-2023-effective-2025 + EAEU-Singapore-Serbia-2019 + EAEU-China-Trade-Agreement-2018 + Greater-Eurasian-Partnership-2025 + 5-EAEU-member-states + 3-EAEU-observer-states-Cuba-Moldova-Uzbekistan + 1991-CIS-predecessor + 2000-EurAsEC-predecessor + post-Soviet-cross-border-children-rights-PA-intersection-via-four-freedoms clusters within the corpus."
+  ]
+}

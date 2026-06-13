@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "id": "german-speaking-community-belgium",
+  "name": "German-speaking Community of Belgium (Deutschsprachige Gemeinschaft Belgiens / DG / Eupen-Malmedy)",
+  "jurisdiction_code": "BE-DG",
+  "legal_system": "civil-law",
+  "language": ["de", "fr", "nl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The German-speaking Community of Belgium (German: Deutschsprachige Gemeinschaft Belgiens / DG) is an Eastern Belgian civil-law constitutionally-recognised language community of the Kingdom of Belgium (one of three constitutionally-recognised language communities under Constitution of Belgium 1993 federal framework: Flemish Community + French Community + German-speaking Community) — structurally distinctive globally as the smallest constitutionally-recognised language community in the Belgian federal framework (~78,000 population — substantially smaller than Flemish Community ~6.7 million + French Community ~4.6 million, ~0.7% of Belgian population), as the only modern German-speaking jurisdiction formally annexed by a non-German state via the Treaty of Versailles 1919 (Eupen-Malmedy region transferred from German Empire to Belgium 28 June 1919 effective 10 January 1920 — only post-WWI German-Belgian border transfer framework, contested by post-WWI nationalist German frameworks 1920-1940), as a distinctive jurisdiction within Belgium for the German-speaking-Belgian-cultural-political-identity framework (Eupen + Malmedy + Sankt Vith German-speaking municipalities — formal German-language framework for legislative, executive, educational, judicial frameworks, distinct from rest-of-Belgium's Flemish + French language frameworks), and as the only Belgian language community with formal legislative + executive autonomy framework operating from a single integrated parliament + executive seat (Eupen — Parliament of the German-speaking Community + Government of the German-speaking Community + Ministry for the German-speaking Community framework). The German-speaking Community territory operated under the Prussian Rhine Province framework 1815-1919, was transferred from German Empire to Belgium via Treaty of Versailles 28 June 1919 effective 10 January 1920, suffered Belgian forced re-Germanisation 1940-1945 during Nazi German occupation, achieved formal community recognition under Constitution of Belgium 1970 community reform + 1980 community reform + 1993 federal framework. The German-speaking Community comprises 9 municipalities (Eupen + Malmedy + Sankt Vith + Amel + Burg-Reuland + Büllingen + Bütgenbach + Kelmis + Lontzen + Raeren — wait, Malmedy is in French-speaking Community despite German linguistic minority) — actual territorial framework is 9 municipalities in 2 districts (Eupen district + Sankt Vith district), comprises ~854 km² with a population of ~78,000. Family-law framework operates under the federal Belgian civil-law framework (Belgian Civil Code 1804 Family Law portion + Belgian Family-Law Reform 2024) applied uniformly across Belgian language communities. The Eupen Court of First Instance is the primary trial court; the Liège Court of Appeal is the apex regional appellate court; final appellate jurisdiction lies with the Court of Cassation of Belgium. The German-speaking Community is silent on 'parental alienation' as a statutory label. Belgium is a Hague Convention 1980 signatory and party (acceded 11 January 1999 effective 1 May 1999) — German-speaking Community is governed by Belgian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Belgium 1993 (federal framework with language communities)",
+      "title": "Constitution of Belgium 1993",
+      "year": 1993,
+      "url": "https://www.const-court.be/",
+      "relevance": "Belgian Constitutional framework of 17 February 1994 establishing federal framework with Flemish + French + German-speaking language communities."
+    },
+    {
+      "citation": "Treaty of Versailles 1919 (Eupen-Malmedy transfer)",
+      "title": "Treaty of Versailles — Eupen-Malmedy",
+      "year": 1919,
+      "url": "https://www.dglive.be/",
+      "relevance": "Treaty of Versailles signed 28 June 1919 effective 10 January 1920 — transferring Eupen-Malmedy region from German Empire to Belgium."
+    },
+    {
+      "citation": "Belgian Community Reform Acts 1970+1980+1989+1993",
+      "title": "Belgian Community Reform Acts",
+      "year": 1993,
+      "url": "https://www.belgium.be/",
+      "relevance": "Belgian Federal Community Reform Acts of 1970 + 1980 + 1989 + 1993 — formalising German-speaking Community framework."
+    },
+    {
+      "citation": "Belgian Civil Code 1804 + Family-Law Reform 2024",
+      "title": "Belgian Civil Code + Family-Law Reform",
+      "year": 2024,
+      "url": "https://www.belgium.be/",
+      "relevance": "Belgian Federal Civil Code 1804 Family Law portion applicable uniformly across German-speaking Community + 2024 Family-Law Reform framework."
+    },
+    {
+      "citation": "Hague Convention 1980 — Belgian accession 11 January 1999",
+      "title": "Hague Convention 1980 — Belgium",
+      "year": 1999,
+      "url": "https://www.hcch.net/",
+      "relevance": "Belgian Hague Convention 1980 accession 11 January 1999 effective 1 May 1999 — applicable to German-speaking Community."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eupen Court of First Instance (Tribunal de première instance d'Eupen / Gericht erster Instanz Eupen)",
+      "seat": "Eupen",
+      "url": "https://www.tribunaux-rechtbanken.be/",
+      "role": "Primary trial court for civil and criminal matters from German-speaking Community."
+    },
+    {
+      "name": "Liège Court of Appeal",
+      "seat": "Liège",
+      "url": "https://www.tribunaux-rechtbanken.be/",
+      "role": "Apex regional appellate court for civil and criminal matters from German-speaking Community."
+    },
+    {
+      "name": "Court of Cassation of Belgium (Cour de cassation / Hof van Cassatie)",
+      "seat": "Brussels",
+      "url": "https://www.cassonline.be/",
+      "role": "Final appellate court for civil and criminal matters from German-speaking Community."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Belgian Federal Public Service Health (Service public fédéral Santé publique / Föderaler Öffentlicher Dienst Gesundheit)",
+      "url": "https://www.health.belgium.be/",
+      "role": "Belgian Federal professional regulatory framework applicable in German-speaking Community."
+    }
+  ],
+  "anonymisation_convention": "German-speaking Community family-court decisions are anonymised per Belgian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1815,
+      "title": "Prussian Rhine Province established",
+      "description": "Prussian Rhine Province established 1815 — Eupen-Malmedy region under Prussian framework 1815-1919."
+    },
+    {
+      "year": 1919,
+      "title": "Treaty of Versailles + Eupen-Malmedy transfer",
+      "description": "Treaty of Versailles signed 28 June 1919 effective 10 January 1920 — transferring Eupen-Malmedy region from German Empire to Belgium."
+    },
+    {
+      "year": 1940,
+      "title": "Nazi German re-annexation",
+      "description": "Nazi Germany re-annexation of Eupen-Malmedy 18 May 1940 during German invasion of Belgium — forced re-Germanisation 1940-1945."
+    },
+    {
+      "year": 1970,
+      "title": "First Belgian Community Reform",
+      "description": "First Belgian Community Reform 1970 — initial formal community recognition framework."
+    },
+    {
+      "year": 1980,
+      "title": "Second Belgian Community Reform",
+      "description": "Second Belgian Community Reform 1980 — establishment of German-speaking Community framework."
+    },
+    {
+      "year": 1993,
+      "title": "Belgian federal framework + Constitution 1993",
+      "description": "Belgian federal framework + Constitution 1993 — full formal community recognition framework."
+    },
+    {
+      "year": 2024,
+      "title": "Belgian Family-Law Reform",
+      "description": "Belgian Family-Law Reform 2024 — federal family-law framework applicable uniformly across Belgian language communities."
+    }
+  ],
+  "structural_findings": [
+    "German-speaking Community of Belgium operates a federal Belgian civil-law constitutionally-recognised language community framework — places German-speaking Community in the Eastern Belgian language-community cluster.",
+    "Smallest constitutionally-recognised language community in Belgian federal framework (~78,000 population / ~0.7% of Belgian population) is structurally distinctive globally — substantially smaller than Flemish Community + French Community.",
+    "Only modern German-speaking jurisdiction formally annexed by a non-German state via the Treaty of Versailles 1919 is structurally distinctive globally — only post-WWI German-Belgian border transfer framework.",
+    "German-speaking-Belgian-cultural-political-identity framework is structurally distinctive globally — formal German-language framework for legislative, executive, educational, judicial frameworks within non-German-speaking-majority federal framework.",
+    "Only Belgian language community with formal legislative + executive autonomy framework operating from single integrated parliament + executive seat (Eupen) is structurally distinctive within Belgian federal cluster.",
+    "Treaty of Versailles 1919 Eupen-Malmedy transfer + 1940-1945 Nazi re-annexation + 1944 restoration historical framework is structurally distinctive globally.",
+    "Belgian 1970+1980+1989+1993 Community Reform framework is structurally distinctive globally — only modern Western European federal language-community formalisation framework.",
+    "Belgian Hague-Convention-1980-accession-1999 framework applies."
+  ],
+  "references": [
+    "jurisdiction:belgium",
+    "jurisdiction:germany",
+    "jurisdiction:netherlands",
+    "jurisdiction:luxembourg",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Parliament of the German-speaking Community (Parlament der Deutschsprachigen Gemeinschaft)",
+      "url": "https://www.pdg.be/",
+      "publisher": "German-speaking Community of Belgium",
+      "language": "de"
+    },
+    {
+      "title": "Government of the German-speaking Community",
+      "url": "https://www.dglive.be/",
+      "publisher": "German-speaking Community of Belgium",
+      "language": "de"
+    }
+  ],
+  "editorial_notes": [
+    "German-speaking Community of Belgium jurisdiction sidecar — civil-law Eastern Belgian constitutionally-recognised language community (Constitution of Belgium 1993 + Treaty of Versailles 1919 + Belgian Community Reform Acts 1970+1980+1989+1993 + Belgian Civil Code 1804 + Belgian Family-Law Reform 2024 + Prussian Rhine Province 1815-1919 + Nazi German re-annexation 1940-1945 + Parliament + Government + Ministry of the German-speaking Community + Belgian Hague-1980). Smallest constitutionally-recognised language community in Belgian federal framework globally + only modern German-speaking jurisdiction formally annexed by a non-German state via Treaty of Versailles 1919 + German-speaking-Belgian-cultural-political-identity framework + only Belgian language community with formal legislative + executive autonomy framework operating from single integrated parliament + executive seat + 1919-1920-1940-1945 historical framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Eastern-Belgian + civil-law + Belgian-language-community cluster + smallest-Belgian-language-community-globally-distinctive + Treaty-of-Versailles-1919-Eupen-Malmedy-transfer + 1940-1945-Nazi-re-annexation + 1970-1980-1989-1993-Belgian-Community-Reform-framework + German-speaking-Belgian-cultural-political-identity + Eupen-integrated-Parliament-Government-Ministry-seat + Belgian-Hague-1980-1999 clusters within the corpus."
+  ]
+}

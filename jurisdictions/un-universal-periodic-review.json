@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "un-universal-periodic-review",
+  "name": "UN Universal Periodic Review (UPR / UN Human Rights Council Universal Periodic Review)",
+  "jurisdiction_code": "UPR",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The UN Universal Periodic Review (UPR) is a global supranational meta-framework UN Human Rights Council peer-review mechanism — structurally distinctive globally as the only modern universal multilateral peer-review-of-all-states human-rights framework (UPR established 15 March 2006 by UN General Assembly Resolution 60/251 establishing UN Human Rights Council UNHRC + first cycle commenced 7 April 2008 — formal UN peer-review-of-all-states human-rights framework, distinct from UN treaty-body frameworks which operate state-party-only frameworks, structurally distinctive globally as the only modern universal multilateral peer-review-of-all-states human-rights framework with formal universal coverage), as the central jurisdiction of the formal UN Human Rights Council Universal Periodic Review Mechanism (UPR Cycle 1 2008-2011 + Cycle 2 2012-2016 + Cycle 3 2017-2021 + Cycle 4 2022-2026 + Cycle 5 2027-2031 — formal four-and-a-half-year cycle peer-review framework with all 193 UN member states reviewed in each cycle, structurally distinctive globally as the most-systematic modern human-rights peer-review framework), as the central jurisdiction of one of the most distinctive modern UN human-rights mechanism frameworks operating both formal universal-coverage framework + formal state-state peer-review framework + formal civil-society + NHRI stakeholder framework (UPR operates formal UN Member State + National Human Rights Institution NHRI + Civil Society + UN treaty-body + UN Special Procedures stakeholder framework — formal multi-stakeholder framework, distinct from rest-of-modern-UN-human-rights frameworks operating without formal multi-stakeholder framework), and as the central jurisdiction of one of the most distinctive modern UN UPR PA-relevant framework reviews globally (multiple UPR Country Reports addressing PA-relevant framework via formal recommendations on children's rights + family violence + women's rights + custody-determination + Article 13(b) Hague Convention 1980 application frameworks — formal multi-jurisdictional UPR PA-relevant framework, distinct from rest-of-modern-UN-human-rights frameworks operating without formal multi-jurisdictional PA-relevant framework). The UPR is binding upon all 193 UN member states + observer states as formal universal participation framework. The UPR is silent on 'parental alienation' as a statutory label, though formal recommendations and concluding observations document substantial PA-relevant framework via children's rights + family violence + women's rights + custody-determination + Hague Convention 1980 Article 13(b) frameworks. The UN Human Rights Council is the formal monitoring framework body; the Office of the UN High Commissioner for Human Rights OHCHR is the formal Secretariat framework body. The UPR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN General Assembly Resolution 60/251 (UN Human Rights Council Establishment)",
+      "title": "UN General Assembly Resolution 60/251",
+      "year": 2006,
+      "url": "https://www.un.org/",
+      "relevance": "UN General Assembly Resolution 60/251 adopted 15 March 2006 — formal establishment of UN Human Rights Council UNHRC + formal mandate to establish Universal Periodic Review mechanism."
+    },
+    {
+      "citation": "UN Human Rights Council Resolution 5/1 (UPR Mechanism Framework)",
+      "title": "UN Human Rights Council Resolution 5/1",
+      "year": 2007,
+      "url": "https://www.ohchr.org/",
+      "relevance": "UN Human Rights Council Resolution 5/1 adopted 18 June 2007 — formal UPR mechanism framework establishing four-and-a-half-year cycle peer-review framework."
+    },
+    {
+      "citation": "UPR Cycle 1 (2008-2011) + Cycle 2 (2012-2016) + Cycle 3 (2017-2021) + Cycle 4 (2022-2026)",
+      "title": "UPR Cycles 1-4",
+      "year": 2008,
+      "url": "https://www.ohchr.org/",
+      "relevance": "UPR Cycle 1 2008-2011 + Cycle 2 2012-2016 + Cycle 3 2017-2021 + Cycle 4 2022-2026 — formal four-and-a-half-year cycle peer-review framework with all 193 UN member states reviewed in each cycle."
+    },
+    {
+      "citation": "UPR PA-relevant Framework Recommendations Multi-Jurisdictional Database",
+      "title": "UPR PA-relevant Framework Recommendations",
+      "year": 2024,
+      "url": "https://upr-info.org/",
+      "relevance": "UPR Info database documenting UPR recommendations on PA-relevant framework via children's rights + family violence + women's rights + custody-determination + Hague Convention 1980 Article 13(b) frameworks — formal multi-jurisdictional UPR PA-relevant framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Human Rights Council (UNHRC)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/hr-bodies/hrc",
+      "role": "Formal monitoring framework body for UPR."
+    },
+    {
+      "name": "Office of the UN High Commissioner for Human Rights (OHCHR)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/",
+      "role": "Formal Secretariat framework body for UPR."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "UPR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UPR-related individual communications operate via formal recommendations + concluding observations framework using initials where appropriate.",
+  "key_developments": [
+    {
+      "year": 1946,
+      "title": "UN Commission on Human Rights established",
+      "description": "UN Commission on Human Rights established February 1946 — predecessor framework to UN Human Rights Council + UPR."
+    },
+    {
+      "year": 2006,
+      "title": "UN Human Rights Council established + UPR mandate",
+      "description": "UN General Assembly Resolution 60/251 adopted 15 March 2006 — formal establishment of UN Human Rights Council UNHRC + formal mandate to establish Universal Periodic Review mechanism."
+    },
+    {
+      "year": 2007,
+      "title": "UPR Mechanism Framework established",
+      "description": "UN Human Rights Council Resolution 5/1 adopted 18 June 2007 — formal UPR mechanism framework established."
+    },
+    {
+      "year": 2008,
+      "title": "UPR Cycle 1 commences",
+      "description": "UPR Cycle 1 commenced 7 April 2008 — formal four-and-a-half-year cycle peer-review framework operational."
+    },
+    {
+      "year": 2011,
+      "title": "UPR Cycle 1 completes",
+      "description": "UPR Cycle 1 completed October 2011 — all 193 UN member states reviewed in first cycle."
+    },
+    {
+      "year": 2022,
+      "title": "UPR Cycle 4 commences",
+      "description": "UPR Cycle 4 commenced May 2022 — current cycle 2022-2026."
+    }
+  ],
+  "structural_findings": [
+    "UPR operates a supranational global UN Human Rights Council peer-review mechanism — places UPR in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral peer-review-of-all-states human-rights framework is structurally distinctive globally — formal universal coverage with all 193 UN member states reviewed in each cycle.",
+    "Central jurisdiction of formal UN Human Rights Council Universal Periodic Review Mechanism is structurally distinctive globally — most-systematic modern human-rights peer-review framework.",
+    "Central jurisdiction of one of most distinctive modern UN human-rights mechanism frameworks operating both formal universal-coverage framework + formal state-state peer-review framework + formal civil-society + NHRI stakeholder framework is structurally distinctive globally — formal multi-stakeholder framework.",
+    "Central jurisdiction of one of most distinctive modern UN UPR PA-relevant framework reviews globally is structurally distinctive globally — formal multi-jurisdictional UPR PA-relevant framework.",
+    "All 193 UN member state + observer state participation framework is structurally distinctive globally — formal universal participation framework.",
+    "UPR Cycle 1 + Cycle 2 + Cycle 3 + Cycle 4 + Cycle 5 four-and-a-half-year cycle peer-review framework is structurally distinctive globally — only modern universal multilateral peer-review-cycle framework.",
+    "1946 UN Commission on Human Rights + 2006 UN HRC + UPR mandate + 2007 UPR Mechanism Framework + 2008 UPR Cycle 1 + 2022 UPR Cycle 4 UN-human-rights-mechanism-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:international-institutional-positions"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — Universal Periodic Review",
+      "url": "https://www.ohchr.org/en/hr-bodies/upr/upr-home",
+      "publisher": "OHCHR",
+      "language": "en"
+    },
+    {
+      "title": "UPR Info",
+      "url": "https://upr-info.org/",
+      "publisher": "UPR Info",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UN UPR jurisdiction sidecar — supranational global UN Human Rights Council peer-review mechanism meta-framework (UN General Assembly Resolution 60/251 2006 + UN Human Rights Council Resolution 5/1 2007 + UPR Cycle 1 2008-2011 + Cycle 2 2012-2016 + Cycle 3 2017-2021 + Cycle 4 2022-2026 + UPR Info PA-relevant Framework Recommendations Database + OHCHR Secretariat). Only modern universal multilateral peer-review-of-all-states human-rights framework globally + central jurisdiction of formal UN Human Rights Council Universal Periodic Review Mechanism + central jurisdiction of one of most distinctive modern UN human-rights mechanism frameworks operating both formal universal-coverage framework + formal state-state peer-review framework + formal civil-society + NHRI stakeholder framework + central jurisdiction of one of most distinctive modern UN UPR PA-relevant framework reviews globally + All 193 UN member state + observer state participation framework + UPR Cycle 1 + Cycle 2 + Cycle 3 + Cycle 4 + Cycle 5 four-and-a-half-year cycle peer-review framework + 1946 UN Commission on Human Rights + 2006 UN HRC + UPR mandate + 2007 UPR Mechanism Framework + 2008 UPR Cycle 1 + 2022 UPR Cycle 4 UN-human-rights-mechanism-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + universal-multilateral-peer-review-mechanism cluster + UPR-only-modern-universal-multilateral-peer-review-of-all-states-globally-distinctive + UPR-four-and-a-half-year-cycle-Cycle-1-2008-2011-Cycle-2-2012-2016-Cycle-3-2017-2021-Cycle-4-2022-2026 + UPR-multi-stakeholder-framework + UPR-PA-relevant-framework-recommendations + UN-Human-Rights-Council-2006 + Office-of-the-UN-High-Commissioner-for-Human-Rights-OHCHR clusters within the corpus."
+  ]
+}

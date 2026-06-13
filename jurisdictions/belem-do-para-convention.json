@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "id": "belem-do-para-convention",
+  "name": "Belém do Pará Convention (Inter-American Convention on the Prevention, Punishment and Eradication of Violence Against Women 1994)",
+  "jurisdiction_code": "BDP",
+  "legal_system": "supranational",
+  "language": ["es", "pt", "en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Belém do Pará Convention (formally Inter-American Convention on the Prevention, Punishment and Eradication of Violence Against Women / Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer) is a Latin American supranational meta-framework violence-against-women binding-treaty instrument adopted by the Organization of American States (OAS) — structurally distinctive globally as the only modern regional binding-treaty framework operating specifically on violence-against-women framework predating Istanbul Convention 2011 framework (Belém do Pará Convention adopted 9 June 1994 by OAS XXIV General Assembly in Belém do Pará, Brazil + effective 5 March 1995 — formal Latin American regional binding-treaty framework establishing comprehensive violence-against-women framework, distinct from Istanbul Convention 2011 framework adopted 17 years later, structurally distinctive globally as the first regional binding-treaty framework operating specifically on violence-against-women framework, predating Istanbul Convention 2011 framework by 17 years), as the central jurisdiction of the formal Inter-American post-CEDAW comprehensive-violence-against-women framework elaboration (Belém do Pará Convention adopted as Inter-American regional supplement to CEDAW 1979 framework — applicable to 32 of 34 OAS member states that have ratified the Convention as of 2026, with only United States + Cuba not ratifying framework, structurally distinctive globally as the most-widely-adopted regional binding-treaty framework on violence-against-women framework with near-universal Latin American + Caribbean adoption framework), as the central jurisdiction of one of the most distinctive modern Inter-American Court of Human Rights case-law frameworks (Inter-American Court of Human Rights IACtHR González et al. (Cotton Field) v. Mexico 16 November 2009 + Veliz Franco et al. v. Guatemala 19 May 2014 + multiple subsequent IACtHR cases — formal IACtHR case-law framework applying Belém do Pará Convention framework to state-party violations, distinct from rest-of-modern-regional-women's-rights frameworks operating without formal regional-court-case-law framework), and as the central jurisdiction of the MESECVI monitoring framework (Inter-American Mechanism for the Follow-up of the Convention on the Prevention, Punishment and Eradication of Violence Against Women MESECVI established 26 October 2004 — formal dedicated monitoring-body framework with formal periodic-evaluation + Country Report framework, distinct from CEDAW Committee framework + GREVIO framework). The Belém do Pará Convention is binding upon 32 of 34 OAS member states that have ratified the Convention as of 2026 (excluding United States + Cuba). The Convention is silent on 'parental alienation' as a statutory label, though formal violence-against-women framework intersects with parental-alienation framework. The MESECVI is the apex monitoring framework body; the Inter-American Court of Human Rights is the apex judicial body. The Belém do Pará Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Inter-American Convention on the Prevention, Punishment and Eradication of Violence Against Women 1994",
+      "title": "Belém do Pará Convention",
+      "year": 1995,
+      "url": "https://www.oas.org/",
+      "relevance": "Inter-American Convention on the Prevention, Punishment and Eradication of Violence Against Women adopted 9 June 1994 by OAS XXIV General Assembly in Belém do Pará, Brazil + effective 5 March 1995 — formal Latin American regional binding-treaty framework establishing comprehensive violence-against-women framework."
+    },
+    {
+      "citation": "MESECVI Establishment Statute 2004",
+      "title": "MESECVI Establishment Statute",
+      "year": 2004,
+      "url": "https://www.oas.org/en/mesecvi/",
+      "relevance": "Inter-American Mechanism for the Follow-up of the Convention on the Prevention, Punishment and Eradication of Violence Against Women MESECVI established 26 October 2004 — formal dedicated monitoring-body framework."
+    },
+    {
+      "citation": "Inter-American Court of Human Rights González et al. (Cotton Field) v. Mexico 2009 + Veliz Franco et al. v. Guatemala 2014",
+      "title": "IACtHR Cotton Field + Veliz Franco Cases",
+      "year": 2014,
+      "url": "https://www.corteidh.or.cr/",
+      "relevance": "Inter-American Court of Human Rights IACtHR González et al. (Cotton Field) v. Mexico 16 November 2009 + Veliz Franco et al. v. Guatemala 19 May 2014 — formal IACtHR case-law framework applying Belém do Pará Convention framework to state-party violations."
+    },
+    {
+      "citation": "CEDAW (universal multilateral framework)",
+      "title": "CEDAW",
+      "year": 1981,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Elimination of All Forms of Discrimination Against Women CEDAW 1979/1981 — universal multilateral framework underlying Belém do Pará Convention framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Inter-American Mechanism for the Follow-up of the Convention on the Prevention, Punishment and Eradication of Violence Against Women (MESECVI)",
+      "seat": "Washington DC",
+      "url": "https://www.oas.org/en/mesecvi/",
+      "role": "Apex monitoring framework body for Belém do Pará Convention."
+    },
+    {
+      "name": "Inter-American Court of Human Rights (IACtHR)",
+      "seat": "San José",
+      "url": "https://www.corteidh.or.cr/",
+      "role": "Apex judicial body for state-party violations of Belém do Pará Convention + American Convention on Human Rights."
+    },
+    {
+      "name": "Inter-American Commission on Human Rights",
+      "seat": "Washington DC",
+      "url": "https://www.oas.org/en/iachr/",
+      "role": "Inter-American Commission on Human Rights — formal Inter-American human rights monitoring body, including Special Rapporteurship on the Rights of Women framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OAS Secretariat",
+      "url": "https://www.oas.org/",
+      "role": "Belém do Pará Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Belém do Pará Convention-related individual communications are anonymised per MESECVI + IACtHR practice using initials.",
+  "key_developments": [
+    {
+      "year": 1979,
+      "title": "CEDAW adopted",
+      "description": "UN Convention on the Elimination of All Forms of Discrimination Against Women CEDAW adopted 18 December 1979 — universal multilateral framework underlying Belém do Pará Convention."
+    },
+    {
+      "year": 1994,
+      "title": "Belém do Pará Convention adopted",
+      "description": "Inter-American Convention on the Prevention, Punishment and Eradication of Violence Against Women adopted 9 June 1994 by OAS XXIV General Assembly in Belém do Pará, Brazil — first regional binding-treaty framework operating specifically on violence-against-women framework."
+    },
+    {
+      "year": 1995,
+      "title": "Belém do Pará Convention enters force",
+      "description": "Inter-American Convention on the Prevention, Punishment and Eradication of Violence Against Women entered force 5 March 1995 — formal regional binding-treaty framework operational."
+    },
+    {
+      "year": 2004,
+      "title": "MESECVI established",
+      "description": "Inter-American Mechanism for the Follow-up of the Convention on the Prevention, Punishment and Eradication of Violence Against Women MESECVI established 26 October 2004 — formal dedicated monitoring-body framework."
+    },
+    {
+      "year": 2009,
+      "title": "Cotton Field judgment",
+      "description": "Inter-American Court of Human Rights IACtHR González et al. (Cotton Field) v. Mexico Judgment 16 November 2009 — landmark formal IACtHR case-law framework applying Belém do Pará Convention framework to Mexican state-party violations."
+    },
+    {
+      "year": 2014,
+      "title": "Veliz Franco judgment",
+      "description": "Inter-American Court of Human Rights IACtHR Veliz Franco et al. v. Guatemala Judgment 19 May 2014 — formal IACtHR case-law framework applying Belém do Pará Convention framework to Guatemalan state-party violations."
+    }
+  ],
+  "structural_findings": [
+    "Belém do Pará Convention operates a supranational Latin American regional violence-against-women binding-treaty framework — places Belém do Pará Convention in the Latin American supranational-meta-framework cluster.",
+    "Only modern regional binding-treaty framework operating specifically on violence-against-women framework predating Istanbul Convention 2011 framework is structurally distinctive globally — first regional binding-treaty framework operating specifically on violence-against-women framework.",
+    "Central jurisdiction of formal Inter-American post-CEDAW comprehensive-violence-against-women framework elaboration is structurally distinctive globally — Belém do Pará Convention framework.",
+    "Central jurisdiction of one of most distinctive modern Inter-American Court of Human Rights case-law frameworks is structurally distinctive globally — Cotton Field + Veliz Franco + subsequent IACtHR cases.",
+    "Central jurisdiction of MESECVI monitoring framework is structurally distinctive globally — formal dedicated monitoring-body framework.",
+    "32 of 34 OAS member state party ratification framework is structurally distinctive globally — most-widely-adopted regional binding-treaty framework on violence-against-women framework with near-universal Latin American + Caribbean adoption framework.",
+    "Cotton Field judgment 2009 landmark framework is structurally distinctive globally — first IACtHR judgment applying Belém do Pará Convention framework to state-party violations.",
+    "1979 CEDAW + 1994 Belém do Pará Convention + 1995 entry into force + 2004 MESECVI + 2009 Cotton Field + 2011 Istanbul Convention regional-women's-rights-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:organization-of-american-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:coercive-control-statutes-and-pa-critique-intersection",
+    "evidence:latam5-institutional-anti-sap-comparison",
+    "evidence:global-south-womens-rights-critique-register"
+  ],
+  "sources": [
+    {
+      "title": "Organization of American States",
+      "url": "https://www.oas.org/",
+      "publisher": "OAS",
+      "language": "en"
+    },
+    {
+      "title": "MESECVI",
+      "url": "https://www.oas.org/en/mesecvi/",
+      "publisher": "OAS",
+      "language": "en"
+    },
+    {
+      "title": "Inter-American Court of Human Rights",
+      "url": "https://www.corteidh.or.cr/",
+      "publisher": "Inter-American Court of Human Rights",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Belém do Pará Convention jurisdiction sidecar — supranational Latin American regional violence-against-women binding-treaty meta-framework (Belém do Pará Convention 1994/1995 + MESECVI Establishment 2004 + Cotton Field 2009 + Veliz Franco 2014 + CEDAW 1979/1981). Only modern regional binding-treaty framework operating specifically on violence-against-women framework predating Istanbul Convention 2011 framework globally + central jurisdiction of formal Inter-American post-CEDAW comprehensive-violence-against-women framework elaboration + central jurisdiction of one of most distinctive modern Inter-American Court of Human Rights case-law frameworks + central jurisdiction of MESECVI monitoring framework + 32 of 34 OAS member state party ratification framework + Cotton Field judgment 2009 landmark framework + 1979 CEDAW + 1994 Belém do Pará Convention + 2004 MESECVI + 2009 Cotton Field + 2011 Istanbul Convention regional-women's-rights-framework-development sequence. Regional women's-rights triad complete (Belém do Pará 1994 + Istanbul Convention 2011 + CEDAW 1979 universal framework).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Latin-American + supranational + regional-violence-against-women-binding-treaty cluster + Belém-do-Pará-Convention-1994-first-regional-women-violence-binding-treaty-globally-distinctive + MESECVI-dedicated-monitoring-body + Cotton-Field-IACtHR-2009 + Veliz-Franco-IACtHR-2014 + 32-of-34-OAS-state-party-ratification + Istanbul-Convention-2011-Council-of-Europe-counterpart-framework + CEDAW-supranational-framework-underlying-1979-1981 + 17-year-predecessor-to-Istanbul-Convention clusters within the corpus."
+  ]
+}

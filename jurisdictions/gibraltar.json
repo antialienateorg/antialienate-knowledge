@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "id": "gibraltar",
+  "name": "Gibraltar",
+  "jurisdiction_code": "GI",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Gibraltar is a Western European common-law British Overseas Territory — structurally distinctive globally as the only state-level entity directly bordering Spain with British common-law framework, and post-Brexit as the only BOT formerly in the European Union (until 31 January 2020). Family-law framework operates under the Children Act 2009 (drawing on English Children Act 1989 model), the Matrimonial Causes Act 1962, the Marriage Act 2010 (including same-sex marriage), and English common-law inherited principles. Parental responsibility and child custody are governed by Children Act 2009 Part II. The Court of Appeal of Gibraltar is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Supreme Court of Gibraltar (Family Division) and Magistrates' Court. Psychology profession is regulated through the Gibraltar Health Authority. Gibraltar is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Act 2009 s. 1. Gibraltar is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986. The Gibraltar protocol of the UK-EU Trade and Cooperation Agreement is under negotiation post-Brexit for cross-border arrangements.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Act 2009",
+      "title": "Children Act",
+      "year": 2009,
+      "url": "https://www.gibraltarlaws.gov.gi/",
+      "relevance": "Federal Children Act drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 1), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Matrimonial Causes Act 1962",
+      "title": "Matrimonial Causes Act",
+      "year": 1962,
+      "url": "https://www.gibraltarlaws.gov.gi/",
+      "relevance": "Federal matrimonial-causes statute drawing on English Matrimonial Causes Act model."
+    },
+    {
+      "citation": "Marriage Act 2010 (including same-sex marriage)",
+      "title": "Marriage Act",
+      "year": 2010,
+      "url": "https://www.gibraltarlaws.gov.gi/",
+      "relevance": "Federal Marriage Act including same-sex marriage provisions."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Gibraltar",
+      "seat": "Gibraltar",
+      "url": "https://www.supremecourt.gi/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Gibraltar."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Gibraltar Health Authority",
+      "url": "https://www.gha.gi/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Gibraltarian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Gibraltar effective 1 August 1986."
+    },
+    {
+      "year": 2009,
+      "title": "Children Act 2009",
+      "description": "Federal Children Act enacted drawing on English Children Act 1989 model."
+    },
+    {
+      "year": 2010,
+      "title": "Marriage Act 2010 (including same-sex marriage)",
+      "description": "Federal Marriage Act including same-sex marriage provisions."
+    },
+    {
+      "year": 2020,
+      "title": "Brexit",
+      "description": "UK (including Gibraltar) left the European Union effective 31 January 2020."
+    }
+  ],
+  "structural_findings": [
+    "Gibraltar operates a common-law framework drawing on English-law model with British Overseas Territory status — places Gibraltar in the BOT cluster.",
+    "Post-Brexit position is structurally distinctive globally — only BOT formerly in the EU; Gibraltar protocol under negotiation for cross-border arrangements with Spain.",
+    "Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:england-and-wales",
+    "jurisdiction:spain",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Gibraltar Supreme Court",
+      "url": "https://www.supremecourt.gi/",
+      "publisher": "Supreme Court",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "Gibraltar Health Authority",
+      "url": "https://www.gha.gi/",
+      "publisher": "GHA",
+      "language": "en"
+    },
+    {
+      "title": "Gibraltar Laws",
+      "url": "https://www.gibraltarlaws.gov.gi/",
+      "publisher": "Government of Gibraltar",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Gibraltar jurisdiction sidecar — common-law Western European BOT (Children Act 2009 + Marriage Act 2010 + JCPC final-appellate + Hague via UK territorial extension 1986). Post-Brexit position distinctive globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western European + common-law + BOT cluster + post-Brexit-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

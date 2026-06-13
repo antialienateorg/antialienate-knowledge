@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "id": "galapagos",
+  "name": "Galápagos Islands (Provincia de Galápagos)",
+  "jurisdiction_code": "EC-GAL",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Galápagos Islands (Provincia de Galápagos / Archipiélago de Colón) are a Pacific civil-law Ecuadorian special-regime province located ~1,000 km west of mainland Ecuador on the Equator — structurally distinctive globally as one of only two state-level entities operating a constitutional special-regime framework explicitly motivated by global-biosphere-conservation requirements (with Antarctica via the Antarctic Treaty System), as the first UNESCO World Heritage Site (inscribed 1978, among the first 12 sites globally), and as the central jurisdiction of the Ley Orgánica de Régimen Especial de la Provincia de Galápagos 2015 (LOREG / Ley Orgánica de Régimen Especial) which establishes Galápagos's distinctive permanent-resident registration system, transferred-residence restriction framework, and Consejo de Gobierno del Régimen Especial de Galápagos (Governing Council of the Special Regime) replacing the former Instituto Nacional Galápagos (INGALA, 1998-2008). Galápagos is constitutionally protected by Ecuadorian Constitution 2008 Article 258 establishing the Galápagos Special Regime. The Galápagos Marine Reserve (1998, extended 2022) covers ~198,000 km² making it one of the largest marine protected areas in the world. Family-law framework operates under the Ecuadorian Civil Code (Código Civil 1860, as amended) applied via Galápagos Province administrative framework. Parental authority and child custody operate under Ecuadorian Civil Code and the Código de la Niñez y Adolescencia 2003 (Children and Adolescents Code) under best-interests-of-the-child standard. The Provincial Court of Justice of Galápagos (Corte Provincial de Justicia de Galápagos) is the apex regional court; final appellate jurisdiction lies with the National Court of Justice of Ecuador and the Constitutional Court of Ecuador. The Galápagos Islands are silent on 'parental alienation' as a statutory label. Ecuador is a Hague Convention 1980 party (acceded 22 January 1992) — Galápagos Hague applicability via Ecuadorian territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Ley Orgánica de Régimen Especial de la Provincia de Galápagos (LOREG) 2015",
+      "title": "Galápagos Special Regime Organic Law",
+      "year": 2015,
+      "url": "https://www.gobiernogalapagos.gob.ec/",
+      "relevance": "Ecuadorian Organic Law of 11 June 2015 establishing Galápagos's distinctive permanent-resident registration system, transferred-residence restriction framework, and Consejo de Gobierno del Régimen Especial de Galápagos."
+    },
+    {
+      "citation": "Ecuadorian Constitution 2008 Article 258",
+      "title": "Ecuadorian Constitution Article 258",
+      "year": 2008,
+      "url": "https://www.asambleanacional.gob.ec/",
+      "relevance": "Ecuadorian Constitutional Article establishing Galápagos Special Regime — constitutional foundation for distinctive administrative-territorial framework."
+    },
+    {
+      "citation": "Ecuadorian Civil Code 1860 (applicable in Galápagos)",
+      "title": "Ecuadorian Civil Code",
+      "year": 1860,
+      "url": "https://www.asambleanacional.gob.ec/",
+      "relevance": "Ecuadorian Civil Code applicable in Galápagos via Provincia administrative framework — governs parental authority and child custody."
+    },
+    {
+      "citation": "Código de la Niñez y Adolescencia 2003",
+      "title": "Children and Adolescents Code",
+      "year": 2003,
+      "url": "https://www.asambleanacional.gob.ec/",
+      "relevance": "Ecuadorian Code governing child-protection and parental-responsibility framework applicable in Galápagos."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Corte Provincial de Justicia de Galápagos",
+      "seat": "Puerto Baquerizo Moreno, San Cristóbal",
+      "url": "https://www.funcionjudicial.gob.ec/",
+      "role": "Apex regional court for civil and criminal matters from Galápagos."
+    },
+    {
+      "name": "Corte Nacional de Justicia de Ecuador (National Court of Justice)",
+      "seat": "Quito",
+      "url": "https://www.cortenacional.gob.ec/",
+      "role": "Apex Ecuadorian appellate court for civil and criminal matters from Galápagos."
+    },
+    {
+      "name": "Corte Constitucional de Ecuador (Constitutional Court)",
+      "seat": "Quito",
+      "url": "https://www.corteconstitucional.gob.ec/",
+      "role": "Apex Ecuadorian constitutional court for federal constitutional questions from Galápagos."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Federación Ecuatoriana de Psicólogos",
+      "url": "https://www.psicologosecuador.org/",
+      "role": "Ecuadorian professional regulatory framework for psychology applicable in Galápagos."
+    }
+  ],
+  "anonymisation_convention": "Galápagos-related decisions are anonymised per Ecuadorian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1832,
+      "title": "Ecuadorian annexation",
+      "description": "Republic of Ecuador formally annexed Galápagos Islands on 12 February 1832 — beginning of Ecuadorian sovereignty framework."
+    },
+    {
+      "year": 1959,
+      "title": "Galápagos National Park established",
+      "description": "Ecuadorian Government established Galápagos National Park on 4 July 1959 — protecting ~97% of land area for conservation."
+    },
+    {
+      "year": 1978,
+      "title": "UNESCO World Heritage Site inscription",
+      "description": "UNESCO World Heritage Site inscription of Galápagos Islands in 1978 — among the first 12 sites inscribed globally on the Heritage List."
+    },
+    {
+      "year": 1998,
+      "title": "Galápagos Marine Reserve + INGALA established",
+      "description": "Ecuadorian Government established Galápagos Marine Reserve in 1998 and Instituto Nacional Galápagos (INGALA) for special-regime administration."
+    },
+    {
+      "year": 2008,
+      "title": "Ecuadorian Constitution Article 258",
+      "description": "Ecuadorian Constitution of 28 September 2008 establishing constitutional Galápagos Special Regime via Article 258."
+    },
+    {
+      "year": 2015,
+      "title": "LOREG (Galápagos Special Regime Organic Law)",
+      "description": "Ecuadorian Organic Law of 11 June 2015 establishing Galápagos's distinctive permanent-resident registration system, transferred-residence restriction framework, and Consejo de Gobierno del Régimen Especial de Galápagos replacing INGALA."
+    },
+    {
+      "year": 2022,
+      "title": "Galápagos Marine Reserve extension",
+      "description": "Ecuadorian Government extended Galápagos Marine Reserve in 2022 to ~198,000 km² — among the largest marine protected areas globally."
+    }
+  ],
+  "structural_findings": [
+    "Galápagos operates a civil-law Ecuadorian Civil Code framework via special-regime administrative framework — places Galápagos in the eastern-Pacific Ecuadorian-special-regime cluster.",
+    "One of only two state-level entities operating constitutional special-regime framework explicitly motivated by global-biosphere-conservation requirements is structurally distinctive globally — alongside Antarctica via the Antarctic Treaty System.",
+    "First UNESCO World Heritage Site inscription (1978) is structurally distinctive globally — among first 12 sites inscribed globally on the Heritage List.",
+    "LOREG 2015 permanent-resident registration system and transferred-residence restriction framework is structurally distinctive globally — only modern constitutionally-protected internal-migration-restriction framework explicitly motivated by global-biosphere-conservation requirements.",
+    "Consejo de Gobierno del Régimen Especial de Galápagos is structurally distinctive within Ecuadorian administrative cluster — only Ecuadorian constitutionally-established governing council for a single province.",
+    "Galápagos Marine Reserve (1998, 2022 extension to ~198,000 km²) is structurally distinctive globally — among largest marine protected areas globally.",
+    "Ecuadorian Hague Convention 1980 accession 1992 + Galápagos LOREG residence-restriction framework intersection is structurally distinctive — Hague-Convention-applicability vs internal-migration-restriction framework intersection.",
+    "Equatorial-location and globally-iconic biosphere associated with Darwin's evolutionary research is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:ecuador",
+    "jurisdiction:rapa-nui",
+    "jurisdiction:pitcairn-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Gobierno Galápagos (Consejo de Gobierno del Régimen Especial)",
+      "url": "https://www.gobiernogalapagos.gob.ec/",
+      "publisher": "Ecuadorian Government",
+      "language": "es"
+    },
+    {
+      "title": "Función Judicial del Ecuador",
+      "url": "https://www.funcionjudicial.gob.ec/",
+      "publisher": "Ecuadorian Government",
+      "language": "es"
+    },
+    {
+      "title": "UNESCO World Heritage Centre — Galápagos Islands",
+      "url": "https://whc.unesco.org/en/list/1/",
+      "publisher": "UNESCO",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Galápagos Islands jurisdiction sidecar — civil-law eastern-Pacific Ecuadorian special-regime province (Ecuadorian Civil Code 1860 + Ecuadorian Constitution 2008 Article 258 Galápagos Special Regime + LOREG 2015 permanent-resident registration system + transferred-residence restriction framework + Consejo de Gobierno del Régimen Especial de Galápagos + Galápagos National Park 1959 + Galápagos Marine Reserve 1998/2022 + UNESCO World Heritage 1978 + Ecuadorian Hague Convention 1980 accession 1992). One of only two state-level entities operating constitutional special-regime framework explicitly motivated by global-biosphere-conservation requirements + first UNESCO World Heritage Site inscription (among first 12 globally) + only modern constitutionally-protected internal-migration-restriction framework explicitly motivated by biosphere-conservation + Galápagos Marine Reserve (2022) among largest marine protected areas globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins eastern-Pacific + civil-law + Ecuadorian-special-regime cluster + constitutional-biosphere-conservation-special-regime-globally-distinctive + first-UNESCO-World-Heritage-Site-inscription + LOREG-2015-permanent-resident-registration + transferred-residence-restriction + Consejo-de-Gobierno-del-Régimen-Especial + Galápagos-Marine-Reserve-among-largest-MPAs + Ecuadorian-Hague-1992-accession-vs-LOREG-restriction-intersection clusters within the corpus."
+  ]
+}

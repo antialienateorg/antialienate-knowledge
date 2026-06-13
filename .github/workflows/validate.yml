@@ -1,0 +1,31 @@
+name: Validate knowledge base
+# Auto-triggers disabled — drift-detection was firing on every push because
+# rendered MD files weren't being regenerated locally before commits. Manual-
+# only until the render step is wired into a pre-commit hook. To re-enable,
+# restore the push/pull_request/schedule blocks.
+on:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install jsonschema
+      - name: Validate schemas
+        run: python bin/aa-build validate
+      - name: Cross-link resolution (warn-only during migration)
+        run: python bin/aa-build refs
+      # When migration of legacy v1.0 entities completes, switch to:
+      # run: python bin/aa-build refs --strict
+      - name: Render (drift detection)
+        run: |
+          python bin/aa-build render
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "::error::Rendered MD files differ from JSON sources. Run 'python bin/aa-build render' locally and commit the result."
+            git --no-pager diff
+            exit 1
+          fi

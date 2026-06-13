@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "scarborough-shoal",
+  "name": "Scarborough Shoal / Panatag Shoal / Bajo de Masinloc / 黃岩島",
+  "jurisdiction_code": "XX-SCS",
+  "legal_system": "civil-law",
+  "language": ["zh", "tl", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Scarborough Shoal (黃岩島 Huángyán Dǎo / Bajo de Masinloc / Panatag Shoal / Kulumpol ng Panatag) is a South China Sea disputed reef-and-lagoon feature ~220 km west of Subic Bay, Luzon, Philippines and ~870 km southeast of mainland China — structurally distinctive globally as the only territorial dispute where a major coastal-state claimant (Philippines) maintained de-facto control for decades but was displaced through 2012 maritime standoff that established PRC blockade-via-coast-guard-vessels without artificial-island construction, and as the central focus of the South China Sea Arbitration (Republic of the Philippines v People's Republic of China) PCA Award of 12 July 2016 which found Scarborough Shoal to be a 'rock' under UNCLOS Article 121(3) entitled only to territorial sea (12 nm) rather than EEZ (200 nm), and found PRC interference with Philippine fishing rights violated UNCLOS. The 2012 Scarborough Shoal standoff (8 April-mid-June 2012) involved Philippine Navy attempting to arrest Chinese fishermen, escalating to multi-week coast-guard standoff that ended with PRC de-facto control through continuous coast-guard presence. The 2016 PCA Award was rejected by PRC. President Marcos Jr. has since 2022 pursued more confrontational Philippine response including increased Philippine Coast Guard patrols, US Mutual Defense Treaty reaffirmations (Biden 2023, Blinken 2024), and intermittent direct confrontations including 2024 water-cannon incidents at Second Thomas Shoal and other features. Scarborough Shoal is claimed by the Philippines (as part of Masinloc Municipality, Zambales Province), People's Republic of China (as part of Zhongsha Islands of Hainan Province / Sansha City), and Taiwan/Republic of China. Family-law framework applicability is theoretical given the absence of permanent civilian population — PRC blockade restricts access. The Permanent Court of Arbitration is the relevant international adjudicatory framework. Scarborough Shoal is silent on 'parental alienation' as a statutory label. Hague Convention 1980 applicability varies by claimant — Philippines (acceded 1994), PRC mainland (non-party), Taiwan (not a UN member, not a party).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "South China Sea Arbitration (Republic of the Philippines v People's Republic of China) PCA Award 2016",
+      "title": "South China Sea Arbitration PCA Award",
+      "year": 2016,
+      "url": "https://pca-cpa.org/en/cases/7/",
+      "relevance": "Permanent Court of Arbitration Award of 12 July 2016 — found Scarborough Shoal to be a 'rock' under UNCLOS Article 121(3) entitled only to territorial sea rather than EEZ, and found PRC interference with Philippine fishing rights violated UNCLOS. PRC rejected award."
+    },
+    {
+      "citation": "UN Convention on the Law of the Sea 1982 Article 121(3) (rocks vs islands)",
+      "title": "UNCLOS Article 121(3)",
+      "year": 1982,
+      "url": "https://www.un.org/depts/los/",
+      "relevance": "UNCLOS Article 121(3) providing that rocks which cannot sustain human habitation or economic life of their own have no exclusive economic zone or continental shelf — applied to Scarborough Shoal by 2016 PCA Award."
+    },
+    {
+      "citation": "US-Philippines Mutual Defense Treaty 1951 (applicable to South China Sea per 2019 Pompeo affirmation)",
+      "title": "US-Philippines Mutual Defense Treaty",
+      "year": 1951,
+      "url": "https://www.dfa.gov.ph/",
+      "relevance": "US-Philippines Mutual Defense Treaty — explicitly affirmed by US Secretary of State Pompeo 2019, repeated by US Secretary of State Blinken 2023 and 2024 to apply to South China Sea including Philippine Coast Guard and military operations around Scarborough Shoal."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Permanent Court of Arbitration (Hague)",
+      "seat": "The Hague, Netherlands",
+      "url": "https://pca-cpa.org/",
+      "role": "International arbitral tribunal — South China Sea Arbitration Award 2016 including Scarborough Shoal."
+    },
+    {
+      "name": "Supreme Court of the Philippines",
+      "seat": "Manila",
+      "url": "https://sc.judiciary.gov.ph/",
+      "role": "Philippine apex court for civil and criminal matters from Scarborough Shoal per Philippine administrative framework."
+    },
+    {
+      "name": "Supreme People's Court of the People's Republic of China",
+      "seat": "Beijing",
+      "url": "https://www.court.gov.cn/",
+      "role": "PRC apex court for civil and criminal matters from Scarborough Shoal per PRC administrative framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Philippine Psychological Association (Philippine claim) / Chinese Psychological Society (PRC claim)",
+      "url": "",
+      "role": "Professional regulators per claimant framework."
+    }
+  ],
+  "anonymisation_convention": "Scarborough Shoal-related decisions are anonymised per claimant-state court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1734,
+      "title": "Spanish Carta Hydrographica (Murillo Velarde) Bajo de Masinloc",
+      "description": "Spanish Carta Hydrographica y Chorográphica de las Yslas Filipinas of 1734 (Murillo Velarde Map) depicted Bajo de Masinloc — used by Philippines in PCA Arbitration as evidence of historical Philippine claim."
+    },
+    {
+      "year": 1748,
+      "title": "Scarborough East India Company shipwreck",
+      "description": "British East India Company ship Scarborough was wrecked on the shoal on 12 September 1748 — Western naming origin."
+    },
+    {
+      "year": 2012,
+      "title": "Scarborough Shoal standoff + PRC de-facto control",
+      "description": "Scarborough Shoal standoff April-mid-June 2012 — Philippine Navy attempting to arrest Chinese fishermen escalated to multi-week coast-guard standoff that ended with PRC de-facto control through continuous coast-guard presence."
+    },
+    {
+      "year": 2013,
+      "title": "Philippines v China arbitration initiated",
+      "description": "Republic of the Philippines initiated UNCLOS Annex VII arbitration against People's Republic of China on 22 January 2013."
+    },
+    {
+      "year": 2016,
+      "title": "South China Sea Arbitration PCA Award",
+      "description": "PCA Award of 12 July 2016 — found Scarborough Shoal to be a 'rock' under UNCLOS Article 121(3) entitled only to territorial sea, and found PRC interference with Philippine fishing rights violated UNCLOS. PRC rejected award."
+    },
+    {
+      "year": 2024,
+      "title": "Marcos Jr. assertive Philippine response framework",
+      "description": "President Marcos Jr. confrontational Philippine response 2022-2024 — increased Philippine Coast Guard patrols, US Mutual Defense Treaty reaffirmations, intermittent direct confrontations including 2024 water-cannon incidents at Second Thomas Shoal."
+    }
+  ],
+  "structural_findings": [
+    "Scarborough Shoal operates a contested-claimant framework — places Scarborough Shoal in the South China Sea actively-disputed-feature cluster.",
+    "Only territorial dispute where major coastal-state claimant maintained de-facto control for decades but was displaced through maritime standoff without artificial-island construction is structurally distinctive globally — 2012 Scarborough Shoal standoff PRC blockade-via-coast-guard-vessels framework.",
+    "Central focus of PCA 2016 Arbitration 'rock vs island' UNCLOS Article 121(3) determination is structurally distinctive globally — only modern apex international-arbitration determination of disputed feature's rock-or-island status.",
+    "US-Philippines Mutual Defense Treaty applicability to Scarborough Shoal repeatedly affirmed by US Secretaries of State is structurally distinctive globally — only South China Sea disputed feature with explicit US-treaty-defence-guarantee against another major Asian power.",
+    "Marcos Jr. assertive Philippine response framework (2022-2024) is structurally distinctive — modern formal Philippine policy reversal from Duterte appeasement approach to direct confrontation framework.",
+    "Variable Hague Convention 1980 applicability per claimant (Philippines party 1994, PRC mainland non-party) is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:philippines",
+    "jurisdiction:taiwan",
+    "jurisdiction:united-states",
+    "jurisdiction:spratly-islands",
+    "jurisdiction:paracel-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Permanent Court of Arbitration — South China Sea Arbitration",
+      "url": "https://pca-cpa.org/en/cases/7/",
+      "publisher": "PCA",
+      "language": "en"
+    },
+    {
+      "title": "Philippine Department of Foreign Affairs",
+      "url": "https://www.dfa.gov.ph/",
+      "publisher": "Philippine Government",
+      "language": "en"
+    },
+    {
+      "title": "US Department of State",
+      "url": "https://www.state.gov/",
+      "publisher": "US Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Scarborough Shoal / Bajo de Masinloc / 黃岩島 jurisdiction sidecar — civil-law South China Sea actively-disputed-feature (PCA Award 2016 'rock' UNCLOS Article 121(3) determination + 2012 Scarborough Shoal standoff PRC blockade-via-coast-guard-vessels + US-Philippines Mutual Defense Treaty Pompeo/Blinken affirmations + Marcos Jr. assertive Philippine response framework 2022-2024 + variable Hague Convention 1980 applicability per claimant). Only territorial dispute where major coastal-state claimant maintained de-facto control for decades but was displaced through maritime standoff without artificial-island construction + only modern apex international-arbitration determination of disputed feature's rock-or-island status + only South China Sea disputed feature with explicit US-treaty-defence-guarantee.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South China Sea + civil-law + actively-disputed-feature cluster + 2012-standoff-PRC-blockade-via-coast-guard-vessels-globally-distinctive + PCA-2016-Article-121(3)-rock-determination + US-Philippines-Mutual-Defense-Treaty-Pompeo-Blinken-affirmations + Marcos-Jr-assertive-Philippine-response + Murillo-Velarde-Map-historical-claim + variable-Hague-applicability-per-claimant clusters within the corpus."
+  ]
+}

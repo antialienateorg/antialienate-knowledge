@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "id": "caricom-treaty",
+  "name": "CARICOM Revised Treaty of Chaguaramas 2001 (Caribbean Community)",
+  "jurisdiction_code": "CAR",
+  "legal_system": "supranational",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Revised Treaty of Chaguaramas Establishing the Caribbean Community Including the CARICOM Single Market and Economy (CARICOM Revised Treaty) is a regional supranational meta-framework foundational-CARICOM-treaty framework adopted by the 15 founding Caribbean states in Nassau — structurally distinctive globally as the only modern Caribbean regional supranational binding-treaty framework operating on formal Caribbean-Community framework + Anglophone-Caribbean-with-Suriname-Haiti-mixed-membership framework (CARICOM Revised Treaty signed 5 July 2001 in Nassau Bahamas + effective 1 January 2006 + original Treaty of Chaguaramas signed 4 July 1973 in Chaguaramas Trinidad and Tobago founding Caribbean Community — formal foundational revised CARICOM treaty framework establishing comprehensive CARICOM organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate on different geographic frameworks, structurally distinctive globally as the only modern Caribbean regional supranational binding-treaty framework operating formal Caribbean-Community framework + only modern regional supranational binding-treaty framework operating formal Anglophone-Caribbean-with-Suriname-Haiti-mixed-membership framework + only modern regional supranational binding-treaty framework operating formal small-island-developing-states SIDS framework), as the central jurisdiction of the formal CARICOM Single Market and Economy CSME framework (CARICOM Single Market launched 1 January 2006 + CSME framework providing formal Caribbean-regional single-market framework — formal foundational Caribbean-regional single-market framework, structurally distinctive globally as the only modern Caribbean regional supranational binding-treaty framework operating formal single-market framework), as the central jurisdiction of the formal Caribbean Court of Justice CCJ framework (Agreement Establishing the Caribbean Court of Justice signed 14 February 2001 in Bridgetown Barbados + effective 23 July 2002 + CCJ inaugurated 16 April 2005 in Port of Spain Trinidad and Tobago providing formal CARICOM judicial framework operating Original Jurisdiction framework on CSME + Appellate Jurisdiction framework as final court of appeal replacing JCPC for 4 CARICOM states — formal foundational CARICOM judicial framework, structurally distinctive globally as the only modern Caribbean regional supranational binding-treaty framework operating formal hybrid Original-Jurisdiction-on-CSME-plus-Appellate-Jurisdiction-replacing-JCPC framework + first regional court globally operating formal hybrid international-court-plus-domestic-final-court-of-appeal framework), and as the central jurisdiction of the formal CARICOM ICJ Climate Change Advisory Opinion framework (CARICOM-led Vanuatu UN General Assembly Resolution 77/276 of 29 March 2023 requesting ICJ advisory opinion on climate-change-obligations-of-states + ICJ delivered Advisory Opinion 23 July 2025 — formal foundational CARICOM-led climate-change-international-obligations framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal regional-led ICJ climate-change-advisory-opinion framework). The CARICOM Revised Treaty is binding upon 15 CARICOM member states + 5 CARICOM associate members as of 2026 (Antigua and Barbuda + Bahamas + Barbados + Belize + Dominica + Grenada + Guyana + Haiti + Jamaica + Montserrat + St. Kitts and Nevis + St. Lucia + St. Vincent and the Grenadines + Suriname + Trinidad and Tobago) — comprehensive Caribbean regional coverage framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal CARICOM CCJ Appellate Jurisdiction framework operates substantial intersection with parental-alienation framework via formal Caribbean-regional cross-border-children's-rights framework via CCJ appellate-jurisdiction framework. The CARICOM Conference of Heads of Government + CARICOM Community Council of Ministers + CARICOM Secretariat + Caribbean Court of Justice CCJ + Council for Trade and Economic Development COTED are the formal CARICOM bodies; national-level apex courts operate as judicial bodies. The CARICOM Revised Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "CARICOM Treaty of Chaguaramas 1973",
+      "title": "Original Treaty of Chaguaramas",
+      "year": 1973,
+      "url": "https://caricom.org/",
+      "relevance": "Original Treaty of Chaguaramas signed 4 July 1973 in Chaguaramas Trinidad and Tobago by Barbados + Guyana + Jamaica + Trinidad and Tobago — formal foundational original CARICOM treaty framework."
+    },
+    {
+      "citation": "CARICOM Revised Treaty of Chaguaramas 2001",
+      "title": "CARICOM Revised Treaty",
+      "year": 2006,
+      "url": "https://caricom.org/",
+      "relevance": "Revised Treaty of Chaguaramas Establishing the Caribbean Community Including the CARICOM Single Market and Economy signed 5 July 2001 in Nassau Bahamas + effective 1 January 2006 — formal foundational revised CARICOM treaty framework establishing comprehensive CARICOM organisation framework."
+    },
+    {
+      "citation": "Agreement Establishing the CCJ 2001",
+      "title": "Agreement Establishing the CCJ",
+      "year": 2002,
+      "url": "https://www.ccj.org/",
+      "relevance": "Agreement Establishing the Caribbean Court of Justice signed 14 February 2001 in Bridgetown Barbados + effective 23 July 2002 — formal foundational CARICOM judicial framework."
+    },
+    {
+      "citation": "CARICOM CSME 2006",
+      "title": "CARICOM Single Market and Economy",
+      "year": 2006,
+      "url": "https://caricom.org/",
+      "relevance": "CARICOM Single Market and Economy CSME launched 1 January 2006 — formal foundational Caribbean-regional single-market framework."
+    },
+    {
+      "citation": "CARICOM Vanuatu UN General Assembly Resolution 77/276 2023",
+      "title": "Vanuatu UN General Assembly Resolution 77/276",
+      "year": 2025,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "CARICOM-led Vanuatu UN General Assembly Resolution 77/276 adopted 29 March 2023 requesting ICJ advisory opinion on climate-change-obligations-of-states + ICJ delivered Advisory Opinion 23 July 2025 — formal foundational CARICOM-led climate-change-international-obligations framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "CARICOM Conference of Heads of Government",
+      "seat": "rotating",
+      "url": "https://caricom.org/",
+      "role": "Formal supreme decision-making body for CARICOM."
+    },
+    {
+      "name": "CARICOM Community Council of Ministers",
+      "seat": "rotating",
+      "url": "https://caricom.org/",
+      "role": "Formal executive body for CARICOM."
+    },
+    {
+      "name": "Caribbean Court of Justice (CCJ)",
+      "seat": "Port of Spain",
+      "url": "https://www.ccj.org/",
+      "role": "Apex judicial body for CARICOM framework with hybrid Original-Jurisdiction-on-CSME-plus-Appellate-Jurisdiction-replacing-JCPC framework — first regional court globally operating formal hybrid international-court-plus-domestic-final-court-of-appeal framework."
+    },
+    {
+      "name": "CARICOM Secretariat",
+      "seat": "Georgetown",
+      "url": "https://caricom.org/",
+      "role": "Formal administrative body for CARICOM."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "CARICOM Secretariat",
+      "url": "https://caricom.org/",
+      "role": "CARICOM Revised Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "CARICOM-related communications via CCJ framework operate formal anonymisation convention per CCJ Rules of Procedure.",
+  "key_developments": [
+    {
+      "year": 1968,
+      "title": "CARIFTA established",
+      "description": "Caribbean Free Trade Association CARIFTA established 1 May 1968 — predecessor framework to CARICOM."
+    },
+    {
+      "year": 1973,
+      "title": "Original Treaty of Chaguaramas adopted",
+      "description": "Original Treaty of Chaguaramas signed 4 July 1973 in Chaguaramas Trinidad and Tobago — formal foundational original CARICOM treaty framework adopted."
+    },
+    {
+      "year": 1989,
+      "title": "Grand Anse Declaration",
+      "description": "Grand Anse Declaration adopted 6 July 1989 at 10th CARICOM Heads of Government Meeting in Grand Anse Grenada calling for CARICOM Single Market and Economy CSME — formal CARICOM CSME framework adopted."
+    },
+    {
+      "year": 1995,
+      "title": "Haiti + Suriname join CARICOM",
+      "description": "Suriname joined CARICOM 4 July 1995 + Haiti became provisional member 4 July 1998 + full member 2 July 2002 — formal CARICOM expansion framework with Suriname + Haiti as non-Anglophone members."
+    },
+    {
+      "year": 2001,
+      "title": "CARICOM Revised Treaty + Agreement Establishing CCJ",
+      "description": "CARICOM Revised Treaty of Chaguaramas signed 5 July 2001 in Nassau Bahamas + Agreement Establishing the Caribbean Court of Justice signed 14 February 2001 in Bridgetown Barbados — formal foundational revised CARICOM treaty framework + CCJ framework adopted."
+    },
+    {
+      "year": 2005,
+      "title": "CCJ inaugurated",
+      "description": "Caribbean Court of Justice CCJ inaugurated 16 April 2005 in Port of Spain Trinidad and Tobago — formal foundational CARICOM judicial framework operational."
+    },
+    {
+      "year": 2006,
+      "title": "CARICOM Revised Treaty enters force + CSME launched",
+      "description": "CARICOM Revised Treaty entered force 1 January 2006 + CARICOM Single Market launched 1 January 2006 — formal foundational revised CARICOM treaty framework + CSME framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Vanuatu UN Resolution 77/276 adopted",
+      "description": "CARICOM-led Vanuatu UN General Assembly Resolution 77/276 adopted 29 March 2023 requesting ICJ advisory opinion on climate-change-obligations-of-states — formal CARICOM-led climate-change-international-obligations framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Saint Lucia joins CCJ Appellate Jurisdiction",
+      "description": "Saint Lucia replaced JCPC with CCJ Appellate Jurisdiction 2024 framework as 5th CARICOM state to do so — formal CCJ Appellate Jurisdiction framework expansion."
+    },
+    {
+      "year": 2025,
+      "title": "ICJ Climate Change Advisory Opinion delivered",
+      "description": "ICJ delivered Climate Change Advisory Opinion 23 July 2025 — formal foundational CARICOM-led climate-change-international-obligations framework operational."
+    }
+  ],
+  "structural_findings": [
+    "CARICOM Revised Treaty operates a regional supranational binding-treaty framework — places CARICOM Revised Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern Caribbean regional supranational binding-treaty framework operating on formal Caribbean-Community framework is structurally distinctive globally — only modern Caribbean regional supranational binding-treaty framework operating formal Anglophone-Caribbean-with-Suriname-Haiti-mixed-membership framework + only modern regional supranational binding-treaty framework operating formal small-island-developing-states SIDS framework.",
+    "Central jurisdiction of formal CARICOM CSME framework is structurally distinctive globally — only modern Caribbean regional supranational binding-treaty framework operating formal single-market framework.",
+    "Central jurisdiction of formal CCJ framework is structurally distinctive globally — only modern Caribbean regional supranational binding-treaty framework operating formal hybrid Original-Jurisdiction-on-CSME-plus-Appellate-Jurisdiction-replacing-JCPC framework + first regional court globally operating formal hybrid international-court-plus-domestic-final-court-of-appeal framework.",
+    "Central jurisdiction of formal CARICOM ICJ Climate Change Advisory Opinion framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal regional-led ICJ climate-change-advisory-opinion framework.",
+    "15 CARICOM member state + 5 CARICOM associate member ratification framework is structurally distinctive globally — comprehensive Caribbean regional coverage framework.",
+    "1968 CARIFTA + 1973 original Treaty of Chaguaramas + 1989 Grand Anse Declaration + 1995 Suriname + 1998-2002 Haiti + 2001 CARICOM Revised Treaty + Agreement Establishing CCJ + 2005 CCJ inaugurated + 2006 Revised Treaty + CSME + 2023 Vanuatu UN Resolution + 2024 Saint Lucia CCJ + 2025 ICJ Climate Change Advisory Opinion CARICOM-framework-development sequence is structurally distinctive globally.",
+    "CARICOM Revised Treaty + Original Treaty of Chaguaramas + Agreement Establishing CCJ + CSME + Vanuatu UN Resolution formal quintet framework with formal Caribbean-regional cross-border-children's-rights PA-intersection framework via CCJ Appellate Jurisdiction framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:icj",
+    "jurisdiction:jamaica",
+    "jurisdiction:barbados",
+    "jurisdiction:trinidad-and-tobago",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "CARICOM",
+      "url": "https://caricom.org/",
+      "publisher": "CARICOM Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "CARICOM Revised Treaty jurisdiction sidecar — regional supranational Caribbean foundational-CARICOM-treaty meta-framework (Original Treaty of Chaguaramas 1973 + CARICOM Revised Treaty 2001/2006 + Agreement Establishing CCJ 2001/2002/CCJ inaugurated 2005 + CARICOM Single Market 2006 + 1968 CARIFTA predecessor + 1989 Grand Anse Declaration + 1995 Suriname + 1998-2002 Haiti + 2023 Vanuatu UN Resolution 77/276 + 2025 ICJ Climate Change Advisory Opinion). Only modern Caribbean regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework operating formal small-island-developing-states SIDS framework + central jurisdiction of formal CCJ hybrid Original-Jurisdiction-on-CSME-plus-Appellate-Jurisdiction-replacing-JCPC framework + first regional court globally operating formal hybrid international-court-plus-domestic-final-court-of-appeal framework + central jurisdiction of formal CARICOM-led ICJ Climate Change Advisory Opinion framework + 15 CARICOM member states + 5 CARICOM associate members + 1968 CARIFTA + 1973 original Treaty of Chaguaramas + 1989 Grand Anse Declaration + 1995 Suriname + 1998-2002 Haiti + 2001 Revised Treaty + Agreement Establishing CCJ + 2005 CCJ inaugurated + 2006 Revised Treaty + CSME + 2023 Vanuatu UN Resolution + 2024 Saint Lucia CCJ + 2025 ICJ Climate Change Advisory Opinion CARICOM-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: CCJ Appellate Jurisdiction framework operates substantial intersection with parental-alienation framework via formal Caribbean-regional cross-border-children's-rights framework via CCJ appellate-jurisdiction framework.",
+    "Joins regional + supranational + Caribbean-Community-foundational-CARICOM-treaty cluster + CARICOM-Revised-Treaty-only-Caribbean-regional-supranational-binding-treaty-globally-distinctive + small-island-developing-states-SIDS-framework + Anglophone-Caribbean-with-Suriname-Haiti-mixed-membership + CSME-2006 + CCJ-hybrid-Original-Jurisdiction-CSME-plus-Appellate-Jurisdiction-replacing-JCPC + first-regional-court-globally-hybrid-international-domestic-final-court + CCJ-Port-of-Spain + CARICOM-Secretariat-Georgetown + 15-CARICOM-member-states + 5-CARICOM-associate-members + 1968-CARIFTA-predecessor + 1973-Original-Treaty-of-Chaguaramas + 1989-Grand-Anse-Declaration + 1995-Suriname + 1998-2002-Haiti + 2023-Vanuatu-UN-Resolution-77/276-CARICOM-led + 2025-ICJ-Climate-Change-Advisory-Opinion-CARICOM-led + 2024-Saint-Lucia-CCJ-Appellate-5th-CARICOM-state + Caribbean-regional-cross-border-children-rights-PA-intersection-via-CCJ-appellate-jurisdiction clusters within the corpus."
+  ]
+}

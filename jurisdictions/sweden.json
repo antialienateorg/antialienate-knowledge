@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "id": "sweden",
+  "name": "Sweden (Sverige)",
+  "jurisdiction_code": "SE",
+  "legal_system": "civil-law",
+  "language": ["sv"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Sweden is a Nordic civil-law unitary kingdom whose family-court framework operates under the Föräldrabalken (Children and Parents Code, FB) of 1949 as substantially amended. Joint custody (gemensam vårdnad) is the statutory default in Sweden including for parents who never lived together; this places Sweden among the strongest joint-custody-default jurisdictions in Europe. The Högsta domstolen (Supreme Court) is the apex court for civil and criminal matters; family-law decisions reach the Supreme Court via the Hovrätt (Court of Appeal) following Tingsrätt (District Court) determinations. Psychology profession is regulated under the Hälso- och sjukvårdens ansvarsnämnd (HSAN) and the Socialstyrelsen (National Board of Health and Welfare) under the Patientsäkerhetslagen 2010:659 — psychologist (legitimerad psykolog) is a statutorily protected title requiring a licence issued by Socialstyrelsen. Sweden is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets bästa (best-interests-of-the-child) welfare standard.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Föräldrabalken (FB) ch. 6",
+      "title": "Children and Parents Code, Chapter 6 — Custody, Residence and Contact (Vårdnad, Boende och Umgänge)",
+      "year": 1949,
+      "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381",
+      "relevance": "Federal civil-code basis for custody, residence and contact. Joint custody (gemensam vårdnad) operates as the statutory default. § 6:2a establishes that the child's best interest shall be decisive in all decisions on custody, residence and contact. Central provisions for any PA-adjacent custody-modification analysis."
+    },
+    {
+      "citation": "Föräldrabalken (FB) ch. 6 § 2a",
+      "title": "Barnets bästa (Best interests of the child)",
+      "year": 2006,
+      "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381",
+      "relevance": "Welfare-standard provision establishing barnets bästa as decisive in custody/residence/contact decisions. Inserted in the 2006 vårdnadsreform (custody reform) which strengthened the best-interests standard and the focus on the child's need for close and good contact with both parents."
+    },
+    {
+      "citation": "Patientsäkerhetslagen 2010:659",
+      "title": "Patient Safety Act 2010:659",
+      "year": 2010,
+      "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/patientsakerhetslag-2010659_sfs-2010-659",
+      "relevance": "Federal statute regulating health and social-care professions including psychologists. Statutorily protected title 'legitimerad psykolog' requires a licence issued by Socialstyrelsen. Statutory anchor for evaluator-quality in court-appointed psychological assessments."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Högsta domstolen (HD)",
+      "seat": "Stockholm",
+      "url": "https://www.domstol.se/hogsta-domstolen/",
+      "role": "Supreme Court for civil and criminal matters. Family-law decisions reach HD via the Hovrätt (Court of Appeal) following first-instance Tingsrätt (District Court) determinations. HD operates a strict leave-to-appeal regime."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Socialstyrelsen (National Board of Health and Welfare)",
+      "url": "https://www.socialstyrelsen.se/",
+      "role": "Federal agency that issues the legitimation (statutory licence) for psychologists and other health and social-care professionals. Operates HOSP (Hälso- och sjukvårdens ansvarsnämnd) for disciplinary matters in collaboration with HSAN."
+    },
+    {
+      "name": "Sveriges Psykologförbund",
+      "url": "https://www.psykologforbundet.se/",
+      "role": "Peak professional association for psychologists in Sweden. Operates ethics code, complaint mechanism, and specialist-section structure alongside the statutory Socialstyrelsen regime."
+    }
+  ],
+  "anonymisation_convention": "Swedish family-law decisions are anonymised per Högsta domstolen and Hovrätt convention using initials. Published HD decisions on Domstolsverket (Courts of Sweden) portal and Notisum strip identifying details. Sits within the European-civil-law initials cluster.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "title": "Föräldrabalken enacted",
+      "description": "Children and Parents Code (FB) enacted 1949 — foundational federal civil-code framework for family law in Sweden."
+    },
+    {
+      "year": 1998,
+      "title": "1998 vårdnadsreform",
+      "description": "Custody reform strengthened the joint-custody-default and introduced the close-and-good-contact (god kontakt) standard."
+    },
+    {
+      "year": 2006,
+      "title": "2006 vårdnadsreform",
+      "description": "Custody reform strengthened the barnets bästa best-interests standard and introduced explicit consideration of risk of harm to the child as a counterweight to the contact-promotion provisions."
+    },
+    {
+      "year": 2010,
+      "title": "Patientsäkerhetslagen 2010:659 in force",
+      "description": "Patient Safety Act consolidated health-and-social-care professional regulation; statutorily protected title 'legitimerad psykolog' requiring Socialstyrelsen licence."
+    },
+    {
+      "year": 2021,
+      "title": "FN:s barnkonvention as Swedish law",
+      "description": "UN CRC incorporated into Swedish law 1 January 2020 by Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter — strengthens children's-rights paramountcy in family-court decision-making."
+    }
+  ],
+  "structural_findings": [
+    "Sweden sits structurally within the Nordic civil-law cluster — strongest joint-custody-default regime in Europe (joint custody applies including for parents who never lived together) + barnets bästa welfare standard + UN CRC incorporated as Swedish law since 2020. Distinctive among corpus jurisdictions for the constitutional-level incorporation of UN CRC.",
+    "Patientsäkerhetslagen 2010:659 statutory-licence regime places Sweden among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE — with Socialstyrelsen-issued legitimation as the statutory mechanism.",
+    "Swedish family-law contains no statutory references to PAS / parental alienation. The 2006 vårdnadsreform deliberately balanced the close-and-good-contact (god kontakt) provisions with explicit risk-of-harm considerations following critique that earlier framing produced contact-promotion in DV-overlap cases — structurally similar to the Australian 2023 Amendment Act re-balancing."
+  ],
+  "references": [
+    "jurisdiction:germany",
+    "jurisdiction:netherlands",
+    "jurisdiction:switzerland",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:coercive-control-statutes-and-pa-critique-intersection"
+  ],
+  "sources": [
+    {
+      "title": "Domstolsverket — Courts of Sweden",
+      "url": "https://www.domstol.se/",
+      "publisher": "Domstolsverket",
+      "language": "sv,en"
+    },
+    {
+      "title": "Riksdagen — Svensk författningssamling",
+      "url": "https://www.riksdagen.se/sv/dokument-lagar/",
+      "publisher": "Sveriges riksdag",
+      "language": "sv"
+    },
+    {
+      "title": "Socialstyrelsen — National Board of Health and Welfare",
+      "url": "https://www.socialstyrelsen.se/",
+      "publisher": "Socialstyrelsen",
+      "language": "sv,en"
+    },
+    {
+      "title": "Sveriges Psykologförbund",
+      "url": "https://www.psykologforbundet.se/",
+      "publisher": "Sveriges Psykologförbund",
+      "language": "sv"
+    }
+  ],
+  "editorial_notes": [
+    "Sweden jurisdiction sidecar establishes the Nordic civil-law framework within the corpus. Föräldrabalken + Patientsäkerhetslagen 2010:659 + Socialstyrelsen + UN CRC as Swedish law (2020).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. 2006 vårdnadsreform re-balanced contact-promotion against risk-of-harm — structurally similar to Australian 2023 reform.",
+    "Joins Nordic + federal-statutory psychology regulator clusters within the corpus."
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "id": "kosovo",
+  "name": "Kosovo (Republic of Kosovo / Republika e Kosovës)",
+  "jurisdiction_code": "XK",
+  "legal_system": "civil-law",
+  "language": ["sq", "sr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Kosovo is a Balkan civil-law unitary republic — partially recognised internationally — whose family-law framework operates under the Family Law 2004 (Law 2004/32, drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms) supplemented by Law 06/L-084 on Child Protection 2019. Parental rights and child custody are governed by Family Law arts. 130-155. The Supreme Court of Kosovo is the apex court for civil and criminal matters; the Constitutional Court (Gjykata Kushtetuese) operates separate constitutional review. Family-law matters are heard at first instance in the Basic Courts (Gjykatat Themelore). Psychology profession is regulated through the Order of Psychologists of Kosovo. Kosovo is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Kosovo is not a Hague Convention 1980 party due to partial recognition (cannot accede via UN/Hague Conference standard accession). Kosovo applies ECHR jurisprudence per Constitution art. 22 directly applicable, though not a Council of Europe member due to recognition constraint.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law 2004 (Law 2004/32) arts. 130-155",
+      "title": "Family Law — Parental rights and custody",
+      "year": 2004,
+      "url": "https://www.gjyqesori-rks.org/",
+      "relevance": "Federal Family Law drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms. Arts. 130-155 govern parental rights and child custody."
+    },
+    {
+      "citation": "Law on Child Protection 2019 (Law 06/L-084)",
+      "title": "Law on Child Protection",
+      "year": 2019,
+      "url": "https://www.gjyqesori-rks.org/",
+      "relevance": "Federal Law on Child Protection codifying child welfare provisions aligned with UNCRC obligations."
+    },
+    {
+      "citation": "Constitution 2008 art. 22 — direct ECHR application",
+      "title": "Constitution — Direct ECHR application",
+      "year": 2008,
+      "url": "https://www.gjk-ks.org/",
+      "relevance": "Constitutional provision making ECHR directly applicable in Kosovo despite non-membership in Council of Europe."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Kosovo",
+      "seat": "Pristina",
+      "url": "https://www.gjyqesori-rks.org/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Gjykata Kushtetuese)",
+      "seat": "Pristina",
+      "url": "https://www.gjk-ks.org/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Order of Psychologists of Kosovo (Oda e Psikologëve të Kosovës)",
+      "url": "https://www.opsiko-rks.org/",
+      "role": "Federal professional order for psychologists in Kosovo."
+    }
+  ],
+  "anonymisation_convention": "Kosovar family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2004,
+      "title": "Family Law 2004 (Law 2004/32)",
+      "description": "Federal Family Law enacted under UNMIK administration drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms."
+    },
+    {
+      "year": 2008,
+      "title": "Declaration of Independence + Constitution",
+      "description": "Kosovo declared independence; Constitution adopted with direct ECHR application (art. 22)."
+    },
+    {
+      "year": 2019,
+      "title": "Law on Child Protection (Law 06/L-084)",
+      "description": "Federal Law on Child Protection enacted aligned with UNCRC obligations."
+    }
+  ],
+  "structural_findings": [
+    "Kosovo operates a Yugoslav-civil-law-derivative European-codification-influenced family-law framework — places Kosovo in the Western-Balkan civil-law cluster with Serbia, Montenegro, North Macedonia, Bosnia and Herzegovina.",
+    "Partial international recognition status is structurally distinctive within the corpus — Kosovo cannot accede to Hague Convention or Council of Europe via standard mechanisms despite operating ECHR-aligned framework.",
+    "Direct ECHR application via Constitution art. 22 despite non-CoE-membership is structurally distinctive within the corpus — Kosovo is the only state directly applying ECHR without CoE membership in the corpus.",
+    "Non-Hague Convention status due to recognition constraint, not policy choice — structurally distinct from policy-driven non-Hague jurisdictions."
+  ],
+  "references": [
+    "jurisdiction:serbia",
+    "jurisdiction:albania",
+    "jurisdiction:north-macedonia",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Kosovo",
+      "url": "https://www.gjyqesori-rks.org/",
+      "publisher": "Judiciary",
+      "language": "sq,sr,en"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.gjk-ks.org/",
+      "publisher": "Constitutional Court",
+      "language": "sq,sr,en"
+    },
+    {
+      "title": "Order of Psychologists of Kosovo",
+      "url": "https://www.opsiko-rks.org/",
+      "publisher": "Order of Psychologists",
+      "language": "sq"
+    }
+  ],
+  "editorial_notes": [
+    "Kosovo jurisdiction sidecar — civil-law Balkan partially-recognised republic (Family Law 2004 + Law on Child Protection 2019 + Constitution art. 22 direct-ECHR + non-Hague-due-to-recognition-constraint).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western Balkan + civil-law + partial-recognition-distinctive cluster + direct-ECHR-application-without-CoE-membership distinctive + non-Hague-by-recognition clusters within the corpus."
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "id": "bangsamoro",
+  "name": "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM / بڠسامورو)",
+  "jurisdiction_code": "PH-BAR",
+  "legal_system": "mixed",
+  "language": ["fil", "en", "tg", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Bangsamoro Autonomous Region in Muslim Mindanao (BARMM / بڠسامورو in Jawi-script Bangsamoro) is a Southern Philippine mixed common-law/Islamic-law autonomous region of the Republic of the Philippines — structurally distinctive globally as the only Philippine autonomous region with formal Islamic-law family-law framework (Code of Muslim Personal Laws of the Philippines 1977 Presidential Decree 1083 + Bangsamoro-Specific Shari'ah Courts framework + Code of Muslim Personal Laws integration with BARMM Organic Law framework — distinct from rest-of-Philippines' Catholic-tradition civil-law family-law framework), as the only Philippine autonomous region established via formal peace-agreement framework derived from internal armed conflict resolution (Bangsamoro Organic Law Republic Act 11054 effective 27 January 2019 implementing Comprehensive Agreement on the Bangsamoro 27 March 2014 between Philippines Government + Moro Islamic Liberation Front MILF — ending 1968-2014 Moro insurgency framework with ~120,000-150,000 cumulative deaths), as the central jurisdiction of the most sustained modern Philippine internal armed conflict (Moro National Liberation Front MNLF founded 1972 + Moro Islamic Liberation Front MILF founded 1977 + Abu Sayyaf Group ASG founded 1991 — 46-year Moro insurgency framework 1968-2014), and as a distinctive jurisdiction within the Philippines for the Moro-cultural-political-identity-vs-Filipino-Catholic-cultural-political-assimilation tension (historic Sulu Sultanate 1457-1915 + Maguindanao Sultanate 1520-1888 + Spanish-Moro Wars 1565-1898 + American-Moro Wars 1899-1913 + Marcos-era 1972 Jabidah massacre catalysing Moro insurgency framework). BARMM was established 21 January 2019 via plebiscite under Bangsamoro Organic Law replacing the prior Autonomous Region in Muslim Mindanao (ARMM 1990-2019) — BARMM comprises ~36,826 km² with a population of ~4.4 million across Lanao del Sur + Maguindanao del Norte + Maguindanao del Sur + Basilan + Sulu + Tawi-Tawi provinces + 63 Cotabato barangays + Cotabato City. Family-law framework operates under a dual federal Philippine common-law framework + Bangsamoro-specific Code of Muslim Personal Laws 1977 PD 1083 Shari'ah-courts family-law framework. The Bangsamoro Sharia District Courts operate as primary courts for Islamic family-law matters; the Sandiganbayan Cotabato Branch + Court of Appeals Philippines are intermediate appellate courts; final appellate jurisdiction lies with the Supreme Court of the Philippines. Bangsamoro is silent on 'parental alienation' as a statutory label. The Philippines is a Hague Convention 1980 signatory and party (acceded 8 March 2016 effective 1 June 2016).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Bangsamoro Organic Law Republic Act 11054 (effective 27 January 2019)",
+      "title": "Bangsamoro Organic Law",
+      "year": 2019,
+      "url": "https://www.bangsamoro.gov.ph/",
+      "relevance": "Philippine Republic Act of 26 July 2018 effective 27 January 2019 establishing Bangsamoro Autonomous Region in Muslim Mindanao — implementing Comprehensive Agreement on the Bangsamoro 27 March 2014."
+    },
+    {
+      "citation": "Comprehensive Agreement on the Bangsamoro 2014 (CAB)",
+      "title": "Comprehensive Agreement on the Bangsamoro",
+      "year": 2014,
+      "url": "https://www.opapp.gov.ph/",
+      "relevance": "Agreement of 27 March 2014 between Philippines Government + Moro Islamic Liberation Front MILF — ending 1968-2014 Moro insurgency framework."
+    },
+    {
+      "citation": "Code of Muslim Personal Laws of the Philippines 1977 Presidential Decree 1083",
+      "title": "Code of Muslim Personal Laws",
+      "year": 1977,
+      "url": "https://www.officialgazette.gov.ph/",
+      "relevance": "Philippine Presidential Decree of 4 February 1977 establishing Islamic family-law framework for Filipino Muslims — applicable in BARMM via Shari'ah Courts framework."
+    },
+    {
+      "citation": "Bangsamoro Sharia District Courts framework",
+      "title": "Bangsamoro Sharia District Courts",
+      "year": 1977,
+      "url": "https://www.bangsamoro.gov.ph/",
+      "relevance": "Bangsamoro-specific Shari'ah Courts framework operating as primary courts for Islamic family-law matters — distinct from rest-of-Philippines' civil-court framework."
+    },
+    {
+      "citation": "ARMM Organic Law Republic Act 6734 (1989-2019 predecessor)",
+      "title": "ARMM Organic Law",
+      "year": 1989,
+      "url": "https://www.officialgazette.gov.ph/",
+      "relevance": "Philippine Republic Act of 1 August 1989 establishing Autonomous Region in Muslim Mindanao 1990-2019 — predecessor framework superseded by Bangsamoro Organic Law 2019."
+    },
+    {
+      "citation": "Hague Convention 1980 — Philippines accession 8 March 2016",
+      "title": "Hague Convention 1980 — Philippines",
+      "year": 2016,
+      "url": "https://www.hcch.net/",
+      "relevance": "Philippine Hague Convention 1980 accession 8 March 2016 effective 1 June 2016 — applicable uniformly across BARMM."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Bangsamoro Sharia District Courts",
+      "seat": "Cotabato City",
+      "url": "https://www.bangsamoro.gov.ph/",
+      "role": "Primary courts for Islamic family-law matters in BARMM — distinct from rest-of-Philippines' civil-court framework."
+    },
+    {
+      "name": "Court of Appeals of the Philippines",
+      "seat": "Manila",
+      "url": "https://ca.judiciary.gov.ph/",
+      "role": "Intermediate appellate court for civil and criminal matters from BARMM."
+    },
+    {
+      "name": "Supreme Court of the Philippines",
+      "seat": "Manila",
+      "url": "https://sc.judiciary.gov.ph/",
+      "role": "Final appellate court for civil and criminal matters from BARMM."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Professional Regulation Commission (PRC) Philippines",
+      "url": "https://www.prc.gov.ph/",
+      "role": "Philippine Federal professional regulatory framework applicable in BARMM."
+    }
+  ],
+  "anonymisation_convention": "Bangsamoro family-court decisions are anonymised per Philippine court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1457,
+      "title": "Sulu Sultanate founded",
+      "description": "Sulu Sultanate founded 1457 — major Southeast Asian Islamic maritime power 1457-1915."
+    },
+    {
+      "year": 1565,
+      "title": "Spanish-Moro Wars begin",
+      "description": "Spanish-Moro Wars 1565-1898 — substantial Moro resistance against Spanish colonisation."
+    },
+    {
+      "year": 1899,
+      "title": "American-Moro Wars begin",
+      "description": "American-Moro Wars 1899-1913 — substantial Moro resistance against American colonisation following Treaty of Paris 1898."
+    },
+    {
+      "year": 1968,
+      "title": "Jabidah massacre + Moro insurgency framework",
+      "description": "Jabidah massacre 18 March 1968 catalysing Moro insurgency framework — beginning of 46-year Moro insurgency 1968-2014."
+    },
+    {
+      "year": 1977,
+      "title": "Code of Muslim Personal Laws + Shari'ah Courts",
+      "description": "Philippine Presidential Decree 1083 establishing Code of Muslim Personal Laws + Shari'ah Courts framework for Filipino Muslims."
+    },
+    {
+      "year": 1990,
+      "title": "ARMM established",
+      "description": "Autonomous Region in Muslim Mindanao established 6 November 1990 under ARMM Organic Law 1989."
+    },
+    {
+      "year": 2014,
+      "title": "Comprehensive Agreement on the Bangsamoro",
+      "description": "Comprehensive Agreement on the Bangsamoro signed 27 March 2014 between Philippines Government + MILF — ending Moro insurgency framework."
+    },
+    {
+      "year": 2016,
+      "title": "Philippines Hague Convention 1980 accession",
+      "description": "Philippine Hague Convention 1980 accession 8 March 2016 effective 1 June 2016."
+    },
+    {
+      "year": 2019,
+      "title": "BARMM established",
+      "description": "Bangsamoro Autonomous Region in Muslim Mindanao established 21 January 2019 via plebiscite under Bangsamoro Organic Law 11054 — replacing ARMM."
+    },
+    {
+      "year": 2025,
+      "title": "BARMM first regular elections",
+      "description": "BARMM first regular elections held 12 May 2025 — formal democratic governance framework transition."
+    }
+  ],
+  "structural_findings": [
+    "Bangsamoro operates a mixed federal Philippine common-law + Bangsamoro Islamic-law autonomous region framework — places Bangsamoro in the Southern Philippine autonomous-region cluster.",
+    "Only Philippine autonomous region with formal Islamic-law family-law framework is structurally distinctive globally — Code of Muslim Personal Laws 1977 PD 1083 + Bangsamoro-Specific Shari'ah Courts framework.",
+    "Only Philippine autonomous region established via formal peace-agreement framework derived from internal armed conflict resolution is structurally distinctive globally — Bangsamoro Organic Law 11054 implementing Comprehensive Agreement on the Bangsamoro 2014.",
+    "Central jurisdiction of most sustained modern Philippine internal armed conflict (1968-2014 46-year Moro insurgency) is structurally distinctive globally — ~120,000-150,000 cumulative deaths.",
+    "Moro-cultural-political-identity-vs-Filipino-Catholic-cultural-political-assimilation tension is structurally distinctive within Philippine cluster — historic Sulu Sultanate 1457-1915 + Maguindanao Sultanate 1520-1888 + Spanish-Moro Wars 1565-1898 + American-Moro Wars 1899-1913.",
+    "Sulu Sultanate 1457-1915 major Southeast Asian Islamic maritime power framework is structurally distinctive globally.",
+    "1989-2019 ARMM predecessor framework superseded by 2019 BARMM framework is structurally distinctive within Philippine autonomous-region cluster.",
+    "Philippine Hague-Convention-1980-accession-2016 status applies — recent accession framework."
+  ],
+  "references": [
+    "jurisdiction:philippines",
+    "jurisdiction:malaysia",
+    "jurisdiction:sabah",
+    "jurisdiction:indonesia",
+    "jurisdiction:aceh",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Bangsamoro Government",
+      "url": "https://www.bangsamoro.gov.ph/",
+      "publisher": "BARMM Government",
+      "language": "en"
+    },
+    {
+      "title": "Office of the Presidential Adviser on the Peace Process",
+      "url": "https://www.opapp.gov.ph/",
+      "publisher": "Philippine Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Bangsamoro jurisdiction sidecar — mixed federal Philippine common-law/Bangsamoro Islamic-law Southern Philippine autonomous region (Bangsamoro Organic Law 11054 + Comprehensive Agreement on the Bangsamoro 2014 + Code of Muslim Personal Laws 1977 PD 1083 + Bangsamoro Sharia District Courts + ARMM Organic Law 6734 1989-2019 + Sulu Sultanate 1457-1915 + Maguindanao Sultanate 1520-1888 + Spanish-Moro Wars 1565-1898 + American-Moro Wars 1899-1913 + 1968-2014 Moro insurgency + 2025 first regular elections + Philippines Hague-1980-2016). Only Philippine autonomous region with formal Islamic-law family-law framework globally + only Philippine autonomous region established via formal peace-agreement framework + central jurisdiction of most sustained modern Philippine internal armed conflict + Moro-cultural-political-identity tension + Sulu Sultanate 1457-1915 maritime power framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southern-Philippine + mixed Philippine-common-law/Bangsamoro-Islamic-law + Philippine-autonomous-region cluster + Bangsamoro-Organic-Law-11054-Islamic-family-law-globally-distinctive + Comprehensive-Agreement-on-the-Bangsamoro-2014-peace-agreement + Code-of-Muslim-Personal-Laws-1977-PD-1083 + Bangsamoro-Sharia-District-Courts + 1968-2014-Moro-insurgency + Sulu-Sultanate-1457-1915 + ARMM-1989-2019-predecessor-framework + Philippines-Hague-1980-2016 clusters within the corpus."
+  ]
+}

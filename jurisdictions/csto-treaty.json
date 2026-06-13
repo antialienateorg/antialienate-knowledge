@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0",
+  "id": "csto-treaty",
+  "name": "CSTO Treaty 1992 (Collective Security Treaty Organization)",
+  "jurisdiction_code": "CST",
+  "legal_system": "supranational",
+  "language": ["ru", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Collective Security Treaty (CST) and the Collective Security Treaty Organization (CSTO) is a regional supranational meta-framework foundational-CSTO-treaty framework adopted by the 6 founding post-Soviet states in Tashkent — structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating on formal post-Soviet collective-defence framework + only modern regional supranational binding-treaty framework operating formal Russia-led-collective-defence framework (CST signed 15 May 1992 in Tashkent Uzbekistan by Armenia + Kazakhstan + Kyrgyzstan + Russia + Tajikistan + Uzbekistan + effective 20 April 1994 + CSTO Charter signed 7 October 2002 in Chisinau Moldova + effective 18 September 2003 transforming CST into CSTO framework — formal foundational CSTO treaty framework establishing comprehensive CSTO organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate on different geographic scopes, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework + only modern regional supranational binding-treaty framework operating formal Russia-led-collective-defence framework + only modern regional supranational binding-treaty framework operating formal post-Soviet collective-defence framework + only modern regional supranational binding-treaty framework operating formal Article 4 collective-defence framework + only modern regional supranational binding-treaty framework operating formal Armenia-de-facto-departure framework via Armenia's 2024 freezing of CSTO participation framework), as the central jurisdiction of the formal CSTO Article 4 Collective Defence framework (CST Article 4 framework providing 'In case of aggression against any of the Member States by any State or group of States, this shall be considered as an aggression against all the Member States of this Treaty' — formal foundational CSTO Article 4 collective-defence framework, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal Article 4 collective-defence framework + parallel framework to NATO Article 5 framework + invoked once January 2022 during Kazakhstan unrest framework), as the central jurisdiction of the formal CSTO Collective Rapid Reaction Force CRRF framework (CSTO Collective Rapid Reaction Force CRRF established 4 February 2009 at CSTO Moscow Summit providing formal CSTO regional rapid-reaction force framework — formal foundational CSTO regional rapid-reaction force framework, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal CRRF rapid-reaction force framework with operational deployment framework via January 2022 Kazakhstan deployment framework), and as the central jurisdiction of the formal CSTO Membership Reduction framework (CSTO membership reduction via Uzbekistan withdrew 1999 + rejoined 2006 + withdrew again 2012 + Azerbaijan withdrew 1999 + Georgia withdrew 1999 + Armenia froze participation February 2024 + Armenia announced full withdrawal intentions June 2024 reducing CSTO from 9-states-historic to 5-active-states framework as of 2026 — formal foundational CSTO membership-reduction framework, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal massive-membership-reduction-via-defections framework). The CSTO Treaty is binding upon 6 CSTO member states as of 2026 (Armenia + Belarus + Kazakhstan + Kyrgyzstan + Russia + Tajikistan) + 4 CSTO observer states + 1 CSTO partner state — comprehensive post-Soviet collective-defence coverage framework + Armenia froze participation February 2024 framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal CSTO framework operates limited intersection with parental-alienation framework via formal post-Soviet-military-family-cross-border framework. The CSTO Collective Security Council + CSTO Council of Ministers of Foreign Affairs + CSTO Council of Ministers of Defence + CSTO Secretariat + CSTO Joint Staff + CSTO CRRF are the formal CSTO bodies; national-level apex courts operate as judicial bodies. The CSTO Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Collective Security Treaty 1992",
+      "title": "CST",
+      "year": 1994,
+      "url": "https://en.odkb-csto.org/",
+      "relevance": "Collective Security Treaty signed 15 May 1992 in Tashkent Uzbekistan by Armenia + Kazakhstan + Kyrgyzstan + Russia + Tajikistan + Uzbekistan + effective 20 April 1994 — formal foundational original CST framework."
+    },
+    {
+      "citation": "CSTO Charter 2002",
+      "title": "CSTO Charter",
+      "year": 2003,
+      "url": "https://en.odkb-csto.org/",
+      "relevance": "CSTO Charter signed 7 October 2002 in Chisinau Moldova + effective 18 September 2003 transforming CST into CSTO — formal foundational CSTO treaty framework."
+    },
+    {
+      "citation": "CST Article 4 (Collective Defence Framework)",
+      "title": "CST Article 4",
+      "year": 1994,
+      "url": "https://en.odkb-csto.org/",
+      "relevance": "CST Article 4 framework on collective-defence — formal foundational CSTO Article 4 collective-defence framework + parallel to NATO Article 5 + invoked once January 2022 Kazakhstan unrest framework."
+    },
+    {
+      "citation": "CSTO Collective Rapid Reaction Force CRRF 2009",
+      "title": "CSTO CRRF",
+      "year": 2009,
+      "url": "https://en.odkb-csto.org/",
+      "relevance": "CSTO Collective Rapid Reaction Force CRRF established 4 February 2009 at CSTO Moscow Summit — formal foundational CSTO CRRF rapid-reaction force framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "CSTO Collective Security Council",
+      "seat": "rotating",
+      "url": "https://en.odkb-csto.org/",
+      "role": "Formal supreme decision-making body for CSTO."
+    },
+    {
+      "name": "CSTO Council of Ministers of Foreign Affairs",
+      "seat": "rotating",
+      "url": "https://en.odkb-csto.org/",
+      "role": "Formal foreign ministers body for CSTO."
+    },
+    {
+      "name": "CSTO Council of Ministers of Defence",
+      "seat": "rotating",
+      "url": "https://en.odkb-csto.org/",
+      "role": "Formal defence ministers body for CSTO."
+    },
+    {
+      "name": "CSTO Secretariat",
+      "seat": "Moscow",
+      "url": "https://en.odkb-csto.org/",
+      "role": "Formal administrative body for CSTO."
+    },
+    {
+      "name": "CSTO Joint Staff",
+      "seat": "Moscow",
+      "url": "https://en.odkb-csto.org/",
+      "role": "Formal CSTO Joint Staff military body."
+    },
+    {
+      "name": "CSTO Collective Rapid Reaction Force (CRRF)",
+      "seat": "distributed",
+      "url": "https://en.odkb-csto.org/",
+      "role": "Formal CSTO regional rapid-reaction force framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "CSTO Secretariat",
+      "url": "https://en.odkb-csto.org/",
+      "role": "CSTO Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "CSTO-related communications operate via state-state framework via CSTO Collective Security Council; individual communications not formally accepted under CSTO framework.",
+  "key_developments": [
+    {
+      "year": 1991,
+      "title": "Soviet Union dissolves",
+      "description": "Soviet Union dissolved 26 December 1991 — predecessor framework to CST + CSTO."
+    },
+    {
+      "year": 1992,
+      "title": "CST signed",
+      "description": "Collective Security Treaty signed 15 May 1992 in Tashkent Uzbekistan by Armenia + Kazakhstan + Kyrgyzstan + Russia + Tajikistan + Uzbekistan + Azerbaijan + Georgia + Belarus joined 1993-1994 — formal foundational CST framework adopted."
+    },
+    {
+      "year": 1994,
+      "title": "CST enters force",
+      "description": "CST entered force 20 April 1994 — formal foundational CST framework operational."
+    },
+    {
+      "year": 1999,
+      "title": "Azerbaijan + Georgia + Uzbekistan withdraw",
+      "description": "Azerbaijan + Georgia + Uzbekistan withdrew from CST 1999 — formal first CST defections framework."
+    },
+    {
+      "year": 2002,
+      "title": "CSTO Charter signed",
+      "description": "CSTO Charter signed 7 October 2002 in Chisinau Moldova transforming CST into CSTO — formal foundational CSTO treaty framework adopted."
+    },
+    {
+      "year": 2003,
+      "title": "CSTO Charter enters force",
+      "description": "CSTO Charter entered force 18 September 2003 — formal foundational CSTO treaty framework operational."
+    },
+    {
+      "year": 2006,
+      "title": "Uzbekistan rejoins CSTO",
+      "description": "Uzbekistan rejoined CSTO 2006 — formal Uzbekistan rejoining framework."
+    },
+    {
+      "year": 2009,
+      "title": "CSTO CRRF established",
+      "description": "CSTO Collective Rapid Reaction Force CRRF established 4 February 2009 at CSTO Moscow Summit — formal foundational CSTO CRRF rapid-reaction force framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "Uzbekistan withdraws again from CSTO",
+      "description": "Uzbekistan withdrew from CSTO 19 December 2012 — formal Uzbekistan second-withdrawal framework."
+    },
+    {
+      "year": 2022,
+      "title": "CSTO Article 4 invoked Kazakhstan + Russia invades Ukraine",
+      "description": "CSTO Article 4 invoked + CSTO CRRF deployed to Kazakhstan 6-13 January 2022 during Kazakhstan January unrest — formal first + only CSTO Article 4 invocation + CRRF deployment framework + Russia invaded Ukraine 24 February 2022 without invoking CSTO Article 4 framework."
+    },
+    {
+      "year": 2024,
+      "title": "Armenia freezes CSTO participation + announces withdrawal intentions",
+      "description": "Armenia froze CSTO participation February 2024 + Armenia announced full withdrawal intentions June 2024 + Armenia continued non-participation framework through 2025-2026 — formal Armenia-de-facto-departure framework operational."
+    }
+  ],
+  "structural_findings": [
+    "CSTO Treaty operates a regional supranational binding-treaty framework — places CSTO Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern post-Soviet regional supranational binding-treaty framework operating on formal post-Soviet collective-defence framework + only modern regional supranational binding-treaty framework operating formal Russia-led-collective-defence framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework + only modern regional supranational binding-treaty framework operating formal Russia-led-collective-defence framework + only modern regional supranational binding-treaty framework operating formal Article 4 collective-defence framework + only modern regional supranational binding-treaty framework operating formal Armenia-de-facto-departure framework via Armenia's 2024 freezing of CSTO participation framework.",
+    "Central jurisdiction of formal CSTO Article 4 Collective Defence framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework operating formal Article 4 collective-defence framework + parallel framework to NATO Article 5 framework + invoked once January 2022 during Kazakhstan unrest framework.",
+    "Central jurisdiction of formal CSTO Collective Rapid Reaction Force CRRF framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework operating formal CRRF rapid-reaction force framework with operational deployment framework via January 2022 Kazakhstan deployment framework.",
+    "Central jurisdiction of formal CSTO Membership Reduction framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework operating formal massive-membership-reduction-via-defections framework.",
+    "6 CSTO member state + 4 observer state + 1 partner state ratification framework with Armenia-froze-participation framework is structurally distinctive globally — comprehensive post-Soviet collective-defence coverage framework.",
+    "1991 Soviet Union dissolves + 1992 CST + 1994 entry into force + 1999 Azerbaijan + Georgia + Uzbekistan withdraw + 2002 CSTO Charter + 2003 entry into force + 2006 Uzbekistan rejoins + 2009 CRRF + 2012 Uzbekistan withdraws again + 2022 CSTO Article 4 + CRRF Kazakhstan deployment + Russia invasion + 2024 Armenia freezes CSTO-framework-development sequence is structurally distinctive globally.",
+    "CSTO Treaty + Article 4 + CSTO Charter + CRRF + Collective Security Council formal quintet framework with formal post-Soviet-military-family-cross-border limited PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:belarus",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:armenia",
+    "jurisdiction:kyrgyzstan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "CSTO",
+      "url": "https://en.odkb-csto.org/",
+      "publisher": "CSTO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "CSTO Treaty jurisdiction sidecar — regional supranational post-Soviet foundational-CSTO-treaty meta-framework (CST 1992/1994 + CSTO Charter 2002/2003 + Article 4 + CRRF 2009 + 1999 Azerbaijan + Georgia + Uzbekistan withdrawals + 2006 Uzbekistan rejoins + 2012 Uzbekistan withdraws again + 2022 Article 4 invoked Kazakhstan + Russia invades Ukraine without invocation + 2024 Armenia freezes participation). Only modern post-Soviet regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework operating formal Russia-led-collective-defence framework + only modern regional supranational binding-treaty framework operating formal Article 4 collective-defence framework + parallel framework to NATO Article 5 + only modern regional supranational binding-treaty framework operating formal Armenia-de-facto-departure framework + central jurisdiction of formal Article 4 collective-defence framework invoked once January 2022 Kazakhstan unrest + central jurisdiction of formal CRRF rapid-reaction force framework deployed January 2022 Kazakhstan + central jurisdiction of formal massive-membership-reduction-via-defections framework + 6 CSTO member states (Armenia + Belarus + Kazakhstan + Kyrgyzstan + Russia + Tajikistan) with Armenia-frozen + 1991 Soviet dissolution + 1992 CST + 1994 entry into force + 1999 first defections + 2002 CSTO Charter + 2003 entry into force + 2006 Uzbekistan rejoins + 2009 CRRF + 2012 Uzbekistan re-withdraws + 2022 Article 4 + CRRF Kazakhstan + Russia-Ukraine no-Article-4-invocation + 2024 Armenia freezes CSTO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: CSTO framework operates limited intersection with parental-alienation framework via formal post-Soviet-military-family-cross-border framework.",
+    "Joins regional + supranational + post-Soviet-foundational-CSTO-treaty cluster + CSTO-Treaty-only-post-Soviet-regional-supranational-collective-defence-binding-treaty-globally-distinctive + Russia-led-collective-defence + Article-4-collective-defence-parallel-NATO-Article-5 + CSTO-Article-4-invoked-once-January-2022-Kazakhstan-unrest + CSTO-CRRF-2009-deployed-January-2022-Kazakhstan + CSTO-Secretariat-Moscow + CSTO-Joint-Staff-Moscow + 6-CSTO-member-states + Armenia-froze-CSTO-February-2024 + Armenia-withdrawal-intentions-June-2024 + 1999-Azerbaijan-Georgia-Uzbekistan-withdrawals + 2006-Uzbekistan-rejoins + 2012-Uzbekistan-re-withdraws + 2022-Russia-invades-Ukraine-no-CSTO-Article-4-invocation + CST-Tashkent-1992 + CSTO-Charter-Chisinau-2002 + post-Soviet-military-family-cross-border-PA-intersection clusters within the corpus."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "udhr",
+  "name": "Universal Declaration of Human Rights (UDHR 1948)",
+  "jurisdiction_code": "UDH",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Universal Declaration of Human Rights (UDHR) is a global supranational meta-framework foundational human-rights soft-law instrument adopted by the UN General Assembly — structurally distinctive globally as the foundational modern international human-rights instrument framework underlying all subsequent modern international + regional human-rights frameworks (UDHR adopted 10 December 1948 by UN General Assembly Resolution 217 A (III) in Palais de Chaillot, Paris — formal foundational human-rights soft-law instrument framework, distinct from rest-of-modern-international-human-rights frameworks which operate as binding-treaty frameworks subsequent to + influenced by UDHR framework, structurally distinctive globally as the foundational modern international human-rights instrument framework underlying all subsequent modern international + regional human-rights binding-treaty frameworks), as the most-translated document in human history (UDHR has been translated into 530+ languages as of 2026 — formal Guinness World Record as most-translated document in human history, structurally distinctive globally as the most-translated document in human history), as the central jurisdiction of the formal Article 16 family-rights framework (UDHR Article 16 framework on rights to marry and found a family + family-rights framework — formal foundational family-rights framework underlying all subsequent modern international + regional family-rights frameworks, structurally distinctive globally as the most-fundamental modern family-rights framework provision), and as the central jurisdiction of the formal post-WWII Eleanor Roosevelt-chaired UN Commission on Human Rights elaboration framework (UDHR drafted 1946-1948 by UN Commission on Human Rights chaired by Eleanor Roosevelt — formal UN drafting process framework, structurally distinctive globally as the formal foundational human-rights drafting process framework underlying all subsequent modern international human-rights frameworks). The UDHR is binding upon all UN member states as customary international law framework, with substantial debate on extent of binding-customary-international-law framework. The Declaration is silent on 'parental alienation' as a statutory label, though formal Article 16 family-rights framework operates substantial intersection with parental-alienation framework. The UDHR has no formal monitoring body framework — implementation framework operates via subsequent UN treaty bodies + Special Procedures + International Court of Justice frameworks. The UDHR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Universal Declaration of Human Rights 1948",
+      "title": "Universal Declaration of Human Rights",
+      "year": 1948,
+      "url": "https://www.un.org/",
+      "relevance": "Universal Declaration of Human Rights adopted 10 December 1948 by UN General Assembly Resolution 217 A (III) in Palais de Chaillot, Paris — formal foundational human-rights soft-law instrument framework."
+    },
+    {
+      "citation": "UDHR Article 16 (Rights to Marry and Found a Family)",
+      "title": "UDHR Article 16",
+      "year": 1948,
+      "url": "https://www.un.org/",
+      "relevance": "UDHR Article 16 framework on rights to marry and found a family + family-rights framework — formal foundational family-rights framework underlying all subsequent modern international + regional family-rights frameworks."
+    },
+    {
+      "citation": "UDHR Article 25(2) (Children's Special Care)",
+      "title": "UDHR Article 25(2)",
+      "year": 1948,
+      "url": "https://www.un.org/",
+      "relevance": "UDHR Article 25(2) framework providing 'Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection' — formal foundational children's-rights framework."
+    },
+    {
+      "citation": "International Covenant on Civil and Political Rights ICCPR 1966 + International Covenant on Economic, Social and Cultural Rights ICESCR 1966",
+      "title": "ICCPR + ICESCR",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "International Covenant on Civil and Political Rights ICCPR + International Covenant on Economic, Social and Cultural Rights ICESCR adopted 16 December 1966 + effective 23 March 1976 + 3 January 1976 — formal binding-treaty translation of UDHR framework, formally constituting International Bill of Human Rights framework alongside UDHR."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "International Court of Justice (ICJ)",
+      "seat": "The Hague",
+      "url": "https://www.icj-cij.org/",
+      "role": "International Court of Justice — formal global judicial body, including formal jurisdiction over UDHR framework as customary international law framework."
+    },
+    {
+      "name": "UN Treaty Bodies (UNCRC + CEDAW + CRPD + CCPR + CESCR + others)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/",
+      "role": "UN Treaty Bodies — formal monitoring framework bodies for subsequent UN binding-treaty frameworks based on UDHR framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "UDHR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UDHR-related individual communications operate via subsequent UN treaty bodies + Special Procedures frameworks using initials.",
+  "key_developments": [
+    {
+      "year": 1945,
+      "title": "UN founded + UN Charter adopted",
+      "description": "United Nations founded 24 October 1945 + UN Charter adopted 26 June 1945 — beginning of formal UN regional supranational framework."
+    },
+    {
+      "year": 1946,
+      "title": "UN Commission on Human Rights established",
+      "description": "UN Commission on Human Rights established February 1946 — formal UN human-rights drafting framework + UDHR drafting process framework."
+    },
+    {
+      "year": 1948,
+      "title": "UDHR adopted",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 by UN General Assembly Resolution 217 A (III) in Palais de Chaillot, Paris — formal foundational human-rights soft-law instrument framework."
+    },
+    {
+      "year": 1966,
+      "title": "ICCPR + ICESCR adopted",
+      "description": "International Covenant on Civil and Political Rights ICCPR + International Covenant on Economic, Social and Cultural Rights ICESCR adopted 16 December 1966 — formal binding-treaty translation of UDHR framework."
+    },
+    {
+      "year": 1976,
+      "title": "ICCPR + ICESCR enter force",
+      "description": "ICCPR entered force 23 March 1976 + ICESCR entered force 3 January 1976 — formal International Bill of Human Rights framework operational."
+    },
+    {
+      "year": 2009,
+      "title": "UDHR Guinness World Record",
+      "description": "UDHR achieved Guinness World Record as most-translated document in human history 2009 — formal global recognition of UDHR translation framework."
+    }
+  ],
+  "structural_findings": [
+    "UDHR operates a supranational global foundational human-rights soft-law framework — places UDHR in the global supranational-meta-framework cluster.",
+    "Foundational modern international human-rights instrument framework underlying all subsequent modern international + regional human-rights frameworks is structurally distinctive globally — formal foundational human-rights soft-law instrument framework.",
+    "Most-translated document in human history is structurally distinctive globally — Guinness World Record + 530+ languages as of 2026.",
+    "Central jurisdiction of formal Article 16 family-rights framework is structurally distinctive globally — formal foundational family-rights framework underlying all subsequent modern international + regional family-rights frameworks.",
+    "Central jurisdiction of formal post-WWII Eleanor Roosevelt-chaired UN Commission on Human Rights elaboration framework is structurally distinctive globally — formal foundational human-rights drafting process framework underlying all subsequent modern international human-rights frameworks.",
+    "Customary international law framework status is structurally distinctive globally — soft-law framework operating as customary international law framework with substantial debate on binding-extent framework.",
+    "Article 16 + Article 25(2) formal family-rights + children's-rights dual framework is structurally distinctive globally.",
+    "1948 UDHR + 1966 ICCPR + ICESCR + 1976 entry into force International-Bill-of-Human-Rights-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child"
+  ],
+  "sources": [
+    {
+      "title": "United Nations",
+      "url": "https://www.un.org/",
+      "publisher": "United Nations",
+      "language": "en"
+    },
+    {
+      "title": "OHCHR — UDHR",
+      "url": "https://www.ohchr.org/en/universal-declaration-of-human-rights",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UDHR jurisdiction sidecar — supranational global foundational human-rights soft-law meta-framework (UDHR 1948 + Article 16 Family Rights + Article 25(2) Children's Special Care + UN Charter 1945 + UN Commission on Human Rights 1946 + ICCPR 1966/1976 + ICESCR 1966/1976 + International Bill of Human Rights). Foundational modern international human-rights instrument framework underlying all subsequent modern international + regional human-rights frameworks globally + most-translated document in human history + central jurisdiction of formal Article 16 family-rights framework + central jurisdiction of formal post-WWII Eleanor Roosevelt-chaired UN Commission on Human Rights elaboration framework + Customary international law framework status + Article 16 + Article 25(2) formal family-rights + children's-rights dual framework + 1948 UDHR + 1966 ICCPR + ICESCR + 1976 entry into force International-Bill-of-Human-Rights-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + foundational-human-rights-soft-law cluster + UDHR-foundational-modern-international-human-rights-instrument-globally-distinctive + most-translated-document-in-human-history + Article-16-Family-Rights-foundational + Article-25-2-Children-Special-Care-foundational + Eleanor-Roosevelt-UN-Commission-on-Human-Rights-drafting-framework + customary-international-law-framework-status + International-Bill-of-Human-Rights-UDHR-ICCPR-ICESCR-1948-1966-1976 clusters within the corpus."
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "id": "new-caledonia",
+  "name": "New Caledonia (Nouvelle-Calédonie / Kanaky)",
+  "jurisdiction_code": "NC",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "New Caledonia is a Pacific Island civil-law sui generis collectivity of the French Republic under the Organic Law 99-209 of 19 March 1999 (Statut de la Nouvelle-Calédonie) implementing the 1998 Nouméa Accord — structurally distinctive globally as the only sui generis collectivity within the French Republic with constitutionally-protected partial sovereignty and customary-status framework. Family-law framework operates under the French Civil Code (Code Civil) with substantial Kanak customary-status (statut civil coutumier kanak) framework — constitutionally-recognised parallel civil-status regime for Kanak indigenous-status persons. Parental authority and child custody operate under Civil Code arts. 371-387 (common-law civil-status) or under Kanak customary-law (customary-status). The Court of Appeal of Nouméa is the apex domestic appellate court; final appellate jurisdiction was retained with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal of First Instance of Nouméa (Tribunal de Première Instance) and on customary-status matters via Customary Sessions (formation coutumière). Psychology profession is regulated through the French Republic professional framework as applicable in New Caledonia. New Caledonia is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. New Caledonia is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "French Civil Code arts. 371-387 (applicable in New Caledonia)",
+      "title": "French Civil Code — Parental authority",
+      "year": 1804,
+      "url": "https://www.cour-de-cassation.fr/",
+      "relevance": "French Civil Code applicable to common-law civil-status (statut civil de droit commun) persons in New Caledonia. Arts. 371-387 govern autorité parentale and child custody."
+    },
+    {
+      "citation": "Organic Law 99-209 of 19 March 1999 (Statut de la Nouvelle-Calédonie)",
+      "title": "Statute of New Caledonia",
+      "year": 1999,
+      "url": "https://www.legifrance.gouv.fr/",
+      "relevance": "Federal Organic Law implementing 1998 Nouméa Accord establishing New Caledonia's sui generis collectivity status with constitutionally-protected partial sovereignty."
+    },
+    {
+      "citation": "Kanak customary-law framework",
+      "title": "Kanak customary-status framework",
+      "year": 1999,
+      "url": "https://www.legifrance.gouv.fr/",
+      "relevance": "Constitutionally-recognised Kanak customary-status (statut civil coutumier kanak) for Kanak indigenous-status persons operating in parallel with French civil-law."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Nouméa (Cour d'appel de Nouméa)",
+      "seat": "Nouméa",
+      "url": "https://www.cour-appel-noumea.justice.fr/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "French Court of Cassation (Cour de Cassation)",
+      "seat": "Paris",
+      "url": "https://www.cour-de-cassation.fr/",
+      "role": "Final appellate court for civil and criminal matters from New Caledonia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "French Republic professional framework (applicable in New Caledonia)",
+      "url": "https://www.sante.gouv.fr/",
+      "role": "French professional regulatory framework for health and allied health professionals including clinical psychology applicable in New Caledonia."
+    }
+  ],
+  "anonymisation_convention": "New Caledonian family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1983,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by France to New Caledonia effective 1 December 1983."
+    },
+    {
+      "year": 1998,
+      "title": "Nouméa Accord",
+      "description": "Nouméa Accord establishing path toward New Caledonian self-determination including constitutional Kanak customary-status recognition."
+    },
+    {
+      "year": 1999,
+      "title": "Statute of New Caledonia (Organic Law 99-209)",
+      "description": "Federal Organic Law implementing 1998 Nouméa Accord establishing New Caledonia's sui generis collectivity status with constitutionally-protected partial sovereignty."
+    },
+    {
+      "year": 2018,
+      "title": "Independence referendum — remain",
+      "description": "First independence referendum (2018) resulted in maintaining current status."
+    },
+    {
+      "year": 2020,
+      "title": "Independence referendum — remain",
+      "description": "Second independence referendum (2020) resulted in maintaining current status."
+    },
+    {
+      "year": 2021,
+      "title": "Independence referendum — remain",
+      "description": "Third independence referendum (2021) resulted in maintaining current status (boycotted by independence movement)."
+    }
+  ],
+  "structural_findings": [
+    "New Caledonia operates a structurally distinctive globally sui generis collectivity framework within French Republic — constitutionally-recognised parallel Kanak customary-status (statut civil coutumier kanak) operating alongside French civil-law (statut civil de droit commun).",
+    "Constitutional recognition of Kanak customary-status with parallel personal-status jurisdiction is structurally distinctive globally — only sui generis collectivity within French Republic in the corpus.",
+    "Three independence referendums (2018, 2020, 2021) all resulted in maintaining current status — structurally distinctive within the corpus.",
+    "Hague Convention 1980 applicability via French Republic territorial extension reflects sui generis collectivity Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:france",
+    "jurisdiction:french-polynesia",
+    "jurisdiction:vanuatu",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Court of Appeal of Nouméa",
+      "url": "https://www.cour-appel-noumea.justice.fr/",
+      "publisher": "Court of Appeal",
+      "language": "fr"
+    },
+    {
+      "title": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/",
+      "publisher": "French Government",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "New Caledonia jurisdiction sidecar — civil-law Pacific French sui generis collectivity (French Civil Code + Statute of New Caledonia 1999 + constitutionally-recognised Kanak customary-status + customary Sessions + three independence referendums + Hague via French Republic territorial extension 1983). Only sui generis collectivity within French Republic globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + French-civil-law + sui-generis-collectivity-globally-distinctive cluster + Kanak-customary-status-constitutional-recognition + Hague-via-French-Republic-territorial-extension clusters within the corpus."
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "id": "xinjiang",
+  "name": "Xinjiang Uyghur Autonomous Region (新疆维吾尔自治区 / شىنجاڭ ئۇيغۇر ئاپتونوم رايونى)",
+  "jurisdiction_code": "CN-XJ",
+  "legal_system": "civil-law",
+  "language": ["ug", "zh", "kk", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Xinjiang Uyghur Autonomous Region (新疆维吾尔自治区 Xīnjiāng Wéiwú'ěr Zìzhìqū in Chinese / شىنجاڭ ئۇيغۇر ئاپتونوم رايونى Shinjang Uyghur Aptonom Rayoni in Uyghur) is a Northwestern Chinese civil-law Chinese autonomous-region constituent unit of the People's Republic of China — structurally distinctive globally as the largest Chinese province-level division by area (~1,664,897 km² — ~17.3% of Chinese land area, larger than any Western European country individually and equivalent to Iran in area), as the central jurisdiction of one of the most internationally-scrutinised modern Chinese sub-national human-rights contexts (2017+ Xinjiang Vocational Education and Training Centers framework — characterised by Chinese Government as counter-terrorism + counter-extremism framework, characterised by Office of the UN High Commissioner for Human Rights 2022 Assessment Report 31 August 2022 as possible crimes against humanity framework, multiple UN Special Procedures + UN Treaty Body findings of systematic ethnic-based human rights violations), as the only Chinese autonomous-region established on the basis of Turkic-Muslim Uyghur ethnic-identity framework (~11 million Uyghur Turkic-Muslim population — distinct from rest-of-China's Han-cultural-political framework), and as the central jurisdiction of contested East Turkestan independence framework (East Turkestan Government-in-Exile based in Washington DC since 2004 contesting Chinese sovereignty claims via cultural-political historical framework — 1933-1934 First East Turkestan Republic + 1944-1949 Second East Turkestan Republic precedent frameworks). Xinjiang historically operated under multiple Turkic Khaganate frameworks 6th-13th centuries + Chagatai Khanate framework 1227-1680 + Dzungar Khanate 1635-1755 + Qing protectorate 1759-1912, was contested 1912-1949 between Republic of China + Soviet Union + Turkic-Muslim self-government frameworks (1933-1934 First East Turkestan Republic + 1944-1949 Second East Turkestan Republic), was incorporated into People's Republic of China 1949, and was formally established as Xinjiang Uyghur Autonomous Region 1 October 1955. Xinjiang Uyghur Autonomous Region comprises ~1,664,897 km² with a population of ~25.8 million (~11.6 million Uyghur + ~10.9 million Han + ~1.6 million Kazakh + others). Family-law framework operates under the federal Chinese civil-law framework (Chinese Marriage Law 1980 + Chinese Civil Code 2020 Family Law portion Articles 1040-1118) applied uniformly across Chinese autonomous regions. The Xinjiang High People's Court is the apex regional court; final appellate jurisdiction lies with the Supreme People's Court of China. Xinjiang is silent on 'parental alienation' as a statutory label. China is a Hague Convention 1980 signatory but not a party — Xinjiang is governed by the Chinese non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the People's Republic of China Article 4 (Regional Ethnic Autonomy)",
+      "title": "Constitution of China Article 4",
+      "year": 1982,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Constitutional Article 4 providing for Regional Ethnic Autonomy framework — applicable to Xinjiang Uyghur Autonomous Region."
+    },
+    {
+      "citation": "Law on Regional Ethnic Autonomy 1984 (revised 2001)",
+      "title": "Regional Ethnic Autonomy Law",
+      "year": 1984,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Law of 31 May 1984 (revised 28 February 2001) establishing Regional Ethnic Autonomy framework — applicable to Xinjiang Uyghur Autonomous Region."
+    },
+    {
+      "citation": "Counter-Terrorism Law of China 2015 + Xinjiang Implementation",
+      "title": "Counter-Terrorism Law of China",
+      "year": 2015,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Law of 27 December 2015 framework applied in Xinjiang via 2017+ Vocational Education and Training Centers framework."
+    },
+    {
+      "citation": "Xinjiang De-Extremification Regulations 2017",
+      "title": "Xinjiang De-Extremification Regulations",
+      "year": 2017,
+      "url": "https://www.xinjiang.gov.cn/",
+      "relevance": "Xinjiang Uyghur Autonomous Region de-extremification regulations of 29 March 2017 — legal framework for Vocational Education and Training Centers."
+    },
+    {
+      "citation": "Chinese Civil Code 2020 Family Law portion (Articles 1040-1118)",
+      "title": "Chinese Civil Code Family Law",
+      "year": 2020,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Civil Code 2020 Family Law portion applicable uniformly across Xinjiang Uyghur Autonomous Region."
+    },
+    {
+      "citation": "UN OHCHR Xinjiang Assessment Report 2022",
+      "title": "UN OHCHR Xinjiang Assessment",
+      "year": 2022,
+      "url": "https://www.ohchr.org/",
+      "relevance": "OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region of 31 August 2022 — characterising Xinjiang framework as possible crimes against humanity framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Xinjiang High People's Court",
+      "seat": "Urumqi",
+      "url": "https://www.court.gov.cn/",
+      "role": "Apex regional appellate court for civil and criminal matters from Xinjiang Uyghur Autonomous Region."
+    },
+    {
+      "name": "Supreme People's Court of China",
+      "seat": "Beijing",
+      "url": "https://www.court.gov.cn/",
+      "role": "Final appellate court for civil and criminal matters from Xinjiang Uyghur Autonomous Region."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Chinese National Health Commission (国家卫生健康委员会)",
+      "url": "http://www.nhc.gov.cn/",
+      "role": "Chinese Federal professional regulatory framework applicable in Xinjiang Uyghur Autonomous Region."
+    }
+  ],
+  "anonymisation_convention": "Xinjiang family-court decisions are anonymised per Chinese court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1227,
+      "title": "Chagatai Khanate established",
+      "description": "Chagatai Khanate established 1227 by Chagatai Khan — Mongol-Turkic Khanate framework over Xinjiang region 1227-1680."
+    },
+    {
+      "year": 1759,
+      "title": "Qing protectorate established",
+      "description": "Qing protectorate over Xinjiang established 1759 — Qing-Dzungar framework following Dzungar genocide."
+    },
+    {
+      "year": 1933,
+      "title": "First East Turkestan Republic",
+      "description": "First East Turkestan Republic proclaimed 12 November 1933 — Turkic-Muslim self-government framework 1933-1934."
+    },
+    {
+      "year": 1944,
+      "title": "Second East Turkestan Republic",
+      "description": "Second East Turkestan Republic proclaimed 12 November 1944 — Turkic-Muslim self-government framework 1944-1949."
+    },
+    {
+      "year": 1949,
+      "title": "PRC incorporation",
+      "description": "Xinjiang incorporated into People's Republic of China 17 December 1949."
+    },
+    {
+      "year": 1955,
+      "title": "Xinjiang Uyghur Autonomous Region established",
+      "description": "Xinjiang Uyghur Autonomous Region formally established 1 October 1955."
+    },
+    {
+      "year": 1984,
+      "title": "Regional Ethnic Autonomy Law",
+      "description": "Chinese Federal Regional Ethnic Autonomy Law 1984 providing legal framework for Xinjiang Uyghur Autonomous Region."
+    },
+    {
+      "year": 2009,
+      "title": "Urumqi unrest",
+      "description": "Urumqi unrest 5-7 July 2009 — pivotal Xinjiang ethnic tensions framework."
+    },
+    {
+      "year": 2014,
+      "title": "Strike Hard Against Violent Terrorism campaign",
+      "description": "Strike Hard Against Violent Terrorism campaign launched May 2014 — precursor framework to 2017+ Vocational Education and Training Centers."
+    },
+    {
+      "year": 2017,
+      "title": "Xinjiang Vocational Education and Training Centers framework",
+      "description": "Xinjiang Vocational Education and Training Centers framework established 2017 — characterised by Chinese Government as counter-terrorism framework, characterised internationally as possible crimes against humanity framework."
+    },
+    {
+      "year": 2022,
+      "title": "UN OHCHR Xinjiang Assessment",
+      "description": "UN OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region of 31 August 2022 — characterising Xinjiang framework as possible crimes against humanity framework."
+    }
+  ],
+  "structural_findings": [
+    "Xinjiang operates a federal Chinese civil-law autonomous-region framework — places Xinjiang in the Northwestern Chinese autonomous-region cluster.",
+    "Largest Chinese province-level division by area (~1,664,897 km² / ~17.3% of Chinese land area) is structurally distinctive globally — larger than any Western European country individually.",
+    "Central jurisdiction of one of most internationally-scrutinised modern Chinese sub-national human-rights contexts is structurally distinctive globally — 2017+ Xinjiang Vocational Education and Training Centers framework + UN OHCHR 2022 Assessment.",
+    "Only Chinese autonomous-region established on basis of Turkic-Muslim Uyghur ethnic-identity framework is structurally distinctive globally — ~11.6 million Uyghur Turkic-Muslim population.",
+    "Central jurisdiction of contested East Turkestan independence framework is structurally distinctive globally — East Turkestan Government-in-Exile in Washington DC since 2004 + 1933-1934 + 1944-1949 East Turkestan Republic precedent frameworks.",
+    "1933-1934 First East Turkestan Republic + 1944-1949 Second East Turkestan Republic frameworks are structurally distinctive globally — only modern Chinese sub-national territory with two formal de facto independence-republic frameworks.",
+    "Chagatai Khanate 1227-1680 + Dzungar Khanate 1635-1755 historical framework is structurally distinctive globally.",
+    "Chinese non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:tibet",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:kyrgyzstan",
+    "jurisdiction:pakistan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Xinjiang Uyghur Autonomous Region Government",
+      "url": "https://www.xinjiang.gov.cn/",
+      "publisher": "Xinjiang Uyghur Autonomous Region Government",
+      "language": "zh"
+    },
+    {
+      "title": "UN OHCHR",
+      "url": "https://www.ohchr.org/",
+      "publisher": "United Nations",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Xinjiang Uyghur Autonomous Region jurisdiction sidecar — civil-law Northwestern Chinese Chinese-autonomous-region (Chinese Civil Code 2020 + Chinese Marriage Law 1980 + Constitution Article 4 Regional Ethnic Autonomy + Regional Ethnic Autonomy Law 1984/2001 + Counter-Terrorism Law of China 2015 + Xinjiang De-Extremification Regulations 2017 + UN OHCHR 2022 Assessment + Chagatai Khanate 1227-1680 + Dzungar Khanate 1635-1755 + Qing protectorate 1759-1912 + 1933-1934 First East Turkestan Republic + 1944-1949 Second East Turkestan Republic + 2009 Urumqi unrest + 2014 Strike Hard campaign + 2017 Vocational Education and Training Centers + East Turkestan Government-in-Exile + Chinese non-Hague-1980). Largest Chinese province-level division by area globally + central jurisdiction of one of most internationally-scrutinised modern Chinese sub-national human-rights contexts + only Chinese autonomous-region established on basis of Turkic-Muslim Uyghur ethnic-identity framework + central jurisdiction of contested East Turkestan independence framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northwestern-Chinese + civil-law + Chinese-autonomous-region cluster + largest-Chinese-province-level-division-by-area-globally-distinctive + 2017-Xinjiang-Vocational-Education-and-Training-Centers-framework + UN-OHCHR-2022-Assessment + Turkic-Muslim-Uyghur-ethnic-identity + 1933-1934-First-East-Turkestan-Republic + 1944-1949-Second-East-Turkestan-Republic + East-Turkestan-Government-in-Exile + Chagatai-Khanate-1227-1680 + Chinese-non-Hague-1980 clusters within the corpus."
+  ]
+}

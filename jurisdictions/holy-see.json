@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "id": "holy-see",
+  "name": "Holy See / Vatican City State (Sancta Sedes / Stato della Città del Vaticano)",
+  "jurisdiction_code": "VA",
+  "legal_system": "religious-law",
+  "language": ["la", "it"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Holy See / Vatican City State is a Southern European religious-law absolute ecclesiastical sovereign whose legal framework operates under Canon Law (Codex Iuris Canonici 1983) as the primary substantive law, supplemented by Italian civil-law residual application (per Lateran Treaty 1929 art. 3) for matters not addressed by Canon Law within Vatican City State. Family-law matters within the Vatican City State are exceptionally rare given the celibate clerical population; Canon Law governs the spiritual jurisdiction of marriage validity, annulment and parental responsibility for Roman Catholic faithful worldwide via ecclesiastical tribunals. The Apostolic Tribunal of the Roman Rota (Tribunal Sacrae Romanae Rotae) is the apex appellate court of the Holy See's spiritual jurisdiction. The Court of Cassation (Corte di Cassazione dello Stato della Città del Vaticano) is the apex court for civil and criminal matters within Vatican City State. The Holy See is structurally distinctive globally — combining sovereign-state status with worldwide spiritual jurisdiction over Catholic faithful through canon-law ecclesiastical tribunals. The Holy See is not a Hague Convention 1980 party.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Codex Iuris Canonici 1983 (Code of Canon Law) cann. 1055-1165 (Marriage) and 1671-1707 (Marriage Processes)",
+      "title": "Code of Canon Law — Marriage and Marriage Processes",
+      "year": 1983,
+      "url": "https://www.vatican.va/",
+      "relevance": "Federal Code of Canon Law promulgated by John Paul II 25 January 1983 (effective 27 November 1983) replacing 1917 Code. Cann. 1055-1165 govern marriage validity and impediments; cann. 1671-1707 govern marriage processes."
+    },
+    {
+      "citation": "Mitis Iudex Dominus Iesus 2015 (Apostolic Letter motu proprio)",
+      "title": "Mitis Iudex Dominus Iesus",
+      "year": 2015,
+      "url": "https://www.vatican.va/",
+      "relevance": "Federal Apostolic Letter motu proprio by Pope Francis reforming canon-law marriage-annulment procedure — abolished mandatory double-conformity requirement and introduced abbreviated process before the Bishop."
+    },
+    {
+      "citation": "Lateran Treaty 1929 art. 3",
+      "title": "Lateran Treaty",
+      "year": 1929,
+      "url": "https://www.vatican.va/",
+      "relevance": "Treaty between Holy See and Italy establishing Vatican City State; art. 3 provides for Italian civil-law residual application for matters not addressed by Canon Law within Vatican City State."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Apostolic Tribunal of the Roman Rota (Tribunal Sacrae Romanae Rotae)",
+      "seat": "Vatican City",
+      "url": "https://www.vatican.va/",
+      "role": "Apex appellate court of the Holy See's spiritual jurisdiction for marriage validity, annulment and other canonical-law matters."
+    },
+    {
+      "name": "Apostolic Signatura (Supremum Tribunal Signaturae Apostolicae)",
+      "seat": "Vatican City",
+      "url": "https://www.vatican.va/",
+      "role": "Supreme Tribunal of the Apostolic Signatura — apex administrative and constitutional jurisdiction within Holy See spiritual jurisdiction."
+    },
+    {
+      "name": "Court of Cassation, Vatican City State",
+      "seat": "Vatican City",
+      "url": "https://www.vatican.va/",
+      "role": "Apex court for civil and criminal matters within Vatican City State."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Pontifical Academy for Life",
+      "url": "https://www.academyforlife.va/",
+      "role": "Pontifical Academy addressing bioethical and family-related matters within Holy See spiritual jurisdiction."
+    }
+  ],
+  "anonymisation_convention": "Roman Rota and ecclesiastical tribunal decisions are typically anonymised per Holy See practice; published decisions use initials.",
+  "key_developments": [
+    {
+      "year": 1929,
+      "title": "Lateran Treaty",
+      "description": "Treaty between Holy See and Italy establishing Vatican City State."
+    },
+    {
+      "year": 1983,
+      "title": "Code of Canon Law (Codex Iuris Canonici)",
+      "description": "Code of Canon Law promulgated by John Paul II replacing 1917 Code — effective 27 November 1983."
+    },
+    {
+      "year": 2015,
+      "title": "Mitis Iudex Dominus Iesus",
+      "description": "Apostolic Letter motu proprio by Pope Francis reforming canon-law marriage-annulment procedure — abolished mandatory double-conformity requirement and introduced abbreviated episcopal process."
+    }
+  ],
+  "structural_findings": [
+    "The Holy See is structurally distinctive globally within the corpus — sovereign-state status combined with worldwide spiritual jurisdiction over Catholic faithful through canon-law ecclesiastical tribunals operating in every diocese.",
+    "Canon-law marriage-annulment jurisdiction operates in parallel with civil divorce in every nation with Catholic populations — represents a globally-reaching parallel-jurisdictional family-law framework unique within the corpus.",
+    "Mitis Iudex 2015 reform is structurally significant — substantially accelerated canon-law annulment procedure with abbreviated episcopal process, abolished mandatory double-conformity.",
+    "Non-Hague Convention status places Holy See in the non-Hague European cluster."
+  ],
+  "references": [
+    "jurisdiction:italy",
+    "jurisdiction:san-marino",
+    "jurisdiction:monaco",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "The Holy See",
+      "url": "https://www.vatican.va/",
+      "publisher": "Holy See",
+      "language": "la,it,en"
+    },
+    {
+      "title": "Pontifical Academy for Life",
+      "url": "https://www.academyforlife.va/",
+      "publisher": "Pontifical Academy for Life",
+      "language": "la,it,en"
+    }
+  ],
+  "editorial_notes": [
+    "Holy See jurisdiction sidecar — religious-law sovereign with worldwide spiritual jurisdiction (Code of Canon Law 1983 + Mitis Iudex 2015 + Lateran Treaty 1929 civil-law residual + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator; canon-law marriage validity/annulment jurisdiction operates worldwide for Catholic faithful but does not address PA as statutory label.",
+    "Joins Southern European + religious-law (canon-law) + sovereign-with-worldwide-spiritual-jurisdiction globally-distinctive cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

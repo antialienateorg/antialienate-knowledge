@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0",
+  "id": "sadc-treaty",
+  "name": "SADC Treaty 1992 (Southern African Development Community)",
+  "jurisdiction_code": "SAD",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Treaty of the Southern African Development Community (SADC Treaty) is a regional supranational meta-framework foundational-SADC-treaty framework adopted by the 10 Southern African states in Windhoek — structurally distinctive globally as the only modern Southern African regional supranational binding-treaty framework operating on formal Southern-Africa framework (SADC Treaty signed 17 August 1992 in Windhoek Namibia + effective 30 September 1993 + SADCC predecessor founded 1 April 1980 in Lusaka — formal foundational SADC treaty framework establishing comprehensive SADC organisation framework, distinct from rest-of-modern-regional-African-treaty frameworks which operate on different geographic scopes, structurally distinctive globally as the only modern Southern African regional supranational binding-treaty framework operating formal Southern-Africa framework + only modern African regional supranational binding-treaty framework operating formal post-apartheid framework via SADCC predecessor framework framing as Frontline States vs apartheid South Africa + South Africa joined 29 August 1994 after end-of-apartheid framework + English-French-Portuguese trilingual framework), as the central jurisdiction of the formal SADC Tribunal Suspension framework (SADC Tribunal established 2005 by 2000 SADC Protocol on Tribunal + suspended 2010 by SADC Summit + replaced by 2014 Protocol on Tribunal granting only state-state jurisdiction stripping individual-petition framework — formal foundational SADC judicial-framework-stripped framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal court-suspended-stripped-of-individual-petition-jurisdiction framework following adverse rulings against Zimbabwe land-reform framework in Mike Campbell case 2008), as the central jurisdiction of the formal SADC Free Trade Area framework (SADC Protocol on Trade signed 24 August 1996 + SADC Free Trade Area FTA launched 17 August 2008 in Sandton South Africa providing formal Southern-Africa-regional free-trade framework — formal foundational Southern-Africa-regional free-trade framework, structurally distinctive globally as the only modern Southern African regional supranational binding-treaty framework operating formal regional free-trade framework with 13 of 16 SADC member states participating), and as the central jurisdiction of the formal SADC Organ on Politics + Defence + Security Co-operation framework (SADC Organ on Politics, Defence and Security Co-operation OPDS established 28 June 1996 + SADC Protocol on Politics Defence and Security Co-operation signed 14 August 2001 + effective 2 March 2004 providing formal Southern-Africa-regional security framework — formal foundational Southern-Africa-regional security framework, structurally distinctive globally as the only modern Southern African regional supranational binding-treaty framework operating formal regional security framework with operational mandate framework via SAMIM Mozambique 2021-2025 + SAMIDRC DR Congo 2023-2024 framework). The SADC Treaty is binding upon 16 SADC member states as of 2026 (Angola + Botswana + Comoros + DRC + Eswatini + Lesotho + Madagascar + Malawi + Mauritius + Mozambique + Namibia + Seychelles + South Africa + Tanzania + Zambia + Zimbabwe) — comprehensive Southern African regional coverage framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal SADC Protocol on Gender and Development 2008 framework operates substantial intersection with parental-alienation framework via formal Southern-Africa-regional cross-border-children's-rights framework. The SADC Summit + SADC Council of Ministers + SADC Secretariat + SADC Tribunal (suspended-and-replaced framework) + SADC Parliamentary Forum + SADC Organ on Politics Defence and Security are the formal SADC bodies; national-level apex courts operate as judicial bodies. The SADC Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "SADC Treaty 1992",
+      "title": "SADC Treaty",
+      "year": 1993,
+      "url": "https://www.sadc.int/",
+      "relevance": "Treaty of the Southern African Development Community signed 17 August 1992 in Windhoek Namibia + effective 30 September 1993 — formal foundational SADC treaty framework establishing comprehensive SADC organisation framework."
+    },
+    {
+      "citation": "SADC Protocol on Trade 1996",
+      "title": "SADC Protocol on Trade",
+      "year": 2000,
+      "url": "https://www.sadc.int/",
+      "relevance": "SADC Protocol on Trade signed 24 August 1996 in Maseru Lesotho + effective 25 January 2000 — formal foundational Southern-Africa-regional free-trade framework."
+    },
+    {
+      "citation": "SADC Protocol on Tribunal 2000",
+      "title": "SADC Protocol on Tribunal",
+      "year": 2001,
+      "url": "https://www.sadc.int/",
+      "relevance": "SADC Protocol on Tribunal signed 7 August 2000 in Windhoek Namibia + effective 14 August 2001 + Tribunal operational from 18 November 2005 — formal foundational SADC judicial framework subsequently suspended."
+    },
+    {
+      "citation": "SADC Protocol on Politics Defence and Security 2001",
+      "title": "SADC Protocol on Politics Defence and Security",
+      "year": 2004,
+      "url": "https://www.sadc.int/",
+      "relevance": "SADC Protocol on Politics, Defence and Security Co-operation signed 14 August 2001 in Blantyre Malawi + effective 2 March 2004 — formal foundational Southern-Africa-regional security framework."
+    },
+    {
+      "citation": "SADC Protocol on Gender and Development 2008",
+      "title": "SADC Protocol on Gender and Development",
+      "year": 2013,
+      "url": "https://www.sadc.int/",
+      "relevance": "SADC Protocol on Gender and Development signed 17 August 2008 in Sandton South Africa + effective 22 February 2013 + 2016 Revised Protocol — formal foundational Southern-Africa-regional gender-and-development framework with PA-intersection framework."
+    },
+    {
+      "citation": "SADC Protocol on Tribunal 2014 (Stripped Individual-Petition Jurisdiction)",
+      "title": "SADC Protocol on Tribunal 2014",
+      "year": 2014,
+      "url": "https://www.sadc.int/",
+      "relevance": "SADC Protocol on Tribunal signed 18 August 2014 in Victoria Falls Zimbabwe granting only state-state jurisdiction stripping individual-petition framework — formal SADC judicial-framework-stripped framework following adverse rulings against Zimbabwe land-reform framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "SADC Summit (Heads of State or Government)",
+      "seat": "rotating",
+      "url": "https://www.sadc.int/",
+      "role": "Formal supreme decision-making body for SADC."
+    },
+    {
+      "name": "SADC Council of Ministers",
+      "seat": "rotating",
+      "url": "https://www.sadc.int/",
+      "role": "Formal executive body for SADC."
+    },
+    {
+      "name": "SADC Secretariat",
+      "seat": "Gaborone",
+      "url": "https://www.sadc.int/",
+      "role": "Formal administrative body for SADC."
+    },
+    {
+      "name": "SADC Tribunal (suspended-and-replaced framework)",
+      "seat": "Windhoek",
+      "url": "https://www.sadc.int/",
+      "role": "Formal SADC judicial framework operating with stripped individual-petition jurisdiction framework via 2014 Protocol on Tribunal framework."
+    },
+    {
+      "name": "SADC Parliamentary Forum",
+      "seat": "Windhoek",
+      "url": "https://www.sadcpf.org/",
+      "role": "Formal parliamentary body for SADC."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "SADC Secretariat",
+      "url": "https://www.sadc.int/",
+      "role": "SADC Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "SADC-related communications via SADC Tribunal framework operate via state-state framework after individual-petition framework stripped 2014; individual communications no longer formally accepted under SADC framework.",
+  "key_developments": [
+    {
+      "year": 1980,
+      "title": "SADCC established",
+      "description": "Southern African Development Coordination Conference SADCC established 1 April 1980 in Lusaka Zambia as Frontline States response to apartheid South Africa — predecessor framework to SADC."
+    },
+    {
+      "year": 1992,
+      "title": "SADC Treaty adopted",
+      "description": "Treaty of the Southern African Development Community signed 17 August 1992 in Windhoek Namibia transforming SADCC to SADC — formal foundational SADC treaty framework adopted."
+    },
+    {
+      "year": 1993,
+      "title": "SADC Treaty enters force",
+      "description": "SADC Treaty entered force 30 September 1993 — formal foundational SADC treaty framework operational."
+    },
+    {
+      "year": 1994,
+      "title": "South Africa joins SADC",
+      "description": "South Africa joined SADC 29 August 1994 after end of apartheid — formal SADC expansion + post-apartheid framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "SADC Protocol on Trade + OPDS established",
+      "description": "SADC Protocol on Trade signed 24 August 1996 in Maseru Lesotho + SADC Organ on Politics, Defence and Security Co-operation OPDS established 28 June 1996 — formal foundational SADC trade + security frameworks adopted."
+    },
+    {
+      "year": 2005,
+      "title": "SADC Tribunal operational",
+      "description": "SADC Tribunal inaugurated 18 November 2005 in Windhoek Namibia — formal SADC judicial framework operational."
+    },
+    {
+      "year": 2008,
+      "title": "Mike Campbell case + SADC FTA launched",
+      "description": "Mike Campbell (Pvt) Ltd and Others v Republic of Zimbabwe SADC (T) Case No. 2/2007 decided 28 November 2008 ruling against Zimbabwe land-reform framework + SADC Free Trade Area FTA launched 17 August 2008 in Sandton South Africa — formal Tribunal individual-petition framework operational + SADC FTA operational."
+    },
+    {
+      "year": 2010,
+      "title": "SADC Tribunal suspended",
+      "description": "SADC Summit August 2010 in Windhoek suspended SADC Tribunal following Mike Campbell case + Zimbabwe resistance — formal SADC Tribunal suspension framework operational."
+    },
+    {
+      "year": 2014,
+      "title": "SADC Protocol on Tribunal 2014 stripping individual-petition",
+      "description": "SADC Protocol on Tribunal signed 18 August 2014 in Victoria Falls Zimbabwe granting only state-state jurisdiction stripping individual-petition framework — formal SADC judicial-framework-stripped framework."
+    },
+    {
+      "year": 2018,
+      "title": "Law Society of South Africa Constitutional Court case",
+      "description": "Law Society of South Africa v President of South Africa CCT 67/18 decided 11 December 2018 ruling that South African President signing 2014 SADC Protocol on Tribunal was unconstitutional — formal South African judicial-framework on SADC Tribunal individual-petition framework."
+    },
+    {
+      "year": 2021,
+      "title": "SAMIM Mozambique deployment",
+      "description": "SADC Mission in Mozambique SAMIM deployed 15 July 2021 to Cabo Delgado northern Mozambique against insurgency — formal SADC regional-security framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "SAMIDRC DR Congo deployment",
+      "description": "SADC Mission in DR Congo SAMIDRC deployed 15 December 2023 to eastern DRC against M23 rebellion — formal SADC regional-security framework operational."
+    }
+  ],
+  "structural_findings": [
+    "SADC Treaty operates a regional supranational binding-treaty framework — places SADC Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern Southern African regional supranational binding-treaty framework operating on formal Southern-Africa framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal post-apartheid framework via SADCC predecessor framework framing as Frontline States vs apartheid South Africa.",
+    "Central jurisdiction of formal SADC Tribunal Suspension framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal court-suspended-stripped-of-individual-petition-jurisdiction framework following adverse rulings against Zimbabwe land-reform framework in Mike Campbell case 2008.",
+    "Central jurisdiction of formal SADC Free Trade Area framework is structurally distinctive globally — only modern Southern African regional supranational binding-treaty framework operating formal regional free-trade framework with 13 of 16 SADC member states participating.",
+    "Central jurisdiction of formal SADC Organ on Politics + Defence + Security Co-operation framework is structurally distinctive globally — only modern Southern African regional supranational binding-treaty framework operating formal regional security framework with operational mandate framework via SAMIM Mozambique 2021-2025 + SAMIDRC DR Congo 2023-2024 framework.",
+    "16 SADC member state ratification framework is structurally distinctive globally — comprehensive Southern African regional coverage framework.",
+    "1980 SADCC + 1992 SADC Treaty + 1993 entry into force + 1994 South Africa joins + 1996 Protocol on Trade + OPDS + 2005 SADC Tribunal operational + 2008 Mike Campbell + SADC FTA + 2010 Tribunal suspension + 2014 Protocol on Tribunal stripping + 2018 South African Constitutional Court case + 2021 SAMIM Mozambique + 2023 SAMIDRC DR Congo SADC-framework-development sequence is structurally distinctive globally.",
+    "SADC Treaty + Protocol on Trade + Protocol on Tribunal + Protocol on Politics Defence and Security + Protocol on Gender and Development + 2014 Protocol on Tribunal stripping framework formal sextet framework with formal Southern-Africa-regional cross-border-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:south-africa",
+    "jurisdiction:african-charter-human-peoples-rights",
+    "jurisdiction:au-constitutive-act",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "SADC",
+      "url": "https://www.sadc.int/",
+      "publisher": "SADC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "SADC Treaty jurisdiction sidecar — regional supranational Southern-African foundational-SADC-treaty meta-framework (SADC Treaty 1992/1993 + SADCC 1980 predecessor + Protocol on Trade 1996/2000 + Protocol on Tribunal 2000/2001 + Protocol on Politics Defence and Security 2001/2004 + Protocol on Gender and Development 2008/2013/2016 + 2014 Protocol on Tribunal stripping individual-petition + Mike Campbell case 2008 + SADC Tribunal suspended 2010 + South Africa joined 1994 + SAMIM Mozambique 2021 + SAMIDRC DR Congo 2023). Only modern Southern African regional supranational binding-treaty framework globally + only modern African regional supranational binding-treaty framework operating formal post-apartheid framework + central jurisdiction of formal SADC Tribunal Suspension framework + only modern regional supranational binding-treaty framework operating formal court-suspended-stripped-of-individual-petition-jurisdiction framework + central jurisdiction of formal SADC FTA + central jurisdiction of formal SADC OPDS regional security framework + 16 SADC member states + 1980 SADCC + 1992 SADC Treaty + 1993 entry into force + 1994 South Africa joins + 1996 Protocol on Trade + OPDS + 2005 SADC Tribunal operational + 2008 Mike Campbell + SADC FTA + 2010 Tribunal suspension + 2014 Protocol on Tribunal stripping + 2018 South African Constitutional Court case + 2021 SAMIM + 2023 SAMIDRC SADC-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: SADC Protocol on Gender and Development 2008 framework operates substantial intersection with parental-alienation framework via formal Southern-Africa-regional cross-border-children's-rights framework.",
+    "Joins regional + supranational + Southern-African-foundational-SADC-treaty cluster + SADC-Treaty-only-Southern-African-regional-supranational-binding-treaty-globally-distinctive + post-apartheid-framework-via-SADCC-Frontline-States + South-Africa-joined-1994 + SADC-Tribunal-suspended-2010-Mike-Campbell + 2014-Protocol-on-Tribunal-stripping-individual-petition + SADC-FTA-2008-Sandton + SADC-OPDS-1996 + SAMIM-Mozambique-2021 + SAMIDRC-DR-Congo-2023 + 16-SADC-member-states + 1980-SADCC-Lusaka-predecessor + Gaborone-Secretariat + Protocol-on-Gender-and-Development-2008-2013-2016 + Southern-Africa-regional-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

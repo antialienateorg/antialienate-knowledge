@@ -1,0 +1,112 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/jurisdiction.schema.json",
+  "title": "Jurisdiction File",
+  "description": "Per-jurisdiction overview describing legal-system context, statutory framework, apex-court jurisprudence on parental alienation, and references into case studies + practitioners. The .md sibling is rendered from this JSON at build time.",
+  "type": "object",
+  "required": ["schema_version", "id", "name", "jurisdiction_code", "legal_system", "license", "summary", "references"],
+  "properties": {
+    "schema_version": {"const": "1.0"},
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable URL-safe slug matching the filename stem and the cross-link id (e.g. 'germany' resolves as 'jurisdiction:germany')"},
+    "name": {"type": "string", "description": "Display name e.g. 'Germany' or 'United Kingdom (England & Wales)'"},
+    "jurisdiction_code": {"type": "string", "pattern": "^[A-Z]{2,3}(-[A-Z]{2,3})?$", "description": "ISO 3166-1 alpha-2/3 with optional subdivision"},
+    "legal_system": {"enum": ["common-law", "civil-law", "mixed", "religious-law", "supranational"]},
+    "language": {"type": "array", "items": {"type": "string"}, "description": "ISO 639-1 codes for the jurisdiction's working language(s)"},
+    "license": {"const": "CC-BY-4.0"},
+    "generated": {"type": "string", "format": "date"},
+    "summary": {"type": "string", "description": "2-3 sentence orientation for a non-specialist reader"},
+    "pa_recognition_status": {
+      "type": "object",
+      "properties": {
+        "statutory": {"enum": ["recognises", "inadmits", "indirect-hook", "silent"], "description": "Does national legislation address PA?"},
+        "apex_court_position": {"enum": ["recognition", "critique", "middle", "no-apex-position", "split"], "description": "Where the apex court has landed"},
+        "professional_regulator_position": {"enum": ["position-statement-against", "position-statement-for", "silent", "varies-by-region"]}
+      }
+    },
+    "statutory_framework": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["citation"],
+        "properties": {
+          "citation": {"type": "string", "description": "e.g. 'BGB §§ 1684, 1696' or 'Children Act 1989 s.97'"},
+          "title": {"type": "string"},
+          "year": {"type": "integer"},
+          "url": {"type": "string", "format": "uri"},
+          "relevance": {"type": "string", "description": "Short description of how the statute bears on PA proceedings"}
+        }
+      }
+    },
+    "apex_courts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {"type": "string"},
+          "url": {"type": "string", "format": "uri"},
+          "key_decisions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "caption": {"type": "string"},
+                "case_study_ref": {"type": "string", "description": "Slug of case study if we have one"},
+                "year": {"type": "integer"},
+                "stance": {"enum": ["recognition", "critique", "middle"]}
+              }
+            }
+          }
+        }
+      }
+    },
+    "professional_regulators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": {"type": "string"},
+          "url": {"type": "string", "format": "uri"},
+          "position_statement": {"type": "string", "description": "Brief description of the regulator's PA position"},
+          "position_date": {"type": "string", "format": "date"},
+          "practitioner_ref": {"type": "string", "description": "Cross-link to practitioner ID if entry exists"}
+        }
+      }
+    },
+    "anonymisation_convention": {"type": "string", "description": "How children + family parties are anonymised in this jurisdiction's case law"},
+    "key_developments": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["year", "description"],
+        "properties": {
+          "year": {"type": "integer"},
+          "description": {"type": "string"},
+          "url": {"type": "string", "format": "uri"}
+        }
+      }
+    },
+    "structural_findings": {"type": "array", "items": {"type": "string"}, "description": "Comparative/structural observations about this jurisdiction's PA landscape"},
+    "references": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^(case-study|practitioner|jurisdiction|evidence):[a-z0-9.-]+$"},
+      "description": "Cross-links to relevant case studies, practitioners, and other jurisdictions",
+      "minItems": 1
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "url"],
+        "properties": {
+          "title": {"type": "string"},
+          "url": {"type": "string", "format": "uri"},
+          "publisher": {"type": "string"},
+          "language": {"type": "string"}
+        }
+      }
+    },
+    "editorial_notes": {"type": "array", "items": {"type": "string"}}
+  }
+}

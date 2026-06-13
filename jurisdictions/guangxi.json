@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "guangxi",
+  "name": "Guangxi Zhuang Autonomous Region (广西壮族自治区 / Gvangjsih Bouxcuengh Swcigih)",
+  "jurisdiction_code": "CN-GX",
+  "legal_system": "civil-law",
+  "language": ["za", "zh", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Guangxi Zhuang Autonomous Region (广西壮族自治区 Guǎngxī Zhuàngzú Zìzhìqū in Chinese / Gvangjsih Bouxcuengh Swcigih in Romanised Zhuang) is a Southern Chinese civil-law Chinese autonomous-region constituent unit of the People's Republic of China — structurally distinctive globally as the only Chinese autonomous-region established on the basis of Tai-Kadai-language-family Zhuang Bouxcuengh ethnic-identity framework (Zhuang Bouxcuengh comprise ~18 million population — largest non-Han ethnic minority population in China, speaking Northern Zhuang + Southern Zhuang Tai-Kadai languages distinct from Sino-Tibetan Chinese-language framework), as the only modern Chinese sub-national territory operating Romanised Zhuang script Gvangjsih Bouxcuengh Swcigih in official government framework (Zhuang Romanised script developed 1957 and revised 1982 — modern Latin-alphabet writing system distinct from rest-of-Chinese-speaking world's Chinese-character framework), as the only Chinese autonomous-region with international land border with Vietnam (~1,020 km Guangxi-Vietnam border + Friendship Pass / Hữu Nghị Quan historic Sino-Vietnamese border crossing framework), and as the central jurisdiction of historical Bach Viet 百越 / Baak-Yueq pre-Sinitic Tai-Kadai cultural-linguistic framework (~3rd millennium BCE - 3rd century CE Bach Viet framework spanning modern Guangxi + Guangdong + Northern Vietnam — pre-Sinitic Tai-Kadai cultural-linguistic substrate continuous through modern Zhuang identity framework). Guangxi historically operated under multiple frameworks including Bach Viet pre-Sinitic framework + Qin-Han Lingnan Commandery 214 BCE - 3rd century CE + Tang-Song Guangnan Circuit + Ming-Qing Guangxi Province, was established as Guangxi Province 1912-1958, and was formally re-established as Guangxi Zhuang Autonomous Region 5 March 1958. Guangxi Zhuang Autonomous Region comprises ~237,600 km² with a population of ~50 million (~18 million Zhuang + ~30 million Han + others). Family-law framework operates under the federal Chinese civil-law framework (Chinese Marriage Law 1980 + Chinese Civil Code 2020 Family Law portion Articles 1040-1118) applied uniformly across Chinese autonomous regions. The Guangxi High People's Court is the apex regional court; final appellate jurisdiction lies with the Supreme People's Court of China. Guangxi is silent on 'parental alienation' as a statutory label. China is a Hague Convention 1980 signatory but not a party — Guangxi is governed by the Chinese non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the People's Republic of China Article 4 (Regional Ethnic Autonomy)",
+      "title": "Constitution of China Article 4",
+      "year": 1982,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Constitutional Article 4 providing for Regional Ethnic Autonomy framework — applicable to Guangxi Zhuang Autonomous Region."
+    },
+    {
+      "citation": "Law on Regional Ethnic Autonomy 1984 (revised 2001)",
+      "title": "Regional Ethnic Autonomy Law",
+      "year": 1984,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Law of 31 May 1984 (revised 28 February 2001) establishing Regional Ethnic Autonomy framework — applicable to Guangxi Zhuang Autonomous Region."
+    },
+    {
+      "citation": "Zhuang Romanised Script Reform 1957/1982",
+      "title": "Zhuang Romanised Script",
+      "year": 1957,
+      "url": "https://www.gxzf.gov.cn/",
+      "relevance": "Chinese Federal language reform of 1957 (revised 1982) establishing Romanised Zhuang script Gvangjsih Bouxcuengh Swcigih — modern Latin-alphabet writing system."
+    },
+    {
+      "citation": "Chinese Civil Code 2020 Family Law portion (Articles 1040-1118)",
+      "title": "Chinese Civil Code Family Law",
+      "year": 2020,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Civil Code 2020 Family Law portion applicable uniformly across Guangxi Zhuang Autonomous Region."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Guangxi High People's Court",
+      "seat": "Nanning",
+      "url": "https://www.court.gov.cn/",
+      "role": "Apex regional appellate court for civil and criminal matters from Guangxi Zhuang Autonomous Region."
+    },
+    {
+      "name": "Supreme People's Court of China",
+      "seat": "Beijing",
+      "url": "https://www.court.gov.cn/",
+      "role": "Final appellate court for civil and criminal matters from Guangxi Zhuang Autonomous Region."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Chinese National Health Commission (国家卫生健康委员会)",
+      "url": "http://www.nhc.gov.cn/",
+      "role": "Chinese Federal professional regulatory framework applicable in Guangxi Zhuang Autonomous Region."
+    }
+  ],
+  "anonymisation_convention": "Guangxi family-court decisions are anonymised per Chinese court practice using initials.",
+  "key_developments": [
+    {
+      "year": -214,
+      "title": "Qin Lingnan Commandery established",
+      "description": "Qin Lingnan Commandery established 214 BCE — beginning of Sinitic incorporation of Bach Viet pre-Sinitic framework 214 BCE - 3rd century CE."
+    },
+    {
+      "year": 1912,
+      "title": "Guangxi Province established",
+      "description": "Guangxi Province established 1912 — Republic of China provincial framework 1912-1958."
+    },
+    {
+      "year": 1957,
+      "title": "Zhuang Romanised Script Reform",
+      "description": "Chinese Federal Zhuang Romanised Script Reform 1957 — modern Latin-alphabet writing system framework."
+    },
+    {
+      "year": 1958,
+      "title": "Guangxi Zhuang Autonomous Region established",
+      "description": "Guangxi Zhuang Autonomous Region formally established 5 March 1958 — establishment as Zhuang Bouxcuengh autonomous region framework."
+    },
+    {
+      "year": 1979,
+      "title": "Sino-Vietnamese War",
+      "description": "Sino-Vietnamese War 17 February - 16 March 1979 — pivotal Guangxi-Vietnam border conflict framework."
+    },
+    {
+      "year": 1982,
+      "title": "Zhuang Romanised Script Revision",
+      "description": "Chinese Federal Zhuang Romanised Script revision 1982 — refinement of Latin-alphabet writing system."
+    },
+    {
+      "year": 1984,
+      "title": "Regional Ethnic Autonomy Law",
+      "description": "Chinese Federal Regional Ethnic Autonomy Law 1984 providing legal framework for Guangxi Zhuang Autonomous Region."
+    }
+  ],
+  "structural_findings": [
+    "Guangxi operates a federal Chinese civil-law autonomous-region framework — places Guangxi in the Southern Chinese autonomous-region cluster.",
+    "Only Chinese autonomous-region established on basis of Tai-Kadai-language-family Zhuang Bouxcuengh ethnic-identity framework is structurally distinctive globally — ~18 million Zhuang population, largest non-Han ethnic minority population in China.",
+    "Only modern Chinese sub-national territory operating Romanised Zhuang script Gvangjsih Bouxcuengh Swcigih in official government framework is structurally distinctive globally — modern Latin-alphabet writing system distinct from rest-of-Chinese-speaking world.",
+    "Only Chinese autonomous-region with international land border with Vietnam (~1,020 km) is structurally distinctive within Chinese autonomous-region cluster — Friendship Pass / Hữu Nghị Quan historic Sino-Vietnamese border crossing framework.",
+    "Central jurisdiction of historical Bach Viet 百越 / Baak-Yueq pre-Sinitic Tai-Kadai cultural-linguistic framework is structurally distinctive globally — ~3rd millennium BCE - 3rd century CE Bach Viet framework spanning modern Guangxi + Guangdong + Northern Vietnam.",
+    "1979 Sino-Vietnamese War centred on Guangxi border framework is structurally distinctive globally — pivotal Sino-Vietnamese armed conflict framework.",
+    "Largest Chinese province-level division by Zhuang population is structurally distinctive within Chinese autonomous-region cluster.",
+    "Chinese non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:vietnam",
+    "jurisdiction:tibet",
+    "jurisdiction:xinjiang",
+    "jurisdiction:inner-mongolia",
+    "jurisdiction:ningxia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Guangxi Zhuang Autonomous Region Government",
+      "url": "https://www.gxzf.gov.cn/",
+      "publisher": "Guangxi Zhuang Autonomous Region Government",
+      "language": "zh"
+    }
+  ],
+  "editorial_notes": [
+    "Guangxi Zhuang Autonomous Region jurisdiction sidecar — civil-law Southern Chinese Chinese-autonomous-region (Chinese Civil Code 2020 + Chinese Marriage Law 1980 + Constitution Article 4 Regional Ethnic Autonomy + Regional Ethnic Autonomy Law 1984/2001 + Zhuang Romanised Script Reform 1957/1982 + Qin Lingnan Commandery 214 BCE + Bach Viet pre-Sinitic framework + Guangxi Province 1912-1958 + Guangxi Zhuang Autonomous Region 1958+ + 1979 Sino-Vietnamese War + Guangxi-Vietnam border framework + Chinese non-Hague-1980). Only Chinese autonomous-region established on basis of Tai-Kadai-language-family Zhuang Bouxcuengh ethnic-identity framework globally + only modern Chinese sub-national territory operating Romanised Zhuang script in official government framework globally + only Chinese autonomous-region with international land border with Vietnam + central jurisdiction of historical Bach Viet pre-Sinitic Tai-Kadai cultural-linguistic framework + largest non-Han ethnic minority population in China.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southern-Chinese + civil-law + Chinese-autonomous-region cluster + Tai-Kadai-language-family-Zhuang-Bouxcuengh-globally-distinctive + Romanised-Zhuang-script-Gvangjsih + Guangxi-Vietnam-international-land-border + Bach-Viet-pre-Sinitic-Tai-Kadai-framework + 1979-Sino-Vietnamese-War + largest-non-Han-ethnic-minority-population-in-China + Chinese-non-Hague-1980 clusters within the corpus."
+  ]
+}

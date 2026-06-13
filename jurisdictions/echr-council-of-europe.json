@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "id": "echr-council-of-europe",
+  "name": "ECHR Council of Europe (European Convention on Human Rights / Article 8 Family-Life Framework)",
+  "jurisdiction_code": "CE-EUR",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The ECHR / Council of Europe (European Convention on Human Rights / Convention for the Protection of Human Rights and Fundamental Freedoms, Council of Europe Treaty Series No. 5) is a supranational meta-legal-system framework operating across 46 member states of the Council of Europe (excluding Russia following its expulsion 16 March 2022 + Belarus which has never been a member) — structurally distinctive globally as the only modern multi-state human-rights court with binding individual-petition framework, as the central jurisdictional framework for Article 8 right to private and family life (the foundational human-rights provision for family-law, parental-responsibility, and child-protection jurisprudence across all CoE member states), and as the meta-jurisdiction subject to the largest single body of family-law-relevant international human-rights jurisprudence in the world (with the European Court of Human Rights having decided over 100,000 cases since establishment 1959, including substantial Article 8 family-law jurisprudence). The ECHR framework establishes (i) Article 8 right to respect for private and family life, home and correspondence (the foundational family-life provision); (ii) Article 6 right to fair trial within reasonable time (procedural family-law guarantee); (iii) Article 14 prohibition of discrimination including in family-life matters; (iv) Protocol 12 general prohibition of discrimination. The European Court of Human Rights (ECtHR) operates under Article 34 individual-petition framework + Article 33 inter-state-petition framework + Article 47 advisory-opinion framework. Article 8 family-law jurisprudence includes landmark decisions including Marckx v Belgium 1979 (illegitimate-child rights), Olsson v Sweden 1988 (child-removal proportionality), Johansen v Norway 1996 (parental rights in child-protection), and many more — establishing comprehensive family-law human-rights framework binding on all CoE member states. The ECtHR is silent on 'parental alienation' as a Convention term, though Article 8 jurisprudence substantively addresses family-discord and parental-relationship-rupture frameworks in numerous decisions. Member states with Article 8 jurisdiction operate via national-court Convention-compatibility framework + ECtHR individual-petition framework. ECHR member states have variable Hague Convention 1980 status (most are Hague parties).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "European Convention on Human Rights 1950 (Council of Europe Treaty Series No. 5)",
+      "title": "European Convention on Human Rights",
+      "year": 1950,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "Convention for the Protection of Human Rights and Fundamental Freedoms signed 4 November 1950 effective 3 September 1953 — foundational multi-state human-rights framework."
+    },
+    {
+      "citation": "ECHR Article 8 (Right to respect for private and family life)",
+      "title": "ECHR Article 8",
+      "year": 1950,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "Foundational ECHR Article establishing right to respect for private and family life, home and correspondence — primary family-law human-rights provision."
+    },
+    {
+      "citation": "ECHR Article 6 (Right to fair trial)",
+      "title": "ECHR Article 6",
+      "year": 1950,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "ECHR Article establishing right to fair trial within reasonable time — procedural family-law guarantee."
+    },
+    {
+      "citation": "ECHR Article 34 (Individual Petition)",
+      "title": "ECHR Article 34",
+      "year": 1950,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "ECHR Article establishing individual-petition framework for ECtHR jurisdiction — modern multi-state individual-petition framework."
+    },
+    {
+      "citation": "Marckx v Belgium 1979 (foundational Article 8 family-law jurisprudence)",
+      "title": "Marckx v Belgium",
+      "year": 1979,
+      "url": "https://hudoc.echr.coe.int/",
+      "relevance": "Foundational ECtHR judgment of 13 June 1979 establishing Article 8 illegitimate-child-rights framework — substantially influential on subsequent EU member-state family-law reforms."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "European Court of Human Rights (ECtHR)",
+      "seat": "Strasbourg",
+      "url": "https://www.echr.coe.int/",
+      "role": "Apex international human-rights court for ECHR interpretation — operates Article 34 individual-petition framework + Article 33 inter-state-petition framework + Article 47 advisory-opinion framework."
+    },
+    {
+      "name": "Council of Europe Committee of Ministers",
+      "seat": "Strasbourg",
+      "url": "https://www.coe.int/",
+      "role": "ECHR implementation supervision body."
+    },
+    {
+      "name": "Member State apex courts (per Convention-compatibility framework)",
+      "seat": "Various Council of Europe member state capitals",
+      "url": "",
+      "role": "Member State apex courts exercise Convention-compatibility jurisdiction under national-court framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Member State professional regulators per nationality framework",
+      "url": "",
+      "role": "Member State professional regulators apply via Council of Europe member-state framework."
+    }
+  ],
+  "anonymisation_convention": "ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' designations.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "title": "Council of Europe established",
+      "description": "Council of Europe established 5 May 1949 by Treaty of London — foundational multi-state European human-rights cooperation framework."
+    },
+    {
+      "year": 1950,
+      "title": "European Convention on Human Rights signed",
+      "description": "European Convention on Human Rights signed 4 November 1950 in Rome by 12 original Council of Europe member states."
+    },
+    {
+      "year": 1953,
+      "title": "ECHR effective",
+      "description": "European Convention on Human Rights effective 3 September 1953 following ratification by 10 of the original 12 signatories."
+    },
+    {
+      "year": 1959,
+      "title": "European Court of Human Rights established",
+      "description": "European Court of Human Rights established 21 January 1959 — modern multi-state human-rights court."
+    },
+    {
+      "year": 1979,
+      "title": "Marckx v Belgium (foundational Article 8 family-law)",
+      "description": "Foundational ECtHR judgment of 13 June 1979 establishing Article 8 illegitimate-child-rights framework."
+    },
+    {
+      "year": 1998,
+      "title": "Protocol 11 + permanent ECtHR + individual-petition framework",
+      "description": "Protocol 11 to the ECHR effective 1 November 1998 — establishing permanent ECtHR + replacing previous Commission/Court two-tier framework with single individual-petition framework."
+    },
+    {
+      "year": 2010,
+      "title": "Protocol 14 + ECtHR procedural reform",
+      "description": "Protocol 14 to the ECHR effective 1 June 2010 — comprehensive ECtHR procedural reform."
+    },
+    {
+      "year": 2022,
+      "title": "Russia expulsion from Council of Europe",
+      "description": "Russia expelled from Council of Europe on 16 March 2022 following Russian invasion of Ukraine — first member-state expulsion in Council of Europe history."
+    }
+  ],
+  "structural_findings": [
+    "ECHR / Council of Europe operates a supranational meta-legal-system framework — places ECHR in the unique multi-state-human-rights supranational cluster.",
+    "Only modern multi-state human-rights court with binding individual-petition framework is structurally distinctive globally — Article 34 individual-petition framework.",
+    "Central jurisdictional framework for Article 8 right to private and family life is structurally distinctive globally — foundational family-law human-rights provision binding on 46 member states.",
+    "Subject of the largest single body of family-law-relevant international human-rights jurisprudence in the world is structurally distinctive globally — 100,000+ cases decided since ECtHR establishment 1959.",
+    "Article 8 family-life jurisprudence framework (Marckx + Olsson + Johansen + many more) is structurally distinctive globally — only multi-state binding-jurisprudence framework on family-law human-rights provisions.",
+    "Russia 2022 expulsion is structurally distinctive within Council of Europe cluster — first member-state expulsion in Council of Europe history.",
+    "Council of Europe Committee of Ministers ECHR implementation supervision body is structurally distinctive globally — only modern multi-state human-rights compliance supervision framework.",
+    "ECHR Protocol 11 establishment of permanent ECtHR + individual-petition framework is structurally distinctive globally — only modern multi-state human-rights court with individual-petition framework.",
+    "ECHR Member State Convention-compatibility framework via national-court application is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:france",
+    "jurisdiction:germany",
+    "jurisdiction:italy",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:russia",
+    "jurisdiction:turkey",
+    "jurisdiction:ukraine",
+    "jurisdiction:azerbaijan",
+    "jurisdiction:armenia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "European Court of Human Rights",
+      "url": "https://www.echr.coe.int/",
+      "publisher": "European Court of Human Rights",
+      "language": "en"
+    },
+    {
+      "title": "Council of Europe",
+      "url": "https://www.coe.int/",
+      "publisher": "Council of Europe",
+      "language": "en"
+    },
+    {
+      "title": "HUDOC ECHR Database",
+      "url": "https://hudoc.echr.coe.int/",
+      "publisher": "European Court of Human Rights",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ECHR / Council of Europe jurisdiction sidecar — supranational meta-legal-system multi-state human-rights framework (European Convention on Human Rights 1950/1953 + Article 8 right to private and family life + Article 6 right to fair trial + Article 34 individual-petition framework + European Court of Human Rights 1959 + Protocol 11 permanent ECtHR 1998 + Protocol 14 reform 2010 + Marckx v Belgium 1979 + Russia expulsion 2022 + Member State Convention-compatibility national-court framework). Only modern multi-state human-rights court with binding individual-petition framework globally + central jurisdictional framework for Article 8 family-life human-rights provision + largest single body of family-law-relevant international human-rights jurisprudence (100,000+ cases) + first member-state expulsion in Council of Europe history (Russia 2022).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins supranational + multi-state-human-rights + ECHR-Council-of-Europe-framework cluster + binding-individual-petition-framework-globally-distinctive + Article-8-private-family-life-foundational-provision + 100000-plus-cases-jurisprudence-corpus + Marckx-Olsson-Johansen-Article-8-jurisprudence + Russia-2022-expulsion + Protocol-11-permanent-ECtHR + Convention-compatibility-national-court-framework clusters within the corpus."
+  ]
+}

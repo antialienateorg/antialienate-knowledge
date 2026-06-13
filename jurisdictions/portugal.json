@@ -1,0 +1,123 @@
+{
+  "schema_version": "1.0",
+  "id": "portugal",
+  "name": "Portugal",
+  "jurisdiction_code": "PT",
+  "legal_system": "civil-law",
+  "language": ["pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Portugal is a civil-law unitary republic whose family-court framework operates under the Código Civil (Civil Code) Book IV (Direito da Família) and the Regime Geral do Processo Tutelar Cível (RGPTC, Lei 141/2015). Parental responsibilities (responsabilidades parentais) are governed by Código Civil arts. 1901-1912; the 2008 reform (Lei 61/2008) established joint exercise of parental responsibilities as the default following divorce/separation. The Supremo Tribunal de Justiça (STJ, Lisbon) is the apex court for civil matters; family-law decisions reach STJ via Tribunal da Relação (Court of Appeal) following first-instance Juízo de Família e Menores determinations. Psychology profession is regulated under the Ordem dos Psicólogos Portugueses (OPP) established by Lei 57/2008 — statutory professional-order regime with title protection. Portugal is silent on 'parental alienation' as a statutory label; STJ practice operates substantively under the superior interesse da criança welfare standard.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Código Civil arts. 1901-1912",
+      "title": "Responsabilidades parentais (Parental responsibilities)",
+      "year": 2008,
+      "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1966-34509075",
+      "relevance": "Federal civil-code basis for parental responsibilities. Lei 61/2008 reform in force 30 November 2008 established joint exercise of parental responsibilities as the default following divorce/separation. Art. 1906 governs the regime of exercise; art. 1907-1908 govern alteration of the regime."
+    },
+    {
+      "citation": "Lei 141/2015 — RGPTC",
+      "title": "Regime Geral do Processo Tutelar Cível",
+      "year": 2015,
+      "url": "https://dre.pt/dre/legislacao-consolidada/lei/2015-79202050",
+      "relevance": "Procedural framework for tutelar cível (civil-tutelary) proceedings before the Juízo de Família e Menores. Governs custody-modification, contact-enforcement, and audição da criança (hearing of the child) procedures."
+    },
+    {
+      "citation": "Lei 57/2008 — Ordem dos Psicólogos Portugueses",
+      "title": "Estatuto da Ordem dos Psicólogos Portugueses",
+      "year": 2008,
+      "url": "https://dre.pt/dre/legislacao-consolidada/lei/2008-138562088",
+      "relevance": "Federal statute establishing the Ordem dos Psicólogos Portugueses (OPP) as the statutory professional-order regulator. Statutory title protection for 'psicólogo'; mandatory cédula profissional for practising psychologists; disciplinary jurisdiction over registered members."
+    },
+    {
+      "citation": "Constituição da República Portuguesa art. 36/5",
+      "title": "Constitutional family and parental-responsibility provisions",
+      "year": 1976,
+      "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1976-34520775",
+      "relevance": "Constitutional basis for family and parental-responsibility law. Art. 36/5 establishes that parents have the right and duty of education and maintenance of the children; cited in welfare-paramountcy analyses."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supremo Tribunal de Justiça (STJ)",
+      "seat": "Lisboa",
+      "url": "https://www.stj.pt/",
+      "role": "Supreme Court for civil and criminal matters. Family-law decisions reach STJ via the Tribunal da Relação (Court of Appeal) following first-instance Juízo de Família e Menores determinations. STJ operates a strict admissibility regime for civil revista appeals."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ordem dos Psicólogos Portugueses (OPP)",
+      "url": "https://www.ordemdospsicologos.pt/",
+      "role": "Statutory professional-order regulator under Lei 57/2008. Operates the cédula profissional (professional licence), the disciplinary jurisdiction, and the specialty-recognition framework (Psicologia Clínica e da Saúde; Psicologia da Educação; Psicologia das Organizações, Social e do Trabalho; Psicologia da Justiça)."
+    }
+  ],
+  "anonymisation_convention": "Portuguese family-law decisions are anonymised per STJ convention using initials or single-letter labels (e.g. 'A.', 'B.'). Published STJ decisions on dgsi.pt strip identifying details. Sits within the European-civil-law initials cluster.",
+  "key_developments": [
+    {
+      "year": 1976,
+      "title": "Constituição da República Portuguesa",
+      "description": "Constitution enacted 2 April 1976; art. 36/5 establishes parental rights and duties of education and maintenance."
+    },
+    {
+      "year": 2008,
+      "title": "Lei 61/2008 + Lei 57/2008",
+      "description": "Família-law reform Lei 61/2008 established joint-exercise default of parental responsibilities (in force 30 November 2008); Ordem dos Psicólogos Portugueses established under Lei 57/2008."
+    },
+    {
+      "year": 2015,
+      "title": "Lei 141/2015 RGPTC",
+      "description": "Regime Geral do Processo Tutelar Cível enacted; consolidated procedural framework for tutelar cível proceedings before Juízo de Família e Menores."
+    }
+  ],
+  "structural_findings": [
+    "Portugal sits structurally within the EU civil-law cluster — Código Civil 2008 reform established joint-exercise default of parental responsibilities + STJ welfare-standard practice + OPP statutory psychology regulator. Adjacent to Spain (STS 519/2017) and Italy (Cassazione triad) in the Iberian/Mediterranean civil-law sub-cluster.",
+    "OPP statutory professional-order regime (Lei 57/2008) places Portugal among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL — with the distinctive 'Ordem' professional-order tradition shared with Spain (Colegio Oficial), Italy (Ordine), and France (Ordre des médecins counterpart for medical professions; psychology in France remains regulated outside an Ordre).",
+    "STJ has not produced a published apex-level engagement with the PAS construct comparable to STS 519/2017 Spain. Portuguese family-court practice operates substantively under superior interesse da criança welfare standard without a structured apex critique-camp doctrine."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:italy",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:eu-apex-sequence-2017-2025",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supremo Tribunal de Justiça (STJ)",
+      "url": "https://www.stj.pt/",
+      "publisher": "República Portuguesa",
+      "language": "pt"
+    },
+    {
+      "title": "Diário da República Eletrónico (DRE)",
+      "url": "https://dre.pt/",
+      "publisher": "Imprensa Nacional-Casa da Moeda",
+      "language": "pt"
+    },
+    {
+      "title": "DGSI — Base Jurídico-Documental",
+      "url": "http://www.dgsi.pt/",
+      "publisher": "Direção-Geral dos Serviços de Informática",
+      "language": "pt"
+    },
+    {
+      "title": "Ordem dos Psicólogos Portugueses (OPP)",
+      "url": "https://www.ordemdospsicologos.pt/",
+      "publisher": "OPP",
+      "language": "pt"
+    }
+  ],
+  "editorial_notes": [
+    "Portugal jurisdiction sidecar establishes the Portuguese civil-law framework within the corpus alongside Spain and Italy. Código Civil + RGPTC + Constitution art. 36/5 + OPP statutory professional-order psychology regulator.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. STJ operates substantively under superior interesse da criança standard.",
+    "Joins EU civil-law cluster + federal-statutory psychology regulator group within the corpus."
+  ]
+}

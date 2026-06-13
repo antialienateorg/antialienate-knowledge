@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "id": "sovereign-order-of-malta",
+  "name": "Sovereign Military Order of Malta (Sovrano Militare Ordine di Malta / SMOM)",
+  "jurisdiction_code": "SMM",
+  "legal_system": "religious-law",
+  "language": ["it", "la"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Sovereign Military Order of Malta (SMOM) is a Catholic religious-law sovereign entity — structurally distinctive globally as the only sovereign entity recognised under international law without territory (other than two extraterritorial seats in Rome: Palazzo Malta and Villa Magistrale). Founded c. 1099 as the Knights Hospitaller, SMOM operates as a sovereign subject of international law recognised by ~110 UN member states with diplomatic missions and observer status at the UN General Assembly. SMOM is structurally distinctive globally as the only sovereign entity in the corpus without territorial jurisdiction. Family-law framework operates not over a territorial population but over SMOM's ~13,500 members (Knights and Dames) under the Order's Canon Law (Codex Iuris Canonici) and SMOM's own Constitutional Charter and Code (revised 2022). Marriage of SMOM members of the First Class (Knights of Justice/Profess) is generally precluded by the Order's religious vows of celibacy; members of the Second and Third Classes may marry under civil law of their domicile while retaining Order membership. The Order's juridical jurisdiction over its members is exercised by the Order's Tribunals (Tribunale Magistrale). SMOM does not exercise territorial family-law jurisdiction. SMOM is silent on 'parental alienation' as a statutory label. SMOM is not a Hague Convention 1980 party (lacking territory required for Convention applicability).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "SMOM Constitutional Charter and Code 2022",
+      "title": "SMOM Constitutional Charter and Code",
+      "year": 2022,
+      "url": "https://www.orderofmalta.int/",
+      "relevance": "SMOM Constitutional Charter and Code regulating membership, governance, and juridical framework. Revised 2022."
+    },
+    {
+      "citation": "Codex Iuris Canonici 1983 (applicable to SMOM members)",
+      "title": "Code of Canon Law",
+      "year": 1983,
+      "url": "https://www.vatican.va/",
+      "relevance": "Catholic Code of Canon Law applicable to SMOM members regarding marriage and family-law matters per Catholic religious framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tribunale Magistrale (Order's Tribunals)",
+      "seat": "Rome (Palazzo Malta)",
+      "url": "https://www.orderofmalta.int/",
+      "role": "Apex juridical jurisdiction over Order matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "N/A (SMOM does not exercise territorial professional regulation)",
+      "url": "",
+      "role": "SMOM does not operate a professional psychology regulation framework over a population."
+    }
+  ],
+  "anonymisation_convention": "SMOM internal juridical decisions follow Order practice — not generally publicly available.",
+  "key_developments": [
+    {
+      "year": 1099,
+      "title": "Foundation as Knights Hospitaller",
+      "description": "Order founded c. 1099 in Jerusalem as Knights Hospitaller."
+    },
+    {
+      "year": 1798,
+      "title": "Loss of Malta to Napoleon",
+      "description": "Order lost territorial sovereignty of Malta to Napoleon; subsequently operated without territory."
+    },
+    {
+      "year": 1834,
+      "title": "Permanent seat at Palazzo Malta in Rome",
+      "description": "Order established permanent extraterritorial seat at Palazzo Malta in Rome."
+    },
+    {
+      "year": 1998,
+      "title": "UN General Assembly observer status",
+      "description": "SMOM granted observer status at the UN General Assembly."
+    },
+    {
+      "year": 2022,
+      "title": "Constitutional Charter and Code revision",
+      "description": "Comprehensive revision of SMOM Constitutional Charter and Code."
+    }
+  ],
+  "structural_findings": [
+    "SMOM is structurally distinctive globally within the corpus as the only sovereign entity recognised under international law without territory.",
+    "Sovereign subject of international law status combined with non-territorial juridical jurisdiction is structurally distinctive — Order exercises jurisdiction over members, not over territorial population.",
+    "Pre-Vatican-City-State + medieval origin (1099) is structurally distinctive — SMOM predates Vatican City State (1929) and most modern states.",
+    "Catholic religious-law framework operating over global membership rather than territorial population is structurally distinctive — operates as parallel sovereign entity to but distinct from Holy See."
+  ],
+  "references": [
+    "jurisdiction:holy-see",
+    "jurisdiction:italy",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Sovereign Order of Malta",
+      "url": "https://www.orderofmalta.int/",
+      "publisher": "SMOM",
+      "language": "it,la,en,fr,es"
+    },
+    {
+      "title": "Holy See (for Canon Law)",
+      "url": "https://www.vatican.va/",
+      "publisher": "Holy See",
+      "language": "la,it,en"
+    }
+  ],
+  "editorial_notes": [
+    "Sovereign Military Order of Malta (SMOM) jurisdiction sidecar — Catholic religious-law sovereign entity without territory (Constitutional Charter and Code 2022 + Codex Iuris Canonici + non-territorial juridical jurisdiction + UN observer status + ~110 state diplomatic recognition + non-Hague-no-territory). Only sovereign entity without territory globally. Predates Vatican City State.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator; non-territorial-juridical-jurisdiction limits applicability of conventional PA-recognition framework.",
+    "Joins religious-law + sovereign-entity-without-territory-globally-distinctive cluster + Catholic-religious-law + non-territorial-juridical-jurisdiction + non-Hague-no-territory clusters within the corpus."
+  ]
+}

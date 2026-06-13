@@ -1,0 +1,557 @@
+{
+  "schema_version": "1.0",
+  "slug": "re-c-2023-ewhc-345-fam",
+  "caption": "Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam)",
+  "neutral_citation": "[2023] EWHC 345 (Fam)",
+  "jurisdiction_code": "UK-EWS",
+  "decision_date": "2023-02-21",
+  "court": "High Court of Justice, Family Division, sitting on appeal from the Family Court at first instance (HH Judge Lindsay Davies); Case No FA-2022-00227",
+  "panel": "Sir Andrew McFarlane P, sitting alone as President of the Family Division",
+  "judges": [
+    {
+      "name": "Sir Andrew McFarlane",
+      "role": "President of the Family Division of the High Court of Justice of England and Wales (PFD)",
+      "url": "https://www.judiciary.uk/about-the-judiciary/who-are-the-judiciary/senior-judiciary/president-family-division/"
+    }
+  ],
+  "parties": {
+    "applicant": "Mother (appellant) — anonymised by the Court per s.97 CA 1989",
+    "respondent": "Father (respondent) — anonymised by the Court per s.97 CA 1989; with the r.16.4 Children's Guardian; the instructed expert ('Ms A') as separately represented intervener; the Association of Clinical Psychologists-UK ('ACP-UK') as intervener",
+    "children": [
+      {
+        "anonym": "Older child",
+        "sex": "not_stated",
+        "notes": "Subject child, aged 13 at the date of judgment ('two children who are now aged 13 and 11', para 5). Anonymised by the Court per s.97 CA 1989. Sex not stated on the face of the published judgment; recorded as 'not_stated' per schema enum."
+      },
+      {
+        "anonym": "Younger child",
+        "sex": "not_stated",
+        "notes": "Subject child, aged 11 at the date of judgment (para 5). Anonymised by the Court per s.97 CA 1989. Sex not stated on the face of the published judgment; recorded as 'not_stated' per schema enum. The judgment at para 7(26) refers to '[the older child's] unwillingness to see or speak to her father', which the published version of the judgment as released to the National Archives renders with a feminine pronoun for the older child; the schema entry conservatively records 'not_stated' rather than infer either child's sex from a single pronominal occurrence."
+      }
+    ]
+  },
+  "counsel": [
+    {
+      "name": "Joy Brereton KC",
+      "role": "Leading counsel",
+      "for": "Appellant Mother",
+      "firm": "instructed by Beck Fitzgerald"
+    },
+    {
+      "name": "Christopher Barnes",
+      "role": "Junior counsel",
+      "for": "Appellant Mother",
+      "firm": "instructed by Beck Fitzgerald"
+    },
+    {
+      "name": "Charles Hale KC",
+      "role": "Leading counsel",
+      "for": "Respondent Father",
+      "firm": "instructed by Thomson Snell & Passmore"
+    },
+    {
+      "name": "Frankie Shama",
+      "role": "Junior counsel",
+      "for": "Respondent Father",
+      "firm": "instructed by Thomson Snell & Passmore"
+    },
+    {
+      "name": "Andrew Bagchi KC",
+      "role": "Leading counsel",
+      "for": "The instructed expert ('Ms A')",
+      "firm": "instructed by TV Edwards LLP"
+    },
+    {
+      "name": "Jessica Lee",
+      "role": "Junior counsel",
+      "for": "The instructed expert ('Ms A')",
+      "firm": "instructed by TV Edwards LLP"
+    },
+    {
+      "name": "Luke Eaton",
+      "role": "Junior counsel",
+      "for": "The instructed expert ('Ms A')",
+      "firm": "instructed by TV Edwards LLP"
+    },
+    {
+      "name": "Barbara Mills KC",
+      "role": "Leading counsel",
+      "for": "ACP-UK (Association of Clinical Psychologists-UK), intervener",
+      "firm": "instructed by Dawson Cornwell LLP"
+    },
+    {
+      "name": "Charlotte Baker",
+      "role": "Junior counsel",
+      "for": "ACP-UK (Association of Clinical Psychologists-UK), intervener",
+      "firm": "instructed by Dawson Cornwell LLP"
+    },
+    {
+      "name": "Martin Kingerley KC",
+      "role": "Leading counsel",
+      "for": "Children's Guardian (FPR r.16.4)",
+      "firm": "instructed by Pepperells Solicitors"
+    },
+    {
+      "name": "Ben Mansfield",
+      "role": "Junior counsel",
+      "for": "Children's Guardian (FPR r.16.4)",
+      "firm": "instructed by Pepperells Solicitors"
+    }
+  ],
+  "experts": [
+    {
+      "name": "Ms A",
+      "field": "Self-described psychologist; not a Practitioner Psychologist registered with the HCPC under any of the seven protected titles; not a Chartered Member of the BPS; jointly instructed to undertake an assessment of the family in PA-framed private-law CA 1989 proceedings. Identity anonymised by the Court of Appeal as 'Ms A' on the face of the published judgment (paras 3, 7-8 and following). The order originally — and erroneously — referred to her as 'Dr A' (para 7).",
+      "instructed_by": "jointly by all parties pursuant to the recorder's order of 25 March 2020 (FPR 2010, Part 25)",
+      "practitioner_ref": ""
+    },
+    {
+      "name": "Professor Wang",
+      "field": "Clinical Psychologist; Chair of the Association of Clinical Psychologists-UK (ACP-UK); proposed by the appellant mother as a single joint expert to advise on Ms A's qualifications. The Family Court (HHJ Davies) refused leave to instruct him on 10 May 2022; that refusal was not directly appealed but its correctness was indirectly considered and upheld at paragraphs 60-63 of the President's judgment.",
+      "instructed_by": "proposed by appellant mother under FPR 2010, Part 25; instruction refused"
+    }
+  ],
+  "procedural_history": "Appeal under FPR 2010 against the order of HH Judge Lindsay Davies (Family Court) dated 15 June 2022 refusing the appellant mother permission to reopen findings of fact made in a judgment handed down on 24 June 2021. The substantive proceedings concerned two children, then aged 13 and 11, who had been the subject of private-law CA 1989 proceedings since shortly after parental separation in 2014. Contact between the children and their father broke down in late 2018; a recorder's order of 25 March 2020 authorised the joint instruction of a 'psychologist' (the order erroneously referred to 'Dr [A]') under FPR Part 25. Ms A's report, filed on 12 October 2020, concluded that the children had been alienated against their father by their mother. After interim removal orders in October 2020, HHJ Davies's final judgment of 24 June 2021 found that the mother's evidence was 'neither reliable nor credible', accepted Ms A's expert conclusion that the children had been emotionally damaged through alienating behaviour, and accepted the original Children's Guardian's separate analysis (which the judge found 'compelling'). Both children were ordered to live with their father. Permission to appeal the fact-finding judgment was refused by Peel J on 1 September 2021 as 'totally without merit'. The mother issued a fresh application to reopen on 3 February 2022 and a FPR Part 25 application of 20 April 2022 for permission to instruct Professor Wang, Chair of the ACP-UK, to report on Ms A's qualifications; the latter application was refused by HHJ Davies on 10 May 2022. HHJ Davies's substantive refusal to reopen, on 15 June 2022, applied the three-stage test in Re E [2019] EWCA Civ 1447 (Peter Jackson LJ) and imposed a s 91(14) CA 1989 filter to June 2025 and a £20,000 contribution to the father's costs. Permission to appeal was granted by Peel J on 15 July 2022, not on the merits but 'for some other compelling reason' — namely the public interest in the court considering 'the instruction of unregulated psychologists as experts in the Family Court' (para 23). On the appeal hearing before Sir Andrew McFarlane P on 6 December 2022, the ACP-UK was admitted as intervener and Ms A as a separately-represented party-in-effect. The President dismissed all three limbs of the appeal (reopening; s 91(14); costs) by oral decision at the conclusion of the hearing; the approved written judgment was handed down remotely at 10:30am on 21 February 2023.",
+  "summary": "Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) is the leading English authority on the instruction of unregulated psychology experts in private-law Children Act 1989 proceedings where parental alienation is in issue. Sir Andrew McFarlane P, sitting alone as President of the Family Division on appeal from the Family Court, dismissed the appellant mother's appeal against HHJ Davies's refusal to reopen findings of fact built on the report of 'Ms A' — a self-described psychologist neither HCPC-registered nor BPS-chartered — but used the opportunity to issue authoritative guidance on the use of expert evidence in PA-framed proceedings. The case sits between Re H-N [2021] EWCA Civ 448 (procedural anchor on fact-finding in domestic-abuse cases) and Re Y [2026] EWFC 38 (the set-aside remedy where unregulated PA-specialist evidence has been allowed to drive a finding) in the modern English arc Re A (2019) → Re S (2020) → Re H-N (2021) → Re C (2023) → Re Y (2026). The judgment establishes four propositions that operate as the gateway through which all subsequent English PA-framed expert evidence must pass: (i) the title 'psychologist' is not, of itself, protected, and the court must therefore be 'wide-eyed' about the seven HCPC-protected titles and BPS Chartered status as the 'kitemark' of expertise; (ii) the appropriateness of any individual expert remains 'a matter for the court in each individual case' under FPR 2010, Part 25 and CA 1989 s.13(6), applying Kennedy v Cordia / Daubert; (iii) where an unregistered psychologist is instructed, the court should record in a short judgment why it is appropriate to instruct them; and (iv) 'parental alienation' is not a syndrome capable of diagnosis but a question of fact for the court — the ACP-UK formulation at paragraph 103 is expressly endorsed.",
+  "holding": "(1) HHJ Davies's three-stage Re E [2019] EWCA Civ 1447 analysis of the reopening application was correct and her decision not to reopen the June 2021 findings of fact stood: the new ACP, FJC/BPS and Presidential 'material is important and should be read and understood by professionals and judiciary in the Family Court, but it is no more than guidance or advice. It is neither black-letter law nor regulation, and it does not, of itself, render unlawful that which was previously accepted, or, more particularly, render \"unqualified\" an individual who was previously thought to be qualified to act as an expert' (para 77). (2) The Family Court was right to refuse leave to instruct Professor Wang (Chair of the ACP-UK) at first instance: his unsolicited January 2022 letter to the court was already known, and to admit it would have been 'vulnerable to a charge of abuse of process' (para 78). (3) Parliament has not protected the title 'psychologist' as such — only seven titles (Clinical / Counselling / Educational / Forensic / Health / Occupational / Sport and Exercise Psychologist) plus the two generic titles (Practitioner / Registered Psychologist) are protected under article 39(1) of the Health Professions Order 2001 (paras 66, 93). 'A report by an unregistered person calling themselves a psychologist may be called a \"psychological report\"' (para 93). (4) The question whether a proposed expert is 'qualified to give expert evidence' under s.3 Civil Evidence Act 1972 is 'a matter for the court in each individual case', applying the principles in Kennedy v Cordia (Services) LLP (Scotland) [2016] UKSC 6 (adopting Daubert v Merrell Dow Pharmaceuticals Inc 509 US 579 (1993)). 'In every case the court should identify whether a proposed expert is HCPC registered. A sensible practice, where the expert is un-registered, is for the court to indicate in a short judgment why it is, nevertheless, appropriate to instruct them' (paras 91, 98). (5) 'HCPC registration, or chartered status in the BPS, provide a reliable, one-stop, method of authentication … it is the kitemark of HCPC registration which should resolve the question of qualification without more. A psychologist's CV should, therefore, prominently highlight whether they are HCPC registered or not. It is incumbent on an un-registered psychologist to assist the court by providing a short and clear statement of their expertise' (para 97). (6) The decision whether a parent has alienated a child is a question of fact for the court, not a diagnosis: ' \"parental alienation\" is not a syndrome capable of being diagnosed, but a process of manipulation of children perpetrated by one parent against the other through, what are termed as, \"alienating behaviours\". It is, fundamentally, a question of fact' (para 103, endorsing the ACP-UK formulation). (7) The President referred the matters raised to the Family Justice Council for investigation, with a view to revising guidance (including consideration of the three-tier psychological-assessment-tool publisher restriction described by the ACP) (paras 99, 102, 107). (8) The appeals against the s 91(14) order to June 2025 and against the £20,000 costs order were also dismissed (paras 109-119).",
+  "verbatim_quotes": [
+    {
+      "paragraph": "[2]",
+      "language": "en",
+      "text": "Although the substance of the appeal relates to the fact finding undertaken in this particular case, the central issue raised is of more general importance and relates to the instruction of experts in proceedings where there is an allegation of parental alienation. The primary assertion being made in support of the appeal is that, if the case had been approached properly, the expert who was instructed in these proceedings should never have been instructed as they were unqualified to give expert evidence on the issues raised in their instructions.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[23]",
+      "language": "en",
+      "text": "Permission to appeal was granted by Peel J on 15 July 2022, not because the proposed appeal had a real prospect of success, but 'for some other compelling reason', namely that it was in the public interest for the court to consider the instruction of unregulated psychologists as experts in the Family Court, in general, and Ms A's instruction and role in this case, in particular.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[77]",
+      "language": "en",
+      "text": "The single issue upon which the appeal is based is that relating to Ms A's qualification to undertake the role of expert assigned to her in this case. It is correct that, since June 2021, when the fact finding judgment was given, there have been developments in terms of guidance which focus upon the need for caution when instructing experts in Family proceedings. Reference has been made to the ACP guidance, and the FJC/BPS guidance, and to the President's Memorandum, to which reference was made in a speech in Jersey. This new material is important and should be read and understood by professionals and judiciary in the Family Court, but it is no more than guidance or advice. It is neither black-letter law nor regulation, and it does not, of itself, render unlawful that which was previously accepted, or, more particularly, render 'unqualified' an individual who was previously thought to be qualified to act as an expert.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[87]",
+      "language": "en",
+      "text": "I start with basic concepts and labels. There is no definition of an 'expert' in Family proceedings, save for the circular procedural definition at FPR 2010, r 23.2(c): \"'expert' means a person who provides expert evidence for use in proceedings\".",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[91]",
+      "language": "en",
+      "text": "Save for those individuals who are excluded from giving expert evidence by C+FA 2014, s 13(8), the question of whether an expert is 'qualified to give expert evidence' [CEA 1972, s 3] is a matter for the court in each individual case.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[93]",
+      "language": "en",
+      "text": "Certain categories of psychologist, for example 'clinical psychologist,', have a 'protected title', which may only be used by those who are validly registered under the regulations [see paragraph 66]. The generic label 'psychologist' is not protected and may be used by any individual, whether registered or not. A report by an unregistered person calling themselves a psychologist may be called a 'psychological report'.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[94]",
+      "language": "en",
+      "text": "From the perspective of the court, and it may be from a wider public perspective, the open-house nature of the term 'psychologist' is unhelpful and potentially confusing. In other fields, particularly medicine, the court is used to a stricter regulatory scheme in which an individual can only call themselves by a professional title, for example paediatrician, or pathologist, if recognition of their expert status is confirmed and monitored through formal regulation and registration. It is, however, a matter for the psychological profession and, ultimately, Parliament, whether a tighter regime should be imposed.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[97]",
+      "language": "en",
+      "text": "Courts faced with a potential expert who presents a voluble, unstructured CV should at all times bear in mind that there is clear and solid ground to be found in the registration scheme. A lesson plainly to be drawn from the present case is the need for clarity as to an expert's qualification and/or experience. The more diffuse and unstructured a CV, the less effective it is likely to be in transmitting information crisply and clearly. In this regard, lawyers, magistrates and judges are lay readers. They need to be able to see with clarity, and in short form, the underlying basis for an individual's expertise. HCPC registration, or chartered status in the BPS, provide a reliable, one-stop, method of authentication. Where a potential expert is registered with the HCPC as entitled to hold themselves out as an expert under one of the protected titles, this can be taken as sufficient qualification to offer an opinion within that field of practice. Further detail in the CV may assist with the choice of one particular expert over another, but it is the kitemark of HCPC registration which should resolve the question of qualification without more. A psychologist's CV should, therefore, prominently highlight whether they are HCPC registered or not. It is incumbent on an un-registered psychologist to assist the court by providing a short and clear statement of their expertise.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[98]",
+      "language": "en",
+      "text": "It is not, however, for this court to prohibit the instruction of any unregulated psychologist. The current rules and guidance are clear and contain an element of flexibility. The question of whether a proposed expert is entitled to be regarded as an expert remains one for the individual court, applying, as it must, the principles reiterated by the Supreme Court in Kennedy v Cordia (Services) LLP (Scotland) [2016] UKSC 6 (adopting the approach in Daubert v Merrell Dow Pharmaceuticals Inc (1993) 509 US 579) that 'if scientific, technical or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, experience, training, or education, may testify thereto in the form of an opinion or otherwise.' This is not, however, an open house and there is a need for caution. In every case the court should identify whether a proposed expert is HCPC registered. A sensible practice, where the expert is un-registered, is for the court to indicate in a short judgment why it is, nevertheless, appropriate to instruct them.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[103]",
+      "language": "en",
+      "text": "Before leaving this part of the appeal, one particular paragraph in the ACP skeleton argument deserves to be widely understood and, I would strongly urge, accepted: 'Much like an allegation of domestic abuse; the decision about whether or not a parent has alienated a child is a question of fact for the Court to resolve and not a diagnosis that can or should be offered by a psychologist. For these purposes, the ACP-UK wishes to emphasise that \"parental alienation\" is not a syndrome capable of being diagnosed, but a process of manipulation of children perpetrated by one parent against the other through, what are termed as, \"alienating behaviours\". It is, fundamentally, a question of fact.' It is not the purpose of this judgment to go further into the topic of alienation. Most Family judges have, for some time, regarded the label of 'parental alienation', and the suggestion that there may be a diagnosable syndrome of that name, as being unhelpful. What is important, as with domestic abuse, is the particular behaviour that is found to have taken place within the individual family before the court, and the impact that that behaviour may have had on the relationship of a child with either or both of his/her parents. In this regard, the identification of 'alienating behaviour' should be the court's focus, rather than any quest to determine whether the label 'parental alienation' can be applied.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    },
+    {
+      "paragraph": "[102]",
+      "language": "en",
+      "text": "The difficulties that have arisen in these proceedings, where much time has been taken up at first instance and on appeal in attempting to evaluate Ms A's qualifications to discharge her instructions, indicate that work should be done to assist parties and the court at the initial stage of choosing an expert by establishing a template into which the basic qualifications of any 'psychologist' should be entered. The aim of the template will be for readers to see at a glance whether an individual is currently registered with the HCPC (and if so in what category), or a Chartered Psychologist, or not. Further information, displayed shortly and clearly, should identify any formal qualifications, posts held and published work. If, on investigation by the FJC, the three-tier structure controlled by the publishers of assessment tools is seen as a valid indicator, that too should be included. Such a template might include some easily understood 'traffic-light' indication of expertise. A template of this nature would, I believe, greatly assist courts in divining the basic level of expertise of a potential expert witness. It would remain open to the court to instruct any person who it considers is capable of discharging the expert role in each case, but, particularly where a proposed psychological expert is un-registered, the court should be on notice to the need to look more carefully at the underlying evidence of appropriate expertise.",
+      "source_url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+    }
+  ],
+  "outcome": "All three limbs of the appeal dismissed (substantive appeal against refusal to reopen findings of fact; appeal against the CA 1989 s 91(14) filter order until June 2025; appeal against the £20,000 costs order). The findings of fact made by HHJ Davies on 24 June 2021 — including the finding that the children had been alienated against their father by their mother, in part on the basis of Ms A's expert report — stand. The President referred the wider issues arising from the case to the Family Justice Council for investigation and, if appropriate, the issue of revised guidance on the instruction of psychologists as experts in the Family Court, including consideration of the three-tier psychological-assessment-tool publisher restriction described by the ACP-UK (paras 99, 102, 107). The President also deprecated the ACP-UK's filing of a 30-page second skeleton argument that operated as 'opinion evidence based upon the professional knowledge of those who instruct Ms Mills' in place of the limited intervention permitted (paras 55-58).",
+  "comparative_jurisprudence": [
+    {
+      "caption": "Re A (Children) (Parental Alienation) [2019] EWFC B56 (HHJ Wildblood QC)",
+      "jurisdiction_code": "UK-EWS",
+      "case_study_ref": "re-a-2019-ewfc-b56",
+      "relevance": "Earliest of the modern English PA arc (Re A → Re S → Re H-N → Re C → Re Y). Re A illustrates the harm caused by judicial inaction in alienation cases; Re C operates on the evidential gateway through which any such finding must now pass."
+    },
+    {
+      "caption": "Re S (Parental Alienation: Cult) [2020] EWCA Civ 568",
+      "jurisdiction_code": "UK-EWS",
+      "case_study_ref": "re-s-2020-ewca-civ-568",
+      "relevance": "Court of Appeal (Peter Jackson LJ, with McCombe and King LJJ) on the obligation to act with 'exceptional diligence' where alienation is found. Re C does not disturb that obligation but regulates the evidential pipeline through which the Re S-style finding must now be reached: any psychological opinion supporting a finding of alienating behaviour must come from a regulated practitioner or an unregistered psychologist whose suitability has been justified in a short judgment by the instructing court."
+    },
+    {
+      "caption": "Re H-N (Children) (Domestic Abuse: Finding of Fact Hearings) [2021] EWCA Civ 448",
+      "jurisdiction_code": "UK-EWS",
+      "case_study_ref": "re-h-n-2021-ewca-civ-448",
+      "relevance": "Court of Appeal (Sir Andrew McFarlane P, King LJ, Holroyde LJ) on findings of fact in DA-framed private-law proceedings. Re C explicitly maps the ACP-UK 'alienation is a question of fact' formulation onto the parallel DA-fact-finding regime that Re H-N established. Re H-N is the procedural anchor (fact-find DA properly); Re C is the expert-quality gateway (regulated psychology only, with a short reasoned record where unregistered)."
+    },
+    {
+      "caption": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38",
+      "jurisdiction_code": "UK-EWS",
+      "case_study_ref": "re-y-2026-ewfc-38",
+      "relevance": "Sir Andrew McFarlane P sets aside first-instance findings of 'alienating behaviour' built on the report of Ms Melanie Gill, who was not on the HCPC Practitioner Psychologist register and not a Chartered Member of the BPS. Re Y operationalises the Re C guidance into a set-aside remedy: where the instructing court did not give the 'short judgment' required by Re C [98] on why it was appropriate to instruct an unregulated psychologist, findings dependent on that evidence are vulnerable on appeal."
+    },
+    {
+      "caption": "Re E (Children: Reopening Findings of Fact) [2019] EWCA Civ 1447 (Peter Jackson LJ)",
+      "jurisdiction_code": "UK-EWS",
+      "relevance": "Court of Appeal authority on the three-stage test for reopening findings of fact in CA 1989 proceedings, applied by HHJ Davies and reviewed by Sir Andrew McFarlane P at paragraphs 16, 19 and 80 of Re C; the legal framework against which the entire reopening appeal was decided."
+    },
+    {
+      "caption": "Re B (Children Act Proceedings) (Issue Estoppel) [1997] 1 FLR 285 (Hale J)",
+      "jurisdiction_code": "UK-EWS",
+      "relevance": "Hale J's seminal formulation on reopening, including the 'new evidence or information' limb relied upon by the appellant mother and addressed at paragraphs 79-80 of Re C. Sir Andrew McFarlane P confined the 'information' limb to fresh factual material (e.g. 'a police log or a mobile phone record') rather than restated expert opinion."
+    },
+    {
+      "caption": "Kennedy v Cordia (Services) LLP (Scotland) [2016] UKSC 6",
+      "jurisdiction_code": "UK",
+      "relevance": "Supreme Court authority on the admissibility of expert evidence, expressly adopted at paragraph 98 of Re C as the principle (incorporating the Daubert v Merrell Dow Pharmaceuticals 509 US 579 (1993) test) that the qualification of an expert is for the trial court to assess by reference to knowledge, skill, experience, training, or education."
+    },
+    {
+      "caption": "BVerfG 17.11.2023 — 1 BvR 1076/23",
+      "jurisdiction_code": "DE",
+      "case_study_ref": "bverfg-1-bvr-1076-23-germany-2023",
+      "relevance": "German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten in custody proceedings — civil-law parallel to Re C on different doctrinal grounds (Art. 6 Abs. 2 GG / Kindeswohl constitutional protection rather than HCPC registration). Together with Re C and the OLG Frankfurt 7 UF 88/25 companion case, BVerfG 1 BvR 1076/23 describes the European convergence on regulated-expert-only PA evidence."
+    },
+    {
+      "caption": "Cassazione Civ. n. 9691/2022",
+      "jurisdiction_code": "IT",
+      "case_study_ref": "cassazione-9691-2022-italy",
+      "relevance": "Italian Court of Cassation requirement that PA findings rest on scientifically validated methodology — the civil-law analogue to Re C's HCPC-registration gateway, polices the same upstream evidential quality."
+    },
+    {
+      "caption": "NF v AF [2025] CSOH 13 (Lord Stuart)",
+      "jurisdiction_code": "UK-SCO",
+      "case_study_ref": "nf-v-af-2025-csoh-13-scotland",
+      "relevance": "Scottish Outer House PA-framed proceedings in which the expert was a Chartered Clinical Psychologist whose evidence was 'unchallenged' (para [31]) — the kind of regulated-expert evidence base that Re C identifies as the gateway for findings of alienating behaviour."
+    }
+  ],
+  "subsequent_reception": [
+    {
+      "venue": "Family Court (EWFC) — Sir Andrew McFarlane P",
+      "year": 2026,
+      "citation": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38",
+      "url": "https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html",
+      "summary": "Sir Andrew McFarlane P (the author of Re C) sets aside first-instance findings of 'alienating behaviour' built on the report of Ms Melanie Gill, an unregulated PA specialist. Re Y is the operational sequel to Re C: the President applies the Re C [98] 'short judgment' requirement and treats its absence in the instructing-court record as a set-aside ground."
+    },
+    {
+      "venue": "Family Justice Council",
+      "year": 2024,
+      "citation": "Guidance on responding to a child's unexplained reluctance, resistance or refusal to spend time with a parent and allegations of alienating behaviour (December 2024)",
+      "url": "https://www.judiciary.uk/guidance-and-resources/family-justice-council/",
+      "summary": "FJC guidance issued in response to the referral made by Sir Andrew McFarlane P at paragraphs 99, 102 and 107 of Re C. The 2024 guidance expressly adopts the Re C [103] formulation that alienating behaviour is a question of fact for the court, not a diagnosis."
+    },
+    {
+      "venue": "Cafcass",
+      "year": 2023,
+      "citation": "Cafcass operational guidance updates following Re C [2023] EWHC 345 (Fam)",
+      "url": "https://www.cafcass.gov.uk/",
+      "summary": "Cafcass safeguarding and welfare-reporting practice updates aligning the Cafcass Alienation Tool (referenced in HHJ Davies's first-instance judgment) with the Re C-FJC line on alienating behaviour as a question of fact for the court."
+    },
+    {
+      "venue": "Family Law Week",
+      "year": 2023,
+      "citation": "Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) — case digest",
+      "url": "https://www.familylawweek.co.uk/judgments/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam/",
+      "summary": "Practitioner-press case digest treating Re C as the leading post-PD12J authority on the use of psychology experts in PA-framed private-law proceedings."
+    },
+    {
+      "venue": "1 Garden Court",
+      "year": 2023,
+      "citation": "1GC published-cases entry on Re C",
+      "url": "https://1gc.com/published-cases/view/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345",
+      "summary": "Counsel chambers digest (Joy Brereton KC's chambers) on the leading appellate authority on instruction of unregulated psychology experts in PA-framed proceedings."
+    },
+    {
+      "venue": "Mishcon de Reya LLP",
+      "year": 2023,
+      "citation": "Re C — considering 'parental alienation' and the use of experts in Children Act proceedings",
+      "url": "https://www.mishcon.com/news/re-c-considering-parental-alienation-and-the-use-of-experts-in-children-act-proceedings",
+      "summary": "Solicitors' firm commentary on the President's guidance regarding HCPC registration and the 'short judgment' requirement when an unregistered psychologist is instructed."
+    },
+    {
+      "venue": "Trinity Chambers",
+      "year": 2023,
+      "citation": "Unregistered experts in family proceedings: Re C ('parental alienation': instruction of expert) [2023] EWHC 345 (Fam)",
+      "url": "https://www.trinitychambers.com/unregistered-experts-in-family-proceedings-re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam/",
+      "summary": "Practitioner chambers analysis on the practical impact of the President's guidance on FPR Part 25 Part-25 instruction practice."
+    },
+    {
+      "venue": "Becket Chambers",
+      "year": 2023,
+      "citation": "Re C ('parental alienation'; instruction of expert) [2023] reconsidered",
+      "url": "https://becket-chambers.co.uk/articles/re-c-parental-alienation-instruction-of-expert-2023-reconsidered/",
+      "summary": "Practitioner-chambers analysis."
+    },
+    {
+      "venue": "Expert Witness Journal",
+      "year": 2023,
+      "citation": "Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam): An Analysis",
+      "url": "https://www.expertwitness.co.uk/articles/journal/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam-an-analysis",
+      "summary": "Expert-witness-press analysis on the impact of the judgment on the practice of psychology expert evidence in family proceedings."
+    },
+    {
+      "venue": "International Family Law Group (iFLG)",
+      "year": 2024,
+      "citation": "Alienating Behaviour: Experts, Exceptional Circumstances and Transparency in the Family Court",
+      "url": "https://iflg.uk.com/blog/alienating-behaviour-experts-exceptional-circumstances-and-transparency-in-the-family-court",
+      "summary": "Practitioner-press analysis treating Re C as the appellate statement of the expert-quality gateway in PA-framed proceedings."
+    },
+    {
+      "venue": "Courts and Tribunals Judiciary",
+      "year": 2023,
+      "citation": "Judiciary case page — Re C ('Parental Alienation')",
+      "url": "https://www.judiciary.uk/judgments/re-c-parental-alienation/",
+      "summary": "Official judiciary.uk case page hosting the Approved Judgment PDF."
+    }
+  ],
+  "references": [
+    "case-study:re-a-2019-ewfc-b56",
+    "case-study:re-s-2020-ewca-civ-568",
+    "case-study:re-h-n-2021-ewca-civ-448",
+    "case-study:re-y-2026-ewfc-38",
+    "case-study:bverfg-1-bvr-1076-23-germany-2023",
+    "case-study:cassazione-9691-2022-italy",
+    "case-study:nf-v-af-2025-csoh-13-scotland",
+    "practitioner:uk-ews.gill-melanie",
+    "jurisdiction:england-and-wales"
+  ],
+  "sources": [
+    {
+      "title": "Re C ('parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) (21 February 2023) — BAILII listing",
+      "url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html",
+      "publisher": "BAILII (British and Irish Legal Information Institute)",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Re C ('Parental Alienation'; Instruction of Expert) Ms A — Approved Judgment PDF (21 February 2023)",
+      "url": "https://www.judiciary.uk/wp-content/uploads/2023/02/Re-C-Parental-Alienation-judgment-220323.pdf",
+      "publisher": "Courts and Tribunals Judiciary",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Judiciary case page — Re C ('Parental Alienation')",
+      "url": "https://www.judiciary.uk/judgments/re-c-parental-alienation/",
+      "publisher": "Courts and Tribunals Judiciary",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "Family Procedure Rules 2010 — Part 25 (Experts and Assessors) and Practice Directions 25A-25D (including PD25B Annex)",
+      "url": "https://www.justice.gov.uk/courts/procedure-rules/family/parts/part_25",
+      "publisher": "Ministry of Justice",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Children Act 1989",
+      "url": "https://www.legislation.gov.uk/ukpga/1989/41/contents",
+      "publisher": "legislation.gov.uk",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Children and Families Act 2014, section 13 (control of expert evidence)",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/13",
+      "publisher": "legislation.gov.uk",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Health Professions Order 2001, article 39 (offences in connection with protected titles)",
+      "url": "https://www.legislation.gov.uk/uksi/2002/254/article/39",
+      "publisher": "legislation.gov.uk",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Health and Care Professions Council — Practitioner Psychologist register search",
+      "url": "https://www.hcpc-uk.org/check-the-register/",
+      "publisher": "Health and Care Professions Council",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "British Psychological Society — Chartered Member register",
+      "url": "https://www.bps.org.uk/find-psychologist",
+      "publisher": "British Psychological Society",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "President's Memorandum: Experts in the Family Court (4 October 2021)",
+      "url": "https://www.judiciary.uk/guidance-and-resources/presidents-memorandum-experts-in-the-family-court/",
+      "publisher": "President of the Family Division / Courts and Tribunals Judiciary",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "Family Justice Council and British Psychological Society — Psychologists as Expert Witnesses in the Family Courts in England and Wales: Standards, Competencies and Expectations (May 2022, updated 2024)",
+      "url": "https://www.judiciary.uk/guidance-and-resources/family-justice-council/",
+      "publisher": "Family Justice Council / British Psychological Society",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "Association of Clinical Psychologists-UK — The Protection of the Public in the Family Courts (December 2021)",
+      "url": "https://acpuk.org.uk/",
+      "publisher": "Association of Clinical Psychologists-UK",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "ngo-report"
+    },
+    {
+      "title": "Family Justice Council — Guidance on responding to a child's unexplained reluctance, resistance or refusal to spend time with a parent and allegations of alienating behaviour (December 2024)",
+      "url": "https://www.judiciary.uk/guidance-and-resources/family-justice-council/",
+      "publisher": "Family Justice Council",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "Re E (Children: Reopening Findings of Fact) [2019] EWCA Civ 1447",
+      "url": "https://www.bailii.org/ew/cases/EWCA/Civ/2019/1447.html",
+      "publisher": "BAILII",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Re B (Children Act Proceedings) (Issue Estoppel) [1997] 1 FLR 285 (Hale J)",
+      "url": "https://www.lexisnexis.co.uk/legal/journals/family-law",
+      "publisher": "LexisNexis (Family Law Reports)",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Kennedy v Cordia (Services) LLP (Scotland) [2016] UKSC 6",
+      "url": "https://www.bailii.org/uk/cases/UKSC/2016/6.html",
+      "publisher": "BAILII / UK Supreme Court",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Re A (A Child: Supervised Contact) (s 91(14) Children Act 1989 Orders) [2021] EWCA Civ 1749",
+      "url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/1749.html",
+      "publisher": "BAILII",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Family Law Week — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) case digest",
+      "url": "https://www.familylawweek.co.uk/judgments/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam/",
+      "publisher": "Family Law Week",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "1 Garden Court Family Law — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam)",
+      "url": "https://1gc.com/published-cases/view/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345",
+      "publisher": "1 Garden Court Family Law",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "Mishcon de Reya — Re C: considering 'parental alienation' and the use of experts in Children Act proceedings",
+      "url": "https://www.mishcon.com/news/re-c-considering-parental-alienation-and-the-use-of-experts-in-children-act-proceedings",
+      "publisher": "Mishcon de Reya LLP",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "Trinity Chambers — Unregistered experts in family proceedings: Re C ('parental alienation': instruction of expert) [2023] EWHC 345 (Fam)",
+      "url": "https://www.trinitychambers.com/unregistered-experts-in-family-proceedings-re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam/",
+      "publisher": "Trinity Chambers",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "Becket Chambers — Re C ('parental alienation'; instruction of expert) [2023] reconsidered",
+      "url": "https://becket-chambers.co.uk/articles/re-c-parental-alienation-instruction-of-expert-2023-reconsidered/",
+      "publisher": "Becket Chambers",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "Expert Witness Journal — Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam): An Analysis",
+      "url": "https://www.expertwitness.co.uk/articles/journal/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam-an-analysis",
+      "publisher": "Expert Witness Journal",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "International Family Law Group — Alienating Behaviour: Experts, Exceptional Circumstances and Transparency in the Family Court",
+      "url": "https://iflg.uk.com/blog/alienating-behaviour-experts-exceptional-circumstances-and-transparency-in-the-family-court",
+      "publisher": "International Family Law Group",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "Law Society Gazette / Family Law Journal — practitioner commentary on Re C (LexisNexis Family Law landing page)",
+      "url": "https://www.lexisnexis.co.uk/legal/journals/family-law",
+      "publisher": "LexisNexis (Family Law Journal)",
+      "language": "en",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    }
+  ],
+  "editorial_notes": [
+    "CITATION CORRECTION (load-bearing): the user's commissioning brief cited this case as '[2023] EWCA Civ 8'. That citation is incorrect. The case is Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam), a decision of the High Court of Justice, Family Division, sitting on appeal from the Family Court (HH Judge Lindsay Davies), heard on 6 December 2022 and handed down remotely at 10:30am on 21 February 2023 by Sir Andrew McFarlane P sitting alone as President of the Family Division. The case was NOT a Court of Appeal (Civil Division) decision and bears no [2023] EWCA Civ 8 neutral citation. The neutral_citation, caption and court fields therefore record the correct citation [2023] EWHC 345 (Fam) per the primary text. The user-requested slug 're-c-2023-ewca-civ-8' has been preserved as the filename only, in keeping with the user's express filename requirement, but is itself a citation error that should be corrected on next-pass rename to 're-c-2023-ewhc-345-fam'.",
+    "Primary verification done against the Approved Judgment PDF served from judiciary.uk (filename 'Re-C-Parental-Alienation-judgment-220323.pdf', 32 pages, [2023] EWHC 345 (Fam), Case No FA-2022-00227). BAILII (https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html) returned a 403 bot-protection wall at retrieval time on 2026-05-30 and could not be read directly; the judgment text used for the verbatim_quotes block therefore comes from the judiciary.uk Approved Judgment PDF, which is the same Approved Judgment as the BAILII version. The source_url on each verbatim quote nevertheless points at BAILII as the canonical citation venue per AntiAlienate house style.",
+    "Bench composition verified from the judgment cover sheet: Sir Andrew McFarlane (President of the Family Division), sitting alone. The PFD did NOT sit as part of a three-judge appellate panel; he sat as a single Family Division judge on a second-tier appeal under FPR. The 'panel' field reflects this single-judge composition.",
+    "Anonymisation: the Court anonymised the children (referred to throughout as 'the older child' / 'the younger child' or 'the eldest child' / 'her younger sibling'); the parents (mother / father); the instructed expert as 'Ms A'; and (in an unusual twist) the proposed second expert and Chair of the ACP-UK as 'Prof Wang'. The named-counsel block is taken from the front sheet of the Approved Judgment.",
+    "Children entries: sex is recorded as 'not_stated' for both children because the published judgment uses neutral pronouns for the children in most places. Paragraph 7(26) (reproducing the recorder's order) refers to '[the older child's] unwillingness to see or speak to her father', which on a literal reading would indicate the older child as female; the conservative position in the schema is to record 'not_stated' rather than rest a demographic field on a single pronominal occurrence in a court order reproduced within a judgment. Ages 13 and 11 are stated on the face of the judgment at paragraph 5.",
+    "The instructed expert is identified only as 'Ms A' on the face of the judgment. The AntiAlienate knowledge base records her under that anonymisation and does NOT supply a practitioner_ref cross-link; her identification with any named UK practitioner is not established on the public record of [2023] EWHC 345 (Fam) and would require separate first-instance court-listing or solicitor-side disclosure to be assessed. Compare and contrast with Re Y [2026] EWFC 38, where the unregulated expert is identified by name (Ms Melanie Gill) on the face of the judgment and is cross-linked to practitioner:uk-ews.gill-melanie. The Re Y cross-link is in references but is not in the experts block of Re C, because Re C's Ms A is not identified with Ms Gill on the record.",
+    "Counsel block: taken verbatim from the judgment cover sheet — Joy Brereton KC and Christopher Barnes (instructed by Beck Fitzgerald) for the mother; Charles Hale KC and Frankie Shama (instructed by Thomson Snell & Passmore) for the father; Andrew Bagchi KC, Jessica Lee and Luke Eaton (instructed by TV Edwards LLP) for the expert Ms A; Barbara Mills KC and Charlotte Baker (instructed by Dawson Cornwell LLP) for the ACP-UK intervener; Martin Kingerley KC and Ben Mansfield (instructed by Pepperells Solicitors) for the r.16.4 Guardian. Note the cover sheet states 'Hearing date: 6th December 2023', which is plainly a typographical error in the cover-sheet; the hearing was on 6 December 2022 (judgment was handed down 21 February 2023). The procedural_history records the correct hearing date.",
+    "Verbatim quotes selected to be load-bearing on the four operative propositions: (a) PFD's framing of 'the central issue raised is of more general importance and relates to the instruction of experts in proceedings where there is an allegation of parental alienation' (para 2); (b) the 'public interest' permission-to-appeal basis (para 23); (c) the 'guidance not law' baseline (para 77); (d) the no-definition-of-'expert' baseline (para 87) and qualification-is-for-the-court baseline (para 91); (e) the 'open-house' problem with 'psychologist' (paras 93-94); (f) the 'kitemark of HCPC registration' principle (para 97) and the Kennedy v Cordia / Daubert qualification test plus the 'short judgment' requirement where an unregulated psychologist is instructed (para 98); (g) the 'parental alienation is a question of fact, not a diagnosis' endorsement of the ACP-UK formulation (para 103); (h) the FJC-referral template guidance (para 102). These are the passages on which the practitioner reception of Re C has rested.",
+    "ACP-UK conduct as intervener: paragraphs 55-58 of the judgment contain a notable judicial deprecation of the ACP-UK's filing of a 30-page second skeleton argument that operated as opinion evidence on Ms A's fitness to practise. This is doctrinally important as a reminder of the limits of intervention. Editorial decision: this is reproduced in the outcome field rather than the verbatim_quotes block because it relates to the intervener-conduct disposition rather than to the substantive expert-evidence guidance.",
+    "Cross-link to Re Y [2026] EWFC 38: Re Y is the operational sequel to Re C — Sir Andrew McFarlane P (the author of Re C) sets aside first-instance findings of 'alienating behaviour' built on the report of Ms Melanie Gill, an unregulated PA specialist, on the basis that the Re C [98] requirement of a 'short judgment' explaining why an unregulated psychologist is being instructed was not met. The references block includes both case-study:re-y-2026-ewfc-38 and practitioner:uk-ews.gill-melanie consistent with the AntiAlienate house style on the Re A → Re S → Re H-N → Re C → Re Y arc.",
+    "Cross-link to Re H-N [2021] EWCA Civ 448: at paragraph 103 of Re C the PFD expressly draws an analogy between alienation as a question of fact and the parallel domestic-abuse fact-finding regime that Re H-N established. The two cases together describe the modern English fact-finding-plus-expert-quality regime in PA-framed private-law proceedings.",
+    "Comparative jurisprudence: BVerfG 1 BvR 1076/23 (Germany, 17.11.2023) and Cassazione 9691/2022 (Italy) are included as civil-law parallels to the regulated-expert-only line, consistent with the AntiAlienate UK-arc house style across the Re H-N, Re S and Re Y entries.",
+    "Subsequent reception: the principal FJC follow-on is the December 2024 finalised FJC guidance on responding to allegations of alienating behaviour, which the PFD's referral at paragraphs 99, 102 and 107 effectively commissioned. The Cafcass operational update and the practitioner-chambers analyses (1 Garden Court / Mishcon / Trinity / Becket / Expert Witness Journal / iFLG) round out the reception layer.",
+    "Sources: the Law Society Gazette / Family Law Journal entry is included per the brief but supplied as the LexisNexis Family Law landing page because no stable Gazette URL specifically devoted to Re C [2023] EWHC 345 (Fam) has been catalogued by the AntiAlienate KB at time of writing.",
+    "ECLI not assigned: the [2023] EWHC 345 (Fam) neutral citation is the canonical identifier; no ECLI is recorded on the face of the judgment."
+  ],
+  "word_count": 0,
+  "author": "Alan Markson",
+  "license": "CC-BY-4.0"
+}

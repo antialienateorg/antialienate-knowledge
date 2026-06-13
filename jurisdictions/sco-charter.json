@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "id": "sco-charter",
+  "name": "SCO Charter 2002 (Shanghai Cooperation Organisation)",
+  "jurisdiction_code": "SCO",
+  "legal_system": "supranational",
+  "language": ["ru", "zh", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Charter of the Shanghai Cooperation Organisation (SCO Charter) is a regional supranational meta-framework foundational-SCO-treaty framework adopted by the 6 founding Eurasian states in Saint Petersburg — structurally distinctive globally as the only modern Eurasian regional supranational binding-treaty framework operating on formal Eurasian-strategic-framework + China-Russia-co-anchor framework (SCO Charter signed 7 June 2002 in Saint Petersburg Russia by China + Kazakhstan + Kyrgyzstan + Russia + Tajikistan + Uzbekistan + effective 19 September 2003 + Shanghai Five predecessor founded 26 April 1996 in Shanghai China — formal foundational SCO treaty framework establishing comprehensive SCO organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate on bilateral-only frameworks, structurally distinctive globally as the only modern Eurasian regional supranational binding-treaty framework operating formal Eurasian-strategic-framework + only modern regional supranational binding-treaty framework operating formal China-Russia-co-anchor framework + most-populous regional supranational binding-treaty framework with ~3.4 billion population coverage framework spanning Eurasia geographic framework after India + Pakistan accession 2017), as the central jurisdiction of the formal Three Evils framework (SCO Charter Article 1 framework providing formal SCO mandate on Three Evils framework: terrorism + separatism + extremism — formal foundational Three-Evils framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Three-Evils framework), as the central jurisdiction of the formal SCO Regional Anti-Terrorist Structure RATS framework (SCO Regional Anti-Terrorist Structure RATS established 2004 in Tashkent Uzbekistan providing formal SCO counter-terrorism framework — formal foundational SCO counter-terrorism framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal regional anti-terrorist structure framework with operational counter-terrorism database framework), and as the central jurisdiction of the formal SCO Membership Expansion framework (India + Pakistan joined SCO 9 June 2017 at Astana Summit + Iran joined SCO 4 July 2023 at Tehran Summit + Belarus joined SCO 4 July 2024 at Astana Summit expanding SCO from original 6 to 10 member states with population coverage framework expanding from ~1.5 billion to ~3.4 billion framework — formal foundational SCO expansion framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal three-stage-expansion framework from 6 founding to 8 with India-Pakistan to 9 with Iran to 10 with Belarus framework). The SCO Charter is binding upon 10 SCO member states + 2 SCO observer states + 14 SCO dialogue partners as of 2026 (Belarus + China + India + Iran + Kazakhstan + Kyrgyzstan + Pakistan + Russia + Tajikistan + Uzbekistan) — comprehensive Eurasian regional coverage framework. The Charter is silent on 'parental alienation' as a statutory label, though formal SCO Three Evils framework operates limited intersection with parental-alienation framework via formal Eurasian-regional security framework not directly addressing family-law-issues framework. The SCO Heads of State Council + SCO Heads of Government Council + SCO Secretariat + SCO RATS Executive Committee are the formal SCO bodies; national-level apex courts operate as judicial bodies. The SCO Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "SCO Charter 2002",
+      "title": "SCO Charter",
+      "year": 2003,
+      "url": "http://eng.sectsco.org/",
+      "relevance": "Charter of the Shanghai Cooperation Organisation signed 7 June 2002 in Saint Petersburg Russia + effective 19 September 2003 — formal foundational SCO treaty framework establishing comprehensive SCO organisation framework."
+    },
+    {
+      "citation": "Shanghai Convention on Combating Terrorism Separatism Extremism 2001",
+      "title": "Shanghai Convention",
+      "year": 2003,
+      "url": "http://eng.sectsco.org/",
+      "relevance": "Shanghai Convention on Combating Terrorism, Separatism and Extremism signed 15 June 2001 in Shanghai China + effective 29 March 2003 — formal foundational Three-Evils framework."
+    },
+    {
+      "citation": "SCO RATS Agreement 2004",
+      "title": "SCO RATS Agreement",
+      "year": 2004,
+      "url": "http://eng.sectsco.org/",
+      "relevance": "Agreement on Regional Anti-Terrorist Structure RATS adopted 2002 + RATS operational 2004 in Tashkent Uzbekistan — formal foundational SCO counter-terrorism framework."
+    },
+    {
+      "citation": "SCO Treaty on Long-Term Good Neighbourliness 2007",
+      "title": "SCO Treaty on Long-Term Good Neighbourliness",
+      "year": 2008,
+      "url": "http://eng.sectsco.org/",
+      "relevance": "Treaty on Long-Term Good Neighbourliness, Friendship and Cooperation between the Member States of the Shanghai Cooperation Organisation signed 16 August 2007 in Bishkek Kyrgyzstan + effective 13 August 2008 — formal foundational SCO good-neighbourliness framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "SCO Heads of State Council",
+      "seat": "rotating",
+      "url": "http://eng.sectsco.org/",
+      "role": "Formal supreme decision-making body for SCO."
+    },
+    {
+      "name": "SCO Heads of Government Council",
+      "seat": "rotating",
+      "url": "http://eng.sectsco.org/",
+      "role": "Formal executive body for SCO."
+    },
+    {
+      "name": "SCO Secretariat",
+      "seat": "Beijing",
+      "url": "http://eng.sectsco.org/",
+      "role": "Formal administrative body for SCO."
+    },
+    {
+      "name": "SCO Regional Anti-Terrorist Structure (RATS) Executive Committee",
+      "seat": "Tashkent",
+      "url": "http://eng.sectsco.org/",
+      "role": "Formal SCO counter-terrorism framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "SCO Secretariat",
+      "url": "http://eng.sectsco.org/",
+      "role": "SCO Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "SCO-related communications operate via SCO Heads of State Council framework; individual communications not formally accepted under SCO framework.",
+  "key_developments": [
+    {
+      "year": 1996,
+      "title": "Shanghai Five established",
+      "description": "Shanghai Five founded 26 April 1996 in Shanghai China by China + Kazakhstan + Kyrgyzstan + Russia + Tajikistan — predecessor framework to SCO Charter."
+    },
+    {
+      "year": 2001,
+      "title": "SCO founded + Shanghai Convention",
+      "description": "Shanghai Cooperation Organisation SCO founded 15 June 2001 in Shanghai China by Shanghai Five + Uzbekistan + Shanghai Convention on Combating Terrorism, Separatism and Extremism signed 15 June 2001 — formal foundational SCO + Three-Evils framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "SCO Charter adopted",
+      "description": "Charter of the Shanghai Cooperation Organisation signed 7 June 2002 in Saint Petersburg Russia — formal foundational SCO treaty framework adopted."
+    },
+    {
+      "year": 2003,
+      "title": "SCO Charter enters force",
+      "description": "SCO Charter entered force 19 September 2003 — formal foundational SCO treaty framework operational."
+    },
+    {
+      "year": 2004,
+      "title": "SCO Secretariat + RATS established",
+      "description": "SCO Secretariat established in Beijing China 15 January 2004 + SCO Regional Anti-Terrorist Structure RATS operational 2004 in Tashkent Uzbekistan — formal foundational SCO + RATS frameworks operational."
+    },
+    {
+      "year": 2007,
+      "title": "SCO Treaty on Long-Term Good Neighbourliness",
+      "description": "Treaty on Long-Term Good Neighbourliness, Friendship and Cooperation signed 16 August 2007 in Bishkek Kyrgyzstan — formal foundational SCO good-neighbourliness framework."
+    },
+    {
+      "year": 2017,
+      "title": "India + Pakistan join SCO",
+      "description": "India + Pakistan joined SCO 9 June 2017 at Astana Summit — formal SCO expansion framework to 8 member states."
+    },
+    {
+      "year": 2023,
+      "title": "Iran joins SCO",
+      "description": "Iran joined SCO 4 July 2023 at Tehran Summit — formal SCO expansion framework to 9 member states."
+    },
+    {
+      "year": 2024,
+      "title": "Belarus joins SCO",
+      "description": "Belarus joined SCO 4 July 2024 at Astana Summit — formal SCO expansion framework to 10 member states."
+    },
+    {
+      "year": 2025,
+      "title": "Tianjin Summit + SCO 25th anniversary",
+      "description": "SCO 25th anniversary + 25th SCO Heads of State Council Summit held 31 August - 1 September 2025 in Tianjin China — formal SCO 25th anniversary framework."
+    }
+  ],
+  "structural_findings": [
+    "SCO Charter operates a regional supranational binding-treaty framework — places SCO Charter in the regional supranational-meta-framework cluster.",
+    "Only modern Eurasian regional supranational binding-treaty framework operating on formal Eurasian-strategic-framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal China-Russia-co-anchor framework + most-populous regional supranational binding-treaty framework with ~3.4 billion population coverage framework spanning Eurasia geographic framework after India + Pakistan accession 2017.",
+    "Central jurisdiction of formal Three Evils framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Three-Evils framework: terrorism + separatism + extremism.",
+    "Central jurisdiction of formal SCO RATS framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal regional anti-terrorist structure framework with operational counter-terrorism database framework.",
+    "Central jurisdiction of formal SCO Membership Expansion framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal three-stage-expansion framework from 6 founding to 8 with India-Pakistan to 9 with Iran to 10 with Belarus framework.",
+    "10 SCO member state + 2 SCO observer state + 14 SCO dialogue partner ratification framework is structurally distinctive globally — comprehensive Eurasian regional coverage framework.",
+    "1996 Shanghai Five + 2001 SCO founded + Shanghai Convention + 2002 SCO Charter + 2003 entry into force + 2004 Secretariat + RATS + 2007 Good Neighbourliness Treaty + 2017 India + Pakistan + 2023 Iran + 2024 Belarus + 2025 Tianjin Summit SCO-framework-development sequence is structurally distinctive globally.",
+    "SCO Charter + Shanghai Convention + RATS Agreement + Good Neighbourliness Treaty formal quartet framework operating limited PA-intersection framework via Eurasian-regional security framework not directly addressing family-law-issues framework — distinctive in NOT operating PA-intersection framework relative to other regional frameworks."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:russia",
+    "jurisdiction:india",
+    "jurisdiction:pakistan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "SCO",
+      "url": "http://eng.sectsco.org/",
+      "publisher": "SCO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "SCO Charter jurisdiction sidecar — regional supranational Eurasian foundational-SCO-treaty meta-framework (SCO Charter 2002/2003 + Shanghai Convention 2001/2003 + RATS Agreement 2002/2004 + Good Neighbourliness Treaty 2007/2008 + Shanghai Five 1996 predecessor + 2017 India + Pakistan + 2023 Iran + 2024 Belarus + 2025 Tianjin Summit). Only modern Eurasian regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework operating formal China-Russia-co-anchor framework + most-populous regional supranational binding-treaty framework with ~3.4 billion population coverage spanning Eurasia + central jurisdiction of formal Three-Evils framework: terrorism + separatism + extremism + central jurisdiction of formal SCO RATS counter-terrorism framework + central jurisdiction of formal three-stage SCO expansion framework + 10 SCO member states + 2 observer states + 14 dialogue partners + 1996 Shanghai Five + 2001 SCO founded + 2002 SCO Charter + 2003 entry into force + 2004 Secretariat + RATS + 2007 Good Neighbourliness Treaty + 2017 India + Pakistan + 2023 Iran + 2024 Belarus + 2025 Tianjin Summit SCO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: SCO Three Evils framework operates limited intersection with parental-alienation framework via formal Eurasian-regional security framework not directly addressing family-law-issues framework — distinctive in NOT operating PA-intersection framework relative to other regional frameworks.",
+    "Joins regional + supranational + Eurasian-foundational-SCO-treaty cluster + SCO-Charter-only-Eurasian-regional-supranational-binding-treaty-globally-distinctive + China-Russia-co-anchor + most-populous-regional-supranational-binding-treaty-3.4-billion + Three-Evils-terrorism-separatism-extremism + SCO-RATS-Tashkent + SCO-Secretariat-Beijing + Shanghai-Five-1996-predecessor + 10-SCO-member-states + 2-SCO-observer-states + 14-SCO-dialogue-partners + 2017-India-Pakistan-Astana-Summit + 2023-Iran-Tehran-Summit + 2024-Belarus-Astana-Summit + 2025-Tianjin-Summit-25th-anniversary + Shanghai-Convention-2001 + Good-Neighbourliness-Treaty-2007 + limited-PA-intersection-via-Eurasian-security-framework-distinctive-NOT-operating-PA-intersection clusters within the corpus."
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "puducherry",
+  "name": "Puducherry (Pondicherry / Puducherry)",
+  "jurisdiction_code": "IN-PY",
+  "legal_system": "mixed",
+  "language": ["en", "fr", "ta", "te", "ml"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Puducherry (formerly Pondicherry, renamed 2006) is a South Indian mixed common-law/French-civil-law-remnant Indian Union Territory comprising four geographically non-contiguous enclaves (Puducherry district + Karaikal district on the Coromandel Coast of southeastern India; Mahé district on the Malabar Coast of southwestern India; Yanam district on the Andhra Pradesh coast of the Bay of Bengal) — structurally distinctive globally as the only Indian Union Territory with comprehensive French civil-law remnant framework operating under the Pondicherry Decree of 6 January 1948 (renvoi à la métropole framework preserving French civil-law application for persons who exercised the formal Renunciation of Personal Status (Renonçants) framework granting French civil-status under Decret du 21 septembre 1881), as the only Indian Union Territory formed by formal Treaty of Cession from France (Treaty of Cession of the French Establishments in India 1956, effective 16 August 1962) — distinct from other Indian Union Territories formed by British transfer/annexation or post-1947 reorganisation, as the only Indian Union Territory with four geographically non-contiguous enclaves (Puducherry-Karaikal-Mahé-Yanam) reflecting the French colonial Comptoirs framework, and as the only Indian Union Territory with a legislative assembly operating under the Government of Union Territories Act 1963 distinct framework. Puducherry was the historical centre of French India (Établissements français dans l'Inde) from 1674 until 1954 de-facto cession and 1962 formal Treaty of Cession effective 16 August 1962. Puducherry comprises ~492 km² across four enclaves with a population of ~1.4 million. Family-law framework operates under a dual federal Indian common-law + French civil-code-remnant framework for Renonçants persons. The Madras High Court (Puducherry Permanent Bench at Puducherry city) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Puducherry is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Puducherry is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Treaty of Cession of the French Establishments in India 1956 (effective 16 August 1962)",
+      "title": "Treaty of Cession 1956",
+      "year": 1962,
+      "url": "https://www.py.gov.in/",
+      "relevance": "International treaty of 28 May 1956 between France and India (effective 16 August 1962 following French Parliament ratification) — formal cession of French India to India."
+    },
+    {
+      "citation": "Pondicherry Decree 1948 + Renonçants Renvoi à la Métropole framework",
+      "title": "Pondicherry Decree 1948",
+      "year": 1948,
+      "url": "https://www.legifrance.gouv.fr/",
+      "relevance": "French Decree of 6 January 1948 + Decret du 21 septembre 1881 establishing French civil-law application for persons who exercised the formal Renunciation of Personal Status (Renonçants) framework — preserved post-1962 cession."
+    },
+    {
+      "citation": "Government of Union Territories Act 1963",
+      "title": "Government of Union Territories Act",
+      "year": 1963,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act establishing distinct Union Territory legislative-assembly framework — Puducherry is one of three Union Territories with full Legislative Assembly (with Delhi and J&K)."
+    },
+    {
+      "citation": "Pondicherry (Alteration of Name) Act 2006",
+      "title": "Pondicherry (Alteration of Name) Act",
+      "year": 2006,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act renaming Pondicherry to Puducherry effective 1 October 2006."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Madras High Court (Puducherry Permanent Bench)",
+      "seat": "Puducherry city",
+      "url": "https://www.mhc.tn.gov.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Puducherry."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Puducherry."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Puducherry."
+    }
+  ],
+  "anonymisation_convention": "Puducherry family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1674,
+      "title": "French East India Company establishment at Pondicherry",
+      "description": "French East India Company established at Pondicherry in 1674 — foundation of French India (Établissements français dans l'Inde)."
+    },
+    {
+      "year": 1881,
+      "title": "Renonçants framework established",
+      "description": "Decret du 21 septembre 1881 establishing French civil-law application for persons who exercised the formal Renunciation of Personal Status (Renonçants) framework."
+    },
+    {
+      "year": 1948,
+      "title": "Pondicherry Decree + Renvoi à la métropole framework",
+      "description": "French Decree of 6 January 1948 reinforcing Renonçants Renvoi à la métropole framework."
+    },
+    {
+      "year": 1954,
+      "title": "De-facto cession to India",
+      "description": "French India de-facto transferred to Indian Government on 1 November 1954 following Pondicherry Assembly vote."
+    },
+    {
+      "year": 1962,
+      "title": "Treaty of Cession effective + Indian Union Territory established",
+      "description": "Treaty of Cession effective 16 August 1962 following French Parliament ratification — Puducherry established as Indian Union Territory."
+    },
+    {
+      "year": 1963,
+      "title": "Government of Union Territories Act + Legislative Assembly",
+      "description": "Indian Federal Act establishing distinct Union Territory legislative-assembly framework — Puducherry Legislative Assembly first elected 1964."
+    },
+    {
+      "year": 2006,
+      "title": "Renamed Puducherry",
+      "description": "Renamed from Pondicherry to Puducherry effective 1 October 2006."
+    }
+  ],
+  "structural_findings": [
+    "Puducherry operates a mixed federal Indian common-law + French civil-law-remnant Union Territory framework — places Puducherry in the South Indian-Union-Territory cluster.",
+    "Only Indian Union Territory with comprehensive French civil-law remnant framework operating under Pondicherry Decree 1948 Renonçants framework is structurally distinctive globally.",
+    "Only Indian Union Territory formed by formal Treaty of Cession from France is structurally distinctive globally — Treaty of Cession 1956/1962.",
+    "Only Indian Union Territory with four geographically non-contiguous enclaves is structurally distinctive globally — Puducherry-Karaikal-Mahé-Yanam reflecting French colonial Comptoirs framework.",
+    "One of three Indian Union Territories with full Legislative Assembly (with Delhi and J&K) is structurally distinctive within Indian Union Territory cluster.",
+    "Renonçants Renvoi à la métropole framework preserved post-1962 cession is structurally distinctive globally — only modern post-colonial framework preserving colonial-power civil-law application for designated residents.",
+    "1674-1954 French India (Établissements français dans l'Inde) historical framework is structurally distinctive within Indian Union Territory cluster.",
+    "Indian non-Hague-Convention-1980-ratification status applies — Puducherry French civil-law-remnant framework intersection with French Hague Convention 1980 accession 1983 is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:france",
+    "jurisdiction:reunion",
+    "jurisdiction:french-guiana",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Puducherry",
+      "url": "https://www.py.gov.in/",
+      "publisher": "Puducherry Administration",
+      "language": "en"
+    },
+    {
+      "title": "Madras High Court",
+      "url": "https://www.mhc.tn.gov.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Puducherry jurisdiction sidecar — mixed federal Indian common-law/French civil-law-remnant South Indian Union Territory (Treaty of Cession of the French Establishments in India 1956/1962 + Pondicherry Decree 1948 Renonçants Renvoi à la métropole framework + Decret du 21 septembre 1881 + Government of Union Territories Act 1963 + four enclaves Puducherry-Karaikal-Mahé-Yanam + 1674-1954 French India historical framework + 2006 renaming + Indian non-Hague-1980). Only Indian Union Territory with comprehensive French civil-law remnant framework globally + only Indian Union Territory formed by formal Treaty of Cession from France + only Indian Union Territory with four geographically non-contiguous enclaves + one of three Indian Union Territories with full Legislative Assembly + only modern post-colonial framework preserving colonial-power civil-law application for designated residents.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South-Indian + mixed Indian-common-law/French-civil-law-remnant + Indian-Union-Territory cluster + French-civil-law-remnant-Renonçants-Renvoi-à-la-métropole-globally-distinctive + Treaty-of-Cession-1956-1962-France-India + four-enclave-Comptoirs-framework + Legislative-Assembly-with-Delhi-J&K + 1674-1954-French-India-historical-framework + Government-of-Union-Territories-Act-1963 + Indian-non-Hague-1980-French-Hague-1983-intersection clusters within the corpus."
+  ]
+}

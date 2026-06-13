@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "id": "louisiana",
+  "name": "Louisiana (State of Louisiana / État de Louisiane)",
+  "jurisdiction_code": "US-LA",
+  "legal_system": "civil-law",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Louisiana is a North American civil-law constituent state of the United States — structurally distinctive globally as the only civil-law jurisdiction in the United States (all other 49 states operate common-law systems) and as the only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition (alongside Quebec's French-civil-law and Puerto Rico's Spanish-civil-law/common-law hybrid). Louisiana's civil-law tradition derives from French colonial law (1699-1762, 1800-1803), Spanish colonial law (1762-1800), and the 1808 Digest of the Civil Laws and 1825 Civil Code modelled on the Napoleonic Code 1804. The Louisiana Civil Code (current version 1870 with extensive subsequent amendments and 1987 obligations revision) governs family law, property law, obligations, and successions in distinctively civil-law terms (community property regime instead of common-law marital property; usufruct; forced heirship in succession), distinct from the common-law framework of all 49 other states. Family-law framework operates under Louisiana Civil Code Title V (Parents and Children) Articles 215-245 and Title VIII (Tutorship) Articles 246-303, supplemented by the 1986 Children's Code. Parental authority and child custody operate under Louisiana Civil Code Articles 131-140 (Custody) and 215-245 (Parental Authority) — operating under best-interests-of-the-child standard with civil-law structural framework. The Louisiana Supreme Court is the apex appellate court for civil and criminal matters from Louisiana; final appellate jurisdiction on federal constitutional questions lies with the US Supreme Court. Louisiana is silent on 'parental alienation' as a statutory label, though Louisiana courts have considered the concept substantively in case law including Calogero v Calogero (2003) and recent appellate cases. The United States is a Hague Convention 1980 party (acceded 1 July 1988) — Louisiana Hague applicability via US federal extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Louisiana Civil Code 1870 (as amended)",
+      "title": "Louisiana Civil Code",
+      "year": 1870,
+      "url": "https://www.legis.la.gov/",
+      "relevance": "Louisiana Civil Code governing family law, property law, obligations, and successions in distinctively civil-law terms — modelled on Napoleonic Code 1804."
+    },
+    {
+      "citation": "Louisiana Children's Code 1986",
+      "title": "Louisiana Children's Code",
+      "year": 1986,
+      "url": "https://www.legis.la.gov/",
+      "relevance": "Louisiana Children's Code governing child-protection, juvenile-justice, and child-welfare matters supplementing the Civil Code."
+    },
+    {
+      "citation": "Louisiana Civil Code Articles 131-140 (Custody)",
+      "title": "Louisiana Civil Code Articles 131-140",
+      "year": 1992,
+      "url": "https://www.legis.la.gov/",
+      "relevance": "Louisiana Civil Code articles governing child custody under best-interests-of-the-child standard with civil-law structural framework."
+    },
+    {
+      "citation": "United States Constitution Article VI Supremacy Clause + Hague International Child Abduction Remedies Act (ICARA) 1988",
+      "title": "ICARA + Supremacy Clause",
+      "year": 1988,
+      "url": "https://www.uscourts.gov/",
+      "relevance": "US federal Hague Convention 1980 accession 1 July 1988 + ICARA 1988 — federal Hague Convention applicability binding on Louisiana courts."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Louisiana Supreme Court",
+      "seat": "New Orleans",
+      "url": "https://www.lasc.org/",
+      "role": "Apex appellate court for civil and criminal matters from Louisiana."
+    },
+    {
+      "name": "United States Supreme Court",
+      "seat": "Washington, DC",
+      "url": "https://www.supremecourt.gov/",
+      "role": "Final appellate court for federal constitutional questions from Louisiana."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Louisiana State Board of Examiners of Psychologists (LSBEP)",
+      "url": "https://www.lsbep.org/",
+      "role": "Louisiana state professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Louisiana family-court decisions are generally not anonymised in published opinions per Louisiana court practice — distinct from most civil-law jurisdictions globally.",
+  "key_developments": [
+    {
+      "year": 1699,
+      "title": "French colonisation begins",
+      "description": "French colonisation of Louisiana commenced — beginning of French civil-law tradition in territory."
+    },
+    {
+      "year": 1762,
+      "title": "Treaty of Fontainebleau + Spanish colonial period",
+      "description": "Treaty of Fontainebleau ceded Louisiana from France to Spain — Spanish civil-law tradition supplemented French tradition (1762-1800)."
+    },
+    {
+      "year": 1803,
+      "title": "Louisiana Purchase",
+      "description": "Louisiana Purchase of 30 April 1803 transferred Louisiana from France (which had regained from Spain in 1800) to the United States — establishment of civil-law tradition within US federal framework."
+    },
+    {
+      "year": 1808,
+      "title": "Digest of the Civil Laws",
+      "description": "Digest of the Civil Laws of the Territory of Orleans adopted 31 March 1808 — first codification of Louisiana civil law, drawing on French Napoleonic Code 1804 and Spanish colonial law."
+    },
+    {
+      "year": 1825,
+      "title": "Louisiana Civil Code",
+      "description": "First comprehensive Louisiana Civil Code adopted 1825, modelled on Napoleonic Code 1804."
+    },
+    {
+      "year": 1870,
+      "title": "Current Louisiana Civil Code adopted",
+      "description": "Current Louisiana Civil Code adopted 14 March 1870 — has been extensively amended including 1987 obligations revision."
+    }
+  ],
+  "structural_findings": [
+    "Louisiana operates a civil-law framework — places Louisiana in the unique civil-law-US-state cluster.",
+    "Only civil-law jurisdiction in the United States is structurally distinctive globally — all other 49 states operate common-law systems.",
+    "Only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition (alongside Quebec French-civil-law and Puerto Rico Spanish-civil-law/common-law hybrid) is structurally distinctive within North American cluster.",
+    "Louisiana Civil Code modelled on Napoleonic Code 1804 is structurally distinctive globally — only US state jurisdiction with Napoleonic Code lineage.",
+    "Community property regime, forced heirship in succession, and usufruct are structurally distinctive within US state cluster.",
+    "Louisiana Civil Code Articles 131-140 (Custody) operating under best-interests-of-the-child standard with civil-law structural framework is structurally distinctive globally.",
+    "Federal US Hague Convention 1980 accession 1988 + ICARA federal framework binding on Louisiana civil-law family courts is structurally distinctive — civil-law jurisdiction subject to federally-binding common-law-treaty-implementation framework."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:france",
+    "jurisdiction:spain",
+    "jurisdiction:quebec",
+    "jurisdiction:puerto-rico",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Louisiana Supreme Court",
+      "url": "https://www.lasc.org/",
+      "publisher": "Louisiana Government",
+      "language": "en"
+    },
+    {
+      "title": "Louisiana State Legislature",
+      "url": "https://www.legis.la.gov/",
+      "publisher": "Louisiana Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Louisiana jurisdiction sidecar — civil-law North American US state (Louisiana Civil Code 1870 + Louisiana Children's Code 1986 + Civil Code Articles 131-140 Custody + Federal US Hague Convention 1980 accession 1988 + ICARA federal extension). Only civil-law jurisdiction in the United States globally + only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition alongside Quebec and Puerto Rico + Napoleonic Code lineage + community property/forced heirship/usufruct civil-law structural framework + civil-law-state subject to federally-binding common-law-treaty-implementation framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North American + civil-law + US-constituent-state cluster + only-civil-law-US-state-globally-distinctive + Napoleonic-Code-lineage + community-property-forced-heirship-usufruct + civil-law-state-subject-to-federal-Hague-extension + Louisiana-Purchase-1803-civil-law-preservation clusters within the corpus."
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "democratic-republic-of-the-congo",
+  "name": "Democratic Republic of the Congo (DRC) (République Démocratique du Congo)",
+  "jurisdiction_code": "CD",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Democratic Republic of the Congo is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1987 (Code de la Famille, Law 87-010 of 1 August 1987, as amended by Law 16/008 of 2016) drawing on Belgian civil-law substantive heritage (via colonial inheritance) with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 317-340. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Peace Tribunal (Tribunal de Paix) for matters of competence and the Court of First Instance (Tribunal de Grande Instance) for higher-value matters. Psychology profession is regulated through the Ministry of Health framework with the National Order of Psychologists. DRC is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. DRC is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1987 (Law 87-010, as amended by Law 16/008 of 2016) arts. 317-340",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1987,
+      "url": "https://www.cour-constitutionnelle.cd/",
+      "relevance": "Federal Family Code drawing on Belgian civil-law substantive heritage with codification of customary-law marriage provisions. Substantially amended by Law 16/008 of 2016. Arts. 317-340 govern parental authority and child custody."
+    },
+    {
+      "citation": "Law on Child Protection 2009 (Law 09/001)",
+      "title": "Law on Child Protection",
+      "year": 2009,
+      "url": "https://www.cour-constitutionnelle.cd/",
+      "relevance": "Federal Law on Child Protection aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (Cour de Cassation)",
+      "seat": "Kinshasa",
+      "url": "https://www.courdecassation.cd/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Cour Constitutionnelle)",
+      "seat": "Kinshasa",
+      "url": "https://www.cour-constitutionnelle.cd/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "National Order of Psychologists of the DRC",
+      "url": "https://www.santepublique.cd/",
+      "role": "National Order of Psychologists under Ministry of Health framework."
+    }
+  ],
+  "anonymisation_convention": "DRC family-court decisions are anonymised per Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 1987,
+      "title": "Family Code 1987 (Law 87-010)",
+      "description": "Federal Family Code enacted drawing on Belgian civil-law substantive heritage with codification of customary-law marriage provisions."
+    },
+    {
+      "year": 2009,
+      "title": "Law on Child Protection (Law 09/001)",
+      "description": "Federal Law on Child Protection enacted aligned with UNCRC obligations."
+    },
+    {
+      "year": 2016,
+      "title": "Family Code amendments (Law 16/008)",
+      "description": "Substantive amendments to Family Code provisions."
+    }
+  ],
+  "structural_findings": [
+    "DRC operates a Belgian-civil-law family-law framework with codification of customary-law marriage provisions — places DRC in the Central African Francophone civil-law cluster with structurally distinctive Belgian-derivative substantive heritage (vs French-derivative Central African states).",
+    "Belgian-derivative civil-law tradition is structurally distinctive within Central Africa — DRC shares this pattern with Rwanda and Burundi within the corpus.",
+    "Non-Hague Convention status places DRC in the non-Hague Central African cluster."
+  ],
+  "references": [
+    "jurisdiction:rwanda",
+    "jurisdiction:cameroon",
+    "jurisdiction:belgium",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Court of Cassation",
+      "url": "https://www.courdecassation.cd/",
+      "publisher": "Court of Cassation",
+      "language": "fr"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.cour-constitutionnelle.cd/",
+      "publisher": "Constitutional Court",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "DRC jurisdiction sidecar — civil-law Central African Francophone (Belgian-derivative + Family Code 1987 + 2016 amendments + Law on Child Protection 2009 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central African + Francophone + civil-law + Belgian-derivative + non-Hague Convention clusters within the corpus."
+  ]
+}

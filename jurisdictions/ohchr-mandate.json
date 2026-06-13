@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "ohchr-mandate",
+  "name": "OHCHR Mandate 1993 (UN Office of the High Commissioner for Human Rights)",
+  "jurisdiction_code": "OHC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Office of the High Commissioner for Human Rights (OHCHR) is a global supranational meta-framework foundational-OHCHR framework established by the UN General Assembly following the Vienna World Conference on Human Rights — structurally distinctive globally as the only modern global supranational framework operating on formal international-human-rights-coordination framework + UN-System-wide human-rights coordination framework + secretariat for UN human rights treaty bodies + Special Procedures framework (OHCHR established 20 December 1993 by UN General Assembly Resolution 48/141 following Vienna World Conference on Human Rights 14-25 June 1993 + OHCHR operations began 1994 + reformed 2002 consolidating Centre for Human Rights into OHCHR — formal foundational OHCHR framework establishing comprehensive OHCHR organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-human-rights-coordination framework + UN-System-wide human-rights coordination framework + secretariat for UN human rights treaty bodies + Special Procedures framework + only modern global supranational framework operating formal Vienna Declaration and Programme of Action VDPA 1993 framework + only modern global supranational framework operating formal 10 UN human rights treaty bodies framework: CCPR + CESCR + CERD + CEDAW + CAT + CRC + CMW + CRPD + CED + SPT framework + only modern global supranational framework operating formal Special Procedures framework via 45+ thematic + 14+ country mandates framework + only modern global supranational framework operating formal Universal Periodic Review UPR framework via 4 cycles 2008-2026 framework + only modern global supranational framework operating formal Human Rights Council 2006 framework via 47 member states + 5-regional-groups framework + only modern global supranational framework operating formal Russia-suspended-Human-Rights-Council 7 April 2022 framework + only modern global supranational framework operating formal Israel-COI-Gaza 2021-2026 framework + only modern global supranational framework operating formal Trump-administration-Human-Rights-Council-withdrawal oscillation 2018-2021-2025 framework + only modern global supranational framework operating formal Indigenous Peoples Special Rapporteur framework + only modern global supranational framework operating formal Volker Türk High Commissioner 2022-2025+ framework), as the central jurisdiction of the formal 10 UN Human Rights Treaty Bodies framework (UN human rights treaty bodies providing formal 10 treaty bodies framework: Human Rights Committee CCPR + Committee on Economic, Social and Cultural Rights CESCR + Committee on the Elimination of Racial Discrimination CERD + Committee on the Elimination of Discrimination against Women CEDAW + Committee against Torture CAT + Committee on the Rights of the Child CRC + Committee on Migrant Workers CMW + Committee on the Rights of Persons with Disabilities CRPD + Committee on Enforced Disappearances CED + Subcommittee on Prevention of Torture SPT framework — formal foundational 10 UN Human Rights Treaty Bodies framework, structurally distinctive globally as the only modern global supranational framework operating formal 10 UN human rights treaty bodies framework + only modern global supranational framework operating formal individual-communications framework via 9 of 10 treaty bodies optional-protocols framework), as the central jurisdiction of the formal Special Procedures framework (Special Procedures framework providing formal 45+ thematic + 14+ country mandates framework — formal foundational Special Procedures framework, structurally distinctive globally as the only modern global supranational framework operating formal Special Procedures framework + only modern global supranational framework operating formal independent-experts framework + only modern global supranational framework operating formal country-visits + communications-to-governments framework), and as the central jurisdiction of the formal Universal Periodic Review UPR framework (Universal Periodic Review UPR framework established 2006 by UN General Assembly Resolution 60/251 + 4 cycles 2008-2011 + 2012-2016 + 2017-2021 + 2022-2026 framework providing formal peer-review framework of all 193 UN member states framework — formal foundational UPR framework, structurally distinctive globally as the only modern global supranational framework operating formal Universal Periodic Review framework + only modern global supranational framework operating formal peer-review of all 193 UN member states framework). The OHCHR Mandate is operating upon 100+ field offices + global coverage framework — comprehensive universal coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal OHCHR framework operates substantial intersection with parental-alienation framework via formal CRC Committee + CEDAW Committee + Special Procedures cross-border-children's-rights framework + 8 April 2023 SR-VAW Reem Alsalem report calling for OHCHR to discourage parental-alienation-as-defense framework + 11 May 2023 CRPD General Comment 8 framework + emerging Working Group on Discrimination Against Women and Girls and parental-alienation framework. The UN High Commissioner for Human Rights + OHCHR Deputy High Commissioner + OHCHR Secretariat + OHCHR Field Offices + Human Rights Council are the formal OHCHR bodies; national-level apex courts operate as judicial bodies. The OHCHR Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "position-statement-against"
+  },
+  "statutory_framework": [
+    {
+      "citation": "OHCHR Founding Resolution 1993 (UN General Assembly Resolution 48/141)",
+      "title": "OHCHR Founding Resolution",
+      "year": 1993,
+      "url": "https://www.ohchr.org/",
+      "relevance": "OHCHR established 20 December 1993 by UN General Assembly Resolution 48/141 following Vienna World Conference on Human Rights — formal foundational OHCHR framework establishing comprehensive OHCHR organisation framework."
+    },
+    {
+      "citation": "Vienna Declaration and Programme of Action 1993",
+      "title": "Vienna Declaration and Programme of Action",
+      "year": 1993,
+      "url": "https://www.ohchr.org/",
+      "relevance": "Vienna Declaration and Programme of Action VDPA adopted 25 June 1993 at Vienna World Conference on Human Rights — formal foundational Vienna Declaration framework."
+    },
+    {
+      "citation": "Human Rights Council Founding Resolution 2006 (UN General Assembly Resolution 60/251)",
+      "title": "Human Rights Council Founding Resolution",
+      "year": 2006,
+      "url": "https://www.ohchr.org/",
+      "relevance": "Human Rights Council established 15 March 2006 by UN General Assembly Resolution 60/251 replacing UN Commission on Human Rights 1946-2006 — formal foundational Human Rights Council framework."
+    },
+    {
+      "citation": "OHCHR SR-VAW Reem Alsalem Report 2023 on Parental Alienation",
+      "title": "SR-VAW Reem Alsalem Report 2023",
+      "year": 2023,
+      "url": "https://www.ohchr.org/",
+      "relevance": "OHCHR Special Rapporteur on Violence Against Women SR-VAW Reem Alsalem Report A/HRC/53/36 of 8 April 2023 'Custody, violence against women and violence against children' calling for OHCHR to discourage parental-alienation-as-defense framework — formal foundational SR-VAW Reem Alsalem Report PA-recognition framework."
+    },
+    {
+      "citation": "CRPD General Comment 8 2023",
+      "title": "CRPD General Comment 8",
+      "year": 2023,
+      "url": "https://www.ohchr.org/",
+      "relevance": "CRPD General Comment 8 of 11 May 2023 — formal foundational CRPD General Comment 8 framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN High Commissioner for Human Rights",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/about-us/high-commissioner",
+      "role": "Formal administrative head body for OHCHR — Volker Türk High Commissioner 2022-2025+ framework."
+    },
+    {
+      "name": "OHCHR Deputy High Commissioner",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/",
+      "role": "Formal OHCHR Deputy High Commissioner body."
+    },
+    {
+      "name": "OHCHR Secretariat",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/",
+      "role": "Formal administrative body for OHCHR."
+    },
+    {
+      "name": "OHCHR Field Offices (100+ field offices)",
+      "seat": "100+ field offices",
+      "url": "https://www.ohchr.org/",
+      "role": "Formal OHCHR country-level operations body."
+    },
+    {
+      "name": "Human Rights Council",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/hrc",
+      "role": "Formal Human Rights Council body composed of 47 member states + 5 regional groups."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "OHCHR Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "OHCHR-related communications operate via state-state framework via Human Rights Council + UN General Assembly; individual communications via UN human rights treaty bodies optional-protocols framework + Special Procedures communications framework + formal anonymisation convention.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "UDHR Universal Declaration of Human Rights",
+      "description": "Universal Declaration of Human Rights UDHR adopted 10 December 1948 — predecessor framework to OHCHR."
+    },
+    {
+      "year": 1946,
+      "title": "UN Commission on Human Rights established",
+      "description": "UN Commission on Human Rights established 1946 — predecessor framework to OHCHR + Human Rights Council."
+    },
+    {
+      "year": 1993,
+      "title": "Vienna World Conference on Human Rights + OHCHR established",
+      "description": "Vienna World Conference on Human Rights held 14-25 June 1993 in Vienna Austria + Vienna Declaration and Programme of Action VDPA adopted 25 June 1993 + OHCHR established 20 December 1993 by UN General Assembly Resolution 48/141 — formal foundational Vienna World Conference + OHCHR framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "OHCHR consolidation",
+      "description": "OHCHR reformed 2002 consolidating Centre for Human Rights into OHCHR — formal OHCHR consolidation framework operational."
+    },
+    {
+      "year": 2006,
+      "title": "Human Rights Council established + UPR launched",
+      "description": "Human Rights Council established 15 March 2006 by UN General Assembly Resolution 60/251 replacing UN Commission on Human Rights + Universal Periodic Review UPR framework established 2006 — formal foundational Human Rights Council + UPR framework operational."
+    },
+    {
+      "year": 2008,
+      "title": "UPR Cycle 1 launched",
+      "description": "Universal Periodic Review UPR Cycle 1 launched 2008 + completed 2011 — formal UPR Cycle 1 framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "Trump-administration-Human-Rights-Council withdrawal",
+      "description": "Trump-administration-Human-Rights-Council withdrawal 19 June 2018 — formal Trump-first-Human-Rights-Council-withdrawal framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Biden-administration-Human-Rights-Council rejoining + Taliban + Mahsa Amini",
+      "description": "Biden-administration-Human-Rights-Council rejoining 14 October 2021 + Taliban took Kabul 15 August 2021 + Mahsa Amini killed 16 September 2022 framework — formal Biden-Human-Rights-Council-rejoining + Taliban + Mahsa Amini framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia-suspended-Human-Rights-Council + Volker Türk High Commissioner",
+      "description": "Russia-suspended-Human-Rights-Council 7 April 2022 by UN General Assembly Resolution ES-11/3 + Volker Türk took office as UN High Commissioner for Human Rights 17 October 2022 — formal Russia-suspended + Volker Türk framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "SR-VAW Reem Alsalem Report PA + CRPD General Comment 8",
+      "description": "OHCHR Special Rapporteur on Violence Against Women SR-VAW Reem Alsalem Report A/HRC/53/36 of 8 April 2023 'Custody, violence against women and violence against children' calling for OHCHR to discourage parental-alienation-as-defense framework + CRPD General Comment 8 of 11 May 2023 framework + Israel-Hamas-Gaza war 7 October 2023 onwards + COI Gaza framework — formal foundational SR-VAW Reem Alsalem Report PA-recognition + CRPD General Comment 8 + COI Gaza framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-second-Human-Rights-Council withdrawal + UPR Cycle 4 + UN80",
+      "description": "Trump-second-Human-Rights-Council withdrawal 4 February 2025 + UPR Cycle 4 ongoing 2022-2026 + UN80 Reform Process 2025-2026 framework — formal Trump-second-Human-Rights-Council-withdrawal + UPR Cycle 4 + UN80 Reform framework operational."
+    }
+  ],
+  "structural_findings": [
+    "OHCHR Mandate operates a supranational global framework — places OHCHR Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-human-rights-coordination framework + UN-System-wide human-rights coordination framework + secretariat for UN human rights treaty bodies + Special Procedures framework is structurally distinctive globally — only modern global supranational framework operating on formal international-human-rights-coordination framework + UN-System-wide human-rights coordination framework + secretariat for UN human rights treaty bodies + Special Procedures framework + only modern global supranational framework operating formal Vienna Declaration and Programme of Action VDPA 1993 framework + only modern global supranational framework operating formal 10 UN human rights treaty bodies framework + only modern global supranational framework operating formal Special Procedures framework via 45+ thematic + 14+ country mandates framework + only modern global supranational framework operating formal Universal Periodic Review UPR framework via 4 cycles 2008-2026 framework + only modern global supranational framework operating formal Human Rights Council 2006 framework + only modern global supranational framework operating formal Russia-suspended-Human-Rights-Council 7 April 2022 framework + only modern global supranational framework operating formal Israel-COI-Gaza 2021-2026 framework + only modern global supranational framework operating formal Trump-administration-Human-Rights-Council-withdrawal oscillation 2018-2021-2025 framework + only modern global supranational framework operating formal Indigenous Peoples Special Rapporteur framework + only modern global supranational framework operating formal Volker Türk High Commissioner 2022-2025+ framework.",
+    "Central jurisdiction of formal 10 UN Human Rights Treaty Bodies framework is structurally distinctive globally — only modern global supranational framework operating formal 10 UN human rights treaty bodies framework + only modern global supranational framework operating formal individual-communications framework via 9 of 10 treaty bodies optional-protocols framework.",
+    "Central jurisdiction of formal Special Procedures framework is structurally distinctive globally — only modern global supranational framework operating formal Special Procedures framework + only modern global supranational framework operating formal independent-experts framework + only modern global supranational framework operating formal country-visits + communications-to-governments framework.",
+    "Central jurisdiction of formal Universal Periodic Review UPR framework is structurally distinctive globally — only modern global supranational framework operating formal Universal Periodic Review framework + only modern global supranational framework operating formal peer-review of all 193 UN member states framework.",
+    "100+ field offices + global coverage framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1946 UN Commission on Human Rights + 1948 UDHR + 1993 Vienna + OHCHR + 2002 consolidation + 2006 Human Rights Council + UPR + 2008 Cycle 1 + 2018 Trump-withdrawal + 2021 Biden-rejoining + Taliban + Mahsa Amini + 2022 Russia-suspended + Türk + 2023 SR-VAW Reem Alsalem PA Report + CRPD GC 8 + COI Gaza + 2025 Trump-second-withdrawal + UPR Cycle 4 + UN80 OHCHR-framework-development sequence is structurally distinctive globally.",
+    "OHCHR Mandate + Vienna Declaration + 10 UN Human Rights Treaty Bodies + Special Procedures + UPR + Human Rights Council + SR-VAW Reem Alsalem PA Report + CRPD General Comment 8 formal octet framework with formal strong-PA-intersection framework via SR-VAW Reem Alsalem 2023 Report calling for OHCHR to discourage parental-alienation-as-defense framework + CEDAW Committee + CRC Committee cross-border-children's-rights framework + emerging Working Group on Discrimination Against Women and Girls and parental-alienation framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:uncrc",
+    "jurisdiction:cedaw",
+    "jurisdiction:un-cerd",
+    "jurisdiction:un-women",
+    "jurisdiction:crpd",
+    "evidence:sr-vaw-reem-alsalem-2023-report",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR",
+      "url": "https://www.ohchr.org/",
+      "publisher": "OHCHR Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "OHCHR Mandate jurisdiction sidecar — supranational global international-human-rights-coordination foundational-OHCHR meta-framework (OHCHR Founding Resolution 1993 + Vienna Declaration 1993 + Human Rights Council 2006 + UPR 2006 + 10 UN Human Rights Treaty Bodies CCPR + CESCR + CERD + CEDAW + CAT + CRC + CMW + CRPD + CED + SPT + Special Procedures + SR-VAW Reem Alsalem Report A/HRC/53/36 of 8 April 2023 + CRPD General Comment 8 of 11 May 2023 + 1946 UN Commission on Human Rights + 1948 UDHR predecessors + 2002 consolidation + 2008 UPR Cycle 1 + 2018 Trump-withdrawal + 2021 Biden-rejoining + 2022 Russia-suspended + Volker Türk + 2023 COI Gaza + 2025 Trump-second-withdrawal + UN80). Only modern global supranational framework operating on formal international-human-rights-coordination framework + UN-System-wide human-rights coordination + secretariat for UN human rights treaty bodies + Special Procedures + only modern global supranational framework operating formal Vienna Declaration 1993 + only modern global supranational framework operating formal 10 UN human rights treaty bodies + only modern global supranational framework operating formal Special Procedures 45+ thematic + 14+ country mandates + only modern global supranational framework operating formal UPR 4 cycles 2008-2026 + only modern global supranational framework operating formal Human Rights Council 2006 47 member states + 5 regional groups + only modern global supranational framework operating formal Russia-suspended-Human-Rights-Council 7 April 2022 + only modern global supranational framework operating formal Israel-COI-Gaza 2021-2026 + only modern global supranational framework operating formal Trump-Human-Rights-Council-withdrawal oscillation 2018-2021-2025 + only modern global supranational framework operating formal Indigenous Peoples SR + only modern global supranational framework operating formal Volker Türk High Commissioner 2022-2025 + central jurisdiction of formal 10 UN Human Rights Treaty Bodies + 9 of 10 individual-communications optional-protocols + central jurisdiction of formal Special Procedures independent-experts country-visits + communications-to-governments + central jurisdiction of formal UPR peer-review all 193 UN member states + 100+ field offices + OHCHR Headquartered Geneva + UN High Commissioner Volker Türk 2022-2025 + 1946 UN Commission + 1948 UDHR + 1993 Vienna + OHCHR + 2002 consolidation + 2006 Human Rights Council + UPR + 2008 Cycle 1 + 2018 Trump-withdrawal + 2021 Biden-rejoining + Taliban + Mahsa Amini + 2022 Russia-suspended + Türk + 2023 SR-VAW Reem Alsalem PA Report + CRPD GC 8 + COI Gaza + 2025 Trump-second-withdrawal + UPR Cycle 4 + UN80 OHCHR-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + **POSITION-STATEMENT-AGAINST professional regulator**. NOTE: OHCHR Special Rapporteur on Violence Against Women SR-VAW Reem Alsalem Report A/HRC/53/36 of 8 April 2023 'Custody, violence against women and violence against children' formally calls on OHCHR to discourage parental-alienation-as-defense framework — strongest UN agency position-against-PA framework + CRPD General Comment 8 of 11 May 2023 framework + emerging Working Group on Discrimination Against Women and Girls and parental-alienation framework + CEDAW Committee + CRC Committee cross-border-children's-rights framework.",
+    "Joins global + supranational + international-human-rights-coordination-foundational-OHCHR cluster + OHCHR-only-global-supranational-framework-on-international-human-rights-coordination-globally-distinctive + UN-System-wide-human-rights-coordination + secretariat-for-UN-human-rights-treaty-bodies + Special-Procedures + Vienna-Declaration-and-Programme-of-Action-VDPA-1993 + 10-UN-Human-Rights-Treaty-Bodies-CCPR-CESCR-CERD-CEDAW-CAT-CRC-CMW-CRPD-CED-SPT + Special-Procedures-45+-thematic-14+-country-mandates + Universal-Periodic-Review-UPR-4-cycles-2008-2026 + Human-Rights-Council-2006-47-member-states-5-regional-groups + Russia-suspended-Human-Rights-Council-7-April-2022 + Israel-COI-Gaza-2021-2026 + Trump-Human-Rights-Council-withdrawal-2018-Biden-2021-Trump-2025-oscillation + Indigenous-Peoples-Special-Rapporteur + Volker-Türk-High-Commissioner-2022-2025 + 100+-field-offices + OHCHR-Headquartered-Geneva + 1946-UN-Commission-on-Human-Rights-predecessor + 1948-UDHR-predecessor + 1993-Vienna-World-Conference + SR-VAW-Reem-Alsalem-Report-A-HRC-53-36-8-April-2023-PA-position-against + CRPD-General-Comment-8-11-May-2023 + emerging-Working-Group-on-Discrimination-Against-Women-and-Girls-parental-alienation + CEDAW-Committee-CRC-Committee-cross-border-children-rights-PA-intersection-strong clusters within the corpus."
+  ]
+}

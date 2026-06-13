@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0",
+  "id": "guernsey",
+  "name": "Guernsey (Bailiwick of Guernsey / Bailliage de Guernesey)",
+  "jurisdiction_code": "GG",
+  "legal_system": "mixed",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Guernsey is a Western European mixed-legal-system Crown Dependency Bailiwick (comprising Guernsey, Alderney, Sark, Herm and other smaller islands) — structurally distinctive globally as combining Norman customary-law substantive heritage (via 1204 retention by King John) with English common-law procedural inheritance. Guernsey law retains substantial Norman customary-law foundations. Family-law framework operates under the Children (Guernsey and Alderney) Law 2008, the Matrimonial Causes Law 1939, and customary-law inheritance via the Royal Court of Guernsey. Sark and Alderney operate distinct local-law frameworks within the Bailiwick. Parental responsibility and child custody are governed by Children Law 2008 Part II. The Court of Appeal of Guernsey is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Royal Court of Guernsey (Family Division). Psychology profession is regulated through the States of Guernsey Committee for Health and Social Care framework. Guernsey is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Guernsey is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children (Guernsey and Alderney) Law 2008",
+      "title": "Children (Guernsey and Alderney) Law",
+      "year": 2008,
+      "url": "https://www.guernseylegalresources.gg/",
+      "relevance": "Federal Children Law codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions in Guernsey and Alderney."
+    },
+    {
+      "citation": "Matrimonial Causes Law 1939",
+      "title": "Matrimonial Causes Law",
+      "year": 1939,
+      "url": "https://www.guernseylegalresources.gg/",
+      "relevance": "Federal matrimonial-causes statute."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Guernsey",
+      "seat": "Saint Peter Port",
+      "url": "https://www.guernseyroyalcourt.gg/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Guernsey."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "States of Guernsey Committee for Health and Social Care",
+      "url": "https://www.gov.gg/healthandsocialcare/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Guernsey family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1204,
+      "title": "Retention by King John + Norman customary-law foundation",
+      "description": "Guernsey retained by King John of England when Normandy lost to France in 1204 — Norman customary-law substantive heritage retained alongside English common-law procedural inheritance."
+    },
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Guernsey effective 1 August 1986."
+    },
+    {
+      "year": 2008,
+      "title": "Children (Guernsey and Alderney) Law 2008",
+      "description": "Federal Children Law enacted in Guernsey and Alderney."
+    }
+  ],
+  "structural_findings": [
+    "Guernsey operates a structurally distinctive mixed-legal-system Bailiwick framework — Norman customary-law substantive heritage (via 1204 retention by King John) + English common-law procedural inheritance. Within the Crown Dependency Bailiwick cluster (shared with Jersey).",
+    "Multi-island Bailiwick structure (Guernsey + Alderney + Sark + Herm) with distinct local-law frameworks in Alderney and Sark is structurally distinctive globally — most internally-pluralistic Crown Dependency framework.",
+    "Sark's Chief Pleas (legislature) is one of the oldest legislative bodies operating to present day.",
+    "Crown Dependency Bailiwick status (not part of UK) is structurally distinctive.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:jersey",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:isle-of-man",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Guernsey Royal Court",
+      "url": "https://www.guernseyroyalcourt.gg/",
+      "publisher": "Royal Court",
+      "language": "en,fr"
+    },
+    {
+      "title": "Guernsey Legal Resources",
+      "url": "https://www.guernseylegalresources.gg/",
+      "publisher": "Government of Guernsey",
+      "language": "en,fr"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Guernsey jurisdiction sidecar — mixed-legal-system Western European Crown Dependency Bailiwick (Norman customary-law substantive + English common-law procedural + Children Law 2008 + Sark/Alderney internal local-law + JCPC + Hague via UK territorial extension 1986). Most internally-pluralistic Crown Dependency.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western European + mixed-legal-system + Crown Dependency Bailiwick cluster + Norman-customary-law-substantive + multi-island-internal-pluralism + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "bangladesh",
+  "name": "Bangladesh (গণপ্রজাতন্ত্রী বাংলাদেশ)",
+  "jurisdiction_code": "BD",
+  "legal_system": "mixed",
+  "language": ["bn", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Bangladesh is a South Asian mixed-legal-system unitary republic combining English common-law procedural inheritance with religious-community personal laws (Muslim, Hindu, Christian, Buddhist). Family law for Muslims operates under the Guardians and Wards Act 1890 (federal), the Muslim Family Laws Ordinance 1961, and the Family Courts Ordinance 1985 — heard by Family Courts. Custody (hizanat) is governed by GWA s. 7 and Hanafi jurisprudence. The Supreme Court of Bangladesh (Bangladesh Supreme Court) operates the Appellate Division and the High Court Division as the apex jurisdictions. Psychology profession regulation is administered through the Bangladesh Medical and Dental Council framework with the Bangladesh Clinical Psychology Society operating professional standards. Bangladesh is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-minor standard. Bangladesh is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Guardians and Wards Act 1890 (Act VIII/1890) s. 7",
+      "title": "GWA — Welfare of the minor",
+      "year": 1890,
+      "url": "http://bdlaws.minlaw.gov.bd/",
+      "relevance": "Federal statute originally enacted under British India, retained as Bangladesh federal statute. S. 7 establishes welfare of the minor as paramount in custody determinations."
+    },
+    {
+      "citation": "Muslim Family Laws Ordinance 1961",
+      "title": "Muslim Family Laws Ordinance",
+      "year": 1961,
+      "url": "http://bdlaws.minlaw.gov.bd/",
+      "relevance": "Federal ordinance reforming Muslim personal-status law including marriage, divorce, and inheritance."
+    },
+    {
+      "citation": "Family Courts Ordinance 1985",
+      "title": "Family Courts Ordinance",
+      "year": 1985,
+      "url": "http://bdlaws.minlaw.gov.bd/",
+      "relevance": "Federal ordinance establishing specialised Family Courts with jurisdiction over family-law matters."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Bangladesh Supreme Court — Appellate Division",
+      "seat": "Dhaka",
+      "url": "https://www.supremecourt.gov.bd/",
+      "role": "Apex appellate division for civil and criminal matters."
+    },
+    {
+      "name": "Bangladesh Supreme Court — High Court Division",
+      "seat": "Dhaka",
+      "url": "https://www.supremecourt.gov.bd/",
+      "role": "High Court Division with original and appellate jurisdiction across civil and constitutional matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Bangladesh Clinical Psychology Society (BCPS)",
+      "url": "https://bcps.com.bd/",
+      "role": "Peak professional society for clinical psychologists in Bangladesh."
+    }
+  ],
+  "anonymisation_convention": "Bangladeshi family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1890,
+      "title": "Guardians and Wards Act",
+      "description": "Federal custody/guardianship statute originally enacted under British India."
+    },
+    {
+      "year": 1961,
+      "title": "Muslim Family Laws Ordinance",
+      "description": "Federal Muslim personal-status reform statute."
+    },
+    {
+      "year": 1985,
+      "title": "Family Courts Ordinance",
+      "description": "Specialised Family Courts established."
+    }
+  ],
+  "structural_findings": [
+    "Bangladesh operates a mixed-legal-system framework — English common-law procedural inheritance + religious-community personal laws + Hanafi jurisprudence for Muslim hizanat. Within the corpus's mixed-jurisdiction cluster.",
+    "Structurally adjacent to Pakistan and India in the South Asian post-partition cluster — shared British-Indian statutory inheritance (GWA 1890) + religious-community personal-law frameworks.",
+    "Non-Hague Convention status places Bangladesh in the non-Hague Asian cluster.",
+    "Psychology profession regulation operates through BCPS peak-body ethics without unified federal-statutory psychology regulator."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:pakistan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Bangladesh Supreme Court",
+      "url": "https://www.supremecourt.gov.bd/",
+      "publisher": "Supreme Court",
+      "language": "bn,en"
+    },
+    {
+      "title": "Laws of Bangladesh Portal",
+      "url": "http://bdlaws.minlaw.gov.bd/",
+      "publisher": "Ministry of Law, Justice and Parliamentary Affairs",
+      "language": "bn,en"
+    }
+  ],
+  "editorial_notes": [
+    "Bangladesh jurisdiction sidecar — mixed-legal-system framework (English common-law procedural + religious-community personal laws + Hanafi Muslim hizanat). GWA 1890 + MFLO 1961 + Family Courts Ordinance 1985 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Asian + mixed-jurisdiction + non-Hague Convention clusters within the corpus."
+  ]
+}

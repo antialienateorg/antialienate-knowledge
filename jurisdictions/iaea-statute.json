@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "iaea-statute",
+  "name": "IAEA Statute 1957 (International Atomic Energy Agency)",
+  "jurisdiction_code": "IAE",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Statute of the International Atomic Energy Agency (IAEA Statute) is a global supranational meta-framework foundational-IAEA-treaty framework adopted by the 81 founding states in New York — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal nuclear-energy-and-non-proliferation framework + foundational atoms-for-peace framework (IAEA Statute adopted 23 October 1956 in New York USA + effective 29 July 1957 + IAEA operations began 29 July 1957 — formal foundational IAEA treaty framework establishing comprehensive IAEA organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal nuclear-energy-and-non-proliferation framework + foundational atoms-for-peace framework + only modern global supranational binding-treaty framework operating formal Eisenhower 1953-Atoms-for-Peace-Speech precursor framework + only modern global supranational binding-treaty framework operating formal IAEA Safeguards framework via INFCIRC/153 + INFCIRC/540 Additional Protocol framework + only modern global supranational binding-treaty framework operating formal IAEA Nobel Peace Prize 2005 framework + only modern global supranational binding-treaty framework operating formal Iran nuclear-deal JCPOA + Iran-nuclear-monitoring 2015-2020-2024 framework + only modern global supranational binding-treaty framework operating formal Ukraine Zaporizhzhia Nuclear Plant 2022-2026 framework via Russia-occupation-since-March-2022 framework + only modern global supranational binding-treaty framework operating formal North Korea NPT-withdrawal 2003 + IAEA-non-cooperation framework), as the central jurisdiction of the formal IAEA Safeguards framework (IAEA Safeguards framework providing formal INFCIRC/153 Comprehensive Safeguards Agreement + INFCIRC/540 Additional Protocol + Small Quantities Protocol framework — formal foundational IAEA Safeguards framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal nuclear-safeguards-verification framework), as the central jurisdiction of the formal NPT Treaty on the Non-Proliferation of Nuclear Weapons framework (Treaty on the Non-Proliferation of Nuclear Weapons NPT adopted 1 July 1968 in London + Moscow + Washington DC + effective 5 March 1970 providing formal nuclear-non-proliferation framework with formal 5 nuclear-weapon-states US + Russia + UK + France + China framework — formal foundational NPT framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal nuclear-non-proliferation framework with 191 NPT member states framework + India + Pakistan + Israel + South Sudan non-NPT-states framework + North Korea withdrew 10 January 2003 framework), and as the central jurisdiction of the formal Iran JCPOA + Iran-nuclear-monitoring 2015-2024 framework (Joint Comprehensive Plan of Action JCPOA Iran nuclear deal signed 14 July 2015 in Vienna Austria + US withdrew 8 May 2018 + JCPOA-snapback-mechanism-triggered-by-UK-France-Germany-2025 framework — formal foundational IAEA Iran-nuclear-monitoring framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Iran-nuclear-monitoring-JCPOA-snapback framework). The IAEA Statute is binding upon 178 IAEA member states as of 2026 — substantial universal coverage framework with notable non-members North Korea-withdrew-1994-rejoined-not-since + Andorra + Cape Verde + Eritrea + Guinea-Bissau + Equatorial Guinea + Solomon Islands + Maldives framework. The Statute is silent on 'parental alienation' as a statutory label, though formal IAEA framework operates limited intersection with parental-alienation framework via formal IAEA-nuclear-non-proliferation framework not directly addressing family-law-issues framework. The IAEA General Conference + IAEA Board of Governors + IAEA Director General + IAEA Secretariat are the formal IAEA bodies; national-level apex courts operate as judicial bodies. The IAEA Statute is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "IAEA Statute 1956",
+      "title": "IAEA Statute",
+      "year": 1957,
+      "url": "https://www.iaea.org/",
+      "relevance": "Statute of the International Atomic Energy Agency adopted 23 October 1956 in New York USA + effective 29 July 1957 — formal foundational IAEA treaty framework establishing comprehensive IAEA organisation framework."
+    },
+    {
+      "citation": "Treaty on Non-Proliferation of Nuclear Weapons NPT 1968",
+      "title": "NPT",
+      "year": 1970,
+      "url": "https://www.iaea.org/",
+      "relevance": "Treaty on the Non-Proliferation of Nuclear Weapons NPT adopted 1 July 1968 in London + Moscow + Washington DC + effective 5 March 1970 — formal foundational NPT nuclear-non-proliferation framework."
+    },
+    {
+      "citation": "IAEA INFCIRC/153 Comprehensive Safeguards Agreement 1972",
+      "title": "INFCIRC/153",
+      "year": 1972,
+      "url": "https://www.iaea.org/",
+      "relevance": "IAEA INFCIRC/153 Comprehensive Safeguards Agreement adopted 1972 — formal foundational IAEA Comprehensive Safeguards Agreement framework."
+    },
+    {
+      "citation": "IAEA INFCIRC/540 Model Additional Protocol 1997",
+      "title": "INFCIRC/540 Additional Protocol",
+      "year": 1997,
+      "url": "https://www.iaea.org/",
+      "relevance": "IAEA INFCIRC/540 Model Additional Protocol adopted 15 May 1997 — formal foundational IAEA Additional Protocol framework strengthening safeguards-verification framework."
+    },
+    {
+      "citation": "JCPOA Iran Nuclear Deal 2015",
+      "title": "JCPOA",
+      "year": 2015,
+      "url": "https://www.iaea.org/",
+      "relevance": "Joint Comprehensive Plan of Action JCPOA Iran nuclear deal signed 14 July 2015 in Vienna Austria + US withdrew 8 May 2018 + UN Security Council Resolution 2231 — formal foundational IAEA Iran-nuclear-monitoring framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "IAEA General Conference",
+      "seat": "Vienna",
+      "url": "https://www.iaea.org/about/governance/general-conference",
+      "role": "Formal supreme decision-making body for IAEA."
+    },
+    {
+      "name": "IAEA Board of Governors",
+      "seat": "Vienna",
+      "url": "https://www.iaea.org/about/governance/board-of-governors",
+      "role": "Formal executive body for IAEA."
+    },
+    {
+      "name": "IAEA Director General",
+      "seat": "Vienna",
+      "url": "https://www.iaea.org/about/governance/director-general",
+      "role": "Formal administrative head body for IAEA."
+    },
+    {
+      "name": "IAEA Secretariat",
+      "seat": "Vienna",
+      "url": "https://www.iaea.org/",
+      "role": "Formal administrative body for IAEA."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "IAEA Secretariat",
+      "url": "https://www.iaea.org/",
+      "role": "IAEA Statute implementation framework."
+    }
+  ],
+  "anonymisation_convention": "IAEA-related communications operate via state-state framework via IAEA General Conference + Board of Governors; individual communications not formally accepted under IAEA framework.",
+  "key_developments": [
+    {
+      "year": 1953,
+      "title": "Eisenhower Atoms for Peace Speech",
+      "description": "US President Dwight D. Eisenhower Atoms for Peace Speech delivered 8 December 1953 at UN General Assembly — predecessor framework to IAEA."
+    },
+    {
+      "year": 1957,
+      "title": "IAEA Statute enters force",
+      "description": "IAEA Statute entered force 29 July 1957 — formal foundational IAEA treaty framework operational."
+    },
+    {
+      "year": 1968,
+      "title": "NPT adopted",
+      "description": "Treaty on the Non-Proliferation of Nuclear Weapons NPT adopted 1 July 1968 in London + Moscow + Washington DC — formal foundational NPT framework adopted."
+    },
+    {
+      "year": 1970,
+      "title": "NPT enters force",
+      "description": "NPT entered force 5 March 1970 — formal foundational NPT framework operational."
+    },
+    {
+      "year": 1986,
+      "title": "Chernobyl Disaster + IAEA Conventions on Notification + Assistance",
+      "description": "Chernobyl Disaster 26 April 1986 + IAEA Convention on Early Notification of a Nuclear Accident + IAEA Convention on Assistance in the Case of a Nuclear Accident or Radiological Emergency adopted 26 September 1986 in Vienna Austria + effective 27 October 1986 + 26 February 1987 — formal foundational IAEA nuclear-accident-response framework operational."
+    },
+    {
+      "year": 1995,
+      "title": "NPT indefinite extension",
+      "description": "NPT indefinite extension adopted 11 May 1995 at NPT Review and Extension Conference — formal NPT indefinite extension framework operational."
+    },
+    {
+      "year": 2003,
+      "title": "North Korea NPT withdrawal",
+      "description": "North Korea NPT withdrawal effective 10 January 2003 — formal North Korea NPT withdrawal framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "IAEA Nobel Peace Prize",
+      "description": "IAEA + IAEA Director General Mohamed ElBaradei jointly awarded Nobel Peace Prize 7 October 2005 — formal IAEA Nobel Peace Prize framework operational."
+    },
+    {
+      "year": 2011,
+      "title": "Fukushima Daiichi Nuclear Disaster",
+      "description": "Fukushima Daiichi Nuclear Disaster 11 March 2011 + IAEA involvement in Fukushima nuclear accident framework — formal IAEA nuclear-accident-response framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "JCPOA Iran Nuclear Deal signed",
+      "description": "JCPOA Iran Nuclear Deal signed 14 July 2015 in Vienna Austria — formal foundational IAEA Iran-nuclear-monitoring framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "US withdraws from JCPOA",
+      "description": "US withdrew from JCPOA 8 May 2018 under Trump administration — formal JCPOA-US-withdrawal framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia invades Ukraine + Zaporizhzhia Nuclear Plant occupation",
+      "description": "Russia invaded Ukraine 24 February 2022 + Russian forces occupied Zaporizhzhia Nuclear Plant 4 March 2022 + IAEA Support and Assistance Mission to Zaporizhzhia ISAMZ established 1 September 2022 — formal foundational IAEA Ukraine-Zaporizhzhia framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "JCPOA snapback triggered by UK + France + Germany",
+      "description": "UK + France + Germany triggered JCPOA snapback mechanism 28 August 2025 + UN Security Council snapback sanctions effective 27 September 2025 — formal JCPOA-snapback framework operational."
+    }
+  ],
+  "structural_findings": [
+    "IAEA Statute operates a supranational global binding-treaty framework — places IAEA Statute in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal nuclear-energy-and-non-proliferation framework + foundational atoms-for-peace framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal nuclear-energy-and-non-proliferation framework + foundational atoms-for-peace framework + only modern global supranational binding-treaty framework operating formal Eisenhower 1953-Atoms-for-Peace-Speech precursor framework + only modern global supranational binding-treaty framework operating formal IAEA Safeguards framework via INFCIRC/153 + INFCIRC/540 Additional Protocol framework + only modern global supranational binding-treaty framework operating formal IAEA Nobel Peace Prize 2005 framework + only modern global supranational binding-treaty framework operating formal Iran nuclear-deal JCPOA + Iran-nuclear-monitoring 2015-2020-2024 framework + only modern global supranational binding-treaty framework operating formal Ukraine Zaporizhzhia Nuclear Plant 2022-2026 framework + only modern global supranational binding-treaty framework operating formal North Korea NPT-withdrawal 2003 + IAEA-non-cooperation framework.",
+    "Central jurisdiction of formal IAEA Safeguards framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal nuclear-safeguards-verification framework.",
+    "Central jurisdiction of formal NPT framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal nuclear-non-proliferation framework + 191 NPT member states + India + Pakistan + Israel + South Sudan non-NPT-states + North Korea withdrew 2003.",
+    "Central jurisdiction of formal Iran JCPOA + Iran-nuclear-monitoring 2015-2024 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Iran-nuclear-monitoring-JCPOA-snapback framework.",
+    "178 IAEA member state ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1953 Eisenhower Atoms for Peace + 1957 IAEA + 1968 NPT + 1970 entry into force + 1986 Chernobyl + 1995 NPT indefinite extension + 2003 North Korea NPT withdrawal + 2005 Nobel Peace Prize + 2011 Fukushima + 2015 JCPOA + 2018 US withdraws + 2022 Zaporizhzhia + 2025 JCPOA snapback IAEA-framework-development sequence is structurally distinctive globally.",
+    "IAEA Statute + NPT + INFCIRC/153 + INFCIRC/540 + Convention on Early Notification + Convention on Assistance + JCPOA formal septet framework with limited PA-intersection framework via formal IAEA-nuclear-non-proliferation framework not directly addressing family-law-issues framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "jurisdiction:iran",
+    "jurisdiction:north-korea",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "IAEA",
+      "url": "https://www.iaea.org/",
+      "publisher": "IAEA Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "IAEA Statute jurisdiction sidecar — supranational global nuclear-energy-and-non-proliferation foundational-IAEA-treaty meta-framework (IAEA Statute 1956/1957 + NPT 1968/1970 + INFCIRC/153 1972 + INFCIRC/540 Additional Protocol 1997 + JCPOA 2015 + Eisenhower 1953-Atoms-for-Peace-Speech predecessor + Chernobyl 1986 + Fukushima 2011 + Nobel Peace Prize 2005 + North Korea NPT withdrawal 2003 + US JCPOA withdrawal 2018 + Russia Zaporizhzhia 2022 + JCPOA snapback 2025). Only modern global supranational binding-treaty framework operating on formal nuclear-energy-and-non-proliferation framework globally + foundational atoms-for-peace framework + only modern global supranational binding-treaty framework operating formal IAEA Safeguards INFCIRC/153 + INFCIRC/540 + only modern global supranational binding-treaty framework operating formal IAEA Nobel Peace Prize 2005 + only modern global supranational binding-treaty framework operating formal Iran JCPOA-snapback 2025 framework + only modern global supranational binding-treaty framework operating formal Ukraine Zaporizhzhia + only modern global supranational binding-treaty framework operating formal North Korea NPT-withdrawal-2003 + central jurisdiction of formal IAEA Safeguards framework + central jurisdiction of formal NPT framework with 191 member states + India + Pakistan + Israel + South Sudan non-NPT-states + central jurisdiction of formal Iran JCPOA + Iran-nuclear-monitoring framework + 178 IAEA member states + IAEA Headquartered Vienna + 1953 Eisenhower + 1957 IAEA + 1968 NPT + 1970 entry into force + 1986 Chernobyl + 1995 NPT indefinite extension + 2003 North Korea NPT + 2005 Nobel + 2011 Fukushima + 2015 JCPOA + 2018 US withdraws + 2022 Zaporizhzhia + 2025 JCPOA snapback IAEA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: IAEA framework operates limited intersection with parental-alienation framework via formal IAEA-nuclear-non-proliferation framework not directly addressing family-law-issues framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks.",
+    "Joins global + supranational + nuclear-energy-and-non-proliferation-foundational-IAEA-treaty cluster + IAEA-Statute-only-global-supranational-binding-treaty-on-nuclear-energy-and-non-proliferation-globally-distinctive + foundational-atoms-for-peace-Eisenhower-1953-precursor + IAEA-Safeguards-INFCIRC-153-540 + NPT-1968-1970-191-member-states + India-Pakistan-Israel-South-Sudan-non-NPT + North-Korea-NPT-withdrawal-2003 + JCPOA-2015-US-withdrawal-2018-snapback-2025 + Russia-Zaporizhzhia-occupation-2022 + ISAMZ-IAEA-Support-Mission-Zaporizhzhia-2022 + Nobel-Peace-Prize-2005-ElBaradei + Chernobyl-1986 + Fukushima-2011 + 178-IAEA-member-states + IAEA-Headquartered-Vienna + Vienna-IAEA-General-Conference-Board-of-Governors + IAEA-nuclear-non-proliferation-PA-intersection clusters within the corpus."
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0",
+  "id": "mercosur-treaty-of-asuncion",
+  "name": "Mercosur Treaty of Asunción 1991 + Protocol of Ouro Preto 1994",
+  "jurisdiction_code": "MRC",
+  "legal_system": "supranational",
+  "language": ["es", "pt", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Mercosur Treaty of Asunción (Southern Common Market) is a regional supranational meta-framework foundational-Mercosur-treaty framework adopted by Argentina + Brazil + Paraguay + Uruguay in Asunción — structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating on formal Southern Cone common-market framework + Spanish-Portuguese bilingual framework (Treaty of Asunción signed 26 March 1991 in Asunción Paraguay by Argentina + Brazil + Paraguay + Uruguay + effective 29 November 1991 + Protocol of Ouro Preto signed 17 December 1994 granting Mercosur legal-personality framework + Mercosur Permanent Review Tribunal established 2002 — formal foundational Mercosur treaty framework establishing comprehensive Mercosur organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate on formal Anglophone or single-language frameworks, structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating formal Southern Cone common-market framework + only modern regional supranational binding-treaty framework operating formal Spanish-Portuguese bilingual treaty framework + intermediate-economic-bloc framework between free-trade-area + customs-union + common-market framework with operational customs-union framework), as the central jurisdiction of the formal Mercosur Customs Union framework (Treaty of Asunción Articles 1-8 framework providing formal common-external-tariff CET framework + formal intra-Mercosur free movement of goods framework + formal common-trade-policy framework — formal foundational Southern Cone customs-union framework, structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating formal customs-union framework), as the central jurisdiction of the formal Mercosur Permanent Review Tribunal framework (Olivos Protocol signed 18 February 2002 + effective 1 January 2004 establishing Mercosur Permanent Review Tribunal PRT based in Asunción Paraguay providing formal Mercosur dispute-settlement framework — formal foundational Mercosur dispute-settlement framework, structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating formal Mercosur dispute-settlement framework), and as the central jurisdiction of the formal Mercosur Democratic Clause framework (Ushuaia Protocol signed 24 July 1998 + Ushuaia II Protocol signed 20 December 2011 providing formal Mercosur democratic-clause framework — formal foundational Mercosur democratic-clause framework, structurally distinctive globally as the only modern South American regional supranational binding-treaty framework operating formal democratic-clause framework with operational suspension framework via Paraguay 2012-2013 + Venezuela 2016-2017). The Mercosur Treaty of Asunción is binding upon 5 Mercosur full-members Argentina + Brazil + Paraguay + Uruguay + Bolivia (full member effective 8 July 2024) + 7 associate members Chile + Colombia + Ecuador + Guyana + Peru + Suriname + Venezuela suspended-2017 as of 2026 — comprehensive Southern Cone coverage framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal Mercosur Cooperation Agreement on Civil Matters framework operates substantial intersection with parental-alienation framework via formal Mercosur-regional cross-border-children's-rights framework. The Mercosur Common Market Council CMC + Mercosur Common Market Group GMC + Mercosur Trade Commission + Mercosur Parliament Parlasur + Mercosur Permanent Review Tribunal PRT are the formal Mercosur bodies; national-level apex courts operate as judicial bodies. The Mercosur Treaty of Asunción is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Mercosur Treaty of Asunción 1991",
+      "title": "Treaty of Asunción",
+      "year": 1991,
+      "url": "https://www.mercosur.int/",
+      "relevance": "Treaty Establishing a Common Market between the Argentine Republic, the Federative Republic of Brazil, the Republic of Paraguay and the Eastern Republic of Uruguay signed 26 March 1991 in Asunción Paraguay + effective 29 November 1991 — formal foundational Mercosur treaty framework establishing comprehensive Mercosur organisation framework."
+    },
+    {
+      "citation": "Protocol of Ouro Preto 1994",
+      "title": "Protocol of Ouro Preto",
+      "year": 1995,
+      "url": "https://www.mercosur.int/",
+      "relevance": "Additional Protocol to the Treaty of Asunción on the Institutional Structure of Mercosur Protocol of Ouro Preto signed 17 December 1994 in Ouro Preto Brazil + effective 15 December 1995 — formal foundational Mercosur institutional-structure framework granting Mercosur legal-personality framework."
+    },
+    {
+      "citation": "Ushuaia Protocol 1998 (Democratic Clause)",
+      "title": "Ushuaia Protocol",
+      "year": 2002,
+      "url": "https://www.mercosur.int/",
+      "relevance": "Ushuaia Protocol on Democratic Commitment in Mercosur signed 24 July 1998 in Ushuaia Argentina + effective 17 January 2002 — formal foundational Mercosur democratic-clause framework."
+    },
+    {
+      "citation": "Olivos Protocol 2002 (PRT Establishment)",
+      "title": "Olivos Protocol",
+      "year": 2004,
+      "url": "https://www.mercosur.int/",
+      "relevance": "Olivos Protocol for the Settlement of Disputes in Mercosur signed 18 February 2002 in Olivos Argentina + effective 1 January 2004 — formal foundational Mercosur dispute-settlement framework establishing Mercosur Permanent Review Tribunal PRT based in Asunción Paraguay."
+    },
+    {
+      "citation": "Ushuaia II Protocol 2011 (Reinforced Democratic Clause)",
+      "title": "Ushuaia II Protocol",
+      "year": 2011,
+      "url": "https://www.mercosur.int/",
+      "relevance": "Ushuaia II Protocol on Democratic Commitment in Mercosur signed 20 December 2011 in Montevideo Uruguay — formal reinforced Mercosur democratic-clause framework not yet ratified by all states."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Mercosur Common Market Council (CMC)",
+      "seat": "Montevideo + rotating",
+      "url": "https://www.mercosur.int/",
+      "role": "Formal supreme decision-making body for Mercosur."
+    },
+    {
+      "name": "Mercosur Common Market Group (GMC)",
+      "seat": "Montevideo",
+      "url": "https://www.mercosur.int/",
+      "role": "Formal executive body for Mercosur."
+    },
+    {
+      "name": "Mercosur Permanent Review Tribunal (PRT)",
+      "seat": "Asunción",
+      "url": "https://www.tprmercosur.org/",
+      "role": "Formal apex Mercosur dispute-settlement framework body."
+    },
+    {
+      "name": "Mercosur Parliament (Parlasur)",
+      "seat": "Montevideo",
+      "url": "https://www.parlamentomercosur.org/",
+      "role": "Formal parliamentary body for Mercosur."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Mercosur Secretariat",
+      "url": "https://www.mercosur.int/",
+      "role": "Mercosur Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Mercosur-related communications via PRT framework operate via state-state framework; individual communications limited under Mercosur framework.",
+  "key_developments": [
+    {
+      "year": 1985,
+      "title": "Foz do Iguaçu Declaration",
+      "description": "Foz do Iguaçu Declaration adopted 30 November 1985 by Argentina + Brazil — predecessor framework to Mercosur Treaty of Asunción."
+    },
+    {
+      "year": 1991,
+      "title": "Mercosur Treaty of Asunción adopted",
+      "description": "Treaty of Asunción signed 26 March 1991 in Asunción Paraguay by Argentina + Brazil + Paraguay + Uruguay + effective 29 November 1991 — formal foundational Mercosur treaty framework adopted."
+    },
+    {
+      "year": 1994,
+      "title": "Protocol of Ouro Preto",
+      "description": "Protocol of Ouro Preto signed 17 December 1994 in Ouro Preto Brazil — formal foundational Mercosur institutional-structure framework adopted."
+    },
+    {
+      "year": 1995,
+      "title": "Mercosur Customs Union operational",
+      "description": "Mercosur Customs Union with common-external-tariff CET framework operational 1 January 1995 — formal foundational Southern Cone customs-union framework operational."
+    },
+    {
+      "year": 1998,
+      "title": "Ushuaia Protocol Democratic Clause",
+      "description": "Ushuaia Protocol on Democratic Commitment in Mercosur signed 24 July 1998 in Ushuaia Argentina — formal foundational Mercosur democratic-clause framework adopted."
+    },
+    {
+      "year": 2002,
+      "title": "Olivos Protocol PRT established",
+      "description": "Olivos Protocol for the Settlement of Disputes in Mercosur signed 18 February 2002 in Olivos Argentina — formal foundational Mercosur dispute-settlement framework adopted."
+    },
+    {
+      "year": 2006,
+      "title": "Mercosur Parliament Parlasur established",
+      "description": "Mercosur Parliament Parlasur established 9 December 2005 in Montevideo Uruguay + first session 7 May 2007 — formal Mercosur parliamentary framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "Paraguay suspended + Venezuela admitted",
+      "description": "Paraguay suspended 29 June 2012 over Lugo impeachment + Venezuela admitted 31 July 2012 as 5th full member — formal Mercosur democratic-clause framework operational."
+    },
+    {
+      "year": 2017,
+      "title": "Venezuela suspended",
+      "description": "Venezuela suspended 5 August 2017 by Mercosur over democratic backsliding — formal Mercosur democratic-clause framework operational."
+    },
+    {
+      "year": 2019,
+      "title": "Mercosur-EU Association Agreement signed in principle",
+      "description": "Mercosur-EU Association Agreement signed in principle 28 June 2019 in Brussels — formal Mercosur-EU trade framework adopted."
+    },
+    {
+      "year": 2024,
+      "title": "Bolivia full member of Mercosur",
+      "description": "Bolivia became full member of Mercosur 8 July 2024 — formal Mercosur expansion framework + 5th full member framework."
+    }
+  ],
+  "structural_findings": [
+    "Mercosur Treaty of Asunción operates a regional supranational binding-treaty framework — places Mercosur Treaty of Asunción in the regional supranational-meta-framework cluster.",
+    "Only modern South American regional supranational binding-treaty framework operating on formal Southern Cone common-market framework + Spanish-Portuguese bilingual framework is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal Southern Cone common-market framework + only modern regional supranational binding-treaty framework operating formal Spanish-Portuguese bilingual treaty framework + intermediate-economic-bloc framework between free-trade-area + customs-union + common-market framework with operational customs-union framework.",
+    "Central jurisdiction of formal Mercosur Customs Union framework is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal customs-union framework.",
+    "Central jurisdiction of formal Mercosur PRT framework is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal Mercosur dispute-settlement framework.",
+    "Central jurisdiction of formal Mercosur Democratic Clause framework via Ushuaia + Ushuaia II Protocols is structurally distinctive globally — only modern South American regional supranational binding-treaty framework operating formal democratic-clause framework with operational suspension framework via Paraguay 2012-2013 + Venezuela 2016-2017.",
+    "5 Mercosur full-members + 7 associate members ratification framework with Bolivia 2024 framework + Venezuela suspended 2017 framework is structurally distinctive globally — comprehensive Southern Cone coverage framework.",
+    "1985 Foz do Iguaçu Declaration + 1991 Treaty of Asunción + 1994 Ouro Preto + 1995 Customs Union + 1998 Ushuaia + 2002 Olivos + 2007 Parlasur + 2012 Paraguay suspended + Venezuela admitted + 2017 Venezuela suspended + 2019 Mercosur-EU + 2024 Bolivia full member Mercosur-framework-development sequence is structurally distinctive globally.",
+    "Mercosur Treaty of Asunción + Protocol of Ouro Preto + Ushuaia Protocol + Olivos Protocol + Mercosur Cooperation Agreement on Civil Matters formal quintet framework with formal Mercosur-regional cross-border-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:inter-american-convention-on-human-rights",
+    "jurisdiction:inter-american-convention-return-of-children",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Mercosur",
+      "url": "https://www.mercosur.int/",
+      "publisher": "Mercosur",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Mercosur Treaty of Asunción jurisdiction sidecar — regional supranational South-American Southern-Cone common-market foundational-Mercosur-treaty meta-framework (Treaty of Asunción 1991 + Protocol of Ouro Preto 1994/1995 + Ushuaia Protocol 1998/2002 + Olivos Protocol 2002/2004 + Ushuaia II Protocol 2011 + Parlasur 2007 + Customs Union 1995 + 1985 Foz do Iguaçu Declaration predecessor + 2024 Bolivia full member + 2017 Venezuela suspended). Only modern South American regional supranational binding-treaty framework operating on formal Southern Cone common-market framework globally + only modern regional supranational binding-treaty framework operating formal Spanish-Portuguese bilingual treaty framework + central jurisdiction of formal Mercosur Customs Union framework + central jurisdiction of formal Mercosur PRT dispute-settlement framework + central jurisdiction of formal Mercosur Democratic Clause framework + 5 Mercosur full-members + 7 associate members + 1985 Foz do Iguaçu + 1991 Treaty of Asunción + 1994 Ouro Preto + 1995 Customs Union + 1998 Ushuaia + 2002 Olivos + 2007 Parlasur + 2012 Paraguay suspended + Venezuela admitted + 2017 Venezuela suspended + 2019 Mercosur-EU + 2024 Bolivia full member Mercosur-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Mercosur Cooperation Agreement on Civil Matters framework operates substantial intersection with parental-alienation framework via formal Mercosur-regional cross-border-children's-rights framework.",
+    "Joins regional + supranational + South-American-Southern-Cone-common-market cluster + Mercosur-Treaty-of-Asunción-only-South-American-regional-supranational-binding-treaty-with-formal-Southern-Cone-common-market-globally-distinctive + Spanish-Portuguese-bilingual-treaty + Customs-Union-1995 + PRT-Asunción + Parlasur-Montevideo + Ushuaia-Protocol-Democratic-Clause + Olivos-Protocol-Dispute-Settlement + 5-Mercosur-full-members + 7-Mercosur-associate-members + 1985-Foz-do-Iguaçu-predecessor + 2024-Bolivia-full-member + 2017-Venezuela-suspended + 2012-Paraguay-suspended + 2019-Mercosur-EU-Association-Agreement + Mercosur-regional-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

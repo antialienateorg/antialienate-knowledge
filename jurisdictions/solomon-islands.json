@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "id": "solomon-islands",
+  "name": "Solomon Islands",
+  "jurisdiction_code": "SB",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Solomon Islands is a Pacific Island mixed-legal-system constitutional monarchy combining English common-law substantive heritage (via 1978 independence) with constitutionally-recognised customary-law personal-status jurisdiction operating through Local Courts. Family-law framework operates under the Affiliation, Separation and Maintenance Act, the Islanders Marriage Act, the Islanders Divorce Act, and the Child and Family Welfare Act 2017. Parental responsibility and child custody are governed by Child and Family Welfare Act Part III. The Court of Appeal of Solomon Islands is the apex court for civil and criminal matters; the Privy Council had appellate jurisdiction prior to abolition in 1978 (Solomon Islands removed JCPC appeals at independence). Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, and Local Courts for customary-law matters. Psychology profession is regulated through the Ministry of Health and Medical Services framework. Solomon Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Child and Family Welfare Act s. 5. Solomon Islands is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Child and Family Welfare Act 2017",
+      "title": "Child and Family Welfare Act",
+      "year": 2017,
+      "url": "https://www.solomonislandsjudiciary.gov.sb/",
+      "relevance": "Federal Act codifying welfare-of-the-child principle (s. 5), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Islanders Marriage Act",
+      "title": "Islanders Marriage Act",
+      "year": 1945,
+      "url": "https://www.solomonislandsjudiciary.gov.sb/",
+      "relevance": "Federal statute on statutory marriage, supplementing customary-law marriage frameworks."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Solomon Islands",
+      "seat": "Honiara",
+      "url": "https://www.solomonislandsjudiciary.gov.sb/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Medical Services, Solomon Islands",
+      "url": "https://www.health.gov.sb/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Solomon Islands family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1978,
+      "title": "Independence + JCPC removal",
+      "description": "Solomon Islands achieved independence from the United Kingdom; removed Judicial Committee of the Privy Council appellate jurisdiction at independence — structurally distinctive among Pacific Anglophone states."
+    },
+    {
+      "year": 2017,
+      "title": "Child and Family Welfare Act",
+      "description": "Federal Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection."
+    }
+  ],
+  "structural_findings": [
+    "Solomon Islands operates a mixed-legal-system framework — English common-law substantive + customary-law personal-status via Local Courts. Within the Pacific Island common-law/customary-law cluster.",
+    "JCPC removal at independence (1978) is structurally distinctive among Pacific Anglophone states in the corpus — Solomon Islands' Court of Appeal is the genuine apex without further appellate review.",
+    "Non-Hague Convention status places Solomon Islands in the non-Hague Pacific cluster."
+  ],
+  "references": [
+    "jurisdiction:papua-new-guinea",
+    "jurisdiction:fiji",
+    "jurisdiction:vanuatu",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Solomon Islands Judiciary",
+      "url": "https://www.solomonislandsjudiciary.gov.sb/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health and Medical Services",
+      "url": "https://www.health.gov.sb/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Solomon Islands jurisdiction sidecar — mixed-legal-system Pacific Island (English common-law + customary-law via Local Courts + Child and Family Welfare Act 2017 + JCPC-removal-at-independence distinctive + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + mixed-legal-system + JCPC-removal-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "id": "belize",
+  "name": "Belize",
+  "jurisdiction_code": "BZ",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Belize is a Central American/Caribbean common-law constitutional monarchy whose family-law framework operates under the Families and Children Act (CAP 173, comprehensively revised 2003), the Married Persons (Protection) Act, the Maintenance of Children Act, and the Domestic Violence Act 2007. Parental responsibility and child custody are governed by Families and Children Act Part III. The Court of Appeal of Belize is the apex domestic court for civil and criminal matters; the Caribbean Court of Justice (CCJ) is the final appellate court — Belize transferred from JCPC in 2010. Family-law matters are heard at first instance in the Family Court (established 2001) and Supreme Court (Family Division). Psychology profession is regulated through the Allied Health Professionals Council under the Ministry of Health and Wellness. Belize is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Families and Children Act s. 4. Belize is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Families and Children Act CAP 173 (revised 2003)",
+      "title": "Families and Children Act",
+      "year": 2003,
+      "url": "https://www.judiciary.gov.bz/",
+      "relevance": "Federal Families and Children Act codifying welfare-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Domestic Violence Act 2007",
+      "title": "Domestic Violence Act",
+      "year": 2007,
+      "url": "https://www.judiciary.gov.bz/",
+      "relevance": "Federal statute on domestic violence protection orders affecting family-law proceedings."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Belize",
+      "seat": "Belmopan",
+      "url": "https://www.judiciary.gov.bz/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Caribbean Court of Justice (CCJ)",
+      "seat": "Port of Spain",
+      "url": "https://www.ccj.org/",
+      "role": "Final appellate court for civil and criminal matters from Belize (transferred from JCPC 2010)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Allied Health Professionals Council, Belize",
+      "url": "https://www.health.gov.bz/",
+      "role": "Federal regulator of allied health professionals including clinical psychology under Ministry of Health and Wellness."
+    }
+  ],
+  "anonymisation_convention": "Belizean family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1981,
+      "title": "Independence",
+      "description": "Belize achieved independence from the United Kingdom."
+    },
+    {
+      "year": 2001,
+      "title": "Family Court established",
+      "description": "Specialised Family Court established."
+    },
+    {
+      "year": 2003,
+      "title": "Families and Children Act revision",
+      "description": "Comprehensive revision of Families and Children Act codifying contemporary child-protection provisions."
+    },
+    {
+      "year": 2007,
+      "title": "Domestic Violence Act",
+      "description": "Federal statute on domestic violence protection orders enacted."
+    },
+    {
+      "year": 2010,
+      "title": "CCJ appellate jurisdiction transfer",
+      "description": "Belize transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice."
+    }
+  ],
+  "structural_findings": [
+    "Belize operates a common-law framework — places Belize in the Caribbean common-law cluster.",
+    "CCJ-final-appellate-jurisdiction transfer (2010) places Belize alongside Barbados and Guyana in the CCJ-appellate-jurisdiction cluster.",
+    "Non-Hague Convention status places Belize in the non-Hague Caribbean cluster — structural distinction from Hague-acceding Bahamas (1994), Trinidad and Tobago (2000).",
+    "Belize is the only Central American Anglophone jurisdiction in the corpus — distinct from Latin-American civil-law neighbours (Mexico, Guatemala)."
+  ],
+  "references": [
+    "jurisdiction:jamaica",
+    "jurisdiction:guyana",
+    "jurisdiction:barbados",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Belize",
+      "url": "https://www.judiciary.gov.bz/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Caribbean Court of Justice",
+      "url": "https://www.ccj.org/",
+      "publisher": "CCJ",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health and Wellness",
+      "url": "https://www.health.gov.bz/",
+      "publisher": "Ministry of Health and Wellness",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Belize jurisdiction sidecar — common-law Central America/Caribbean (Families and Children Act 2003 + Domestic Violence Act 2007 + CCJ final-appellate from 2010 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central American Anglophone (distinctive) + Caribbean + common-law + CCJ-final-appellate + non-Hague Convention clusters within the corpus."
+  ]
+}

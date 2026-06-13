@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "id": "wipo-convention",
+  "name": "WIPO Convention 1967 (World Intellectual Property Organization)",
+  "jurisdiction_code": "WPO",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Convention Establishing the World Intellectual Property Organization (WIPO Convention) is a global supranational meta-framework foundational-WIPO-treaty framework adopted in Stockholm — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-intellectual-property framework + foundational IP framework alongside TRIPS framework (WIPO Convention signed 14 July 1967 in Stockholm Sweden + effective 26 April 1970 + United International Bureaux for the Protection of Intellectual Property BIRPI predecessor founded 1893 in Berne Switzerland + WIPO became UN specialized agency 17 December 1974 — formal foundational WIPO treaty framework establishing comprehensive WIPO organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-intellectual-property framework + foundational IP framework alongside TRIPS framework + only modern global supranational binding-treaty framework operating formal Patent Cooperation Treaty PCT 1970 framework + only modern global supranational binding-treaty framework operating formal Madrid System for International Registration of Marks framework + only modern global supranational binding-treaty framework operating formal Hague System for International Registration of Industrial Designs framework + only modern global supranational binding-treaty framework operating formal Berne Convention 1886 framework via WIPO administration + only modern global supranational binding-treaty framework operating formal Paris Convention 1883 framework via WIPO administration + only modern global supranational binding-treaty framework operating formal Marrakesh Treaty 2013 visually-impaired-persons accessible-books framework + only modern global supranational binding-treaty framework operating formal WIPO AI Treaty negotiations 2024-2026 framework), as the central jurisdiction of the formal Patent Cooperation Treaty PCT 1970 framework (Patent Cooperation Treaty PCT signed 19 June 1970 in Washington DC + effective 24 January 1978 providing formal international patent application framework — formal foundational Patent Cooperation Treaty PCT framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-patent-application framework via single PCT-application-process framework), as the central jurisdiction of the formal Berne Convention 1886 + Paris Convention 1883 framework (Berne Convention for the Protection of Literary and Artistic Works signed 9 September 1886 in Berne Switzerland + Paris Convention for the Protection of Industrial Property signed 20 March 1883 in Paris France — formal foundational Berne Convention + Paris Convention frameworks, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Berne Convention copyright framework + Paris Convention industrial-property framework via WIPO administration framework), and as the central jurisdiction of the formal Marrakesh Treaty 2013 visually-impaired-persons framework (Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or Otherwise Print Disabled signed 27 June 2013 in Marrakesh Morocco + effective 30 September 2016 providing formal accessible-books framework for visually-impaired-persons + 100 contracting parties as of 2026 framework — formal foundational Marrakesh Treaty visually-impaired-persons framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal visually-impaired-persons accessible-books framework + only modern global supranational binding-treaty framework operating formal disability-rights IP framework). The WIPO Convention is binding upon 193 WIPO member states as of 2026 matching UN membership — substantial universal coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal WIPO Berne Convention framework operates limited intersection with parental-alienation framework via formal copyright-on-PA-literature-and-research framework not directly addressing family-law-issues framework. The WIPO General Assembly + WIPO Conference + WIPO Coordination Committee + WIPO Director General + WIPO Secretariat + WIPO Arbitration and Mediation Center are the formal WIPO bodies; national-level apex courts operate as judicial bodies. The WIPO Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "WIPO Convention 1967",
+      "title": "WIPO Convention",
+      "year": 1970,
+      "url": "https://www.wipo.int/",
+      "relevance": "Convention Establishing the World Intellectual Property Organization signed 14 July 1967 in Stockholm Sweden + effective 26 April 1970 — formal foundational WIPO treaty framework establishing comprehensive WIPO organisation framework."
+    },
+    {
+      "citation": "Patent Cooperation Treaty PCT 1970",
+      "title": "PCT",
+      "year": 1978,
+      "url": "https://www.wipo.int/",
+      "relevance": "Patent Cooperation Treaty PCT signed 19 June 1970 in Washington DC + effective 24 January 1978 — formal foundational PCT international-patent-application framework."
+    },
+    {
+      "citation": "Berne Convention 1886",
+      "title": "Berne Convention",
+      "year": 1887,
+      "url": "https://www.wipo.int/",
+      "relevance": "Berne Convention for the Protection of Literary and Artistic Works signed 9 September 1886 in Berne Switzerland + effective 5 December 1887 — formal foundational Berne Convention copyright framework."
+    },
+    {
+      "citation": "Paris Convention 1883",
+      "title": "Paris Convention",
+      "year": 1884,
+      "url": "https://www.wipo.int/",
+      "relevance": "Paris Convention for the Protection of Industrial Property signed 20 March 1883 in Paris France + effective 7 July 1884 — formal foundational Paris Convention industrial-property framework."
+    },
+    {
+      "citation": "Marrakesh Treaty 2013",
+      "title": "Marrakesh Treaty",
+      "year": 2016,
+      "url": "https://www.wipo.int/",
+      "relevance": "Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or Otherwise Print Disabled signed 27 June 2013 in Marrakesh Morocco + effective 30 September 2016 — formal foundational Marrakesh Treaty visually-impaired-persons accessible-books framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "WIPO General Assembly",
+      "seat": "Geneva",
+      "url": "https://www.wipo.int/",
+      "role": "Formal supreme decision-making body for WIPO."
+    },
+    {
+      "name": "WIPO Conference",
+      "seat": "Geneva",
+      "url": "https://www.wipo.int/",
+      "role": "Formal Conference body for WIPO."
+    },
+    {
+      "name": "WIPO Coordination Committee",
+      "seat": "Geneva",
+      "url": "https://www.wipo.int/",
+      "role": "Formal coordination body for WIPO."
+    },
+    {
+      "name": "WIPO Director General",
+      "seat": "Geneva",
+      "url": "https://www.wipo.int/",
+      "role": "Formal administrative head body for WIPO."
+    },
+    {
+      "name": "WIPO Arbitration and Mediation Center",
+      "seat": "Geneva",
+      "url": "https://www.wipo.int/amc/en/",
+      "role": "Formal WIPO IP dispute-resolution framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "WIPO Secretariat",
+      "url": "https://www.wipo.int/",
+      "role": "WIPO Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "WIPO-related communications operate via state-state framework + IP holder framework via WIPO Arbitration and Mediation Center; individual communications limited under WIPO framework.",
+  "key_developments": [
+    {
+      "year": 1883,
+      "title": "Paris Convention adopted",
+      "description": "Paris Convention for the Protection of Industrial Property signed 20 March 1883 in Paris France — formal foundational Paris Convention industrial-property framework adopted."
+    },
+    {
+      "year": 1886,
+      "title": "Berne Convention adopted",
+      "description": "Berne Convention for the Protection of Literary and Artistic Works signed 9 September 1886 in Berne Switzerland — formal foundational Berne Convention copyright framework adopted."
+    },
+    {
+      "year": 1893,
+      "title": "BIRPI established",
+      "description": "United International Bureaux for the Protection of Intellectual Property BIRPI established 1893 in Berne Switzerland — predecessor framework to WIPO."
+    },
+    {
+      "year": 1967,
+      "title": "WIPO Convention adopted",
+      "description": "WIPO Convention signed 14 July 1967 in Stockholm Sweden — formal foundational WIPO treaty framework adopted."
+    },
+    {
+      "year": 1970,
+      "title": "WIPO Convention enters force + Patent Cooperation Treaty signed",
+      "description": "WIPO Convention entered force 26 April 1970 + Patent Cooperation Treaty PCT signed 19 June 1970 in Washington DC — formal foundational WIPO + PCT framework operational."
+    },
+    {
+      "year": 1974,
+      "title": "WIPO becomes UN specialized agency",
+      "description": "WIPO became UN specialized agency 17 December 1974 — formal WIPO UN specialized agency framework operational."
+    },
+    {
+      "year": 1995,
+      "title": "TRIPS Agreement + WIPO Copyright Treaty 1996",
+      "description": "TRIPS Agreement entered force 1 January 1995 + WIPO Copyright Treaty WCT + WIPO Performances and Phonograms Treaty WPPT signed 20 December 1996 in Geneva — formal foundational TRIPS + WIPO Internet Treaties framework operational."
+    },
+    {
+      "year": 2013,
+      "title": "Marrakesh Treaty adopted",
+      "description": "Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or Otherwise Print Disabled signed 27 June 2013 in Marrakesh Morocco — formal foundational Marrakesh Treaty visually-impaired-persons framework adopted."
+    },
+    {
+      "year": 2016,
+      "title": "Marrakesh Treaty enters force",
+      "description": "Marrakesh Treaty entered force 30 September 2016 — formal foundational Marrakesh Treaty visually-impaired-persons framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "WIPO Treaty on IP Genetic Resources + Associated Traditional Knowledge adopted",
+      "description": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge signed 24 May 2024 in Geneva Switzerland — formal foundational WIPO Indigenous-Peoples-Traditional-Knowledge framework adopted."
+    },
+    {
+      "year": 2025,
+      "title": "WIPO AI Treaty negotiations",
+      "description": "WIPO AI Treaty negotiations 2024-2026 framework — formal WIPO AI Treaty negotiation framework operational."
+    }
+  ],
+  "structural_findings": [
+    "WIPO Convention operates a supranational global binding-treaty framework — places WIPO Convention in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-intellectual-property framework + foundational IP framework alongside TRIPS framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-intellectual-property framework + foundational IP framework alongside TRIPS framework + only modern global supranational binding-treaty framework operating formal Patent Cooperation Treaty PCT 1970 framework + only modern global supranational binding-treaty framework operating formal Madrid System for International Registration of Marks framework + only modern global supranational binding-treaty framework operating formal Hague System for International Registration of Industrial Designs framework + only modern global supranational binding-treaty framework operating formal Berne Convention 1886 framework via WIPO administration + only modern global supranational binding-treaty framework operating formal Paris Convention 1883 framework via WIPO administration + only modern global supranational binding-treaty framework operating formal Marrakesh Treaty 2013 visually-impaired-persons accessible-books framework + only modern global supranational binding-treaty framework operating formal WIPO AI Treaty negotiations 2024-2026 framework.",
+    "Central jurisdiction of formal Patent Cooperation Treaty PCT 1970 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-patent-application framework via single PCT-application-process framework.",
+    "Central jurisdiction of formal Berne Convention 1886 + Paris Convention 1883 framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Berne Convention copyright framework + Paris Convention industrial-property framework via WIPO administration framework.",
+    "Central jurisdiction of formal Marrakesh Treaty 2013 visually-impaired-persons framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal visually-impaired-persons accessible-books framework + only modern global supranational binding-treaty framework operating formal disability-rights IP framework.",
+    "193 WIPO member state ratification framework matching UN membership is structurally distinctive globally — substantial universal coverage framework.",
+    "1883 Paris Convention + 1886 Berne Convention + 1893 BIRPI + 1967 WIPO Convention + 1970 entry into force + PCT + 1974 UN specialized agency + 1995 TRIPS + 1996 WCT + WPPT + 2013 Marrakesh + 2016 entry into force + 2024 IP Genetic Resources + 2025 AI Treaty negotiations WIPO-framework-development sequence is structurally distinctive globally.",
+    "WIPO Convention + Paris + Berne + PCT + Madrid + Hague + Marrakesh + WCT + WPPT + IP Genetic Resources + Arbitration and Mediation Center formal undecet framework with limited PA-intersection framework via formal copyright-on-PA-literature-and-research framework not directly addressing family-law-issues framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:wto-marrakesh-agreement",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "WIPO",
+      "url": "https://www.wipo.int/",
+      "publisher": "WIPO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "WIPO Convention jurisdiction sidecar — supranational global international-intellectual-property foundational-WIPO-treaty meta-framework (WIPO Convention 1967/1970 + PCT 1970/1978 + Berne 1886/1887 + Paris 1883/1884 + Madrid System + Hague System + Marrakesh 2013/2016 + WCT + WPPT 1996 + IP Genetic Resources 2024 + AI Treaty negotiations 2024-2026 + BIRPI 1893 predecessor + UN specialized agency 1974). Only modern global supranational binding-treaty framework operating on formal international-intellectual-property framework + foundational IP framework alongside TRIPS + only modern global supranational binding-treaty framework operating formal PCT + Madrid System + Hague System + Berne + Paris + Marrakesh + AI Treaty negotiations + central jurisdiction of formal PCT single-application-process + central jurisdiction of formal Berne + Paris via WIPO administration + central jurisdiction of formal Marrakesh visually-impaired-persons accessible-books + 193 WIPO member states matching UN membership + WIPO Headquartered Geneva + 1883 Paris + 1886 Berne + 1893 BIRPI + 1967 WIPO Convention + 1970 entry into force + PCT + 1974 UN specialized agency + 1995 TRIPS + 1996 WCT + WPPT + 2013 Marrakesh + 2016 entry into force + 2024 IP Genetic Resources + 2025 AI Treaty negotiations WIPO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: WIPO Berne Convention framework operates limited intersection with parental-alienation framework via formal copyright-on-PA-literature-and-research framework not directly addressing family-law-issues framework — distinctive in operating limited PA-intersection framework relative to other global supranational frameworks.",
+    "Joins global + supranational + international-intellectual-property-foundational-WIPO-treaty cluster + WIPO-Convention-only-global-supranational-binding-treaty-on-IP-globally-distinctive + foundational-IP-alongside-TRIPS + PCT-1970-1978-international-patent + Madrid-System-International-Registration-Marks + Hague-System-Industrial-Designs + Berne-Convention-1886-copyright + Paris-Convention-1883-industrial-property + Marrakesh-Treaty-2013-2016-visually-impaired-persons-accessible-books + WIPO-Copyright-Treaty-1996 + WIPO-Performances-and-Phonograms-Treaty-1996 + IP-Genetic-Resources-2024 + AI-Treaty-negotiations-2024-2026 + WIPO-Arbitration-and-Mediation-Center + 193-WIPO-member-states + UN-specialized-agency-1974 + BIRPI-1893-predecessor + WIPO-Headquartered-Geneva + copyright-on-PA-literature-and-research-PA-intersection clusters within the corpus."
+  ]
+}

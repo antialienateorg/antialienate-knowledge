@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "abkhazia",
+  "name": "Abkhazia (Republic of Abkhazia / Аҧсны)",
+  "jurisdiction_code": "GE-AB",
+  "legal_system": "civil-law",
+  "language": ["ab", "ru"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Abkhazia (officially Republic of Abkhazia / Аҧсны Аҳәынҭқарра / Республика Абхазия) is a Caucasian civil-law partially-recognised de-facto state on the eastern coast of the Black Sea — structurally distinctive globally as the only de-facto state operating an indigenous-language-priority constitutional framework (Abkhaz language has priority constitutional status over Russian per 2007 State Language Law), as one of the two Russian-recognised post-2008 Russia-Georgia war breakaway states (with South Ossetia), and as the only contemporary state where the indigenous-titular nationality (Abkhaz) constitutes a numeric minority (~17% of population, vs ~52% Russian-Armenian-Georgian-other) yet holds constitutionally-entrenched ethnic-political primacy. Abkhazia is recognised by Russia (26 August 2008), Nicaragua (5 September 2008), Venezuela (10 September 2009), Nauru (15 December 2009, withdrawn 9 January 2024), and Syria (29 May 2018). Located in the South Caucasus south of Russia and northwest of Georgia proper, Abkhazia comprises ~8,665 km² with a population of ~245,000. Family-law framework operates under the Abkhaz Family Code (Семейный кодекс Республики Абхазия), modeled on Russian Federation Family Code. Parental authority and child custody operate under Abkhaz Family Code provisions on родительские права (parental rights). The Supreme Court of Abkhazia is the apex domestic court; final appellate jurisdiction is internal — no recognised external appellate court. Cross-border family-law coordination with Georgia proper is severely hampered by the conflict. Psychology profession is regulated through the Abkhaz Ministry of Health. Abkhazia is silent on 'parental alienation' as a statutory label. Abkhazia is not a party to the Hague Convention 1980.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Republic of Abkhazia 1994 (as amended)",
+      "title": "Abkhazia Constitution",
+      "year": 1994,
+      "url": "https://presidentofabkhazia.org/",
+      "relevance": "Abkhazia Constitution establishing presidential republic constitutional framework with ethnic-Abkhaz political primacy provisions."
+    },
+    {
+      "citation": "Abkhaz Family Code (Семейный кодекс РА)",
+      "title": "Abkhaz Family Code",
+      "year": 2006,
+      "url": "https://presidentofabkhazia.org/",
+      "relevance": "Abkhaz Family Code governing parental rights and child custody — modeled on Russian Federation Family Code."
+    },
+    {
+      "citation": "Russia-Abkhazia Treaty of Alliance and Strategic Partnership 2014",
+      "title": "Russia-Abkhazia Treaty 2014",
+      "year": 2014,
+      "url": "https://www.kremlin.ru/",
+      "relevance": "International treaty signed 24 November 2014 establishing alliance and strategic partnership framework with Russian Federation — less integrated than the parallel South Ossetia treaty."
+    },
+    {
+      "citation": "Abkhaz State Language Law 2007",
+      "title": "Abkhaz State Language Law",
+      "year": 2007,
+      "url": "https://presidentofabkhazia.org/",
+      "relevance": "Abkhaz law establishing Abkhaz-language priority over Russian — only de-facto state with indigenous-language-priority constitutional framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Republic of Abkhazia (Верховный суд РА)",
+      "seat": "Sukhumi",
+      "url": "https://presidentofabkhazia.org/",
+      "role": "Apex domestic court for civil and criminal matters from Abkhazia — final appellate jurisdiction is internal."
+    },
+    {
+      "name": "Constitutional Court of the Republic of Abkhazia",
+      "seat": "Sukhumi",
+      "url": "https://presidentofabkhazia.org/",
+      "role": "Constitutional court of Abkhazia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Abkhazia Ministry of Health",
+      "url": "https://presidentofabkhazia.org/",
+      "role": "Abkhaz governmental health framework — psychology profession regulated through Ministry of Health."
+    }
+  ],
+  "anonymisation_convention": "Abkhaz family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1992,
+      "title": "War in Abkhazia",
+      "description": "War in Abkhazia 14 August 1992-27 September 1993 between Georgia and Abkhazia — ended with Abkhaz victory and de-facto independence; resulted in mass displacement of ethnic Georgians."
+    },
+    {
+      "year": 1994,
+      "title": "Abkhazia Constitution adopted",
+      "description": "Abkhazia Constitution adopted on 26 November 1994 establishing presidential republic constitutional framework with ethnic-Abkhaz political primacy."
+    },
+    {
+      "year": 2007,
+      "title": "Abkhaz State Language Law",
+      "description": "Abkhaz law establishing Abkhaz-language priority over Russian — only de-facto state with indigenous-language-priority constitutional framework."
+    },
+    {
+      "year": 2008,
+      "title": "Russia-Georgia war + Russian recognition",
+      "description": "Russia-Georgia war 7-12 August 2008 — Russian Federation recognised Abkhazia and South Ossetia as independent states on 26 August 2008."
+    },
+    {
+      "year": 2014,
+      "title": "Russia-Abkhazia Treaty of Alliance and Strategic Partnership",
+      "description": "International treaty signed 24 November 2014 establishing alliance and strategic partnership framework with Russian Federation — less integrated than the parallel South Ossetia treaty."
+    }
+  ],
+  "structural_findings": [
+    "Abkhazia operates a civil-law framework modeled on Russian Federation Civil Code and Family Code — places Abkhazia in the post-Soviet de-facto-state cluster.",
+    "Only de-facto state with indigenous-language-priority constitutional framework (Abkhaz State Language Law 2007) is structurally distinctive globally — Abkhaz language has priority constitutional status over Russian.",
+    "Only contemporary state where indigenous-titular nationality constitutes a numeric minority yet holds constitutionally-entrenched ethnic-political primacy is structurally distinctive globally — ~17% ethnic Abkhaz vs ~52% Russian-Armenian-Georgian-other.",
+    "Russian-recognised post-2008 Russia-Georgia war breakaway state status is structurally distinctive globally — only de-facto states (with South Ossetia) recognised by Russian Federation following formal Russian military intervention.",
+    "Russia-Abkhazia Treaty of Alliance and Strategic Partnership (2014) — less integrated than parallel South Ossetia treaty — is structurally distinctive within the Russia-aligned de-facto-state cluster.",
+    "Black Sea coastline is structurally distinctive — only Black-Sea-coastal unrecognised de-facto state.",
+    "Recognition by Russia + Nicaragua + Venezuela + Syria framework is shared with South Ossetia.",
+    "Non-Hague-Convention-1980 status is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:georgia",
+    "jurisdiction:russia",
+    "jurisdiction:south-ossetia",
+    "jurisdiction:transnistria",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "President of the Republic of Abkhazia",
+      "url": "https://presidentofabkhazia.org/",
+      "publisher": "Abkhazia Government",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "Abkhazia jurisdiction sidecar — civil-law Caucasian partially-recognised de-facto state (Abkhazia Constitution 1994 + Abkhaz Family Code 2006 modeled on Russian Federation Family Code + Abkhaz State Language Law 2007 indigenous-language-priority + Russia-Abkhazia Treaty 2014 + non-Hague-1980). Only de-facto state with indigenous-language-priority constitutional framework globally + only contemporary state where indigenous-titular nationality holds constitutionally-entrenched ethnic-political primacy as numeric minority + Russian-recognised post-2008 breakaway + Black-Sea-coastal unrecognised de-facto state.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caucasian + civil-law + post-Soviet-de-facto-state cluster + indigenous-language-priority-constitutional-framework-globally-distinctive + ethnic-Abkhaz-political-primacy + Russian-recognised-breakaway + Russia-Treaty-of-Alliance-Strategic-Partnership + Black-Sea-coastal + Russian-aligned-recognition-cluster + non-Hague-1980 clusters within the corpus."
+  ]
+}

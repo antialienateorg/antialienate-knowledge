@@ -1,0 +1,88 @@
+# Canary Islands (Islas Canarias / Canàries)
+
+**Jurisdiction code:** `ES-CAN` · **Legal system:** civil-law  
+**Language(s):** es  
+
+The Canary Islands (Islas Canarias in Spanish / Canàries in Catalan) are a North Atlantic civil-law autonomous community of the Kingdom of Spain comprising eight inhabited islands (Tenerife, Fuerteventura, Gran Canaria, Lanzarote, La Palma, La Gomera, El Hierro, La Graciosa) located ~100-500 km off the northwest coast of Africa (Western Sahara/Morocco) and ~1,500 km from mainland Spain — structurally distinctive globally as the southernmost EU territory in the eastern hemisphere (Hierro Point at ~27.7°N latitude), as one of nine EU 'outermost regions' (Régions ultrapériphériques / RUP) operating under EU Treaty Article 349 special-regime framework, as the only Spanish autonomous community with two co-equal provincial capitals (Santa Cruz de Tenerife and Las Palmas de Gran Canaria — alternating Canarian capital framework via 1982 Statute), and as the central jurisdiction of the distinctive Régimen Económico y Fiscal de Canarias (REF / Canarian Economic and Fiscal Regime) under Spanish Constitution 1978 Article 138.1 and 144 + the 1991 Régimen Económico-Fiscal (Ley 19/1994 as amended) providing lower VAT (Impuesto General Indirecto Canario / IGIC at 7% vs Spanish IVA 21%), reduced corporate-tax framework via Zona Especial Canaria (ZEC), and EU-state-aid-compatible derogations. Family-law framework operates under the Spanish Código Civil 1889 applied via the Canary Islands regional administrative framework — the Canary Islands do NOT operate a distinctive Foral Civil Law tradition (unlike Catalonia, Basque, Navarre, Aragon, Galicia, Balearic), making Canary Islands distinctive within Spanish autonomous-communities cluster as the largest autonomous community operating Spanish national civil-code framework. Parental authority (patria potestad) and child custody (guarda y custodia) operate under Spanish Código Civil Articles 90-110 (Family Reform Act 1981, as amended including 2005 Joint Custody Reform). The Tribunal Superior de Justicia de Canarias (TSJC) is the apex appellate court for civil and criminal matters from Canarias; final appellate jurisdiction on Spanish constitutional questions lies with the Spanish Constitutional Court. The Canary Islands are silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 party (acceded 16 June 1987) — Canary Islands Hague applicability via Spanish federal extension.
+
+## PA recognition status
+
+- **Statutory:** silent
+- **Apex court position:** no-apex-position
+- **Professional regulator position:** silent
+
+## Statutory framework
+
+- **Statute of Autonomy of the Canary Islands 2018 (Ley Orgánica 1/2018)** — Statute of Autonomy of the Canary Islands (2018) — <https://www.parcan.es/>
+  - Spanish Organic Law of 5 November 2018 establishing the modernised Canarian autonomous-community governance framework — replacing 1982 Statute. Includes alternating Canarian capital framework.
+- **Régimen Económico y Fiscal de Canarias (REF) — Ley 19/1994 as amended** — Canarian Economic and Fiscal Regime (1994) — <https://www.boe.es/>
+  - Spanish Law establishing the distinctive Canarian Economic and Fiscal Regime — IGIC 7% vs IVA 21%, Zona Especial Canaria (ZEC), EU-state-aid-compatible derogations.
+- **EU Treaty Article 349 (Outermost Regions framework)** — EU Treaty Article 349 (2009) — <https://eur-lex.europa.eu/>
+  - Treaty on the Functioning of the European Union Article 349 establishing EU 'outermost regions' (RUP) special-regime framework — Canary Islands one of nine RUP.
+- **Spanish Código Civil Articles 90-110 (Family Law as amended by Family Reform Act 1981 and 2005 Joint Custody Reform)** — Spanish Civil Code — Family Law (2005) — <https://www.boe.es/>
+  - Spanish Civil Code articles governing patria potestad and child custody applicable in Canary Islands — substantially amended by 1981 Family Reform Act and 2005 Joint Custody Reform.
+- **Spanish Constitution 1978 Articles 138.1 + 144 (Insular and Outermost Region framework)** — Spanish Constitution Articles 138.1 + 144 (1978) — <https://www.boe.es/>
+  - Spanish Constitutional Articles establishing insular and outermost-region special-treatment framework — constitutional foundation for Canarian REF and special-regime treatment.
+
+## Apex courts
+
+### Tribunal Superior de Justicia de Canarias (TSJC)
+<https://www.poderjudicial.es/>
+
+### Tribunal Constitucional de España
+<https://www.tribunalconstitucional.es/>
+
+## Professional regulators
+
+- **Colegio Oficial de la Psicología de Las Palmas / Santa Cruz de Tenerife** — <https://www.coplaspalmas.es/>
+
+## Anonymisation convention
+
+Canarian family-court decisions are anonymised per Spanish court practice using initials.
+
+## Key developments
+
+- **1402** — Castilian conquest of Canary Islands begun 1402 by Jean de Béthencourt and Gadifer de la Salle — beginning of Spanish sovereignty over the Canaries.
+- **1496** — Castilian conquest of Canary Islands complete with conquest of Tenerife on 25 December 1495 — formal incorporation into Crown of Castile.
+- **1978** — Spanish Constitution Articles 138.1 + 144 establishing insular and outermost-region special-treatment framework — constitutional foundation for Canarian special-regime treatment.
+- **1982** — First Statute of Autonomy of the Canary Islands adopted 10 August 1982 — establishing autonomous community framework with alternating Canarian capital framework.
+- **1994** — Spanish Law 19/1994 of 6 July 1994 establishing the distinctive Canarian Economic and Fiscal Regime including IGIC, ZEC, and EU-state-aid-compatible derogations.
+- **1997** — Amsterdam Treaty of 2 October 1997 establishing EU 'outermost regions' (RUP) special-regime framework — Canary Islands designated as RUP.
+- **2018** — Spanish Organic Law 1/2018 of 5 November 2018 establishing the modernised Canarian autonomous-community governance framework.
+
+## Structural findings
+
+- Canary Islands operate a civil-law Spanish Código Civil framework via Canarian regional administrative framework — places Canary Islands in the Iberian-Atlantic Spanish autonomous-community cluster.
+- Southernmost EU territory in the eastern hemisphere is structurally distinctive globally — Hierro Point at ~27.7°N latitude.
+- One of nine EU 'outermost regions' (RUP) operating under EU Treaty Article 349 special-regime framework is structurally distinctive globally.
+- Only Spanish autonomous community with two co-equal provincial capitals (Santa Cruz de Tenerife and Las Palmas de Gran Canaria) is structurally distinctive globally — alternating Canarian capital framework via 1982 Statute.
+- Distinctive Régimen Económico y Fiscal de Canarias (REF) is structurally distinctive globally — only Spanish autonomous community with comprehensive EU-state-aid-compatible economic-fiscal special-regime framework including IGIC, ZEC, and reduced corporate-tax framework.
+- Largest Spanish autonomous community operating Spanish national civil-code framework (no distinctive Foral Civil Law tradition) is structurally distinctive within Iberian foral cluster.
+- Spanish Constitution Articles 138.1 + 144 insular and outermost-region framework recognition is structurally distinctive.
+- Geographic position ~100-500 km off the northwest coast of Africa is structurally distinctive — only EU territory closer to mainland Africa than to mainland Europe.
+
+## See also
+
+- `jurisdiction:spain`
+- `jurisdiction:madeira`
+- `jurisdiction:azores`
+- `jurisdiction:morocco`
+- `jurisdiction:western-sahara`
+- `evidence:cross-border-parental-abduction-and-pa-intersection`
+- `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Parlamento de Canarias** — <https://www.parcan.es/> (Canarian Government) [es]
+2. **Tribunal Superior de Justicia de Canarias** — <https://www.poderjudicial.es/> (Spanish Government) [es]
+
+## Editorial notes
+
+- Canary Islands jurisdiction sidecar — civil-law North Atlantic Spanish autonomous community without Foral Civil Law tradition (Spanish Código Civil Articles 90-110 + Statute of Autonomy 2018 + Régimen Económico y Fiscal de Canarias Ley 19/1994 + EU Treaty Article 349 Outermost Regions framework + Spanish Constitution Articles 138.1 + 144 insular and outermost-region framework + Spanish Hague Convention 1980 accession 1987). Southernmost EU territory in eastern hemisphere globally + one of nine EU outermost regions (RUP) + only Spanish autonomous community with two co-equal provincial capitals + distinctive Régimen Económico y Fiscal de Canarias + largest Spanish autonomous community operating Spanish national civil-code framework + only EU territory closer to mainland Africa than to mainland Europe. 300-jurisdiction milestone candidate.
+- PA-recognition: silent statutory + no-apex-position + silent regulator.
+- Joins North-Atlantic + civil-law + Spanish-autonomous-community-without-foral-civil-law cluster + southernmost-EU-territory-globally-distinctive + EU-Article-349-Outermost-Regions-RUP + two-co-equal-provincial-capitals-alternating-framework + Régimen-Económico-y-Fiscal-de-Canarias-IGIC-ZEC + Spanish-Constitution-Articles-138.1-144-insular-outermost-region + closer-to-Africa-than-Europe clusters within the corpus.
+
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

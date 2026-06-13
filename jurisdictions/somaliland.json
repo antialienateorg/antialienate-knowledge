@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "somaliland",
+  "name": "Somaliland (Republic of Somaliland / Jamhuuriyadda Soomaaliland)",
+  "jurisdiction_code": "SO-SLD",
+  "legal_system": "mixed",
+  "language": ["so", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Somaliland is a Horn of Africa de facto independent mixed-legal-system republic — declared independence 1991 from Somalia; internationally unrecognised but operating effective statehood for 30+ years. Family-law framework operates under a three-layer system: Shafi'i Sunni Islamic-law (primary) via Sharia courts, English common-law substantive heritage (via 1884-1960 British Somaliland Protectorate), and customary-law (Xeer) jurisdiction. The Somaliland Constitution 2001 establishes Sharia as the primary source of law. Family-law framework is largely uncodified — the Somaliland Family Code remains in draft form. Parental authority and child custody are governed by Sharia provisions applied via Sharia courts and Xeer customary-law tribunals. The Supreme Court of Somaliland is the apex court for civil and criminal matters. Family-law matters are heard at first instance in District Courts, Sharia courts, and Xeer tribunals. Psychology profession regulation is uncertain. Somaliland is silent on 'parental alienation' as a statutory label. Somaliland is not a Hague Convention 1980 party due to lack of international recognition.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Somaliland Constitution 2001",
+      "title": "Somaliland Constitution",
+      "year": 2001,
+      "url": "https://www.somalilandlaw.com/",
+      "relevance": "Constitution establishing Sharia as primary source of law and institutional framework for de facto independent state."
+    },
+    {
+      "citation": "Shafi'i Sunni Islamic-law framework + Xeer customary-law",
+      "title": "Shafi'i + Xeer framework",
+      "year": 1991,
+      "url": "https://www.somalilandlaw.com/",
+      "relevance": "Largely uncodified family-law framework operating through Sharia courts and Xeer customary-law tribunals."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Somaliland",
+      "seat": "Hargeisa",
+      "url": "https://www.somalilandlaw.com/",
+      "role": "Apex court for civil and criminal matters within Somaliland framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Somaliland Ministry of Health",
+      "url": "",
+      "role": "Federal regulator of health professionals; clinical psychology framework not consistently documented."
+    }
+  ],
+  "anonymisation_convention": "Somaliland family-court decisions are anonymised per court practice using initials where available.",
+  "key_developments": [
+    {
+      "year": 1884,
+      "title": "British Somaliland Protectorate established",
+      "description": "British Somaliland Protectorate established — English common-law substantive heritage commenced."
+    },
+    {
+      "year": 1960,
+      "title": "Independence + union with Italian Somaliland",
+      "description": "Somaliland achieved brief independence 26 June 1960; united with Italian Somaliland to form Somali Republic on 1 July 1960."
+    },
+    {
+      "year": 1991,
+      "title": "Declaration of independence from Somalia",
+      "description": "Somaliland declared independence from Somalia following civil-war collapse — internationally unrecognised but operating effective statehood."
+    },
+    {
+      "year": 2001,
+      "title": "Somaliland Constitution",
+      "description": "Constitution establishing Sharia as primary source of law and institutional framework."
+    }
+  ],
+  "structural_findings": [
+    "Somaliland operates a structurally distinctive globally three-layer mixed-legal-system framework — Shafi'i Sunni Islamic-law primary + English common-law substantive heritage (via pre-1960 Protectorate) + Xeer customary-law. Within the disputed/unrecognised state cluster.",
+    "Internationally unrecognised but operating effective statehood for 30+ years (1991-) is structurally distinctive globally within the corpus — most-long-standing unrecognised de facto state in the corpus.",
+    "Pre-1960 British Protectorate inheritance distinguishes Somaliland's legal-system framework from rest of Somalia (Italian-derivative).",
+    "Non-Hague Convention status due to lack of international recognition (cannot accede)."
+  ],
+  "references": [
+    "jurisdiction:somalia",
+    "jurisdiction:djibouti",
+    "jurisdiction:ethiopia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Somaliland Law",
+      "url": "https://www.somalilandlaw.com/",
+      "publisher": "Somaliland Law research portal",
+      "language": "en,so,ar"
+    },
+    {
+      "title": "Refworld (UNHCR) — Somaliland documents",
+      "url": "https://www.refworld.org/",
+      "publisher": "UNHCR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Somaliland jurisdiction sidecar — three-layer mixed-legal-system Horn of Africa de facto independent state (Shafi'i Sunni Islamic-law primary + English common-law substantive heritage + Xeer customary-law + Constitution 2001 + non-Hague-due-to-recognition). Most-long-standing unrecognised de facto state in corpus.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Horn of Africa + de-facto-unrecognised-state-distinctive + Shafi'i + Xeer-customary-law + pre-1960-Protectorate-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

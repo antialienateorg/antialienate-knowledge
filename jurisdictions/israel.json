@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "id": "israel",
+  "name": "Israel (ישראל / إسرائيل)",
+  "jurisdiction_code": "IL",
+  "legal_system": "mixed",
+  "language": ["he", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Israel operates a mixed-legal-system framework combining common-law procedural inheritance, civil-law statutory layers, and religious-court personal-status jurisdiction. Family-court matters are governed by the Family Court Law 1995 (חוק בית המשפט לענייני משפחה) for civil matters and by the religious courts of the recognised communities (Jewish — Beit Din; Muslim — Sharia courts; Christian and Druze courts) for personal-status matters under their respective jurisdictions. Custody, residence and contact are governed by the Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) with the welfare-of-the-child standard codified in s. 17. The Supreme Court of Israel (בית המשפט העליון) is the apex court for civil matters and operates the High Court of Justice (בג\"ץ / Bagatz) constitutional-review jurisdiction. Psychology profession is regulated under the Psychologists Law 1977 (חוק הפסיכולוגים) operated by the Ministry of Health Psychologists Registration Board. Israel is silent on 'parental alienation' as a statutory label; family-court practice operates substantively under the welfare standard. Israeli social-services and child-welfare literature has engaged the PA-construct critically since the 2010s.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17",
+      "title": "Capacity and Guardianship Law — Welfare of the Child",
+      "year": 1962,
+      "url": "https://www.nevo.co.il/law_html/Law01/077_001.htm",
+      "relevance": "Federal statutory basis for custody and guardianship. § 17 codifies the welfare-of-the-child standard as the governing principle for parental decision-making and dispute resolution. Substantive hook for PA-adjacent custody-modification analysis."
+    },
+    {
+      "citation": "Family Court Law 1995 (חוק בית המשפט לענייני משפחה)",
+      "title": "Family Court Law 1995",
+      "year": 1995,
+      "url": "https://www.nevo.co.il/law_html/Law01/255_001.htm",
+      "relevance": "Established the specialised civil Family Courts (Beit Mishpat L'inyenei Mishpacha) with jurisdiction over family-law matters including custody, contact, child-maintenance and property. Operates in parallel with the religious-court jurisdiction over personal-status matters."
+    },
+    {
+      "citation": "Psychologists Law 1977 (חוק הפסיכולוגים)",
+      "title": "Psychologists Law 1977",
+      "year": 1977,
+      "url": "https://www.nevo.co.il/law_html/Law01/180_006.htm",
+      "relevance": "Federal statute establishing the Psychologists Registration Board under the Ministry of Health. Statutorily protected title 'psychologist' requires registration; statutory regulation of the specialisation tracks (clinical, educational, developmental, rehabilitation, occupational, medical, social)."
+    },
+    {
+      "citation": "Basic Law: Human Dignity and Liberty 1992",
+      "title": "Basic Law: Human Dignity and Liberty",
+      "year": 1992,
+      "url": "https://www.nevo.co.il/law_html/Law01/184_001.htm",
+      "relevance": "Quasi-constitutional Basic Law cited in Supreme Court reasoning on welfare and parental rights. Operates as the constitutional anchor for proportionality analysis in family-court appellate review."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Israel (בית המשפט העליון)",
+      "seat": "Jerusalem",
+      "url": "https://supreme.court.gov.il/",
+      "role": "Apex court for civil and criminal matters; sits as the High Court of Justice (בג\"ץ / Bagatz) in original constitutional/administrative review jurisdiction. Family-law decisions reach the Supreme Court via the District Court (mahoz) following first-instance Family Court (mishpacha) determinations."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health Psychologists Registration Board (משרד הבריאות — מועצת הפסיכולוגים)",
+      "url": "https://www.health.gov.il/Subjects/mental_health/Pages/psychologists.aspx",
+      "role": "Statutory registration board for psychologists under the Psychologists Law 1977. Issues the statutory registration and supervises specialisation training requirements across the recognised tracks."
+    },
+    {
+      "name": "Israel Psychological Association (הסתדרות הפסיכולוגים בישראל / IPA)",
+      "url": "https://www.psychology.org.il/",
+      "role": "Peak professional association for psychologists in Israel. Operates ethics code, divisional structures and complaints procedure alongside the statutory Ministry of Health regime."
+    }
+  ],
+  "anonymisation_convention": "Israeli family-court decisions are anonymised per published practice using either initials, single Hebrew letters, or 'פלוני / פלונית' (Ploni/Plonit, equivalent to John Doe/Jane Doe). Published decisions on Nevo and on the Israeli judiciary's portal strip identifying details. Sits within the European/civil-law initials-pseudonym cluster.",
+  "key_developments": [
+    {
+      "year": 1962,
+      "title": "Capacity and Guardianship Law 1962",
+      "description": "Federal statutory framework for custody and guardianship; welfare-of-the-child standard codified."
+    },
+    {
+      "year": 1977,
+      "title": "Psychologists Law 1977",
+      "description": "Federal statutory psychology profession regulation; statutory title protection and specialisation track regulation under Ministry of Health."
+    },
+    {
+      "year": 1992,
+      "title": "Basic Law: Human Dignity and Liberty",
+      "description": "Quasi-constitutional Basic Law enacted; subsequently used by Supreme Court for proportionality analysis."
+    },
+    {
+      "year": 1995,
+      "title": "Family Court Law 1995",
+      "description": "Specialised civil Family Courts established with jurisdiction over family-law matters parallel to religious-court personal-status jurisdiction."
+    }
+  ],
+  "structural_findings": [
+    "Israel operates a structurally distinctive mixed-jurisdiction model within the corpus — common-law procedural inheritance + civil-law statutory layers + religious-court personal-status jurisdiction. The religious-court parallel jurisdiction (Beit Din for Jewish matters; Sharia courts for Muslim; Christian and Druze courts) means that some custody-adjacent matters route through religious-court adjudication rather than civil Family Courts.",
+    "Psychologists Law 1977 statutory regulation places Israel among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE — with seven distinct statutorily-recognised specialisation tracks.",
+    "Israeli family-court practice has engaged the PA-construct critically since the 2010s with social-services and child-welfare literature substantially aligned with the global critique camp. Hebrew-language social-work and women's-rights research from this period sits structurally alongside the European critique register documented elsewhere in the corpus."
+  ],
+  "references": [
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Israel (Beit HaMishpat HaElyon)",
+      "url": "https://supreme.court.gov.il/",
+      "publisher": "State of Israel Judiciary",
+      "language": "he,en"
+    },
+    {
+      "title": "Nevo — Israeli legal database",
+      "url": "https://www.nevo.co.il/",
+      "publisher": "Nevo Legal Publishing",
+      "language": "he"
+    },
+    {
+      "title": "Ministry of Health — Psychologists",
+      "url": "https://www.health.gov.il/Subjects/mental_health/Pages/psychologists.aspx",
+      "publisher": "Ministry of Health, State of Israel",
+      "language": "he,ar,en"
+    },
+    {
+      "title": "Israel Psychological Association (IPA)",
+      "url": "https://www.psychology.org.il/",
+      "publisher": "IPA",
+      "language": "he"
+    }
+  ],
+  "editorial_notes": [
+    "Israel jurisdiction sidecar establishes the Israeli mixed-jurisdiction framework within the corpus. Capacity and Guardianship Law 1962 + Family Court Law 1995 + Psychologists Law 1977 + religious-court parallel jurisdiction.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. Hebrew-language social-services and child-welfare critique register operates substantively.",
+    "Joins federal-statutory psychology regulator cluster within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE."
+  ]
+}

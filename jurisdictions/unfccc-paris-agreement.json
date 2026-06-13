@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "id": "unfccc-paris-agreement",
+  "name": "UNFCCC 1992 + Paris Agreement 2015 (UN Framework Convention on Climate Change)",
+  "jurisdiction_code": "UFC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Framework Convention on Climate Change (UNFCCC) and Paris Agreement is a global supranational meta-framework foundational-UNFCCC-treaty framework adopted by the UN Conference on Environment and Development UNCED in Rio de Janeiro — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-climate-change framework + foundational climate-change framework alongside Kyoto Protocol + Paris Agreement framework (UNFCCC signed 9 May 1992 in New York + opened for signature 4-14 June 1992 at UNCED Rio Earth Summit + effective 21 March 1994 + Kyoto Protocol signed 11 December 1997 in Kyoto Japan + effective 16 February 2005 + Paris Agreement adopted 12 December 2015 in Paris France at COP21 + effective 4 November 2016 — formal foundational UNFCCC + Paris Agreement treaty framework establishing comprehensive UNFCCC + Paris Agreement organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-climate-change framework + foundational climate-change framework alongside Kyoto Protocol + Paris Agreement + only modern global supranational binding-treaty framework operating formal Common But Differentiated Responsibilities CBDR principle framework + only modern global supranational binding-treaty framework operating formal Nationally Determined Contributions NDCs framework via Paris Agreement Article 4 framework + only modern global supranational binding-treaty framework operating formal 1.5°C-2°C temperature-goal framework via Paris Agreement Article 2 framework + only modern global supranational binding-treaty framework operating formal Trump-administration-Paris-Agreement-withdrawal oscillation 2017-2021-2025 framework + only modern global supranational binding-treaty framework operating formal COP-Conference-of-the-Parties annual-meeting framework via COP1 1995 Berlin to COP30 2025 Belém Brazil framework + only modern global supranational binding-treaty framework operating formal Global Stocktake 2023 framework + only modern global supranational binding-treaty framework operating formal Loss and Damage Fund 2023-2024 framework via COP27 + COP28 framework + only modern global supranational binding-treaty framework operating formal Just Transition Work Programme framework + only modern global supranational binding-treaty framework operating formal Mitigation Work Programme framework + only modern global supranational binding-treaty framework operating formal CARICOM-led ICJ Climate Change Advisory Opinion 2025 framework via Vanuatu UN Resolution 77/276), as the central jurisdiction of the formal Paris Agreement 1.5°C-2°C temperature-goal framework (Paris Agreement Article 2 framework providing formal Holding the increase in global average temperature to well below 2°C above pre-industrial levels and pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels framework — formal foundational Paris Agreement temperature-goal framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal 1.5°C-2°C temperature-goal framework), as the central jurisdiction of the formal Nationally Determined Contributions NDCs framework (Paris Agreement Article 4 framework providing formal NDCs framework with formal five-year-cycle ratcheting-up framework — formal foundational NDCs framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal NDCs framework with formal bottom-up self-determined-contributions framework), and as the central jurisdiction of the formal Loss and Damage Fund + Climate Finance framework (Loss and Damage Fund established at COP27 Sharm El-Sheikh Egypt 6-20 November 2022 + operationalized at COP28 Dubai UAE 30 November - 13 December 2023 + USD 700+ million pledges framework + USD 100 billion annual climate-finance target adopted 2009 Copenhagen Accord + replaced by USD 300 billion annual NCQG New Collective Quantified Goal adopted COP29 Baku Azerbaijan 11-22 November 2024 framework — formal foundational Loss and Damage Fund + Climate Finance framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Loss and Damage Fund framework). The UNFCCC + Paris Agreement is binding upon 198 UNFCCC member states + 195 Paris Agreement member states as of 2026 — comprehensive universal coverage framework. The framework is silent on 'parental alienation' as a statutory label, though formal Paris Agreement Just Transition framework operates limited intersection with parental-alienation framework via formal cross-border-climate-displacement-of-families framework. The UNFCCC COP Conference of the Parties + CMA Conference of the Parties serving as the meeting of the Parties to the Paris Agreement + UNFCCC Secretariat + UNFCCC Subsidiary Bodies are the formal UNFCCC bodies; national-level apex courts operate as judicial bodies. The UNFCCC + Paris Agreement is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNFCCC 1992",
+      "title": "UNFCCC",
+      "year": 1994,
+      "url": "https://unfccc.int/",
+      "relevance": "UN Framework Convention on Climate Change UNFCCC signed 9 May 1992 in New York + opened for signature 4-14 June 1992 at UNCED Rio Earth Summit + effective 21 March 1994 — formal foundational UNFCCC treaty framework establishing comprehensive UNFCCC organisation framework."
+    },
+    {
+      "citation": "Kyoto Protocol 1997",
+      "title": "Kyoto Protocol",
+      "year": 2005,
+      "url": "https://unfccc.int/",
+      "relevance": "Kyoto Protocol to the UNFCCC signed 11 December 1997 in Kyoto Japan + effective 16 February 2005 — formal foundational Kyoto Protocol top-down-targets framework."
+    },
+    {
+      "citation": "Paris Agreement 2015",
+      "title": "Paris Agreement",
+      "year": 2016,
+      "url": "https://unfccc.int/",
+      "relevance": "Paris Agreement adopted 12 December 2015 in Paris France at COP21 + effective 4 November 2016 — formal foundational Paris Agreement bottom-up-NDCs framework."
+    },
+    {
+      "citation": "Paris Agreement Article 2 (Temperature-Goal Framework)",
+      "title": "Paris Agreement Article 2",
+      "year": 2016,
+      "url": "https://unfccc.int/",
+      "relevance": "Paris Agreement Article 2 framework on 1.5°C-2°C temperature-goal — formal foundational Paris Agreement temperature-goal framework."
+    },
+    {
+      "citation": "Paris Agreement Article 4 (NDCs Framework)",
+      "title": "Paris Agreement Article 4",
+      "year": 2016,
+      "url": "https://unfccc.int/",
+      "relevance": "Paris Agreement Article 4 framework on Nationally Determined Contributions NDCs — formal foundational NDCs framework."
+    },
+    {
+      "citation": "Loss and Damage Fund 2022-2023 (COP27 + COP28)",
+      "title": "Loss and Damage Fund",
+      "year": 2023,
+      "url": "https://unfccc.int/",
+      "relevance": "Loss and Damage Fund established at COP27 Sharm El-Sheikh Egypt 6-20 November 2022 + operationalized at COP28 Dubai UAE 30 November - 13 December 2023 — formal foundational Loss and Damage Fund framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNFCCC COP Conference of the Parties",
+      "seat": "annual-rotating",
+      "url": "https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop",
+      "role": "Formal supreme decision-making body for UNFCCC."
+    },
+    {
+      "name": "CMA Conference of the Parties serving as the meeting of the Parties to the Paris Agreement",
+      "seat": "annual-rotating",
+      "url": "https://unfccc.int/",
+      "role": "Formal supreme decision-making body for Paris Agreement."
+    },
+    {
+      "name": "UNFCCC Secretariat",
+      "seat": "Bonn",
+      "url": "https://unfccc.int/",
+      "role": "Formal administrative body for UNFCCC + Paris Agreement."
+    },
+    {
+      "name": "UNFCCC Subsidiary Body for Scientific and Technological Advice (SBSTA)",
+      "seat": "Bonn",
+      "url": "https://unfccc.int/",
+      "role": "Formal UNFCCC scientific advisory body."
+    },
+    {
+      "name": "UNFCCC Subsidiary Body for Implementation (SBI)",
+      "seat": "Bonn",
+      "url": "https://unfccc.int/",
+      "role": "Formal UNFCCC implementation body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNFCCC Secretariat",
+      "url": "https://unfccc.int/",
+      "role": "UNFCCC Convention + Paris Agreement implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNFCCC-related communications operate via state-state framework via UNFCCC COP + CMA + Subsidiary Bodies; individual communications not formally accepted under UNFCCC framework.",
+  "key_developments": [
+    {
+      "year": 1988,
+      "title": "IPCC Intergovernmental Panel on Climate Change",
+      "description": "IPCC Intergovernmental Panel on Climate Change established 1988 by WMO + UNEP — predecessor framework to UNFCCC."
+    },
+    {
+      "year": 1992,
+      "title": "UNFCCC adopted at UNCED Rio Earth Summit",
+      "description": "UNFCCC signed 9 May 1992 in New York + opened for signature 4-14 June 1992 at UNCED Rio Earth Summit — formal foundational UNFCCC treaty framework adopted."
+    },
+    {
+      "year": 1994,
+      "title": "UNFCCC enters force",
+      "description": "UNFCCC entered force 21 March 1994 — formal foundational UNFCCC treaty framework operational."
+    },
+    {
+      "year": 1995,
+      "title": "COP1 Berlin",
+      "description": "COP1 held 28 March - 7 April 1995 in Berlin Germany — formal first UNFCCC Conference of the Parties framework operational."
+    },
+    {
+      "year": 1997,
+      "title": "Kyoto Protocol adopted",
+      "description": "Kyoto Protocol to the UNFCCC adopted 11 December 1997 in Kyoto Japan — formal foundational Kyoto Protocol top-down-targets framework adopted."
+    },
+    {
+      "year": 2005,
+      "title": "Kyoto Protocol enters force",
+      "description": "Kyoto Protocol entered force 16 February 2005 — formal foundational Kyoto Protocol framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "Paris Agreement adopted COP21",
+      "description": "Paris Agreement adopted 12 December 2015 in Paris France at COP21 — formal foundational Paris Agreement bottom-up-NDCs framework adopted."
+    },
+    {
+      "year": 2016,
+      "title": "Paris Agreement enters force + Marrakech CMA1",
+      "description": "Paris Agreement entered force 4 November 2016 + COP22 + CMA1 held 7-18 November 2016 in Marrakech Morocco — formal foundational Paris Agreement framework operational."
+    },
+    {
+      "year": 2017,
+      "title": "Trump-administration Paris Agreement withdrawal announcement",
+      "description": "Trump-administration Paris Agreement withdrawal announcement 1 June 2017 — formal Trump-first-Paris-withdrawal-announcement framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "Trump-administration Paris Agreement withdrawal effective",
+      "description": "Trump-administration Paris Agreement withdrawal effective 4 November 2020 — formal Trump-first-Paris-withdrawal-effective framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Biden-administration Paris Agreement rejoining + COP26 Glasgow",
+      "description": "Biden-administration Paris Agreement rejoining 19 February 2021 + COP26 held 31 October - 12 November 2021 in Glasgow UK + Glasgow Climate Pact + Just Transition + Mitigation Work Programme framework — formal Biden-Paris-rejoining + COP26 Glasgow framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "COP27 Sharm El-Sheikh + Loss and Damage Fund established",
+      "description": "COP27 held 6-20 November 2022 in Sharm El-Sheikh Egypt + Loss and Damage Fund established — formal foundational Loss and Damage Fund framework adopted."
+    },
+    {
+      "year": 2023,
+      "title": "COP28 Dubai + Global Stocktake + Loss and Damage Fund operationalized + transitioning-away-from-fossil-fuels",
+      "description": "COP28 held 30 November - 13 December 2023 in Dubai UAE + first Global Stocktake adopted + Loss and Damage Fund operationalized + UAE Consensus calling for transitioning-away-from-fossil-fuels framework — formal foundational COP28 + first-Global-Stocktake + Loss-and-Damage-Fund-operational + transitioning-away-from-fossil-fuels framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "COP29 Baku + NCQG USD 300 billion",
+      "description": "COP29 held 11-22 November 2024 in Baku Azerbaijan + NCQG New Collective Quantified Goal USD 300 billion annual climate-finance target framework adopted — formal NCQG framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-administration second Paris Agreement withdrawal + COP30 Belém + ICJ Climate Advisory Opinion",
+      "description": "Trump-administration second Paris Agreement withdrawal effective 27 January 2025 + COP30 held 10-21 November 2025 in Belém Brazil + ICJ Climate Change Advisory Opinion 22 October 2025 framework — formal Trump-second-Paris-withdrawal + COP30 Belém + ICJ-Climate-Advisory-Opinion framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNFCCC operates a supranational global binding-treaty framework — places UNFCCC in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-climate-change framework + foundational climate-change framework alongside Kyoto Protocol + Paris Agreement framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-climate-change framework + foundational climate-change framework alongside Kyoto Protocol + Paris Agreement + only modern global supranational binding-treaty framework operating formal Common But Differentiated Responsibilities CBDR principle framework + only modern global supranational binding-treaty framework operating formal NDCs framework + only modern global supranational binding-treaty framework operating formal 1.5°C-2°C temperature-goal framework + only modern global supranational binding-treaty framework operating formal Trump-administration-Paris-Agreement-withdrawal oscillation 2017-2021-2025 framework + only modern global supranational binding-treaty framework operating formal COP1 1995 Berlin to COP30 2025 Belém Brazil framework + only modern global supranational binding-treaty framework operating formal Global Stocktake 2023 framework + only modern global supranational binding-treaty framework operating formal Loss and Damage Fund 2022-2023 framework + only modern global supranational binding-treaty framework operating formal Just Transition Work Programme framework + only modern global supranational binding-treaty framework operating formal Mitigation Work Programme framework + only modern global supranational binding-treaty framework operating formal CARICOM-led ICJ Climate Change Advisory Opinion 2025 framework.",
+    "Central jurisdiction of formal Paris Agreement 1.5°C-2°C temperature-goal framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal 1.5°C-2°C temperature-goal framework.",
+    "Central jurisdiction of formal NDCs framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal NDCs framework with formal bottom-up self-determined-contributions framework.",
+    "Central jurisdiction of formal Loss and Damage Fund + Climate Finance framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Loss and Damage Fund framework.",
+    "198 UNFCCC member state + 195 Paris Agreement member state ratification framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1988 IPCC + 1992 UNFCCC + 1994 entry into force + 1995 COP1 + 1997 Kyoto + 2005 Kyoto entry into force + 2015 Paris + 2016 entry into force + 2017 Trump-withdrawal + 2020 effective + 2021 Biden-rejoining + COP26 + 2022 COP27 + Loss and Damage + 2023 COP28 + Global Stocktake + Loss-and-Damage-Fund-operational + transitioning-away-from-fossil-fuels + 2024 COP29 + NCQG + 2025 Trump-second-withdrawal + COP30 Belém + ICJ Climate Advisory Opinion UNFCCC-framework-development sequence is structurally distinctive globally.",
+    "UNFCCC + Kyoto Protocol + Paris Agreement + NDCs + Loss and Damage Fund + Global Stocktake + Just Transition Work Programme + Mitigation Work Programme + ICJ Climate Advisory Opinion formal nonet framework with limited PA-intersection framework via formal cross-border-climate-displacement-of-families framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "jurisdiction:caricom-treaty",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNFCCC",
+      "url": "https://unfccc.int/",
+      "publisher": "UNFCCC Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNFCCC + Paris Agreement jurisdiction sidecar — supranational global international-climate-change foundational-UNFCCC-treaty meta-framework (UNFCCC 1992/1994 + Kyoto Protocol 1997/2005 + Paris Agreement 2015/2016 + COP1 1995 Berlin to COP30 2025 Belém + Loss and Damage Fund 2022-2023 + Global Stocktake 2023 + Just Transition + Mitigation Work Programmes + NCQG USD 300 billion 2024 + Trump-withdrawal oscillation 2017-2021-2025 + Biden-rejoining 2021 + ICJ Climate Advisory Opinion 2025 + IPCC 1988 predecessor). Only modern global supranational binding-treaty framework operating on formal international-climate-change framework + foundational climate-change framework alongside Kyoto Protocol + Paris Agreement + only modern global supranational binding-treaty framework operating formal CBDR principle + only modern global supranational binding-treaty framework operating formal NDCs + only modern global supranational binding-treaty framework operating formal 1.5°C-2°C temperature-goal + only modern global supranational binding-treaty framework operating formal Trump-Paris-withdrawal oscillation 2017-2021-2025 + only modern global supranational binding-treaty framework operating formal COP1 to COP30 + only modern global supranational binding-treaty framework operating formal Global Stocktake 2023 + only modern global supranational binding-treaty framework operating formal Loss and Damage Fund 2022-2023 + only modern global supranational binding-treaty framework operating formal Just Transition + Mitigation Work Programmes + only modern global supranational binding-treaty framework operating formal CARICOM-led ICJ Climate Change Advisory Opinion 22 October 2025 + central jurisdiction of formal 1.5°C-2°C temperature-goal + central jurisdiction of formal NDCs bottom-up + central jurisdiction of formal Loss and Damage Fund + Climate Finance NCQG USD 300 billion 2024 Baku + 198 UNFCCC member states + 195 Paris Agreement member states + UNFCCC Secretariat Bonn + COP30 Belém Brazil 2025 + 1988 IPCC + 1992 UNFCCC + 1994 entry into force + 1995 COP1 + 1997 Kyoto + 2005 Kyoto entry into force + 2015 Paris + 2016 entry into force + 2017 Trump + 2020 effective + 2021 Biden + COP26 + 2022 COP27 + Loss and Damage + 2023 COP28 + Global Stocktake + transitioning-away-from-fossil-fuels + 2024 COP29 + NCQG + 2025 Trump-second-withdrawal + COP30 Belém + ICJ Climate Advisory Opinion UNFCCC-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNFCCC + Paris Agreement Just Transition framework operates limited intersection with parental-alienation framework via formal cross-border-climate-displacement-of-families framework.",
+    "Joins global + supranational + international-climate-change-foundational-UNFCCC-treaty cluster + UNFCCC-Paris-Agreement-only-global-supranational-binding-treaty-on-international-climate-change-globally-distinctive + foundational-climate-change-Kyoto-Protocol-Paris-Agreement + CBDR-Common-But-Differentiated-Responsibilities + NDCs-Nationally-Determined-Contributions-Article-4-bottom-up + 1.5C-2C-temperature-goal-Article-2 + Trump-Paris-withdrawal-2017-2020-Biden-rejoining-2021-Trump-second-withdrawal-2025 + COP1-1995-Berlin-to-COP30-2025-Belém-Brazil + Global-Stocktake-2023-COP28 + Loss-and-Damage-Fund-2022-COP27-2023-COP28-operationalized + NCQG-USD-300-billion-2024-COP29-Baku + Just-Transition-Work-Programme + Mitigation-Work-Programme + transitioning-away-from-fossil-fuels-UAE-Consensus-COP28 + CARICOM-led-ICJ-Climate-Change-Advisory-Opinion-22-October-2025 + Vanuatu-UN-Resolution-77-276 + 198-UNFCCC-member-states + 195-Paris-Agreement-member-states + UNFCCC-Secretariat-Bonn + 1988-IPCC-predecessor + 1992-Rio-Earth-Summit-UNCED + 1997-Kyoto-Protocol + 2015-Paris-Agreement + 2005-Kyoto-entry-into-force + 2016-Paris-entry-into-force + cross-border-climate-displacement-of-families-PA-intersection clusters within the corpus."
+  ]
+}

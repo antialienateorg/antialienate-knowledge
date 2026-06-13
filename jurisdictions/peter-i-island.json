@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "peter-i-island",
+  "name": "Peter I Island (Peter I Øy)",
+  "jurisdiction_code": "AQ-PI",
+  "legal_system": "civil-law",
+  "language": ["no"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Peter I Island (Peter I Øy) is an Antarctic civil-law Norwegian dependency comprising a single ice-covered volcanic island in the Bellingshausen Sea off the coast of West Antarctica (~450 km from the Antarctic continent) — structurally distinctive globally as one of the most rarely-visited landmasses on Earth (estimated total human visitors <650 since discovery), and as Norway's third Antarctic-region dependency completing the Queen Maud Land + Bouvet Island + Peter I Island triad. Peter I Island was annexed by Norway via Royal Decree of 1 May 1931 following the 1929 Norvegia expedition landing, and was Norway's only South-of-60°S claim outside Queen Maud Land. Despite being south of 60°S, Peter I Island is governed under the Dependencies Act 1930 alongside Queen Maud Land (Antarctic) and Bouvet Island (Sub-Antarctic). Peter I Island has no permanent population — visited only by very occasional Norwegian Polar Institute and DX-pedition amateur radio expeditions. Family-law framework is theoretical given the absence of permanent population, but operates under Norwegian law applied via the Dependencies Act 1930. Parental authority and child custody would in principle operate under the Norwegian Children Act 1981 (Barnelova). Norwegian courts have jurisdiction over Peter I Island matters; final appellate jurisdiction lies with the Supreme Court of Norway. Peter I Island is silent on 'parental alienation' as a statutory label. Peter I Island is a Hague Convention 1980 party via Norwegian territorial extension. The Antarctic Treaty 1959 article IV claim-suspension framework applies to Peter I Island as a south-of-60°S claim.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Dependencies Act 1930 (Bilandsloven, Norway)",
+      "title": "Dependencies Act 1930",
+      "year": 1930,
+      "url": "https://lovdata.no/",
+      "relevance": "Norwegian Act of 27 February 1930 establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework — applicable to Peter I Island."
+    },
+    {
+      "citation": "Royal Decree of 1 May 1931 (Peter I Island annexation)",
+      "title": "Peter I Island Annexation Decree 1931",
+      "year": 1931,
+      "url": "https://lovdata.no/",
+      "relevance": "Norwegian Royal Decree of 1 May 1931 formally annexing Peter I Island to Norway."
+    },
+    {
+      "citation": "Antarctic Treaty 1959 (article IV claim suspension)",
+      "title": "Antarctic Treaty",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "International treaty providing for Antarctic claim suspension under article IV — Peter I Island claim suspended pending Treaty term (south of 60°S)."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Norwegian District Court (Tingrett) — Peter I Island jurisdiction",
+      "seat": "Oslo",
+      "url": "https://www.domstol.no/",
+      "role": "First-instance court for civil matters from Peter I Island — theoretical given absence of permanent population."
+    },
+    {
+      "name": "Supreme Court of Norway (Høyesterett)",
+      "seat": "Oslo",
+      "url": "https://www.domstol.no/hoyesterett/",
+      "role": "Final appellate court for civil and criminal matters from Peter I Island."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Norwegian Directorate of Health (Helsedirektoratet)",
+      "url": "https://www.helsedirektoratet.no/",
+      "role": "Norwegian professional regulatory framework — theoretical given absence of permanent population."
+    }
+  ],
+  "anonymisation_convention": "Peter I Island decisions are anonymised per Norwegian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1821,
+      "title": "Peter I Island discovery",
+      "description": "Russian Antarctic expedition led by Fabian Gottlieb von Bellingshausen discovered Peter I Island on 21 January 1821 and named it after Tsar Peter the Great."
+    },
+    {
+      "year": 1929,
+      "title": "First landing on Peter I Island",
+      "description": "Norwegian Norvegia expedition led by Nils Larsen achieved first landing on Peter I Island on 2 February 1929."
+    },
+    {
+      "year": 1930,
+      "title": "Dependencies Act (Bilandsloven)",
+      "description": "Norwegian Act of 27 February 1930 establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework."
+    },
+    {
+      "year": 1931,
+      "title": "Peter I Island annexation",
+      "description": "Norwegian Royal Decree of 1 May 1931 formally annexing Peter I Island to Norway."
+    },
+    {
+      "year": 1959,
+      "title": "Antarctic Treaty signed",
+      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Peter I Island claim suspended pending Treaty term."
+    },
+    {
+      "year": 1989,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by Norway to Peter I Island effective 1 April 1989."
+    }
+  ],
+  "structural_findings": [
+    "Peter I Island operates a civil-law Norwegian-law framework — places Peter I Island in the Norwegian Antarctic-dependency cluster.",
+    "Norway's third Antarctic-region dependency completing Queen Maud Land + Bouvet + Peter I triad is structurally distinctive globally — Norway is the only state with three Antarctic-region dependencies (one Antarctic, one Sub-Antarctic Atlantic, one Antarctic Pacific).",
+    "One of the most rarely-visited landmasses on Earth (estimated total human visitors <650) is structurally distinctive globally.",
+    "Russian discovery (Bellingshausen 1821) of a now-Norwegian Antarctic claim is structurally distinctive — only Norwegian Antarctic claim discovered by Imperial Russia.",
+    "Antarctic Treaty article IV claim suspension applies as south-of-60°S claim — shared with Queen Maud Land and other Antarctic claim-jurisdictions.",
+    "Absence of permanent population renders family-law framework theoretical — structurally distinctive within Hague Convention party cluster."
+  ],
+  "references": [
+    "jurisdiction:norway",
+    "jurisdiction:queen-maud-land",
+    "jurisdiction:bouvet-island",
+    "jurisdiction:british-antarctic-territory",
+    "jurisdiction:russia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Norwegian Polar Institute",
+      "url": "https://www.npolar.no/",
+      "publisher": "Norwegian Government",
+      "language": "no"
+    },
+    {
+      "title": "Lovdata",
+      "url": "https://lovdata.no/",
+      "publisher": "Norwegian Government",
+      "language": "no"
+    },
+    {
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "publisher": "Antarctic Treaty Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Peter I Island (Peter I Øy) jurisdiction sidecar — civil-law Antarctic Norwegian dependency (Norwegian law + Dependencies Act 1930 + 1931 annexation + Antarctic Treaty 1959 article IV claim suspension + Hague via Norwegian territorial extension 1989). One of the most rarely-visited landmasses on Earth globally + Russian discovery (Bellingshausen 1821) of now-Norwegian Antarctic claim + completes Norway's Antarctic-region dependencies triad (Queen Maud Land + Bouvet + Peter I).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Antarctic + civil-law + Norwegian-dependency cluster + most-rarely-visited-landmass-globally-distinctive + Russian-discovery-of-Norwegian-claim + Norwegian-Antarctic-dependencies-triad + Antarctic-Treaty-article-IV-claim-suspension + Hague-via-Norwegian-territorial-extension clusters within the corpus."
+  ]
+}

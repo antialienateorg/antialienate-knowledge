@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0",
+  "id": "costa-rica",
+  "name": "Costa Rica (Republic of Costa Rica / República de Costa Rica)",
+  "jurisdiction_code": "CR",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Costa Rica is a Central American civil-law republic whose family-law framework operates under the Family Code 1973 (Código de Familia, Law 5476) — among the earlier comprehensive Latin American Family Codes. The Family Code was substantively reformed by Law 7689 of 1997, Law 8101 of 2001 (Responsible Parenthood Law) and subsequent modernisation. Parental authority (patria potestad) and child custody are governed by Family Code arts. 140-160. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Chamber (Sala Constitucional) operates within the Supreme Court with constitutional review jurisdiction. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated under the Colegio de Profesionales en Psicología de Costa Rica (Psychology Professional College Law 1977) — among the earliest Latin American statutory psychology professional regulation. Costa Rica is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1998 art. 5. Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1973 (Law 5476) arts. 140-160",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1973,
+      "url": "https://www.poder-judicial.go.cr/",
+      "relevance": "Federal Family Code among earlier comprehensive Latin American Family Codes. Substantively reformed by Law 7689/1997, Law 8101/2001 (Responsible Parenthood Law). Arts. 140-160 govern patria potestad and child custody."
+    },
+    {
+      "citation": "Children and Adolescents Code 1998 (Law 7739)",
+      "title": "Children and Adolescents Code",
+      "year": 1998,
+      "url": "https://www.poder-judicial.go.cr/",
+      "relevance": "Federal Children and Adolescents Code aligned with UNCRC obligations codifying superior-interest principle."
+    },
+    {
+      "citation": "Responsible Parenthood Law 2001 (Law 8101)",
+      "title": "Responsible Parenthood Law",
+      "year": 2001,
+      "url": "https://www.poder-judicial.go.cr/",
+      "relevance": "Federal statute on responsible parenthood and paternity establishment — structurally distinctive Latin American codification."
+    },
+    {
+      "citation": "Psychology Professional College Law 1977 (Law 6144)",
+      "title": "Psychology Professional College Law",
+      "year": 1977,
+      "url": "https://www.colpsico.cr/",
+      "relevance": "Federal statute establishing Colegio de Profesionales en Psicología — among earliest Latin American statutory psychology regulation."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Justice (Corte Suprema de Justicia)",
+      "seat": "San José",
+      "url": "https://www.poder-judicial.go.cr/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Chamber (Sala Constitucional)",
+      "seat": "San José",
+      "url": "https://www.poder-judicial.go.cr/",
+      "role": "Constitutional Chamber within Supreme Court with constitutional review jurisdiction."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Colegio de Profesionales en Psicología de Costa Rica",
+      "url": "https://www.colpsico.cr/",
+      "role": "Federal professional college for psychologists in Costa Rica established by Law 6144/1977 — among earliest Latin American statutory psychology regulation."
+    }
+  ],
+  "anonymisation_convention": "Costa Rican family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1973,
+      "title": "Family Code 1973",
+      "description": "Federal Family Code enacted — among earlier comprehensive Latin American Family Codes."
+    },
+    {
+      "year": 1977,
+      "title": "Psychology Professional College Law",
+      "description": "Federal statute establishing Colegio de Profesionales en Psicología — among earliest Latin American statutory psychology regulation."
+    },
+    {
+      "year": 1997,
+      "title": "Family Code Reform Law 7689",
+      "description": "Substantive reform of Family Code provisions."
+    },
+    {
+      "year": 1998,
+      "title": "Children and Adolescents Code (Law 7739)",
+      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC."
+    },
+    {
+      "year": 1999,
+      "title": "Hague Convention 1980 accession",
+      "description": "Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999."
+    },
+    {
+      "year": 2001,
+      "title": "Responsible Parenthood Law (Law 8101)",
+      "description": "Federal statute on responsible parenthood and paternity establishment — structurally distinctive Latin American codification."
+    }
+  ],
+  "structural_findings": [
+    "Costa Rica operates a structurally distinctive Spanish-civil-law family-law framework — Family Code 1973 was among earlier comprehensive Latin American Family Codes, and Psychology Professional College Law 1977 is among earliest Latin American statutory psychology regulations in the corpus.",
+    "Responsible Parenthood Law 2001 is structurally distinctive — among earliest Latin American codifications addressing responsible parenthood and paternity establishment as legal obligation.",
+    "Hague Convention 1980 accession 1999 places Costa Rica as among earlier Latin American Hague accessions in the corpus."
+  ],
+  "references": [
+    "jurisdiction:guatemala",
+    "jurisdiction:mexico",
+    "jurisdiction:spain",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Power of Costa Rica (Poder Judicial)",
+      "url": "https://www.poder-judicial.go.cr/",
+      "publisher": "Judicial Power",
+      "language": "es"
+    },
+    {
+      "title": "Colegio de Profesionales en Psicología",
+      "url": "https://www.colpsico.cr/",
+      "publisher": "Psychology Professional College",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Costa Rica jurisdiction sidecar — civil-law Central America (Family Code 1973 + Children and Adolescents Code 1998 + Responsible Parenthood Law 2001 + Psychology Professional College Law 1977 — earliest Latin American + Hague Convention 1980 accession 1999).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Latin American + civil-law + Central American + early-Latin-American-psychology-regulation distinctive cluster + Hague Convention clusters within the corpus."
+  ]
+}

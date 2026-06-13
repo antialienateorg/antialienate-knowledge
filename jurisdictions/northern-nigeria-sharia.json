@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "id": "northern-nigeria-sharia",
+  "name": "Northern Nigerian Sharia Framework (12-State Sharia Framework)",
+  "jurisdiction_code": "NG-SHA",
+  "legal_system": "mixed",
+  "language": ["en", "ha", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Northern Nigerian Sharia Framework (formally 12-State Sharia Framework) is a Sub-Saharan African mixed common-law/Sharia-customary supranational meta-framework operating across 12 constituent states of the Federal Republic of Nigeria — structurally distinctive globally as the only modern sub-national Sharia framework operating across multiple constituent states of a single federal sovereign state (12 Northern Nigerian states + Federal Capital Territory framework: Bauchi + Borno + Gombe + Jigawa + Kaduna + Kano + Katsina + Kebbi + Niger + Sokoto + Yobe + Zamfara — formal multi-state Sharia framework adopted incrementally 1999-2002 with Zamfara State Sharia Penal Code Law 1999 effective 27 January 2000 establishing template framework + 11 subsequent Northern Nigerian state Sharia frameworks 2000-2002, distinct from rest-of-modern-sub-national-Sharia frameworks operating in single sub-national territories like Aceh + Brunei state-equivalent frameworks), as the central jurisdiction of the most significant modern Christian-Muslim sub-national legal-framework tension globally (Sharia framework 1999-2002 adoption catalysed 2000 Kaduna riots ~2,000-5,000 deaths + 2001-2010 Plateau State sectarian-violence framework ~5,000 cumulative deaths + 2009-2026 Boko Haram insurgency framework ~50,000-100,000 cumulative deaths + Lake Chad Basin Crisis framework — most significant modern Christian-Muslim sub-national legal-framework tension globally), as the only modern Sharia framework operating formal Hisbah religious-police framework with parallel formal civilian-government framework (Hisbah Boards established in Kano + Zamfara + Sokoto + other Northern Nigerian states 2000-2003 — formal Sharia-enforcement police framework operating in parallel with formal civilian-government police framework, distinct from rest-of-modern-Sharia-frameworks operating without formal parallel religious-police framework), and as the central jurisdiction of one of the most significant modern legal-pluralism frameworks globally (formal three-tier legal-pluralism framework: Nigerian Federal Constitution 1999 + State Sharia Penal Code framework + State Customary Law framework operating across same territorial framework — only modern formal three-tier legal-pluralism framework globally). The Northern Nigerian Sharia Framework historically operated under Sokoto Caliphate 1804-1903 + British Northern Nigeria Protectorate 1900-1914 + British Nigeria framework 1914-1960 + Northern Nigeria Region 1954-1967 + Nigerian Federal States 1967-1999 + Sharia Framework 1999-2002+. The Northern Nigerian Sharia Framework comprises ~12 states of Nigerian federal framework with a combined population of ~95-100 million. Family-law framework operates under a dual federal Nigerian common-law framework (Nigerian Marriage Act 1914) + state-level Sharia Personal Status framework + State Customary Law framework. The Sharia Courts of Appeal (12 state-level) are the apex regional Sharia courts; the Court of Appeal of Nigeria + Supreme Court of Nigeria are the apex federal courts. Northern Nigerian Sharia Framework is silent on 'parental alienation' as a statutory label. Nigeria is a Hague Convention 1980 signatory and party (acceded 14 February 2024 effective 1 May 2024) — Northern Nigerian Sharia Framework is governed by Nigerian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Zamfara State Sharia Penal Code Law 1999 (template framework)",
+      "title": "Zamfara State Sharia Penal Code Law",
+      "year": 2000,
+      "url": "https://www.zamfarastate.gov.ng/",
+      "relevance": "Zamfara State Sharia Penal Code Law signed 8 October 1999 effective 27 January 2000 — first Northern Nigerian Sharia framework + template framework for subsequent 11 Northern Nigerian state Sharia frameworks 2000-2002."
+    },
+    {
+      "citation": "12-State Sharia Framework Adoption 1999-2002",
+      "title": "12-State Sharia Framework Adoption",
+      "year": 2002,
+      "url": "https://www.fmj.gov.ng/",
+      "relevance": "12-State Sharia Framework adopted incrementally 1999-2002: Zamfara 1999 + Kano 2000 + Sokoto 2000 + Katsina 2000 + Bauchi 2001 + Borno 2001 + Gombe 2001 + Jigawa 2001 + Kaduna 2001 + Kebbi 2001 + Niger 2001 + Yobe 2001."
+    },
+    {
+      "citation": "Constitution of Nigeria 1999 Article 277 (Sharia Court of Appeal framework)",
+      "title": "Constitution of Nigeria Article 277",
+      "year": 1999,
+      "url": "https://www.fmj.gov.ng/",
+      "relevance": "Nigerian Constitutional Article 277 establishing Sharia Court of Appeal framework — applicable to Northern Nigerian Sharia Framework."
+    },
+    {
+      "citation": "Hisbah Boards Establishment Framework 2000-2003",
+      "title": "Hisbah Boards Establishment Framework",
+      "year": 2003,
+      "url": "https://www.zamfarastate.gov.ng/",
+      "relevance": "Hisbah Boards established in Kano + Zamfara + Sokoto + other Northern Nigerian states 2000-2003 — formal Sharia-enforcement police framework."
+    },
+    {
+      "citation": "Hague Convention 1980 — Nigerian accession 14 February 2024",
+      "title": "Hague Convention 1980 — Nigeria",
+      "year": 2024,
+      "url": "https://www.hcch.net/",
+      "relevance": "Nigerian Hague Convention 1980 accession 14 February 2024 effective 1 May 2024 — applicable to Northern Nigerian Sharia Framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Sharia Courts of Appeal (12 state-level)",
+      "seat": "Various (Bauchi + Borno + Gombe + Jigawa + Kaduna + Kano + Katsina + Kebbi + Niger + Sokoto + Yobe + Zamfara)",
+      "url": "https://www.fmj.gov.ng/",
+      "role": "Apex regional Sharia courts for Sharia matters from Northern Nigerian Sharia Framework."
+    },
+    {
+      "name": "Court of Appeal of Nigeria",
+      "seat": "Abuja",
+      "url": "https://www.courtofappeal.gov.ng/",
+      "role": "Intermediate appellate court for civil and criminal matters from Northern Nigerian Sharia Framework."
+    },
+    {
+      "name": "Supreme Court of Nigeria",
+      "seat": "Abuja",
+      "url": "https://www.supremecourt.gov.ng/",
+      "role": "Final appellate court for civil and criminal matters from Northern Nigerian Sharia Framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Nigerian Federal Ministry of Health",
+      "url": "https://www.health.gov.ng/",
+      "role": "Nigerian Federal professional regulatory framework applicable in Northern Nigerian Sharia Framework."
+    }
+  ],
+  "anonymisation_convention": "Northern Nigerian Sharia Framework family-court decisions are anonymised per Nigerian + Sharia court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1804,
+      "title": "Sokoto Caliphate established",
+      "description": "Sokoto Caliphate established 1804 by Usman dan Fodio Fulani Jihad — formal Islamic framework over Northern Nigeria 1804-1903."
+    },
+    {
+      "year": 1903,
+      "title": "British conquest of Sokoto Caliphate",
+      "description": "British conquest of Sokoto Caliphate 1903 — formal end of Sokoto Caliphate framework + beginning of British Northern Nigeria Protectorate framework 1900-1914."
+    },
+    {
+      "year": 1999,
+      "title": "Zamfara State Sharia framework adoption",
+      "description": "Zamfara State Sharia Penal Code Law signed 8 October 1999 effective 27 January 2000 — first Northern Nigerian Sharia framework adoption."
+    },
+    {
+      "year": 2000,
+      "title": "Kaduna riots",
+      "description": "Kaduna riots February-May 2000 + November 2002 — Christian-Muslim sub-national legal-framework tension with ~2,000-5,000 deaths catalysed by Sharia framework adoption."
+    },
+    {
+      "year": 2001,
+      "title": "12-State Sharia Framework adoption complete",
+      "description": "12-State Sharia Framework adoption completed 2001-2002: Bauchi + Borno + Gombe + Jigawa + Kaduna + Kano + Katsina + Kebbi + Niger + Sokoto + Yobe + Zamfara — multi-state Sharia framework operational."
+    },
+    {
+      "year": 2009,
+      "title": "Boko Haram insurgency begins",
+      "description": "Boko Haram insurgency began 26 July 2009 — formal Boko Haram insurgency framework 2009-2026 with ~50,000-100,000 cumulative deaths."
+    },
+    {
+      "year": 2024,
+      "title": "Nigerian Hague Convention 1980 accession",
+      "description": "Nigerian Hague Convention 1980 accession 14 February 2024 effective 1 May 2024 — applicable to Northern Nigerian Sharia Framework."
+    }
+  ],
+  "structural_findings": [
+    "Northern Nigerian Sharia Framework operates a mixed federal Nigerian common-law + Sharia-customary supranational meta-framework — places Northern Nigerian Sharia Framework in the Sub-Saharan African supranational-meta-framework cluster.",
+    "Only modern sub-national Sharia framework operating across multiple constituent states of a single federal sovereign state is structurally distinctive globally — 12 Northern Nigerian states + Federal Capital Territory framework.",
+    "Central jurisdiction of most significant modern Christian-Muslim sub-national legal-framework tension globally is structurally distinctive globally — 2000 Kaduna riots + 2001-2010 Plateau State sectarian-violence framework + 2009-2026 Boko Haram insurgency framework + Lake Chad Basin Crisis framework.",
+    "Only modern Sharia framework operating formal Hisbah religious-police framework with parallel formal civilian-government framework is structurally distinctive globally — Hisbah Boards 2000-2003.",
+    "Central jurisdiction of one of most significant modern legal-pluralism frameworks globally is structurally distinctive globally — only modern formal three-tier legal-pluralism framework globally.",
+    "1999 Zamfara State Sharia Penal Code Law template framework is structurally distinctive globally — only modern formal sub-national-Sharia-template-framework establishing pattern for subsequent sub-national-Sharia frameworks.",
+    "Sokoto Caliphate 1804-1903 historical framework is structurally distinctive globally — only modern African sub-national territory with continuous Fulani-Jihad-Caliphate historical-Islamic framework.",
+    "Nigerian Hague-Convention-1980-accession-2024 framework applies — most-recent African Hague accession framework."
+  ],
+  "references": [
+    "jurisdiction:nigeria",
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:aceh",
+    "jurisdiction:brunei",
+    "jurisdiction:somaliland",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Nigerian Federal Ministry of Justice",
+      "url": "https://www.fmj.gov.ng/",
+      "publisher": "Nigerian Federal Government",
+      "language": "en"
+    },
+    {
+      "title": "Zamfara State Government",
+      "url": "https://www.zamfarastate.gov.ng/",
+      "publisher": "Zamfara State Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Northern Nigerian Sharia Framework jurisdiction sidecar — mixed federal Nigerian common-law + Sharia-customary Sub-Saharan African supranational meta-framework (Zamfara State Sharia Penal Code Law 1999 + 12-State Sharia Framework adoption 1999-2002 + Constitution of Nigeria 1999 Article 277 + Hisbah Boards 2000-2003 + Sokoto Caliphate 1804-1903 + British Northern Nigeria Protectorate 1900-1914 + Sharia Framework 1999-2002+ + 2000 Kaduna riots + 2009-2026 Boko Haram insurgency + Nigerian Hague-1980 accession 2024). Only modern sub-national Sharia framework operating across multiple constituent states of a single federal sovereign state globally + central jurisdiction of most significant modern Christian-Muslim sub-national legal-framework tension globally + only modern Sharia framework operating formal Hisbah religious-police framework with parallel formal civilian-government framework + central jurisdiction of one of most significant modern legal-pluralism frameworks globally + 1999 Zamfara State Sharia Penal Code Law template framework + Sokoto Caliphate 1804-1903 historical framework + Nigerian Hague-Convention-1980-accession-2024 framework most-recent African Hague accession framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Sub-Saharan-African + mixed Nigerian-common-law/Sharia-customary + supranational-meta-framework cluster + 12-state-Sharia-framework-multi-state-globally-distinctive + Zamfara-State-Sharia-Penal-Code-Law-1999-template + Hisbah-Boards-2000-2003-religious-police + three-tier-legal-pluralism + Sokoto-Caliphate-1804-1903-Fulani-Jihad + 2000-Kaduna-riots + 2009-2026-Boko-Haram-insurgency + Lake-Chad-Basin-Crisis + Nigerian-Hague-1980-2024-most-recent-African-accession clusters within the corpus."
+  ]
+}

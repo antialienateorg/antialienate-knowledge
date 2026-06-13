@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "id": "british-indian-ocean-territory",
+  "name": "British Indian Ocean Territory (BIOT / Chagos Archipelago)",
+  "jurisdiction_code": "IO",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "British Indian Ocean Territory (BIOT) is an Indian Ocean common-law British Overseas Territory comprising the Chagos Archipelago — structurally distinctive globally as the subject of one of the most contentious modern decolonisation disputes (Chagossian forced removal 1968-1973 to enable the US Diego Garcia military base lease), the 2019 International Court of Justice advisory opinion finding the UK's separation of the Chagos Archipelago from Mauritius in 1965 unlawful, and the 3 October 2024 UK-Mauritius agreement transferring sovereignty over the Chagos Archipelago to Mauritius (excluding Diego Garcia, which remains under joint UK-US 99-year lease). BIOT has no civilian population (Chagossians forcibly removed; only military personnel on Diego Garcia). Family-law framework is theoretical given the absence of civilian population, but operates under English law applied via the BIOT Constitution Order 2004 (revoked 2010 by Court of Appeal; replaced 2014). Parental authority and child custody would in principle operate under English common-law via Children Act 1989. The BIOT Supreme Court is the apex domestic court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). Psychology profession is theoretical given the absence of civilian population. BIOT is silent on 'parental alienation' as a statutory label. BIOT was a Hague Convention 1980 party via UK territorial extension; sovereignty transfer to Mauritius following the 2024 agreement will move BIOT to Mauritius Hague jurisdiction.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "BIOT Constitution Order 2004 / replaced 2014",
+      "title": "BIOT Constitution Order",
+      "year": 2004,
+      "url": "https://www.legislation.gov.uk/",
+      "relevance": "Order in Council establishing BIOT governance framework — English law applied with local modifications."
+    },
+    {
+      "citation": "UK-Mauritius Agreement on Chagos Archipelago Sovereignty",
+      "title": "UK-Mauritius Agreement on Chagos Archipelago Sovereignty",
+      "year": 2024,
+      "url": "https://www.gov.uk/",
+      "relevance": "International agreement of 3 October 2024 transferring sovereignty over the Chagos Archipelago from the UK to Mauritius, excluding Diego Garcia (retained under joint UK-US 99-year lease)."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "BIOT Supreme Court",
+      "seat": "BIOT (sittings in UK)",
+      "url": "https://www.gov.uk/",
+      "role": "Apex domestic court for BIOT — theoretical given absence of civilian population."
+    },
+    {
+      "name": "UK Privy Council (Judicial Committee)",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from BIOT."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UK professional framework (applicable in BIOT)",
+      "url": "https://www.hcpc-uk.org/",
+      "role": "UK professional regulatory framework — theoretical given absence of civilian population."
+    }
+  ],
+  "anonymisation_convention": "BIOT decisions are anonymised per UK overseas-territory court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1965,
+      "title": "Separation of Chagos Archipelago from Mauritius",
+      "description": "UK separated Chagos Archipelago from Mauritius prior to Mauritian independence in 1968 — subsequently found unlawful by 2019 ICJ advisory opinion."
+    },
+    {
+      "year": 1968,
+      "title": "Chagossian forced removal begins",
+      "description": "UK forcibly removed Chagossian population (1968-1973) to enable US Diego Garcia military base lease."
+    },
+    {
+      "year": 1983,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to BIOT effective 1 August 1986."
+    },
+    {
+      "year": 2019,
+      "title": "ICJ advisory opinion on Chagos sovereignty",
+      "description": "International Court of Justice advisory opinion of 25 February 2019 finding UK's separation of Chagos Archipelago from Mauritius in 1965 unlawful and calling for decolonisation completion."
+    },
+    {
+      "year": 2024,
+      "title": "UK-Mauritius sovereignty transfer agreement",
+      "description": "UK-Mauritius agreement of 3 October 2024 transferring sovereignty over Chagos Archipelago to Mauritius, excluding Diego Garcia (retained under joint UK-US 99-year lease)."
+    }
+  ],
+  "structural_findings": [
+    "BIOT operates a common-law English-law framework — places BIOT in the British Overseas Territory cluster.",
+    "Chagossian forced removal 1968-1973 is structurally distinctive globally — most prominent modern forced-population-removal case under colonial framework.",
+    "2019 ICJ advisory opinion on Chagos sovereignty is structurally distinctive globally — only modern apex international-court finding unlawful UK colonial separation.",
+    "2024 UK-Mauritius sovereignty transfer agreement is structurally distinctive globally — most recent (2024) major British Overseas Territory sovereignty transfer.",
+    "Absence of civilian population renders family-law framework theoretical — structurally distinctive within Hague Convention party cluster.",
+    "Diego Garcia joint UK-US military base retention via 99-year lease is structurally distinctive — only joint UK-US military-base lease in transferred former colonial territory."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:mauritius",
+    "jurisdiction:united-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UK Government",
+      "url": "https://www.gov.uk/",
+      "publisher": "UK Government",
+      "language": "en"
+    },
+    {
+      "title": "International Court of Justice",
+      "url": "https://www.icj-cij.org/",
+      "publisher": "International Court of Justice",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "British Indian Ocean Territory jurisdiction sidecar — common-law Indian Ocean British Overseas Territory (English law + Chagossian forced removal 1968-1973 + Diego Garcia US military base + 2019 ICJ advisory opinion + 2024 UK-Mauritius sovereignty transfer agreement). Most contentious modern decolonisation dispute + only modern apex international-court finding unlawful UK colonial separation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Indian Ocean + common-law + British-Overseas-Territory cluster + Chagossian-forced-removal-globally-distinctive + 2019-ICJ-advisory-opinion + 2024-sovereignty-transfer + Diego-Garcia-US-military-base + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "id": "sint-eustatius",
+  "name": "Sint Eustatius (Statia)",
+  "jurisdiction_code": "BQ-SE",
+  "legal_system": "civil-law",
+  "language": ["nl", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Sint Eustatius (popularly Statia in English-language framework) is a Caribbean Leeward Islands civil-law Dutch special municipality (bijzondere gemeente) within the Caribbean Netherlands (BES Islands: Bonaire + Sint Eustatius + Saba) — structurally distinctive globally as the only Dutch Caribbean special-municipality subject to formal Dutch federal-government takeover framework (Sint Eustatius Restoration of Administrative Order Act 2018 effective 7 February 2018-31 October 2024 — Dutch Federal Government takeover of Sint Eustatius local government 2018-2024 due to governance crisis, formal suspension of elected Sint Eustatius Island Council + Executive Council framework, distinct from rest-of-Dutch-Caribbean frameworks where local government continued to operate), as a distinctive Atlantic-historical jurisdiction (Sint Eustatius was the first foreign government to formally salute the United States flag — Andrew Doria salute 16 November 1776 by Sint Eustatius governor Johannes de Graaff, first formal foreign-government recognition of American Revolutionary War-era United States flag), and as one of the smallest formally-administered Dutch sub-national jurisdictions by area (~21 km² — second-smallest after Saba ~13 km², distinct sub-municipal-scale special-municipality framework). Sint Eustatius operated under Dutch West India Company framework 1636-1791 + French + British + Dutch alternations 18th-19th centuries (notably 1781 British Admiral Rodney's sacking framework + 17 different changes of sovereignty 17th-19th centuries — most-frequently-conquered modern Caribbean territory), operated as part of Netherlands Antilles 1954-2010, and was integrated as Dutch special municipality 10 October 2010 following Netherlands Antilles dissolution framework. Sint Eustatius comprises ~21 km² with a population of ~3,300. Family-law framework operates under the federal Dutch civil-law framework (Dutch Civil Code 1992 Book 1 Family Law portion) applied uniformly across Dutch sub-national jurisdictions. The Court of First Instance (Sint Eustatius Branch) is the apex regional court; final appellate jurisdiction lies with the Common Court of Justice of Aruba + Curaçao + Sint Maarten + BES + Supreme Court of the Netherlands. Sint Eustatius is silent on 'parental alienation' as a statutory label. The Netherlands is a Hague Convention 1980 signatory and party (acceded 12 June 1990 effective 1 September 1990) — Sint Eustatius is governed by Dutch Hague-Convention-1980 framework via Caribbean Netherlands status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Sint Eustatius Restoration of Administrative Order Act 2018",
+      "title": "Sint Eustatius Restoration of Administrative Order Act",
+      "year": 2018,
+      "url": "https://wetten.overheid.nl/",
+      "relevance": "Dutch Federal Act of 7 February 2018 establishing formal Dutch federal-government takeover of Sint Eustatius local government 2018-2024 — only Dutch Caribbean special-municipality subject to formal Dutch federal-government takeover framework."
+    },
+    {
+      "citation": "Charter for the Kingdom of the Netherlands + 10 October 2010 dissolution framework",
+      "title": "Kingdom Charter + Netherlands Antilles dissolution",
+      "year": 2010,
+      "url": "https://wetten.overheid.nl/",
+      "relevance": "Dutch Federal constitutional framework of 10 October 2010 — Netherlands Antilles dissolution + Sint Eustatius integration as Dutch special municipality (bijzondere gemeente)."
+    },
+    {
+      "citation": "Dutch Civil Code 1992 Book 1 Family Law portion",
+      "title": "Dutch Civil Code Book 1 Family Law",
+      "year": 1992,
+      "url": "https://wetten.overheid.nl/",
+      "relevance": "Dutch Federal Civil Code 1992 Book 1 Family Law portion applicable uniformly across Sint Eustatius."
+    },
+    {
+      "citation": "Hague Convention 1980 — Dutch accession 12 June 1990",
+      "title": "Hague Convention 1980 — Netherlands",
+      "year": 1990,
+      "url": "https://www.hcch.net/",
+      "relevance": "Dutch Hague Convention 1980 accession 12 June 1990 effective 1 September 1990 — applicable to Sint Eustatius via Caribbean Netherlands status."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of First Instance (Sint Eustatius Branch)",
+      "seat": "Oranjestad, Sint Eustatius",
+      "url": "https://www.caribischeorde.com/",
+      "role": "Apex regional trial court for civil and criminal matters from Sint Eustatius."
+    },
+    {
+      "name": "Common Court of Justice of Aruba, Curaçao, Sint Maarten, and BES",
+      "seat": "Willemstad, Curaçao",
+      "url": "https://www.caribischeorde.com/",
+      "role": "Intermediate appellate court for civil and criminal matters from Sint Eustatius."
+    },
+    {
+      "name": "Supreme Court of the Netherlands (Hoge Raad)",
+      "seat": "The Hague",
+      "url": "https://www.hogeraad.nl/",
+      "role": "Final appellate court for civil and criminal matters from Sint Eustatius."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Dutch Inspectorate for Healthcare and Youth (Inspectie Gezondheidszorg en Jeugd) — Netherlands",
+      "url": "https://www.igj.nl/",
+      "role": "Dutch Federal professional regulatory framework applicable in Sint Eustatius via Caribbean Netherlands status."
+    }
+  ],
+  "anonymisation_convention": "Sint Eustatius family-court decisions are anonymised per Dutch + Caribbean Netherlands court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1636,
+      "title": "Dutch West India Company colonisation",
+      "description": "Dutch West India Company colonisation of Sint Eustatius 1636 — beginning of Dutch colonial framework."
+    },
+    {
+      "year": 1776,
+      "title": "First Salute + American Revolutionary War recognition",
+      "description": "Andrew Doria First Salute 16 November 1776 by Sint Eustatius governor Johannes de Graaff — first formal foreign-government recognition of American Revolutionary War-era United States flag."
+    },
+    {
+      "year": 1781,
+      "title": "Admiral Rodney sacking",
+      "description": "British Admiral Rodney's sacking of Sint Eustatius 3 February 1781 during American Revolutionary War framework — destruction of Sint Eustatius commercial framework."
+    },
+    {
+      "year": 1954,
+      "title": "Netherlands Antilles established",
+      "description": "Netherlands Antilles established 15 December 1954 — Sint Eustatius incorporated as constituent island."
+    },
+    {
+      "year": 2010,
+      "title": "Netherlands Antilles dissolution + special municipality integration",
+      "description": "Netherlands Antilles dissolution 10 October 2010 + Sint Eustatius integration as Dutch special municipality (bijzondere gemeente)."
+    },
+    {
+      "year": 2018,
+      "title": "Restoration of Administrative Order Act",
+      "description": "Dutch Federal Sint Eustatius Restoration of Administrative Order Act 7 February 2018 — formal Dutch federal-government takeover of Sint Eustatius local government 2018-2024."
+    },
+    {
+      "year": 2024,
+      "title": "Restoration of local government",
+      "description": "Restoration of Sint Eustatius local government 31 October 2024 — end of Dutch federal-government takeover 2018-2024 framework."
+    }
+  ],
+  "structural_findings": [
+    "Sint Eustatius operates a federal Dutch civil-law special-municipality framework — places Sint Eustatius in the Caribbean Leeward Islands Dutch special-municipality cluster.",
+    "Only Dutch Caribbean special-municipality subject to formal Dutch federal-government takeover framework is structurally distinctive globally — 2018-2024 Sint Eustatius Restoration of Administrative Order Act framework.",
+    "First foreign government to formally salute the United States flag (Andrew Doria First Salute 16 November 1776) is structurally distinctive globally — first formal foreign-government recognition of American Revolutionary War-era United States flag.",
+    "One of smallest formally-administered Dutch sub-national jurisdictions by area (~21 km²) is structurally distinctive within Dutch sub-national cluster — second-smallest after Saba.",
+    "Most-frequently-conquered modern Caribbean territory framework is structurally distinctive globally — 17 different changes of sovereignty 17th-19th centuries.",
+    "1781 Admiral Rodney sacking framework is structurally distinctive globally — pivotal American-Revolutionary-War-era Caribbean economic-warfare framework.",
+    "2010 Netherlands Antilles dissolution + 10-10-10 framework is structurally distinctive within Dutch Caribbean cluster.",
+    "Dutch Hague-Convention-1980-accession-1990 framework applies via Caribbean Netherlands status."
+  ],
+  "references": [
+    "jurisdiction:netherlands",
+    "jurisdiction:bonaire",
+    "jurisdiction:curacao",
+    "jurisdiction:aruba",
+    "jurisdiction:sint-maarten",
+    "jurisdiction:united-states",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Sint Eustatius",
+      "url": "https://www.statiagovernment.com/",
+      "publisher": "Sint Eustatius Government",
+      "language": "en"
+    },
+    {
+      "title": "Dutch Government Wetten",
+      "url": "https://wetten.overheid.nl/",
+      "publisher": "Dutch Government",
+      "language": "nl"
+    }
+  ],
+  "editorial_notes": [
+    "Sint Eustatius jurisdiction sidecar — civil-law Caribbean Leeward Islands Dutch special-municipality (Sint Eustatius Restoration of Administrative Order Act 2018-2024 + Charter for the Kingdom of the Netherlands + 10-10-10 framework + Dutch Civil Code 1992 + Andrew Doria First Salute 1776 + 1781 Admiral Rodney sacking + 17 changes of sovereignty 17th-19th centuries + Netherlands Antilles 1954-2010 + Dutch Hague-1980 via Caribbean Netherlands status). Only Dutch Caribbean special-municipality subject to formal Dutch federal-government takeover framework globally + first foreign government to formally salute United States flag + one of smallest formally-administered Dutch sub-national jurisdictions by area + most-frequently-conquered modern Caribbean territory framework + 1781 Admiral Rodney sacking framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean-Leeward-Islands + civil-law + Dutch-special-municipality cluster + Sint-Eustatius-Restoration-of-Administrative-Order-Act-2018-2024-globally-distinctive + Andrew-Doria-First-Salute-1776 + 1781-Admiral-Rodney-sacking + 17-changes-of-sovereignty-most-frequently-conquered + 10-10-10-Netherlands-Antilles-dissolution + Caribbean-Netherlands-BES + Dutch-Hague-1980-1990 clusters within the corpus."
+  ]
+}

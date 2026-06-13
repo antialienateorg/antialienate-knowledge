@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "id": "friuli-venezia-giulia",
+  "name": "Friuli-Venezia Giulia (Friûl-Vignesie Julie / Furlanija-Julijska krajina)",
+  "jurisdiction_code": "IT-FVG",
+  "legal_system": "civil-law",
+  "language": ["it", "fur", "sl", "de"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Friuli-Venezia Giulia (Friûl-Vignesie Julie in Friulian / Furlanija-Julijska krajina in Slovene / officially Regione Autonoma Friuli Venezia Giulia / Friulian: Regjon Autonome Friûl Vignesie Julie) is a North-eastern Italian Alpine-Adriatic civil-law autonomous region of the Italian Republic — structurally distinctive globally as the only Italian autonomous region with three constitutionally-protected linguistic minorities (Friulian as recognised regional language; Slovene as recognised cross-border minority language; German as recognised minority language in the Sauris-Timau-Sappada Carnia communes), as the central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution including the 1947 Free Territory of Trieste framework (Treaty of Peace with Italy Annex VI-VII, 1947), the 1954 London Memorandum of Understanding (provisional Italian/Yugoslav administration of Free Territory zones), and the 1975 Treaty of Osimo (definitive Italo-Yugoslav border-establishment), and as the last Italian autonomous region established (Statuto Speciale 31 January 1963, ~15 years after the first wave of Italian autonomous regions — establishment delayed due to Trieste-area sovereignty resolution). Friuli-Venezia Giulia's autonomy framework was established by Italian Constitutional Law 1/1963 of 31 January 1963 (Statuto Speciale della Regione Friuli-Venezia Giulia). The region operates a four-province framework (Udine / Pordenone / Gorizia / Trieste). Family-law framework operates under the Italian Civil Code (Codice Civile 1942, as amended by Law 54/2006 Joint Custody Reform) applied via Friuli-Venezia Giulia autonomous-region administrative framework with Friulian, Slovene, and German language-rights protections. Parental authority (responsabilità genitoriale) and child custody operate under Italian Civil Code Articles 315-342-bis as amended. The Court of Appeal of Trieste is the apex regional appellate court for Friuli-Venezia Giulia civil and criminal matters; final appellate jurisdiction lies with the Italian Court of Cassation and the Italian Constitutional Court. Friuli-Venezia Giulia is silent on 'parental alienation' as a statutory label. Italy is a Hague Convention 1980 party (acceded 22 February 1985) — Friuli-Venezia Giulia Hague applicability via Italian territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Statuto Speciale della Regione Friuli-Venezia Giulia 1963 (Constitutional Law 1/1963)",
+      "title": "Friuli-Venezia Giulia Special Statute",
+      "year": 1963,
+      "url": "https://www.regione.fvg.it/",
+      "relevance": "Italian Constitutional Law of 31 January 1963 establishing the Friuli-Venezia Giulia autonomous-region framework — last Italian autonomous region established."
+    },
+    {
+      "citation": "Italian Law 482/1999 (Linguistic Minorities Protection)",
+      "title": "Italian Linguistic Minorities Protection Law",
+      "year": 1999,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities — applies to Friulian, Slovene, and German minorities in Friuli-Venezia Giulia."
+    },
+    {
+      "citation": "Italian Law 38/2001 (Slovene Minority Protection)",
+      "title": "Italian Slovene Minority Protection Law",
+      "year": 2001,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Law of 23 February 2001 establishing specific protection framework for the Slovene linguistic minority in Friuli-Venezia Giulia."
+    },
+    {
+      "citation": "Treaty of Osimo 1975",
+      "title": "Treaty of Osimo",
+      "year": 1975,
+      "url": "https://www.mae.gov.it/",
+      "relevance": "International treaty of 10 November 1975 between Italy and Yugoslavia (now Slovenia and Croatia) definitively establishing Italo-Yugoslav border — definitive resolution of Trieste-area sovereignty."
+    },
+    {
+      "citation": "Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)",
+      "title": "Italian Civil Code — Parental Authority",
+      "year": 2006,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Friuli-Venezia Giulia."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Trieste (Corte d'Appello di Trieste)",
+      "seat": "Trieste",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex regional appellate court for civil and criminal matters from Friuli-Venezia Giulia."
+    },
+    {
+      "name": "Corte di Cassazione (Italian Court of Cassation)",
+      "seat": "Rome",
+      "url": "https://www.cortedicassazione.it/",
+      "role": "Final appellate court for civil and criminal matters from Friuli-Venezia Giulia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ordine degli Psicologi del Friuli Venezia Giulia",
+      "url": "https://www.psicologi.fvg.it/",
+      "role": "Friuli-Venezia Giulia regional professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Friuli-Venezia Giulia family-court decisions are anonymised per Italian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1947,
+      "title": "Free Territory of Trieste establishment",
+      "description": "Treaty of Peace with Italy of 10 February 1947 Annex VI-VII establishing Free Territory of Trieste (FTT) — beginning of post-WWII Italo-Yugoslav border-dispute resolution framework."
+    },
+    {
+      "year": 1954,
+      "title": "London Memorandum of Understanding",
+      "description": "London Memorandum of Understanding of 5 October 1954 establishing provisional Italian/Yugoslav administration of Free Territory zones A and B."
+    },
+    {
+      "year": 1963,
+      "title": "Statuto Speciale + last Italian autonomous region established",
+      "description": "Italian Constitutional Law 1/1963 of 31 January 1963 establishing the Friuli-Venezia Giulia autonomous-region framework — last Italian autonomous region established."
+    },
+    {
+      "year": 1975,
+      "title": "Treaty of Osimo + Italo-Yugoslav border definitively established",
+      "description": "Treaty of Osimo of 10 November 1975 between Italy and Yugoslavia definitively establishing Italo-Yugoslav border — definitive resolution of Trieste-area sovereignty."
+    },
+    {
+      "year": 1999,
+      "title": "Italian Law 482/1999 (Linguistic Minorities Protection)",
+      "description": "Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities applicable in Friuli-Venezia Giulia."
+    },
+    {
+      "year": 2001,
+      "title": "Italian Law 38/2001 (Slovene Minority Protection)",
+      "description": "Italian Law of 23 February 2001 establishing specific protection framework for the Slovene linguistic minority in Friuli-Venezia Giulia."
+    }
+  ],
+  "structural_findings": [
+    "Friuli-Venezia Giulia operates a civil-law Italian Codice Civile framework via Friuli-Venezia Giulia autonomous-region administrative framework with three constitutionally-protected linguistic-minority frameworks — places Friuli-Venezia Giulia in the Alpine-Adriatic Italian autonomous-region cluster.",
+    "Only Italian autonomous region with three constitutionally-protected linguistic minorities (Friulian + Slovene + German) is structurally distinctive globally.",
+    "Last Italian autonomous region established (Statuto Speciale 31 January 1963, ~15 years after first wave) is structurally distinctive within Italian autonomous-region cluster.",
+    "Central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution including 1947 Free Territory of Trieste + 1954 London Memorandum + 1975 Treaty of Osimo is structurally distinctive globally — only Italian autonomous region whose autonomy establishment was delayed by ~15 years due to international border-sovereignty resolution requirements.",
+    "Italian Law 38/2001 specific Slovene minority protection framework is structurally distinctive within Italian linguistic-minority cluster.",
+    "Four-province framework (Udine / Pordenone / Gorizia / Trieste) is structurally distinctive within Italian autonomous-region cluster.",
+    "Italian Hague Convention 1980 accession 1985 + Friuli-Venezia Giulia Italian-civil-law framework intersection is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:italy",
+    "jurisdiction:slovenia",
+    "jurisdiction:croatia",
+    "jurisdiction:austria",
+    "jurisdiction:south-tyrol",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Regione Autonoma Friuli Venezia Giulia",
+      "url": "https://www.regione.fvg.it/",
+      "publisher": "Friuli-Venezia Giulia Government",
+      "language": "it"
+    },
+    {
+      "title": "Italian Ministry of Justice",
+      "url": "https://www.giustizia.it/",
+      "publisher": "Italian Government",
+      "language": "it"
+    }
+  ],
+  "editorial_notes": [
+    "Friuli-Venezia Giulia jurisdiction sidecar — civil-law Alpine-Adriatic Italian autonomous region with three constitutionally-protected linguistic minorities (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Friuli-Venezia Giulia 1963 + Italian Law 482/1999 Linguistic Minorities Protection + Italian Law 38/2001 Slovene Minority Protection + Treaty of Osimo 1975 + 1947 Free Territory of Trieste framework + Italian Hague Convention 1980 accession 1985). Only Italian autonomous region with three constitutionally-protected linguistic minorities globally + last Italian autonomous region established (31 January 1963) + central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution + only Italian autonomous region whose autonomy establishment was delayed ~15 years due to international border-sovereignty resolution requirements.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Alpine-Adriatic + civil-law + Italian-autonomous-region cluster + three-constitutionally-protected-linguistic-minorities-globally-distinctive + last-Italian-autonomous-region-established-1963 + post-WWII-Italo-Yugoslav-border-dispute-resolution + 1947-Free-Territory-of-Trieste + 1954-London-Memorandum + 1975-Treaty-of-Osimo + four-province-framework-Udine-Pordenone-Gorizia-Trieste + Italian-Hague-1985-accession clusters within the corpus."
+  ]
+}

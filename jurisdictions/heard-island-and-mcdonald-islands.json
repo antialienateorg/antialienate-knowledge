@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "id": "heard-island-and-mcdonald-islands",
+  "name": "Heard Island and McDonald Islands (HIMI)",
+  "jurisdiction_code": "HM",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Heard Island and McDonald Islands (HIMI) is a Sub-Antarctic common-law Australian external territory in the southern Indian Ocean ~4,000 km southwest of mainland Australia — structurally distinctive globally as the only sub-Antarctic Australian external territory with active volcanism (Mawson Peak on Heard Island, ~2,745 m, is Australia's tallest mountain and one of only two active volcanoes in Australian territory, with Big Ben crater erupting most recently in October 2016), and as a UNESCO World Heritage Site (inscribed 1997) recognised for its pristine sub-Antarctic ecosystem and ongoing geological processes. HIMI was transferred from UK to Australian sovereignty by the Heard Island and McDonald Islands Act 1953 effective 26 December 1953. HIMI has no permanent population — visited only by seasonal Australian Antarctic Division research expeditions. Family-law framework is theoretical given the absence of permanent population, but operates under Australian Commonwealth law via the HIMI Act 1953. Parental authority and child custody would in principle operate under the Family Law Act 1975 (Cth). Australian Federal Court and Family Court of Australia have jurisdiction over HIMI matters; final appellate jurisdiction lies with the High Court of Australia. HIMI is silent on 'parental alienation' as a statutory label. HIMI is a Hague Convention 1980 party via Australian territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Heard Island and McDonald Islands Act 1953 (Cth)",
+      "title": "HIMI Act 1953",
+      "year": 1953,
+      "url": "https://www.legislation.gov.au/",
+      "relevance": "Federal Act of 1953 transferring HIMI from UK to Australian sovereignty effective 26 December 1953."
+    },
+    {
+      "citation": "Environment Protection and Biodiversity Conservation Act 1999 (Cth) — HIMI Marine Reserve",
+      "title": "EPBC Act 1999 — HIMI Marine Reserve",
+      "year": 2002,
+      "url": "https://www.legislation.gov.au/",
+      "relevance": "Federal Act establishing the HIMI Marine Reserve (one of the largest marine protected areas in the world)."
+    },
+    {
+      "citation": "Family Law Act 1975 (Cth) (applicable in HIMI)",
+      "title": "Family Law Act 1975",
+      "year": 1975,
+      "url": "https://www.legislation.gov.au/",
+      "relevance": "Australian Federal Family Law Act applicable in HIMI for parental responsibility and child custody — theoretical given absence of permanent population."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Federal Circuit and Family Court of Australia",
+      "seat": "Canberra (HIMI jurisdiction)",
+      "url": "https://www.fcfcoa.gov.au/",
+      "role": "Apex appellate court for civil and family matters from HIMI — theoretical given absence of permanent population."
+    },
+    {
+      "name": "High Court of Australia",
+      "seat": "Canberra",
+      "url": "https://www.hcourt.gov.au/",
+      "role": "Final appellate court for civil and criminal matters from HIMI."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Australian Health Practitioner Regulation Agency (AHPRA) (applicable in HIMI)",
+      "url": "https://www.ahpra.gov.au/",
+      "role": "Australian Federal professional regulatory framework — theoretical given absence of permanent population."
+    }
+  ],
+  "anonymisation_convention": "HIMI decisions are anonymised per Federal Circuit and Family Court of Australia practice using initials.",
+  "key_developments": [
+    {
+      "year": 1853,
+      "title": "Heard Island discovery",
+      "description": "Captain John Heard sighted Heard Island on 25 November 1853 from the American sealing vessel Oriental."
+    },
+    {
+      "year": 1947,
+      "title": "Australian permanent presence begins",
+      "description": "Australian National Antarctic Research Expedition (ANARE) established a permanent station at Atlas Cove on Heard Island in 1947 (closed 1955)."
+    },
+    {
+      "year": 1953,
+      "title": "HIMI Act 1953 — UK to Australian sovereignty transfer",
+      "description": "Federal Act of 1953 transferring HIMI from UK to Australian sovereignty effective 26 December 1953."
+    },
+    {
+      "year": 1987,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by Australia to HIMI effective 1 January 1987."
+    },
+    {
+      "year": 1997,
+      "title": "UNESCO World Heritage Site inscription",
+      "description": "UNESCO World Heritage Site inscription of HIMI in 1997 for pristine sub-Antarctic ecosystem and ongoing geological processes."
+    },
+    {
+      "year": 2002,
+      "title": "HIMI Marine Reserve established",
+      "description": "HIMI Marine Reserve established as one of the largest marine protected areas in the world."
+    }
+  ],
+  "structural_findings": [
+    "HIMI operates a common-law Australian-Federal-law framework — places HIMI in the Australian external-territory cluster.",
+    "Only sub-Antarctic Australian external territory with active volcanism is structurally distinctive globally — Mawson Peak (~2,745 m) is Australia's tallest mountain and one of only two active volcanoes in Australian territory (with Big Ben erupting most recently October 2016).",
+    "UNESCO World Heritage Site status (1997) is structurally distinctive globally — only Australian external-territory natural-World-Heritage Site.",
+    "Australia's tallest mountain (Mawson Peak ~2,745 m) being on a sub-Antarctic island rather than mainland is structurally distinctive globally.",
+    "Absence of permanent population renders family-law framework theoretical — structurally distinctive within Hague Convention party cluster.",
+    "UK to Australian sovereignty transfer in 1953 reflects shared decolonisation framework with AAT."
+  ],
+  "references": [
+    "jurisdiction:australia",
+    "jurisdiction:australian-antarctic-territory",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:french-southern-and-antarctic-lands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Australian Antarctic Division — HIMI",
+      "url": "https://www.heardisland.aq/",
+      "publisher": "Australian Government",
+      "language": "en"
+    },
+    {
+      "title": "Federal Register of Legislation",
+      "url": "https://www.legislation.gov.au/",
+      "publisher": "Australian Government",
+      "language": "en"
+    },
+    {
+      "title": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/",
+      "publisher": "UNESCO",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Heard Island and McDonald Islands (HIMI) jurisdiction sidecar — common-law Sub-Antarctic Australian external territory (Australian Federal law + HIMI Act 1953 + EPBC Act 1999 HIMI Marine Reserve + Family Law Act 1975 + UNESCO World Heritage 1997 + Hague via Australian territorial extension 1987). Only sub-Antarctic Australian external territory with active volcanism globally + UNESCO World Heritage Site + Australia's tallest mountain (Mawson Peak ~2,745 m).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Sub-Antarctic + common-law + Australian-external-territory cluster + active-volcanism-globally-distinctive + UNESCO-World-Heritage + Australia-tallest-mountain + UK-Australia-sovereignty-transfer + Hague-via-Australian-territorial-extension clusters within the corpus."
+  ]
+}

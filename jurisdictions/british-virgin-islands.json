@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "id": "british-virgin-islands",
+  "name": "British Virgin Islands (BVI)",
+  "jurisdiction_code": "VG",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "British Virgin Islands (BVI) is a Caribbean common-law British Overseas Territory. Family-law framework operates under the Matrimonial Proceedings and Property Act 1995, the Status of Children Act 2014, and case-law applying the welfare-of-the-child principle. Parental responsibility and child custody are governed by Matrimonial Proceedings Act Part IV and case-law. The Court of Appeal of the Eastern Caribbean Supreme Court (sitting for BVI) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the High Court of Justice (Family Division) and Magistrates' Courts. Psychology profession is regulated through the BVI Health Services Authority framework. BVI is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. BVI is a Hague Convention 1980 party via UK territorial extension effective 1 August 1998.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Matrimonial Proceedings and Property Act 1995",
+      "title": "Matrimonial Proceedings and Property Act",
+      "year": 1995,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal matrimonial-proceedings statute codifying matrimonial property and parental responsibility provisions."
+    },
+    {
+      "citation": "Status of Children Act 2014",
+      "title": "Status of Children Act",
+      "year": 2014,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on legal status of children."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eastern Caribbean Supreme Court — Court of Appeal (BVI)",
+      "seat": "Road Town",
+      "url": "https://www.eccourts.org/",
+      "role": "Apex domestic appellate court for OECS-shared judicial system including BVI."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from BVI."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "BVI Health Services Authority",
+      "url": "https://www.bvihsa.org/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "BVI family-court decisions are anonymised per ECSC practice using initials.",
+  "key_developments": [
+    {
+      "year": 1998,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to BVI effective 1 August 1998."
+    },
+    {
+      "year": 2014,
+      "title": "Status of Children Act",
+      "description": "Federal statute on legal status of children enacted."
+    }
+  ],
+  "structural_findings": [
+    "BVI operates a common-law framework drawing on English-law model with British Overseas Territory status — places BVI in the Caribbean BOT cluster.",
+    "Eastern Caribbean Supreme Court appellate jurisdiction (OECS-shared) is structurally distinctive — BVI is the only BOT in the OECS-shared-judicial-system cluster.",
+    "Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:cayman-islands",
+    "jurisdiction:us-virgin-islands",
+    "jurisdiction:antigua-and-barbuda",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Caribbean Supreme Court",
+      "url": "https://www.eccourts.org/",
+      "publisher": "ECSC",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "BVI Health Services Authority",
+      "url": "https://www.bvihsa.org/",
+      "publisher": "BVIHSA",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "BVI jurisdiction sidecar — common-law Caribbean BOT (Matrimonial Proceedings Act 1995 + Status of Children Act 2014 + ECSC OECS-shared + JCPC + Hague via UK territorial extension 1998). Only BOT in OECS-shared-judicial-system.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + common-law + BOT cluster + OECS-shared-judicial-system + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

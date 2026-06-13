@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "id": "tristan-da-cunha",
+  "name": "Tristan da Cunha (Tristan da Cunha Group)",
+  "jurisdiction_code": "SH-TDC",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Tristan da Cunha is a South Atlantic common-law dependency of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha — structurally distinctive globally as the most remote inhabited archipelago on Earth (nearest inhabited land is Saint Helena ~2,430 km north; nearest continental land is South Africa ~2,810 km east; nearest other major land is South America/Argentina ~3,360 km west), as the only state-level entity operating a complete-community-ownership land framework (all land on Tristan da Cunha is constitutionally communally owned via the Tristan da Cunha Land Tenure framework — no private land ownership permitted), and as the central jurisdiction of the 1961 Volcanic Eruption Evacuation framework (Tristan da Cunha's entire population of ~290 was evacuated to the UK following the 10 October 1961 volcanic eruption of Queen Mary's Peak — the only complete state-level civilian-population evacuation due to natural disaster in modern history; the population voted to return to Tristan da Cunha in November 1962 and was repatriated in November 1963). Tristan da Cunha comprises the main inhabited island of Tristan (~98 km²) plus the uninhabited Nightingale, Inaccessible, Gough, and Middle Islands. The permanent population is ~270 in the single settlement of Edinburgh of the Seven Seas, descended from a small founding population including a single 1816 British military garrison commander (Corporal William Glass) and subsequent ship-wrecked sailors and women from Saint Helena — making Tristan da Cunha distinctive globally as the only state-level entity with a population traceable to a single 1816 founding cohort. Family-law framework operates under the English law via the Saint Helena, Ascension and Tristan da Cunha Constitution Order 2009 with local Tristan da Cunha Council Ordinances. Parental authority and child custody operate under English law adapted to Tristan da Cunha circumstances. The Tristan da Cunha Magistrate's Court is the first-instance court; the Supreme Court of Saint Helena, Ascension and Tristan da Cunha is the intermediate appellate court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). Tristan da Cunha is silent on 'parental alienation' as a statutory label. UK is a Hague Convention 1980 party (acceded 20 May 1986) — Tristan da Cunha Hague applicability via UK territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Saint Helena, Ascension and Tristan da Cunha Constitution Order 2009",
+      "title": "SHATdC Constitution Order 2009",
+      "year": 2009,
+      "url": "https://www.legislation.gov.uk/",
+      "relevance": "UK Order in Council of 8 July 2009 establishing the consolidated constitutional framework for Saint Helena, Ascension and Tristan da Cunha — including the constituent Tristan da Cunha framework."
+    },
+    {
+      "citation": "Tristan da Cunha Land Tenure Framework",
+      "title": "Tristan da Cunha Land Tenure Framework",
+      "year": 1962,
+      "url": "https://www.tristandc.com/",
+      "relevance": "Constitutional Tristan da Cunha Land Tenure framework establishing complete-community-ownership land regime — all land on Tristan da Cunha is communally owned, no private land ownership permitted."
+    },
+    {
+      "citation": "English Children Act 1989 (applicable in Tristan da Cunha)",
+      "title": "Children Act 1989",
+      "year": 1989,
+      "url": "https://www.legislation.gov.uk/",
+      "relevance": "English Children Act 1989 applicable in Tristan da Cunha for parental responsibility and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Saint Helena, Ascension and Tristan da Cunha",
+      "seat": "Jamestown, Saint Helena (with Tristan da Cunha jurisdiction)",
+      "url": "https://www.sainthelena.gov.sh/",
+      "role": "Apex domestic court for civil and criminal matters from Tristan da Cunha."
+    },
+    {
+      "name": "UK Privy Council (Judicial Committee)",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Tristan da Cunha."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UK professional framework (applicable in Tristan da Cunha)",
+      "url": "https://www.hcpc-uk.org/",
+      "role": "UK professional regulatory framework applicable in Tristan da Cunha."
+    }
+  ],
+  "anonymisation_convention": "Tristan da Cunha decisions are anonymised per UK overseas-territory court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1816,
+      "title": "British annexation + founding population",
+      "description": "British military annexation of Tristan da Cunha on 14 August 1816 — beginning of British sovereignty. Corporal William Glass remained on Tristan da Cunha after garrison withdrawal in 1817 — founding cohort of current population."
+    },
+    {
+      "year": 1961,
+      "title": "Volcanic eruption + complete population evacuation",
+      "description": "Volcanic eruption of Queen Mary's Peak on 10 October 1961 — Tristan da Cunha's entire population of ~290 was evacuated to UK. Only complete state-level civilian-population evacuation due to natural disaster in modern history."
+    },
+    {
+      "year": 1963,
+      "title": "Population repatriation",
+      "description": "Tristan da Cunha population voted to return in November 1962 and was repatriated in November 1963 — most remote permanent civilian community to undergo complete-population evacuation and return in modern history."
+    },
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Tristan da Cunha effective 1 August 1986."
+    },
+    {
+      "year": 2009,
+      "title": "SHATdC Constitution Order 2009",
+      "description": "UK Order in Council of 8 July 2009 establishing the consolidated constitutional framework for Saint Helena, Ascension and Tristan da Cunha."
+    }
+  ],
+  "structural_findings": [
+    "Tristan da Cunha operates a common-law English-law framework with local Tristan da Cunha Council Ordinances — places Tristan da Cunha in the South Atlantic British Overseas Territory dependency cluster.",
+    "Most remote inhabited archipelago on Earth is structurally distinctive globally — nearest inhabited land is Saint Helena ~2,430 km north; nearest continental land is South Africa ~2,810 km east.",
+    "Only state-level entity operating complete-community-ownership land framework is structurally distinctive globally — all land on Tristan da Cunha is communally owned, no private land ownership permitted.",
+    "Only complete state-level civilian-population evacuation due to natural disaster in modern history is structurally distinctive globally — 1961 volcanic eruption evacuation framework.",
+    "Most remote permanent civilian community to undergo complete-population evacuation and return in modern history is structurally distinctive globally — 1961-1963 evacuation-repatriation framework.",
+    "Only state-level entity with population traceable to a single 1816 founding cohort is structurally distinctive globally — founding population including single 1816 British military garrison commander (Corporal William Glass).",
+    "Sub-jurisdiction of Saint Helena, Ascension and Tristan da Cunha BOT is structurally distinctive within British Overseas Territory cluster — only modern composite-British Overseas Territory with three constitutionally-equal constituents.",
+    "UK Hague Convention 1980 territorial extension applicability is structurally distinctive within most-remote-permanent-civilian-community cluster."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:saint-helena",
+    "jurisdiction:south-africa",
+    "jurisdiction:falkland-islands",
+    "jurisdiction:bouvet-island",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Tristan da Cunha Government",
+      "url": "https://www.tristandc.com/",
+      "publisher": "Tristan da Cunha Government",
+      "language": "en"
+    },
+    {
+      "title": "Saint Helena, Ascension and Tristan da Cunha Government",
+      "url": "https://www.sainthelena.gov.sh/",
+      "publisher": "SHATdC Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Tristan da Cunha jurisdiction sidecar — common-law South Atlantic British Overseas Territory dependency (English law + SHATdC Constitution Order 2009 + Tristan da Cunha Land Tenure framework complete-community-ownership + 1816 founding population + 1961 volcanic eruption evacuation + 1963 repatriation + UK Hague Convention 1980 territorial extension 1986). Most remote inhabited archipelago on Earth globally + only state-level entity with complete-community-ownership land framework + only complete state-level civilian-population evacuation due to natural disaster in modern history + only state-level entity with population traceable to single 1816 founding cohort + sub-jurisdiction of only modern composite-British Overseas Territory with three constitutionally-equal constituents.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South Atlantic + common-law + British-Overseas-Territory-dependency cluster + most-remote-inhabited-archipelago-globally-distinctive + complete-community-ownership-land-framework + 1961-volcanic-eruption-evacuation + 1963-population-repatriation + 1816-founding-cohort-population + composite-BOT-three-constituent-sub-jurisdiction + UK-Hague-1986-territorial-extension clusters within the corpus."
+  ]
+}

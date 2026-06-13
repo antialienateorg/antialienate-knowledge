@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "id": "east-timor",
+  "name": "East Timor (Timor-Leste / Democratic Republic of Timor-Leste / República Democrática de Timor-Leste)",
+  "jurisdiction_code": "TL",
+  "legal_system": "civil-law",
+  "language": ["pt", "tet"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "East Timor (Timor-Leste) is a Southeast Asian civil-law unitary republic whose family-law framework operates under the Civil Code 2011 (Código Civil, Law 10/2011 effective 1 September 2011) drawing on Portuguese civil-law substantive heritage with Indonesian-civil-code-transition influence, supplemented by Law 8/2010 on Domestic Violence and the Penal Code 2009 child-protection provisions. Parental responsibility (responsabilidade parental) and child custody are governed by Civil Code arts. 1758-1805. The Court of Appeal of Timor-Leste (Tribunal de Recurso) is the apex domestic court for civil and criminal matters; constitutional review jurisdiction lies with the Court of Appeal. Family-law matters are heard at first instance in the District Courts (Tribunais Distritais). Psychology profession is regulated through the Ministry of Health framework. East Timor is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Civil Code arts. 1771-1775. East Timor is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code 2011 (Law 10/2011) arts. 1758-1805",
+      "title": "Civil Code — Parental responsibility and custody",
+      "year": 2011,
+      "url": "https://www.tribunais.tl/",
+      "relevance": "Federal Civil Code effective 1 September 2011 drawing on Portuguese civil-law substantive heritage with Indonesian-civil-code-transition influence. Arts. 1758-1805 govern responsabilidade parental and child custody."
+    },
+    {
+      "citation": "Law 8/2010 on Domestic Violence",
+      "title": "Law on Domestic Violence",
+      "year": 2010,
+      "url": "https://www.tribunais.tl/",
+      "relevance": "Federal Law on Domestic Violence affecting family-law proceedings."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Timor-Leste (Tribunal de Recurso)",
+      "seat": "Dili",
+      "url": "https://www.tribunais.tl/",
+      "role": "Apex court for civil, criminal, and constitutional matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, East Timor",
+      "url": "https://www.moh.gov.tl/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "East Timorese family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 2002,
+      "title": "Independence",
+      "description": "East Timor achieved independence from Indonesian occupation/UN Transitional Administration; Constitution adopted establishing Portuguese-civil-law substantive framework."
+    },
+    {
+      "year": 2010,
+      "title": "Law on Domestic Violence",
+      "description": "Federal Law on Domestic Violence enacted affecting family-law proceedings."
+    },
+    {
+      "year": 2011,
+      "title": "Civil Code 2011 (Law 10/2011)",
+      "description": "Federal Civil Code enacted effective 1 September 2011 drawing on Portuguese civil-law substantive heritage."
+    }
+  ],
+  "structural_findings": [
+    "East Timor operates a Portuguese-civil-law family-law framework with Indonesian-civil-code-transition influence — places East Timor in the Lusophone Southeast Asian cluster (uniquely positioned globally).",
+    "Only Lusophone Southeast Asian state in the corpus.",
+    "Post-Indonesian-occupation legal-system transition (1999-2002) is structurally distinctive — Indonesian civil-code framework was substantially retained then replaced by Portuguese-derivative codification.",
+    "Non-Hague Convention status places East Timor in the non-Hague Southeast Asian cluster."
+  ],
+  "references": [
+    "jurisdiction:indonesia",
+    "jurisdiction:portugal",
+    "jurisdiction:mozambique",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Courts of Timor-Leste",
+      "url": "https://www.tribunais.tl/",
+      "publisher": "Judiciary",
+      "language": "pt,tet"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.moh.gov.tl/",
+      "publisher": "Ministry of Health",
+      "language": "pt,tet"
+    }
+  ],
+  "editorial_notes": [
+    "East Timor jurisdiction sidecar — civil-law Lusophone Southeast Asia (Civil Code 2011 + Law on Domestic Violence 2010 + Indonesian-civil-code-transition + non-Hague). Only Lusophone Southeast Asian state.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southeast Asian + Lusophone-globally-distinctive cluster + civil-law + Portuguese-derivative + Indonesian-civil-code-transition-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

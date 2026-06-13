@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "id": "poland",
+  "name": "Poland (Polska)",
+  "jurisdiction_code": "PL",
+  "legal_system": "civil-law",
+  "language": ["pl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Polska to jurysdykcja civilna prawa kontynentalnego. Architektura prawa rodzinnego: Kodeks rodzinny i opiekuńczy (KRiO) 1964 — art. 113⁵ kontakty z dzieckiem + władza rodzicielska; Kodeks postępowania cywilnego (k.p.c.) art. 598¹⁵–598²² postępowanie wykonawcze w przedmiocie kontaktów; Konstytucja RP art. 48 ust.1 + art. 71 ust.1 ochrona życia rodzinnego. UCHWAŁA III CZP 20/25 SN z 3 października 2025 r. JEST APIKALNYM POLSKIM ORZECZENIEM dotyczącym alienacji rodzicielskiej w postępowaniu wykonawczym o kontakty: SN dokonuje wąskiej interpretacji wyroku TK SK 3/20 (22.6.2022) i przywraca skuteczność statutowego mechanizmu egzekucji kontaktów wobec rodzica alienującego, bez sięgania po kliniczną diagnozę PAS i przy poszanowaniu konstytucyjnej ochrony życia rodzinnego. Stanowi polski wkład w europejską dyskusję sądów najwyższych obok Cass. 9691/2022 Włochy + STS 519/2017 Hiszpania + BVerfG 1 BvR 1076/23 Niemcy — reprezentując odrębny PRO-EGZEKUCYJNY biegun w EU.",
+  "pa_recognition_status": {
+    "statutory": "indirect-hook",
+    "apex_court_position": "recognition",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Kodeks rodzinny i opiekuńczy (KRiO) 1964 art. 113⁵",
+      "title": "KRiO art. 113⁵ — kontakty z dzieckiem",
+      "year": 1964,
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059",
+      "relevance": "Substantywna podstawa kontaktów z dzieckiem w polskim prawie rodzinnym. Art. 113⁵ KRiO określa prawo i obowiązek utrzymywania kontaktów z dzieckiem; jest substantywnym hakiem na którym SN orzeka w sprawach alienacji rodzicielskiej. KRiO 1964 jest fundamentalnym statutem polskiego prawa rodzinnego."
+    },
+    {
+      "citation": "Kodeks postępowania cywilnego (k.p.c.) art. 598¹⁵–598²²",
+      "title": "k.p.c. art. 598¹⁵–598²² — postępowanie wykonawcze w przedmiocie kontaktów",
+      "year": 2011,
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296",
+      "relevance": "Procedure wykonawcze w postępowaniu w przedmiocie kontaktów z dzieckiem (art. 598¹⁵-598²² k.p.c. dodane nowelizacją 2011). Art. 598¹⁶ § 1 k.p.c. przewiduje sankcję pieniężną wobec rodzica uchylającego się od wykonywania postanowienia o kontaktach — kluczowy mechanizm egzekucji kontaktów rozwinięty w SN III CZP 20/25."
+    },
+    {
+      "citation": "Konstytucja RP art. 48 ust. 1 i art. 71 ust. 1",
+      "title": "Konstytucja RP — ochrona życia rodzinnego",
+      "year": 1997,
+      "url": "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm",
+      "relevance": "Konstytucyjne podstawy ochrony życia rodzinnego. Art. 48 ust. 1 (prawo rodziców do wychowania dzieci zgodnie ze swymi przekonaniami) i art. 71 ust. 1 (państwo w polityce uwzględnia dobro rodziny). TK SK 3/20 (22.6.2022) zinterpretował te przepisy w kontekście art. 598¹⁶ § 1 k.p.c.; SN III CZP 20/25 dokonuje wąskiej interpretacji tego wyroku."
+    },
+    {
+      "citation": "Konwencja o Prawach Dziecka art. 3 + art. 9",
+      "title": "Konwencja ONZ o Prawach Dziecka — dobro dziecka i kontakty z rodzicami",
+      "year": 1989,
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911200526",
+      "relevance": "Konwencja ratyfikowana przez Polskę. Art. 3 zasada dobra dziecka i art. 9 prawo dziecka do kontaktów z obojgiem rodziców. Standard międzynarodowy stosowany przez polskie sądy rodzinne."
+    },
+    {
+      "citation": "Konwencja Stambulska (CETS 210)",
+      "title": "Konwencja Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej",
+      "year": 2011,
+      "url": "https://www.coe.int/en/web/istanbul-convention/",
+      "relevance": "Konwencja Stambulska — Polska ratyfikowała 2015. W kontekście kontaktów z dzieckiem i alienacji rodzicielskiej stanowi tło międzynarodowe wymagające oceny przemocy domowej jako czynnika oddziaływującego na postawę dziecka. Status ratyfikacji politycznie kontrowersyjny w Polsce po 2020."
+    },
+    {
+      "citation": "Ustawa o zawodzie psychologa i samorządzie zawodowym psychologów 2001",
+      "title": "Ustawa o zawodzie psychologa — regulacja zawodu (nieefektywna)",
+      "year": 2001,
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010730763",
+      "relevance": "Ustawa z 2001 r. miała utworzyć samorząd zawodowy psychologów, ale nie weszła pełni w życie — brak Krajowej Rady Psychologów. Polska nie posiada w pełni funkcjonującego ustawowego regulatora zawodu psychologa, w odróżnieniu od UK HCPC, niemieckiego BÄK czy hiszpańskiego COP. Polskie Towarzystwo Psychologiczne (PTP) funkcjonuje jako stowarzyszenie zawodowe, nie jako regulator."
+    },
+    {
+      "citation": "Ustawa o izbach lekarskich 1989",
+      "title": "Ustawa o izbach lekarskich — regulator zawodu lekarza",
+      "year": 1989,
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890610327",
+      "relevance": "Naczelna Izba Lekarska (NIL) i okręgowe izby lekarskie regulują zawód lekarza, w tym psychiatry. Asymetryczna architektura regulacyjna: psychiatrzy regulowani statutowo przez NIL; psycholodzy bez efektywnego regulatora statutowego."
+    },
+    {
+      "citation": "Ustawa o przeciwdziałaniu przemocy domowej 2005",
+      "title": "Ustawa o przeciwdziałaniu przemocy w rodzinie (przemoc domowa) 2005 + 2023 nowelizacja",
+      "year": 2005,
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493",
+      "relevance": "Substantywne ramy przeciwdziałania przemocy domowej. Nowelizacja 2023 wprowadziła m.in. szybkie zarządzenie izolacyjne (nakaz opuszczenia mieszkania). Procedura Niebieskiej Karty operacjonalizuje statut. Wpływa na ocenę kontekstu kontaktów z dzieckiem w sytuacjach przemocy."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Sąd Najwyższy — Izba Cywilna",
+      "url": "https://www.sn.pl/",
+      "key_decisions": [
+        {
+          "caption": "UCHWAŁA III CZP 20/25 z 3 października 2025 r. — Izba Cywilna SN, skład trzech sędziów, art. 390 § 1 k.p.c. APIKALNE POLSKIE ORZECZENIE w przedmiocie alienacji rodzicielskiej w postępowaniu wykonawczym o kontakty. SN dokonuje wąskiej interpretacji wyroku TK SK 3/20 (22.6.2022) i przywraca skuteczność statutowego mechanizmu egzekucji kontaktów wobec rodzica alienującego. Polski wkład w europejską dyskusję sądów najwyższych. Stanowisko pro-egzekucyjne.",
+          "case_study_ref": "sn-iii-czp-20-25-poland-2025",
+          "year": 2025,
+          "stance": "recognition"
+        },
+        {
+          "caption": "Wcześniejsze orzecznictwo SN w przedmiocie kontaktów z dzieckiem (art. 113⁵ KRiO) i wykonywania postanowień o kontaktach (art. 598¹⁵-²² k.p.c.) — głównie postanowienia indywidualne, nie zagadnienia prawne, nie tworzące apikalnej linii doktryny PA przed 2025.",
+          "year": 2024,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Trybunał Konstytucyjny",
+      "url": "https://trybunal.gov.pl/",
+      "key_decisions": [
+        {
+          "caption": "Wyrok TK z 22 czerwca 2022 r., SK 3/20 — orzeczenie o niezgodności art. 598¹⁶ § 1 k.p.c. z art. 48 ust. 1 i art. 71 ust. 1 Konstytucji RP w zakresie, w jakim przepis ten umożliwia nakazanie zapłaty sumy pieniężnej rodzicowi sprawującemu pieczę, gdy niewykonywanie kontaktów wynika z postawy dziecka. SN III CZP 20/25 dokonuje wąskiej interpretacji tego wyroku — tylko gdy postawa dziecka jest autonomiczna, nie wynikająca z zachowania alienującego rodzica.",
+          "year": 2022,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Sądy Apelacyjne — wydziały cywilne / rodzinne",
+      "url": "https://www.gov.pl/web/sprawiedliwosc",
+      "key_decisions": [
+        {
+          "caption": "11 Sądów Apelacyjnych (Białystok, Gdańsk, Katowice, Kraków, Lublin, Łódź, Poznań, Rzeszów, Szczecin, Warszawa, Wrocław) — II instancja w sprawach rodzinnych w trybie apelacji. Linia orzecznictwa w postępowaniu wykonawczym dotyczącym kontaktów rozwijająca interpretację wyroku TK SK 3/20 do czasu uchwały SN III CZP 20/25.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Sądy Okręgowe / Sądy Rejonowe — wydziały rodzinne i nieletnich",
+      "url": "https://www.gov.pl/web/sprawiedliwosc",
+      "key_decisions": [
+        {
+          "caption": "Sądy rejonowe w trybie I instancji + sądy okręgowe w trybie odwoławczym w postępowaniu wykonawczym kontaktów. Większość polskich spraw alienacji rodzicielskiej rozstrzygana jest na tym poziomie, informowana przez opinie biegłych psychologów / OZSS (Opiniodawcze Zespoły Sądowych Specjalistów).",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Polskie Towarzystwo Psychologiczne (PTP)",
+      "url": "https://www.ptp.org.pl/",
+      "position_statement": "Stowarzyszenie zawodowe psychologów w Polsce (nie regulator statutowy). Polska nie posiada efektywnie funkcjonującego ustawowego regulatora zawodu psychologa — Ustawa z 2001 r. nie weszła w pełni w życie. PTP nie wydało publicznej pozycji PA-specyficznej."
+    },
+    {
+      "name": "Krajowa Rada Sądowo-Psychologicznych Opiniodawców",
+      "url": "https://www.gov.pl/web/sprawiedliwosc",
+      "position_statement": "Opiniodawcze Zespoły Sądowych Specjalistów (OZSS) — ustawowy mechanizm opiniowania w sprawach rodzinnych. Działają przy sądach okręgowych. Brak publicznej pozycji PA-specyficznej; PA-adjacentne stany faktyczne wchodzą do akt sądowych przez opinie OZSS."
+    },
+    {
+      "name": "Naczelna Izba Lekarska (NIL)",
+      "url": "https://nil.org.pl/",
+      "position_statement": "Statutowy regulator zawodu lekarza, w tym psychiatry. Brak pozycji PA-specyficznej."
+    },
+    {
+      "name": "Polskie Towarzystwo Psychiatryczne (PTPsych.)",
+      "url": "https://psychiatria.org.pl/",
+      "position_statement": "Stowarzyszenie zawodowe psychiatrów. Brak publicznej pozycji PA-specyficznej."
+    },
+    {
+      "name": "Rzecznik Praw Dziecka",
+      "url": "https://brpd.gov.pl/",
+      "position_statement": "Konstytucyjny rzecznik praw dziecka (od 2000 ustawowy organ konstytucyjny od 1997). Funkcja monitoringu i interwencji w sprawach dotyczących dzieci. Może wnioskować do SN o uchwałę w trybie art. 390 k.p.c."
+    },
+    {
+      "name": "Rzecznik Praw Obywatelskich (RPO)",
+      "url": "https://bip.brpo.gov.pl/",
+      "position_statement": "Konstytucyjny organ ochrony praw człowieka. W kontekście praw rodzicielskich i kontaktów może składać wnioski do TK i SN. Nie wydał stanowiska PA-specyficznego."
+    },
+    {
+      "name": "Helsińska Fundacja Praw Człowieka",
+      "url": "https://www.hfhr.pl/",
+      "position_statement": "Organizacja pozarządowa praw człowieka. Monitoring kontaktów z dzieckiem w kontekście standardów ETPC. Brak publicznej pozycji PA-specyficznej."
+    },
+    {
+      "name": "Centrum Praw Kobiet",
+      "url": "https://cpk.org.pl/",
+      "position_statement": "Organizacja kobiet, prowadzi monitoring praw kobiet w sytuacjach przemocy domowej i postępowań rodzinnych. Operuje w polu krytyki strukturalnej PA-konstruktu w kontekście DV, podobnie do WAN Japonia + Sisma Mujer Kolumbia."
+    }
+  ],
+  "anonymisation_convention": "Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (sygnatura sprawy III CZP 20/25, brak nazwisk). Sądy powszechne publikują orzeczenia na portalach orzeczeń (orzeczenia.ms.gov.pl) z anonimizacją zgodnie z art. 84 ustawy o ochronie danych osobowych i przepisów RODO. Sygnatura akt sądu II instancji (sąd okręgowy) nie była publicznie ujawniana w komentarzach do III CZP 20/25 zgodnie z polską praktyką sądów rodzinnych.",
+  "key_developments": [
+    {
+      "year": 1964,
+      "description": "Kodeks rodzinny i opiekuńczy (KRiO) — fundamentalny statut polskiego prawa rodzinnego. Art. 113⁵ kontakty z dzieckiem.",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059"
+    },
+    {
+      "year": 1989,
+      "description": "Ustawa o izbach lekarskich — Naczelna Izba Lekarska + okręgowe izby lekarskie regulator zawodu lekarza.",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890610327"
+    },
+    {
+      "year": 1997,
+      "description": "Konstytucja RP — art. 48 ust. 1 prawo rodziców do wychowania + art. 71 ust. 1 polityka dobra rodziny.",
+      "url": "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+    },
+    {
+      "year": 2001,
+      "description": "Ustawa o zawodzie psychologa — projekt regulatora samorządowego nieefektywnie wdrożony. Brak Krajowej Rady Psychologów.",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010730763"
+    },
+    {
+      "year": 2005,
+      "description": "Ustawa o przeciwdziałaniu przemocy w rodzinie — substantywne ramy DV. Procedura Niebieskiej Karty.",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493"
+    },
+    {
+      "year": 2011,
+      "description": "Nowelizacja k.p.c. — dodanie art. 598¹⁵–598²² regulujących postępowanie wykonawcze w przedmiocie kontaktów z dzieckiem. Sankcja pieniężna art. 598¹⁶ § 1.",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296"
+    },
+    {
+      "year": 2015,
+      "description": "Polska ratyfikuje Konwencję Stambulską (CETS 210). Status politycznie kontrowersyjny po 2020.",
+      "url": "https://www.coe.int/en/web/istanbul-convention/"
+    },
+    {
+      "year": 2022,
+      "description": "22 czerwca 2022 — wyrok TK SK 3/20: niezgodność art. 598¹⁶ § 1 k.p.c. z art. 48 ust. 1 i art. 71 ust. 1 Konstytucji w zakresie sankcji pieniężnej gdy niewykonywanie kontaktów wynika z postawy dziecka.",
+      "url": "https://trybunal.gov.pl/"
+    },
+    {
+      "year": 2023,
+      "description": "Nowelizacja ustawy o przeciwdziałaniu przemocy domowej — szybkie zarządzenie izolacyjne (nakaz opuszczenia mieszkania).",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493"
+    },
+    {
+      "year": 2025,
+      "description": "3 października 2025 — UCHWAŁA III CZP 20/25 SN Izba Cywilna. APIKALNE POLSKIE ORZECZENIE w przedmiocie alienacji rodzicielskiej w postępowaniu wykonawczym kontaktów. Wąska interpretacja TK SK 3/20.",
+      "url": "https://www.sn.pl/sites/orzecznictwo/Orzeczenia3/III%20CZP%2020-25.pdf"
+    }
+  ],
+  "structural_findings": [
+    "UCHWAŁA III CZP 20/25 SN (3.10.2025) JEST APIKALNYM POLSKIM ORZECZENIEM W PRZEDMIOCIE ALIENACJI RODZICIELSKIEJ. SN przywraca skuteczność statutowego mechanizmu egzekucji kontaktów wobec rodzica alienującego (art. 598¹⁶ § 1 k.p.c.) BEZ sięgania po kliniczną diagnozę PAS i przy poszanowaniu konstytucyjnej ochrony życia rodzinnego. Polski wkład w europejską dyskusję sądów najwyższych obok Cass. 9691/2022 Włochy + STS 519/2017 Hiszpania + BVerfG 1 BvR 1076/23 Niemcy.",
+    "BIEGUN PRO-EGZEKUCYJNY W EU: III CZP 20/25 reprezentuje ODRĘBNY pro-egzekucyjny biegun europejskiej dyskusji apex. Włochy Cass. 9691/2022 dyskwalifikuje konstrukt PAS w postępowaniu rodzinnym; Hiszpania STS 519/2017 utrzymuje custodia compartida bez endorsement SAP; Niemcy BVerfG 1 BvR 1076/23 dyskwalifikuje SAP jako 'przedawniony i naukowo obalony'; Polska SN III CZP 20/25 przywraca skuteczność egzekucji kontaktów bez sięgania po klinikę PAS. Polski apex jest egzekucyjny-nie-kliniczny.",
+    "WĄSKA INTERPRETACJA WYROKU TK SK 3/20: SN dokonuje wąskiej interpretacji wyroku TK z 22.6.2022. Konstytucyjny immunitet rodzica sprawującego pieczę obejmuje TYLKO przypadki autonomicznej postawy dziecka; gdy postawa dziecka jest skutkiem zachowania alienującego rodzica sprawującego pieczę, sankcja pieniężna z art. 598¹⁶ § 1 k.p.c. pozostaje dopuszczalna. Aktywny obowiązek przeciwdziałania niechęci dziecka do kontaktów.",
+    "OPINIODAWCZE ZESPOŁY SĄDOWYCH SPECJALISTÓW (OZSS): Ustawowy mechanizm opiniowania w sprawach rodzinnych. OZSS są polskim instytucjonalnym analogiem Cafcass UK / Family Advocate ZA / CAPS Singapur / FRW Australia. PA-adjacentne stany faktyczne wchodzą do akt sądowych przez opinie OZSS.",
+    "ARCHITEKTURA REGULACYJNA ASYMETRYCZNA: Psychiatrzy regulowani statutowo przez Naczelną Izbę Lekarską (NIL); PSYCHOLODZY BEZ EFEKTYWNEGO REGULATORA STATUTOWEGO — Ustawa o zawodzie psychologa 2001 nie weszła w pełni w życie, brak Krajowej Rady Psychologów. Polskie Towarzystwo Psychologiczne (PTP) funkcjonuje jako stowarzyszenie zawodowe, nie regulator. Słabsza architektura niż UK HCPC, niemiecki BÄK czy hiszpański COP.",
+    "POLITYCZNIE KONTROWERSYJNY KONTEKST KONWENCJI STAMBULSKIEJ: Polska ratyfikowała Konwencję Stambulską 2015 r.; status politycznie kontrowersyjny po 2020 (próby wypowiedzenia za rządów PiS). Wpływa na tło prawne oceny PA-adjacentnych stanów faktycznych w kontekście DV.",
+    "SEKWENCJA APEX KONTYNENTALNA EU 2017-2025: STS 519/2017 ES + Cass. 13217/2021 IT + Cass. 9691/2022 IT + BVerfG 1 BvR 1076/23 DE 2023 + Cass. 4595/2025 IT + SN III CZP 20/25 PL 2025. Polska uchwała stanowi najnowszy element tej sekwencji apex EU; pierwsza apex CEE."
+  ],
+  "references": [
+    "case-study:sn-iii-czp-20-25-poland-2025",
+    "case-study:cassazione-9691-2022-italy",
+    "case-study:sts-519-2017-spain",
+    "case-study:bverfg-1-bvr-1076-23-germany-2023",
+    "jurisdiction:germany",
+    "jurisdiction:italy",
+    "jurisdiction:spain"
+  ],
+  "sources": [
+    {
+      "title": "Sąd Najwyższy",
+      "url": "https://www.sn.pl/",
+      "publisher": "Sąd Najwyższy Rzeczypospolitej Polskiej",
+      "language": "pl"
+    },
+    {
+      "title": "Trybunał Konstytucyjny",
+      "url": "https://trybunal.gov.pl/",
+      "publisher": "Trybunał Konstytucyjny",
+      "language": "pl"
+    },
+    {
+      "title": "Internetowy System Aktów Prawnych (ISAP)",
+      "url": "https://isap.sejm.gov.pl/",
+      "publisher": "Kancelaria Sejmu",
+      "language": "pl"
+    },
+    {
+      "title": "Portal Orzeczeń Sądów Powszechnych",
+      "url": "https://orzeczenia.ms.gov.pl/",
+      "publisher": "Ministerstwo Sprawiedliwości",
+      "language": "pl"
+    },
+    {
+      "title": "Naczelna Izba Lekarska (NIL)",
+      "url": "https://nil.org.pl/",
+      "publisher": "NIL",
+      "language": "pl"
+    },
+    {
+      "title": "Polskie Towarzystwo Psychologiczne (PTP)",
+      "url": "https://www.ptp.org.pl/",
+      "publisher": "PTP",
+      "language": "pl"
+    },
+    {
+      "title": "Rzecznik Praw Dziecka",
+      "url": "https://brpd.gov.pl/",
+      "publisher": "Biuro RPD",
+      "language": "pl"
+    },
+    {
+      "title": "Centrum Praw Kobiet",
+      "url": "https://cpk.org.pl/",
+      "publisher": "Centrum Praw Kobiet",
+      "language": "pl"
+    },
+    {
+      "title": "Helsińska Fundacja Praw Człowieka",
+      "url": "https://www.hfhr.pl/",
+      "publisher": "HFPC",
+      "language": "pl"
+    }
+  ],
+  "editorial_notes": [
+    "Kolejność źródeł pierwotnych: sn.pl dla uchwał i orzecznictwa SN; trybunal.gov.pl dla TK; ISAP Sejm dla ustaw; orzeczenia.ms.gov.pl dla sądów powszechnych; NIL + PTP dla regulacji zawodowej.",
+    "Terminologia polska zachowana: 'władza rodzicielska' (parental authority); 'kontakty z dzieckiem' (contact with child); 'piecza nad dzieckiem' (care of child); 'postępowanie wykonawcze' (enforcement proceedings); 'opiniodawczy zespół sądowych specjalistów' (OZSS); 'sankcja pieniężna' (financial sanction).",
+    "III CZP 20/25 SN (3.10.2025) wyróżniona jako apikalna polska decyzja w structural_findings[0]; pozycjonowana w sekwencji apex EU 2017-2025 w structural_findings[6].",
+    "Polski biegun pro-egzekucyjny w dyskusji EU apex (egzekucyjny-nie-kliniczny) rozpoznany w structural_findings[1] jako odrębna sygnatura strukturalna.",
+    "Asymetria regulacyjna (psychiatrzy NIL statutowo / psycholodzy bez regulatora) zachowana w structural_findings[4].",
+    "Kontekst Konwencji Stambulskiej politycznie kontrowersyjny po 2020 zachowany w structural_findings[5] jako tło prawne oceny DV-PA-adjacent."
+  ]
+}

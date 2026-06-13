@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "id": "south-ossetia",
+  "name": "South Ossetia (Republic of South Ossetia / State of Alania)",
+  "jurisdiction_code": "GE-SO",
+  "legal_system": "civil-law",
+  "language": ["os", "ru"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "South Ossetia (officially Republic of South Ossetia / State of Alania / Республика Южная Осетия — Государство Алания) is a Caucasian civil-law partially-recognised de-facto state in the South Caucasus — structurally distinctive globally as one of the two Russian-recognised post-2008 Russia-Georgia war breakaway states (with Abkhazia), and as the only de-facto state with a population-supported aspiration for absorption into the Russian Federation (2022 South Ossetia President Bibilov announced referendum on joining Russia — postponed indefinitely after May 2022 leadership change). South Ossetia is recognised by Russia (26 August 2008), Nicaragua (5 September 2008), Venezuela (10 September 2009), Nauru (15 December 2009, withdrawn 9 January 2024), and Syria (29 May 2018). Located in the South Caucasus north of Georgia proper and south of the Russian Federation's North Ossetia-Alania Republic, South Ossetia comprises ~3,900 km² with a population of ~56,000. Family-law framework operates under the South Ossetian Family Code (Семейный кодекс Республики Южная Осетия), modeled on Russian Federation Family Code. Parental authority and child custody operate under South Ossetian Family Code provisions on родительские права (parental rights). The Supreme Court of South Ossetia is the apex domestic court; final appellate jurisdiction is internal — no recognised external appellate court. Cross-border family-law coordination with Georgia proper is severely hampered by the conflict. Psychology profession is regulated through South Ossetian Ministry of Health. South Ossetia is silent on 'parental alienation' as a statutory label. South Ossetia is not a party to the Hague Convention 1980.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Republic of South Ossetia 2001 (as amended)",
+      "title": "South Ossetia Constitution",
+      "year": 2001,
+      "url": "https://www.presidentruo.org/",
+      "relevance": "South Ossetia Constitution establishing presidential republic constitutional framework."
+    },
+    {
+      "citation": "South Ossetian Family Code (Семейный кодекс РЮО)",
+      "title": "South Ossetian Family Code",
+      "year": 2007,
+      "url": "https://www.presidentruo.org/",
+      "relevance": "South Ossetian Family Code governing parental rights and child custody — modeled on Russian Federation Family Code."
+    },
+    {
+      "citation": "Russia-South Ossetia Treaty of Alliance and Integration 2015",
+      "title": "Russia-South Ossetia Treaty 2015",
+      "year": 2015,
+      "url": "https://www.kremlin.ru/",
+      "relevance": "International treaty signed 18 March 2015 establishing alliance and integration framework with Russian Federation including border integration, customs union, military integration, and citizenship-pathway provisions."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Republic of South Ossetia (Верховный суд РЮО)",
+      "seat": "Tskhinvali",
+      "url": "https://www.presidentruo.org/",
+      "role": "Apex domestic court for civil and criminal matters from South Ossetia — final appellate jurisdiction is internal."
+    },
+    {
+      "name": "Constitutional Court of the Republic of South Ossetia",
+      "seat": "Tskhinvali",
+      "url": "https://www.presidentruo.org/",
+      "role": "Constitutional court of South Ossetia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "South Ossetia Ministry of Health",
+      "url": "https://www.presidentruo.org/",
+      "role": "South Ossetian governmental health framework — psychology profession regulated through Ministry of Health."
+    }
+  ],
+  "anonymisation_convention": "South Ossetian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1990,
+      "title": "South Ossetian Soviet Democratic Republic declared",
+      "description": "South Ossetian Soviet Democratic Republic declared on 20 September 1990 within USSR — South Ossetian declaration of independence from Georgian SSR."
+    },
+    {
+      "year": 1991,
+      "title": "1991-1992 South Ossetia War",
+      "description": "South Ossetia War January 1991-June 1992 between Georgia and South Ossetia — Sochi Agreement signed 24 June 1992 established Joint Control Commission ceasefire."
+    },
+    {
+      "year": 2001,
+      "title": "South Ossetia Constitution adopted",
+      "description": "South Ossetia Constitution adopted by referendum on 8 April 2001 establishing presidential republic constitutional framework."
+    },
+    {
+      "year": 2008,
+      "title": "Russia-Georgia war + Russian recognition",
+      "description": "Russia-Georgia war 7-12 August 2008 — Russian Federation recognised South Ossetia and Abkhazia as independent states on 26 August 2008."
+    },
+    {
+      "year": 2015,
+      "title": "Russia-South Ossetia Treaty of Alliance and Integration",
+      "description": "International treaty signed 18 March 2015 establishing alliance and integration framework with Russian Federation."
+    }
+  ],
+  "structural_findings": [
+    "South Ossetia operates a civil-law framework modeled on Russian Federation Civil Code and Family Code — places South Ossetia in the post-Soviet de-facto-state cluster.",
+    "Russian-recognised post-2008 Russia-Georgia war breakaway state status is structurally distinctive globally — only de-facto states (with Abkhazia) recognised by Russian Federation following formal Russian military intervention.",
+    "Only de-facto state with population-supported aspiration for absorption into Russian Federation is structurally distinctive globally — 2022 referendum-announcement framework.",
+    "Russia-South Ossetia Treaty of Alliance and Integration (2015) including border integration, customs union, military integration, citizenship-pathway provisions is structurally distinctive globally — closest to formal absorption framework short of merger.",
+    "Recognition by Russia + Nicaragua + Venezuela + Syria framework is structurally distinctive — only contemporary 'Russian-aligned recognition cluster' framework.",
+    "Cross-border family-law coordination with Georgia proper severely hampered by conflict — structurally distinctive within EU-adjacent unrecognised-state cluster.",
+    "Non-Hague-Convention-1980 status is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:georgia",
+    "jurisdiction:russia",
+    "jurisdiction:abkhazia",
+    "jurisdiction:transnistria",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "President of the Republic of South Ossetia",
+      "url": "https://www.presidentruo.org/",
+      "publisher": "South Ossetia Government",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "South Ossetia jurisdiction sidecar — civil-law Caucasian partially-recognised de-facto state (South Ossetia Constitution 2001 + South Ossetian Family Code 2007 modeled on Russian Federation Family Code + Russia-South Ossetia Treaty 2015 + non-Hague-1980). Russian-recognised post-2008 Russia-Georgia war breakaway state globally + only de-facto state with population-supported aspiration for absorption into Russian Federation + closest to formal absorption framework short of merger.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caucasian + civil-law + post-Soviet-de-facto-state cluster + Russian-recognised-breakaway-state + Russia-Treaty-of-Alliance-and-Integration + Russian-aligned-recognition-cluster + aspirational-Russia-absorption + non-Hague-1980 clusters within the corpus."
+  ]
+}

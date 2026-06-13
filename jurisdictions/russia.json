@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "russia",
+  "name": "Russia (Russian Federation / Российская Федерация)",
+  "jurisdiction_code": "RU",
+  "legal_system": "civil-law",
+  "language": ["ru"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Russia is an East European civil-law federal republic whose family-law framework operates under the Family Code of the Russian Federation 1995 (Семейный кодекс, Federal Law 223-FZ, effective 1 March 1996, substantially amended), governing marriage, parental rights and child custody. Parental rights and child custody are governed by Family Code arts. 54-79. The Supreme Court of the Russian Federation (Верховный Суд Российской Федерации) is the apex court for civil and criminal matters; the Constitutional Court of the Russian Federation (Конституционный Суд) operates separate constitutional review. Family-law matters are heard at first instance in District/Justice-of-the-Peace Courts. Federal subjects (republics, regions) operate within the federal family-law framework with limited regional supplementary provisions. Psychology profession is regulated through the Russian Psychological Society and Ministry of Health framework. Russia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 65. Russia acceded to the Hague Convention 1980 effective 1 October 2011. The Russian Federation Constitutional Court in 2015 ruled on conditions for non-execution of ECHR judgments, partially limiting ECtHR effect in Russia; Russia subsequently exited the Council of Europe effective 16 March 2022.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code of the Russian Federation 1995 (223-FZ) arts. 54-79",
+      "title": "Family Code — Parental rights and custody",
+      "year": 1995,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Federal Family Code enacted post-Soviet effective 1 March 1996. Arts. 54-79 govern parental rights and child custody. Substantially amended over subsequent decades."
+    },
+    {
+      "citation": "Civil Code of the Russian Federation Parts I-IV",
+      "title": "Civil Code",
+      "year": 1994,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Federal Civil Code enacted post-Soviet, comprising Parts I-IV (1994-2007); Part III governs inheritance affecting family-law matters."
+    },
+    {
+      "citation": "Federal Law on Basic Guarantees of the Rights of the Child 124-FZ of 1998",
+      "title": "Law on Basic Guarantees of the Rights of the Child",
+      "year": 1998,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Federal children's rights statute aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Верховный Суд)",
+      "seat": "Saint Petersburg / Moscow",
+      "url": "https://www.vsrf.ru/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Конституционный Суд)",
+      "seat": "Saint Petersburg",
+      "url": "https://www.ksrf.ru/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Russian Psychological Society (Российское психологическое общество)",
+      "url": "https://www.rpo.ru/",
+      "role": "Peak professional association for psychologists in Russia."
+    },
+    {
+      "name": "Ministry of Health, Russian Federation",
+      "url": "https://www.minzdrav.gov.ru/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Russian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1994,
+      "title": "Civil Code Part I",
+      "description": "Federal Civil Code Part I enacted post-Soviet."
+    },
+    {
+      "year": 1995,
+      "title": "Family Code of the Russian Federation",
+      "description": "Federal Family Code enacted post-Soviet effective 1 March 1996."
+    },
+    {
+      "year": 1998,
+      "title": "Federal Law on Basic Guarantees of the Rights of the Child",
+      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+    },
+    {
+      "year": 2011,
+      "title": "Hague Convention 1980 accession",
+      "description": "Russia acceded to the Hague Convention 1980 effective 1 October 2011."
+    },
+    {
+      "year": 2015,
+      "title": "Constitutional Court limitation of ECHR effect",
+      "description": "Constitutional Court ruled on conditions for non-execution of ECHR judgments, partially limiting ECtHR effect in Russia."
+    },
+    {
+      "year": 2022,
+      "title": "Exit from Council of Europe",
+      "description": "Russia exited the Council of Europe effective 16 March 2022; ECHR no longer applies."
+    }
+  ],
+  "structural_findings": [
+    "Russia operates a post-Soviet civil-law federal framework — Family Code 1995 was foundational for subsequent CIS/post-Soviet codifications (Kazakhstan, Belarus, Ukraine, Uzbekistan).",
+    "Hague Convention 1980 accession 2011 places Russia in the Hague Eastern European cluster.",
+    "Russia's 2022 exit from the Council of Europe terminated ECHR jurisdiction — structurally distinctive within the corpus as the only jurisdiction transitioning OUT of supranational human-rights framework. ECHR case-law remains advisory but no longer binding.",
+    "Psychology profession regulation through Russian Psychological Society + Ministry of Health framework — lacks unified federal-statutory psychology regulator."
+  ],
+  "references": [
+    "jurisdiction:ukraine",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of the Russian Federation",
+      "url": "https://www.vsrf.ru/",
+      "publisher": "Supreme Court",
+      "language": "ru,en"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.ksrf.ru/",
+      "publisher": "Constitutional Court",
+      "language": "ru,en"
+    },
+    {
+      "title": "ConsultantPlus Legal Database",
+      "url": "https://www.consultant.ru/",
+      "publisher": "ConsultantPlus",
+      "language": "ru"
+    },
+    {
+      "title": "Russian Psychological Society",
+      "url": "https://www.rpo.ru/",
+      "publisher": "RPS",
+      "language": "ru,en"
+    }
+  ],
+  "editorial_notes": [
+    "Russia jurisdiction sidecar — civil-law post-Soviet federal Eastern Europe. Family Code 1995 + Civil Code 1994-2007 + Basic Guarantees of Rights of Child 1998 + Hague Convention 1980 accession 2011 + 2022 CoE exit.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Eastern European + civil-law + post-Soviet + federal + Hague Convention + ECHR-exit-distinctive clusters within the corpus."
+  ]
+}

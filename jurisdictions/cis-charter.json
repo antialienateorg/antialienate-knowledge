@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0",
+  "id": "cis-charter",
+  "name": "CIS Charter 1991-1993 (Commonwealth of Independent States)",
+  "jurisdiction_code": "CIS",
+  "legal_system": "supranational",
+  "language": ["ru", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Commonwealth of Independent States (CIS) Founding Agreements + CIS Charter is a regional supranational meta-framework foundational-CIS-treaty framework adopted by the 11 founding post-Soviet states in Alma-Ata — structurally distinctive globally as the oldest modern post-Soviet regional supranational binding-treaty framework operating on formal Soviet-Union-successor framework (Belavezha Accords signed 8 December 1991 in Belovezha Belarus by Belarus + Russia + Ukraine + Alma-Ata Protocol signed 21 December 1991 in Alma-Ata Kazakhstan by 11 founding post-Soviet states + CIS Charter signed 22 January 1993 in Minsk Belarus + effective 22 January 1994 — formal foundational CIS treaty framework establishing comprehensive CIS organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate without Soviet-Union-successor framework, structurally distinctive globally as the oldest modern post-Soviet regional supranational binding-treaty framework + only modern regional supranational binding-treaty framework operating formal Soviet-Union-successor framework + only modern regional supranational binding-treaty framework operating formal Russia-Ukraine-tensions framework with Ukraine departed 19 May 2018 framework + only modern regional supranational binding-treaty framework operating formal Georgia-departed-post-2008-Russia-Georgia-War framework via Georgia departed August 2008 + 2009 framework + only modern regional supranational binding-treaty framework operating formal CIS-Free-Trade-Area framework via CIS FTA 2011), as the central jurisdiction of the formal CIS Founding Agreements 1991 framework (Belavezha Accords + Alma-Ata Protocol framework providing formal Soviet-Union-dissolution + post-Soviet-states-cooperation framework — formal foundational CIS-Founding-Agreements framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Soviet-Union-dissolution-Founding-Agreements framework), as the central jurisdiction of the formal CIS Free Trade Area framework (CIS Free Trade Area Treaty signed 18 October 2011 in Saint Petersburg Russia + effective 20 September 2012 providing formal CIS-regional free-trade framework — formal foundational CIS free-trade framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal CIS-regional Free-Trade-Area framework), and as the central jurisdiction of the formal CIS Member Departures framework (Georgia departed CIS August 2008 effective 18 August 2009 following 2008 Russia-Georgia War + Ukraine effectively departed CIS 19 May 2018 + Moldova-Russia tensions framework 2014 onwards reducing CIS from 11 founding to 9 active members framework — formal foundational CIS member-departures framework, structurally distinctive globally as the only modern post-Soviet regional supranational binding-treaty framework operating formal multiple-state-departure framework). The CIS Charter is binding upon 9 CIS member states as of 2026 (Armenia + Azerbaijan + Belarus + Kazakhstan + Kyrgyzstan + Moldova + Russia + Tajikistan + Uzbekistan) + 1 CIS associate member Turkmenistan + Ukraine de-facto-departed 2018 + Georgia departed 2009 framework — comprehensive post-Soviet regional coverage framework. The Charter is silent on 'parental alienation' as a statutory label, though formal CIS framework operates substantial intersection with parental-alienation framework via formal post-Soviet cross-border-children's-rights framework including 1993 Minsk Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases framework + 2002 Kishinev Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases framework. The CIS Council of Heads of State + CIS Council of Heads of Government + CIS Executive Committee + CIS Economic Court + CIS Inter-Parliamentary Assembly are the formal CIS bodies; national-level apex courts operate as judicial bodies. The CIS Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Belavezha Accords 1991",
+      "title": "Belavezha Accords",
+      "year": 1991,
+      "url": "https://www.cis.minsk.by/",
+      "relevance": "Belavezha Accords signed 8 December 1991 in Belovezha Belarus by Belarus + Russia + Ukraine — formal foundational Soviet-Union-dissolution framework establishing CIS framework."
+    },
+    {
+      "citation": "Alma-Ata Protocol 1991",
+      "title": "Alma-Ata Protocol",
+      "year": 1991,
+      "url": "https://www.cis.minsk.by/",
+      "relevance": "Alma-Ata Protocol signed 21 December 1991 in Alma-Ata Kazakhstan by 11 founding post-Soviet states — formal foundational CIS expansion + Soviet-Union-dissolution framework."
+    },
+    {
+      "citation": "CIS Charter 1993",
+      "title": "CIS Charter",
+      "year": 1994,
+      "url": "https://www.cis.minsk.by/",
+      "relevance": "CIS Charter signed 22 January 1993 in Minsk Belarus + effective 22 January 1994 — formal foundational CIS Charter treaty framework establishing comprehensive CIS organisation framework."
+    },
+    {
+      "citation": "CIS Minsk Convention 1993 (Legal Assistance + Family Matters)",
+      "title": "Minsk Convention 1993",
+      "year": 1994,
+      "url": "https://www.cis.minsk.by/",
+      "relevance": "CIS Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases signed 22 January 1993 in Minsk Belarus + effective 19 May 1994 — formal foundational CIS-regional cross-border-family-law framework with PA-intersection framework."
+    },
+    {
+      "citation": "CIS Kishinev Convention 2002 (Updated Minsk Convention Framework)",
+      "title": "Kishinev Convention 2002",
+      "year": 2004,
+      "url": "https://www.cis.minsk.by/",
+      "relevance": "CIS Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases signed 7 October 2002 in Kishinev Moldova + effective 27 April 2004 — formal updated CIS-regional cross-border-family-law framework with PA-intersection framework."
+    },
+    {
+      "citation": "CIS Free Trade Area Treaty 2011",
+      "title": "CIS FTA Treaty",
+      "year": 2012,
+      "url": "https://www.cis.minsk.by/",
+      "relevance": "CIS Free Trade Area Treaty signed 18 October 2011 in Saint Petersburg Russia + effective 20 September 2012 — formal foundational CIS-regional free-trade framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "CIS Council of Heads of State",
+      "seat": "rotating",
+      "url": "https://www.cis.minsk.by/",
+      "role": "Formal supreme decision-making body for CIS."
+    },
+    {
+      "name": "CIS Council of Heads of Government",
+      "seat": "rotating",
+      "url": "https://www.cis.minsk.by/",
+      "role": "Formal executive body for CIS."
+    },
+    {
+      "name": "CIS Executive Committee",
+      "seat": "Minsk",
+      "url": "https://www.cis.minsk.by/",
+      "role": "Formal administrative body for CIS."
+    },
+    {
+      "name": "CIS Economic Court",
+      "seat": "Minsk",
+      "url": "https://www.cis.minsk.by/",
+      "role": "Apex judicial body for CIS economic framework."
+    },
+    {
+      "name": "CIS Inter-Parliamentary Assembly",
+      "seat": "Saint Petersburg",
+      "url": "https://iacis.ru/",
+      "role": "Formal parliamentary body for CIS."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "CIS Executive Committee",
+      "url": "https://www.cis.minsk.by/",
+      "role": "CIS Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "CIS-related communications operate via CIS Council of Heads of State framework + CIS Economic Court framework; individual communications limited under CIS framework.",
+  "key_developments": [
+    {
+      "year": 1991,
+      "title": "Belavezha Accords + Alma-Ata Protocol + Soviet Union dissolves",
+      "description": "Belavezha Accords signed 8 December 1991 in Belovezha Belarus + Alma-Ata Protocol signed 21 December 1991 in Alma-Ata Kazakhstan + Soviet Union dissolved 26 December 1991 — formal foundational CIS-Founding-Agreements framework operational."
+    },
+    {
+      "year": 1993,
+      "title": "CIS Charter signed + Minsk Convention signed",
+      "description": "CIS Charter signed 22 January 1993 in Minsk Belarus + CIS Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases Minsk Convention signed 22 January 1993 in Minsk Belarus — formal foundational CIS Charter + Minsk Convention framework adopted."
+    },
+    {
+      "year": 1994,
+      "title": "CIS Charter + Minsk Convention enter force",
+      "description": "CIS Charter entered force 22 January 1994 + CIS Minsk Convention entered force 19 May 1994 — formal foundational CIS Charter + Minsk Convention framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "CIS Kishinev Convention signed",
+      "description": "CIS Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases Kishinev Convention signed 7 October 2002 in Kishinev Moldova updating Minsk Convention 1993 — formal updated CIS-regional cross-border-family-law framework adopted."
+    },
+    {
+      "year": 2008,
+      "title": "Georgia departs CIS following Russia-Georgia War",
+      "description": "Georgia announced CIS departure August 2008 following Russia-Georgia War 7-12 August 2008 + effective 18 August 2009 — formal Georgia-CIS-departure framework operational."
+    },
+    {
+      "year": 2011,
+      "title": "CIS FTA Treaty signed",
+      "description": "CIS Free Trade Area Treaty signed 18 October 2011 in Saint Petersburg Russia — formal foundational CIS-regional free-trade framework adopted."
+    },
+    {
+      "year": 2012,
+      "title": "CIS FTA enters force",
+      "description": "CIS Free Trade Area Treaty entered force 20 September 2012 — formal foundational CIS-regional free-trade framework operational."
+    },
+    {
+      "year": 2014,
+      "title": "Russia-Ukraine Crimea + Donbas tensions begin",
+      "description": "Russia annexed Crimea 18 March 2014 + Ukraine-Russia Donbas tensions framework operational from April 2014 — formal Ukraine-Russia-CIS-tensions framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "Ukraine effectively departs CIS",
+      "description": "Ukraine effectively departed CIS 19 May 2018 + Ukrainian President Petro Poroshenko signed decree terminating Ukraine's participation in CIS — formal Ukraine-CIS-departure framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia invades Ukraine + Moldova-Russia tensions intensify",
+      "description": "Russia invaded Ukraine 24 February 2022 + Moldova-Russia-CIS-tensions framework intensified — formal post-Russia-Ukraine-invasion CIS-tensions framework operational."
+    }
+  ],
+  "structural_findings": [
+    "CIS Charter operates a regional supranational binding-treaty framework — places CIS Charter in the regional supranational-meta-framework cluster.",
+    "Oldest modern post-Soviet regional supranational binding-treaty framework operating on formal Soviet-Union-successor framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Soviet-Union-successor framework + only modern regional supranational binding-treaty framework operating formal Russia-Ukraine-tensions framework with Ukraine departed 19 May 2018 framework + only modern regional supranational binding-treaty framework operating formal Georgia-departed-post-2008-Russia-Georgia-War framework via Georgia departed August 2008 + 2009 framework.",
+    "Central jurisdiction of formal CIS Founding Agreements 1991 framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Soviet-Union-dissolution-Founding-Agreements framework.",
+    "Central jurisdiction of formal CIS Free Trade Area framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal CIS-regional Free-Trade-Area framework.",
+    "Central jurisdiction of formal CIS Member Departures framework is structurally distinctive globally — only modern post-Soviet regional supranational binding-treaty framework operating formal multiple-state-departure framework.",
+    "9 CIS member state + 1 CIS associate member ratification framework with Ukraine + Georgia departed framework is structurally distinctive globally — comprehensive post-Soviet regional coverage framework.",
+    "1991 Belavezha Accords + Alma-Ata Protocol + Soviet Union dissolves + 1993 CIS Charter + Minsk Convention + 1994 entry into force + 2002 Kishinev Convention + 2008 Russia-Georgia War + Georgia departs + 2011 CIS FTA + 2014 Russia-Ukraine Crimea + 2018 Ukraine departs + 2022 Russia invades Ukraine CIS-framework-development sequence is structurally distinctive globally.",
+    "CIS Charter + Belavezha Accords + Alma-Ata Protocol + Minsk Convention + Kishinev Convention + CIS FTA formal sextet framework with formal post-Soviet cross-border-children's-rights PA-intersection framework via 1993 Minsk Convention + 2002 Kishinev Convention frameworks is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:belarus",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:armenia",
+    "jurisdiction:moldova",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "CIS",
+      "url": "https://www.cis.minsk.by/",
+      "publisher": "CIS Executive Committee",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "CIS Charter jurisdiction sidecar — regional supranational post-Soviet foundational-CIS-treaty meta-framework (Belavezha Accords 1991 + Alma-Ata Protocol 1991 + CIS Charter 1993/1994 + Minsk Convention 1993/1994 + Kishinev Convention 2002/2004 + CIS FTA 2011/2012 + Georgia departs 2008/2009 + Ukraine effectively departs 2018 + Russia invades Ukraine 2022). Oldest modern post-Soviet regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework operating formal Soviet-Union-successor framework + only modern regional supranational binding-treaty framework operating formal Russia-Ukraine-tensions framework + only modern regional supranational binding-treaty framework operating formal Georgia-departed-post-2008-Russia-Georgia-War + central jurisdiction of formal CIS-Founding-Agreements framework + central jurisdiction of formal CIS-regional Free-Trade-Area framework + central jurisdiction of formal multiple-state-departure framework + 9 CIS member states (Armenia + Azerbaijan + Belarus + Kazakhstan + Kyrgyzstan + Moldova + Russia + Tajikistan + Uzbekistan) + 1 associate member Turkmenistan + Ukraine de-facto-departed 2018 + Georgia departed 2009 + 1991 Belavezha Accords + Alma-Ata Protocol + Soviet Union dissolves + 1993 CIS Charter + Minsk Convention + 1994 entry into force + 2002 Kishinev Convention + 2008 Russia-Georgia War + Georgia departs + 2011 CIS FTA + 2014 Russia-Ukraine Crimea + 2018 Ukraine departs + 2022 Russia invades Ukraine CIS-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: 1993 Minsk Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases + 2002 Kishinev Convention on Legal Assistance and Legal Relations in Civil, Family and Criminal Cases operate substantial intersection with parental-alienation framework via formal post-Soviet cross-border-children's-rights framework.",
+    "Joins regional + supranational + post-Soviet-foundational-CIS-treaty cluster + CIS-Charter-oldest-modern-post-Soviet-regional-supranational-binding-treaty-globally-distinctive + Soviet-Union-successor-framework + Belavezha-Accords-1991-Belovezha + Alma-Ata-Protocol-1991-Alma-Ata-Kazakhstan + CIS-Charter-1993-Minsk + Minsk-Convention-1993-cross-border-family-law + Kishinev-Convention-2002-updated-cross-border-family-law + CIS-FTA-2011-Saint-Petersburg + 9-CIS-member-states + 1-associate-member-Turkmenistan + Ukraine-effectively-departed-2018 + Georgia-departed-2008-2009-Russia-Georgia-War + CIS-Executive-Committee-Minsk + CIS-Economic-Court-Minsk + CIS-Inter-Parliamentary-Assembly-Saint-Petersburg + post-Soviet-cross-border-children-rights-PA-intersection-via-Minsk-Convention-Kishinev-Convention clusters within the corpus."
+  ]
+}

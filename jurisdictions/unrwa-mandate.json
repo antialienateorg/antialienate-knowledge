@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.0",
+  "id": "unrwa-mandate",
+  "name": "UNRWA Mandate 1949 (UN Relief and Works Agency for Palestine Refugees in the Near East)",
+  "jurisdiction_code": "URW",
+  "legal_system": "supranational",
+  "language": ["en", "ar", "fr", "es", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) is a global supranational meta-framework foundational-UNRWA framework established by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal Palestine-refugees-specific framework + only modern global supranational framework operating formal single-population mandate framework (UNRWA established 8 December 1949 by UN General Assembly Resolution 302 IV + UNRWA operations began 1 May 1950 — formal foundational UNRWA framework establishing comprehensive UNRWA organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal Palestine-refugees-specific framework + only modern global supranational framework operating formal single-population mandate framework + only modern global supranational framework operating formal triennial-renewal-by-UN-General-Assembly framework + only modern global supranational framework operating formal 5-fields-of-operation framework: West Bank + Gaza + Jordan + Lebanon + Syria framework + only modern global supranational framework operating formal 5.9 million Palestine-refugees-registered framework + only modern global supranational framework operating formal Gaza-war-2023-2024 mass-casualty-UNRWA-staff framework via 300+ UNRWA staff killed in Gaza 2023-2025 framework — largest UN agency loss in single conflict in UN history + only modern global supranational framework operating formal Israeli-Knesset-UNRWA-Ban-Laws-2024 framework via Israeli laws 28 October 2024 banning UNRWA operations in Israel + East Jerusalem + only modern global supranational framework operating formal ICJ-Advisory-Opinion-UNRWA-Israeli-obligations 22 October 2025 framework + only modern global supranational framework operating formal Trump-administration-UNRWA-funding-cuts 2025 framework + only modern global supranational framework operating formal 75-year-anniversary 2025 framework), as the central jurisdiction of the formal UNRWA 5 Fields of Operation framework (UNRWA framework providing formal 5 fields of operation framework: West Bank + Gaza Strip + Jordan + Lebanon + Syria framework — formal foundational UNRWA 5 Fields of Operation framework, structurally distinctive globally as the only modern global supranational framework operating formal 5 Fields of Operation framework + only modern global supranational framework operating formal 30,000+ UNRWA staff framework primarily Palestine-refugees framework), as the central jurisdiction of the formal Gaza-war-2023-2024 mass-casualty-UNRWA-staff framework (Gaza war 7 October 2023 onwards + 300+ UNRWA staff killed in Gaza 2023-2025 framework — largest UN agency loss in single conflict in UN history + UNRWA Headquarters Gaza struck multiple times 2023-2024 framework — formal foundational UNRWA Gaza-war-2023-2024 mass-casualty-staff framework, structurally distinctive globally as the only modern global supranational framework operating formal 300+ UN agency staff killed in single conflict framework), and as the central jurisdiction of the formal Israeli-Knesset-UNRWA-Ban-Laws-2024 + ICJ-Advisory-Opinion 2025 framework (Israeli Knesset adopted two UNRWA-Ban Laws 28 October 2024 + UN General Assembly Resolution ES-10/26 of 19 December 2024 requesting ICJ Advisory Opinion + ICJ Advisory Opinion 22 October 2025 on Israeli obligations to UNRWA framework — formal foundational UNRWA-Israeli-Ban-Laws + ICJ-Advisory-Opinion framework, structurally distinctive globally as the only modern global supranational framework operating formal Israeli-Ban-Laws-then-ICJ-Advisory-Opinion framework + only modern global supranational framework operating formal UN-agency-bans-by-host-state framework). The UNRWA Mandate is operating upon 5 fields of operation + 5.9 million Palestine-refugees-registered + 30,000+ UNRWA staff + ~700+ UNRWA schools + ~140 UNRWA primary health-care facilities — comprehensive Palestine-refugees coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UNRWA family-services framework operates substantial intersection with parental-alienation framework via formal UNRWA Family Social Services + Family Eligibility Registration framework + UNRWA cross-field-family-reunification framework. The UN Secretary-General + UNRWA Commissioner-General + UNRWA Advisory Commission + UNRWA Secretariat are the formal UNRWA bodies; national-level apex courts operate as judicial bodies. The UNRWA Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNRWA Founding Resolution 1949 (UN General Assembly Resolution 302 IV)",
+      "title": "UNRWA Founding Resolution",
+      "year": 1949,
+      "url": "https://www.unrwa.org/",
+      "relevance": "UNRWA established 8 December 1949 by UN General Assembly Resolution 302 IV — formal foundational UNRWA framework establishing comprehensive UNRWA organisation framework."
+    },
+    {
+      "citation": "UNRWA Most-Recent Mandate Renewal 2023 (UN General Assembly Resolution 78/79)",
+      "title": "UNRWA Most-Recent Mandate Renewal",
+      "year": 2023,
+      "url": "https://www.unrwa.org/",
+      "relevance": "UNRWA mandate renewed 7 December 2023 by UN General Assembly Resolution 78/79 — formal UNRWA triennial-renewal-2024-2026 framework."
+    },
+    {
+      "citation": "Israeli Knesset UNRWA-Ban Laws 2024",
+      "title": "Israeli Knesset UNRWA-Ban Laws",
+      "year": 2024,
+      "url": "https://www.unrwa.org/",
+      "relevance": "Israeli Knesset adopted two UNRWA-Ban Laws 28 October 2024 — formal foundational Israeli-UNRWA-Ban-Laws framework."
+    },
+    {
+      "citation": "ICJ Advisory Opinion 2025 (UN General Assembly Resolution ES-10/26)",
+      "title": "ICJ Advisory Opinion UNRWA",
+      "year": 2025,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "UN General Assembly Resolution ES-10/26 of 19 December 2024 requesting ICJ Advisory Opinion + ICJ Advisory Opinion 22 October 2025 on Israeli obligations to UNRWA — formal foundational UNRWA-ICJ-Advisory-Opinion framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Secretary-General",
+      "seat": "New York",
+      "url": "https://www.un.org/",
+      "role": "Formal supreme decision-making body for UNRWA Commissioner-General appointment."
+    },
+    {
+      "name": "UNRWA Commissioner-General",
+      "seat": "Gaza City + Amman",
+      "url": "https://www.unrwa.org/who-we-are/commissioner-general",
+      "role": "Formal administrative head body for UNRWA — UNRWA Commissioner-General Philippe Lazzarini 2020-2025+ framework."
+    },
+    {
+      "name": "UNRWA Advisory Commission",
+      "seat": "Amman",
+      "url": "https://www.unrwa.org/",
+      "role": "Formal UNRWA Advisory Commission body composed of 28 donor + host states."
+    },
+    {
+      "name": "UNRWA Secretariat",
+      "seat": "Gaza City + Amman",
+      "url": "https://www.unrwa.org/",
+      "role": "Formal administrative body for UNRWA."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNRWA Secretariat",
+      "url": "https://www.unrwa.org/",
+      "role": "UNRWA Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNRWA-related communications operate via state-state framework via UN General Assembly + UNRWA Advisory Commission; individual communications via UNRWA Family Eligibility Registration framework operate formal anonymisation convention.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "1948 Palestine War + Palestine Refugee crisis",
+      "description": "1948 Palestine War 30 November 1947 - 20 July 1949 + ~700,000 Palestine refugees displaced — predecessor framework to UNRWA."
+    },
+    {
+      "year": 1949,
+      "title": "UNRWA established",
+      "description": "UNRWA established 8 December 1949 by UN General Assembly Resolution 302 IV — formal foundational UNRWA framework operational."
+    },
+    {
+      "year": 1950,
+      "title": "UNRWA operations begin",
+      "description": "UNRWA operations began 1 May 1950 — formal foundational UNRWA operational framework operational."
+    },
+    {
+      "year": 1967,
+      "title": "1967 Six-Day War + UNRWA expansion",
+      "description": "1967 Six-Day War 5-10 June 1967 + UNRWA expansion to West Bank + Gaza Strip + Jordan + Lebanon + Syria 5 fields of operation framework — formal UNRWA 5 fields of operation framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "First Trump-administration-US-funding cuts to UNRWA",
+      "description": "First Trump-administration-US-funding cuts to UNRWA September 2018 — formal first Trump-UNRWA-cuts framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Biden-administration-restored-US-funding to UNRWA",
+      "description": "Biden-administration restored US funding to UNRWA April 2021 — formal Biden-UNRWA-funding-restored framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Gaza war + 300+ UNRWA staff killed",
+      "description": "Israel-Hamas-Gaza war 7 October 2023 onwards + UNRWA staff killed in Gaza 100+ as of December 2023 + 300+ as of 2025 framework — formal UNRWA Gaza-war-staff-killed framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Israeli Knesset UNRWA-Ban Laws + 24 donors paused funding",
+      "description": "Israeli Knesset adopted two UNRWA-Ban Laws 28 October 2024 + 24 donor states paused UNRWA funding January-February 2024 over Israeli allegations of UNRWA staff Hamas-affiliation framework + UN OIOS Investigation Final Report April 2024 + Catherine Colonna Independent Review Final Report April 2024 framework — formal UNRWA Israeli-Ban-Laws + funding-paused + UN investigations framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "ICJ Advisory Opinion + Trump-cuts + 75th anniversary",
+      "description": "ICJ Advisory Opinion 22 October 2025 on Israeli obligations to UNRWA + Trump-administration-UNRWA-funding-cuts 2025 + UNRWA 75th anniversary 2025 framework — formal UNRWA ICJ-Advisory-Opinion + Trump-cuts + 75th-anniversary framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNRWA Mandate operates a supranational global framework — places UNRWA Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal Palestine-refugees-specific framework + only modern global supranational framework operating formal single-population mandate framework is structurally distinctive globally — only modern global supranational framework operating on formal Palestine-refugees-specific framework + only modern global supranational framework operating formal single-population mandate framework + only modern global supranational framework operating formal triennial-renewal-by-UN-General-Assembly framework + only modern global supranational framework operating formal 5-fields-of-operation framework: West Bank + Gaza + Jordan + Lebanon + Syria framework + only modern global supranational framework operating formal 5.9 million Palestine-refugees-registered framework + only modern global supranational framework operating formal Gaza-war-2023-2024 mass-casualty-UNRWA-staff framework via 300+ UNRWA staff killed in Gaza 2023-2025 framework — largest UN agency loss in single conflict in UN history + only modern global supranational framework operating formal Israeli-Knesset-UNRWA-Ban-Laws-2024 framework + only modern global supranational framework operating formal ICJ-Advisory-Opinion-UNRWA-Israeli-obligations 22 October 2025 framework + only modern global supranational framework operating formal Trump-administration-UNRWA-funding-cuts 2025 framework + only modern global supranational framework operating formal 75-year-anniversary 2025 framework.",
+    "Central jurisdiction of formal UNRWA 5 Fields of Operation framework is structurally distinctive globally — only modern global supranational framework operating formal 5 Fields of Operation framework + only modern global supranational framework operating formal 30,000+ UNRWA staff framework primarily Palestine-refugees framework.",
+    "Central jurisdiction of formal Gaza-war-2023-2024 mass-casualty-UNRWA-staff framework is structurally distinctive globally — only modern global supranational framework operating formal 300+ UN agency staff killed in single conflict framework.",
+    "Central jurisdiction of formal Israeli-Knesset-UNRWA-Ban-Laws-2024 + ICJ-Advisory-Opinion 2025 framework is structurally distinctive globally — only modern global supranational framework operating formal Israeli-Ban-Laws-then-ICJ-Advisory-Opinion framework + only modern global supranational framework operating formal UN-agency-bans-by-host-state framework.",
+    "5 fields of operation + 5.9 million Palestine-refugees-registered + 30,000+ UNRWA staff + 700+ schools + 140 health-care facilities framework is structurally distinctive globally — comprehensive Palestine-refugees coverage framework.",
+    "1948 War + 1949 UNRWA + 1950 operations + 1967 Six-Day War + 5 fields + 2018 Trump-cuts + 2021 Biden-restored + 2023 Gaza war + 100+ staff killed + 2024 Israeli Ban Laws + 24 donors paused + investigations + 2025 ICJ Advisory + Trump-cuts + 75th anniversary UNRWA-framework-development sequence is structurally distinctive globally.",
+    "UNRWA Mandate + Founding Resolution + 5 Fields of Operation + Family Social Services + Family Eligibility Registration + Israeli Ban Laws + ICJ Advisory Opinion formal septet framework with formal UNRWA Family Social Services + Family Eligibility Registration + cross-field-family-reunification PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "jurisdiction:un-refugee-convention",
+    "jurisdiction:israel",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNRWA",
+      "url": "https://www.unrwa.org/",
+      "publisher": "UNRWA Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNRWA Mandate jurisdiction sidecar — supranational global Palestine-refugees-specific foundational-UNRWA meta-framework (UNRWA Founding Resolution 1949 + UNRWA operations 1950 + 5 fields of operation: West Bank + Gaza + Jordan + Lebanon + Syria post-1967 + Most-Recent Mandate Renewal 2023/Res 78/79 + Israeli Knesset UNRWA-Ban Laws 28 October 2024 + UN General Assembly Resolution ES-10/26 of 19 December 2024 requesting ICJ Advisory Opinion + ICJ Advisory Opinion 22 October 2025 + 1948 Palestine War predecessor + 1967 Six-Day War + 2018 first Trump-cuts + 2021 Biden-restored + 2023 Gaza war 300+ UNRWA staff killed + 2024 24 donors paused + UN OIOS + Catherine Colonna Independent Review + 2025 ICJ + Trump-cuts + 75th anniversary). Only modern global supranational framework operating on formal Palestine-refugees-specific framework + only modern global supranational framework operating formal single-population mandate framework + only modern global supranational framework operating formal triennial-renewal-by-UN-General-Assembly framework + only modern global supranational framework operating formal 5-fields-of-operation framework + only modern global supranational framework operating formal 5.9 million Palestine-refugees-registered framework + only modern global supranational framework operating formal Gaza-war-2023-2024 mass-casualty-UNRWA-staff 300+ killed framework — largest UN agency loss in single conflict + only modern global supranational framework operating formal Israeli-Knesset-UNRWA-Ban-Laws-2024 + only modern global supranational framework operating formal ICJ-Advisory-Opinion-22-October-2025 + only modern global supranational framework operating formal Trump-administration-UNRWA-funding-cuts 2025 + only modern global supranational framework operating formal 75-year-anniversary 2025 + central jurisdiction of formal 5 Fields of Operation: West Bank + Gaza + Jordan + Lebanon + Syria + central jurisdiction of formal Gaza-war-2023-2024 mass-casualty-staff + central jurisdiction of formal Israeli-Ban-Laws-then-ICJ-Advisory-Opinion + 5 fields + 5.9 million Palestine-refugees-registered + 30,000+ UNRWA staff + 700+ schools + 140 health-care facilities + UNRWA Headquartered Gaza City + Amman + UNRWA Commissioner-General Philippe Lazzarini 2020-2025+ + UNRWA Advisory Commission 28 donor + host states + 1948 War + 1949 UNRWA + 1950 operations + 1967 Six-Day War + 5 fields + 2018 Trump-cuts + 2021 Biden-restored + 2023 Gaza war + 100+ staff killed + 2024 Israeli Ban Laws + 24 donors paused + investigations + 2025 ICJ Advisory + Trump-cuts + 75th anniversary UNRWA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNRWA Family Social Services + Family Eligibility Registration + cross-field-family-reunification framework operates substantial intersection with parental-alienation framework via formal Palestine-refugees-cross-border-family framework.",
+    "Joins global + supranational + Palestine-refugees-specific-foundational-UNRWA cluster + UNRWA-only-global-supranational-framework-on-Palestine-refugees-specific-globally-distinctive + single-population-mandate + triennial-renewal-by-UN-General-Assembly + 5-fields-of-operation-West-Bank-Gaza-Jordan-Lebanon-Syria + 5.9-million-Palestine-refugees-registered + 30000-UNRWA-staff-primarily-Palestine-refugees + 700-UNRWA-schools + 140-UNRWA-primary-health-care-facilities + Gaza-war-2023-2024-mass-casualty-300-UNRWA-staff-killed-largest-UN-agency-loss + Israeli-Knesset-UNRWA-Ban-Laws-28-October-2024 + UN-General-Assembly-Resolution-ES-10-26-December-2024-ICJ-Advisory-Opinion-request + ICJ-Advisory-Opinion-22-October-2025-Israeli-obligations-UNRWA + Trump-2018-first-cuts + Biden-2021-restored + Trump-2025-second-cuts + 75th-anniversary-2025 + 24-donors-paused-2024-investigation-Colonna-OIOS + UNRWA-Commissioner-General-Philippe-Lazzarini-2020 + UNRWA-Headquartered-Gaza-City-Amman + UNRWA-Advisory-Commission-28-donor-host-states + 1948-Palestine-War-predecessor + 1967-Six-Day-War-5-fields-expansion + UNRWA-Family-Social-Services-Family-Eligibility-Registration-PA-intersection + cross-field-family-reunification-PA-intersection clusters within the corpus."
+  ]
+}

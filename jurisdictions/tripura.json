@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "id": "tripura",
+  "name": "Tripura (ত্রিপুরা / Twipra)",
+  "jurisdiction_code": "IN-TR",
+  "legal_system": "mixed",
+  "language": ["en", "bn", "trp"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Tripura (ত্রিপুরা in Bengali / Twipra in Tripuri Kokborok) is a North-eastern Indian Tripuri-Hills mixed common-law/Tripuri-customary-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state where the historical Indigenous Tripuri kingdom (Manikya dynasty ruled 1280-1949) survived continuously from ~14th century until 1949 Indian integration, as the only modern Indian state where the Indigenous-titular ethnic group (Tripuri / Tripura) has become a numerical minority (~30%) in their own ancestral homeland due to large-scale Bengali Hindu migration framework following 1947 Partition + 1971 Bangladesh Liberation War (creating the most contested Indigenous-vs-migrant demographic shift in any Indian state), and as the central jurisdiction of the Tripura Tribal Areas Autonomous District Council (TTAADC) — covering ~7,132 km² (~67% of Tripura land area) operating under Constitution Sixth Schedule framework with Tripuri Indigenous-customary-law protection. Tripura was historically the Twipra Kingdom 1280-1949 under the Manikya dynasty before integration into India via the Manikya Merger Agreement of 13 August 1947 + Constitution Order 1949 effective 26 January 1950. Tripura became a Union Territory in 1956 and a state on 21 January 1972 under the North-Eastern Areas (Reorganisation) Act 1971. Tripura comprises ~10,486 km² with a population of ~3.7 million. Family-law framework operates under a dual federal Indian common-law + Tripuri customary-law framework with Tripuri customary law applied via TTAADC customary courts under Sixth Schedule framework. The Tripura High Court (established 23 March 2013, separating from Gauhati High Court Agartala Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Tripura is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Tripura is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of India Sixth Schedule (Tripura Tribal Areas Autonomous District Council)",
+      "title": "Constitution Sixth Schedule",
+      "year": 1985,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Sixth Schedule framework establishing Tripura Tribal Areas Autonomous District Council (TTAADC) — established 18 January 1982, brought under Sixth Schedule via Constitution (Forty-Ninth Amendment) Act 1984 effective 1 April 1985."
+    },
+    {
+      "citation": "Constitution (Forty-Ninth Amendment) Act 1984",
+      "title": "Constitution 49th Amendment Act",
+      "year": 1984,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Amendment Act of 11 September 1984 bringing TTAADC under Constitution Sixth Schedule framework effective 1 April 1985."
+    },
+    {
+      "citation": "Manikya Merger Agreement 1947",
+      "title": "Manikya Merger Agreement",
+      "year": 1947,
+      "url": "https://www.tripura.gov.in/",
+      "relevance": "Agreement of 13 August 1947 between Tripura Manikya dynasty Regent and Indian Government effecting accession of Twipra Kingdom into India."
+    },
+    {
+      "citation": "North-Eastern Areas (Reorganisation) Act 1971",
+      "title": "North-Eastern Areas (Reorganisation) Act",
+      "year": 1971,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1971 establishing the State of Tripura effective 21 January 1972."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tripura High Court",
+      "seat": "Agartala",
+      "url": "https://thc.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Tripura — established 23 March 2013."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Tripura."
+    },
+    {
+      "name": "Tripura Tribal Areas Autonomous District Council (TTAADC) customary courts",
+      "seat": "Khumulwng",
+      "url": "https://ttaadc.tripura.gov.in/",
+      "role": "Autonomous District Council customary courts operating under Sixth Schedule framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Tripura."
+    }
+  ],
+  "anonymisation_convention": "Tripura family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1280,
+      "title": "Twipra Kingdom (Manikya dynasty) founded",
+      "description": "Twipra Kingdom under Manikya dynasty founded ~1280 — historical sovereign Tripura framework 1280-1949."
+    },
+    {
+      "year": 1947,
+      "title": "Manikya Merger Agreement + Indian accession",
+      "description": "Manikya Merger Agreement of 13 August 1947 — Tripura Regent Maharani Kanchan Prabha Devi acceded to Indian Union following death of Maharaja Bir Bikram Kishore Manikya."
+    },
+    {
+      "year": 1950,
+      "title": "Tripura integrated as Part-C State",
+      "description": "Tripura integrated into Indian Union via Constitution Order 1949 effective 26 January 1950 as Part-C State."
+    },
+    {
+      "year": 1956,
+      "title": "Union Territory of Tripura established",
+      "description": "Tripura established as Union Territory on 1 November 1956."
+    },
+    {
+      "year": 1971,
+      "title": "Bangladesh Liberation War + Bengali Hindu refugee migration",
+      "description": "Bangladesh Liberation War March-December 1971 — large-scale Bengali Hindu refugee migration from East Pakistan/Bangladesh into Tripura, transforming demographic balance of state."
+    },
+    {
+      "year": 1972,
+      "title": "Tripura State established",
+      "description": "Tripura formed as 21st-class state of India on 21 January 1972 under North-Eastern Areas (Reorganisation) Act 1971."
+    },
+    {
+      "year": 1982,
+      "title": "TTAADC established",
+      "description": "Tripura Tribal Areas Autonomous District Council established 18 January 1982 — initially under Part-IX of Tripura State framework."
+    },
+    {
+      "year": 1985,
+      "title": "TTAADC brought under Sixth Schedule",
+      "description": "Constitution (Forty-Ninth Amendment) Act 1984 effective 1 April 1985 bringing TTAADC under Constitution Sixth Schedule framework."
+    },
+    {
+      "year": 2013,
+      "title": "Tripura High Court established",
+      "description": "Tripura High Court established 23 March 2013 — separating from Gauhati High Court Agartala Bench."
+    }
+  ],
+  "structural_findings": [
+    "Tripura operates a mixed federal Indian common-law + Tripuri customary-law framework — places Tripura in the North-eastern Indian Indigenous-tribal-customary-law-protected cluster.",
+    "Only Indian state where the historical Indigenous Tripuri kingdom (Manikya dynasty) survived continuously from ~14th century until 1949 Indian integration is structurally distinctive globally — Twipra Kingdom 1280-1949.",
+    "Only modern Indian state where the Indigenous-titular ethnic group (Tripuri / Tripura) has become a numerical minority (~30%) in their own ancestral homeland due to large-scale Bengali Hindu migration framework is structurally distinctive globally — most contested Indigenous-vs-migrant demographic shift in any Indian state.",
+    "Central jurisdiction of Tripura Tribal Areas Autonomous District Council (TTAADC) covering ~67% of Tripura land area operating under Sixth Schedule framework is structurally distinctive globally — only Indian state with TTAADC framework covering majority of state land area.",
+    "1947 Manikya Merger Agreement + Maharani Kanchan Prabha Devi Regent accession framework is structurally distinctive globally — only modern Indian state acceded via female-Regent merger agreement.",
+    "1971 Bangladesh Liberation War + Bengali Hindu refugee migration framework is structurally distinctive globally — only modern Indian state where 1971 Bangladesh War caused demographic transformation of Indigenous-titular state.",
+    "Constitution 49th Amendment 1984 effective 1985 bringing TTAADC under Sixth Schedule framework is structurally distinctive within Indian Sixth Schedule cluster — only post-1985 Sixth Schedule addition.",
+    "Tripura High Court 2013 establishment is structurally distinctive within Indian state High Court establishment cluster.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:bangladesh",
+    "jurisdiction:myanmar",
+    "jurisdiction:assam",
+    "jurisdiction:meghalaya",
+    "jurisdiction:mizoram",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Tripura",
+      "url": "https://www.tripura.gov.in/",
+      "publisher": "Tripura Government",
+      "language": "en"
+    },
+    {
+      "title": "Tripura High Court",
+      "url": "https://thc.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    },
+    {
+      "title": "Tripura Tribal Areas Autonomous District Council",
+      "url": "https://ttaadc.tripura.gov.in/",
+      "publisher": "TTAADC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Tripura jurisdiction sidecar — mixed federal Indian common-law/Tripuri customary-law North-eastern Indian Tripuri-Hills Indian-state (Indian Constitution Sixth Schedule + Tripura Tribal Areas Autonomous District Council TTAADC + Constitution 49th Amendment 1984 + Manikya Merger Agreement 1947 + Twipra Kingdom 1280-1949 + 1971 Bangladesh Liberation War Bengali Hindu refugee migration + Tripura High Court 2013 + Indian non-Hague-1980). Only Indian state where historical Indigenous Tripuri kingdom survived continuously from ~14th century until 1949 Indian integration globally + only modern Indian state where Indigenous-titular ethnic group has become numerical minority in own ancestral homeland due to large-scale Bengali Hindu migration framework + only Indian state with TTAADC framework covering majority of state land area (~67%) + only modern Indian state acceded via female-Regent merger agreement + only post-1985 Sixth Schedule addition (Constitution 49th Amendment 1984/1985).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-eastern-Indian + Tripuri-Hills + mixed Indian-common-law/Tripuri-customary-law + Indian-state cluster + Twipra-Kingdom-1280-1949-continuous-Indigenous-sovereignty + Indigenous-minority-in-ancestral-homeland-30-percent + Manikya-Merger-Agreement-1947-female-Regent + 1971-Bangladesh-Liberation-War-demographic-transformation + TTAADC-67-percent-state-land-area + Constitution-49th-Amendment-1984-post-1985-Sixth-Schedule-addition + Tripura-High-Court-2013 + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

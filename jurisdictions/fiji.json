@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "id": "fiji",
+  "name": "Fiji (Republic of Fiji)",
+  "jurisdiction_code": "FJ",
+  "legal_system": "common-law",
+  "language": ["en", "fj"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Fiji is a Pacific Island common-law republic whose family-law framework operates under the Family Law Act 2003 (Act 18 of 2003, effective 1 November 2005) — comprehensive Australian-influenced family-law statute replacing prior Matrimonial Causes Act and Maintenance and Affiliation Act. Parental responsibility and child custody are governed by Family Law Act Part VI. The Supreme Court of Fiji is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Division of the High Court and Family Magistrates' Courts. Psychology profession is regulated through the Fiji Psychology Council under the Allied Health Practitioners Act. Fiji is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Family Law Act s. 4. Fiji is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law Act 2003 (Act 18 of 2003) Part VI",
+      "title": "Family Law Act — Parental responsibility and custody",
+      "year": 2003,
+      "url": "https://www.judiciary.gov.fj/",
+      "relevance": "Federal Family Law Act effective 1 November 2005 — comprehensive Australian-influenced family-law statute. Part VI governs parental responsibility and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Fiji",
+      "seat": "Suva",
+      "url": "https://www.judiciary.gov.fj/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Fiji Psychology Council",
+      "url": "https://www.health.gov.fj/",
+      "role": "Federal regulator of psychology profession under Allied Health Practitioners Act."
+    }
+  ],
+  "anonymisation_convention": "Fijian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1970,
+      "title": "Independence",
+      "description": "Fiji achieved independence from the United Kingdom."
+    },
+    {
+      "year": 1987,
+      "title": "First Republic",
+      "description": "Fiji became a republic following 1987 coups."
+    },
+    {
+      "year": 2003,
+      "title": "Family Law Act",
+      "description": "Federal Family Law Act enacted (effective 2005) replacing prior matrimonial-causes framework. Draws on Australian Family Law Act 1975 model."
+    }
+  ],
+  "structural_findings": [
+    "Fiji operates a common-law framework with Australian-influenced Family Law Act 2003 — places Fiji in the Pacific Island common-law cluster with Australian-model influence.",
+    "Non-Hague Convention status places Fiji in the non-Hague Pacific cluster.",
+    "Australian-model influence in Family Law Act 2003 is structurally distinctive among Pacific Island states — direct codification influence from Australian Family Law Act 1975."
+  ],
+  "references": [
+    "jurisdiction:australia",
+    "jurisdiction:new-zealand",
+    "jurisdiction:papua-new-guinea",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Fiji",
+      "url": "https://www.judiciary.gov.fj/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.health.gov.fj/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Fiji jurisdiction sidecar — common-law Pacific Island (Family Law Act 2003 Australian-model + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + Australian-model-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0",
+  "id": "african-charter-human-peoples-rights",
+  "name": "African Charter on Human and Peoples' Rights (Banjul Charter 1981)",
+  "jurisdiction_code": "ACH",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "pt", "ar", "sw"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The African Charter on Human and Peoples' Rights (popularly the Banjul Charter) is a Sub-Saharan African supranational meta-framework human-rights binding-treaty instrument adopted by the Organisation of African Unity (OAU — succeeded by the African Union AU) — structurally distinctive globally as the only modern regional binding-treaty framework operating formal combined individual + collective peoples' rights framework (African Charter on Human and Peoples' Rights adopted 27 June 1981 + effective 21 October 1986 — formal African regional binding-treaty framework establishing comprehensive human-rights framework including formal Article 19-24 peoples' rights framework, distinct from rest-of-modern-international-human-rights frameworks which operate on individual-rights framework without formal peoples'-rights framework, structurally distinctive globally as the only modern regional human-rights binding-treaty framework operating formal peoples'-rights framework), as the third modern regional binding-treaty framework operating both formal human-rights binding-treaty framework + dedicated judicial-body framework (Banjul Charter + African Court on Human and Peoples' Rights established via Protocol of 10 June 1998 effective 25 January 2004 + African Commission on Human and Peoples' Rights established 1987 — formal African regional court framework + dedicated commission framework, distinct from rest-of-modern-international-human-rights frameworks which operate without formal regional-court framework, structurally distinctive globally as one of three modern regional human-rights frameworks with formal regional-court framework alongside ECHR + IACtHR), as the central jurisdiction of the formal African Article 18 family-rights + Article 19-24 peoples'-rights framework (Banjul Charter Article 18 framework on Family + Articles 19-24 peoples'-rights framework — formal foundational family-rights + peoples'-rights framework, structurally distinctive globally as the only modern regional human-rights binding-treaty framework operating formal combined family-rights + peoples'-rights framework), and as the central jurisdiction of the formal African Charter on the Rights and Welfare of the Child ACRWC 1990 complementary framework (Banjul Charter Article 18 framework + ACRWC 1990/1999 framework operating complementary children's-rights + family-rights framework, structurally distinctive globally as the only modern regional binding-treaty framework operating formal complementary children's-rights binding-treaty framework). The Banjul Charter is binding upon 55 of 55 African Union member states + 1 of 2 Western Saharan Arab Democratic Republic SADR state party framework — universal African coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 18 family-rights framework operates substantial intersection with parental-alienation framework. The African Court on Human and Peoples' Rights + African Commission on Human and Peoples' Rights are the apex judicial + monitoring bodies. The Banjul Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "African Charter on Human and Peoples' Rights 1981 (Banjul Charter)",
+      "title": "Banjul Charter",
+      "year": 1986,
+      "url": "https://au.int/",
+      "relevance": "African Charter on Human and Peoples' Rights adopted 27 June 1981 in Nairobi by OAU + effective 21 October 1986 — formal African regional binding-treaty framework establishing comprehensive human-rights framework."
+    },
+    {
+      "citation": "Banjul Charter Article 18 (Family) + Articles 19-24 (Peoples' Rights)",
+      "title": "Banjul Charter Article 18 + Articles 19-24",
+      "year": 1986,
+      "url": "https://au.int/",
+      "relevance": "Banjul Charter Article 18 framework on Family + Articles 19-24 peoples'-rights framework — formal foundational family-rights + peoples'-rights framework."
+    },
+    {
+      "citation": "Protocol Establishing the African Court on Human and Peoples' Rights 1998",
+      "title": "African Court Protocol 1998",
+      "year": 2004,
+      "url": "https://www.african-court.org/",
+      "relevance": "Protocol Establishing the African Court on Human and Peoples' Rights adopted 10 June 1998 + effective 25 January 2004 — formal African regional court framework."
+    },
+    {
+      "citation": "African Charter on the Rights and Welfare of the Child 1990 (ACRWC)",
+      "title": "African Charter on the Rights and Welfare of the Child",
+      "year": 1999,
+      "url": "https://www.acerwc.africa/",
+      "relevance": "African Charter on the Rights and Welfare of the Child adopted 11 July 1990 + effective 29 November 1999 — formal complementary children's-rights binding-treaty framework, framework subordinate to Banjul Charter framework."
+    },
+    {
+      "citation": "Maputo Protocol 2003 (African Charter on Rights of Women)",
+      "title": "Maputo Protocol",
+      "year": 2005,
+      "url": "https://au.int/",
+      "relevance": "Protocol to the African Charter on Human and Peoples' Rights on the Rights of Women in Africa adopted 11 July 2003 in Maputo + effective 25 November 2005 — formal Banjul Charter Protocol on women's rights framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "African Court on Human and Peoples' Rights",
+      "seat": "Arusha",
+      "url": "https://www.african-court.org/",
+      "role": "Apex judicial body framework for Banjul Charter + ACRWC + Maputo Protocol."
+    },
+    {
+      "name": "African Commission on Human and Peoples' Rights",
+      "seat": "Banjul",
+      "url": "https://www.achpr.org/",
+      "role": "African Commission on Human and Peoples' Rights — formal African human rights monitoring body, established 1987."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "African Union Secretariat",
+      "url": "https://au.int/",
+      "role": "Banjul Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Banjul Charter-related individual communications are anonymised per African Court on Human and Peoples' Rights practice using initials.",
+  "key_developments": [
+    {
+      "year": 1963,
+      "title": "OAU Charter",
+      "description": "Organisation of African Unity Charter signed 25 May 1963 — beginning of formal African regional supranational framework."
+    },
+    {
+      "year": 1981,
+      "title": "Banjul Charter adopted",
+      "description": "African Charter on Human and Peoples' Rights adopted 27 June 1981 by OAU XVIII Assembly of Heads of State and Government in Nairobi — formal African regional binding-treaty framework."
+    },
+    {
+      "year": 1986,
+      "title": "Banjul Charter enters force",
+      "description": "African Charter on Human and Peoples' Rights entered force 21 October 1986 — formal African regional binding-treaty framework operational."
+    },
+    {
+      "year": 1987,
+      "title": "African Commission on Human and Peoples' Rights established",
+      "description": "African Commission on Human and Peoples' Rights established 2 November 1987 — formal African human rights monitoring body."
+    },
+    {
+      "year": 1990,
+      "title": "ACRWC adopted",
+      "description": "African Charter on the Rights and Welfare of the Child ACRWC adopted 11 July 1990 — formal complementary children's-rights binding-treaty framework."
+    },
+    {
+      "year": 1998,
+      "title": "African Court Protocol adopted",
+      "description": "Protocol Establishing the African Court on Human and Peoples' Rights adopted 10 June 1998 — formal African regional court framework."
+    },
+    {
+      "year": 2002,
+      "title": "African Union established",
+      "description": "African Union established 9 July 2002 — succession from Organisation of African Unity OAU framework."
+    },
+    {
+      "year": 2004,
+      "title": "African Court Protocol enters force",
+      "description": "Protocol Establishing the African Court on Human and Peoples' Rights entered force 25 January 2004 — formal African regional court framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "Maputo Protocol enters force",
+      "description": "Protocol to the African Charter on Human and Peoples' Rights on the Rights of Women in Africa Maputo Protocol entered force 25 November 2005 — formal Banjul Charter Protocol on women's rights framework."
+    }
+  ],
+  "structural_findings": [
+    "Banjul Charter operates a supranational African regional human-rights binding-treaty framework — places Banjul Charter in the Sub-Saharan African supranational-meta-framework cluster.",
+    "Only modern regional binding-treaty framework operating formal combined individual + collective peoples' rights framework is structurally distinctive globally — Banjul Charter Article 19-24 peoples'-rights framework.",
+    "Third modern regional binding-treaty framework operating both formal human-rights binding-treaty framework + dedicated judicial-body framework is structurally distinctive globally — alongside ECHR + IACtHR frameworks.",
+    "Central jurisdiction of formal African Article 18 family-rights + Article 19-24 peoples'-rights framework is structurally distinctive globally — only modern regional human-rights binding-treaty framework operating formal combined family-rights + peoples'-rights framework.",
+    "Central jurisdiction of formal African Charter on the Rights and Welfare of the Child ACRWC 1990 complementary framework is structurally distinctive globally — only modern regional binding-treaty framework operating formal complementary children's-rights binding-treaty framework.",
+    "55 of 55 African Union member state party ratification framework + Western Saharan Arab Democratic Republic SADR state party framework is structurally distinctive globally — universal African coverage framework.",
+    "Maputo Protocol 2003 + ACRWC 1990 + Banjul Charter 1981 + African Court Protocol 1998 + African Commission 1987 African-human-rights-framework-development sequence is structurally distinctive globally.",
+    "African Court on Human and Peoples' Rights + African Commission on Human and Peoples' Rights formal dual-body framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:african-union",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:global-south-womens-rights-critique-register"
+  ],
+  "sources": [
+    {
+      "title": "African Court on Human and Peoples' Rights",
+      "url": "https://www.african-court.org/",
+      "publisher": "African Court on Human and Peoples' Rights",
+      "language": "en"
+    },
+    {
+      "title": "African Commission on Human and Peoples' Rights",
+      "url": "https://www.achpr.org/",
+      "publisher": "African Commission on Human and Peoples' Rights",
+      "language": "en"
+    },
+    {
+      "title": "African Union",
+      "url": "https://au.int/",
+      "publisher": "African Union",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Banjul Charter jurisdiction sidecar — supranational Sub-Saharan African regional human-rights binding-treaty meta-framework (African Charter on Human and Peoples' Rights 1981/1986 + Article 18 Family + Articles 19-24 Peoples' Rights + Protocol Establishing the African Court on Human and Peoples' Rights 1998/2004 + ACRWC 1990/1999 + Maputo Protocol 2003/2005 + OAU Charter 1963 + AU 2002 + African Commission 1987). Only modern regional binding-treaty framework operating formal combined individual + collective peoples' rights framework globally + third modern regional binding-treaty framework operating both formal human-rights binding-treaty framework + dedicated judicial-body framework + central jurisdiction of formal African Article 18 family-rights + Article 19-24 peoples'-rights framework + central jurisdiction of formal African Charter on the Rights and Welfare of the Child ACRWC 1990 complementary framework + 55 of 55 African Union member state party ratification framework universal African coverage framework + Maputo Protocol 2003 + ACRWC 1990 + Banjul Charter 1981 + African Court Protocol 1998 + African Commission 1987 African-human-rights-framework-development sequence + African Court on Human and Peoples' Rights + African Commission on Human and Peoples' Rights formal dual-body framework. African-Union regional triad complete (Banjul Charter 1981 + ACRWC 1990 + Maputo Protocol 2003).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Sub-Saharan-African + supranational + regional-human-rights-binding-treaty cluster + Banjul-Charter-Article-18-family-and-Articles-19-24-peoples-rights-formal-combined-framework-globally-distinctive + African-Court-on-Human-and-Peoples-Rights-Protocol-1998-2004 + ACRWC-complementary-framework + Maputo-Protocol-2003-2005 + African-Commission-1987 + 55-of-55-AU-state-party-ratification + ECHR-IACtHR-African-Court-three-regional-courts clusters within the corpus."
+  ]
+}

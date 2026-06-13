@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "id": "bashkortostan",
+  "name": "Republic of Bashkortostan (Республика Башкортостан / Башҡортостан Республикаһы)",
+  "jurisdiction_code": "RU-BA",
+  "legal_system": "civil-law",
+  "language": ["ru", "ba", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Republic of Bashkortostan (Russian: Республика Башкортостан Respublika Bashkortostan / Bashkir: Башҡортостан Республикаһы Başqortostan Respublikahı) is a Volga-Ural Russian civil-law constituent republic of the Russian Federation — structurally distinctive globally as the largest Russian sub-national republic by population (~4.0 million — largest of all 21 Russian republics by population), as the first Russian sub-national territory to formally establish autonomous status within Russian post-Imperial framework (Bashkir Autonomous Soviet Socialist Republic established 20 March 1919 — first Soviet ASSR established in Russia + first formal post-Imperial autonomous sub-national framework, established 9 months prior to next-established Soviet republic Karelo-Finnish ASSR 8 June 1920 + Tatar ASSR 27 May 1920), as the central jurisdiction of historical Bashkir Confederation framework (Bashkir Confederation pre-13th century - 1740s + Bashkir uprisings 1681-1684 + 1704-1711 + 1735-1740 + 1755 + 1773-1774 Pugachev Uprising — only modern Russian sub-national republic with formal continuous Bashkir-uprising framework against Russian Imperial framework), and as the central jurisdiction of one of the most economically distinctive modern Russian sub-national oil-refining frameworks (Bashneft + Ufa refineries cluster — third-largest Russian oil-refining-capacity sub-national jurisdiction). Bashkortostan historically operated under Bashkir Confederation pre-13th century - 1740s + Golden Horde 1242-1438 + Kazan Khanate 1438-1552 + Russian Empire 1557-1917 + Bashkir Autonomous Soviet Socialist Republic 1919-1990 + Republic of Bashkortostan 1990+ (with formal sovereignty declaration 11 October 1990). Bashkortostan comprises ~142,947 km² with a population of ~4.0 million (~30% Bashkir + ~36% Russian + ~25% Tatar + others). Family-law framework operates under the federal Russian civil-law framework (Russian Family Code 1995 + Russian Civil Code 1994) applied uniformly across Russian sub-national territories. The Supreme Court of Bashkortostan is the apex regional court; final appellate jurisdiction lies with the Supreme Court of the Russian Federation. Bashkortostan is silent on 'parental alienation' as a statutory label. Russia is a Hague Convention 1980 signatory and party (acceded 28 July 2011 effective 1 October 2011) — Bashkortostan is governed by Russian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Republic of Bashkortostan 1993",
+      "title": "Constitution of Bashkortostan 1993",
+      "year": 1993,
+      "url": "https://www.gsrb.ru/",
+      "relevance": "Bashkortostan Constitution adopted 24 December 1993 — formal constitutional framework for Republic of Bashkortostan."
+    },
+    {
+      "citation": "Constitution of the Russian Federation 1993 Article 5 (Republics)",
+      "title": "Constitution of Russian Federation Article 5",
+      "year": 1993,
+      "url": "https://www.constitution.ru/",
+      "relevance": "Russian Constitutional Article 5 establishing republics as constituent subjects of Russian Federation — applicable to Bashkortostan."
+    },
+    {
+      "citation": "Russian-Bashkortostan Power-Sharing Treaty 1994 (expired 2005)",
+      "title": "Russian-Bashkortostan Power-Sharing Treaty 1994",
+      "year": 1994,
+      "url": "https://www.gsrb.ru/",
+      "relevance": "Russian-Bashkortostan Power-Sharing Treaty signed 3 August 1994 — formal bilateral power-sharing treaty framework, expired 2005 with no replacement framework."
+    },
+    {
+      "citation": "Russian Family Code 1995 + Russian Civil Code 1994",
+      "title": "Russian Family Code + Civil Code",
+      "year": 1995,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Russian Federal Family Code 1995 + Russian Federal Civil Code 1994 applicable uniformly across Bashkortostan."
+    },
+    {
+      "citation": "Hague Convention 1980 — Russian accession 28 July 2011",
+      "title": "Hague Convention 1980 — Russia",
+      "year": 2011,
+      "url": "https://www.hcch.net/",
+      "relevance": "Russian Hague Convention 1980 accession 28 July 2011 effective 1 October 2011 — applicable to Bashkortostan."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Republic of Bashkortostan (Верховный суд Республики Башкортостан)",
+      "seat": "Ufa",
+      "url": "https://vs.bkr.sudrf.ru/",
+      "role": "Apex regional appellate court for civil and criminal matters from Bashkortostan."
+    },
+    {
+      "name": "Supreme Court of the Russian Federation (Верховный Суд Российской Федерации)",
+      "seat": "Moscow",
+      "url": "https://vsrf.ru/",
+      "role": "Final appellate court for civil and criminal matters from Bashkortostan."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of the Republic of Bashkortostan",
+      "url": "https://www.bashkortostan.ru/",
+      "role": "Bashkortostan regional-level + Russian Federal professional regulatory framework applicable in Bashkortostan."
+    }
+  ],
+  "anonymisation_convention": "Bashkortostan family-court decisions are anonymised per Russian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1557,
+      "title": "Bashkir incorporation into Russian Empire",
+      "description": "Bashkir voluntary incorporation into Russian Empire 1557 — formal beginning of Russian framework over Bashkir territories."
+    },
+    {
+      "year": 1681,
+      "title": "First Bashkir uprising",
+      "description": "First Bashkir uprising 1681-1684 — beginning of formal Bashkir-uprising framework against Russian Imperial framework."
+    },
+    {
+      "year": 1773,
+      "title": "Pugachev Uprising + Bashkir participation",
+      "description": "Pugachev Uprising 1773-1775 with substantial Bashkir participation under Salavat Yulayev — pivotal anti-Imperial framework."
+    },
+    {
+      "year": 1919,
+      "title": "Bashkir ASSR established",
+      "description": "Bashkir Autonomous Soviet Socialist Republic established 20 March 1919 — first Soviet ASSR established in Russia + first formal post-Imperial autonomous sub-national framework."
+    },
+    {
+      "year": 1990,
+      "title": "Bashkortostan sovereignty declaration",
+      "description": "Bashkortostan sovereignty declaration 11 October 1990 — formal post-Soviet sovereignty framework."
+    },
+    {
+      "year": 1993,
+      "title": "Constitution of Bashkortostan",
+      "description": "Bashkortostan Constitution adopted 24 December 1993 — formal constitutional framework for Republic of Bashkortostan."
+    },
+    {
+      "year": 1994,
+      "title": "Russian-Bashkortostan Power-Sharing Treaty",
+      "description": "Russian-Bashkortostan Power-Sharing Treaty signed 3 August 1994 — formal bilateral power-sharing treaty framework."
+    },
+    {
+      "year": 2005,
+      "title": "Power-Sharing Treaty expiration",
+      "description": "Russian-Bashkortostan Power-Sharing Treaty 1994 expired 2005 with no replacement framework — end of formal Russian-Bashkortostan bilateral power-sharing treaty framework."
+    }
+  ],
+  "structural_findings": [
+    "Bashkortostan operates a federal Russian civil-law constituent republic framework — places Bashkortostan in the Volga-Ural Russian Republic cluster.",
+    "Largest Russian sub-national republic by population (~4.0 million) is structurally distinctive within Russian republic cluster — largest of all 21 Russian republics by population.",
+    "First Russian sub-national territory to formally establish autonomous status within Russian post-Imperial framework is structurally distinctive globally — Bashkir ASSR 20 March 1919, first Soviet ASSR established in Russia.",
+    "Central jurisdiction of historical Bashkir Confederation framework + Bashkir uprisings 1681-1774 framework is structurally distinctive globally — only modern Russian sub-national republic with formal continuous Bashkir-uprising framework against Russian Imperial framework.",
+    "Central jurisdiction of one of most economically distinctive modern Russian sub-national oil-refining frameworks is structurally distinctive within Russian sub-national cluster — Bashneft + Ufa refineries cluster.",
+    "1773-1775 Pugachev Uprising with substantial Bashkir participation under Salavat Yulayev historical framework is structurally distinctive globally — pivotal anti-Imperial Bashkir framework.",
+    "Russian-Bashkortostan Power-Sharing Treaty 1994 framework is structurally distinctive within Russian republic cluster — second Russian republic with formal post-Soviet bilateral power-sharing treaty framework alongside Tatarstan.",
+    "Russian Hague-Convention-1980-accession-2011 framework applies."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:tatarstan",
+    "jurisdiction:kazakhstan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Republic of Bashkortostan",
+      "url": "https://www.bashkortostan.ru/",
+      "publisher": "Bashkortostan Government",
+      "language": "ru"
+    },
+    {
+      "title": "State Assembly of the Republic of Bashkortostan",
+      "url": "https://www.gsrb.ru/",
+      "publisher": "Bashkortostan State Assembly",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "Republic of Bashkortostan jurisdiction sidecar — civil-law Volga-Ural Russian constituent republic (Constitution of Bashkortostan 1993 + Russian-Bashkortostan Power-Sharing Treaty 1994 + Constitution of Russian Federation 1993 Article 5 + Russian Family Code 1995 + Bashkir Confederation pre-13th century-1740s + Bashkir uprisings 1681-1774 + Pugachev Uprising 1773-1775 + Salavat Yulayev + Bashkir voluntary incorporation 1557 + Bashkir ASSR 20 March 1919 (first Soviet ASSR) + 1990 sovereignty declaration + 2005 Power-Sharing Treaty expiration + Russian Hague-1980). Largest Russian sub-national republic by population + first Russian sub-national territory to formally establish autonomous status within Russian post-Imperial framework + central jurisdiction of historical Bashkir Confederation framework + Bashkir uprisings 1681-1774 framework + central jurisdiction of one of most economically distinctive modern Russian sub-national oil-refining frameworks + 1773-1775 Pugachev Uprising historical framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Volga-Ural + civil-law + Russian-Republic cluster + largest-Russian-Republic-by-population-globally-distinctive + first-Soviet-ASSR-1919-Bashkir + Bashkir-Confederation-pre-13th-century-1740s + Bashkir-uprisings-1681-1774 + Pugachev-Uprising-1773-1775-Salavat-Yulayev + Bashneft-Ufa-oil-refining-cluster + 1990-sovereignty-declaration + Russian-Bashkortostan-Power-Sharing-Treaty-1994 + Russian-Hague-1980-2011 clusters within the corpus."
+  ]
+}

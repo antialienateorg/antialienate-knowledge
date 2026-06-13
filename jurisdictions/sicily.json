@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "id": "sicily",
+  "name": "Sicily (Sicilia / Regione Siciliana)",
+  "jurisdiction_code": "IT-SCY",
+  "legal_system": "civil-law",
+  "language": ["it", "scn"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Sicily (Sicilia in Italian / officially Regione Siciliana) is a Mediterranean civil-law autonomous region of the Italian Republic comprising the island of Sicily (largest island in the Mediterranean, ~25,711 km²) and surrounding minor archipelagos (Aeolian, Aegadian, Pelagie, Ustica, Pantelleria) — structurally distinctive globally as the first Italian autonomous region established (Statuto Speciale 15 May 1946, predating the Italian Constitution of 1948 by ~22 months), as the largest Italian autonomous region by population (~5 million) and area (~25,711 km²), and as the central jurisdiction of Italy's most extensive anti-Mafia legal framework (Codice Antimafia / Legislative Decree 159/2011) following the 1980s-1990s Mafia Wars and the 1992 assassinations of anti-Mafia judges Giovanni Falcone and Paolo Borsellino. Sicily's autonomy framework was established by Royal Legislative Decree 455/1946 (Statuto Speciale della Regione Siciliana) on 15 May 1946 — comprehensive autonomy granted prior to formal Italian Republic establishment, intended to address Sicilian separatist movement (Movimento per l'Indipendenza della Siciliana / MIS, 1943-1951). The Statuto Speciale grants Sicily exclusive legislative competence over an extensive range of matters including agriculture, fisheries, industry, mining, and local administration. Family-law framework operates under the Italian Civil Code (Codice Civile 1942, as amended by Law 54/2006 Joint Custody Reform) applied via Sicilian autonomous-region administrative framework. Parental authority (responsabilità genitoriale) and child custody operate under Italian Civil Code Articles 315-342-bis as amended. The Court of Appeal of Palermo (or Catania or Messina or Caltanissetta) is the apex regional appellate court for Sicilian civil and criminal matters; final appellate jurisdiction lies with the Italian Court of Cassation and the Italian Constitutional Court. Sicily is silent on 'parental alienation' as a statutory label, though Italian Cassazione Sentenza 9691 of 2022 substantively addressed the concept in Italian family-law framework applicable in Sicily. Italy is a Hague Convention 1980 party (acceded 22 February 1985) — Sicily Hague applicability via Italian territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Statuto Speciale della Regione Siciliana 1946 (Regio Decreto Legislativo 455/1946)",
+      "title": "Sicilian Special Statute",
+      "year": 1946,
+      "url": "https://www.regione.sicilia.it/",
+      "relevance": "Royal Legislative Decree of 15 May 1946 establishing the first Italian autonomous region — comprehensive autonomy granted prior to formal Italian Republic establishment."
+    },
+    {
+      "citation": "Italian Constitution 1948 Article 116 (Autonomous Regions)",
+      "title": "Italian Constitution Article 116",
+      "year": 1948,
+      "url": "https://www.cortecostituzionale.it/",
+      "relevance": "Italian Constitutional Article establishing the five autonomous regions including Sicily, Sardinia, Valle d'Aosta, Friuli-Venezia Giulia, and Trentino-Alto Adige."
+    },
+    {
+      "citation": "Codice Antimafia (Legislative Decree 159/2011)",
+      "title": "Italian Anti-Mafia Code",
+      "year": 2011,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Legislative Decree of 6 September 2011 establishing Italy's most extensive anti-Mafia legal framework — disproportionately applied in Sicily."
+    },
+    {
+      "citation": "Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)",
+      "title": "Italian Civil Code — Parental Authority",
+      "year": 2006,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Sicily."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Palermo (Corte d'Appello di Palermo)",
+      "seat": "Palermo",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex regional appellate court for civil and criminal matters from western Sicily."
+    },
+    {
+      "name": "Court of Appeal of Catania (Corte d'Appello di Catania)",
+      "seat": "Catania",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex regional appellate court for civil and criminal matters from eastern Sicily."
+    },
+    {
+      "name": "Court of Appeal of Messina (Corte d'Appello di Messina)",
+      "seat": "Messina",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex regional appellate court for civil and criminal matters from north-eastern Sicily."
+    },
+    {
+      "name": "Court of Appeal of Caltanissetta (Corte d'Appello di Caltanissetta)",
+      "seat": "Caltanissetta",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex regional appellate court for civil and criminal matters from central Sicily."
+    },
+    {
+      "name": "Corte di Cassazione (Italian Court of Cassation)",
+      "seat": "Rome",
+      "url": "https://www.cortedicassazione.it/",
+      "role": "Final appellate court for civil and criminal matters from Sicily."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ordine degli Psicologi della Regione Siciliana",
+      "url": "https://www.psicosicilia.it/",
+      "role": "Sicilian regional professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Sicilian family-court decisions are anonymised per Italian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1860,
+      "title": "Italian unification + incorporation into Kingdom of Italy",
+      "description": "Sicily incorporated into Kingdom of Italy following Garibaldi's 1860 expedition and 21 October 1860 plebiscite — beginning of Italian sovereignty over Sicily."
+    },
+    {
+      "year": 1946,
+      "title": "Statuto Speciale + first Italian autonomous region",
+      "description": "Royal Legislative Decree 455/1946 of 15 May 1946 establishing the first Italian autonomous region — comprehensive autonomy granted prior to formal Italian Republic establishment."
+    },
+    {
+      "year": 1948,
+      "title": "Italian Constitution Article 116 + autonomous regions framework",
+      "description": "Italian Constitution Article 116 confirming Sicily as autonomous region within Italian Republic framework."
+    },
+    {
+      "year": 1992,
+      "title": "Falcone and Borsellino assassinations + anti-Mafia framework",
+      "description": "Anti-Mafia judges Giovanni Falcone (assassinated 23 May 1992) and Paolo Borsellino (assassinated 19 July 1992) — central to Italian Mafia Wars 1980s-1990s and foundation of modern Italian anti-Mafia legal framework."
+    },
+    {
+      "year": 2011,
+      "title": "Codice Antimafia",
+      "description": "Italian Legislative Decree 159/2011 of 6 September 2011 establishing Italy's most extensive anti-Mafia legal framework — disproportionately applied in Sicily."
+    }
+  ],
+  "structural_findings": [
+    "Sicily operates a civil-law Italian Codice Civile framework via Sicilian autonomous-region administrative framework — places Sicily in the Mediterranean Italian autonomous-region cluster.",
+    "First Italian autonomous region established (Statuto Speciale 15 May 1946) is structurally distinctive globally — predating Italian Constitution of 1948 by ~22 months.",
+    "Largest Italian autonomous region by population and area is structurally distinctive globally — ~5 million population, ~25,711 km² area.",
+    "Largest island in the Mediterranean is structurally distinctive globally.",
+    "Central jurisdiction of Italy's most extensive anti-Mafia legal framework (Codice Antimafia 2011) following 1980s-1990s Mafia Wars is structurally distinctive globally — only modern major sub-national jurisdiction with comprehensively-applied state-level anti-organised-crime framework.",
+    "Statuto Speciale comprehensive autonomy granted prior to formal Italian Republic establishment is structurally distinctive globally — only modern major autonomous region established prior to its sovereign-state-of-incorporation's formal establishment.",
+    "Five-Court-of-Appeal framework (Palermo, Catania, Messina, Caltanissetta + Sicilian Constitutional Court) is structurally distinctive within Italian regional administrative cluster.",
+    "Movimento per l'Indipendenza della Siciliana (MIS) 1943-1951 separatist-movement origin is structurally distinctive globally — only post-WWII separatist movement leading to formal sub-national autonomy framework prior to sovereign-state-of-incorporation's formal establishment."
+  ],
+  "references": [
+    "jurisdiction:italy",
+    "jurisdiction:sardinia",
+    "jurisdiction:south-tyrol",
+    "jurisdiction:malta",
+    "jurisdiction:tunisia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Regione Siciliana",
+      "url": "https://www.regione.sicilia.it/",
+      "publisher": "Sicilian Government",
+      "language": "it"
+    },
+    {
+      "title": "Italian Ministry of Justice",
+      "url": "https://www.giustizia.it/",
+      "publisher": "Italian Government",
+      "language": "it"
+    }
+  ],
+  "editorial_notes": [
+    "Sicily jurisdiction sidecar — civil-law Mediterranean Italian autonomous region (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Siciliana 1946 + Italian Constitution 1948 Article 116 + Codice Antimafia Legislative Decree 159/2011 + Italian Hague Convention 1980 accession 1985). First Italian autonomous region established (15 May 1946, predating Italian Constitution by ~22 months) + largest Italian autonomous region + largest Mediterranean island + central jurisdiction of Italy's most extensive anti-Mafia legal framework + only post-WWII separatist movement leading to formal sub-national autonomy framework prior to sovereign-state-of-incorporation's formal establishment.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Mediterranean + civil-law + Italian-autonomous-region cluster + first-Italian-autonomous-region-globally-distinctive + largest-Mediterranean-island + Codice-Antimafia-most-extensive-anti-Mafia-framework + Movimento-per-l'Indipendenza-della-Siciliana-pre-Republic-separatist-movement + Falcone-Borsellino-1992-assassinations + five-Court-of-Appeal-framework + Italian-Hague-1985-accession clusters within the corpus."
+  ]
+}

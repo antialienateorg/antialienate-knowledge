@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "libya",
+  "name": "Libya (State of Libya / دولة ليبيا)",
+  "jurisdiction_code": "LY",
+  "legal_system": "mixed",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Libya is a North African mixed-legal-system state combining French/Italian civil-law substantive heritage (via Italian colonial and Egyptian civil-code transplant inheritances) with Maliki-school Islamic-law personal-status jurisdiction. Family-law framework operates under the Marriage, Divorce and Related Matters Law 10/1984 (substantially amended 2015), governing custody (hadana) and guardianship (wilaya) at arts. 62-72. The Supreme Court (المحكمة العليا) is the apex court for civil and criminal matters; the Constitutional Court operates constitutional review. Personal-status matters are heard at first instance in the Court of First Instance (Family Court). Psychology profession is regulated through the Ministry of Health framework. Libya is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Libya is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Marriage, Divorce and Related Matters Law 10/1984 arts. 62-72",
+      "title": "Marriage and Divorce Law — Custody and guardianship",
+      "year": 1984,
+      "url": "https://www.aladel.gov.ly/",
+      "relevance": "Federal personal-status statute drawing primarily on Maliki Islamic-law jurisprudence. Substantially amended 2015. Arts. 62-72 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Civil Code 1953",
+      "title": "Civil Code",
+      "year": 1953,
+      "url": "https://www.aladel.gov.ly/",
+      "relevance": "Federal Civil Code drawing on French civil-law via Egyptian Civil Code transplant + Italian civil-law colonial inheritance."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (المحكمة العليا)",
+      "seat": "Tripoli",
+      "url": "https://www.supremecourt.ly/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Libya",
+      "url": "https://www.health.gov.ly/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Libyan family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1953,
+      "title": "Civil Code 1953",
+      "description": "Federal Civil Code enacted drawing on French civil-law via Egyptian transplant + Italian civil-law colonial inheritance."
+    },
+    {
+      "year": 1984,
+      "title": "Marriage, Divorce and Related Matters Law 10/1984",
+      "description": "Federal personal-status statute enacted codifying personal-status matters on Maliki jurisprudential basis."
+    },
+    {
+      "year": 2015,
+      "title": "Marriage, Divorce and Related Matters Law amendments",
+      "description": "Substantial amendments to personal-status provisions."
+    }
+  ],
+  "structural_findings": [
+    "Libya operates a mixed-legal-system framework — French/Italian civil-law substantive (via Egyptian transplant + Italian colonial heritage) + Maliki Islamic-law personal-status. Within the Maghreb Maliki cluster alongside Morocco, Tunisia, Algeria.",
+    "Italian civil-law colonial inheritance is structurally distinctive within the Maghreb cluster — Libya's only African corpus jurisdiction with substantial Italian-tradition layering.",
+    "Non-Hague Convention status places Libya in the non-Hague Maghreb cluster alongside Algeria — distinct from Hague-acceding Morocco and Tunisia."
+  ],
+  "references": [
+    "jurisdiction:morocco",
+    "jurisdiction:tunisia",
+    "jurisdiction:algeria",
+    "jurisdiction:egypt",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Libya",
+      "url": "https://www.supremecourt.ly/",
+      "publisher": "Supreme Court",
+      "language": "ar"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.aladel.gov.ly/",
+      "publisher": "Ministry of Justice",
+      "language": "ar"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.health.gov.ly/",
+      "publisher": "Ministry of Health",
+      "language": "ar"
+    }
+  ],
+  "editorial_notes": [
+    "Libya jurisdiction sidecar — mixed-legal-system Maghreb (French/Italian civil-law substantive via Egyptian transplant + Italian colonial heritage + Maliki Islamic-law personal-status). Marriage, Divorce and Related Matters Law 10/1984 + 2015 amendments + Civil Code 1953 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North African/Maghreb + Maliki + Italian-colonial-heritage distinctive cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

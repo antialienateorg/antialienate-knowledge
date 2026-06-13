@@ -1,0 +1,213 @@
+#!/usr/bin/env python3
+"""aa-exclusions — survey, categorise, and promote exclusions.
+
+Subcommands:
+  list           : list all exclusions with id + file + reason
+  by-reason      : group exclusions by reason-cluster
+  show <id>      : show detail for one exclusion (resolved by id)
+  promote <id>   : print a JSON skeleton ready to be edited into entries[]
+                   (does not modify the source file — operator review required)
+  references     : show exclusions referenced from elsewhere in the corpus
+                   (which exclusion IDs appear in references[] of entries / cases / evidence)
+  audit          : summary counts (total + by reason cluster + by jurisdiction)
+
+Usage:
+  bin/aa-exclusions list
+  bin/aa-exclusions audit
+  bin/aa-exclusions show ar.vaccaro-sonia-cross
+  bin/aa-exclusions promote ar.vaccaro-sonia-cross
+"""
+from __future__ import annotations
+
+import json
+import os
+import pathlib
+import re
+import sys
+from collections import defaultdict
+
+REPO = pathlib.Path(os.environ.get("AA_REPO_ROOT", pathlib.Path.cwd()))
+PRAC = REPO / "practitioners"
+CASES = REPO / "case-studies"
+JUR = REPO / "jurisdictions"
+EV = REPO / "evidence"
+
+
+def load(p: pathlib.Path) -> dict | None:
+    try:
+        return json.loads(p.read_text())
+    except Exception:
+        return None
+
+
+def all_exclusions() -> list[dict]:
+    out = []
+    for sub in ("therapists", "lawyers"):
+        d = PRAC / sub
+        if not d.exists():
+            continue
+        for f in sorted(d.glob("*.json")):
+            if f.name in {"index.json", "manifest.json"}:
+                continue
+            doc = load(f)
+            if not doc:
+                continue
+            for ex in doc.get("excluded") or []:
+                ex2 = dict(ex)
+                ex2["__file"] = str(f.relative_to(REPO))
+                ex2["__kind"] = sub
+                out.append(ex2)
+    return out
+
+
+def cluster(reason: str) -> str:
+    r = (reason or "").lower()
+    if any(s in r for s in ("unverif", "could not corrob")):
+        return "unverifiable"
+    if "out-of-scope" in r or "wrong file" in r or "primarily attorney" in r or "primarily clinician" in r:
+        return "out-of-scope"
+    if "ethical-naming" in r or "safeguard" in r or "court-documented" in r:
+        return "safeguarding"
+    if "discrete" in r or "operates via" in r or "non-discrete" in r:
+        return "structural-non-discrete"
+    if "namesake" in r or "name is too common" in r or "namesakes" in r:
+        return "namesake-ambiguity"
+    if any(s in r for s in ("regulatory", "license", "inactive", "struck off", "suspended")):
+        return "regulatory"
+    if "duplicate" in r or "already" in r or "cross-link" in r:
+        return "duplicate"
+    return "other"
+
+
+def cmd_list(_args):
+    for ex in all_exclusions():
+        print(f"{ex.get('id','?'):40s} | {ex['__file']:50s} | {(ex.get('exclusion_reason') or '')[:80]}")
+
+
+def cmd_by_reason(_args):
+    groups = defaultdict(list)
+    for ex in all_exclusions():
+        groups[cluster(ex.get("exclusion_reason", ""))].append(ex)
+    for c in sorted(groups, key=lambda x: -len(groups[x])):
+        print(f"\n=== {c}: {len(groups[c])} ===")
+        for ex in groups[c][:30]:
+            print(f"  {ex.get('id','?'):40s} | {(ex.get('name') or '')[:60]}")
+        if len(groups[c]) > 30:
+            print(f"  ... and {len(groups[c]) - 30} more")
+
+
+def cmd_show(args):
+    if not args:
+        print("usage: aa-exclusions show <id>", file=sys.stderr)
+        sys.exit(2)
+    target = args[0]
+    for ex in all_exclusions():
+        if ex.get("id") == target:
+            print(json.dumps({k: v for k, v in ex.items() if not k.startswith("__")}, indent=2))
+            print(f"# source-file: {ex['__file']}")
+            print(f"# cluster: {cluster(ex.get('exclusion_reason', ''))}")
+            return
+    print(f"not found: {target}", file=sys.stderr)
+    sys.exit(1)
+
+
+def cmd_promote(args):
+    if not args:
+        print("usage: aa-exclusions promote <id>", file=sys.stderr)
+        sys.exit(2)
+    target = args[0]
+    for ex in all_exclusions():
+        if ex.get("id") == target:
+            skel = {
+                "id": ex["id"],
+                "name": ex.get("name"),
+                "title": "TODO",
+                "city": "TODO",
+                "stance": "TODO",
+                "stance_notes": "TODO — primary-source quote with citation",
+                "primary_source_url": ex.get("primary_source_url", "TODO"),
+                "verification_notes": "TODO — what was re-verified, when, from which source",
+                "references": ex.get("references", []),
+            }
+            print("# Promote-skeleton — review fields, edit source file by hand.")
+            print(f"# Source file: {ex['__file']}")
+            print("# Steps:")
+            print(f"#   1) Remove excluded[] entry with id={target}")
+            print(f"#   2) Add the following object to entries[]:")
+            print(json.dumps(skel, indent=2))
+            return
+    print(f"not found: {target}", file=sys.stderr)
+    sys.exit(1)
+
+
+def cmd_references(_args):
+    """Find exclusion IDs referenced from elsewhere in the corpus."""
+    excl_ids = {ex.get("id") for ex in all_exclusions() if ex.get("id")}
+    referenced = defaultdict(list)
+    for d in (CASES, JUR):
+        if not d.exists():
+            continue
+        for f in sorted(d.glob("*.json")):
+            doc = load(f)
+            if not doc:
+                continue
+            for ref in doc.get("references") or []:
+                m = re.match(r"^practitioner:(.+)$", ref)
+                if m and m.group(1) in excl_ids:
+                    referenced[m.group(1)].append(str(f.relative_to(REPO)))
+    if EV.exists():
+        for f in EV.glob("*.md"):
+            text = f.read_text()
+            for m in re.finditer(r"practitioner:([a-z]{2,3}(?:-[a-z]{2,3})?\.[a-z0-9-]+)", text):
+                if m.group(1) in excl_ids:
+                    referenced[m.group(1)].append(str(f.relative_to(REPO)))
+    if not referenced:
+        print("(no exclusion IDs currently referenced from case-studies/jurisdictions/evidence)")
+        return
+    for eid, srcs in sorted(referenced.items()):
+        print(f"{eid}")
+        for s in srcs:
+            print(f"  <- {s}")
+
+
+def cmd_audit(_args):
+    exs = all_exclusions()
+    by_cluster = defaultdict(int)
+    by_jur = defaultdict(int)
+    for ex in exs:
+        by_cluster[cluster(ex.get("exclusion_reason", ""))] += 1
+        jur = (ex.get("id") or "").split(".", 1)[0] or "unknown"
+        by_jur[jur] += 1
+    print(f"TOTAL exclusions: {len(exs)}")
+    print(f"\nBy reason-cluster:")
+    for c, n in sorted(by_cluster.items(), key=lambda x: -x[1]):
+        print(f"  {n:4d}  {c}")
+    print(f"\nBy jurisdiction-prefix (top 20):")
+    for j, n in sorted(by_jur.items(), key=lambda x: -x[1])[:20]:
+        print(f"  {n:4d}  {j}")
+
+
+HANDLERS = {
+    "list": cmd_list,
+    "by-reason": cmd_by_reason,
+    "show": cmd_show,
+    "promote": cmd_promote,
+    "references": cmd_references,
+    "audit": cmd_audit,
+}
+
+
+def main():
+    if len(sys.argv) < 2 or sys.argv[1] in {"-h", "--help", "help"}:
+        print(__doc__)
+        sys.exit(0)
+    sub = sys.argv[1]
+    if sub not in HANDLERS:
+        print(f"unknown subcommand: {sub}", file=sys.stderr)
+        print(__doc__, file=sys.stderr)
+        sys.exit(2)
+    HANDLERS[sub](sys.argv[2:])
+
+
+if __name__ == "__main__":
+    main()

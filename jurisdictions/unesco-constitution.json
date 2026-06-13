@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "id": "unesco-constitution",
+  "name": "UNESCO Constitution 1945 (UN Educational, Scientific and Cultural Organization)",
+  "jurisdiction_code": "UES",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Constitution of the United Nations Educational, Scientific and Cultural Organization (UNESCO Constitution) is a global supranational meta-framework education-science-culture binding-treaty instrument adopted by the London Conference for the Establishment of an Educational and Cultural Organization — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on education + science + culture framework (UNESCO Constitution adopted 16 November 1945 in London + effective 4 November 1946 — formal universal multilateral binding-treaty framework establishing comprehensive UNESCO organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on substantive treaties on either education or science or culture separately, structurally distinctive globally as the only modern universal binding-treaty framework operating formal triple-mandate education-science-culture framework + Preamble framework providing 'since wars begin in the minds of men, it is in the minds of men that the defences of peace must be constructed' framework + second UN specialized agency after ILO 1946 framework), as the central jurisdiction of the formal 1972 World Heritage Convention framework (Convention concerning the Protection of the World Cultural and Natural Heritage adopted 16 November 1972 + effective 17 December 1975 providing formal World Heritage List + World Heritage in Danger List framework — formal foundational world-heritage framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal world-heritage framework with 1,223 World Heritage sites + 56 World Heritage in Danger sites as of 2026), as the central jurisdiction of the formal 2003 Intangible Cultural Heritage Convention framework (Convention for the Safeguarding of the Intangible Cultural Heritage adopted 17 October 2003 + effective 20 April 2006 providing formal Intangible Cultural Heritage Lists framework — formal foundational intangible-cultural-heritage framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal intangible-cultural-heritage framework), and as the central jurisdiction of the formal 1960 Convention against Discrimination in Education framework (Convention against Discrimination in Education adopted 14 December 1960 + effective 22 May 1962 providing formal education non-discrimination framework — formal foundational education-non-discrimination framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal education-non-discrimination framework). The UNESCO Constitution is binding upon 194 UNESCO member states + 12 associate members as of 2026 — comprehensive universal coverage framework. The Constitution is silent on 'parental alienation' as a statutory label, though formal 1960 Convention against Discrimination in Education + Education for All EFA framework operate substantial intersection with parental-alienation framework via formal cross-border educational-access-for-children-of-alienated-parent framework where parental-alienator-school-enrolment-blocking cases occur. The UNESCO General Conference + UNESCO Executive Board + UNESCO Director-General + UNESCO World Heritage Committee are the formal UNESCO bodies; national-level apex courts operate as judicial bodies. The UNESCO Constitution is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNESCO Constitution 1945",
+      "title": "UNESCO Constitution",
+      "year": 1946,
+      "url": "https://www.unesco.org/",
+      "relevance": "UNESCO Constitution adopted 16 November 1945 in London + effective 4 November 1946 — formal universal multilateral binding-treaty framework establishing comprehensive UNESCO organisation framework."
+    },
+    {
+      "citation": "1960 UNESCO Convention against Discrimination in Education",
+      "title": "1960 UNESCO Education Convention",
+      "year": 1962,
+      "url": "https://www.unesco.org/",
+      "relevance": "UNESCO Convention against Discrimination in Education adopted 14 December 1960 + effective 22 May 1962 — formal foundational education-non-discrimination framework."
+    },
+    {
+      "citation": "1972 UNESCO World Heritage Convention",
+      "title": "1972 World Heritage Convention",
+      "year": 1975,
+      "url": "https://whc.unesco.org/",
+      "relevance": "UNESCO Convention concerning the Protection of the World Cultural and Natural Heritage adopted 16 November 1972 + effective 17 December 1975 — formal foundational world-heritage framework."
+    },
+    {
+      "citation": "2003 UNESCO Intangible Cultural Heritage Convention",
+      "title": "2003 Intangible Cultural Heritage Convention",
+      "year": 2006,
+      "url": "https://ich.unesco.org/",
+      "relevance": "UNESCO Convention for the Safeguarding of the Intangible Cultural Heritage adopted 17 October 2003 + effective 20 April 2006 — formal foundational intangible-cultural-heritage framework."
+    },
+    {
+      "citation": "2005 UNESCO Convention on Cultural Expressions",
+      "title": "2005 Cultural Expressions Convention",
+      "year": 2007,
+      "url": "https://www.unesco.org/",
+      "relevance": "UNESCO Convention on the Protection and Promotion of the Diversity of Cultural Expressions adopted 20 October 2005 + effective 18 March 2007 — formal foundational cultural-expressions-diversity framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNESCO General Conference",
+      "seat": "Paris",
+      "url": "https://www.unesco.org/en/general-conference",
+      "role": "Formal supreme decision-making body for UNESCO."
+    },
+    {
+      "name": "UNESCO Executive Board",
+      "seat": "Paris",
+      "url": "https://www.unesco.org/en/executive-board",
+      "role": "Formal executive body for UNESCO."
+    },
+    {
+      "name": "UNESCO Director-General",
+      "seat": "Paris",
+      "url": "https://www.unesco.org/en/director-general",
+      "role": "Formal administrative head body for UNESCO."
+    },
+    {
+      "name": "UNESCO World Heritage Committee",
+      "seat": "Paris",
+      "url": "https://whc.unesco.org/en/committee/",
+      "role": "Formal UNESCO World Heritage framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNESCO Secretariat",
+      "url": "https://www.unesco.org/",
+      "role": "UNESCO Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNESCO-related communications operate via state-state + UNESCO General Conference reporting framework; individual communications not formally accepted under UNESCO framework.",
+  "key_developments": [
+    {
+      "year": 1945,
+      "title": "UNESCO Constitution adopted",
+      "description": "UNESCO Constitution adopted 16 November 1945 in London by 37 founding states — formal universal multilateral binding-treaty framework adopted."
+    },
+    {
+      "year": 1946,
+      "title": "UNESCO Constitution enters force + UNESCO established",
+      "description": "UNESCO Constitution entered force 4 November 1946 + United Nations Educational, Scientific and Cultural Organization UNESCO formally established 4 November 1946 — formal foundational UNESCO treaty framework operational + second UN specialized agency after ILO 1946 framework."
+    },
+    {
+      "year": 1960,
+      "title": "UNESCO Convention against Discrimination in Education",
+      "description": "UNESCO Convention against Discrimination in Education adopted 14 December 1960 — formal foundational education-non-discrimination framework adopted."
+    },
+    {
+      "year": 1972,
+      "title": "UNESCO World Heritage Convention adopted",
+      "description": "UNESCO Convention concerning the Protection of the World Cultural and Natural Heritage adopted 16 November 1972 — formal foundational world-heritage framework adopted."
+    },
+    {
+      "year": 1975,
+      "title": "World Heritage Convention enters force + World Heritage Committee established",
+      "description": "UNESCO World Heritage Convention entered force 17 December 1975 + UNESCO World Heritage Committee established 1976 — formal world-heritage framework operational."
+    },
+    {
+      "year": 1984,
+      "title": "US withdraws from UNESCO",
+      "description": "United States withdrew from UNESCO 31 December 1984 under President Ronald Reagan — formal UNESCO membership framework."
+    },
+    {
+      "year": 2003,
+      "title": "Intangible Cultural Heritage Convention adopted + US rejoins UNESCO",
+      "description": "UNESCO Convention for the Safeguarding of the Intangible Cultural Heritage adopted 17 October 2003 + United States rejoined UNESCO 1 October 2003 under President George W. Bush — formal foundational intangible-cultural-heritage framework + US re-accession framework."
+    },
+    {
+      "year": 2018,
+      "title": "US withdraws from UNESCO again",
+      "description": "United States withdrew from UNESCO 31 December 2018 under President Donald Trump over Israel-related framework — formal UNESCO membership framework."
+    },
+    {
+      "year": 2023,
+      "title": "US rejoins UNESCO again",
+      "description": "United States rejoined UNESCO 30 June 2023 under President Joe Biden — formal US re-accession framework."
+    }
+  ],
+  "structural_findings": [
+    "UNESCO Constitution operates a supranational universal multilateral binding-treaty framework — places UNESCO Constitution in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on education + science + culture framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal triple-mandate education-science-culture framework + second UN specialized agency after ILO 1946 framework.",
+    "Central jurisdiction of formal 1972 World Heritage Convention framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal world-heritage framework with 1,223 World Heritage sites + 56 World Heritage in Danger sites as of 2026.",
+    "Central jurisdiction of formal 2003 Intangible Cultural Heritage Convention framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal intangible-cultural-heritage framework.",
+    "Central jurisdiction of formal 1960 Convention against Discrimination in Education framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal education-non-discrimination framework.",
+    "194 UNESCO member state + 12 associate member ratification framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1945 UNESCO Constitution + 1946 entry into force + 1960 Convention against Discrimination in Education + 1972 World Heritage Convention + 1975 entry into force + 1984 US withdrawal + 2003 Intangible Cultural Heritage Convention + 2003 US rejoins + 2018 US withdraws again + 2023 US rejoins again UNESCO-framework-development sequence is structurally distinctive globally.",
+    "UNESCO Constitution + 1960 Convention against Discrimination in Education + 1972 World Heritage + 2003 Intangible Cultural Heritage + 2005 Cultural Expressions formal quintet framework with formal cross-border educational-access-for-children-of-alienated-parent PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UNESCO",
+      "url": "https://www.unesco.org/",
+      "publisher": "UNESCO",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNESCO Constitution jurisdiction sidecar — supranational global education-science-culture universal multilateral binding-treaty meta-framework (UNESCO Constitution 1945/1946 + 1960 Convention against Discrimination in Education + 1972 World Heritage Convention + 2003 Intangible Cultural Heritage Convention + 2005 Cultural Expressions Convention + 1984/2003/2018/2023 US membership oscillation framework). Only modern universal multilateral binding-treaty framework operating specifically on education + science + culture framework globally + only modern universal binding-treaty framework operating formal triple-mandate education-science-culture framework + second UN specialized agency after ILO 1946 + central jurisdiction of formal 1972 World Heritage Convention with 1,223 sites + central jurisdiction of formal 1960 Convention against Discrimination in Education + 194 UNESCO member states + 12 associate members + 1945 UNESCO Constitution + 1946 entry into force + 1960 Convention against Discrimination in Education + 1972 World Heritage Convention + 1975 entry into force + 1984 US withdrawal + 2003 Intangible Cultural Heritage Convention + 2003 US rejoins + 2018 US withdraws again + 2023 US rejoins again UNESCO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: 1960 Convention against Discrimination in Education + Education for All EFA framework operate substantial intersection with parental-alienation framework via formal cross-border educational-access-for-children-of-alienated-parent framework where parental-alienator-school-enrolment-blocking cases occur.",
+    "Joins global + supranational + universal-multilateral-education-science-culture-binding-treaty cluster + UNESCO-only-universal-education-science-culture-binding-treaty-globally-distinctive + 1960-Convention-against-Discrimination-in-Education + 1972-World-Heritage-Convention + 2003-Intangible-Cultural-Heritage-Convention + 2005-Cultural-Expressions-Convention + 194-UNESCO-member-states + 12-UNESCO-associate-members + second-UN-specialized-agency-after-ILO + 1984-2003-2018-2023-US-membership-oscillation + 1,223-World-Heritage-sites + 56-World-Heritage-in-Danger-sites + educational-access-for-children-of-alienated-parent-PA-intersection clusters within the corpus."
+  ]
+}

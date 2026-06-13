@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "malta",
+  "name": "Malta",
+  "jurisdiction_code": "MT",
+  "legal_system": "mixed",
+  "language": ["mt", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Malta is a Mediterranean unitary republic operating a mixed-legal-system framework combining common-law procedural inheritance from the British colonial period with civil-law substantive law (Civil Code rooted in the Code Napoléon tradition). Family-law matters are heard by specialised Civil Court (Family Section) under the Civil Code (Chapter 16 of the Laws of Malta). Parental authority is governed by Civil Code arts. 131-149. The Court of Appeal and ultimately the Constitutional Court of Malta operate as the apex courts; the Constitutional Court operates a separate constitutional-review jurisdiction. Psychology profession is regulated under the Psychology Profession Act of 2004 establishing the Malta Psychology Profession Board. Malta is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Malta is an EU Member State (acceded 1 May 2004) and Council of Europe member.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code (Chapter 16) arts. 131-149",
+      "title": "Civil Code — Parental authority",
+      "year": 1870,
+      "url": "https://legislation.mt/eli/cap/16",
+      "relevance": "Federal Civil Code rooted in the Code Napoléon tradition. Arts. 131-149 govern parental authority; substantively amended over time. Joint exercise during marriage is the statutory default."
+    },
+    {
+      "citation": "Psychology Profession Act 2004 (Cap. 471)",
+      "title": "Psychology Profession Act 2004",
+      "year": 2004,
+      "url": "https://legislation.mt/eli/cap/471",
+      "relevance": "Federal statute regulating the psychology profession. Establishes the Malta Psychology Profession Board and statutory registration regime."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal",
+      "seat": "Valletta",
+      "url": "https://courtservices.gov.mt/",
+      "role": "Apex court for civil and criminal appellate matters."
+    },
+    {
+      "name": "Constitutional Court of Malta",
+      "seat": "Valletta",
+      "url": "https://courtservices.gov.mt/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and constitutional complaints engaging fundamental rights."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Malta Psychology Profession Board",
+      "url": "https://deputyprimeminister.gov.mt/",
+      "role": "Statutory registration board for psychologists under Psychology Profession Act 2004."
+    },
+    {
+      "name": "Malta Chamber of Psychologists",
+      "url": "https://www.maltapsychology.com/",
+      "role": "Peak professional association for psychologists in Malta."
+    }
+  ],
+  "anonymisation_convention": "Maltese family-law decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1870,
+      "title": "Civil Code enacted",
+      "description": "Civil Code (Chapter 16) rooted in the Code Napoléon tradition originally enacted 1870."
+    },
+    {
+      "year": 2004,
+      "title": "EU accession + Psychology Profession Act 2004",
+      "description": "Malta acceded to the European Union 1 May 2004. Psychology Profession Act 2004 (Cap. 471) enacted establishing Malta Psychology Profession Board."
+    },
+    {
+      "year": 2011,
+      "title": "Divorce legalised",
+      "description": "Civil Code amendment enacted following the 28 May 2011 divorce referendum; in force 1 October 2011."
+    }
+  ],
+  "structural_findings": [
+    "Malta operates a mixed-legal-system framework — common-law procedural inheritance from the British colonial period + civil-law substantive law (Code Napoléon tradition). Structurally adjacent to Cyprus within the Mediterranean mixed-jurisdiction cluster.",
+    "Psychology Profession Act 2004 statutory registration regime places Malta among the federal-statutory psychology regulator group within the corpus.",
+    "Divorce legalised relatively recently (2011) — Malta is among the last European jurisdictions to legalise divorce."
+  ],
+  "references": [
+    "jurisdiction:cyprus",
+    "jurisdiction:italy",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Courts of Malta",
+      "url": "https://courtservices.gov.mt/",
+      "publisher": "Government of Malta",
+      "language": "mt,en"
+    },
+    {
+      "title": "Legislation.mt — Maltese legal database",
+      "url": "https://legislation.mt/",
+      "publisher": "Ministry for Justice",
+      "language": "mt,en"
+    },
+    {
+      "title": "Malta Chamber of Psychologists",
+      "url": "https://www.maltapsychology.com/",
+      "publisher": "Malta Chamber of Psychologists",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Malta jurisdiction sidecar — Mediterranean mixed-legal-system framework. Civil Code (Code Napoléon tradition) + Family Section + Psychology Profession Act 2004.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Mediterranean mixed-jurisdiction + federal-statutory psychology regulator clusters within the corpus."
+  ]
+}

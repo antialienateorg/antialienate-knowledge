@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "id": "liancourt-rocks",
+  "name": "Liancourt Rocks (Dokdo / Takeshima / 독도 / 竹島)",
+  "jurisdiction_code": "XX-LCR",
+  "legal_system": "civil-law",
+  "language": ["ko", "ja"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Liancourt Rocks (English Liancourt Rocks after the French whaler Liancourt that recorded the rocks in 1849 / Korean Dokdo 독도 'Solitary Island' / Japanese Takeshima 竹島 'Bamboo Island') are a Sea of Japan / East Sea disputed islet group comprising 91 islets and reefs (two main islets: Dongdo/Mendo 'Eastern/Female Island' and Seodo/Odo 'Western/Male Island') covering ~0.187 km² of land area within a much larger maritime EEZ context — structurally distinctive globally as the only major bilateral territorial dispute between two democratic allies of the same superpower (United States) where the superpower has explicitly declined to take a position (US has consistently maintained neutrality between Japan and South Korea claims), and as the only dispute where the administering state (South Korea, since 1954) has built civilian residential infrastructure including a permanent two-person civilian residence (the Kim Sung-do family lived on Dokdo from 1968-2018; Kim Shin-yeol since 2018) explicitly to entrench sovereignty. The Liancourt Rocks are administered by South Korea since the 1954 establishment of a permanent Korean Coast Guard presence, as part of Ulleung-eup of Ulleung County, North Gyeongsang Province (since 2000 administrative consolidation). Japan claims the Liancourt Rocks as part of Okinoshima Town, Oki District, Shimane Prefecture (since 1905 Japanese Cabinet decision). South Korea formally rejected Japanese sovereignty via the 1952 Syngman Rhee Line declaration. The Liancourt Rocks are not claimed by any third state — making them a purely bilateral Korea-Japan dispute distinct from the multilateral Spratly/Paracel/Senkaku disputes. South Korea's family-law framework operates under the Korean Civil Code (민법 1958) applied via Ulleung County administrative framework. Parental authority and child custody operate under Korean Civil Code Articles 909-927 (친권 / chinkwon / parental authority). The Daegu District Court is the first-instance court for Ulleung County including the Liancourt Rocks; the Daegu High Court is the intermediate appellate court; final appellate jurisdiction lies with the Supreme Court of South Korea. The Liancourt Rocks are silent on 'parental alienation' as a statutory label. South Korea is a Hague Convention 1980 party (acceded 13 December 2012, effective 1 March 2013) — Liancourt Rocks Hague applicability via South Korean territorial extension is unrecognised by Japan.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Syngman Rhee Line Declaration 1952",
+      "title": "Syngman Rhee Line Declaration",
+      "year": 1952,
+      "url": "https://www.dokdo.go.kr/",
+      "relevance": "South Korean President Syngman Rhee Presidential Proclamation of 18 January 1952 establishing 'Peace Line' (Syngman Rhee Line) including Liancourt Rocks within South Korean jurisdiction."
+    },
+    {
+      "citation": "Korean Civil Code 1958 (applicable in Liancourt Rocks per Korean administration)",
+      "title": "Korean Civil Code",
+      "year": 1958,
+      "url": "https://elaw.klri.re.kr/",
+      "relevance": "Korean Civil Code Articles 909-927 governing 친권 (chinkwon / parental authority) applicable in Liancourt Rocks via Ulleung County administrative framework."
+    },
+    {
+      "citation": "Japanese Cabinet Decision 1905 (incorporating Takeshima)",
+      "title": "Japanese Cabinet Decision 1905",
+      "year": 1905,
+      "url": "https://www.mofa.go.jp/",
+      "relevance": "Japanese Cabinet Decision of 28 January 1905 incorporating Liancourt Rocks (as Takeshima) into Okinoshima, Oki District, Shimane Prefecture — Japanese position: terra nullius incorporation; Korean position: incorporation contemporaneous with Japanese protectorate over Korea (1905 Eulsa Treaty)."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of South Korea (대법원)",
+      "seat": "Seoul",
+      "url": "https://www.scourt.go.kr/",
+      "role": "Final appellate court for civil and criminal matters from Liancourt Rocks via South Korean administration."
+    },
+    {
+      "name": "Daegu High Court",
+      "seat": "Daegu",
+      "url": "https://daegu.scourt.go.kr/",
+      "role": "Intermediate appellate court for civil and criminal matters from North Gyeongsang Province including Liancourt Rocks."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Korean Ministry of Health and Welfare",
+      "url": "https://www.mohw.go.kr/",
+      "role": "Korean professional regulatory framework applicable in Liancourt Rocks via South Korean administration."
+    }
+  ],
+  "anonymisation_convention": "Liancourt Rocks-related decisions are anonymised per Korean court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1849,
+      "title": "Liancourt naming by French whaler",
+      "description": "French whaler Liancourt recorded the rocks in January 1849 — Western naming origin."
+    },
+    {
+      "year": 1905,
+      "title": "Japanese Cabinet incorporation of Takeshima",
+      "description": "Japanese Cabinet Decision of 28 January 1905 incorporating Liancourt Rocks (as Takeshima) into Okinoshima, Oki District, Shimane Prefecture."
+    },
+    {
+      "year": 1952,
+      "title": "Syngman Rhee Line Declaration",
+      "description": "South Korean President Syngman Rhee Presidential Proclamation of 18 January 1952 establishing 'Peace Line' (Syngman Rhee Line) including Liancourt Rocks within South Korean jurisdiction."
+    },
+    {
+      "year": 1954,
+      "title": "Korean permanent Coast Guard presence",
+      "description": "South Korean Coast Guard established permanent presence on Liancourt Rocks in 1954 — foundation of South Korean de-facto administration."
+    },
+    {
+      "year": 1968,
+      "title": "Kim Sung-do family Dokdo residence",
+      "description": "Kim Sung-do and wife Choi Jong-deok established permanent civilian residence on Dokdo in 1968 — sovereignty-entrenchment civilian-presence framework."
+    },
+    {
+      "year": 2012,
+      "title": "Lee Myung-bak Dokdo visit + Korean Hague accession",
+      "description": "South Korean President Lee Myung-bak visited Dokdo on 10 August 2012 — first South Korean Presidential visit to disputed islands, triggering significant Japan-Korea diplomatic tension. South Korea acceded to Hague Convention 1980 effective 13 December 2012."
+    }
+  ],
+  "structural_findings": [
+    "Liancourt Rocks operate a civil-law Korean Civil Code framework via South Korean administration since 1954 — places Liancourt Rocks in the Sea of Japan / East Sea Korean-administered-disputed-territory cluster.",
+    "Only major bilateral territorial dispute between two democratic allies of the same superpower (United States) where the superpower has explicitly declined to take a position is structurally distinctive globally — US neutrality between Japan and South Korea claims.",
+    "Only dispute where administering state has built civilian residential infrastructure to entrench sovereignty (Kim Sung-do family 1968-2018, Kim Shin-yeol since 2018) is structurally distinctive globally — sovereignty-entrenchment civilian-residence framework.",
+    "Purely bilateral Korea-Japan dispute (no third-state claim) is structurally distinctive within Asian maritime-disputes cluster — distinct from multilateral Spratly/Paracel/Senkaku disputes.",
+    "South Korean Presidential visits (Lee Myung-bak 2012, Moon Jae-in 2017, Yoon Suk-yeol declined) are structurally distinctive within disputed-territory cluster.",
+    "Korean Hague Convention 1980 accession (2012, effective 2013) applicability unrecognised by Japan is structurally distinctive within Hague-applicability cluster."
+  ],
+  "references": [
+    "jurisdiction:south-korea",
+    "jurisdiction:japan",
+    "jurisdiction:united-states",
+    "jurisdiction:senkaku-diaoyu-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Dokdo Government Portal (South Korea)",
+      "url": "https://www.dokdo.go.kr/",
+      "publisher": "South Korean Government",
+      "language": "ko"
+    },
+    {
+      "title": "Japanese Ministry of Foreign Affairs Takeshima",
+      "url": "https://www.mofa.go.jp/region/asia-paci/takeshima/",
+      "publisher": "Japanese Government",
+      "language": "ja"
+    }
+  ],
+  "editorial_notes": [
+    "Liancourt Rocks (Dokdo / Takeshima) jurisdiction sidecar — civil-law South-Korean-administered Sea of Japan / East Sea bilateral disputed islet group (Korean Civil Code Articles 909-927 + Syngman Rhee Line 1952 + Korean Coast Guard 1954 + Kim Sung-do family civilian residence 1968-2018 + Ulleung County administrative framework + Korean Hague Convention 1980 accession 2012 + bilateral Korea-Japan dispute). Only major bilateral territorial dispute between two democratic allies of same superpower where superpower has explicitly declined to take a position globally + only dispute where administering state has built civilian residential infrastructure to entrench sovereignty.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Sea-of-Japan/East-Sea + civil-law + South-Korean-administered-disputed-territory cluster + US-neutrality-between-democratic-allies-globally-distinctive + sovereignty-entrenchment-civilian-residence + purely-bilateral-Korea-Japan-dispute + Syngman-Rhee-Line + Korean-Hague-2012-accession-with-Japanese-non-recognition clusters within the corpus."
+  ]
+}

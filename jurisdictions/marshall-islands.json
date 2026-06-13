@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "id": "marshall-islands",
+  "name": "Marshall Islands (Republic of the Marshall Islands / Aolepān Aorōkin M̧ajeļ)",
+  "jurisdiction_code": "MH",
+  "legal_system": "common-law",
+  "language": ["en", "mh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Marshall Islands is a Pacific Island common-law republic in Compact of Free Association with the United States (Compact 1986, renewed 2003) — structurally distinctive globally as a Compact-of-Free-Association state with full sovereignty but defense and certain economic relationships with the US. Family-law framework operates under the Marshall Islands Code Title 26 (Family Code), drawing on US-derivative common-law substantive heritage via Compact framework and prior US Trust Territory of the Pacific Islands administration. Parental responsibility and child custody are governed by Family Code Chapters 1-7. The Supreme Court of the Marshall Islands is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Section) and District Courts. Customary-law jurisdiction operates in parallel via the Traditional Rights Court (Wāto'kebar) for customary-land and chiefly-title matters. Psychology profession is regulated through the Ministry of Health framework. Marshall Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Marshall Islands is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Marshall Islands Code Title 26 (Family Code)",
+      "title": "Marshall Islands Family Code",
+      "year": 1992,
+      "url": "https://www.judiciary.gov.mh/",
+      "relevance": "Federal Family Code codifying marriage, divorce, parental responsibility, and child custody framework. Chapters 1-7 govern parental responsibility and child custody."
+    },
+    {
+      "citation": "Compact of Free Association 1986 (renewed 2003)",
+      "title": "Compact of Free Association",
+      "year": 1986,
+      "url": "https://www.judiciary.gov.mh/",
+      "relevance": "Compact establishing Marshall Islands' sovereign status with defense and certain economic relationships with the US."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Marshall Islands",
+      "seat": "Majuro",
+      "url": "https://www.judiciary.gov.mh/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Traditional Rights Court (Wāto'kebar)",
+      "seat": "Majuro",
+      "url": "https://www.judiciary.gov.mh/",
+      "role": "Specialised court for customary-land and chiefly-title matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Human Services, Marshall Islands",
+      "url": "https://www.rmihealth.gov.mh/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Marshallese family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1979,
+      "title": "Constitution + self-government",
+      "description": "Constitution of the Marshall Islands adopted establishing self-government within US Trust Territory framework."
+    },
+    {
+      "year": 1986,
+      "title": "Compact of Free Association",
+      "description": "Compact of Free Association with US establishing Marshall Islands' sovereign status."
+    },
+    {
+      "year": 1992,
+      "title": "Marshall Islands Family Code (Title 26)",
+      "description": "Federal Family Code enacted codifying marriage, divorce, parental responsibility, and child custody framework."
+    },
+    {
+      "year": 2003,
+      "title": "Compact renewal (Compact II)",
+      "description": "Compact of Free Association renewed for 20 years from 2004."
+    }
+  ],
+  "structural_findings": [
+    "Marshall Islands operates a US-derivative common-law framework with structurally distinctive Compact-of-Free-Association status — places Marshall Islands in the Compact-of-Free-Association cluster (with Micronesia, Palau) within the corpus.",
+    "Traditional Rights Court (Wāto'kebar) parallel customary-land jurisdiction is structurally distinctive within the Pacific cluster.",
+    "US-derivative common-law substantive heritage (via Trust Territory administration and Compact framework) distinguishes Marshall Islands from British-derivative Pacific cluster.",
+    "Non-Hague Convention status places Marshall Islands in the non-Hague Pacific cluster."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:micronesia",
+    "jurisdiction:palau",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of the Marshall Islands",
+      "url": "https://www.judiciary.gov.mh/",
+      "publisher": "Judiciary",
+      "language": "en,mh"
+    },
+    {
+      "title": "Ministry of Health and Human Services",
+      "url": "https://www.rmihealth.gov.mh/",
+      "publisher": "Ministry of Health",
+      "language": "en,mh"
+    }
+  ],
+  "editorial_notes": [
+    "Marshall Islands jurisdiction sidecar — common-law Pacific Compact-of-Free-Association state (Family Code 1992 + Compact 1986/2003 + Traditional Rights Court + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + US-derivative + Compact-of-Free-Association-distinctive cluster + customary-land-Traditional-Rights-Court + non-Hague Convention clusters within the corpus."
+  ]
+}

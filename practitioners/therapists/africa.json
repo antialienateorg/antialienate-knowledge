@@ -1,0 +1,876 @@
+{
+  "schema_version": "2.0",
+  "country": "Africa",
+  "country_code": "AFR",
+  "type": "therapists",
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-01",
+  "jurisdictional_context": "Africa is a regional aggregate; deepening per-country (especially South Africa) is pending and the file should be read as a regional placeholder anchored by South Africa with institutional / feminist-legal entries elsewhere. South Africa is the only African jurisdiction with a verifiable, named-on-record clinical PA practitioner cluster. The statutory frame is the Children's Act 38/2005 (best-interests-of-the-child paramount), the Maintenance Act 99/1998, and the Supreme Court of Appeal / High Court family-law line that has crystallised PA as a clinically and judicially recognised phenomenon in the leading authority T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (Adams J, Gauteng Local Division Johannesburg, 13 July 2023). Clinical psychology is regulated by the Health Professions Council of South Africa (HPCSA) Professional Board for Psychology (clinical / counselling / educational / forensic categories); social work is regulated by the SA Council for Social Service Professions (SACSSP) under the Social Service Professions Act 110/1978. Parenting coordinators are accredited via NABFAM with voluntary associations FAMAC, KAFAM, SAAM. SA Standards of Practice for Forensic Assessments were drafted in 2021 (Martalas-chaired task force).\n\nThe rest of the continent is institutional / feminist-legal at best. Kenya's Children Act 2022 codifies best-interests-of-the-child as paramount; Kenya's High Court line on custody is developing but no named-on-record PA clinical expert has been located; the Counsellors and Psychologists Board (CPRB) under the Counsellors and Psychologists Act 2014 is the statutory psychology regulator. Nigeria's federal Child Rights Act 2003 has been adopted by 27 of 36 states with state-level variation; the Matrimonial Causes Act provides the divorce-side framework; the Nigeria Association of Clinical Psychologists (NACP) is the professional body but has issued no public PA position. Egypt's Personal Status Law (with 2004 Family Courts Law 10) and the family-court structure govern custody / hadana decisions; the National Council for Childhood and Motherhood (NCCM, Presidential Decree 54/1988) is the statutory child-rights body. The African critique register is carried not by clinicians but by women's-rights NGOs — in South Africa Mosaic and Women Watch SA; in Kenya FIDA Kenya (the Federation of Women Lawyers); in Nigeria Project Alert on Violence Against Women and Women's Aid Collective (WACOL). Peer-reviewed African PA literature is thin: outside the SA cluster (Viljoen 2014; Bosch-Brits, Wessels & Roux 2018) there is no substantive African journal output on PA.",
+  "structural_findings": [
+    "Africa is anchored by South Africa only at the clinical level. SA is the sole African jurisdiction with named-on-record PA clinicians (Carr, Roux, Olivier, Els, Martalas, Viljoen, NWU social-work team) verifiable via a leading apex judgment (T.L.D v B.G [2023] ZAGPJHC 801). This centrality is recognition for SA, not an evaluative ranking — other African jurisdictions simply have no clinical-level PA practitioner record to verify within public primary sources.",
+    "Other African jurisdictions surface only at institutional or feminist-legal collective level. Kenya: CPRB (regulator) + FIDA Kenya (feminist-legal critique register). Nigeria: NACP (association) + Project Alert + WACOL (feminist-legal critique register). Egypt: NCCM (statutory child-rights body, middle / critique-leaning per 2016 personal-status-reform position). Zero named individual PA clinicians located in KE / NG / EG / GH / TZ / ZW / UG / BW / MA within time-budget public-web search.",
+    "Peer-reviewed African PA literature is thin and SA-monopolised. Viljoen & van Rensburg (J. Divorce & Remarriage 2014) and Bosch-Brits, Wessels & Roux (Social Work / Maatskaplike Werk 2018 SciELO) are the only African peer-reviewed PA-engaging studies located. No PA-position statement comparable to CFP Brazil NT 4/2022 or COLPSIC Colombia 2023 located from HPCSA, SACSSP, CPRB, NACP, NPA, EPA or NCCM.",
+    "The African critique register is institutional and women's-rights-organisation-led, not clinician-led — mirroring the India pattern. SA: Mosaic + Women Watch SA. Kenya: FIDA Kenya. Nigeria: Project Alert + WACOL. Egypt: NCCM's 2016 personal-status-reform opposition is the closest institutional-critique signal. No African clinician carries a published PA-critique line comparable to Germany (Zimmermann / Fichtner / Walper) or Spain (Vaccaro).",
+    "Regulator-silence is the second load-bearing structural finding. HPCSA Professional Board for Psychology and SACSSP have issued no PA-position notice; CPRB Kenya, NACP Nigeria, and the Egyptian Psychiatric Association are likewise institutionally silent on PA. This regulator-silence parallels the IPS / IACP pattern in India and the Netherlands document-led pattern, but the SA institutional anchor carrying positional weight is the High Court (T.L.D v B.G) rather than the regulator."
+  ],
+  "entries": [
+    {
+      "id": "za.carr-leonard",
+      "name": "Leonard Carr",
+      "credentials": "Clinical Psychologist; UNISA-trained; 40+ years' clinical practice; HPCSA Professional Board for Psychology (Clinical) registration + Board of Health Funders (BHF)",
+      "city": "Johannesburg",
+      "region": "Gauteng (Norwood / Parkwood)",
+      "affiliation": "Independent clinical psychology private practice (Life on Iris, Norwood, Johannesburg); medico-legal and forensic-psychology consulting; clinical psychologist of record in T.L.D v B.G [2023] ZAGPJHC 801 (final report 10 March 2023 adopted by Adams J)",
+      "stance": "recognition",
+      "stance_notes": "Court-appointed clinical psychologist whose final report drove South Africa's leading 2023 PA judgment. In T.L.D v B.G [2023] ZAGPJHC 801 (Adams J, GLD Johannesburg, 13 July 2023) Carr's final report of 10 March 2023 found the child susceptible to 'clinging onto the most actively influencing and persuasive parent's belief system' and that PA made the child's world 'treacherous and emotionally dangerous'; recommended three months protective separation; curator ad litem Adv Mark Haskins SC agreed with all findings. Father's contact suspended for three months on PA findings; primary residence/parental rights to mother. Single highest-leverage SA recognition-camp clinical interlocutor at apex-of-record level.",
+      "publications": [
+        {
+          "title": "Court-adopted PA assessment in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 — final report 10 March 2023",
+          "year": 2023,
+          "venue": "Gauteng Local Division Johannesburg (Adams J); SAFLII",
+          "url": "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html"
+        },
+        {
+          "title": "Psychology of Shalom / Harmony framework — practice portfolio",
+          "year": 2020,
+          "venue": "leonardcarr.com practice site"
+        }
+      ],
+      "urls": [
+        "https://leonardcarr.com/",
+        "https://www.therapyroute.com/therapist/Leonard-Carr-Johannesburg-za",
+        "https://www.facebook.com/leonardcarr.clinicalpsychologist/",
+        "https://samedicalspecialists.co.za/clinical-psychologist/gauteng/johannesburg/norwood/leonard-carr",
+        "https://www.webmed.co.za/medical/leonard-carr-clinical-psychologist-2736.html",
+        "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html",
+        "https://bregmans.co.za/2023/07/25/court-awards-full-parental-responsibilities-to-mother-in-parental-alienation-syndrome-case/",
+        "https://www.timeslive.co.za/news/south-africa/2023-07-21-joburg-dad-barred-from-seeing-son-after-bad-mouthing-mom/"
+      ],
+      "contact": "Life on Iris, Norwood, Johannesburg, Gauteng; bookings via https://leonardcarr.com/ (direct phone/email not publicly displayed)",
+      "verification_notes": "HPCSA Professional Board for Psychology (Clinical Psychologist); registration number not publicly displayed on practice website (HPCSA register lookup required). Findings adopted in full by Adams J and curator ad litem Haskins SC — strongest possible recognition-camp endorsement from a SA High Court PA judgment.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.roux-lynette",
+        "practitioner:za.els-christie",
+        "practitioner:za.hpcsa"
+      ]
+    },
+    {
+      "id": "za.roux-lynette",
+      "name": "Dr Lynette Mary Roux",
+      "credentials": "Clinical Psychologist (HPCSA Professional Board for Psychology) since 1986 (37+ yrs); PhD Child and Forensic Psychology; NABFAM accredited Parenting Coordinator + Family Law Mediator; SAMLA accredited Medico-Legal Practitioner",
+      "city": "Benoni and Cape Town (dual-practice)",
+      "region": "Gauteng + Western Cape",
+      "affiliation": "Independent clinical psychology private practice (Benoni + Cape Town); psycho-legal and forensic assessments; mediation, restorative justice, collaborative law; parenting coordinator of record in T.L.D v B.G; NABFAM Chairperson (per De Rebus Aug 2018)",
+      "stance": "recognition",
+      "stance_notes": "Parenting coordinator of record in T.L.D v B.G [2023] ZAGPJHC 801, succeeded by Adv Vicky Olivier 18 March 2021 - 17 August 2021. De Rebus August 2018 (Kathleen Kriel) article 'Parental alienation can be overcome' cites Roux as clinical psychologist and NABFAM Chairperson on recognition-camp clinical reading of PA. Also parenting coordinator in ZO v JO (2022/14941) [2022] ZAGPJHC 511 (15 June 2022). 2016 SALRC submissions on parenting coordination informed later mediation + PC guidelines. NABFAM Chairperson status cited from De Rebus August 2018; current 2026 chair status not publicly confirmed — verify against NABFAM site before any chair-title-dependent outreach.",
+      "publications": [
+        {
+          "title": "Parenting coordinator of record in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801",
+          "year": 2023,
+          "venue": "Gauteng Local Division Johannesburg (Adams J); SAFLII",
+          "url": "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html"
+        },
+        {
+          "title": "Parenting coordinator in ZO v JO (2022/14941) [2022] ZAGPJHC 511",
+          "year": 2022,
+          "venue": "Gauteng Local Division Johannesburg; SAFLII",
+          "url": "https://www.saflii.org/za/cases/ZAGPJHC/2022/511.html"
+        },
+        {
+          "title": "De Rebus August 2018 PA article (cited as Chairperson NABFAM, alongside Dr Marlé Viljoen)",
+          "year": 2018,
+          "venue": "De Rebus (Law Society of South Africa)",
+          "url": "http://www.derebus.org.za/parental-alienation-can-be-overcome/"
+        },
+        {
+          "title": "SALRC 2016 submissions on parenting coordination",
+          "year": 2016,
+          "venue": "South African Law Reform Commission"
+        }
+      ],
+      "urls": [
+        "https://lynetteroux.co.za/",
+        "https://www.medpages.info/sf/index.php?page=person&personcode=35314",
+        "https://www.medpages.info/sf/index.php?page=organisation&orgcode=69610",
+        "https://mentalmatters.co.za/directory/lynette-roux-clinical-psychlogist-benoni/",
+        "https://www.psycholegalservicescapetown.com/",
+        "https://www.saam.org.za/friendsofsaam"
+      ],
+      "contact": "Benoni and Cape Town practices — addresses via Medpages https://www.medpages.info/sf/index.php?page=person&personcode=35314 ; practice site https://lynetteroux.co.za/ (direct phone/email not publicly displayed on landing page)",
+      "verification_notes": "HPCSA Professional Board for Psychology (Clinical Psychologist); registration number not publicly displayed (HPCSA register lookup required). NABFAM accreditation; FAMAC adjacency; SAMLA medico-legal accreditation. Institutional bridge between recognition-camp T.L.D v B.G outcome and SA parenting-coordination accreditation infrastructure.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.carr-leonard",
+        "practitioner:za.olivier-vicky",
+        "practitioner:za.viljoen-marle",
+        "practitioner:za.hpcsa"
+      ]
+    },
+    {
+      "id": "za.olivier-vicky",
+      "name": "Adv Vicky Olivier (parenting-coordinator capacity)",
+      "credentials": "Litigation advocate at Johannesburg Society of Advocates (Johannesburg Bar, 10+ years); qualified Arbitrator + internationally qualified Mediator; parenting coordinator",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "affiliation": "Johannesburg Society of Advocates (Johannesburg Bar); parenting coordinator of record in T.L.D v B.G [2023] ZAGPJHC 801 (18 March 2021 - 17 August 2021, succeeding Dr Lynette Roux)",
+      "stance": "recognition",
+      "stance_notes": "Olivier succeeded Dr Roux as parenting coordinator 18 March 2021 - 17 August 2021 in T.L.D v B.G; her parenting-coordination work informed the record on which Adams J suspended the father's contact for three months on PA grounds (per Bregman Moodley summary). Only SA practitioner with simultaneous Bar standing and an apex-PA parenting-coordinator appointment. Primary entry under /practitioners/lawyers/africa.md (lawyer-side); cross-listed here in parenting-coordinator capacity per T.L.D v B.G record — avoid double-counting in aggregate.",
+      "publications": [
+        {
+          "title": "Parenting coordinator of record in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801",
+          "year": 2023,
+          "venue": "Gauteng Local Division Johannesburg (Adams J); SAFLII",
+          "url": "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html"
+        }
+      ],
+      "urls": [
+        "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html",
+        "https://bregmans.co.za/2023/07/25/court-awards-full-parental-responsibilities-to-mother-in-parental-alienation-syndrome-case/",
+        "http://www.johannesburgbar.co.za/"
+      ],
+      "contact": "Via Johannesburg Society of Advocates http://www.johannesburgbar.co.za/ (direct member email not publicly displayed)",
+      "verification_notes": "General Council of the Bar of South Africa via Johannesburg Society of Advocates; mediator / arbitrator accreditation (international). Bar roll not publicly displayed on a single combined registry; verifiable via Johannesburg Bar member listing. Primary entry under lawyer-side directory.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.roux-lynette",
+        "practitioner:za.carr-leonard"
+      ]
+    },
+    {
+      "id": "za.els-christie",
+      "name": "Christie Els",
+      "credentials": "Counselling Psychologist (HPCSA Professional Board for Psychology); MA Psychology, University of the Free State (UFS); Board of Health Funders (BHF); 24+ years' private practice; Family Bridges Program-trained (USA, April 2014); first South African included in international Parental Alienation Study Group (PASG), March 2015",
+      "city": "George",
+      "region": "Western Cape (Garden Route, Heather Park)",
+      "affiliation": "Independent counselling psychology private practice (Heather Park, George); father's expert of record in T.L.D v B.G [2023] ZAGPJHC 801",
+      "stance": "recognition",
+      "stance_notes": "Named father's expert in T.L.D v B.G [2023] ZAGPJHC 801 per Bregman Moodley summary. Acacia Training speaker bio: 'the first South African to be included in the international Parental Alienation Study Group, a selected group of mental health and law professionals from 32 countries'; LinkedIn: Family Bridges Program training April 2014, PASG inclusion March 2015. Most-credentialled SA recognition-camp PA / reunification clinician. CAVEAT: ACTIVE HPCSA DISCIPLINARY PROCESS as at MedicalBrief 1 May 2024 — Eastern Circuit Local Division (Thembalethu, George) Patrick Gamble J dismissed Els's application to stop HPCSA disciplinary action, describing her conduct as 'vexatious' and 'Stalingrad'-style stalling; preliminary investigation found her guilty of misconduct (R50,000 admission-of-guilt fine offered) for allegedly operating outside her mandate as court-appointed facilitator (Els v HPCSA and Others (5845/2022) [2022] ZAWCHC 106, 30 May 2022). High media-sensitivity entry — outreach must acknowledge regulatory exposure honestly.",
+      "publications": [
+        {
+          "title": "Father's expert of record in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801",
+          "year": 2023,
+          "venue": "Gauteng Local Division Johannesburg (Adams J); SAFLII",
+          "url": "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html"
+        },
+        {
+          "title": "Family Bridges Program-trained reunification work (USA training April 2014)",
+          "year": 2014,
+          "venue": "Family Bridges Program / Warshak et al."
+        },
+        {
+          "title": "PASG SA chapter pioneer (inclusion March 2015)",
+          "year": 2015,
+          "venue": "Parental Alienation Study Group"
+        },
+        {
+          "title": "Acacia Training PA speaker materials",
+          "year": 2018,
+          "venue": "Acacia Training",
+          "url": "https://training.acaciatraining.co.za/speaker/christie-els-652513"
+        },
+        {
+          "title": "Els v Health Professionals Council of SA and Others (5845/2022) [2022] ZAWCHC 106 (30 May 2022)",
+          "year": 2022,
+          "venue": "Western Cape High Court; SAFLII",
+          "url": "https://www.saflii.org/za/cases/ZAWCHC/2022/106.html"
+        }
+      ],
+      "urls": [
+        "https://za.linkedin.com/in/christieels",
+        "https://www.ivote.co.za/view/south-africa/christie-els-counselling-psychologist-in-george",
+        "https://www.recomed.co.za/counselling-psychologist/george/christie-els/11438/17118/",
+        "https://training.acaciatraining.co.za/speaker/christie-els-652513",
+        "https://www.georgeherald.com/news/News/General/134881/Parental-alienation-syndrome",
+        "https://familybridgesza.blogspot.com/",
+        "https://www.medicalbrief.co.za/judge-slams-vexatious-psychologist-for-stalling-tactics/"
+      ],
+      "contact": "7 Notsung Avenue, Heather Park, George; tel +27 (44) 884-1252; mobile +27 (83) 269-6057; LinkedIn https://za.linkedin.com/in/christieels",
+      "verification_notes": "HPCSA Professional Board for Psychology (Counselling Psychologist); registration number not publicly displayed on iVote / RecoMed / training profiles (HPCSA register lookup required). PASG / Family Bridges credentials independently verifiable. Active HPCSA disciplinary process is the principal complication for outreach.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.carr-leonard",
+        "practitioner:za.hpcsa",
+        "practitioner:za.pafsa"
+      ]
+    },
+    {
+      "id": "za.martalas-astrid",
+      "name": "Dr Astrid Martalas",
+      "credentials": "Counselling Psychologist (HPCSA Professional Board for Psychology); MA Counselling Psychology Stellenbosch 1999; PhD parenting coordination University of Utrecht (Netherlands) 2018; FAMAC accredited mediator 2005 + parenting coordinator/facilitator 2008; NABFAM",
+      "city": "Cape Town",
+      "region": "Western Cape (Green Point)",
+      "affiliation": "Pomegranate (parenting coordination, mediation, child/adolescent psychology, parenting/contact/care/relocation assessments); court-appointed parenting coordinator and/or mediator in 300+ matters; chair 2021 task force that drafted SA Standards of Practice for Forensic Assessments; member 2016 task force that drafted SA Parenting Coordination Guidelines; FAMAC executive since 2006 (twice co-chair); NABFAM vice-chair (elected 2018)",
+      "stance": "middle",
+      "stance_notes": "Pomegranate practice page: 'the resolution of family disputes through parenting co-ordination … court appointed as parenting coordinator and/or mediator in more than 300 matters'. Published frame is parenting-coordination / child-participation / dispute-resolution (Martalas, paper on child participation, University of Leiden 2014 in 'The United Nations Convention on the Rights of the Child: Taking Stock After 25 Years'; Martalas, 'Dispute resolution in South Africa: parenting coordination keeps families out of court', International Family Law Conference 2016; AFCC presentations New Orleans 2015, Melbourne 2017, Sydney 2019) rather than PA-syndrome recognition or PA-critique. Stance middle because published frame is procedural / forensic-standards rather than partisan PA position; PA-specific public statement not publicly confirmed. Most-institutionally-embedded SA parenting-coordination clinician — natural middle-camp procedural interlocutor for any PA matter requiring forensic-assessment-standards compliance.",
+      "publications": [
+        {
+          "title": "Chair, SA Standards of Practice for Forensic Assessments task force",
+          "year": 2021,
+          "venue": "SA task force (Martalas-chaired)"
+        },
+        {
+          "title": "Member, SA Parenting Coordination Guidelines task force",
+          "year": 2016,
+          "venue": "SA task force"
+        },
+        {
+          "title": "PhD thesis on parenting coordination",
+          "year": 2018,
+          "venue": "University of Utrecht"
+        },
+        {
+          "title": "Paper on child participation",
+          "year": 2014,
+          "venue": "University of Leiden — 'The United Nations Convention on the Rights of the Child: Taking Stock After 25 Years'"
+        },
+        {
+          "title": "Dispute resolution in South Africa: parenting coordination keeps families out of court",
+          "year": 2016,
+          "venue": "International Family Law Conference 2016"
+        }
+      ],
+      "urls": [
+        "https://pomegranate.org.za/about/astrid-martalas/",
+        "https://famac.co.za/",
+        "https://nabfam.co.za/"
+      ],
+      "contact": "Suite 311, The Foundry, Prestwich Street, Green Point, Cape Town 8005; astrid@pomegranate.org.za ; +27 (0) 21 439 2844 ; +27 (0) 83 227 6491",
+      "verification_notes": "HPCSA Professional Board for Psychology (Counselling Psychologist); registration number not publicly displayed on Pomegranate site. FAMAC + NABFAM accreditation independently verifiable.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.roux-lynette",
+        "practitioner:za.hpcsa"
+      ]
+    },
+    {
+      "id": "za.viljoen-marle",
+      "name": "Dr Marlé Viljoen",
+      "credentials": "Clinical Psychologist (HPCSA Professional Board for Psychology); MA Clinical Psychology, North-West University (NWU) 2014",
+      "city": "Centurion",
+      "region": "Gauteng",
+      "affiliation": "Independent clinical psychology private practice (Centurion); peer-reviewed PA author",
+      "stance": "recognition",
+      "stance_notes": "Viljoen, M. & van Rensburg, E., 'Exploring the lived experience of psychologists working with parental alienation syndrome', Journal of Divorce and Remarriage 55(4):253-275 (2014) — standard SA peer-reviewed citation on PA-syndrome clinical practice. Viljoen MA dissertation (NWU, 2014) 'Exploring the lived experiences of psychologists working with Parental Alienation Syndrome'. Viljoen defines PA as 'a set of processes and behaviours conducted and enacted by a parent to deliberately and knowingly damage or sever the relationship between a child and another parent with whom the child enjoyed a prior loving relationship' — quoted in De Rebus August 2018 and divorcelaws.co.za. The natural recognition-camp Gauteng peer-reviewed citation in every SA practitioner long-form on PA. Surname romanisation varies (Marlé / Marile / Marilé) across sources — J. Divorce & Remarriage byline is authoritative form.",
+      "publications": [
+        {
+          "title": "Exploring the lived experience of psychologists working with parental alienation syndrome (Viljoen & van Rensburg)",
+          "year": 2014,
+          "venue": "Journal of Divorce and Remarriage 55(4):253-275"
+        },
+        {
+          "title": "MA dissertation: Exploring the lived experiences of psychologists working with Parental Alienation Syndrome",
+          "year": 2014,
+          "venue": "North-West University (NWU)"
+        },
+        {
+          "title": "De Rebus August 2018 PA article (Viljoen quoted alongside Roux)",
+          "year": 2018,
+          "venue": "De Rebus",
+          "url": "http://www.derebus.org.za/parental-alienation-can-be-overcome/"
+        }
+      ],
+      "urls": [
+        "https://www.news24.com/parent/family/relationships/finance_legal/parental-alienation-has-officially-been-recognised-by-who-but-its-been-a-violation-of-sa-childrens-rights-since-2005-20190603",
+        "http://www.derebus.org.za/parental-alienation-can-be-overcome/",
+        "https://www.divorcelaws.co.za/parental-alienation.html"
+      ],
+      "contact": "Centurion private practice — direct address / phone / email not publicly displayed in searchable sources; cited via De Rebus, divorcelaws.co.za, news24 PA coverage",
+      "verification_notes": "HPCSA Professional Board for Psychology (Clinical Psychologist); registration number not publicly displayed in searchable sources (HPCSA register lookup required). Practice URL not publicly displayed; cited via secondary SA PA-literature channels.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.roux-lynette",
+        "practitioner:za.hpcsa"
+      ]
+    },
+    {
+      "id": "za.nwu-social-work-team",
+      "name": "Elsabé Bosch-Brits + Prof Cornelia Wessels + Dr Adrie Roux (NWU social-work team)",
+      "credentials": "Bosch-Brits — Social Worker in Private Practice (study lead, SACSSP-registered); Wessels — Professor, School of Psychosocial Behavioural Sciences, Social Work Division, NWU Potchefstroom Campus; Roux — Dr / Senior Lecturer, same Division",
+      "city": "Potchefstroom (NWU)",
+      "region": "North-West Province",
+      "affiliation": "North-West University (NWU) Social Work Division, Potchefstroom Campus; Bosch-Brits private practice",
+      "stance": "recognition",
+      "stance_notes": "Bosch-Brits, E., Wessels, C. & Roux, A., 'Fathers' Experience and Perceptions of Parent Alienation in High-Conflict Divorce', Social Work / Maatskaplike Werk 54(1) (2018) — SciELO peer-reviewed qualitative study identifying eight themes (intense hurt 'worse than death'; unparalleled anger; loss of self-worth; distrust of women; loss of parental rights; constant concern; distrust of legal system; supervised contact trauma); notes PA observed in SA practice but remains under-utilised terminology in SA courts and not formally addressed as an urgent problem despite 28% rise in divorces 2012-2013. SACSSP-side peer-reviewed qualitative anchor on fathers' lived experience of PA in SA — standard SA citation when recognition-camp argument needs an SA social-work journal (not psychology) reference.",
+      "publications": [
+        {
+          "title": "Fathers' Experience and Perceptions of Parent Alienation in High-Conflict Divorce (Bosch-Brits, Wessels & Roux)",
+          "year": 2018,
+          "venue": "Social Work / Maatskaplike Werk 54(1); SciELO; ISSN 0037-8054",
+          "url": "https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0037-80542018000100007"
+        }
+      ],
+      "urls": [
+        "https://natural-sciences.nwu.ac.za/social-work",
+        "https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S0037-80542018000100007"
+      ],
+      "contact": "Bosch-Brits — private-practice channel (specific address not publicly displayed); Wessels / Roux — NWU Potchefstroom Campus, School of Psychosocial Behavioural Sciences, Social Work Division; https://natural-sciences.nwu.ac.za/social-work",
+      "verification_notes": "SACSSP (Social Worker) registration for Bosch-Brits and standard for NWU Social Work Division faculty; specific registration numbers not publicly displayed. Collective team entry; if individual entries are needed they can be split downstream.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.sacssp",
+        "practitioner:za.viljoen-marle"
+      ]
+    },
+    {
+      "id": "za.van-niekerk-joan",
+      "name": "Joan van Niekerk",
+      "credentials": "Social Worker (SACSSP); MA Medical Science (Medical and Psychiatric Social Work), University of Durban-Westville 1983; Dr honoris causa per Childline SA; past President International Society for the Prevention of Child Abuse and Neglect (ISPCAN); past National Co-ordinator (Director-level), Childline South Africa (24 years' Childline service)",
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "affiliation": "KwaZulu-Natal Children's Hospital (KZNCH) Board/advisory role; Go Legal columnist on child-protection law; former Director, Childline South Africa",
+      "stance": "middle",
+      "stance_notes": "28+ years' child-protection practice frame at Childline SA + ISPCAN; co-authored 'A Practical Approach to the Child Justice Act'; Childline SA institutional frame places child-protection (including allegations of abuse) and child-voice safeguards as paramount — middle position between PA-recognition (PA-as-emotional-abuse harm) and critique (DV/abuse-side guardrails). PA-direct public position statement not publicly confirmed. SA's longest-tenured child-protection psychiatric social worker — natural middle-camp institutional bridge between PA-recognition and DV-side child-protection guardrails.",
+      "publications": [
+        {
+          "title": "A Practical Approach to the Child Justice Act (co-author)",
+          "year": 2010,
+          "venue": "Juta / SA child-justice training materials"
+        },
+        {
+          "title": "Childline / ISPCAN training manuals and book chapters on child protection",
+          "year": 2015,
+          "venue": "Childline SA / ISPCAN"
+        },
+        {
+          "title": "Go Legal columns on child-protection law",
+          "year": 2020,
+          "venue": "Go Legal",
+          "url": "https://www.golegal.co.za/author/joan-van-niekerk/"
+        }
+      ],
+      "urls": [
+        "https://kznchildrenshospital.org/team-members/joan-van-niekerk/",
+        "https://www.childlinesa.org.za/congratulations-dr-joan-van-niekerk/",
+        "https://www.golegal.co.za/author/joan-van-niekerk/",
+        "http://www.congreso2016.juconi.org.mx/index.php/speakers/777-joan-van-niekerk"
+      ],
+      "contact": "Via KZN Children's Hospital https://kznchildrenshospital.org/team-members/joan-van-niekerk/ ; Childline SA national https://www.childlinesa.org.za/",
+      "verification_notes": "SACSSP (Social Worker); registration number not publicly displayed (SACSSP register lookup required). MA Medical Science (Medical and Psychiatric Social Work), University of Durban-Westville 1983; honorary doctorate per Childline SA.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.childline-sa",
+        "practitioner:za.sacssp"
+      ]
+    },
+    {
+      "id": "za.pafsa",
+      "name": "Parental Alienation Foundation of South Africa (PAFSA)",
+      "credentials": "Institutional: advocacy + education NGO; co-founder Howard Watson (attorney, Watson Law Incorporated, Pretoria); PASG SA chapter coordination",
+      "city": "Pretoria",
+      "region": "Gauteng (Watson Law)",
+      "affiliation": "PAFSA / Watson Law Incorporated, Pretoria; awareness.org.za content portal",
+      "stance": "institutional",
+      "stance_notes": "PAFSA mission statement (Watson Law page): 'to have the South African law changed, to meet international standards and to criminalise this emotional abuse'. Howard Watson public statement (Mail & Guardian 11 August 2022): PA is 'emotionally manipulative behaviour … not reliant on gender, and although more prevalent in mothers, fathers are far from innocent'. PAFSA calls for assessment + proper training of legal and medical professionals before submitting recommendations affecting minor children's rights. SA's principal PA-recognition advocacy NGO and institutional carrier of PASG SA chapter — standing recognition-camp institutional interlocutor for criminalisation reform and professional-training advocacy. Co-founder Howard Watson is an attorney (Watson Law) — PAFSA functions as advocacy NGO. NPO/NPC number not publicly displayed. Stance is recognition-camp in substance but classified institutional per schema (institutional NGO entry).",
+      "publications": [
+        {
+          "title": "SA criminalisation advocacy and PASG SA-chapter coordination",
+          "year": 2020,
+          "venue": "PAFSA / Watson Law"
+        },
+        {
+          "title": "Mail & Guardian 'Children are the losers in parental alienation' (Watson public statement)",
+          "year": 2022,
+          "venue": "Mail & Guardian, 11 August 2022",
+          "url": "https://mg.co.za/article/2022-08-11-children-are-the-losers-in-parental-alienation/"
+        }
+      ],
+      "urls": [
+        "https://www.awareness.org.za/",
+        "https://www.watsonlaw.co.za/in-association-with/the-parental-alienation-foundation-of-south-africa/",
+        "https://www.watsonlaw.co.za/in-association-with/pasg-parental-alienation-study-group/",
+        "https://www.facebook.com/parentalalienationsa/",
+        "https://mg.co.za/article/2022-08-11-children-are-the-losers-in-parental-alienation/"
+      ],
+      "contact": "Telephone +27 12 804 0748 ; https://www.awareness.org.za/ ; Watson Law Incorporated (Pretoria) https://www.watsonlaw.co.za/",
+      "verification_notes": "NPO advocacy organisation (specific NPO/NPC number not publicly displayed on Watson-Law-hosted page). Mail & Guardian (11 Aug 2022) is strongest mainstream-media source. Standalone Howard Watson attorney entry belongs in /practitioners/lawyers/africa.md.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.els-christie"
+      ]
+    },
+    {
+      "id": "za.childline-sa",
+      "name": "Childline South Africa",
+      "credentials": "Institutional: national federation of provincial Childlines (KZN / GP / WC / EC / FS / MP / NW / LP / NC); 24-hour toll-free helpline 116; child-protection training and advocacy; registered NPO",
+      "city": "National (federation)",
+      "region": "ZA national",
+      "affiliation": "National Childline SA federation",
+      "stance": "institutional",
+      "stance_notes": "Childline SA's institutional frame is child-protection-paramount (child sexual abuse, child rights, child voice), positioning it between PA-recognition (emotional abuse to the child) and critique-side child-protection safeguards in DV/GBV cases. Specific PA-position statement not publicly confirmed within time-budget search. Standing national child-protection helpline and institutional interlocutor for any SA PA outreach requiring a child-rights-of-the-child institutional pairing — natural SA institutional channel for PA-affected-child support referral.",
+      "publications": [
+        {
+          "title": "24-hour toll-free helpline 116",
+          "year": 1986,
+          "venue": "Childline SA national"
+        },
+        {
+          "title": "Childline Network News (institutional newsletter)",
+          "year": 2020,
+          "venue": "Childline SA",
+          "url": "https://www.childlinesa.org.za/wp-content/uploads/childline-network-news-issue-12.pdf"
+        }
+      ],
+      "urls": [
+        "https://www.childlinesa.org.za/",
+        "https://www.childlinesa.org.za/wp-content/uploads/childline-network-news-issue-12.pdf"
+      ],
+      "contact": "Toll-free 116 ; https://www.childlinesa.org.za/",
+      "verification_notes": "Registered NPO (national federation); NPO number not publicly displayed in a single source. Standing institutional addressee rather than PA-specific clinical interlocutor.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.van-niekerk-joan",
+        "practitioner:za.sacssp"
+      ]
+    },
+    {
+      "id": "za.hpcsa",
+      "name": "Health Professions Council of South Africa (HPCSA) — Professional Board for Psychology",
+      "credentials": "Statutory regulator under Health Professions Act 56/1974; registers and disciplines clinical / counselling / educational / forensic / research / industrial psychologists in South Africa",
+      "city": "Pretoria",
+      "region": "ZA national",
+      "affiliation": "HPCSA Professional Board for Psychology; statutory regulator",
+      "stance": "institutional",
+      "stance_notes": "No public PA-position notice issued by HPCSA Professional Board for Psychology within time-budget search. Institutional silence parallels SACSSP, CPRB Kenya, NACP Nigeria. SA registry of record for any psychology-side complaint about PA-related court reports — and the body before which Christie Els's active disciplinary process (per MedicalBrief 1 May 2024 + Els v HPCSA (5845/2022) [2022] ZAWCHC 106) is being run. Institutional addressee for any SA submission proposing PA-specific training or assessment standards for psychologists. Included as the SA psychology regulator of record.",
+      "publications": [
+        {
+          "title": "No PA-specific position-paper or guideline located",
+          "year": 2026,
+          "venue": "HPCSA Professional Board for Psychology (silence is the finding)"
+        },
+        {
+          "title": "Disciplinary jurisdiction over court-appointed psychologists exercised in Els matter",
+          "year": 2024,
+          "venue": "HPCSA preliminary investigation; Els v HPCSA (5845/2022) [2022] ZAWCHC 106",
+          "url": "https://www.medicalbrief.co.za/judge-slams-vexatious-psychologist-for-stalling-tactics/"
+        }
+      ],
+      "urls": [
+        "https://www.hpcsa.co.za/",
+        "https://www.hpcsa.co.za/?contentId=0&menuSubId=52&actionName=Profes"
+      ],
+      "contact": "Via https://www.hpcsa.co.za/ ; HPCSA Pretoria offices; iRegister lookup https://www.hpcsa.co.za/?contentId=0&menuSubId=52&actionName=Profes",
+      "verification_notes": "Listed as structural-finding-by-silence institutional entry plus regulator-of-record. Statutory regulator under Health Professions Act 56/1974. No PA-specific position located in time-budget search.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.els-christie",
+        "practitioner:za.sacssp"
+      ]
+    },
+    {
+      "id": "za.sacssp",
+      "name": "South African Council for Social Service Professions (SACSSP)",
+      "credentials": "Statutory regulator under Social Service Professions Act 110/1978; registers and disciplines social workers + child and youth care workers in South Africa",
+      "city": "Pretoria",
+      "region": "ZA national",
+      "affiliation": "SACSSP statutory regulator",
+      "stance": "institutional",
+      "stance_notes": "No public PA-position notice issued by SACSSP within time-budget search; institutional silence parallels HPCSA and other African regulators. SACSSP overview and statutory frame; included as SA registry of record for any social-worker complaint about PA-related court reports (per Fathers 4 Justice SA guidance https://www.f4j.co.za/2025/03/07/how-to-challenge-biased-social-workers-in-south-africa/). Statutory SA regulator of social workers — body before which any complaint about PA-related family-advocate-office assessment must be brought, and institutional addressee for any SA submission proposing PA-specific training or assessment standards for social workers.",
+      "publications": [
+        {
+          "title": "No PA-specific position-paper or guideline located",
+          "year": 2026,
+          "venue": "SACSSP (silence is the finding)"
+        },
+        {
+          "title": "Public registry of social workers",
+          "year": 2020,
+          "venue": "SACSSP",
+          "url": "https://sacssp.mm3.co.za/Public/Find"
+        }
+      ],
+      "urls": [
+        "https://www.sacssp.co.za/",
+        "https://www.sacssp.co.za/overview-0",
+        "https://www.sacssp.co.za/directory/find-professional",
+        "https://sacssp.mm3.co.za/Public/Find",
+        "https://www.gov.za/about-government/contact-directory/soe/south-african-council-social-service-professions-sacssp"
+      ],
+      "contact": "Via https://www.sacssp.co.za/ ; SACSSP public registry https://sacssp.mm3.co.za/Public/Find",
+      "verification_notes": "Listed as structural-finding-by-silence institutional entry plus regulator-of-record. Statutory regulator under Social Service Professions Act 110/1978.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.hpcsa",
+        "practitioner:za.nwu-social-work-team",
+        "practitioner:za.van-niekerk-joan"
+      ]
+    },
+    {
+      "id": "za.mosaic",
+      "name": "Mosaic Training, Service and Healing Centre for Women",
+      "credentials": "Institutional: women's-rights NGO (Cape Town); GBV / DV survivor support, court-support and shelter services; registered NPO",
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "affiliation": "Mosaic Training, Service and Healing Centre for Women (NPO)",
+      "stance": "critique",
+      "stance_notes": "Mosaic operates the DV-protective frame in SA NGO advocacy: court support for survivors seeking Protection Orders under Domestic Violence Act 116/1998, paralegal advocacy, and structural critique of family-court processes that re-traumatise GBV survivors. PA-construct critique is implicit rather than explicitly published — Mosaic carries the SA institutional-critique register that would, by structural analogy with FIDA Kenya / Project Alert / WACOL, engage cases like BVerfG 1 BvR 1076/23 (Germany 2023) and Cassazione 9691/2022 (Italy) as comparative authority for PA-construct critique in DV contexts. Listed for institutional-critique register completeness; specific PA position-paper not publicly confirmed.",
+      "publications": [
+        {
+          "title": "Court-support and survivor-advocacy programmes under Domestic Violence Act 116/1998",
+          "year": 2020,
+          "venue": "Mosaic Cape Town"
+        }
+      ],
+      "urls": [
+        "https://www.mosaic.org.za/"
+      ],
+      "contact": "Via https://www.mosaic.org.za/ ; Cape Town offices",
+      "verification_notes": "Institutional-critique register entry. PA-specific position-paper not located in time-budget search; classified critique on structural-analogy basis with comparable women's-rights NGOs in the African critique register.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "case-study:cassazione-9691-2022-italy",
+        "case-study:re-y-2026-ewfc-38",
+        "practitioner:ke.fida-kenya",
+        "practitioner:ng.project-alert"
+      ]
+    },
+    {
+      "id": "za.women-watch",
+      "name": "Women Watch South Africa",
+      "credentials": "Institutional: women's-rights and DV-survivor advocacy NGO; carries SA critique register in family-court contexts",
+      "city": "Johannesburg / National",
+      "region": "ZA national",
+      "affiliation": "Women Watch South Africa (NPO)",
+      "stance": "critique",
+      "stance_notes": "SA women's-rights advocacy carrying the institutional-critique register on family-court treatment of DV survivors. PA-construct critique is structural / DV-protective rather than published in clinical-academic form. Listed alongside Mosaic as the SA institutional-critique pair; structural counterpart of FIDA Kenya / Project Alert NG / WACOL NG. Specific PA position-paper not publicly confirmed within time-budget search.",
+      "publications": [
+        {
+          "title": "Women's-rights and DV-survivor advocacy programmes",
+          "year": 2020,
+          "venue": "Women Watch SA"
+        }
+      ],
+      "urls": [
+        "https://www.gov.za/about-government/contact-directory/non-governmental-organisations/women-watch-south-africa"
+      ],
+      "contact": "Via https://www.gov.za/about-government/contact-directory/non-governmental-organisations/women-watch-south-africa",
+      "verification_notes": "Institutional-critique register entry. PA-specific position-paper not located; classified critique on structural-analogy basis with comparable African women's-rights NGOs.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "case-study:cassazione-9691-2022-italy",
+        "case-study:re-y-2026-ewfc-38",
+        "practitioner:za.mosaic"
+      ]
+    },
+    {
+      "id": "ke.cprb",
+      "name": "Counsellors and Psychologists Board (CPRB), Kenya",
+      "credentials": "Statutory regulator under Counsellors and Psychologists Act 2014; licenses individual practitioners and accredits training programmes; e-citizen portal for registration and discipline",
+      "city": "Nairobi",
+      "region": "Kenya national",
+      "affiliation": "Statutory regulator (Counsellors and Psychologists Act, 2014)",
+      "stance": "institutional",
+      "stance_notes": "CPRB regulatory function (Act, 2014). No public PA-position notice located for CPRB, KPsyA or KCPA within time-budget search; Kenya's Children Act 2022 codifies best-interests-of-the-child as paramount (with FIDA Kenya as standing women-lawyer critique voice). Kenya's only statutory psychology regulator — institutional addressee for any Kenya-side PA-training accreditation submission, and public registry against which Kenya-side PA-expert credentials should be verified. No Kenya-based named clinical psychologist with sourced PA stance located within time-budget public-web search. Honest gap acknowledged.",
+      "publications": [
+        {
+          "title": "Statutory licensure + CPD; e-citizen registration portal",
+          "year": 2014,
+          "venue": "CPRB Kenya"
+        },
+        {
+          "title": "No PA-specific position-paper or guideline located",
+          "year": 2026,
+          "venue": "CPRB (silence is the finding)"
+        }
+      ],
+      "urls": [
+        "https://cprb.ecitizen.go.ke/",
+        "https://kpsya.or.ke/",
+        "https://kenyacounsellingandpsychologicalassociation.org/"
+      ],
+      "contact": "https://cprb.ecitizen.go.ke/",
+      "verification_notes": "Listed as Kenya regulator of record plus structural-finding-by-silence institutional entry. Counsellors and Psychologists Act 2014 statutory framework.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:kenya",
+        "practitioner:ke.fida-kenya"
+      ]
+    },
+    {
+      "id": "ke.fida-kenya",
+      "name": "FIDA Kenya (Federation of Women Lawyers — Kenya)",
+      "credentials": "Institutional: feminist-legal collective and women-lawyers federation; legal aid, GBV survivor representation, and law-reform advocacy under the Children Act 2022 and Sexual Offences Act 2006 frameworks",
+      "city": "Nairobi",
+      "region": "Kenya national",
+      "affiliation": "FIDA Kenya (Federation of Women Lawyers — Kenya); standing women-lawyer voice in Kenyan family-court reform",
+      "stance": "critique",
+      "stance_notes": "Standing Kenya women-lawyer critique register. FIDA Kenya operates the DV-protective frame in Kenyan custody / matrimonial proceedings under the Children Act 2022, the Marriage Act 2014, and the Protection Against Domestic Violence Act 2015. PA-construct critique is implicit in FIDA Kenya's documented body of work on intimate-partner violence and women's access to family-justice (e.g. annual GBV monitoring reports) rather than explicit in a published PA position-paper — the Kenya critique register, like the SA / Nigeria / Egypt critique registers, is institutional and women's-rights-organisation-led rather than clinician-led. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.",
+      "publications": [
+        {
+          "title": "Annual reports on GBV and women's access to family-justice in Kenya",
+          "year": 2023,
+          "venue": "FIDA Kenya"
+        },
+        {
+          "title": "Legal aid + court representation programmes under Children Act 2022 / PADV 2015",
+          "year": 2022,
+          "venue": "FIDA Kenya"
+        }
+      ],
+      "urls": [
+        "https://fidakenya.org/",
+        "https://fidakenya.org/about-us/"
+      ],
+      "contact": "Via https://fidakenya.org/ ; Nairobi office",
+      "verification_notes": "Institutional-critique register entry. PA-specific position-paper not located in time-budget search; classified critique on structural-analogy basis with comparable women's-rights NGOs (Mosaic SA, Project Alert NG, WACOL NG).",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:kenya",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "case-study:cassazione-9691-2022-italy",
+        "case-study:re-y-2026-ewfc-38",
+        "practitioner:ke.cprb",
+        "practitioner:ng.project-alert",
+        "practitioner:ng.wacol",
+        "practitioner:za.mosaic"
+      ]
+    },
+    {
+      "id": "ng.nacp",
+      "name": "Nigeria Association of Clinical Psychologists (NACP)",
+      "credentials": "National professional body for clinical psychologists in Nigeria; federal licensing under Nigerian Psychological Association / Federal Ministry of Health",
+      "city": "Federal (national)",
+      "region": "Nigeria national",
+      "affiliation": "NACP — national professional association",
+      "stance": "institutional",
+      "stance_notes": "No public PA-position notice located for NACP / NPA within time-budget search. Family-court PA jurisprudence in Nigeria operates under Matrimonial Causes Act + Child Rights Act 2003 (federal, adopted by 27 of 36 states with state-level variation) with best-interests-of-the-child as paramount (per Chancery, Strand & Lyon Associates legal opinion). FIDA Nigeria + Project Alert + WACOL carry the women-lawyer / DV-protective critique register cross-referenced under entries below. Nigeria's institutional clinical-psychology body — natural addressee for any Nigeria-side PA-training submission. No named Nigerian clinical-psychologist PA practitioner located within time-budget public-web search. Honest gap acknowledged.",
+      "publications": [
+        {
+          "title": "Clinical practice, training and advocacy programmes",
+          "year": 2020,
+          "venue": "NACP Nigeria"
+        },
+        {
+          "title": "No PA-specific position-paper or guideline located",
+          "year": 2026,
+          "venue": "NACP (silence is the finding)"
+        }
+      ],
+      "urls": [
+        "https://nacp.com.ng/",
+        "https://chancerystrandandlyon.org/2020/07/10/parental-alienation-a-legal-opinion-in-nigerian-law-definition-implications/"
+      ],
+      "contact": "https://nacp.com.ng/",
+      "verification_notes": "Listed as Nigeria professional body of record plus structural-finding-by-silence institutional entry.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:nigeria",
+        "practitioner:ng.project-alert",
+        "practitioner:ng.wacol"
+      ]
+    },
+    {
+      "id": "ng.project-alert",
+      "name": "Project Alert on Violence Against Women",
+      "credentials": "Institutional: Nigerian women's-rights NGO founded 1999; GBV / DV survivor support, court-support, and policy advocacy; shelter operator",
+      "city": "Lagos",
+      "region": "Lagos State",
+      "affiliation": "Project Alert on Violence Against Women (NGO)",
+      "stance": "critique",
+      "stance_notes": "Standing Nigerian women's-rights critique register. Project Alert operates the DV-protective frame in Lagos / federal advocacy under the Violence Against Persons (Prohibition) Act 2015 (VAPP) and Child Rights Act 2003. PA-construct critique is structural / DV-protective rather than published in clinical-academic form; the Nigeria critique register is institutional and women's-rights-organisation-led, not clinician-led. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.",
+      "publications": [
+        {
+          "title": "GBV / DV survivor support + court-support + shelter operations",
+          "year": 2020,
+          "venue": "Project Alert Lagos"
+        },
+        {
+          "title": "Advocacy under VAPP 2015 and Child Rights Act 2003",
+          "year": 2015,
+          "venue": "Project Alert Lagos"
+        }
+      ],
+      "urls": [
+        "https://projectalertnig.org/"
+      ],
+      "contact": "Via https://projectalertnig.org/ ; Lagos office",
+      "verification_notes": "Institutional-critique register entry. PA-specific position-paper not located; classified critique on structural-analogy basis with comparable women's-rights NGOs.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:nigeria",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "case-study:cassazione-9691-2022-italy",
+        "case-study:re-y-2026-ewfc-38",
+        "practitioner:ng.wacol",
+        "practitioner:ke.fida-kenya",
+        "practitioner:za.mosaic"
+      ]
+    },
+    {
+      "id": "ng.wacol",
+      "name": "Women's Aid Collective (WACOL)",
+      "credentials": "Institutional: Nigerian women's-rights NGO founded 1997; legal aid, GBV / DV survivor support, court-support, paralegal training, and policy advocacy",
+      "city": "Enugu",
+      "region": "Enugu State (national reach)",
+      "affiliation": "Women's Aid Collective (WACOL) — NGO; multiple regional offices",
+      "stance": "critique",
+      "stance_notes": "Standing Nigerian women's-rights critique register alongside Project Alert. WACOL operates the DV-protective frame in Enugu and federally under VAPP 2015 and Child Rights Act 2003; Tamar SARC (Sexual Assault Referral Centre) co-located. PA-construct critique is structural / DV-protective rather than published in clinical-academic form. The Nigeria critique register is institutional and women's-rights-organisation-led, not clinician-led. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.",
+      "publications": [
+        {
+          "title": "Legal aid + paralegal training + GBV survivor advocacy",
+          "year": 2020,
+          "venue": "WACOL Enugu"
+        },
+        {
+          "title": "Tamar Sexual Assault Referral Centre co-located programmes",
+          "year": 2018,
+          "venue": "WACOL / Tamar SARC"
+        }
+      ],
+      "urls": [
+        "https://wacolnigeria.org/"
+      ],
+      "contact": "Via https://wacolnigeria.org/ ; Enugu HQ",
+      "verification_notes": "Institutional-critique register entry. PA-specific position-paper not located; classified critique on structural-analogy basis with comparable women's-rights NGOs.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:nigeria",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "case-study:cassazione-9691-2022-italy",
+        "case-study:re-y-2026-ewfc-38",
+        "practitioner:ng.project-alert",
+        "practitioner:ke.fida-kenya",
+        "practitioner:za.mosaic"
+      ]
+    },
+    {
+      "id": "eg.nccm",
+      "name": "National Council for Childhood and Motherhood (NCCM), Egypt",
+      "credentials": "Statutory child-rights and family-policy body established by Presidential Decree 54/1988; formulates, coordinates, monitors and evaluates policy for protection and development of children and mothers in Egypt; operates Child Helpline 16000 and Child Rescue Department psychological-support / family-counselling unit; Safe Child Unit pilot across six governorates announced January 2026",
+      "city": "Cairo",
+      "region": "Egypt national",
+      "affiliation": "Statutory state body under Presidential Decree 54/1988",
+      "stance": "middle",
+      "stance_notes": "NCCM policy frame combines (a) psychological support, family counselling, behaviour modification, and speech therapy via Child Rescue Department + Helpline 16000 (66,645 calls Jan-Feb 2025; 3,457 complaints / assistance requests addressed) and (b) NCCM's 2016 public position (per Mada Masr 28 Dec 2016) opposing draft personal-status reforms that would have expanded non-custodial parent access on women-safety grounds — placing NCCM in middle / critique-leaning position on PA-adjacent custody-access reform under Egyptian Personal Status Law and Family Courts Law 10/2004. Specific direct PA-position notice not publicly confirmed. Egypt's standing statutory child-rights / family-policy body and state operator of Child Helpline psychological-support unit — only institutional Egyptian addressee with both a public stance on PA-adjacent custody-access reform (critique-leaning per 2016 Mada Masr) and operational psychological-support capacity. No named Egyptian PA clinical psychologist located within time-budget public-web search; NCCM is the institutional anchor.",
+      "publications": [
+        {
+          "title": "Child Helpline 16000 + Child Rescue Department psychological-support unit",
+          "year": 1988,
+          "venue": "NCCM"
+        },
+        {
+          "title": "Safe Child Unit (six-governorate pilot)",
+          "year": 2026,
+          "venue": "NCCM",
+          "url": "https://www.dailynewsegypt.com/2026/01/11/nccm-announces-integrated-protection-units-for-vulnerable-children-in-egypt/"
+        },
+        {
+          "title": "NCCM 2016 position opposing draft personal-status reforms expanding non-custodial parent access on women-safety grounds",
+          "year": 2016,
+          "venue": "Mada Masr, 28 Dec 2016",
+          "url": "https://www.madamasr.com/en/2016/12/28/feature/society/egypts-child-custody-laws-how-to-reform/"
+        }
+      ],
+      "urls": [
+        "https://hrightsstudies.sis.gov.eg/en/bodies/councils/local/the-national-council-for-childhood-and-motherhood/",
+        "https://sis.gov.eg/en/egypt/society/child-welfare/national-council-for-motherhood-and-childhood/",
+        "https://preventionhub.org/en/who-is-who/nccm-national-council-childhood-and-motherhood",
+        "https://www.dailynewsegypt.com/2026/01/11/nccm-announces-integrated-protection-units-for-vulnerable-children-in-egypt/",
+        "https://www.dailynewsegypt.com/2025/03/19/egypts-child-helpline-receives-over-66000-calls-in-2-months/",
+        "https://www.madamasr.com/en/2016/12/28/feature/society/egypts-child-custody-laws-how-to-reform/"
+      ],
+      "contact": "Child Helpline 16000 ; https://hrightsstudies.sis.gov.eg/en/bodies/councils/local/the-national-council-for-childhood-and-motherhood/",
+      "verification_notes": "Statutory state body (Presidential Decree 54/1988). 2016 Mada Masr is the strongest English-language source for NCCM's critique-leaning position on PA-adjacent custody-access reform.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:egypt",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "case-study:cassazione-9691-2022-italy",
+        "case-study:re-y-2026-ewfc-38"
+      ]
+    },
+    {
+      "id": "za.de-wit",
+      "name": "Dr de Wit",
+      "credentials": "Dr (title as cited in judgment; specific HPCSA category and registration number not publicly disclosed in the judgment text)",
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "affiliation": "Independent expert engaged in T.L.D v B.G [2023] ZAGPJHC 801 (no institutional affiliation disclosed in the public judgment record)",
+      "stance": "forensic-evaluator",
+      "stance_notes": "Court-engaged expert in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (Adams J, 13 July 2023). Per the judgment as summarised in primary South African family-law coverage, Dr de Wit assessed the father's personality dynamics and found that his behaviour was driven by pathological envy characterised as 'spoiling hostility' aimed at devastating the other parent, alongside narcissism and a sense of entitlement — a finding the court relied upon together with Mr Leonard Carr's child evaluation in ordering protective separation. This places De Wit as a forensic evaluator whose findings supported a recognition/protection outcome in a landmark SA parental-alienation judgment.",
+      "publications": [],
+      "urls": [
+        "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html",
+        "https://familylaws.co.za/parental-alienation-syndrome-landmark-case-south-africa/",
+        "https://familylaws.co.za/parental-alienation-south-africa-family-law/"
+      ],
+      "contact": "Not publicly confirmed",
+      "verification_notes": "Verified existence and forensic role via the SAFLII case citation and two independent primary-source South African family-law analyses of T.L.D v B.G [2023] ZAGPJHC 801 which both quote De Wit's findings on paternal narcissism / pathological envy. First name, HPCSA registration number, institutional affiliation and current practice address are NOT disclosed in the public judgment record or in any publicly indexed HPCSA / university / clinic page located within the search budget. Entry is recovered as a named expert in the case record but must remain narrowly scoped until HPCSA register direct-query (manual) or court transcript yields fuller identity.",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "case-study:tld-v-bg-2023-zagpjhc-801-south-africa",
+        "practitioner:za.carr-leonard"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "id": "za.grobler-jean",
+      "name": "Dr Jean Grobler",
+      "exclusion_reason": "Unverifiable — no public primary-source HPCSA / practice / publication record found under 'Jean Grobler'. Closest match is Dr Amanda Grobler (HPCSA PS0087793, Mental Health Information Centre listing) — no PA-specific publication or court-record activity verified.",
+      "primary_source_url": "https://www.hpcsa.co.za/?contentId=0&menuSubId=52&actionName=Profes",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa"
+      ]
+    },
+    {
+      "id": "za.welman-mark",
+      "name": "Dr Mark Welman",
+      "exclusion_reason": "Unverifiable — no public primary-source HPCSA / practice / publication record found in SA PA literature within time budget.",
+      "primary_source_url": "https://www.hpcsa.co.za/?contentId=0&menuSubId=52&actionName=Profes",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa"
+      ]
+    },
+    {
+      "id": "za.grosse-adele",
+      "name": "Dr Adele Grosse",
+      "exclusion_reason": "Unverifiable — no public primary-source HPCSA / practice / publication record found within time budget.",
+      "primary_source_url": "https://www.hpcsa.co.za/?contentId=0&menuSubId=52&actionName=Profes",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa"
+      ]
+    },
+    {
+      "id": "za.ebersohn-sinta",
+      "name": "Sinta Ebersohn (Fair Divorce)",
+      "exclusion_reason": "Out-of-scope for clinician-and-therapist file. Verified as Post-Traumatic-Growth Specialist / Mentor / Coach / Resilience Practitioner / Strategic Life Coach / Complimentary Therapist / Trauma Debriefing Specialist / Holistic Counsellor / Parenting Coach / Separation & Divorce Mentor / End of Life Doula / Training Provider per sintaebersohn.co.za. No psychology degree, social-work certification, mediation license, or HPCSA/SACSSP registration publicly displayed. PA-advocacy publication footprint (Fair Divorce, '67 Divorce Problems & Solutions', Elephant Journal, Huffington Post, IOL, News24) is substantial — recommend separate 'PA advocates and educators' directory.",
+      "primary_source_url": "https://sintaebersohn.co.za/",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa"
+      ]
+    },
+    {
+      "id": "za.watson-howard",
+      "name": "Howard Watson (attorney, PAFSA co-founder)",
+      "exclusion_reason": "Out-of-scope for therapists file — primarily attorney (Watson Law Incorporated), not a clinician; institutional contribution captured under PAFSA entry. Standalone attorney entry should be considered for /practitioners/lawyers/africa.md.",
+      "primary_source_url": "https://www.watsonlaw.co.za/",
+      "references": [
+        "jurisdiction:africa",
+        "jurisdiction:south-africa",
+        "practitioner:za.pafsa"
+      ]
+    }
+  ]
+}

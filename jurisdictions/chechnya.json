@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.0",
+  "id": "chechnya",
+  "name": "Chechen Republic (Чеченская Республика / Нохчийн Республика)",
+  "jurisdiction_code": "RU-CE",
+  "legal_system": "mixed",
+  "language": ["ru", "ce", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Chechen Republic (Russian: Чеченская Республика Chechenskaya Respublika / Chechen: Нохчийн Республика Noxçiyn Respublika) is a North Caucasus civil-law/Sharia-customary constituent republic of the Russian Federation — structurally distinctive globally as the central jurisdiction of two modern formal Russian-Chechen Wars (First Chechen War 11 December 1994 - 31 August 1996 + Second Chechen War 26 August 1999 - 16 April 2009 — cumulative ~150,000-250,000 deaths, only modern post-Soviet Russian sub-national territory subject to two formal full-scale wars with Russian Federation), as the only Russian sub-national republic with continuous de facto independence period 1991-1999 followed by Russian reintegration via armed force (Chechen Republic of Ichkeria 1991-2007 — declared independence 1 November 1991, de facto independent 1991-1999 + 1999-2007 nominal-government-in-exile-and-insurgency framework, only modern post-Soviet Russian sub-national territory with formal continuous independence-declaration framework), as the central jurisdiction of the most distinctive modern Russian sub-national de facto dual-legal-framework operating Russian civil-law + Sharia/Adat customary-law framework (Kadyrov era post-2007 framework — formal dual-framework operation despite formal constitutional secularism, distinct from rest-of-Russian-Federation operating uniform secular civil-law framework), and as the central jurisdiction of the formal Chechen-Ingush Deportation 1944-1957 historical framework (Soviet Operation Lentil 23 February 1944 — Stalin Soviet government deportation of ~478,000 Chechen + ~96,000 Ingush people to Central Asia + Siberia with ~25-50% mortality framework, formally recognised as Soviet genocide by European Parliament Resolution 26 February 2004). Chechnya historically operated under Chechen Imamate 1828-1859 (Imam Shamil Caucasian Imamate framework) + Russian Empire 1859-1917 + Soviet Mountain ASSR 1921-1924 + Soviet Chechen Autonomous Oblast 1922-1934 + Soviet Chechen-Ingush ASSR 1934-1944 + Soviet Deportation 1944-1957 (with formal abolition of Chechen-Ingush ASSR 1944) + restored Chechen-Ingush ASSR 1957-1991 + Chechen Republic of Ichkeria 1991-1999 + First Chechen War 1994-1996 + Second Chechen War 1999-2009 + Chechen Republic Russian Federation 2003+. Chechnya comprises ~17,300 km² with a population of ~1.5 million. Family-law framework operates under a dual federal Russian civil-law framework (Russian Family Code 1995 + Russian Civil Code 1994) + Kadyrov-era de facto Sharia/Adat customary-law family-law framework. The Supreme Court of Chechen Republic is the apex regional court; final appellate jurisdiction lies with the Supreme Court of the Russian Federation. Chechnya is silent on 'parental alienation' as a statutory label. Russia is a Hague Convention 1980 signatory and party (acceded 28 July 2011 effective 1 October 2011) — Chechnya is governed by Russian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Chechen Republic 2003",
+      "title": "Constitution of Chechen Republic 2003",
+      "year": 2003,
+      "url": "https://www.chechnya.gov.ru/",
+      "relevance": "Chechen Republic Constitution adopted 23 March 2003 — formal constitutional framework establishing Chechen Republic as constituent republic of Russian Federation, ending Chechen Republic of Ichkeria framework."
+    },
+    {
+      "citation": "Constitution of the Russian Federation 1993 Article 5 (Republics)",
+      "title": "Constitution of Russian Federation Article 5",
+      "year": 1993,
+      "url": "https://www.constitution.ru/",
+      "relevance": "Russian Constitutional Article 5 establishing republics as constituent subjects of Russian Federation — applicable to Chechnya."
+    },
+    {
+      "citation": "European Parliament Resolution 26 February 2004 (Chechen-Ingush Deportation genocide recognition)",
+      "title": "EP Resolution 26 February 2004",
+      "year": 2004,
+      "url": "https://www.europarl.europa.eu/",
+      "relevance": "European Parliament Resolution of 26 February 2004 — formal recognition of Soviet Chechen-Ingush Deportation 1944-1957 as Soviet genocide framework."
+    },
+    {
+      "citation": "Khasavyurt Accord 1996",
+      "title": "Khasavyurt Accord",
+      "year": 1996,
+      "url": "https://www.constitution.ru/",
+      "relevance": "Khasavyurt Accord signed 31 August 1996 — formal end of First Chechen War 1994-1996, framework for Chechen Republic of Ichkeria continuation."
+    },
+    {
+      "citation": "Russian Family Code 1995 + Russian Civil Code 1994",
+      "title": "Russian Family Code + Civil Code",
+      "year": 1995,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Russian Federal Family Code 1995 + Russian Federal Civil Code 1994 applicable uniformly across Chechnya."
+    },
+    {
+      "citation": "Hague Convention 1980 — Russian accession 28 July 2011",
+      "title": "Hague Convention 1980 — Russia",
+      "year": 2011,
+      "url": "https://www.hcch.net/",
+      "relevance": "Russian Hague Convention 1980 accession 28 July 2011 effective 1 October 2011 — applicable to Chechnya."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Chechen Republic (Верховный суд Чеченской Республики)",
+      "seat": "Grozny",
+      "url": "https://www.chechnya.gov.ru/",
+      "role": "Apex regional appellate court for civil and criminal matters from Chechnya."
+    },
+    {
+      "name": "Supreme Court of the Russian Federation (Верховный Суд Российской Федерации)",
+      "seat": "Moscow",
+      "url": "https://vsrf.ru/",
+      "role": "Final appellate court for civil and criminal matters from Chechnya."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of the Chechen Republic",
+      "url": "https://www.chechnya.gov.ru/",
+      "role": "Chechnya regional-level + Russian Federal professional regulatory framework applicable in Chechnya."
+    }
+  ],
+  "anonymisation_convention": "Chechnya family-court decisions are anonymised per Russian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1828,
+      "title": "Chechen Imamate established",
+      "description": "Caucasian Imamate established 1828 by Imam Ghazi Mollah + Imam Shamil — beginning of formal Chechen-Caucasian Islamic framework 1828-1859."
+    },
+    {
+      "year": 1944,
+      "title": "Operation Lentil + Chechen-Ingush Deportation",
+      "description": "Soviet Operation Lentil 23 February 1944 — Stalin Soviet government deportation of ~478,000 Chechen + ~96,000 Ingush people to Central Asia + Siberia with ~25-50% mortality framework + formal abolition of Chechen-Ingush ASSR."
+    },
+    {
+      "year": 1957,
+      "title": "Chechen-Ingush ASSR restoration",
+      "description": "Soviet Chechen-Ingush ASSR restored 9 January 1957 — return of Chechen + Ingush peoples to North Caucasus homeland."
+    },
+    {
+      "year": 1991,
+      "title": "Chechen Republic of Ichkeria + independence declaration",
+      "description": "Chechen Republic of Ichkeria declared independence 1 November 1991 — beginning of de facto independence framework 1991-1999."
+    },
+    {
+      "year": 1994,
+      "title": "First Chechen War begins",
+      "description": "First Chechen War 11 December 1994 - 31 August 1996 — first modern Russian-Chechen War with ~50,000-100,000 deaths."
+    },
+    {
+      "year": 1996,
+      "title": "Khasavyurt Accord + end of First War",
+      "description": "Khasavyurt Accord signed 31 August 1996 — formal end of First Chechen War, framework for Chechen Republic of Ichkeria continuation."
+    },
+    {
+      "year": 1999,
+      "title": "Second Chechen War begins",
+      "description": "Second Chechen War 26 August 1999 - 16 April 2009 — second modern Russian-Chechen War with ~100,000-150,000 deaths."
+    },
+    {
+      "year": 2003,
+      "title": "Constitution of Chechen Republic",
+      "description": "Chechen Republic Constitution adopted 23 March 2003 — formal constitutional framework establishing Chechen Republic as constituent republic of Russian Federation."
+    },
+    {
+      "year": 2004,
+      "title": "EU recognition of Chechen-Ingush genocide",
+      "description": "European Parliament Resolution of 26 February 2004 — formal recognition of Soviet Chechen-Ingush Deportation 1944-1957 as Soviet genocide framework."
+    },
+    {
+      "year": 2007,
+      "title": "Kadyrov era begins",
+      "description": "Ramzan Kadyrov inaugurated as Head of Chechen Republic 5 April 2007 — beginning of Kadyrov-era post-2007 framework + formal dual-framework Russian civil-law + Sharia/Adat customary-law framework."
+    },
+    {
+      "year": 2009,
+      "title": "Second Chechen War ends",
+      "description": "Second Chechen War formally ended 16 April 2009 — end of formal counterterrorist-operation framework."
+    }
+  ],
+  "structural_findings": [
+    "Chechnya operates a mixed federal Russian civil-law + de facto Sharia/Adat customary-law constituent republic framework — places Chechnya in the North Caucasus Russian Republic cluster.",
+    "Central jurisdiction of two modern formal Russian-Chechen Wars is structurally distinctive globally — only modern post-Soviet Russian sub-national territory subject to two formal full-scale wars with Russian Federation.",
+    "Only Russian sub-national republic with continuous de facto independence period 1991-1999 followed by Russian reintegration via armed force is structurally distinctive globally — Chechen Republic of Ichkeria 1991-2007.",
+    "Central jurisdiction of most distinctive modern Russian sub-national de facto dual-legal-framework is structurally distinctive globally — Kadyrov era post-2007 formal dual Russian civil-law + Sharia/Adat customary-law framework.",
+    "Central jurisdiction of formal Chechen-Ingush Deportation 1944-1957 historical framework is structurally distinctive globally — Soviet Operation Lentil with ~25-50% mortality framework + formal European Parliament genocide recognition 2004.",
+    "1828-1859 Caucasian Imamate framework is structurally distinctive globally — only modern Russian sub-national republic with continuous Caucasian Imamate historical-cultural-political-Islamic framework.",
+    "Khasavyurt Accord 1996 framework is structurally distinctive globally — only modern formal Russian-government-recognised end-of-war agreement with breakaway Russian sub-national territory.",
+    "Russian Hague-Convention-1980-accession-2011 framework applies."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:georgia",
+    "jurisdiction:turkey",
+    "jurisdiction:ukraine",
+    "jurisdiction:dagestan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Chechen Republic",
+      "url": "https://www.chechnya.gov.ru/",
+      "publisher": "Chechen Republic Government",
+      "language": "ru"
+    },
+    {
+      "title": "European Parliament",
+      "url": "https://www.europarl.europa.eu/",
+      "publisher": "European Parliament",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Chechen Republic jurisdiction sidecar — mixed federal Russian civil-law/Sharia-Adat customary-law North Caucasus Russian constituent republic (Constitution of Chechen Republic 2003 + Constitution of Russian Federation 1993 Article 5 + European Parliament Resolution 26 February 2004 + Khasavyurt Accord 1996 + Russian Family Code 1995 + Caucasian Imamate 1828-1859 + Operation Lentil 1944 + Chechen-Ingush Deportation 1944-1957 + 1957 restoration + Chechen Republic of Ichkeria 1991-2007 + First Chechen War 1994-1996 + Second Chechen War 1999-2009 + Kadyrov era 2007+ + Russian Hague-1980). Central jurisdiction of two modern formal Russian-Chechen Wars + only Russian sub-national republic with continuous de facto independence period 1991-1999 + central jurisdiction of most distinctive modern Russian sub-national de facto dual-legal-framework + central jurisdiction of formal Chechen-Ingush Deportation 1944-1957 historical framework + Caucasian Imamate 1828-1859 historical framework + Khasavyurt Accord 1996 only formal Russian-government-recognised end-of-war agreement.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-Caucasus + mixed Russian-civil-law/Sharia-Adat-customary-law + Russian-Republic cluster + First-Chechen-War-1994-1996 + Second-Chechen-War-1999-2009 + Khasavyurt-Accord-1996-globally-distinctive + Chechen-Republic-of-Ichkeria-1991-2007-de-facto-independence + Kadyrov-era-2007-dual-legal-framework + Caucasian-Imamate-1828-1859 + Operation-Lentil-1944-Chechen-Ingush-Deportation + EU-2004-genocide-recognition + Russian-Hague-1980-2011 clusters within the corpus."
+  ]
+}

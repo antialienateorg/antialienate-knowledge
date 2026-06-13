@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.0",
+  "id": "ilo-constitution",
+  "name": "ILO Constitution 1919 (International Labour Organization)",
+  "jurisdiction_code": "ILO",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The International Labour Organization (ILO) Constitution is a global supranational meta-framework labour-rights tripartite-structure binding-treaty instrument established by Part XIII of the Treaty of Versailles — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on labour-rights framework via formal tripartite-structure framework (ILO Constitution adopted 28 June 1919 as Part XIII of Treaty of Versailles + effective 10 January 1920 + 1944 Declaration of Philadelphia incorporated as Annex 1946 — formal universal multilateral binding-treaty framework establishing comprehensive labour-rights framework, distinct from rest-of-modern-international-treaty frameworks which operate as binary state-state frameworks, structurally distinctive globally as the oldest UN specialized agency + only UN specialized agency operating formal tripartite-structure framework with governments + employers + workers framework + first UN specialized agency framework), as the central jurisdiction of the formal ILO Tripartite Structure framework (ILO Constitution Article 3 framework providing formal tripartite-structure with governments + employers + workers framework where each ILO member-state delegation consists of two government delegates + one employer delegate + one worker delegate — formal foundational tripartite-structure framework, structurally distinctive globally as the only modern UN specialized agency operating formal tripartite-structure framework), as the central jurisdiction of the formal 1998 ILO Declaration on Fundamental Principles and Rights at Work framework (ILO Declaration on Fundamental Principles and Rights at Work adopted 18 June 1998 + amended 10 June 2022 to include occupational safety + health framework providing five fundamental principles: freedom of association + effective recognition of right to collective bargaining + elimination of forced labour + abolition of child labour + elimination of discrimination + occupational safety + health — formal foundational fundamental-labour-rights framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal fundamental-labour-rights framework), and as the central jurisdiction of the formal ILO 191 Conventions + 208 Recommendations framework (ILO 191 Conventions including 8 fundamental ILO Conventions + 4 governance ILO Conventions + 178 technical ILO Conventions + 208 Recommendations — formal foundational labour-standards framework, structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating formal comprehensive labour-standards framework). The ILO Constitution is binding upon 187 ILO member states as of 2026 — substantial universal coverage framework. The Constitution is silent on 'parental alienation' as a statutory label, though formal ILO Convention 156 Workers with Family Responsibilities 1981 + ILO Convention 183 Maternity Protection 2000 + ILO Convention 189 Domestic Workers 2011 frameworks operate substantial intersection with parental-alienation framework via formal work-family-reconciliation framework. The ILO International Labour Conference ILC + ILO Governing Body + ILO International Labour Office Director-General + ILO Committee of Experts on the Application of Conventions and Recommendations CEACR + ILO Committee on Freedom of Association CFA are the formal ILO bodies; national-level apex courts operate as judicial bodies. The ILO Constitution is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "ILO Constitution 1919",
+      "title": "ILO Constitution",
+      "year": 1919,
+      "url": "https://www.ilo.org/",
+      "relevance": "ILO Constitution adopted 28 June 1919 as Part XIII of Treaty of Versailles + effective 10 January 1920 — formal universal multilateral binding-treaty framework establishing comprehensive labour-rights framework."
+    },
+    {
+      "citation": "1944 Declaration of Philadelphia",
+      "title": "Declaration of Philadelphia",
+      "year": 1944,
+      "url": "https://www.ilo.org/",
+      "relevance": "ILO Declaration concerning the aims and purposes of the International Labour Organisation adopted 10 May 1944 in Philadelphia + incorporated as Annex to ILO Constitution 1946 — formal foundational ILO purposes framework."
+    },
+    {
+      "citation": "ILO Constitution Article 3 (Tripartite Structure Framework)",
+      "title": "ILO Constitution Article 3",
+      "year": 1919,
+      "url": "https://www.ilo.org/",
+      "relevance": "ILO Constitution Article 3 framework on tripartite-structure — formal foundational tripartite-structure framework."
+    },
+    {
+      "citation": "1998 ILO Declaration on Fundamental Principles and Rights at Work",
+      "title": "1998 ILO Declaration",
+      "year": 1998,
+      "url": "https://www.ilo.org/",
+      "relevance": "ILO Declaration on Fundamental Principles and Rights at Work adopted 18 June 1998 + amended 10 June 2022 — formal foundational fundamental-labour-rights framework."
+    },
+    {
+      "citation": "ILO Convention 156 (Workers with Family Responsibilities) 1981",
+      "title": "ILO Convention 156",
+      "year": 1981,
+      "url": "https://www.ilo.org/",
+      "relevance": "ILO Convention 156 on Workers with Family Responsibilities adopted 23 June 1981 + effective 11 August 1983 — formal ILO work-family-reconciliation framework with PA-intersection framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "ILO International Labour Conference (ILC)",
+      "seat": "Geneva",
+      "url": "https://www.ilo.org/",
+      "role": "Formal supreme decision-making body for ILO."
+    },
+    {
+      "name": "ILO Governing Body",
+      "seat": "Geneva",
+      "url": "https://www.ilo.org/",
+      "role": "Formal executive body for ILO."
+    },
+    {
+      "name": "ILO Committee of Experts on the Application of Conventions and Recommendations (CEACR)",
+      "seat": "Geneva",
+      "url": "https://www.ilo.org/",
+      "role": "Apex supervisory framework body for ILO."
+    },
+    {
+      "name": "ILO Committee on Freedom of Association (CFA)",
+      "seat": "Geneva",
+      "url": "https://www.ilo.org/",
+      "role": "Formal freedom-of-association complaints framework body for ILO."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ILO International Labour Office",
+      "url": "https://www.ilo.org/",
+      "role": "ILO Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ILO-related complaints operate via tripartite framework; individual communications not formally accepted under ILO framework except via CFA freedom-of-association complaints procedure.",
+  "key_developments": [
+    {
+      "year": 1919,
+      "title": "ILO Constitution adopted",
+      "description": "ILO Constitution adopted 28 June 1919 as Part XIII of Treaty of Versailles — formal universal multilateral binding-treaty framework adopted."
+    },
+    {
+      "year": 1920,
+      "title": "ILO Constitution enters force",
+      "description": "ILO Constitution entered force 10 January 1920 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1944,
+      "title": "Declaration of Philadelphia",
+      "description": "ILO Declaration concerning the aims and purposes of the International Labour Organisation adopted 10 May 1944 in Philadelphia — formal foundational ILO purposes framework + incorporated as Annex to ILO Constitution 1946."
+    },
+    {
+      "year": 1946,
+      "title": "ILO first UN specialized agency",
+      "description": "ILO became first UN specialized agency 14 December 1946 — formal UN specialized agency framework operational."
+    },
+    {
+      "year": 1969,
+      "title": "ILO Nobel Peace Prize",
+      "description": "ILO awarded Nobel Peace Prize 10 December 1969 — formal recognition of ILO labour-rights framework."
+    },
+    {
+      "year": 1998,
+      "title": "ILO Declaration on Fundamental Principles and Rights at Work",
+      "description": "ILO Declaration on Fundamental Principles and Rights at Work adopted 18 June 1998 — formal foundational fundamental-labour-rights framework."
+    },
+    {
+      "year": 2019,
+      "title": "ILO Centenary Declaration",
+      "description": "ILO Centenary Declaration for the Future of Work adopted 21 June 2019 — formal ILO centenary framework + Future of Work framework."
+    },
+    {
+      "year": 2022,
+      "title": "ILO 1998 Declaration amended to include OSH",
+      "description": "ILO 1998 Declaration on Fundamental Principles and Rights at Work amended 10 June 2022 to include occupational safety + health OSH as fifth fundamental principle — formal expansion of fundamental-labour-rights framework."
+    }
+  ],
+  "structural_findings": [
+    "ILO Constitution operates a supranational universal multilateral binding-treaty framework — places ILO Constitution in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on labour-rights framework via formal tripartite-structure framework is structurally distinctive globally — oldest UN specialized agency + only UN specialized agency operating formal tripartite-structure framework + first UN specialized agency framework.",
+    "Central jurisdiction of formal ILO Tripartite Structure framework is structurally distinctive globally — only modern UN specialized agency operating formal tripartite-structure framework with governments + employers + workers framework.",
+    "Central jurisdiction of formal 1998 ILO Declaration on Fundamental Principles and Rights at Work framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal fundamental-labour-rights framework with five fundamental principles including 2022-added OSH framework.",
+    "Central jurisdiction of formal ILO 191 Conventions + 208 Recommendations framework is structurally distinctive globally — only modern universal multilateral binding-treaty framework operating formal comprehensive labour-standards framework.",
+    "187 ILO member state ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1919 ILO Constitution + 1920 entry into force + 1944 Declaration of Philadelphia + 1946 first UN specialized agency + 1969 Nobel Peace Prize + 1998 Fundamental Principles Declaration + 2019 Centenary Declaration + 2022 OSH amendment ILO-framework-development sequence is structurally distinctive globally.",
+    "ILO Convention 156 Workers with Family Responsibilities 1981 + ILO Convention 183 Maternity Protection 2000 + ILO Convention 189 Domestic Workers 2011 formal triad framework with formal work-family-reconciliation PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "ILO",
+      "url": "https://www.ilo.org/",
+      "publisher": "International Labour Organization",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ILO Constitution jurisdiction sidecar — supranational global labour-rights tripartite-structure universal multilateral binding-treaty meta-framework (ILO Constitution 1919/1920 + 1944 Declaration of Philadelphia + Article 3 Tripartite Structure + 1998 Declaration on Fundamental Principles and Rights at Work + 2022 OSH amendment + ILO Convention 156 Workers with Family Responsibilities 1981 + 191 Conventions + 208 Recommendations + 2019 Centenary Declaration). Only modern universal multilateral binding-treaty framework operating specifically on labour-rights framework via formal tripartite-structure framework globally + oldest UN specialized agency + only UN specialized agency operating formal tripartite-structure framework + central jurisdiction of formal 1998 Fundamental Principles + central jurisdiction of formal 191 Conventions + 208 Recommendations + 187 ILO member state ratification framework + 1919 ILO Constitution + 1920 entry into force + 1944 Declaration of Philadelphia + 1946 first UN specialized agency + 1969 Nobel Peace Prize + 1998 Fundamental Principles + 2019 Centenary + 2022 OSH ILO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ILO Convention 156 Workers with Family Responsibilities + ILO Convention 183 Maternity Protection + ILO Convention 189 Domestic Workers frameworks operate substantial intersection with parental-alienation framework via formal work-family-reconciliation framework.",
+    "Joins global + supranational + universal-multilateral-labour-rights-tripartite-binding-treaty cluster + ILO-only-universal-labour-rights-tripartite-binding-treaty-globally-distinctive + Article-3-Tripartite-Structure + 1944-Declaration-of-Philadelphia + 1998-Fundamental-Principles-and-Rights-at-Work + 2022-OSH-Fifth-Fundamental-Principle + ILO-Convention-156-Workers-Family-Responsibilities + ILO-Convention-183-Maternity-Protection + ILO-Convention-189-Domestic-Workers + 187-ILO-member-state-substantial-coverage + oldest-UN-specialized-agency + first-UN-specialized-agency-1946 + 1969-Nobel-Peace-Prize + 2019-Centenary-Declaration + work-family-reconciliation-PA-intersection clusters within the corpus."
+  ]
+}

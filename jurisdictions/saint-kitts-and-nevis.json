@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "id": "saint-kitts-and-nevis",
+  "name": "Saint Kitts and Nevis (Federation of Saint Christopher and Nevis)",
+  "jurisdiction_code": "KN",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Saint Kitts and Nevis is a Caribbean common-law constitutional monarchy and federal state (two-island federation with Saint Christopher and Nevis as constituent units) whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance Act, the Status of Children Act, the Child Justice Act 2013, and the Child (Care and Adoption) Act 2013. Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Saint Kitts and Nevis) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Saint Kitts and Nevis is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Saint Kitts and Nevis is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Child (Care and Adoption) Act 2013",
+      "title": "Child (Care and Adoption) Act",
+      "year": 2013,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal Act codifying child welfare, custody, and adoption provisions."
+    },
+    {
+      "citation": "Child Justice Act 2013",
+      "title": "Child Justice Act",
+      "year": 2013,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal Act codifying child justice and protection provisions."
+    },
+    {
+      "citation": "Status of Children Act",
+      "title": "Status of Children Act",
+      "year": 1991,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on legal status of children."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eastern Caribbean Supreme Court — Court of Appeal",
+      "seat": "Basseterre",
+      "url": "https://www.eccourts.org/",
+      "role": "Apex domestic appellate court for OECS states including Saint Kitts and Nevis."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Saint Kitts and Nevis."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Saint Kitts and Nevis",
+      "url": "https://www.health.gov.kn/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Kittitian/Nevisian family-court decisions are anonymised per Eastern Caribbean Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1983,
+      "title": "Independence — federal state",
+      "description": "Saint Kitts and Nevis achieved independence from the United Kingdom as a federal state — only federal state in OECS Anglophone Caribbean."
+    },
+    {
+      "year": 2013,
+      "title": "Child Justice Act + Child (Care and Adoption) Act",
+      "description": "Federal Acts codifying child welfare, custody, justice, and adoption provisions."
+    }
+  ],
+  "structural_findings": [
+    "Saint Kitts and Nevis operates a common-law framework — places Saint Kitts and Nevis in the OECS-Anglophone Caribbean common-law cluster.",
+    "Federal state structure (Saint Christopher + Nevis as constituent units) is structurally distinctive — only federal state in OECS Anglophone Caribbean within the corpus.",
+    "Eastern Caribbean Supreme Court appellate jurisdiction places Saint Kitts and Nevis in the OECS-shared-judicial-system cluster.",
+    "Non-Hague Convention status places Saint Kitts and Nevis in the non-Hague Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:dominica",
+    "jurisdiction:antigua-and-barbuda",
+    "jurisdiction:saint-lucia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Caribbean Supreme Court",
+      "url": "https://www.eccourts.org/",
+      "publisher": "ECSC",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Saint Kitts and Nevis jurisdiction sidecar — common-law Caribbean federal state (Child Justice Act 2013 + Child Care and Adoption Act 2013 + OECS-ECSC + JCPC + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins OECS-Anglophone Caribbean + common-law + federal-state-distinctive + OECS-shared-judicial-system + JCPC-final-appellate + non-Hague Convention clusters within the corpus."
+  ]
+}

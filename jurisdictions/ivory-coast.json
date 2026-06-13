@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "id": "ivory-coast",
+  "name": "Côte d'Ivoire (Republic of Côte d'Ivoire / République de Côte d'Ivoire)",
+  "jurisdiction_code": "CI",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Côte d'Ivoire is a West African civil-law republic whose family-law framework operates under the Family Code (Civil Code Book I, as substantially amended by Law 64-375 of 1964 and Law 83-799 of 1983, with major reform via Law 2019-573 of 2019) governing marriage, parental authority and child custody. Parental authority and child custody are governed by Civil Code arts. 17-29 (post-2019 reform). The Supreme Court (Cour suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance), with specialised Family-Tribunal procedure. Psychology profession is regulated through the Ministry of Health framework. Côte d'Ivoire is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Côte d'Ivoire is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code Book I (as amended Law 2019-573)",
+      "title": "Civil Code Book I — Marriage and Family",
+      "year": 1964,
+      "url": "https://www.justice.gouv.ci/",
+      "relevance": "Federal Civil Code drawing on French civil-law substantive heritage. Substantively reformed 1983 (Law 83-799) and 2019 (Law 2019-573) — 2019 reform codifying gender-equal marriage, parental authority and divorce provisions."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour suprême)",
+      "seat": "Yamoussoukro",
+      "url": "https://www.coursupreme.ci/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Council (Conseil constitutionnel)",
+      "seat": "Abidjan",
+      "url": "https://www.conseil-constitutionnel.ci/",
+      "role": "Constitutional Council with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Côte d'Ivoire",
+      "url": "https://www.sante.gouv.ci/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Ivorian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1964,
+      "title": "Civil Code Book I (Law 64-375)",
+      "description": "Federal Civil Code Book I enacted post-independence drawing on French civil-law substantive heritage."
+    },
+    {
+      "year": 1983,
+      "title": "Civil Code 1983 reform (Law 83-799)",
+      "description": "Substantial reform of family-law provisions."
+    },
+    {
+      "year": 2019,
+      "title": "Civil Code 2019 reform (Law 2019-573)",
+      "description": "Major reform codifying gender-equal marriage, parental authority and divorce provisions."
+    }
+  ],
+  "structural_findings": [
+    "Côte d'Ivoire operates a French-civil-law family-law framework with substantial 1964 and 1983 and 2019 reform trajectory — 2019 reform places Côte d'Ivoire among the more recent gender-equality codifications within the Francophone West African cluster.",
+    "Non-Hague Convention status places Côte d'Ivoire in the non-Hague West African cluster — structural distinction from Hague-acceding Senegal.",
+    "Civil-law framework without Islamic-law personal-status hybrid distinguishes Côte d'Ivoire from Senegal's hybrid framework within the Francophone West African cluster."
+  ],
+  "references": [
+    "jurisdiction:senegal",
+    "jurisdiction:france",
+    "jurisdiction:cameroon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Côte d'Ivoire",
+      "url": "https://www.coursupreme.ci/",
+      "publisher": "Supreme Court",
+      "language": "fr"
+    },
+    {
+      "title": "Constitutional Council",
+      "url": "https://www.conseil-constitutionnel.ci/",
+      "publisher": "Constitutional Council",
+      "language": "fr"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.justice.gouv.ci/",
+      "publisher": "Ministry of Justice",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "Côte d'Ivoire jurisdiction sidecar — civil-law Francophone West Africa (French civil-law substantive heritage, 1964 → 1983 → 2019 reform trajectory). Non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins West African + Francophone + civil-law + non-Hague Convention clusters within the corpus."
+  ]
+}

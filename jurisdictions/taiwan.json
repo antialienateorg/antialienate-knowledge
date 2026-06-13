@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.0",
+  "id": "taiwan",
+  "name": "Taiwan (Republic of China / 中華民國)",
+  "jurisdiction_code": "TW",
+  "legal_system": "civil-law",
+  "language": ["zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Taiwan is an East Asian civil-law constitutional democracy whose family-law framework operates under the Civil Code of the Republic of China Book IV (Family) arts. 1051-1140 governing marriage, parental rights and child custody. The friendly-parent doctrine (善意父母原則) was statutorily codified in art. 1055-1 in the 2013 amendment — among the earliest statutory friendly-parent provisions globally, placing Taiwan in a structurally distinctive position within the corpus. The Supreme Court (最高法院) is the apex court for civil and criminal matters; the Constitutional Court (憲法法庭, formerly Council of Grand Justices) operates constitutional review. The Family Act 2012 (家事事件法) established specialised Family Courts (家事法庭) with integrated psychological assessment and mediation. Psychology profession is regulated under the Psychologists Act 2001 with the Ministry of Health and Welfare Counselling/Clinical Psychologist licensing framework. Taiwan applies the child's-best-interests standard codified in Civil Code art. 1055. Taiwan is not a Hague Convention 1980 party due to its non-UN status; bilateral arrangements operate in lieu.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code of the ROC Book IV arts. 1055, 1055-1, 1059",
+      "title": "Civil Code — Parental rights and custody",
+      "year": 1930,
+      "url": "https://law.moj.gov.tw/",
+      "relevance": "Federal civil code Book IV on Family. Art. 1055 governs custody on divorce; art. 1055-1 codifies the friendly-parent doctrine (2013 amendment) — among the earliest statutory friendly-parent provisions globally."
+    },
+    {
+      "citation": "Family Act 2012 (家事事件法)",
+      "title": "Family Act — Family Court procedure",
+      "year": 2012,
+      "url": "https://law.moj.gov.tw/",
+      "relevance": "Federal procedural statute establishing specialised Family Courts and Family-Tribunal procedure with integrated psychological assessment and mediation."
+    },
+    {
+      "citation": "Psychologists Act 2001",
+      "title": "Psychologists Act",
+      "year": 2001,
+      "url": "https://law.moj.gov.tw/",
+      "relevance": "Federal statute regulating psychology profession with Counselling Psychologist and Clinical Psychologist licensing categories under Ministry of Health and Welfare."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the ROC (最高法院)",
+      "seat": "Taipei",
+      "url": "https://tps.judicial.gov.tw/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (憲法法庭)",
+      "seat": "Taipei",
+      "url": "https://cons.judicial.gov.tw/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review (restructured 2022 from Council of Grand Justices)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Welfare — Psychologist Licensing",
+      "url": "https://www.mohw.gov.tw/",
+      "role": "Federal regulator administering Psychologists Act 2001 with Counselling and Clinical Psychologist registration."
+    },
+    {
+      "name": "Taiwanese Psychological Association",
+      "url": "https://www.tpa-tw.org/",
+      "role": "Peak professional association for psychologists in Taiwan."
+    }
+  ],
+  "anonymisation_convention": "Taiwanese family-court decisions are anonymised per Judicial Yuan practice; published decisions use surname + first character only or full anonymisation.",
+  "key_developments": [
+    {
+      "year": 1930,
+      "title": "Civil Code Book IV enacted",
+      "description": "Federal civil code Book IV on Family enacted."
+    },
+    {
+      "year": 2001,
+      "title": "Psychologists Act",
+      "description": "Federal statute regulating psychology profession enacted."
+    },
+    {
+      "year": 2012,
+      "title": "Family Act establishing Family Courts",
+      "description": "Federal procedural statute establishing specialised Family Courts with integrated psychological assessment and mediation."
+    },
+    {
+      "year": 2013,
+      "title": "Civil Code art. 1055-1 friendly-parent codification",
+      "description": "Friendly-parent doctrine codified in art. 1055-1 — among the earliest statutory friendly-parent provisions globally."
+    },
+    {
+      "year": 2022,
+      "title": "Constitutional Court restructure",
+      "description": "Council of Grand Justices restructured as Constitutional Court (憲法法庭)."
+    }
+  ],
+  "structural_findings": [
+    "Taiwan is structurally distinctive within the East Asian cluster for the 2013 statutory codification of the friendly-parent doctrine in Civil Code art. 1055-1 — among the earliest such codifications globally, predating most Anglosphere reforms.",
+    "Specialised Family Courts under Family Act 2012 with integrated psychological assessment and mediation align Taiwan with the East Asian specialised-Family-Court cluster (Japan, Korea).",
+    "Psychologists Act 2001 provides federal-statutory psychology regulation — places Taiwan in the federal-regulator cluster alongside Japan and Korea.",
+    "Non-Hague Convention status due to UN-status constraint, not policy choice — structurally distinct from policy-driven non-Hague jurisdictions."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:japan",
+    "jurisdiction:south-korea",
+    "jurisdiction:hong-kong",
+    "evidence:friendly-parent-doctrine-comparative",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of the ROC",
+      "url": "https://tps.judicial.gov.tw/",
+      "publisher": "Judicial Yuan",
+      "language": "zh,en"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://cons.judicial.gov.tw/",
+      "publisher": "Judicial Yuan",
+      "language": "zh,en"
+    },
+    {
+      "title": "Laws and Regulations Database",
+      "url": "https://law.moj.gov.tw/",
+      "publisher": "Ministry of Justice",
+      "language": "zh,en"
+    },
+    {
+      "title": "Ministry of Health and Welfare",
+      "url": "https://www.mohw.gov.tw/",
+      "publisher": "MOHW",
+      "language": "zh,en"
+    }
+  ],
+  "editorial_notes": [
+    "Taiwan jurisdiction sidecar — civil-law framework. Civil Code Book IV + Family Act 2012 + 2013 friendly-parent codification + Psychologists Act 2001 + non-Hague (UN-status constraint).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator; substantive friendly-parent doctrine codified independently of PA framing.",
+    "Joins East Asian + civil-law + friendly-parent-statutory + federal-psychology-regulator clusters within the corpus."
+  ]
+}

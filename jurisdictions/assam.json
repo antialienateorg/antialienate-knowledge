@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "id": "assam",
+  "name": "Assam (অসম)",
+  "jurisdiction_code": "IN-AS",
+  "legal_system": "mixed",
+  "language": ["en", "as", "bn", "brx"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Assam (অসম in Assamese) is a North-eastern Indian Brahmaputra-Valley mixed common-law/Bodo/Karbi/Dimasa-customary-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state operating multi-tier Constitution Sixth Schedule tribal-autonomy framework with three constitutionally-recognised Autonomous Councils (Bodoland Territorial Council established via Bodoland Territorial Council Act 2003 covering ~8,970 km² Bodoland Territorial Region; Karbi Anglong Autonomous Council covering ~10,434 km² Karbi Anglong District; Dima Hasao Autonomous Council covering ~4,888 km² Dima Hasao District), as the parent state from which six modern Indian North-eastern states were carved out (Nagaland 1963 + Meghalaya 1972 + Arunachal Pradesh 1987 + Mizoram 1987 + Manipur 1972 + Tripura 1972 — Assam is the foundational parent state of the North-East), and as the central jurisdiction of the National Register of Citizens (NRC) 2019 framework — the only modern formal Indian-state-level citizenship-verification exercise (excluded ~1.9 million from final NRC list, generating substantial legal and constitutional controversy). Assam was historically the Ahom Kingdom 1228-1826 before British conquest. Assam comprises ~78,438 km² with a population of ~32 million. Family-law framework operates under a dual federal Indian common-law + Bodo/Karbi/Dimasa customary-law framework with customary law applied via Autonomous Council customary courts under Sixth Schedule framework. The Gauhati High Court (Guwahati seat) is the apex domestic appellate court for Assam (and historically for the broader North-east before separate state High Courts were established 2013+); final appellate jurisdiction lies with the Supreme Court of India. Assam is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Assam is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of India Sixth Schedule (Assam Autonomous District Councils)",
+      "title": "Constitution Sixth Schedule",
+      "year": 1950,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Sixth Schedule establishing tribal-areas autonomous-district-council framework applicable in Assam — Bodoland Territorial Council + Karbi Anglong Autonomous Council + Dima Hasao Autonomous Council."
+    },
+    {
+      "citation": "Bodoland Territorial Council Act 2003 + Memorandum of Settlement 2003",
+      "title": "Bodoland Territorial Council Act + 2003 Bodo Accord",
+      "year": 2003,
+      "url": "https://www.bodoland.gov.in/",
+      "relevance": "Indian Government - Bodo Liberation Tigers Memorandum of Settlement of 10 February 2003 + Bodoland Territorial Council Act 2003 establishing Bodoland Territorial Region within Assam."
+    },
+    {
+      "citation": "Third Bodo Accord 2020 + Bodoland Territorial Council reform",
+      "title": "Third Bodo Accord",
+      "year": 2020,
+      "url": "https://www.bodoland.gov.in/",
+      "relevance": "Indian Government - NDFB factions Memorandum of Settlement of 27 January 2020 establishing comprehensive Bodoland Territorial Council reform framework — Bodoland Territorial Region renamed Bodoland Territorial Region (BTR)."
+    },
+    {
+      "citation": "Citizenship Act 1955 + National Register of Citizens (NRC) Assam 2019",
+      "title": "Citizenship Act + Assam NRC 2019",
+      "year": 2019,
+      "url": "https://nrcassam.nic.in/",
+      "relevance": "Indian Federal framework for Assam NRC 2019 — only modern formal Indian-state-level citizenship-verification exercise."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Gauhati High Court",
+      "seat": "Guwahati",
+      "url": "https://www.ghconline.gov.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Assam — and historically for broader North-east before separate state High Courts."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Assam."
+    },
+    {
+      "name": "Bodoland Territorial Council + Karbi Anglong Autonomous Council + Dima Hasao Autonomous Council (customary courts)",
+      "seat": "Various Assam district headquarters",
+      "url": "https://www.assam.gov.in/",
+      "role": "Autonomous Council customary courts operating under Sixth Schedule framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Assam."
+    }
+  ],
+  "anonymisation_convention": "Assam family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1228,
+      "title": "Ahom Kingdom founded",
+      "description": "Ahom Kingdom of Assam founded 1228 by Chao Lung Sukapha — Assam historical sovereign framework 1228-1826."
+    },
+    {
+      "year": 1826,
+      "title": "Treaty of Yandabo + British rule",
+      "description": "Treaty of Yandabo of 24 February 1826 — Assam ceded to British East India Company following First Anglo-Burmese War."
+    },
+    {
+      "year": 1950,
+      "title": "Sixth Schedule applicable to Assam tribal areas",
+      "description": "Constitution of India Sixth Schedule effective 26 January 1950 applicable to Assam tribal areas."
+    },
+    {
+      "year": 1963,
+      "title": "Nagaland carved from Assam",
+      "description": "Nagaland formed as 16th state of India on 1 December 1963 — first state carved out of Assam."
+    },
+    {
+      "year": 1972,
+      "title": "Meghalaya + Manipur + Tripura carved from Assam (Meghalaya only)",
+      "description": "Meghalaya formed as 21st state on 21 January 1972 via North-Eastern Areas (Reorganisation) Act 1971 — second state carved out of Assam."
+    },
+    {
+      "year": 1985,
+      "title": "Assam Accord",
+      "description": "Assam Accord of 15 August 1985 — Indian Government - All Assam Students' Union Memorandum of Settlement establishing framework for foreigner-identification and citizenship-verification in Assam."
+    },
+    {
+      "year": 2003,
+      "title": "Bodoland Territorial Council Act + 2003 Bodo Accord",
+      "description": "Bodoland Territorial Council Act 2003 establishing Bodoland Territorial Region within Assam."
+    },
+    {
+      "year": 2019,
+      "title": "Assam NRC 2019 final list published",
+      "description": "Assam National Register of Citizens 2019 final list published 31 August 2019 — excluded ~1.9 million from final NRC list."
+    },
+    {
+      "year": 2020,
+      "title": "Third Bodo Accord + Bodoland Territorial Region reform",
+      "description": "Third Bodo Accord of 27 January 2020 establishing comprehensive Bodoland Territorial Council reform framework."
+    }
+  ],
+  "structural_findings": [
+    "Assam operates a mixed federal Indian common-law + Bodo/Karbi/Dimasa customary-law framework — places Assam in the North-eastern Indian Indigenous-tribal-customary-law-protected cluster.",
+    "Only Indian state operating multi-tier Constitution Sixth Schedule tribal-autonomy framework with three constitutionally-recognised Autonomous Councils is structurally distinctive globally — Bodoland Territorial Council + Karbi Anglong Autonomous Council + Dima Hasao Autonomous Council.",
+    "Parent state from which six modern Indian North-eastern states were carved out is structurally distinctive globally — Assam is foundational parent state of the North-East (Nagaland + Meghalaya + Arunachal Pradesh + Mizoram + Manipur + Tripura).",
+    "Central jurisdiction of National Register of Citizens (NRC) 2019 framework is structurally distinctive globally — only modern formal Indian-state-level citizenship-verification exercise.",
+    "Assam Accord 1985 + 2003 Bodo Accord + 2020 Third Bodo Accord peace-accord framework is structurally distinctive globally — only Indian state with three major formal peace-accord frameworks.",
+    "Bodoland Territorial Region (BTR) 2003/2020 multi-tier autonomy framework is structurally distinctive globally — most comprehensive Indian sub-state ethnic-territorial-autonomy framework via Sixth Schedule.",
+    "Ahom Kingdom 1228-1826 historical sovereign framework is structurally distinctive within Indian state cluster.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:bangladesh",
+    "jurisdiction:bhutan",
+    "jurisdiction:meghalaya",
+    "jurisdiction:nagaland",
+    "jurisdiction:mizoram",
+    "jurisdiction:arunachal-pradesh",
+    "jurisdiction:manipur",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Assam",
+      "url": "https://www.assam.gov.in/",
+      "publisher": "Assam Government",
+      "language": "en"
+    },
+    {
+      "title": "Gauhati High Court",
+      "url": "https://www.ghconline.gov.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    },
+    {
+      "title": "Bodoland Territorial Council",
+      "url": "https://www.bodoland.gov.in/",
+      "publisher": "Bodoland Territorial Council",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Assam jurisdiction sidecar — mixed federal Indian common-law/Bodo/Karbi/Dimasa customary-law North-eastern Indian Brahmaputra-Valley Indian-state (Indian Constitution Sixth Schedule + Bodoland Territorial Council + Karbi Anglong + Dima Hasao Autonomous Councils + Bodoland Territorial Council Act 2003 + 2003 Bodo Accord + 2020 Third Bodo Accord + Assam Accord 1985 + Assam NRC 2019 + Ahom Kingdom 1228-1826 + Indian non-Hague-1980). Only Indian state operating multi-tier Sixth Schedule tribal-autonomy framework with three constitutionally-recognised Autonomous Councils globally + parent state from which six modern Indian North-eastern states were carved out + only modern formal Indian-state-level citizenship-verification exercise (NRC 2019) + only Indian state with three major formal peace-accord frameworks + most comprehensive Indian sub-state ethnic-territorial-autonomy framework via Sixth Schedule.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-eastern-Indian + Brahmaputra-Valley + mixed Indian-common-law/Bodo/Karbi/Dimasa-customary-law + Indian-state cluster + multi-tier-Sixth-Schedule-three-Autonomous-Councils-globally-distinctive + Bodoland-Territorial-Council-Act-2003 + Third-Bodo-Accord-2020 + parent-state-of-six-North-eastern-states + Assam-NRC-2019-citizenship-verification + Assam-Accord-1985 + Ahom-Kingdom-1228-1826 + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

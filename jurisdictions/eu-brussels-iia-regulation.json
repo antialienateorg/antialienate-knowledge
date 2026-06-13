@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "id": "eu-brussels-iia-regulation",
+  "name": "EU Brussels IIa Regulation (Brussels IIb / EU Council Regulation 2201/2003 + Recast 2019/1111)",
+  "jurisdiction_code": "EBI",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "de", "es", "it", "nl", "pl", "sv", "fi", "da", "el", "pt", "hu", "cs", "sk", "sl", "et", "lv", "lt", "bg", "ro", "hr", "ga", "mt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The EU Brussels IIa Regulation (now formally Brussels IIb post-2022 / formally EU Council Regulation 2201/2003 of 27 November 2003 + Recast EU Council Regulation 2019/1111 of 25 June 2019) is a European Union supranational meta-framework EU bloc family-law + parental-responsibility + cross-border-child-abduction-resolution binding instrument adopted by the European Council — structurally distinctive globally as the only modern supranational meta-framework operating EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution framework (Brussels IIa Regulation 2201/2003 adopted 27 November 2003 + effective 1 March 2005 + Brussels IIb Recast Regulation 2019/1111 adopted 25 June 2019 + effective 1 August 2022 — formal EU bloc binding family-law framework establishing jurisdiction + recognition + enforcement framework for matrimonial matters + parental-responsibility + cross-border-child-abduction-resolution within EU bloc, distinct from Hague Convention 1980 universal multilateral framework which operates outside EU bloc framework, structurally distinctive globally as the only modern supranational meta-framework operating EU bloc binding family-law framework with direct effect within EU bloc), as the central jurisdiction of the formal EU bloc cross-border-child-abduction-resolution framework operating in concurrent applicability framework with Hague Convention 1980 (Brussels IIb Recast Regulation Articles 22-29 framework on cross-border-child-abduction-resolution + Article 23 recognition framework + Article 24 enforcement framework + Article 27 grounds for non-recognition framework — formal EU bloc cross-border-child-abduction-resolution framework, structurally distinctive globally as the only modern EU bloc framework operating in concurrent applicability framework with Hague Convention 1980 within EU bloc), as the central jurisdiction of the formal CJEU Brussels IIa + IIb case-law framework (CJEU Brussels IIa case-law framework via landmark cases C-491/10 PPU Aguirre Zarraga 2010 + C-498/14 PPU Bradbrooke 2015 + C-256/09 Purrucker 2010 + C-211/10 PPU Povse 2010 + multiple subsequent CJEU cases — formal CJEU Brussels IIa + IIb case-law framework, structurally distinctive globally as the most-developed modern supranational meta-framework CJEU case-law framework on EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution framework), and as the central jurisdiction of the formal 2019/2022 Brussels IIb Recast framework (Recast EU Council Regulation 2019/1111 adopted 25 June 2019 + effective 1 August 2022 — formal Recast Brussels IIb framework substantially revising original Brussels IIa Regulation 2201/2003 framework via formal recasted-jurisdiction framework + formal recasted-recognition framework + formal recasted-enforcement framework + formal recasted-cross-border-child-abduction-resolution framework, structurally distinctive globally as the only modern supranational meta-framework with formal recast framework on EU bloc binding family-law framework). The Brussels IIa/IIb Regulation is binding upon all 26 EU member states excluding Denmark (Denmark opted out via formal Schengen Protocol framework). The Regulation is silent on 'parental alienation' as a statutory label, though formal framework operates substantial intersection with parental-alienation framework via formal cross-border-child-abduction-resolution + custody-determination + EU bloc Hague Convention 1980 Article 13(b) interpretation framework. The Court of Justice of the European Union is the apex judicial body framework via formal preliminary reference framework + national-level apex courts operate as judicial bodies. The Brussels IIa/IIb Regulation is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "EU Council Regulation 2201/2003 (Brussels IIa Regulation)",
+      "title": "EU Brussels IIa Regulation",
+      "year": 2005,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU Council Regulation 2201/2003 of 27 November 2003 + effective 1 March 2005 — formal EU bloc binding family-law framework establishing jurisdiction + recognition + enforcement framework for matrimonial matters + parental-responsibility + cross-border-child-abduction-resolution within EU bloc."
+    },
+    {
+      "citation": "EU Council Regulation 2019/1111 (Brussels IIb Recast Regulation)",
+      "title": "EU Brussels IIb Recast Regulation",
+      "year": 2022,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU Council Regulation 2019/1111 of 25 June 2019 + effective 1 August 2022 — formal Recast Brussels IIb framework substantially revising original Brussels IIa Regulation 2201/2003 framework."
+    },
+    {
+      "citation": "Brussels IIb Recast Regulation Articles 22-29 (Cross-Border Child Abduction Framework)",
+      "title": "Brussels IIb Recast Regulation Articles 22-29",
+      "year": 2022,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "Brussels IIb Recast Regulation Articles 22-29 framework on cross-border-child-abduction-resolution + Article 23 recognition framework + Article 24 enforcement framework + Article 27 grounds for non-recognition framework — formal EU bloc cross-border-child-abduction-resolution framework operating in concurrent applicability framework with Hague Convention 1980."
+    },
+    {
+      "citation": "Hague Convention 1980 (concurrent applicability framework)",
+      "title": "Hague Convention 1980",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the Civil Aspects of International Child Abduction 1980 — concurrent applicability framework with EU Brussels IIa/IIb Regulation framework."
+    },
+    {
+      "citation": "CJEU Brussels IIa/IIb Case-Law Framework (Aguirre Zarraga 2010 + Bradbrooke 2015 + Purrucker 2010 + others)",
+      "title": "CJEU Brussels IIa/IIb Case-Law Framework",
+      "year": 2015,
+      "url": "https://curia.europa.eu/",
+      "relevance": "CJEU Brussels IIa/IIb case-law framework via formal CJEU jurisdiction over Brussels IIa/IIb Regulation framework — formal CJEU Brussels IIa/IIb case-law framework on EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Justice of the European Union (CJEU)",
+      "seat": "Luxembourg",
+      "url": "https://curia.europa.eu/",
+      "role": "Apex judicial body framework for EU Brussels IIa/IIb Regulation via formal preliminary reference framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "European Commission (DG JUST)",
+      "url": "https://commission.europa.eu/",
+      "role": "EU Brussels IIa/IIb Regulation implementation framework."
+    }
+  ],
+  "anonymisation_convention": "EU Brussels IIa/IIb Regulation-related individual communications are anonymised per CJEU practice using initials.",
+  "key_developments": [
+    {
+      "year": 1968,
+      "title": "Brussels Convention 1968",
+      "description": "Brussels Convention 1968 on Jurisdiction and Recognition of Judgments adopted 27 September 1968 — predecessor framework to Brussels Regulations."
+    },
+    {
+      "year": 2000,
+      "title": "Brussels II Regulation 1347/2000",
+      "description": "EU Council Regulation 1347/2000 of 29 May 2000 + effective 1 March 2001 — formal Brussels II Regulation framework, predecessor to Brussels IIa Regulation."
+    },
+    {
+      "year": 2003,
+      "title": "Brussels IIa Regulation adopted",
+      "description": "EU Council Regulation 2201/2003 of 27 November 2003 — formal EU bloc binding family-law framework."
+    },
+    {
+      "year": 2005,
+      "title": "Brussels IIa Regulation enters force",
+      "description": "EU Council Regulation 2201/2003 entered force 1 March 2005 — formal EU bloc binding family-law framework operational."
+    },
+    {
+      "year": 2010,
+      "title": "Aguirre Zarraga + Purrucker + Povse cases",
+      "description": "CJEU C-491/10 PPU Aguirre Zarraga Judgment 22 December 2010 + C-256/09 Purrucker Judgment 15 July 2010 + C-211/10 PPU Povse Judgment 1 July 2010 — landmark CJEU case-law framework on Brussels IIa Regulation."
+    },
+    {
+      "year": 2019,
+      "title": "Brussels IIb Recast Regulation adopted",
+      "description": "EU Council Regulation 2019/1111 of 25 June 2019 — formal Recast Brussels IIb framework."
+    },
+    {
+      "year": 2022,
+      "title": "Brussels IIb Recast Regulation enters force",
+      "description": "EU Council Regulation 2019/1111 entered force 1 August 2022 — formal Recast Brussels IIb framework operational."
+    }
+  ],
+  "structural_findings": [
+    "EU Brussels IIa/IIb Regulation operates a supranational EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution framework — places EU Brussels IIa/IIb Regulation in the European Union supranational-meta-framework cluster.",
+    "Only modern supranational meta-framework operating EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution framework is structurally distinctive globally — formal EU bloc binding family-law framework with direct effect within EU bloc.",
+    "Central jurisdiction of formal EU bloc cross-border-child-abduction-resolution framework operating in concurrent applicability framework with Hague Convention 1980 is structurally distinctive globally — only modern EU bloc framework operating in concurrent applicability framework with Hague Convention 1980 within EU bloc.",
+    "Central jurisdiction of formal CJEU Brussels IIa + IIb case-law framework is structurally distinctive globally — most-developed modern supranational meta-framework CJEU case-law framework on EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution framework.",
+    "Central jurisdiction of formal 2019/2022 Brussels IIb Recast framework is structurally distinctive globally — only modern supranational meta-framework with formal recast framework on EU bloc binding family-law framework.",
+    "All 26 EU member state binding framework excluding Denmark opt-out is structurally distinctive globally — formal EU bloc binding framework.",
+    "1968 Brussels Convention + 2000 Brussels II + 2003 Brussels IIa + 2005 entry into force + 2019 Brussels IIb Recast + 2022 entry into force EU-bloc-family-law-framework-development sequence is structurally distinctive globally.",
+    "Brussels IIa/IIb Regulation Articles 22-29 cross-border-child-abduction-resolution framework + concurrent applicability framework with Hague Convention 1980 is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:european-union",
+    "jurisdiction:hague-conference-on-private-international-law",
+    "evidence:eu-apex-sequence-2017-2025",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:strasbourg-article-8-positive-obligations-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "European Union — EU Brussels IIa/IIb Regulation",
+      "url": "https://eur-lex.europa.eu/",
+      "publisher": "European Union",
+      "language": "en"
+    },
+    {
+      "title": "Court of Justice of the European Union",
+      "url": "https://curia.europa.eu/",
+      "publisher": "CJEU",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "EU Brussels IIa/IIb Regulation jurisdiction sidecar — supranational European Union EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution meta-framework (EU Brussels IIa Regulation 2201/2003 of 27 November 2003 + effective 1 March 2005 + EU Brussels IIb Recast Regulation 2019/1111 of 25 June 2019 + effective 1 August 2022 + Articles 22-29 Cross-Border Child Abduction Framework + Hague Convention 1980 concurrent applicability + CJEU Brussels IIa/IIb Case-Law Framework + Aguirre Zarraga + Bradbrooke + Purrucker + Povse + Brussels Convention 1968). Only modern supranational meta-framework operating EU bloc binding family-law + parental-responsibility + cross-border-child-abduction-resolution framework globally + central jurisdiction of formal EU bloc cross-border-child-abduction-resolution framework operating in concurrent applicability framework with Hague Convention 1980 + central jurisdiction of formal CJEU Brussels IIa + IIb case-law framework + central jurisdiction of formal 2019/2022 Brussels IIb Recast framework + All 26 EU member state binding framework excluding Denmark opt-out + 1968 Brussels Convention + 2000 Brussels II + 2003 Brussels IIa + 2005 entry into force + 2019 Brussels IIb Recast + 2022 entry into force EU-bloc-family-law-framework-development sequence + Brussels IIa/IIb Regulation Articles 22-29 cross-border-child-abduction-resolution framework + concurrent applicability framework with Hague Convention 1980.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins European-Union + supranational + EU-bloc-binding-family-law-parental-responsibility-cross-border-child-abduction-resolution cluster + EU-Brussels-IIa-IIb-only-EU-bloc-binding-family-law-framework-globally-distinctive + concurrent-applicability-framework-with-Hague-Convention-1980-within-EU-bloc + Articles-22-29-cross-border-child-abduction-resolution + Recast-2019-1111-Brussels-IIb + Aguirre-Zarraga-2010 + Bradbrooke-2015 + Purrucker-2010 + Povse-2010 + Denmark-opt-out + CJEU-preliminary-reference-framework clusters within the corpus."
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "schema_version": "2.0",
+  "country": "Belgium",
+  "country_code": "BE",
+  "type": "therapists",
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-31",
+  "jurisdictional_context": "Le paysage belge autour de l'aliénation parentale (AP) / ouderverstoting / oudervervreemding est structurellement faconne par la division communautaire et linguistique de l'Etat federal. Au niveau federal, le Code civil (art. 374-374ter relatifs a l'autorite parentale et au droit aux relations personnelles), le Code judiciaire et la Loi du 30 juillet 2013 portant creation d'un Tribunal de la famille et de la jeunesse (juges de la famille / familierechter) constituent le socle dans lequel les contentieux d'hebergement et d'autorite parentale sont traites. La Cour de cassation belge n'a pas, a ce jour, rendu d'arret apicale qualifiant ou disqualifiant le construct PA/SAP en tant que tel; l'arret le plus recent (Cass. 6 mars 2025, C.24.0157.F) traite de l'inexecution des decisions de tribunal de la famille relatives a l'hebergement (art. 387ter C. civ.) sans entrer dans la qualification scientifique du construct.\n\nLa zorg- en hulpverleningsstructuur is gesplitst tussen de Vlaamse Gemeenschap (Opgroeien / Jongerenwelzijn, Centra Algemeen Welzijnswerk - CAW, en de zes Vertrouwenscentra Kindermishandeling - VK) en de Federation Wallonie-Bruxelles (Aide a la jeunesse, repartie entre Service d'aide a la jeunesse - SAJ et Service de protection judiciaire - SPJ, avec les equipes SOS Enfants pour la maltraitance infantile). De beroepsregulering loopt federaal via de Psychologencommissie / Commission des psychologues (titelbescherming), terwijl de Belgische Federatie van Psychologen / Federation Belge des Psychologues (BFP-BPF), als koepelvereniging met onder meer VVKP (Vlaamse Vereniging van Klinisch Psychologen) en UPPCF (Union Professionnelle des Psychologues Cliniciens Francophones), als beroepsvereniging functioneert. Noch de Psychologencommissie noch de BFP-BPF heeft een publiek beleidsstandpunt geformuleerd dat PAS/AP hetzij erkent hetzij afwijst. De Hoge Gezondheidsraad / Conseil Superieur de la Sante (CSS-HGR) heeft evenmin een specifiek advies over parental alienation uitgegeven.\n\nLa position institutionnelle la plus articulee provient de l'Institut pour l'egalite des femmes et des hommes / Instituut voor de Gelijkheid van Vrouwen en Mannen (IEFH/IGVM), qui dans sa Recommandation 2023/001 sur la violence entre (ex-)partenaires dans le contexte des divorces et separations familiales avertit explicitement que l'argument du 'syndrome d'alienation parentale' ne peut etre utilise pour minimiser ou ignorer la violence entre (ex-)partenaires, et qu'il peut etre instrumentalise par l'auteur de violences pour disqualifier la rupture de contact et les accusations de violence. Les deux institutions de droits de l'enfant - le Delegue general aux droits de l'enfant (DGDE) pour la Communaute francaise et le Vlaamse Kinderrechtencommissariaat (KRC) pour la Vlaamse Gemeenschap - ainsi que la Coordination des ONG pour les droits de l'enfant (CODE) en Federation Wallonie-Bruxelles, ont produit des analyses critiques recentes (CODE octobre 2023; Ligue des familles juin 2024) qualifiant l'AP de 'concept a risques pour les enfants et leurs droits'. Le debat est structure cross-border avec les Pays-Bas (cadre Lorentzhuis / Kinderen uit de Knel largement adopte en Flandre) et avec la France (cadre du controle coercitif mobilise dans les milieux francophones critiques).",
+  "structural_findings": [
+    "Aucune position publique de la BFP-BPF ni de la Psychologencommissie / Commission des psychologues sur PAS/AP: contrairement au Bresil (CFP), a l'Argentine (FePRA) ou a la Colombie (Colpsic), la Belgische Federatie van Psychologen et la Commission federale des psychologues n'ont publie aucun avis officiel reconnaissant ou rejetant le construct. Le poids institutionnel de la position belge est donc porte par (i) la Recommandation IEFH/IGVM 2023/001, (ii) l'analyse CODE octobre 2023 'L'alienation parentale: un concept a risques', (iii) l'etude Ligue des familles 2024 'Pour en finir avec l'alienation parentale', et (iv) les rapports CERE asbl 2021. C'est un pattern structurel proche du pattern NL (NIP/NVvP silence + document-anchored debate) mais avec un poids critique-camp institutionnel federal plus marque cote belge via l'IEFH/IGVM.",
+    "Asymetrie linguistique-communautaire modere: le debat critique-camp est plus visible et plus institutionnellement ancre en Communaute francaise (CODE, Universite des Femmes, Vie Feminine, Solidarite Femmes La Louviere, CVFE, Ligue des familles, CERE asbl) qu'en Vlaamse Gemeenschap. Cote Vlaams, le debat est moins polarise et plus methodologique: le Kinderrechtencommissariaat n'a pas de standpunt specifiek PAS-rejecting maar wel een algemene prioriteit van het kindbelang, en het Vlaamse forensisch-klinische veld leunt op systemische methodologieen (Lorentzhuis-import). Geen Vlaamse equivalent van het Franse 'controle coercitif'-discours dat in de Communaute francaise stevig is ingebed.",
+    "Cross-border NL-BE Lorentzhuis-as is structureel: het werk van Justine van Lawick en Margreet Visser (Kinderen uit de Knel / No Kids in the Middle) is in Vlaamse jeugdhulp en CAW-netwerken breed geadopteerd. Belgische middle-camp practitioners citeren systematisch de Lorentzhuis-methodologie boven Gardneriaanse PAS-terminologie. Cross-link practitioner:nl.van-lawick-justine geldt voor meerdere Belgische entries.",
+    "Cross-border FR-BE controle coercitif-as: les references francophones belges critiques mobilisent de plus en plus le cadre du controle coercitif (cf. travaux d'Andreea Gruev-Vintila en France) pour relire les situations qualifiees d'AP comme des prolongements post-separation de violence conjugale. Cross-link practitioner:fr.gruev-vintila-andreea (et le RTBF Investigation 2022 'meres protectrices diabolisees') s'applique au sous-corpus critique-camp francophone belge.",
+    "Position uniquement belge de l'IEFH/IGVM en tant qu'institut federal bilingue de l'egalite femmes-hommes: la Recommandation 2023/001 est cosignee NL+FR et constitue une rarete europeenne - un seul regulateur federal d'egalite de genre avec mandat NL+FR qui prend position institutionnelle sur l'usage de l'AP comme tactique de defense d'auteurs de violences. C'est une signature structurelle belge sans equivalent direct dans les autres pays EU6.",
+    "Absence d'arret apicale Cour de cassation / Hof van Cassatie qualifiant le construct PA: l'arret recent Cass. 6 mars 2025 C.24.0157.F traite l'inexecution de l'hebergement sous art. 387ter C. civ. sans aborder la validite scientifique du construct AP. Belgique partage avec Pays-Bas et Allemagne ce pattern d'absence apicale, contrastant avec l'Italie (Cass. 9691/2022) et l'Espagne (STS 519/2017).",
+    "Polarisation interne: ACALPA (Association contre l'alienation parentale, fondee 2005, reconnaissance-camp) et La Mouette Belgique (recognition-camp, conferences Van Dieren / Van Gijseghem 2002-2014) constituent le pole advocacy-recognition francophone; en face, l'Universite des Femmes, SOS Inceste Belgique, la Ligue des familles, Solidarite Femmes et CVFE constituent le pole critique. La position 'middle' methodologique est portee par les yapaka.be auteurs (Yves-Hiram Haesevoets, Frederique Van Leuven, Reine Vander Linden) et par Olivier Limet (sociologue, formateur, FR+BE).",
+    "Universites-anchors: ULB (Yves-Hiram Haesevoets, psychologie clinique; Christine Frisch-Desmarez, pedopsychiatrie/psychanalyse; Universite des Femmes adjointe), UCLouvain (Jean-Louis Renchon, droit familial emerite, Centre de droit de la personne et de la famille; Pascale Jamoulle, anthropologie/LAAP/IACCHOS), UMons (Pascale Jamoulle cross-appointment), Universite de Namur + UHasselt (etude commandee par l'IEFH 2022 sur le role des juges de la famille en contexte de violence ex-partenaires), KU Leuven (Liesbet Stevens, droit penal sexuel + adjunct-directeur IGVM-IEFH). Pas de gros pole recognition-camp universitaire belge equivalent au PASG anglo-saxon.",
+    "Roland Coenen est cite dans les requetes mais n'est pas verifiable comme auteur PA-specifique: ses publications portent sur la pedagogie non-punitive et la systemique des adolescents en difficulte (Tamaris), pas sur l'AP directement. Inclus en excluded sous 'non verifiable comme PA-praticien'.",
+    "Reine Vander Linden est psychologue clinicienne perinatale (clinique Saint-Pierre Ottignies, Edith Cavell) avec corpus yapaka.be sur la petite enfance et la garde alternee precoce; la requete originale la situait erronement sur le terrain PA-specifique. Correction factuelle: son corpus yapaka ('La garde alternee va a l'encontre des besoins du jeune enfant') touche au debat AP par le canal des modalites d'hebergement mais sa specialite reste la perinatalite. Inclue avec stance middle et notes correctives."
+  ],
+  "entries": [
+    {
+      "id": "be.van-dieren-benoit",
+      "name": "Benoit Van Dieren",
+      "credentials": "Psychologue; mediateur familial agree; expert designer en Belgique de l'expertise collaborative; co-concepteur du PIFE (Processus d'Intervention Familiale Encadree, Montreal 2014, avec Celia Lillo)",
+      "city": "Bruxelles",
+      "region": "Bruxelles-Capitale / Brussel-Hoofdstad",
+      "affiliation": "Pratique privee Bruxelles; Institut PIFE (Montreal/Bruxelles); intervenant La Mouette Belgique ASBL; co-fondateur du dispositif d'expertise collaborative belge",
+      "stance": "recognition",
+      "stance_notes": "Camp recognition methodologise: Van Dieren publie depuis 2003-2005 sur la prevention de l'alienation parentale (conferences La Mouette Belgique mars 2005 'Prevention de l'alienation parentale'; colloque SAP octobre 2003 Elzius/Marcq/Gautier/Deleau/Van Dieren/Limet). Il a conceptualise et co-developpe avec la psychologue quebecoise Celia Lillo le PIFE (Processus d'Intervention Familiale Encadree) lance a Montreal en 2014 comme protocole d'intervention psycho-judiciaire pour 'haut conflit de separation ou d'alienation parentale'. Ecrit que 'les adultes prennent souvent abri derriere la volonte de l'enfant pour justifier leur besoin de fusion ou de controle sur lui'. Co-auteur du chapitre 15 'Expertise collaborative et Processus d'Intervention Familiale Encadree (PIFE)' dans l'ouvrage collectif international sur l'AP. Position alignee recognition mais methodologisee par le cadre PIFE plutot que sur la PAS gardnerienne directe.",
+      "publications": [
+        {"title": "Prevention de l'alienation parentale (conference La Mouette Belgique)", "year": 2005, "venue": "La Mouette Belgique ASBL", "url": "https://sites.google.com/site/lamouettebelgique/conferences/prevention-de-l-alienation-parentale---par-benoit-van-dieren---mars-2005"},
+        {"title": "Colloque SAP (co-intervenant avec Elzius, Marcq, Gautier, Deleau, Limet)", "year": 2003, "venue": "La Mouette Belgique ASBL"},
+        {"title": "Expertise collaborative et Processus d'Intervention Familiale Encadree (PIFE) (chapitre 15, co-auteur avec C. Lillo)", "year": 2021, "venue": "Routledge / Taylor & Francis (ouvrage collectif international sur PA)", "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140566-31/pife-intervention-aimed-restoring-parent%E2%80%93child-bond-ruptured-acute-separation-conflict-parental-alienation-celia-lillo"},
+        {"title": "PIFE - Processus d'Intervention Familiale Encadree (formation continue)", "year": 2023, "venue": "Institut PIFE", "url": "https://www.institutpife.com/intervention-pife"}
+      ],
+      "urls": [
+        "https://www.institutpife.com/intervention-pife",
+        "https://sites.google.com/site/lamouettebelgique/conferences/prevention-de-l-alienation-parentale---par-benoit-van-dieren---mars-2005",
+        "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003140566-31/pife-intervention-aimed-restoring-parent%E2%80%93child-bond-ruptured-acute-separation-conflict-parental-alienation-celia-lillo"
+      ],
+      "contact": "Via Institut PIFE et reseau La Mouette Belgique; pratique privee Bruxelles non publiquement listee sur registre Commission des psychologues",
+      "verification_notes": "Verifie via Institut PIFE (institutpife.com), La Mouette Belgique (conferences 2003-2014), Taylor & Francis chapitre 15 ouvrage collectif international 2021. Numero d'inscription Commission des psychologues non publiquement expose mais inferable du statut de psychologue mediateur agree.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.la-mouette-belgique",
+        "practitioner:be.limet-olivier"
+      ]
+    },
+    {
+      "id": "be.haesevoets-yves-hiram",
+      "name": "Yves-Hiram Haesevoets",
+      "credentials": "Psychologue clinicien; psychotherapeute d'orientation psychanalytique; charge de cours / chercheur en psychologie clinique et psychopathologie a l'Universite libre de Bruxelles (ULB); expert aupres des Cours et Tribunaux et du SPF Justice",
+      "city": "Bruxelles",
+      "region": "Bruxelles-Capitale",
+      "affiliation": "Universite libre de Bruxelles (ULB) - Faculte des Sciences psychologiques et de l'Education; pratique privee; comite consultatif du Delegue general aux droits de l'enfant; commission nationale contre l'exploitation sexuelle des enfants; auteur yapaka.be",
+      "stance": "middle",
+      "stance_notes": "Position middle-methodologique. Auteur yapaka.be (programme de prevention de la maltraitance de la Federation Wallonie-Bruxelles) sur les separations conflictuelles, l'inceste et la psychopathologie infantile. Sa formation yapaka 'Alienation parentale: s'y retrouver pour agir' vise a 'comprendre l'alienation parentale comme resultat d'un contexte societal' et a 'deconstruire les situations etiquetees alienation parentale et les repositionner en perspective'. Refuse une posture purement gardnerienne ou purement abolitionniste; methodologie clinique psychanalytique-systemique. Expert judiciaire actif. Auteur chez De Boeck Superieur et Eres.",
+      "publications": [
+        {"title": "L'enfant en questions: De la clinique a la therapie", "year": 2008, "venue": "De Boeck Superieur"},
+        {"title": "Traite de la maltraitance: aspects psychocliniques et psychotherapeutiques", "year": 2020, "venue": "De Boeck Superieur"},
+        {"title": "Alienation parentale: s'y retrouver pour agir (formation yapaka)", "year": 2022, "venue": "yapaka.be / Federation Wallonie-Bruxelles", "url": "https://www.yapaka.be/evenement/alienation-parentale-sy-retrouver-pour-agir"},
+        {"title": "Capsules video yapaka.be sur inceste, separations conflictuelles, psychopathologie de l'enfant", "year": 2022, "venue": "yapaka.be", "url": "https://www.yapaka.be/auteur/yves-hiram-haesevoets"}
+      ],
+      "urls": [
+        "https://www.yapaka.be/auteur/yves-hiram-haesevoets",
+        "https://www.deboecksuperieur.com/auteur/yves-hiram-haesevoets",
+        "https://www.editions-eres.com/nos-auteurs/63547/levy-haesevoets-yves-hyram",
+        "https://shs.cairn.info/publications-de-yves-hiram-haesevoets--10685"
+      ],
+      "contact": "Via ULB Faculte des Sciences psychologiques; yapaka.be auteur fiche",
+      "verification_notes": "Verifie via De Boeck Superieur, Eres, Cairn, yapaka.be. ULB charge de cours / chercheur confirme par yapaka.be biographie. Expert judiciaire SPF Justice confirme par yapaka.be biographie auteur.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.delegue-general-droits-enfant"
+      ]
+    },
+    {
+      "id": "be.van-leuven-frederique",
+      "name": "Dr. Frederique Van Leuven",
+      "credentials": "Medecin psychiatre; pratique au Centre Psychiatrique Saint-Bernard a Manage et dans l'equipe mobile de crise de la region du Centre; auteure yapaka.be",
+      "city": "Manage (Hainaut)",
+      "region": "Wallonie",
+      "affiliation": "Centre Psychiatrique Saint-Bernard Manage; equipe mobile de crise region du Centre; conferenciere internationale (Reseau Fribourgeois de Sante Mentale, Encephale)",
+      "stance": "middle",
+      "stance_notes": "Position middle, ancree dans la clinique de la souffrance psychique parentale et de ses effets sur les enfants. Co-auteure de 'Grandir avec des parents en souffrance psychique' (2017, avec C. Caulier). Auteure yapaka.be. Pas de prise de position publique recognition ou critique radicale sur l'AP mais corpus clinique sur l'enfance en situation de souffrance parentale, qui en pratique tempere l'usage du construct AP en faveur d'une lecture des dynamiques parents-enfants ancree dans la psychopathologie parentale et le contexte familial.",
+      "publications": [
+        {"title": "Grandir avec des parents en souffrance psychique (avec Cathy Caulier)", "year": 2017, "venue": "Eres / yapaka.be"},
+        {"title": "Capsules video yapaka sur souffrance psychique parentale et enfance", "year": 2020, "venue": "yapaka.be", "url": "https://www.yapaka.be/auteur/frederique-van-leuven"},
+        {"title": "Conference 'Grandir avec un parent qui souffre de fragilite psychique et/ou d'addiction'", "year": 2024, "venue": "Reseau Fribourgeois de Sante Mentale (RFSM)", "url": "https://www.rfsm.ch/actualites/2024-03-11/conference-dre-frederique-van-leuven-psychiatre-belgique-grandir-avec-un"}
+      ],
+      "urls": [
+        "https://www.yapaka.be/auteur/frederique-van-leuven",
+        "https://www.rfsm.ch/actualites/2024-03-11/conference-dre-frederique-van-leuven-psychiatre-belgique-grandir-avec-un",
+        "https://www.encephale.com/Intervenants/Frederique-VAN-LEUVEN"
+      ],
+      "contact": "Via Centre Psychiatrique Saint-Bernard Manage; fiche auteur yapaka.be",
+      "verification_notes": "Verifie via yapaka.be, RFSM Suisse, Encephale (Congres francais de psychiatrie). Position publique non-PAS-specifique mais corpus clinique pertinent pour le debat AP via la psychopathologie parentale.",
+      "references": [
+        "jurisdiction:belgium"
+      ]
+    },
+    {
+      "id": "be.vander-linden-reine",
+      "name": "Reine Vander Linden",
+      "credentials": "Psychologue clinicienne; formatrice petite enfance; membre du Groupe Interuniversitaire de Perinatalite; auteure yapaka.be",
+      "city": "Ottignies / Bruxelles",
+      "region": "Brabant wallon / Bruxelles-Capitale",
+      "affiliation": "Clinique Saint-Pierre Ottignies (service de perinatalite); Clinique Edith Cavell Bruxelles; FRAJE; Mum 3.0; yapaka.be (Federation Wallonie-Bruxelles)",
+      "stance": "middle",
+      "stance_notes": "Specialite perinatalite et soutien a la parentalite, pas AP au sens strict. Sa contribution au debat AP passe par le canal yapaka.be 'La garde alternee va a l'encontre des besoins du jeune enfant', position clinique qui touche indirectement au debat sur les modalites d'hebergement post-separation et donc au champ d'argumentation entourant l'AP. Correction factuelle vs. requete originale: Vander Linden n'est pas inscrite a l'ULB ni a KU Leuven; sa pratique principale est clinique perinatale a Ottignies / Bruxelles avec affiliations FRAJE et Groupe Interuniversitaire de Perinatalite.",
+      "publications": [
+        {"title": "Les moments sensibles de l'accueil en collectivite (FRAJE)", "year": 2016, "venue": "FRAJE Bruxelles", "url": "http://www.fraje.be/wp-content/uploads/2016/10/Reine-Vander-Linden.pdf"},
+        {"title": "Soutenir les parents a devenir ceux qu'ils voudraient etre", "year": 2018, "venue": "Revue de l'Observatoire (FWB)", "url": "https://revueobservatoire.be/Soutenir-les-parents-a-devenir-ceux-qu-ils-voudraient-etre"},
+        {"title": "La garde alternee va a l'encontre des besoins du jeune enfant (capsule video)", "year": 2019, "venue": "yapaka.be / Federation Wallonie-Bruxelles", "url": "https://www.yapaka.be/video/video-la-garde-alternee-va-a-lencontre-des-besoins-du-jeune-enfant"}
+      ],
+      "urls": [
+        "https://www.yapaka.be/auteur/reine-vander-linden",
+        "https://psybru.be/fr/psychologue/reine-vander-linden",
+        "http://mum3point0.be/equipe/reine-vanderlinden/"
+      ],
+      "contact": "Via Clinique Saint-Pierre Ottignies et Mum 3.0 Bruxelles; fiche PsyBru.be (registre francophone des psychologues bruxellois)",
+      "verification_notes": "Verifie via yapaka.be, PsyBru.be, FRAJE, Revue de l'Observatoire FWB, Mum 3.0. Affiliation ULB / KU Leuven evoquee dans la requete originale non confirmee; correction factuelle apportee.",
+      "references": [
+        "jurisdiction:belgium"
+      ]
+    },
+    {
+      "id": "be.limet-olivier",
+      "name": "Olivier Limet",
+      "credentials": "Sociologue; superviseur et formateur en analyse des pratiques professionnelles (APP); intervenant en Belgique, France, Luxembourg, Suisse et Quebec",
+      "city": "Liege / Drome-Ardeche (FR)",
+      "region": "Wallonie / cross-border FR",
+      "affiliation": "Pratique independante (limet.be / limet.org); intervenant La Mouette Belgique ASBL (colloque SAP 2003); auteur publie en Belgique, Quebec, France",
+      "stance": "middle",
+      "stance_notes": "Position middle, sociologique-systemique. Travaille avec les 'parents en rupture de lien avec leur(s) enfant(s) suite a une separation (situations parfois qualifiees d'alienation parentale)' - les guillemets sont caracteristiques de sa posture. Auteur de 'Parents separes: contraints a l'accord'. Methodologie sociologique-clinique, pas alignee PAS gardnerienne, pas non plus radicalement critique-camp. Cross-border francophone Belgique-France-Quebec-Suisse. A co-intervenu au colloque SAP de La Mouette Belgique en octobre 2003 aux cotes de Benoit Van Dieren.",
+      "publications": [
+        {"title": "Parents separes: contraints a l'accord", "year": 2013, "venue": "Editions Couleur Livres"},
+        {"title": "Separations parentales: faut-il entendre l'enfant en justice?", "year": 2020, "venue": "limet.org", "url": "https://www.limet.org/separations-entendre-enfant-justice/"},
+        {"title": "Series d'articles 'Alienation parentale' (blog professionnel)", "year": 2023, "venue": "limet.org", "url": "https://www.limet.org/category/articles/alienation-parentale/"}
+      ],
+      "urls": [
+        "https://www.limet.org/",
+        "https://www.limet.org/category/articles/alienation-parentale/",
+        "http://www.limet.be/publications-dolivier-limet/",
+        "https://www.analysedespratiques.com/formateurs/olivier-limet-superviseur-app-formateur-drome-ardeche-et-belgique/"
+      ],
+      "contact": "Via limet.org et limet.be (sites professionnels)",
+      "verification_notes": "Verifie via limet.org, limet.be, analysedespratiques.com. Co-intervention colloque SAP 2003 La Mouette Belgique confirmee.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.van-dieren-benoit",
+        "practitioner:be.la-mouette-belgique"
+      ]
+    },
+    {
+      "id": "be.jamoulle-pascale",
+      "name": "Pr. Pascale Jamoulle",
+      "credentials": "Anthropologue; Docteure en sciences sociales; Professeure UMons (Universite de Mons); chercheure UCLouvain - Laboratoire d'Anthropologie Prospective (LAAP) / IACCHOS",
+      "city": "Mons / Louvain-la-Neuve",
+      "region": "Wallonie",
+      "affiliation": "UMons - Faculte de Psychologie et des Sciences de l'Education; UCLouvain - LAAP/IACCHOS; auteure yapaka.be",
+      "stance": "critique",
+      "stance_notes": "Position critique camp: anthropologue specialiste de l'emprise et des violences intrafamiliales. Son enquete de terrain de sept ans 'Je n'existais plus: les mondes de l'emprise et de la deprise' (La Decouverte 2021) definit l'emprise comme un systeme relationnel qui depasse la dyade conjugale et se prolonge dans la parentalite et la relation parent-enfant. Cite explicitement dans le debat: 'les magistrats, experts et travailleurs sociaux expliquent le rejet d'un parent par un enfant en s'appuyant sur une notion infondee scientifiquement: l'alienation parentale'. Capsules yapaka.be 'L'emprise, un systeme relationnel qui depasse la relation a deux'.",
+      "publications": [
+        {"title": "Je n'existais plus: les mondes de l'emprise et de la deprise", "year": 2021, "venue": "La Decouverte", "url": "https://www.editionsladecouverte.fr/je_n_existais_plus-9782348065101"},
+        {"title": "Des hommes sur le fil. La construction de l'identite masculine en milieux precaires", "year": 2005, "venue": "La Decouverte"},
+        {"title": "Familles en errance", "year": 2002, "venue": "La Decouverte"},
+        {"title": "Capsules video yapaka 'L'emprise, un systeme relationnel qui depasse la relation a deux'", "year": 2021, "venue": "yapaka.be", "url": "https://www.yapaka.be/video/video-lemprise-un-systeme-relationnel-qui-depasse-la-relation-a-deux"}
+      ],
+      "urls": [
+        "https://staff.umons.ac.be/pascale.jamoulle/pubsfr.html",
+        "https://www.uclouvain.be/fr/instituts-recherche/iacchos/laap/testimonials/pascale-jamoulle",
+        "https://www.lalibre.be/debats/opinions/2021/05/14/reperes-6LDJOFLNBNADFD2UNFQJKUNYEQ/",
+        "https://www.yapaka.be/auteur/pascale-jamoulle"
+      ],
+      "contact": "Via UMons (staff.umons.ac.be) et UCLouvain IACCHOS",
+      "verification_notes": "Verifie via UMons staff page, UCLouvain IACCHOS, La Libre Belgique, La Decouverte, yapaka.be. Cross-appointment UMons + UCLouvain confirme.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:fr.gruev-vintila-andreea",
+        "practitioner:be.universite-des-femmes"
+      ]
+    },
+    {
+      "id": "be.stevens-liesbet",
+      "name": "Dr. Liesbet Stevens",
+      "credentials": "Doctor in de Rechten (KU Leuven 2002); bachelor wijsbegeerte; adjunct-directeur Instituut voor de Gelijkheid van Vrouwen en Mannen (IGVM/IEFH) sinds 2014; gastdocent seksueel strafrecht KU Leuven",
+      "city": "Brussel / Leuven",
+      "region": "Vlaanderen / federaal",
+      "affiliation": "Instituut voor de Gelijkheid van Vrouwen en Mannen (IGVM) / Institut pour l'egalite des femmes et des hommes (IEFH); KU Leuven Faculteit Rechtsgeleerdheid; interuniversitaire master Gender & Diversiteit",
+      "stance": "critique",
+      "stance_notes": "Position critique camp via mandaat IGVM/IEFH. Als adjunct-directeur van het Instituut voor de Gelijkheid van Vrouwen en Mannen heeft Stevens institutioneel meegewerkt aan de Beleidsaanbeveling 2023/001 over geweld tussen (ex-)partners in echtscheidingscontext, die uitdrukkelijk waarschuwt dat het 'syndroom van ouderverstoting' niet mag worden gebruikt om partnergeweld te minimaliseren en kan worden ingezet door geweldplegers om contactbreuk en geweldsbeschuldigingen te diskwalificeren. Persoonlijke focus: seksueel strafrecht en gendergerelateerd geweld. Schreef LinkedIn-reactie 2021 namens IGVM in pal.be-debat over ouderverstoting.",
+      "publications": [
+        {"title": "Strafrecht en seks", "year": 2002, "venue": "Intersentia (doctoraal proefschrift KU Leuven)"},
+        {"title": "Beleidsaanbeveling 2023/001 - geweld tussen (ex-)partners in context van echtscheidingen (co-auteur institutioneel IGVM)", "year": 2023, "venue": "IGVM/IEFH", "url": "https://igvm-iefh.belgium.be/sites/default/files/adivsories/beleidsaanbeveling_echtscheidingen_en_ex-partnergeweld_fr.pdf"},
+        {"title": "Reactie IGVM op debat ouderverstoting", "year": 2021, "venue": "pal.be", "url": "https://pal.be/2021/03/liesbet-stevens-adjunct-directeur-igvm-reageert/"}
+      ],
+      "urls": [
+        "https://www.kuleuven.be/wieiswie/en/person/00014363",
+        "https://igvm-iefh.belgium.be/nl/over-het-instituut",
+        "https://nl.wikipedia.org/wiki/Liesbet_Stevens",
+        "https://www.law.kuleuven.be/100-jaar-vrouwen/profielen/liesbet-stevens"
+      ],
+      "contact": "Via IGVM-IEFH Brussel en KU Leuven Faculteit Rechtsgeleerdheid",
+      "verification_notes": "Geverifieerd via KU Leuven wie-is-wie register, IGVM/IEFH officiele site, pal.be debate 2021. Adjunct-directeurschap sinds 2014 bevestigd.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.iefh-igvm"
+      ]
+    },
+    {
+      "id": "be.frisch-desmarez-christine",
+      "name": "Dr. Christine Frisch-Desmarez",
+      "credentials": "Medecin psychiatre infantile; psychanalyste; membre titulaire de la Societe Belge de Psychanalyse; formatrice en psychopathologie de l'enfant et de l'adolescent (Luxembourg, Bruxelles, ULB)",
+      "city": "Bruxelles / Luxembourg",
+      "region": "Bruxelles-Capitale (cross-border LU)",
+      "affiliation": "Universite libre de Bruxelles (formatrice); Societe Belge de Psychanalyse; comite de redaction Cahiers de Psychologie Clinique; pratique privee",
+      "stance": "middle",
+      "stance_notes": "Position middle psychanalytique. Auteure yapaka.be (Federation Wallonie-Bruxelles, programme prevention de la maltraitance). Pas de prise de position publique recognition ou critique radicale sur PA/SAP, mais corpus clinique sur les premiers entretiens therapeutiques enfant-famille et sur la pulsion d'emprise psychanalytique au sens classique (Freud), qui informe la lecture clinique des conflits parentaux severes. Membre titulaire Societe Belge de Psychanalyse.",
+      "publications": [
+        {"title": "Les premiers entretiens therapeutiques avec l'enfant et sa famille (co-auteur)", "year": 2007, "venue": "Dunod"},
+        {"title": "La pulsion d'emprise (article psychanalytique)", "year": 2010, "venue": "Cahiers de Psychologie Clinique"},
+        {"title": "Articles dans Cahiers de Psychologie Clinique (comite de redaction)", "year": 2020, "venue": "Cairn.info", "url": "https://www.cairn.info/publications-de-Christine-Frisch-Desmarez--5889.htm"}
+      ],
+      "urls": [
+        "https://www.cairn.info/publications-de-Christine-Frisch-Desmarez--5889.htm",
+        "https://www.yapaka.be/auteur/christine-desmarez",
+        "https://www.psychanalyse.be/auteur/frisch-desmarez-christine/",
+        "https://www.dunod.com/livres-christine-frisch-desmarez"
+      ],
+      "contact": "Via Societe Belge de Psychanalyse et yapaka.be auteur fiche",
+      "verification_notes": "Verifie via Cairn, yapaka.be, psychanalyse.be (Societe Belge de Psychanalyse), Dunod. Activite ULB confirmee comme formatrice et non comme chargee de cours titulaire.",
+      "references": [
+        "jurisdiction:belgium"
+      ]
+    },
+    {
+      "id": "be.iefh-igvm",
+      "name": "Institut pour l'egalite des femmes et des hommes / Instituut voor de Gelijkheid van Vrouwen en Mannen (IEFH/IGVM)",
+      "credentials": "Institution publique federale independante belge (creee par la loi du 16 decembre 2002); regulateur federal bilingue (NL+FR) competent en matiere d'egalite femmes-hommes et de lutte contre les discriminations de genre",
+      "city": "Bruxelles / Brussel",
+      "region": "Federal Belgique",
+      "affiliation": "Service Public Federal; sous tutelle du/de la ministre charge(e) de l'Egalite des chances; partenariat avec Sophia (reseau belge des etudes de genre)",
+      "stance": "institutional",
+      "stance_notes": "Anchor institutionnelle critique-camp federale. Recommandation 2023/001 'relative a la violence entre (ex-)partenaires dans le contexte des divorces et separations familiales' (cosignee NL+FR) etablit explicitement que 'le syndrome d'alienation parentale ne peut etre utilise comme argument pour minimiser ou ignorer la violence entre (ex-)partenaires' et que 'l'auteur de violence entre partenaires peut utiliser l'argument de l'alienation parentale comme mecanisme de defense pour disqualifier la rupture de contact et les accusations de violence'. Recommandation basee sur l'etude commandee a UHasselt + Universite de Namur (2022) sur le role des juges de la famille et des notaires en contexte de violence ex-partenaires. Adjunct-directeur Liesbet Stevens (KU Leuven). Position belge unique en Europe: regulateur federal bilingue NL+FR avec mandat institutionnel sur l'usage de l'AP en contexte VC.",
+      "publications": [
+        {"title": "Recommandation 2023/001 relative a la violence entre (ex-)partenaires dans le contexte des divorces et separations familiales / Beleidsaanbeveling 2023/001 betreffende geweld tussen (ex-)partners in de context van echtscheidingen", "year": 2023, "venue": "IEFH/IGVM", "url": "https://igvm-iefh.belgium.be/sites/default/files/adivsories/beleidsaanbeveling_echtscheidingen_en_ex-partnergeweld_fr.pdf"},
+        {"title": "Etude sur la violence intrafamiliale et la violence conjugale basee sur l'enquete de sante 2013", "year": 2017, "venue": "IEFH/IGVM", "url": "https://igvm-iefh.belgium.be/sites/default/files/rapport_intrafamiliaalgeweld_final_fr.pdf"},
+        {"title": "Rapport GREVIO Belgique (Convention d'Istanbul)", "year": 2019, "venue": "Conseil de l'Europe / IEFH", "url": "https://igvm-iefh.belgium.be/sites/default/files/downloads/grevio-inf-2019-4_fre.docx.pdf"},
+        {"title": "Mise en oeuvre du Plan d'action national de lutte contre les violences basees sur le genre 2021-2025 (rapport 2024)", "year": 2024, "venue": "IEFH/IGVM", "url": "https://igvm-iefh.belgium.be/sites/default/files/20240409_rapport_pan_2021-2025_fr.pdf"}
+      ],
+      "urls": [
+        "https://igvm-iefh.belgium.be/fr",
+        "https://igvm-iefh.belgium.be/nl/over-het-instituut",
+        "https://igvm-iefh.belgium.be/sites/default/files/adivsories/beleidsaanbeveling_echtscheidingen_en_ex-partnergeweld_fr.pdf"
+      ],
+      "contact": "egalite.hommesfemmes@iefh.belgique.be / gelijkheid.mannenvrouwen@igvm.belgie.be; rue Ernest Blerot 1, 1070 Bruxelles",
+      "verification_notes": "Verifie via site institutionnel officiel IGVM/IEFH (.belgium.be). Recommandation 2023/001 publiee en NL et FR. Etude UHasselt + UNamur commandee a la suite du Plan d'action national 2021-2025.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.stevens-liesbet",
+        "practitioner:be.solidarite-femmes-la-louviere"
+      ]
+    },
+    {
+      "id": "be.bfp-bpf",
+      "name": "Belgische Federatie van Psychologen / Federation Belge des Psychologues (BFP-BPF)",
+      "credentials": "Federation belge des associations professionnelles de psychologues; comprend VVKP, UPPCF, VVSP, VOCAP et BAPS; siege a Bruxelles",
+      "city": "Bruxelles / Brussel",
+      "region": "Federal Belgique",
+      "affiliation": "Federation des associations professionnelles de psychologues; representative aupres de l'EFPA (European Federation of Psychologists' Associations); detient 14 des 16 sieges de la Commission des psychologues (regulateur federal)",
+      "stance": "institutional",
+      "stance_notes": "Aucune position publique sur PAS/AP. Anchor institutional (sans stance_notes recognition/critique). Apres recherche sur bfp-fbp.be, en.bfp-fbp.be, et registres associes, aucune publication officielle de la BFP-BPF ne formule de position sur le construct de l'alienation parentale. Pattern proche du silence NIP/NVvP aux Pays-Bas.",
+      "publications": [
+        {"title": "Site officiel et publications de la BFP-BPF", "year": 2024, "venue": "bfp-fbp.be", "url": "https://www.bfp-fbp.be/"}
+      ],
+      "urls": [
+        "https://www.bfp-fbp.be/",
+        "https://en.bfp-fbp.be/over-bfp",
+        "https://nl.wikipedia.org/wiki/Belgische_Federatie_van_Psychologen"
+      ],
+      "contact": "info@bfp-fbp.be; siege Bruxelles",
+      "verification_notes": "Verifie via bfp-fbp.be et en.bfp-fbp.be (page 'About BFP'). Aucune publication PA-specifique trouvee. Pattern silence institutionnel documente.",
+      "references": [
+        "jurisdiction:belgium"
+      ]
+    },
+    {
+      "id": "be.psychologencommissie-commission-psychologues",
+      "name": "Psychologencommissie / Commission des Psychologues",
+      "credentials": "Organisme federal independant; competent pour tous les psychologues en Belgique; missions: protection du titre, respect du code de deontologie, avis a son ministre de tutelle",
+      "city": "Bruxelles / Brussel",
+      "region": "Federal Belgique",
+      "affiliation": "Service Public Federal; regulateur federal du titre de psychologue (Loi du 8 novembre 1993 protegeant le titre de psychologue)",
+      "stance": "institutional",
+      "stance_notes": "Aucune position publique sur PAS/AP. Anchor institutionnelle. La Commission des Psychologues est le regulateur federal du titre, distinct de la BFP-BPF qui est la federation professionnelle. Les deux entites n'ont publie aucun avis officiel sur le construct de l'alienation parentale.",
+      "publications": [
+        {"title": "Site officiel Commission des Psychologues", "year": 2024, "venue": "compsy.be", "url": "https://www.compsy.be/en_GB"}
+      ],
+      "urls": [
+        "https://www.compsy.be/en_GB",
+        "https://wikiwiph.aviq.be/Pages/Commission-des-psychologues.aspx"
+      ],
+      "contact": "info@compsy.be",
+      "verification_notes": "Verifie via compsy.be et wikiwiph.aviq.be. Aucune publication PA-specifique trouvee. Controverse interne sur la representation BFP (14/16 sieges) documentee mais non liee a PA.",
+      "references": [
+        "jurisdiction:belgium"
+      ]
+    },
+    {
+      "id": "be.delegue-general-droits-enfant",
+      "name": "Delegue general aux droits de l'enfant (DGDE) - Communaute francaise",
+      "credentials": "Institution publique independante de la Federation Wallonie-Bruxelles; defenseur des droits et interets des enfants; mandat de 6 ans; titulaire actuel: Solayman Laqdim (depuis 1 fevrier 2023), succede a Bernard De Vos (2008-2023)",
+      "city": "Bruxelles",
+      "region": "Federation Wallonie-Bruxelles",
+      "affiliation": "Institution autonome rattachee a la Federation Wallonie-Bruxelles; membre de l'Association des Ombudsmans et Mediateurs de la Francophonie (AOMF)",
+      "stance": "institutional",
+      "stance_notes": "Institution officielle des droits de l'enfant pour la Communaute francaise. Pas de position publique formelle PAS-rejecting ou PAS-recognizing, mais le DGDE est le destinataire institutionnel des plaintes en lien avec les conflits familiaux affectant les droits de l'enfant, et son comite consultatif comprend des experts dont Yves-Hiram Haesevoets. Le DGDE est l'institution garante de la mise en oeuvre de la Convention internationale des droits de l'enfant (CIDE, adoptee par la Belgique le 16 decembre 1991). Pole francophone bicommunautaire de la structure droits-de-l'enfant belge (en miroir du Vlaamse Kinderrechtencommissariaat).",
+      "publications": [
+        {"title": "Avis et recommandations annuels", "year": 2024, "venue": "DGDE", "url": "https://www.defenseurdesenfants.be/qui-est-le-dgde/avis"}
+      ],
+      "urls": [
+        "https://www.defenseurdesenfants.be/",
+        "https://www.defenseurdesenfants.be/qui-est-le-dgde/avis",
+        "https://www.belgium.be/fr/adresses_et_sites/regions_communautes/cf_-_delegue_general_aux_droits_de_l_enfant",
+        "https://fr.wikipedia.org/wiki/D%C3%A9l%C3%A9gu%C3%A9_g%C3%A9n%C3%A9ral_aux_droits_de_l%27enfant"
+      ],
+      "contact": "dgde@cfwb.be; Boulevard Roi Albert II 7, 1210 Bruxelles",
+      "verification_notes": "Verifie via defenseurdesenfants.be (site officiel), belgium.be, AOMF. Succession Bernard De Vos / Solayman Laqdim confirmee.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.haesevoets-yves-hiram",
+        "practitioner:be.kinderrechtencommissariaat"
+      ]
+    },
+    {
+      "id": "be.kinderrechtencommissariaat",
+      "name": "Vlaams Kinderrechtencommissariaat (KRC)",
+      "credentials": "Onafhankelijke publieke instelling van de Vlaamse Gemeenschap; verbonden aan het Vlaams Parlement; mandaat: opvolging Verdrag inzake de Rechten van het Kind (IVRK)",
+      "city": "Brussel",
+      "region": "Vlaamse Gemeenschap",
+      "affiliation": "Vlaams Parlement; Vlaamse Gemeenschap; Kinderrechtencoalitie Vlaanderen (partner)",
+      "stance": "institutional",
+      "stance_notes": "Institutionele anchor van de Vlaamse droits-de-l'enfant-structuur. Geen specifieke standpuntneming voor of tegen het PA-construct, maar het KRC heeft uitdrukkelijk gewaarschuwd tegen wetsvoorstellen die het ouderlijk gezag van rechtswege opschorten omdat dit 'het vermoeden van onschuld als mensenrecht schendt en het kindbelang niet respecteert' (advies aan Kamercommissie Justitie). Het KRC erkent dat 'in bepaalde situaties bescherming van kinderen tegen ouderbeslissingen nodig is' maar dat de huidige rechtsbescherming 'beperkt en omslachtig' is. Verschilt strukturel van het Franstalige DGDE: het KRC werkt vanuit een procedureel rechtsbescherming-frame eerder dan vanuit een individueel mediatie-frame.",
+      "publications": [
+        {"title": "Adviezen aan het Vlaams Parlement en Kamercommissies", "year": 2024, "venue": "Kinderrechtencommissariaat", "url": "https://www.kinderrechten.be/advies"},
+        {"title": "Beschermen van kinderen gaat boven straffen van ouders (advies)", "year": 2023, "venue": "Kinderrechtencommissariaat", "url": "https://www.kinderrechten.be/advies/beschermen-van-kinderen-gaat-boven-straffen-van-ouders"}
+      ],
+      "urls": [
+        "https://www.kinderrechten.be/",
+        "https://www.kinderrechten.be/advies",
+        "https://kinderrechtencommissariaat.be/wat-doen-we",
+        "https://www.vlaamsparlement.be/nl/over-ons/extra/begrippenlijst/kinderrechtencommissariaat"
+      ],
+      "contact": "kinderrechten@vlaamsparlement.be; Leuvenseweg 86, 1000 Brussel",
+      "verification_notes": "Geverifieerd via kinderrechten.be (officiele site), Vlaams Parlement, Wikipedia Kinderrechtencoalitie Vlaanderen.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.delegue-general-droits-enfant"
+      ]
+    },
+    {
+      "id": "be.universite-des-femmes",
+      "name": "Universite des Femmes (asbl)",
+      "credentials": "Centre d'education permanente feministe; reconnu par la Federation Wallonie-Bruxelles; ASBL; partenaire historique de Sophia (reseau belge des etudes de genre)",
+      "city": "Bruxelles",
+      "region": "Federation Wallonie-Bruxelles",
+      "affiliation": "Federation Wallonie-Bruxelles (education permanente); partenariat avec SOS Inceste Belgique, Sophia, Vie Feminine; collection 'Pensees feministes'",
+      "stance": "critique",
+      "stance_notes": "Anchor critique-camp francophone. L'Universite des Femmes a co-realise avec SOS Inceste Belgique des analyses critiques du construct 'syndrome d'alienation parentale' dans son usage par la magistrature. Etudes et analyses publiees regulierement (2018 et suivantes). Collection 'Pensees feministes' (publication serie). Pole institutionnel critique-camp ancre en Communaute francaise, avec lien direct vers le reseau international des 'meres protectrices' qui mobilisent le cadre du controle coercitif (cross-link FR Gruev-Vintila).",
+      "publications": [
+        {"title": "Etudes et Analyses (2018-2024) sur violences post-separation, AP et complicite institutionnelle", "year": 2018, "venue": "Universite des Femmes", "url": "https://www.universitedesfemmes.be/se-documenter/etudes-et-analyses-2"},
+        {"title": "Colloque Inceste, expression du patriarcat", "year": 2019, "venue": "Universite des Femmes", "url": "https://www.universitedesfemmes.be/events-universite-des-femmes/historique-des-activites/171-colloque-inceste-expression-du-patriarcat"},
+        {"title": "Collection 'Pensees feministes' (serie continue)", "year": 2023, "venue": "Universite des Femmes Bruxelles"}
+      ],
+      "urls": [
+        "https://www.universitedesfemmes.be/",
+        "https://www.universitedesfemmes.be/se-documenter/etudes-et-analyses-2",
+        "https://www.universitedesfemmes.be/se-documenter/recherches"
+      ],
+      "contact": "info@universitedesfemmes.be; rue du Meridien 10, 1210 Bruxelles",
+      "verification_notes": "Verifie via site officiel universitedesfemmes.be. Partenariat SOS Inceste Belgique confirme. Collection 'Pensees feministes' confirmee.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:fr.gruev-vintila-andreea",
+        "practitioner:be.solidarite-femmes-la-louviere"
+      ]
+    },
+    {
+      "id": "be.solidarite-femmes-la-louviere",
+      "name": "Solidarite Femmes La Louviere (asbl)",
+      "credentials": "Maison d'accueil pour femmes victimes de violences conjugales; co-gestionnaire de la Ligne Ecoute Violences Conjugales 0800/30 0 30 avec CVFE et CPVCF; partenaire de l'International Partnership for Innovative Solutions to Domestic Violence",
+      "city": "La Louviere (Hainaut)",
+      "region": "Wallonie",
+      "affiliation": "Reseau wallon des maisons d'accueil pour femmes victimes de violences; partenariat international (Canada, France, Italie, Belgique) sur violences post-separation",
+      "stance": "critique",
+      "stance_notes": "Position critique-camp publique et argumentee. Page dediee 'Le syndrome d'alienation parentale: Parental Alienation and Domestic Violence' sur solidarite-femmes.be qualifie le construct de 'non listee dans le DSM' avec 'aucun fondement scientifique', et le situe comme 'accusations dirigees contre les meres victimes par des peres violents, et par un systeme social et judiciaire souvent ignorant des mecanismes sous-jacents a la violence conjugale'. Co-organisateur du colloque international octobre 2019 sur les violences post-separation avec partenaires Canada, France, Italie, Belgique.",
+      "publications": [
+        {"title": "Le syndrome d'alienation parentale: Parental Alienation and Domestic Violence", "year": 2019, "venue": "Solidarite Femmes La Louviere", "url": "https://www.solidarite-femmes.be/recherche/le-syndrome-dalienation-parentale/"},
+        {"title": "Colloque international 'Violences post-separation'", "year": 2019, "venue": "Solidarite Femmes La Louviere, partenariat international"}
+      ],
+      "urls": [
+        "https://www.solidarite-femmes.be/",
+        "https://www.solidarite-femmes.be/recherche/le-syndrome-dalienation-parentale/",
+        "https://www.solidarite-femmes.be/partenariats/partenariats-divers/"
+      ],
+      "contact": "Solidarite Femmes La Louviere; 0800/30 0 30 (Ligne Ecoute Violences Conjugales)",
+      "verification_notes": "Verifie via solidarite-femmes.be (site officiel). Position publique PAS-critique explicite et documentee.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.iefh-igvm",
+        "practitioner:fr.gruev-vintila-andreea"
+      ]
+    },
+    {
+      "id": "be.code-coordination-droits-enfant",
+      "name": "Coordination des ONG pour les droits de l'enfant (CODE)",
+      "credentials": "Coordination des ONG francophones pour les droits de l'enfant; agreee par la Federation Wallonie-Bruxelles; regroupe DEI Belgique, Jeunesse & Droit, Plan International, UNICEF Belgique, Ligue des familles et autres",
+      "city": "Bruxelles",
+      "region": "Federation Wallonie-Bruxelles",
+      "affiliation": "Federation Wallonie-Bruxelles; partenariat avec Jeunesse & Droit (publication conjointe de l'analyse 2023)",
+      "stance": "critique",
+      "stance_notes": "Anchor critique-camp pour la societe civile droits-de-l'enfant francophone. Publication-cle: analyse octobre 2023 'L'alienation parentale: un concept a risques pour les enfants et leurs droits' (representative de la position de la majorite des membres de la CODE). L'analyse rappelle les droits de l'enfant a considerer dans la judiciarisation de la vie familiale, decrit le concept d'AP et le poids qu'il peut avoir dans la sphere judiciaire, et conclut sur un 'concept entoure d'un grand flou et controverse'.",
+      "publications": [
+        {"title": "L'alienation parentale: un concept a risques pour les enfants et leurs droits (analyse CODE)", "year": 2023, "venue": "CODE / Jeunesse & Droit", "url": "https://lacode.be/wp-content/uploads/2023/10/Analyse_Lalienation-parentale-un-concept-a-risques-pour-les-enfants-et-leurs-droits_Oct2023.pdf"}
+      ],
+      "urls": [
+        "https://lacode.be/",
+        "https://lacode.be/wp-content/uploads/2023/10/Analyse_Lalienation-parentale-un-concept-a-risques-pour-les-enfants-et-leurs-droits_Oct2023.pdf",
+        "https://www.jeunesseetdroit.be/lalienation-parentale-un-concept-a-risques-pour-les-enfants-et-leurs-droits/"
+      ],
+      "contact": "info@lacode.be",
+      "verification_notes": "Verifie via lacode.be et jeunesseetdroit.be (publication conjointe). Analyse octobre 2023 disponible en PDF integral.",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.delegue-general-droits-enfant"
+      ]
+    },
+    {
+      "id": "be.la-mouette-belgique",
+      "name": "La Mouette Belgique (asbl)",
+      "credentials": "Association sans but lucratif belge; fondee en 2001 par Eliane Masson (sur le modele de La Mouette France fondee en 1984 par Annie Gourgue); defense, protection des enfants, soutien aux familles de victimes",
+      "city": "Belgique francophone",
+      "region": "Federation Wallonie-Bruxelles",
+      "affiliation": "Reseau associatif droits de l'enfant; partenariat historique avec ACALPA (France); a accueilli les conferences Van Dieren (2005), Van Gijseghem (2002, 2010), colloque SAP (2003)",
+      "stance": "recognition",
+      "stance_notes": "Anchor recognition-camp francophone belge. ASBL d'advocacy sur l'AP, pas un service clinique. Organisatrice du colloque SAP d'octobre 2003 (Elzius, Marcq, Gautier, Deleau, Van Dieren, Limet), des conferences Hubert Van Gijseghem (2002 'Syndrome de l'alienation parentale', 2010 'L'irreductible resistance au concept d'alienation parentale'), de Benoit Van Dieren (mars 2005 'Prevention de l'alienation parentale'), et publication d'articles incluant 'L'alienation parentale et le DSM-5' (2014). Pole advocacy historique, non clinique.",
+      "publications": [
+        {"title": "Colloque SAP (Elzius, Marcq, Gautier, Deleau, Van Dieren, Limet)", "year": 2003, "venue": "La Mouette Belgique"},
+        {"title": "Prevention de l'alienation parentale (conference Van Dieren)", "year": 2005, "venue": "La Mouette Belgique", "url": "https://sites.google.com/site/lamouettebelgique/conferences/prevention-de-l-alienation-parentale---par-benoit-van-dieren---mars-2005"},
+        {"title": "L'irreductible resistance au concept d'alienation parentale (Van Gijseghem)", "year": 2010, "venue": "La Mouette Belgique", "url": "http://www.lamouettebelgique.com/articles/psychologie/l-irreductible-resistance-au-concept-d-alienation-parentale---hubert-van-gijseghem"},
+        {"title": "L'alienation parentale et le DSM-5", "year": 2014, "venue": "La Mouette Belgique", "url": "https://sites.google.com/site/lamouettebelgique/articles/psychologie/l-alienation-parentale-et-le-dsm-5"}
+      ],
+      "urls": [
+        "http://www.lamouettebelgique.com/",
+        "https://sites.google.com/site/lamouettebelgique/"
+      ],
+      "contact": "Via site web lamouettebelgique.com (non publiquement detaillee)",
+      "verification_notes": "Verifie via lamouettebelgique.com et sites.google.com/site/lamouettebelgique. Anchor advocacy-recognition historique, listee comme contexte (non comme practitioner clinique individuel).",
+      "references": [
+        "jurisdiction:belgium",
+        "practitioner:be.van-dieren-benoit",
+        "practitioner:be.limet-olivier"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "id": "be.coenen-roland",
+      "name": "Roland Coenen",
+      "exclusion_reason": "Non verifiable comme praticien PA-specifique. Coenen est psychotherapeute systemique a Bruxelles, ex-directeur du Tamaris (1990-2005), specialise en pedagogie non-punitive (PNP) et travail avec adolescents en difficulte. Son corpus (Eres, Therapie Familiale) ne contient pas de publication PA-specifique verifiable. Inclus en excluded pour signaler que la recherche a ete faite mais qu'aucune source primaire ne le situe sur le champ AP directement.",
+      "primary_source_url": "https://www.editions-eres.com/nos-auteurs/52687/coenen-roland",
+      "references": ["jurisdiction:belgium"]
+    },
+    {
+      "id": "be.sayed-sabrine",
+      "name": "Sabrine Sayed",
+      "exclusion_reason": "Non verifiable publiquement comme chercheure PA-specifique. Recherches sur Sabrine Sayed dans le contexte ULB / Sophia / violences de genre n'ont pas retourne de profil universitaire ou de publication PA-specifique verifiable via sources primaires (ULB faculty page, Sophia membres, Cairn). Inclus en excluded sous 'non verifiable publiquement'. Possible confusion homonymique ou identification a confirmer.",
+      "primary_source_url": "https://www.sophia.be/en/sophia-home-en/about-sophia/",
+      "references": ["jurisdiction:belgium"]
+    },
+    {
+      "id": "be.garance-asbl",
+      "name": "Garance ASBL",
+      "exclusion_reason": "ASBL feministe d'autodefense (fondee 2000, Bruxelles, Boulevard du Jubile 155, 1080 Bruxelles) avec mandat sur violences de genre et prevention primaire. Cependant aucune publication ou position publique specifique sur l'alienation parentale n'est verifiable via garance.be. La requete originale anticipait une position 'PA-as-DV-tactic' mais celle-ci n'est pas documentee dans le corpus public de Garance. Inclus en excluded sous 'non verifiable comme PA-positionnee'.",
+      "primary_source_url": "https://www.garance.be/",
+      "references": ["jurisdiction:belgium"]
+    },
+    {
+      "id": "be.vie-feminine",
+      "name": "Vie Feminine",
+      "exclusion_reason": "Mouvement de femmes francophone (chretien-social) actif en Federation Wallonie-Bruxelles. Cite dans le rapport alternatif Amnesty / RTBF Investigation 2022 'meres protectrices diabolisees' aux cotes de Femmes de droit et Innocences en danger Belgique pour avoir 'recense une centaine de situations' d'usage problematique de l'AP. Toutefois, pas de publication primaire isolee Vie Feminine sur l'AP verifiable; la position est portee dans un collectif. Inclus en excluded en tant qu'entite distincte, position deja capturee par CODE et Universite des Femmes. Inclusion possible en cas de production future de document primaire Vie Feminine seul sur l'AP.",
+      "primary_source_url": "https://www.rtbf.be/article/investigation-sur-laide-a-la-jeunesse-des-meres-protectrices-diabolisees-11170939",
+      "references": ["jurisdiction:belgium"]
+    },
+    {
+      "id": "be.sophia-reseau",
+      "name": "Sophia (reseau belge des etudes de genre)",
+      "exclusion_reason": "Reseau bilingue NL+FR des etudes de genre (fonde 1989), finance par l'IEFH/IGVM. Coordonne la banque de donnees des etudes de genre. Aucune publication Sophia seule sur l'AP verifiable; Sophia est un reseau de coordination plutot qu'un producteur de positions sur PA. Position capturee de facto par l'IEFH/IGVM (financeur) et par les entites membres (Universite des Femmes, IEFH).",
+      "primary_source_url": "https://www.sophia.be/en/sophia-home-en/about-sophia/",
+      "references": ["jurisdiction:belgium"]
+    },
+    {
+      "id": "be.css-hgr-conseil-superieur-sante",
+      "name": "Conseil Superieur de la Sante / Hoge Gezondheidsraad (CSS-HGR)",
+      "exclusion_reason": "Conseil consultatif scientifique federal du SPF Sante publique. Aucun avis CSS/HGR sur l'alienation parentale verifiable via hgr-css.be (corpus d'avis publics consulte). Le champ familial-judiciaire n'est pas dans le mandat principal du CSS qui traite principalement la sante publique au sens biomedical et nutritionnel. Inclus en excluded pour signaler la verification effectuee.",
+      "primary_source_url": "https://www.hgr-css.be/en/reports",
+      "references": ["jurisdiction:belgium"]
+    }
+  ]
+}

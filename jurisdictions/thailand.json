@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "id": "thailand",
+  "name": "Thailand (ประเทศไทย)",
+  "jurisdiction_code": "TH",
+  "legal_system": "civil-law",
+  "language": ["th"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Thailand is a Southeast Asian civil-law constitutional monarchy whose family-law framework operates under the Civil and Commercial Code (CCC) Book 5 (Family). Parental power (อำนาจปกครอง / amnaj pokkrong) is governed by CCC arts. 1566-1598/14; joint exercise during marriage is the statutory default. The Supreme Court (Sandika Suprim / ศาลฎีกา) is the apex court for civil and criminal matters; the Constitutional Court (ศาลรัฐธรรมนูญ) operates separate constitutional-review jurisdiction. Specialised Juvenile and Family Courts (ศาลเยาวชนและครอบครัว) operate at first instance for family-law matters under the Juvenile and Family Court and Procedure Act 2010. Psychology profession is regulated through Ministry of Public Health licensing under the Mental Health Act 2008 framework. Thailand is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Thailand acceded to the Hague Convention 1980 effective 1 November 2002.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil and Commercial Code Book 5 arts. 1566-1598/14",
+      "title": "CCC Book 5 — Family",
+      "year": 1935,
+      "url": "https://www.krisdika.go.th/",
+      "relevance": "Federal civil code governing family law including parental power (amnaj pokkrong); joint exercise during marriage is the statutory default. Substantially amended over time."
+    },
+    {
+      "citation": "Juvenile and Family Court and Procedure Act 2010",
+      "title": "Juvenile and Family Court and Procedure Act",
+      "year": 2010,
+      "url": "https://www.krisdika.go.th/",
+      "relevance": "Federal procedural statute for specialised Juvenile and Family Courts."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "ศาลฎีกา (Supreme Court of Thailand)",
+      "seat": "Bangkok",
+      "url": "https://supremecourt.coj.go.th/",
+      "role": "Apex civil and criminal court."
+    },
+    {
+      "name": "ศาลรัฐธรรมนูญ (Constitutional Court)",
+      "seat": "Bangkok",
+      "url": "https://www.constitutionalcourt.or.th/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Public Health — Mental Health Department (กรมสุขภาพจิต)",
+      "url": "https://www.dmh.go.th/",
+      "role": "Ministry-level regulator administering mental health professional licensing."
+    },
+    {
+      "name": "Thai Clinical Psychologist Association",
+      "url": "https://www.thaipsychology.or.th/",
+      "role": "Peak professional association for clinical psychologists in Thailand."
+    }
+  ],
+  "anonymisation_convention": "Thai family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1935,
+      "title": "Civil and Commercial Code Book 5",
+      "description": "Family law book of the CCC enacted."
+    },
+    {
+      "year": 2002,
+      "title": "Hague Convention 1980 accession",
+      "description": "Thailand acceded to the Hague Convention 1980 on Child Abduction effective 1 November 2002."
+    },
+    {
+      "year": 2010,
+      "title": "Juvenile and Family Court and Procedure Act",
+      "description": "Specialised Juvenile and Family Courts framework established."
+    }
+  ],
+  "structural_findings": [
+    "Thailand operates a civil-law framework with substantial reform tradition — CCC Book 5 + specialised Juvenile and Family Courts.",
+    "Hague Convention 1980 accession 2002 places Thailand in the Hague cluster — one of the earlier Asian accessions.",
+    "Psychology profession regulation through Ministry of Public Health framework without statutory professional-order regime."
+  ],
+  "references": [
+    "jurisdiction:singapore",
+    "jurisdiction:vietnam",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Thailand",
+      "url": "https://supremecourt.coj.go.th/",
+      "publisher": "Supreme Court",
+      "language": "th,en"
+    },
+    {
+      "title": "Office of the Council of State",
+      "url": "https://www.krisdika.go.th/",
+      "publisher": "Council of State of Thailand",
+      "language": "th,en"
+    },
+    {
+      "title": "Constitutional Court of Thailand",
+      "url": "https://www.constitutionalcourt.or.th/",
+      "publisher": "Constitutional Court",
+      "language": "th,en"
+    }
+  ],
+  "editorial_notes": [
+    "Thailand jurisdiction sidecar — civil-law framework. CCC Book 5 + Juvenile and Family Courts + Hague Convention 1980 accession 2002.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Asian + civil-law + Hague Convention clusters within the corpus."
+  ]
+}

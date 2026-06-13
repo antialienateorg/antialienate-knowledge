@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.0",
+  "id": "estonia",
+  "name": "Estonia (Eesti)",
+  "jurisdiction_code": "EE",
+  "legal_system": "civil-law",
+  "language": ["et"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Estonia is a Baltic civil-law unitary republic whose family-law framework operates under the Perekonnaseadus (Family Law Act) Law of 2009 in force 1 July 2010. Parental rights and obligations (vanema õigused ja kohustused) are governed by Perekonnaseadus §§ 116-149. Joint custody (ühishooldusõigus) is held by parents who are married to each other and operates as the statutory default; for unmarried parents joint custody is established by joint declaration to the population-register or by court order. The Riigikohus (Supreme Court of Estonia, Tartu) is the apex court for civil and criminal matters with three chambers (civil, administrative, criminal) and a Constitutional Review Chamber. Psychology profession is regulated under the Tervishoiuteenuste korraldamise seadus (Health Services Organisation Act) framework with the Eesti Psühholoogide Liit (Estonian Psychologists Union) operating professional standards. Estonia is silent on 'parental alienation' as a statutory label; courts operate substantively under the lapse parimad huvid (best-interests-of-the-child) standard.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Perekonnaseadus 2009 §§ 116-149",
+      "title": "Family Law Act 2009 — Parental rights and obligations",
+      "year": 2009,
+      "url": "https://www.riigiteataja.ee/akt/PKS",
+      "relevance": "Federal statute on family law adopted 18 November 2009, in force 1 July 2010. §§ 116-149 govern parental rights and obligations; joint custody (ühishooldusõigus) operates as the statutory default for married parents."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Riigikohus (Supreme Court of Estonia)",
+      "seat": "Tartu",
+      "url": "https://www.riigikohus.ee/",
+      "role": "Apex court for civil and criminal matters with three chambers (civil, administrative, criminal) plus Constitutional Review Chamber. Family-law decisions reach the Civil Chamber via the Ringkonnakohus (Circuit Court of Appeal) following first-instance Maakohus (County Court) determinations."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Eesti Psühholoogide Liit (Estonian Psychologists Union)",
+      "url": "https://www.epl.org.ee/",
+      "role": "Peak professional union for psychologists in Estonia. Operates ethics code and professional standards."
+    }
+  ],
+  "anonymisation_convention": "Estonian family-law decisions are anonymised per Riigikohus practice using initials.",
+  "key_developments": [
+    {
+      "year": 2009,
+      "title": "Perekonnaseadus 2009 adopted",
+      "description": "New Family Law Act adopted 18 November 2009."
+    },
+    {
+      "year": 2010,
+      "title": "Perekonnaseadus in force",
+      "description": "Family Law Act in force 1 July 2010 — modernised parental rights and obligations framework."
+    }
+  ],
+  "structural_findings": [
+    "Estonia sits structurally within the Baltic civil-law cluster alongside Latvia + Lithuania — modernised Family Law Act 2010 + welfare-standard family-court framework + Riigikohus Constitutional Review Chamber.",
+    "Riigikohus Constitutional Review Chamber operates within a unified apex court rather than as a separate Constitutional Court — distinctive among CEE jurisdictions in the corpus.",
+    "Psychology profession regulation operates through Health Services Organisation Act framework + EPL peak-body ethics oversight."
+  ],
+  "references": [
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Riigikohus (Supreme Court of Estonia)",
+      "url": "https://www.riigikohus.ee/",
+      "publisher": "Riigikohus",
+      "language": "et,en"
+    },
+    {
+      "title": "Riigi Teataja — Estonian official legal database",
+      "url": "https://www.riigiteataja.ee/",
+      "publisher": "Government of Estonia",
+      "language": "et,en"
+    },
+    {
+      "title": "Eesti Psühholoogide Liit (EPL)",
+      "url": "https://www.epl.org.ee/",
+      "publisher": "EPL",
+      "language": "et"
+    }
+  ],
+  "editorial_notes": [
+    "Estonia jurisdiction sidecar — Baltic civil-law framework. Perekonnaseadus 2010 + Riigikohus with Constitutional Review Chamber + EPL peak-body psychology regulation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Baltic civil-law cluster within the corpus."
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "id": "queen-maud-land",
+  "name": "Queen Maud Land (Dronning Maud Land)",
+  "jurisdiction_code": "AQ-NO",
+  "legal_system": "civil-law",
+  "language": ["no"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Queen Maud Land (Dronning Maud Land) is an Antarctic civil-law Norwegian dependency comprising the sector of Antarctica between 20°W and 45°E longitude — structurally distinctive globally as the only national Antarctic territorial claim that extends from 60°S to the South Pole (Norwegian 2015 clarification removing the prior northern-only definition), and as one of seven national Antarctic territorial claims operating under the 1959 Antarctic Treaty's claim-suspension framework (article IV). Queen Maud Land is named after Queen Maud of Norway (Princess Maud of Wales, granddaughter of Queen Victoria) and was annexed by Norway on 14 January 1939. Queen Maud Land has no permanent civilian population — only seasonal Norwegian Polar Institute research staff at Troll research station. Together with Peter I Island, Queen Maud Land forms Norway's two Antarctic dependencies. Family-law framework is theoretical given the absence of permanent civilian population, but operates under Norwegian law applied via the Dependencies Act 1930. Parental authority and child custody would in principle operate under the Norwegian Children Act 1981 (Barnelova). Norwegian courts have jurisdiction over Queen Maud Land matters; final appellate jurisdiction lies with the Supreme Court of Norway. Queen Maud Land is silent on 'parental alienation' as a statutory label. Queen Maud Land is a Hague Convention 1980 party via Norwegian territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Dependencies Act 1930 (Bilandsloven, Norway)",
+      "title": "Dependencies Act 1930",
+      "year": 1930,
+      "url": "https://lovdata.no/",
+      "relevance": "Norwegian Act of 27 February 1930 establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework — applicable to Queen Maud Land, Peter I Island, and Bouvet Island."
+    },
+    {
+      "citation": "Royal Decree of 14 January 1939 (Queen Maud Land annexation)",
+      "title": "Queen Maud Land Annexation Decree 1939",
+      "year": 1939,
+      "url": "https://lovdata.no/",
+      "relevance": "Norwegian Royal Decree of 14 January 1939 formally annexing Queen Maud Land to Norway."
+    },
+    {
+      "citation": "Royal Decree of 12 June 2015 (Queen Maud Land southern boundary clarification)",
+      "title": "Queen Maud Land Southern Boundary Clarification 2015",
+      "year": 2015,
+      "url": "https://lovdata.no/",
+      "relevance": "Norwegian Royal Decree of 12 June 2015 clarifying that Queen Maud Land extends from 60°S to the South Pole — making it the only national Antarctic territorial claim with explicit pole-extension language."
+    },
+    {
+      "citation": "Antarctic Treaty 1959 (article IV claim suspension)",
+      "title": "Antarctic Treaty",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "International treaty providing for Antarctic claim suspension under article IV — Queen Maud Land claim suspended pending Treaty term."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Norwegian District Court (Tingrett)",
+      "seat": "Oslo (Queen Maud Land jurisdiction)",
+      "url": "https://www.domstol.no/",
+      "role": "First-instance court for civil matters from Queen Maud Land — theoretical given absence of permanent civilian population."
+    },
+    {
+      "name": "Supreme Court of Norway (Høyesterett)",
+      "seat": "Oslo",
+      "url": "https://www.domstol.no/hoyesterett/",
+      "role": "Final appellate court for civil and criminal matters from Queen Maud Land."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Norwegian Directorate of Health (Helsedirektoratet)",
+      "url": "https://www.helsedirektoratet.no/",
+      "role": "Norwegian professional regulatory framework — theoretical given absence of permanent civilian population."
+    }
+  ],
+  "anonymisation_convention": "Queen Maud Land decisions are anonymised per Norwegian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1930,
+      "title": "Dependencies Act (Bilandsloven)",
+      "description": "Norwegian Act of 27 February 1930 establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework."
+    },
+    {
+      "year": 1939,
+      "title": "Queen Maud Land annexation",
+      "description": "Norwegian Royal Decree of 14 January 1939 formally annexing Queen Maud Land to Norway in response to anticipated German Antarctic expedition."
+    },
+    {
+      "year": 1959,
+      "title": "Antarctic Treaty signed",
+      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Queen Maud Land claim suspended pending Treaty term."
+    },
+    {
+      "year": 1989,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by Norway to Queen Maud Land effective 1 April 1989."
+    },
+    {
+      "year": 2015,
+      "title": "Queen Maud Land southern boundary clarification to South Pole",
+      "description": "Norwegian Royal Decree of 12 June 2015 clarifying that Queen Maud Land extends from 60°S to the South Pole — making it the only national Antarctic territorial claim with explicit pole-extension language."
+    }
+  ],
+  "structural_findings": [
+    "Queen Maud Land operates a civil-law Norwegian-law framework — places Queen Maud Land in the Norwegian Antarctic-dependency cluster.",
+    "Only national Antarctic territorial claim with explicit pole-extension language (2015) is structurally distinctive globally.",
+    "Second civil-law Antarctic claim-jurisdiction (alongside TAAF Adélie Land) is structurally distinctive — civil-law Antarctic claim cluster.",
+    "Antarctic Treaty article IV claim suspension is shared with BAT, AAT, TAAF Adélie Land, Ross Dependency.",
+    "Absence of permanent civilian population renders family-law framework theoretical — structurally distinctive within Hague Convention party cluster.",
+    "Norway holds two Antarctic-region dependencies (Queen Maud Land + Peter I Island) plus one Sub-Antarctic dependency (Bouvet Island) — most numerous Antarctic-region dependency framework after UK."
+  ],
+  "references": [
+    "jurisdiction:norway",
+    "jurisdiction:british-antarctic-territory",
+    "jurisdiction:australian-antarctic-territory",
+    "jurisdiction:ross-dependency",
+    "jurisdiction:french-southern-and-antarctic-lands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Norwegian Polar Institute",
+      "url": "https://www.npolar.no/",
+      "publisher": "Norwegian Government",
+      "language": "no"
+    },
+    {
+      "title": "Lovdata",
+      "url": "https://lovdata.no/",
+      "publisher": "Norwegian Government",
+      "language": "no"
+    },
+    {
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "publisher": "Antarctic Treaty Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Queen Maud Land jurisdiction sidecar — civil-law Antarctic Norwegian dependency (Norwegian law + Dependencies Act 1930 + 1939 annexation + 2015 South Pole extension + Antarctic Treaty 1959 article IV claim suspension + Hague via Norwegian territorial extension 1989). Only national Antarctic territorial claim with explicit pole-extension language globally + second civil-law Antarctic claim alongside TAAF.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Antarctic + civil-law + Norwegian-dependency cluster + South-Pole-extension-globally-distinctive + civil-law-Antarctic-claim + Antarctic-Treaty-article-IV-claim-suspension + Hague-via-Norwegian-territorial-extension clusters within the corpus."
+  ]
+}

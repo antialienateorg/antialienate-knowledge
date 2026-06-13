@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.0",
+  "id": "vojvodina",
+  "name": "Vojvodina (Војводина / Vajdaság / Voivodina / Voivodina)",
+  "jurisdiction_code": "RS-VO",
+  "legal_system": "civil-law",
+  "language": ["sr", "hu", "sk", "ro", "ru", "hr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Vojvodina (Cyrillic: Војводина / Hungarian: Vajdaság / Slovak: Vojvodina / Romanian: Voivodina / Rusyn: Войводина) is a Pannonian Plain civil-law Autonomous Province of the Republic of Serbia — structurally distinctive globally as the only modern Serbian sub-national territory operating formal Autonomous Province (Аутономна Покрајина) constitutional framework under Constitution of Serbia 2006 Article 182, as the only modern jurisdiction globally operating formal six-language official-administrative framework (Serbian + Hungarian + Slovak + Romanian + Rusyn + Croatian — formally recognised as official languages of Vojvodina under Statute of the Autonomous Province of Vojvodina 2014 Article 24, distinct from rest-of-Serbia + globally where one to four formal official languages typically operate), as the central jurisdiction of one of the most ethnolinguistically diverse sub-national jurisdictions globally (~67% Serb + ~13% Hungarian + ~3% Slovak + ~2% Croat + ~2% Roma + ~2% Romanian + ~1% Rusyn + others — distinct multi-ethnic Pannonian Plain framework), as the central jurisdiction of historical Austro-Hungarian Vojvodina of Serbia and Temeš Banat 1849-1860 framework (only formally-named Serbian autonomous territory within Habsburg Empire framework — distinct from rest-of-Habsburg-territories which operated mono-ethnic crown-land frameworks), and as the central jurisdiction of one of the most distinctive modern post-Yugoslav-Wars autonomy frameworks (Vojvodina autonomy reduced 1990 by Serbian Constitution + restored by 2009 Statute of Vojvodina + 2014 Statute of Vojvodina — only modern Serbian sub-national territory with formal autonomy-reduction-and-restoration trajectory). Vojvodina historically operated under Habsburg Monarchy 1699-1849 + Vojvodina of Serbia and Temeš Banat 1849-1860 + Habsburg/Austro-Hungarian Empire 1860-1918 + Kingdom of Serbs, Croats and Slovenes / Yugoslavia 1918-1941 + WWII Axis occupation 1941-1944 + Socialist Federal Republic of Yugoslavia 1945-1992 (with formal Vojvodina Autonomous Province status from 1945) + Federal Republic of Yugoslavia 1992-2003 + State Union of Serbia and Montenegro 2003-2006 + Republic of Serbia 2006+. Vojvodina comprises ~21,506 km² with a population of ~1.95 million. Family-law framework operates under the federal Serbian civil-law framework (Family Law of Serbia 18/2005) applied uniformly across Serbian sub-national territories. The Higher Court in Novi Sad is the apex regional court; final appellate jurisdiction lies with the Supreme Cassation Court of Serbia. Vojvodina is silent on 'parental alienation' as a statutory label. Serbia is a Hague Convention 1980 signatory and party (acceded 12 March 2001 effective 1 June 2001 via succession from FRY) — Vojvodina is governed by Serbian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Serbia 2006 Article 182 (Autonomous Provinces)",
+      "title": "Constitution of Serbia Article 182",
+      "year": 2006,
+      "url": "https://www.parlament.gov.rs/",
+      "relevance": "Serbian Constitutional Article 182 establishing Autonomous Province framework — applicable to Vojvodina + Kosovo and Metohija (contested status)."
+    },
+    {
+      "citation": "Statute of the Autonomous Province of Vojvodina 2014",
+      "title": "Statute of Vojvodina",
+      "year": 2014,
+      "url": "https://www.skupstinavojvodine.gov.rs/",
+      "relevance": "Statute of the Autonomous Province of Vojvodina adopted 22 May 2014 — formal autonomy-framework constitutional document including Article 24 establishing formal six-language official-administrative framework."
+    },
+    {
+      "citation": "Family Law of Serbia 18/2005",
+      "title": "Family Law of Serbia",
+      "year": 2005,
+      "url": "https://www.parlament.gov.rs/",
+      "relevance": "Serbian Federal Family Law 18/2005 — federal family-law framework applicable uniformly across Vojvodina."
+    },
+    {
+      "citation": "Hague Convention 1980 — Serbian accession 12 March 2001 via FRY succession",
+      "title": "Hague Convention 1980 — Serbia",
+      "year": 2001,
+      "url": "https://www.hcch.net/",
+      "relevance": "Serbian Hague Convention 1980 accession 12 March 2001 effective 1 June 2001 via succession from FRY — applicable to Vojvodina."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Higher Court in Novi Sad (Viši sud u Novom Sadu)",
+      "seat": "Novi Sad",
+      "url": "https://www.ns.vi.sud.rs/",
+      "role": "Apex regional appellate court for civil and criminal matters from Vojvodina."
+    },
+    {
+      "name": "Supreme Cassation Court of Serbia",
+      "seat": "Belgrade",
+      "url": "https://www.vrh.sud.rs/",
+      "role": "Final appellate court for civil and criminal matters from Vojvodina."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Provincial Secretariat for Health of Vojvodina",
+      "url": "https://www.zdravstvo.vojvodina.gov.rs/",
+      "role": "Vojvodina provincial-level professional regulatory framework + Serbian Federal framework applicable in Vojvodina."
+    }
+  ],
+  "anonymisation_convention": "Vojvodina family-court decisions are anonymised per Serbian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1849,
+      "title": "Vojvodina of Serbia and Temeš Banat established",
+      "description": "Vojvodina of Serbia and Temeš Banat established 18 November 1849 by Austrian Emperor Franz Joseph I — only formally-named Serbian autonomous territory within Habsburg Empire framework 1849-1860."
+    },
+    {
+      "year": 1860,
+      "title": "Vojvodina dissolution + reintegration into Hungary",
+      "description": "Vojvodina of Serbia and Temeš Banat dissolved 1860 + reintegrated into Kingdom of Hungary 1860-1918 within Habsburg/Austro-Hungarian framework."
+    },
+    {
+      "year": 1918,
+      "title": "Vojvodina integration into Kingdom of SCS",
+      "description": "Vojvodina integration into Kingdom of Serbs, Croats and Slovenes 1 December 1918 — post-WWI Habsburg dissolution framework."
+    },
+    {
+      "year": 1945,
+      "title": "Vojvodina Autonomous Province established",
+      "description": "Vojvodina formally established as Autonomous Province within Socialist Federal Republic of Yugoslavia 1 September 1945 — beginning of formal Vojvodina Autonomous Province framework."
+    },
+    {
+      "year": 1974,
+      "title": "SFRY 1974 Constitution + Vojvodina expanded autonomy",
+      "description": "SFRY 1974 Constitution adopted 21 February 1974 — expanded Vojvodina autonomy framework with constitutional standing comparable to constituent republics."
+    },
+    {
+      "year": 1990,
+      "title": "Serbian Constitution + Vojvodina autonomy reduction",
+      "description": "Serbian Constitution 1990 — substantial reduction of Vojvodina autonomy framework as part of Slobodan Milošević era recentralisation framework."
+    },
+    {
+      "year": 2006,
+      "title": "Constitution of Serbia + Autonomous Province framework",
+      "description": "Constitution of Serbia 2006 — Article 182 re-establishment of Autonomous Province framework for Vojvodina."
+    },
+    {
+      "year": 2009,
+      "title": "Statute of Vojvodina 2009",
+      "description": "Statute of the Autonomous Province of Vojvodina adopted 14 December 2009 — formal autonomy-restoration framework."
+    },
+    {
+      "year": 2014,
+      "title": "Statute of Vojvodina 2014",
+      "description": "Statute of the Autonomous Province of Vojvodina adopted 22 May 2014 — current statute with formal six-language official-administrative framework Article 24."
+    }
+  ],
+  "structural_findings": [
+    "Vojvodina operates a civil-law Autonomous Province framework — places Vojvodina in the Pannonian Plain Serbian sub-national cluster.",
+    "Only modern Serbian sub-national territory operating formal Autonomous Province constitutional framework under Constitution of Serbia 2006 Article 182 is structurally distinctive within Serbian framework.",
+    "Only modern jurisdiction globally operating formal six-language official-administrative framework is structurally distinctive globally — Serbian + Hungarian + Slovak + Romanian + Rusyn + Croatian under Statute of Vojvodina 2014 Article 24.",
+    "Central jurisdiction of one of most ethnolinguistically diverse sub-national jurisdictions globally is structurally distinctive globally — ~67% Serb + multi-ethnic Pannonian Plain framework.",
+    "Central jurisdiction of historical Austro-Hungarian Vojvodina of Serbia and Temeš Banat 1849-1860 framework is structurally distinctive globally — only formally-named Serbian autonomous territory within Habsburg Empire framework.",
+    "Central jurisdiction of one of most distinctive modern post-Yugoslav-Wars autonomy frameworks is structurally distinctive globally — 1945 establishment + 1974 expansion + 1990 reduction + 2006-2014 restoration trajectory.",
+    "SFRY 1974 Constitution Vojvodina autonomy framework with constitutional standing comparable to constituent republics is structurally distinctive globally.",
+    "Serbian Hague-Convention-1980-accession-2001 framework applies via FRY succession."
+  ],
+  "references": [
+    "jurisdiction:serbia",
+    "jurisdiction:hungary",
+    "jurisdiction:croatia",
+    "jurisdiction:romania",
+    "jurisdiction:slovakia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Assembly of the Autonomous Province of Vojvodina (Skupština AP Vojvodine)",
+      "url": "https://www.skupstinavojvodine.gov.rs/",
+      "publisher": "Autonomous Province of Vojvodina",
+      "language": "sr"
+    },
+    {
+      "title": "Government of the Autonomous Province of Vojvodina",
+      "url": "https://www.vojvodina.gov.rs/",
+      "publisher": "Autonomous Province of Vojvodina",
+      "language": "sr"
+    }
+  ],
+  "editorial_notes": [
+    "Vojvodina jurisdiction sidecar — civil-law Pannonian Plain Serbian Autonomous Province (Constitution of Serbia 2006 Article 182 + Statute of Vojvodina 2014 Article 24 six-language framework + Family Law of Serbia 18/2005 + Vojvodina of Serbia and Temeš Banat 1849-1860 + Vojvodina Autonomous Province 1945+ + SFRY 1974 Constitution expansion + 1990 Serbian Constitution autonomy reduction + 2006-2014 autonomy restoration trajectory + Serbian Hague-1980 via FRY succession). Only modern Serbian sub-national territory operating formal Autonomous Province constitutional framework under Constitution of Serbia 2006 Article 182 + only modern jurisdiction globally operating formal six-language official-administrative framework + central jurisdiction of one of most ethnolinguistically diverse sub-national jurisdictions globally + central jurisdiction of historical Austro-Hungarian Vojvodina of Serbia and Temeš Banat 1849-1860 framework + 1945-1974-1990-2006-2014 autonomy trajectory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pannonian-Plain + civil-law + Serbian-Autonomous-Province cluster + Constitution-of-Serbia-2006-Article-182-Autonomous-Province + six-language-official-administrative-framework-globally-distinctive + multi-ethnic-Pannonian-Plain-Serb-Hungarian-Slovak-Romanian-Rusyn-Croat + Vojvodina-of-Serbia-and-Temeš-Banat-1849-1860-Habsburg-framework + SFRY-1974-Constitution-expansion + 1990-Milošević-recentralisation-reduction + 2006-2014-autonomy-restoration + Serbian-Hague-1980-2001 clusters within the corpus."
+  ]
+}

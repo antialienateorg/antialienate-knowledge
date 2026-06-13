@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "id": "guinea-bissau",
+  "name": "Guinea-Bissau (Republic of Guinea-Bissau / República da Guiné-Bissau)",
+  "jurisdiction_code": "GW",
+  "legal_system": "civil-law",
+  "language": ["pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Guinea-Bissau is an Atlantic West African civil-law unitary republic whose family-law framework operates under the Civil Code (Código Civil) drawing on Portuguese civil-law substantive heritage (via 1973 independence retention), supplemented by Law 4/2011 on Domestic Violence and customary-law jurisdiction. Parental responsibility (responsabilidade parental) and child custody are governed by Civil Code arts. 1874-1920. The Supreme Court of Justice (Supremo Tribunal de Justiça) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Court of Sector (Tribunal de Sector). Psychology profession is regulated through the Ministry of Health framework. Guinea-Bissau is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard. Guinea-Bissau is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code (Portuguese-derivative) arts. 1874-1920",
+      "title": "Civil Code — Parental responsibility and custody",
+      "year": 1966,
+      "url": "https://www.stj.gw/",
+      "relevance": "Federal Civil Code drawing on Portuguese Civil Code 1966 substantive heritage. Arts. 1874-1920 govern responsabilidade parental and child custody."
+    },
+    {
+      "citation": "Law 4/2011 on Domestic Violence",
+      "title": "Law on Domestic Violence",
+      "year": 2011,
+      "url": "https://www.stj.gw/",
+      "relevance": "Federal Law on Domestic Violence affecting family-law proceedings."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Justice (Supremo Tribunal de Justiça)",
+      "seat": "Bissau",
+      "url": "https://www.stj.gw/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Public Health, Guinea-Bissau",
+      "url": "https://www.minsap.gw/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Bissau-Guinean family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1973,
+      "title": "Independence",
+      "description": "Guinea-Bissau achieved independence from Portugal; retained Portuguese Civil Code 1966 substantive heritage."
+    },
+    {
+      "year": 2011,
+      "title": "Law 4/2011 on Domestic Violence",
+      "description": "Federal Law on Domestic Violence enacted affecting family-law proceedings."
+    }
+  ],
+  "structural_findings": [
+    "Guinea-Bissau operates a Portuguese-civil-law family-law framework — places Guinea-Bissau in the Lusophone African cluster with Cabo Verde, Mozambique, Angola, São Tomé within the corpus.",
+    "Lusophone West African Atlantic position is structurally distinctive within West Africa — Guinea-Bissau is the only Lusophone state in West Africa within the corpus.",
+    "Non-Hague Convention status places Guinea-Bissau in the non-Hague West African cluster."
+  ],
+  "references": [
+    "jurisdiction:cabo-verde",
+    "jurisdiction:portugal",
+    "jurisdiction:guinea",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Justice",
+      "url": "https://www.stj.gw/",
+      "publisher": "Supreme Court",
+      "language": "pt"
+    },
+    {
+      "title": "Ministry of Public Health",
+      "url": "https://www.minsap.gw/",
+      "publisher": "Ministry of Health",
+      "language": "pt"
+    }
+  ],
+  "editorial_notes": [
+    "Guinea-Bissau jurisdiction sidecar — civil-law Lusophone West African Atlantic (Portuguese Civil Code 1966 + Law 4/2011 Domestic Violence + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins West African + Lusophone + civil-law + only-Lusophone-West-Africa-distinctive + non-Hague Convention clusters within the corpus."
+  ]
+}

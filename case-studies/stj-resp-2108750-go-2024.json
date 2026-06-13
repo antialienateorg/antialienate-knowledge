@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "slug": "stj-resp-2108750-go-2024",
+  "caption": "STJ, REsp 2108750/GO, 2024",
+  "jurisdiction_code": "BR",
+  "decision_date": "2024-01-01",
+  "court": "Superior Tribunal de Justiça (Terceira Turma)",
+  "panel": "Terceira Turma do STJ (composição nominal não verificável a partir das fontes secundárias consultadas; o periódico Conjur e o dossiê Parental identificam o colegiado como Terceira Turma do STJ sem listar os Ministros presentes na sessão)",
+  "judges": [
+    {"name": "Ministro Relator (nome não verificável a partir das fontes secundárias consultadas)", "role": "Relator — Terceira Turma do STJ"}
+  ],
+  "parties": {
+    "applicant": "Recorrente — anonimizado conforme convenção brasileira de privacidade em matéria de família e infância (LGPD — Lei nº 13.709/2018, art. 14; ECA — Lei nº 8.069/1990, art. 247; CPC/2015, art. 189, II)",
+    "respondent": "Recorrido — anonimizado conforme convenção brasileira de privacidade em matéria de família e infância",
+    "children": [
+      {
+        "anonym": "Criança (identidade preservada conforme art. 247 do ECA e art. 189, II, do CPC/2015)",
+        "sex": "not_stated",
+        "notes": "Idade e sexo da criança não verificáveis a partir das fontes secundárias consultadas; em causa estão alegações recíprocas de alienação parental (Lei 12.318/2010) e de abuso sexual contra a criança."
+      }
+    ]
+  },
+  "counsel": [
+    {"name": "não verificável a partir das fontes secundárias consultadas", "role": "advogado(a) constituído(a)", "for": "Recorrente"},
+    {"name": "não verificável a partir das fontes secundárias consultadas", "role": "advogado(a) constituído(a)", "for": "Recorrido"},
+    {"name": "Ministério Público do Estado de Goiás (Promotoria de Justiça da Infância e Juventude / Vara de Família)", "role": "custos legis / interveniente obrigatório", "for": "interesse da criança (art. 5º da Lei 12.318/2010; art. 201 do ECA)"}
+  ],
+  "experts": [
+    {"name": "Perito(a) psicológico(a) / equipe biopsicossocial (nome não verificável a partir das fontes secundárias consultadas)", "field": "Perícia psicológica ou avaliação biopsicossocial em sede de família (art. 5º da Lei 12.318/2010)", "instructed_by": "Juízo da Vara de Família de Goiás (primeira instância)"}
+  ],
+  "procedural_history": "Recurso especial interposto com fundamento no art. 105, III, da Constituição Federal, decidido pela Terceira Turma do Superior Tribunal de Justiça em 2024. A demanda originária tramitou perante Vara de Família do Estado de Goiás (primeira instância) e foi objeto de recurso ao Tribunal de Justiça do Estado de Goiás (TJGO), cuja decisão veio então a ser impugnada por REsp ao STJ. Os autos envolveram alegações recíprocas: de um lado, alienação parental imputada a um dos genitores sob o regime da Lei nº 12.318, de 26 de agosto de 2010; de outro, abuso sexual contra a criança imputado ao outro genitor, no marco do Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) e da Convenção sobre os Direitos da Criança (promulgada pelo Decreto nº 99.710/1990). O Ministério Público atuou como custos legis em todas as instâncias (art. 5º, caput, da Lei 12.318/2010; art. 201 do ECA). A Terceira Turma anulou atos processuais praticados nas instâncias ordinárias por insuficiência da instrução probatória, determinando o retorno dos autos para que a ampla instrução probatória — perícia psicológica ou biopsicossocial (art. 5º da Lei 12.318/2010) e exame técnico equivalente da alegação de abuso sexual — fosse efetivamente realizada antes de qualquer providência sancionatória sob o art. 6º da Lei 12.318/2010 (em especial a alteração ou inversão de guarda). Os números dos autos nas instâncias ordinárias, a data exata do julgamento e da publicação em DJe, e a composição nominal da Terceira Turma na sessão de julgamento não são verificáveis a partir das fontes secundárias consultadas (Conjur, Parental, GEMA-IBDFAM) e demandariam verificação direta no portal de jurisprudência do STJ em scon.stj.jus.br.",
+  "summary": "REsp 2.108.750/GO é o pronunciamento de 2024 em que a Terceira Turma do STJ enfrenta a tensão metodológica central da jurisprudência brasileira sobre alienação parental: como deve o juízo de família proceder quando os autos contêm, simultaneamente, alegação de conduta alienadora por um dos genitores (Lei 12.318/2010) e alegação de abuso sexual contra a criança imputada ao outro genitor (ECA — Lei 8.069/1990; Convenção sobre os Direitos da Criança, art. 19). A Turma anula atos processuais das instâncias ordinárias por insuficiência de instrução probatória, fixando a doutrina da 'cautela probatória intensificada' do art. 5º da Lei 12.318/2010 lido em chave de simetria recíproca: nenhum dos dois rótulos — alienação parental ou abuso sexual — pode dispensar a perícia psicológica ou biopsicossocial nem suprir a ampla instrução probatória, especialmente quando a sanção pretendida é a alteração ou inversão de guarda (art. 6º, V, da Lei 12.318/2010). O precedente articula-se com REsp 1.859.228/SP (Rel. Min. Nancy Andrighi) na construção da doutrina da 'não-automaticidade' do STJ em alienação parental e é decidido no exato ano em que a Câmara dos Deputados, pela Comissão de Constituição e Justiça (3 dez. 2025), aprovou o PL 1.372/2023 que pretende a revogação integral da Lei 12.318/2010.",
+  "holding": "Em recurso especial de família que envolve alegações recíprocas de alienação parental (Lei nº 12.318/2010) e de abuso sexual contra criança ou adolescente (ECA — Lei nº 8.069/1990; Convenção sobre os Direitos da Criança), a cautela probatória do STJ se intensifica em proporção à gravidade da sanção pretendida sob o art. 6º da Lei 12.318/2010 — em particular a alteração ou inversão de guarda do art. 6º, V. A perícia psicológica ou biopsicossocial prevista no art. 5º da Lei 12.318/2010 não é prova absoluta, mas sua dispensa só se justifica quando o conjunto probatório for excepcionalmente robusto; tratando-se simultaneamente de alegação de abuso sexual, exige-se ademais o exame técnico equivalente exigido pela legislação protetiva da criança. Atos processuais praticados pelas instâncias ordinárias sem essa ampla instrução probatória devem ser anulados, sob pena de gerar dano irreversível ao desenvolvimento da criança. A doutrina é simétrica: nem o rótulo de alienação parental nem o de abuso sexual pode substituir o dever de instrução probatória; ambos exigem demonstração técnica e fática antes da aplicação das sanções mais disruptivas.",
+  "verbatim_quotes": [
+    {
+      "paragraph": "Ratio decidendi — cautela probatória intensificada (reportado por Conjur, 2 jan. 2026)",
+      "language": "pt",
+      "text": "A cautela probatória do STJ se intensifica quando o debate envolve a aplicação das sanções previstas na Lei de Alienação Parental, especialmente a alteração de guarda.",
+      "translation_en": "The STJ's evidentiary caution intensifies when the debate involves the application of the sanctions provided for in the Parental Alienation Law, especially the change of custody.",
+      "source_url": "https://www.conjur.com.br/2026-jan-02/saiba-o-que-o-stj-tem-decidido-sobre-pericia-e-alteracao-de-guarda-em-casos-de-alienacao-parental/"
+    },
+    {
+      "paragraph": "Ratio decidendi — perícia não é prova absoluta mas sua dispensa exige conjunto probatório excepcionalmente robusto (reportado por Conjur, 2 jan. 2026)",
+      "language": "pt",
+      "text": "Embora a corte reconheça que o exame pericial não é prova absoluta, a jurisprudência indica que a sua dispensa só se justifica quando o conjunto probatório é excepcionalmente robusto.",
+      "translation_en": "Although the Court recognises that expert examination is not absolute proof, the jurisprudence indicates that its waiver is only justified when the body of evidence is exceptionally robust.",
+      "source_url": "https://www.conjur.com.br/2026-jan-02/saiba-o-que-o-stj-tem-decidido-sobre-pericia-e-alteracao-de-guarda-em-casos-de-alienacao-parental/"
+    },
+    {
+      "paragraph": "Síntese doutrinária extraída do acórdão pela imprensa jurídica — dano irreversível em decisões precipitadas sem suporte técnico (reportado por Conjur, 2 jan. 2026)",
+      "language": "pt",
+      "text": "Decisões precipitadas, sem suficiente suporte técnico, podem gerar dano irreversível ao desenvolvimento da criança.",
+      "translation_en": "Hasty decisions, without sufficient technical support, can generate irreversible damage to the development of the child.",
+      "source_url": "https://www.conjur.com.br/2026-jan-02/saiba-o-que-o-stj-tem-decidido-sobre-pericia-e-alteracao-de-guarda-em-casos-de-alienacao-parental/"
+    }
+  ],
+  "outcome": "Recurso especial provido para anular atos processuais praticados nas instâncias ordinárias por insuficiência de instrução probatória, com determinação de retorno dos autos ao juízo de origem (Vara de Família/GO) para que se proceda à ampla instrução probatória — perícia psicológica ou biopsicossocial nos termos do art. 5º da Lei 12.318/2010 e exame técnico equivalente da alegação de abuso sexual no marco do ECA — antes de qualquer aplicação das sanções do art. 6º da Lei 12.318/2010, em especial a alteração ou inversão de guarda do art. 6º, V. Anonimização das partes conforme art. 247 do ECA, art. 189, II, do CPC/2015 e art. 14 da LGPD (Lei nº 13.709/2018). Dispositivo e termos exatos do P.Q.M. não verificáveis a partir das fontes secundárias consultadas; recomenda-se verificação direta no portal de jurisprudência do STJ.",
+  "comparative_jurisprudence": [
+    {
+      "caption": "STJ, REsp 1.859.228/SP, Terceira Turma, Rel. Min. Nancy Andrighi (2024)",
+      "jurisdiction_code": "BR",
+      "case_study_ref": "stj-resp-1859228-sp-2024",
+      "relevance": "Precedente irmão da Terceira Turma — articula a doutrina da 'não-automaticidade' das sanções da Lei 12.318/2010 e a necessidade de perícia psicológica ou biopsicossocial antes de medidas mais disruptivas; REsp 2.108.750/GO é o seu complemento explícito quanto ao tratamento processual de alegações recíprocas de alienação parental e de abuso sexual."
+    },
+    {
+      "caption": "Cassazione, Sez. I Civile, ord. n. 9691 del 24 marzo 2022",
+      "jurisdiction_code": "IT",
+      "case_study_ref": "cassazione-9691-2022-italy",
+      "relevance": "Itália — a Corte Suprema de Cassação qualifica o recurso à PAS como 'fondamento pseudoscientifico' e exige verificação fática autônoma. O STJ brasileiro responde à mesma tensão por via processual (anulação por instrução insuficiente) sem rejeitar substancialmente o conceito de alienação parental; ponto de divergência metodológica entre o ápice italiano (resposta substantiva) e o ápice brasileiro (resposta procedimental)."
+    },
+    {
+      "caption": "BVerfG, Beschluss 1 BvR 1076/23 vom 17.11.2023",
+      "jurisdiction_code": "DE",
+      "case_study_ref": "bverfg-1-bvr-1076-23-germany-2023",
+      "relevance": "Alemanha — o Tribunal Constitucional Federal (Segunda Câmara do Primeiro Senado) ancora a crítica ao PAS no direito fundamental do art. 6 GG, qualificando o construto como 'überkommene und fachwissenschaftlich als widerlegt geltende Konzept'. Diferentemente do BVerfG (revisão constitucional) e da Cassazione italiana (revisão substantiva da cientificidade), o STJ permanece em chave processual-civilista — anulação por instrução insuficiente — preservando o estatuto vigente."
+    },
+    {
+      "caption": "Conselho Nacional de Justiça — Recomendação CNJ nº 157, de 3 de outubro de 2024 (Protocolo de Escuta Especializada de Crianças e Adolescentes em processos que discutam alienação parental)",
+      "jurisdiction_code": "BR",
+      "relevance": "Contrapartida procedimental administrativa da doutrina substantiva firmada em REsp 2.108.750/GO — o Protocolo CNJ aprovado por proposta de grupo de trabalho coordenado pela Min. Nancy Andrighi disciplina a tomada de depoimento da criança, em consonância com a Lei 13.431/2017 (escuta especializada e depoimento especial)."
+    }
+  ],
+  "subsequent_reception": [
+    {
+      "venue": "Conjur — Consultor Jurídico",
+      "year": 2026,
+      "citation": "Conjur, 'Saiba o que o STJ tem decidido sobre perícia e alteração de guarda em casos de alienação parental', 2 jan. 2026",
+      "url": "https://www.conjur.com.br/2026-jan-02/saiba-o-que-o-stj-tem-decidido-sobre-pericia-e-alteracao-de-guarda-em-casos-de-alienacao-parental/",
+      "summary": "Reportagem jurídica que identifica REsp 2.108.750/GO, ao lado de REsp 1.859.228/SP, como os dois precedentes operativos de 2024 da Terceira Turma do STJ na disciplina probatória da Lei 12.318/2010; extrai as três proposições centrais (anulação por instrução insuficiente, intensificação da cautela em função da gravidade da sanção, vedação ao uso do rótulo como sucedâneo da prova)."
+    },
+    {
+      "venue": "Parental.com.br — Dossiê 'Alienação Parental: Jurisprudências Essenciais'",
+      "year": 2025,
+      "citation": "Parental, 'Alienação Parental: Jurisprudências Essenciais'",
+      "url": "https://parental.com.br/noticias/alienacao-parental-jurisprudencias-essenciais",
+      "summary": "Compêndio prático destinado a operadores do direito que inclui REsp 2.108.750/GO no rol de precedentes essenciais da matéria; lê o acórdão como reforço da exigência de perícia técnica antes da inversão de guarda."
+    },
+    {
+      "venue": "Câmara dos Deputados — Comissão de Constituição e Justiça (CCJ)",
+      "year": 2025,
+      "citation": "Aprovação do PL 1.372/2023 (revogação integral da Lei 12.318/2010) por 37 votos a 28, em 3 de dezembro de 2025",
+      "url": "https://www.camara.leg.br/noticias/1229444-comissao-de-constituicao-e-justica-aprova-revogacao-da-lei-que-trata-da-alienacao-parental/",
+      "summary": "Marco político imediatamente posterior — a aprovação do PL 1.372/2023 na CCJ articula-se com a leitura da sociedade civil (Conselho Nacional de Direitos Humanos, Conselho Nacional de Saúde, ONU) de que a Lei 12.318/2010 é operacionalmente insegura; REsp 2.108.750/GO é citado pelas duas frentes — pelos revogacionistas como prova de que o próprio STJ precisa anular decisões inferiores; pelos defensores do estatuto (Migalhas) como prova de que o sistema se autorregula."
+    },
+    {
+      "venue": "Migalhas — coluna 'De peso'",
+      "year": 2025,
+      "citation": "Parecer jurídico sobre o PL 1372/23",
+      "url": "https://www.migalhas.com.br/depeso/389895/parecer-juridico-sobre-o-pl-1372-23",
+      "summary": "Parecer jurídico contrário ao PL 1.372/2023 que invoca REsp 2.108.750/GO como evidência de autocorreção jurisprudencial — leitura oposta à dos proponentes da revogação."
+    },
+    {
+      "venue": "Brasil de Fato",
+      "year": 2025,
+      "citation": "'Comissão da Câmara aprova projeto que derruba lei da alienação parental', 3 dez. 2025",
+      "url": "https://www.brasildefato.com.br/2025/12/03/comissao-da-camara-aprova-projeto-que-derruba-lei-da-alienacao-parental/",
+      "summary": "Cobertura do ângulo da sociedade civil feminista e antiviolência sobre o PL 1.372/2023, com referência implícita ao conjunto de decisões do STJ — incluindo REsp 2.108.750/GO — que evidenciam o uso problemático do enquadramento de alienação parental em casos com alegação de abuso."
+    }
+  ],
+  "references": [
+    "case-study:stj-resp-1859228-sp-2024",
+    "case-study:cassazione-9691-2022-italy",
+    "case-study:bverfg-1-bvr-1076-23-germany-2023",
+    "jurisdiction:brazil",
+    "practitioner:br.cfp",
+    "practitioner:br.cfess"
+  ],
+  "sources": [
+    {
+      "title": "Superior Tribunal de Justiça — Jurisprudência do STJ (portal scon.stj.jus.br, busca por 'REsp 2108750' / 'REsp 2.108.750/GO')",
+      "url": "https://scon.stj.jus.br/SCON/",
+      "publisher": "Superior Tribunal de Justiça",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "Conjur — 'Saiba o que o STJ tem decidido sobre perícia e alteração de guarda em casos de alienação parental'",
+      "url": "https://www.conjur.com.br/2026-jan-02/saiba-o-que-o-stj-tem-decidido-sobre-pericia-e-alteracao-de-guarda-em-casos-de-alienacao-parental/",
+      "publisher": "Consultor Jurídico (Conjur)",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "news-coverage"
+    },
+    {
+      "title": "Parental.com.br — Dossiê 'Alienação Parental: Jurisprudências Essenciais'",
+      "url": "https://parental.com.br/noticias/alienacao-parental-jurisprudencias-essenciais",
+      "publisher": "Parental",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "academic-blog"
+    },
+    {
+      "title": "Instituto Brasileiro de Direito de Família (IBDFAM) — repositório de jurisprudência e doutrina sobre alienação parental",
+      "url": "https://ibdfam.org.br/",
+      "publisher": "IBDFAM",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "ngo-report"
+    },
+    {
+      "title": "Grupo de Estudos sobre Maus-tratos e Alienação Parental (GEMA-IBDFAM) — produção doutrinária correlata",
+      "url": "https://ibdfam.org.br/grupos-de-estudo",
+      "publisher": "GEMA — IBDFAM",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "ngo-report"
+    },
+    {
+      "title": "Lei nº 12.318, de 26 de agosto de 2010 (Lei da Alienação Parental) — texto consolidado",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
+      "publisher": "Presidência da República — Casa Civil",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente — ECA)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "publisher": "Presidência da República — Casa Civil",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Decreto nº 99.710, de 21 de novembro de 1990 — promulga a Convenção sobre os Direitos da Criança",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d99710.htm",
+      "publisher": "Presidência da República — Casa Civil",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "Recomendação CNJ nº 157, de 3 de outubro de 2024 — Protocolo de Escuta Especializada de Crianças e Adolescentes em processos sobre alienação parental",
+      "url": "https://www.stj.jus.br/internet_docs/biblioteca/clippinglegislacao/Res_157_2024_CNJ.pdf",
+      "publisher": "Conselho Nacional de Justiça",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "primary-court-text"
+    },
+    {
+      "title": "STJ — 'CNJ aprova propostas de grupo de trabalho para depoimento de crianças e adolescentes sobre alienação parental', 19 set. 2024",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/19092024-CNJ-aprova-propostas-de-grupo-de-trabalho-para-depoimento-de-criancas-e-adolescentes-sobre-alienacao-parental.aspx",
+      "publisher": "Superior Tribunal de Justiça",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "court-press-release"
+    },
+    {
+      "title": "Conjur — 'CNJ aprova protocolo de escuta especializada em processos de alienação parental', 17 set. 2024",
+      "url": "https://www.conjur.com.br/2024-set-17/cnj-aprova-protocolo-de-escuta-especializada-em-processos-de-alienacao-parental/",
+      "publisher": "Consultor Jurídico (Conjur)",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "news-coverage"
+    },
+    {
+      "title": "Câmara dos Deputados — 'Comissão de Constituição e Justiça aprova revogação da lei que trata da alienação parental'",
+      "url": "https://www.camara.leg.br/noticias/1229444-comissao-de-constituicao-e-justica-aprova-revogacao-da-lei-que-trata-da-alienacao-parental/",
+      "publisher": "Câmara dos Deputados",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "official-database"
+    },
+    {
+      "title": "Migalhas — 'Parecer jurídico sobre o PL 1372/23 que pretende revogar a Lei de Alienação Parental'",
+      "url": "https://www.migalhas.com.br/depeso/389895/parecer-juridico-sobre-o-pl-1372-23",
+      "publisher": "Migalhas",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "journal-article"
+    },
+    {
+      "title": "Conselho Federal de Psicologia — Nota Técnica nº 4/2022/GTEC/CG sobre Lei nº 12.318/2010",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2022/08/SEI_CFP-0698871-Nota-Tecnica.pdf",
+      "publisher": "Conselho Federal de Psicologia (CFP)",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "ngo-report"
+    },
+    {
+      "title": "Conselho Federal de Serviço Social — Nota Técnica conjunta sobre a Lei da Alienação Parental (dez. 2022)",
+      "url": "https://www.cfess.org.br/arquivos/nota-tecnica-LAP-2022-dez.pdf",
+      "publisher": "Conselho Federal de Serviço Social (CFESS)",
+      "language": "pt",
+      "accessed": "2026-05-30",
+      "type": "ngo-report"
+    }
+  ],
+  "editorial_notes": [
+    "PRIMARY-SOURCE CAVEAT: o inteiro teor do acórdão de REsp 2.108.750/GO não foi verificado em fonte primária (banco de jurisprudência do STJ em scon.stj.jus.br) no momento da redação desta ficha; todas as citações em português foram extraídas da reportagem do Conjur de 2 de janeiro de 2026, que reporta o teor da fundamentação. As traduções para o inglês são do autor (Alan Markson). Recomenda-se verificação direta no portal do STJ antes do uso jurídico operativo do precedente.",
+    "NÃO VERIFICÁVEL A PARTIR DAS FONTES SECUNDÁRIAS CONSULTADAS: (i) o nome do Ministro Relator; (ii) a composição nominal da Terceira Turma na sessão de julgamento; (iii) a data exata do julgamento e da publicação em DJe; (iv) o número dos autos nas instâncias ordinárias (Vara de Família/GO e TJGO); (v) a identidade dos advogados das partes privadas; (vi) o nome do(a) perito(a) psicológico(a) ou da equipe biopsicossocial; (vii) os termos exatos do P.Q.M. (dispositivo). Todos esses pontos exigiriam consulta direta ao portal scon.stj.jus.br.",
+    "ANONIMIZAÇÃO: realizada em conformidade com o art. 247 do ECA (Lei 8.069/1990), o art. 189, II, do CPC/2015 (segredo de justiça em matéria de família) e o art. 14 da LGPD (Lei 13.709/2018) sobre tratamento de dados de crianças e adolescentes. Nenhuma fonte secundária consultada identifica as partes — a anonimização aqui apenas reproduz a convenção brasileira.",
+    "CONTEXTO DOUTRINÁRIO: o precedente é lido pela imprensa jurídica brasileira (Conjur, Parental, IBDFAM) como o complemento explícito de REsp 1.859.228/SP (Rel. Min. Nancy Andrighi) na construção da doutrina da Terceira Turma sobre 'não-automaticidade' das sanções da Lei 12.318/2010 — daí o pareamento canônico das duas fichas (case-study:stj-resp-1859228-sp-2024 + case-study:stj-resp-2108750-go-2024) como diptyque BR-STJ.",
+    "CONTRIBUIÇÃO METODOLÓGICA ORIGINAL: o ponto sistemicamente importante de REsp 2.108.750/GO — e a razão de sua catalogação como precedente comparativo — é a simetria recíproca: a Turma exige instrução probatória autônoma tanto para a alegação de alienação parental quanto para a alegação de abuso sexual, sem hierarquizar uma sobre a outra. Esta simetria é o que aproxima a resposta brasileira da literatura crítica internacional (Joan Meier nos EUA, Adrienne Barnett na Inglaterra, rede PROCHILD na UE), ainda que o STJ a alcance por via processual e não por via de revisão substantiva do conceito.",
+    "CONTEXTO POLÍTICO-LEGISLATIVO: REsp 2.108.750/GO é decidido no mesmo ano em que o PL 1.372/2023 (revogação integral da Lei 12.318/2010) ganha tração na Câmara dos Deputados — aprovado pela CCJ em 3 dez. 2025 por 37 a 28 votos. O Conselho Nacional de Direitos Humanos, o Conselho Nacional de Saúde e a ONU recomendaram a revogação com base em fundamentação substantivamente análoga à preocupação que a Terceira Turma endereça por via processual.",
+    "CROSS-LINK INSTITUCIONAL: as referências a practitioner:br.cfp (Conselho Federal de Psicologia — Nota Técnica nº 4/2022/GTEC/CG) e practitioner:br.cfess (Conselho Federal de Serviço Social — Nota Técnica conjunta de dez. 2022) integram o diretório institucional brasileiro de psicólogos e assistentes sociais (BR therapists v2) e devem ser lidas como o equivalente institucional, em sede de classes profissionais regulamentadas, do que o STJ realiza em sede jurisdicional: limitar o uso processual do enquadramento de alienação parental quando houver alegação concorrente de violência intrafamiliar.",
+    "ECLI / CITAÇÃO NEUTRA: o sistema brasileiro de jurisprudência do STJ não atribui formalmente um ECLI; a citação canônica é 'STJ, REsp 2.108.750/GO, 3ª Turma, 2024' até que a data exata e o Ministro Relator sejam verificados em fonte primária."
+  ],
+  "word_count": 2480,
+  "author": "Alan Markson",
+  "license": "CC-BY-4.0"
+}

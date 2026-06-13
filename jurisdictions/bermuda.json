@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "id": "bermuda",
+  "name": "Bermuda",
+  "jurisdiction_code": "BM",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Bermuda is a North Atlantic common-law British Overseas Territory — structurally distinctive globally as the oldest continuously self-governing British Overseas Territory (House of Assembly traditionally dated to 1620, oldest legislature in the Western Hemisphere). Family-law framework operates under the Matrimonial Causes Act 1974, the Children Act 1998 (drawing on English Children Act 1989 model), and the Maintenance Act 1968. Parental responsibility and child custody are governed by Children Act 1998 Part II. The Court of Appeal for Bermuda is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Supreme Court of Bermuda (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Bermuda Health Council and Bermuda Hospitals Board framework. Bermuda is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Act 1998 s. 3. Bermuda is a Hague Convention 1980 party via UK territorial extension effective 1 March 1999.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Act 1998",
+      "title": "Children Act",
+      "year": 1998,
+      "url": "https://www.judiciary.bm/",
+      "relevance": "Federal Children Act drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Matrimonial Causes Act 1974",
+      "title": "Matrimonial Causes Act",
+      "year": 1974,
+      "url": "https://www.judiciary.bm/",
+      "relevance": "Federal matrimonial-causes statute."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal for Bermuda",
+      "seat": "Hamilton",
+      "url": "https://www.judiciary.bm/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Bermuda."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Bermuda Health Council",
+      "url": "https://www.bhec.bm/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Bermudian family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1620,
+      "title": "House of Assembly — oldest legislature in Western Hemisphere",
+      "description": "Bermuda House of Assembly traditionally dated to 1620 — oldest continuously self-governing legislature in the Western Hemisphere."
+    },
+    {
+      "year": 1974,
+      "title": "Matrimonial Causes Act",
+      "description": "Federal matrimonial-causes statute enacted."
+    },
+    {
+      "year": 1998,
+      "title": "Children Act 1998",
+      "description": "Federal Children Act enacted drawing on English Children Act 1989 model."
+    },
+    {
+      "year": 1999,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Bermuda effective 1 March 1999."
+    }
+  ],
+  "structural_findings": [
+    "Bermuda operates a common-law framework drawing on English-law model with British Overseas Territory status — places Bermuda in the BOT cluster.",
+    "House of Assembly (1620) as oldest continuously self-governing legislature in the Western Hemisphere is structurally distinctive globally.",
+    "Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:gibraltar",
+    "jurisdiction:cayman-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Bermuda Judiciary",
+      "url": "https://www.judiciary.bm/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "Bermuda Health Council",
+      "url": "https://www.bhec.bm/",
+      "publisher": "BHC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Bermuda jurisdiction sidecar — common-law North Atlantic BOT (Children Act 1998 + Matrimonial Causes Act 1974 + House of Assembly 1620 oldest-Western-Hemisphere-legislature + JCPC final-appellate + Hague via UK territorial extension 1999).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North Atlantic + common-law + BOT cluster + oldest-Western-Hemisphere-legislature-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

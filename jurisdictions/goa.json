@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0",
+  "id": "goa",
+  "name": "Goa (गोवा)",
+  "jurisdiction_code": "IN-GA",
+  "legal_system": "mixed",
+  "language": ["en", "kok", "pt", "mr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Goa (गोवा in Hindi) is a Western Indian Konkan-coastal mixed common-law/Portuguese-civil-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state operating Portuguese Codigo Civil 1867 (Family Laws portion) continuously since 1870 (Portuguese implementation in Goa) through 1961 Indian annexation through present-day under the Goa Family Laws framework (preserved post-Operation Vijay 1961 by the Goa, Daman and Diu Administration Act 1962 — Portuguese civil-code applicability framework continued by Indian Government), as the only Indian state with constitutionally-preserved Uniform Civil Code (UCC) framework operating since 1870 (Goa is the only Indian state where a Uniform Civil Code applies in family-law matters — meaning marriage/divorce/succession governed by common framework regardless of religion, distinct from rest-of-India's personal-laws framework of Hindu/Muslim/Christian/Parsi personal laws), and as the central jurisdiction of the smallest Indian state by area (~3,702 km² + ~101 km² in Diu before 2020 merger but Goa-only is ~3,702 km²). Goa was historically Portuguese India under the Estado da Índia framework 1510-1961, annexed by India via Operation Vijay 17-19 December 1961, became Union Territory 1962, and was formed as the 25th state of India on 30 May 1987 via the Goa, Daman and Diu Reorganisation Act 1987. Goa comprises ~3,702 km² with a population of ~1.5 million. Family-law framework operates under the Portuguese Codigo Civil 1867 Family Laws portion (Articles 1057-1854) applied via Goa Civil Code framework and Indian Government preservation. Parental authority and child custody operate under Codigo Civil 1867 framework. The Bombay High Court (Goa Permanent Bench at Panaji) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Goa is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Goa is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Portuguese Codigo Civil 1867 Family Laws (Articles 1057-1854) — preserved in Goa post-1961",
+      "title": "Portuguese Codigo Civil 1867",
+      "year": 1867,
+      "url": "https://www.goa.gov.in/",
+      "relevance": "Portuguese Civil Code 1867 Family Laws portion implemented in Goa 1870 — preserved continuously through 1961 Indian annexation through present-day under the Goa Family Laws framework. Only Indian state operating Uniform Civil Code framework via Codigo Civil applicability."
+    },
+    {
+      "citation": "Goa, Daman and Diu Administration Act 1962",
+      "title": "Goa, Daman and Diu Administration Act",
+      "year": 1962,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1962 preserving Portuguese Codigo Civil 1867 framework in Goa post-1961 annexation."
+    },
+    {
+      "citation": "Goa, Daman and Diu Reorganisation Act 1987",
+      "title": "Goa, Daman and Diu Reorganisation Act",
+      "year": 1987,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1987 establishing Goa as 25th state of India effective 30 May 1987."
+    },
+    {
+      "citation": "Constitution (Twelfth Amendment) Act 1962 + Goa-Daman-Diu integration",
+      "title": "Constitution 12th Amendment Act",
+      "year": 1962,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Amendment Act of 1962 integrating Goa, Daman and Diu into India following Operation Vijay 1961."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Bombay High Court (Goa Permanent Bench at Panaji)",
+      "seat": "Panaji",
+      "url": "https://bombayhighcourt.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Goa."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Goa."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Goa."
+    }
+  ],
+  "anonymisation_convention": "Goa family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1510,
+      "title": "Portuguese conquest of Goa",
+      "description": "Portuguese conquest of Goa 1510 by Afonso de Albuquerque — beginning of Portuguese India (Estado da Índia) framework 1510-1961."
+    },
+    {
+      "year": 1867,
+      "title": "Portuguese Codigo Civil adopted",
+      "description": "Portuguese Codigo Civil adopted 1 July 1867 — implemented in Goa 1870."
+    },
+    {
+      "year": 1961,
+      "title": "Operation Vijay + Goa annexation",
+      "description": "Operation Vijay 17-19 December 1961 — Indian armed action annexing Portuguese India enclaves including Goa."
+    },
+    {
+      "year": 1962,
+      "title": "Goa, Daman and Diu Administration Act + Codigo Civil preservation",
+      "description": "Indian Federal Act of 1962 preserving Portuguese Codigo Civil 1867 framework in Goa."
+    },
+    {
+      "year": 1987,
+      "title": "Goa State established",
+      "description": "Goa formed as 25th state of India on 30 May 1987 via Goa, Daman and Diu Reorganisation Act 1987 — Daman and Diu remained as separate Union Territory."
+    }
+  ],
+  "structural_findings": [
+    "Goa operates a mixed federal Indian common-law + Portuguese Codigo Civil 1867 framework — places Goa in the Western Indian-Konkan-coastal state cluster.",
+    "Only Indian state operating Portuguese Codigo Civil 1867 (Family Laws portion) continuously since 1870 through present-day is structurally distinctive globally.",
+    "Only Indian state with constitutionally-preserved Uniform Civil Code (UCC) framework operating since 1870 is structurally distinctive globally — Goa is the only Indian state where a Uniform Civil Code applies in family-law matters.",
+    "Smallest Indian state by area (~3,702 km²) is structurally distinctive within Indian state cluster.",
+    "Portuguese India (Estado da Índia) 1510-1961 historical framework is structurally distinctive globally — only Indian state with continuous 451-year Portuguese colonial framework.",
+    "Codigo Civil 1867 + post-1961 Indian preservation framework is structurally distinctive globally — only modern post-colonial framework preserving colonial-power civil-code application as state primary family-law framework.",
+    "Latest Indian state to integrate following Operation Vijay 1961 + most-recent-formed state until 2014 Telangana bifurcation is structurally distinctive within Indian state cluster.",
+    "Indian non-Hague-Convention-1980-ratification status applies — Goa Portuguese Codigo Civil 1867 framework intersection with Portuguese Hague Convention 1980 accession 1983 is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:portugal",
+    "jurisdiction:madeira",
+    "jurisdiction:azores",
+    "jurisdiction:dadra-nagar-haveli-daman-diu",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Goa",
+      "url": "https://www.goa.gov.in/",
+      "publisher": "Goa Government",
+      "language": "en"
+    },
+    {
+      "title": "Bombay High Court",
+      "url": "https://bombayhighcourt.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Goa jurisdiction sidecar — mixed federal Indian common-law/Portuguese Codigo Civil 1867 Western Indian Konkan-coastal Indian-state (Portuguese Codigo Civil 1867 Family Laws portion + Goa, Daman and Diu Administration Act 1962 + Goa, Daman and Diu Reorganisation Act 1987 + Constitution 12th Amendment Act 1962 + Operation Vijay 1961 + Portuguese India 1510-1961 + Indian non-Hague-1980). Only Indian state operating Portuguese Codigo Civil 1867 (Family Laws portion) continuously since 1870 globally + only Indian state with constitutionally-preserved Uniform Civil Code (UCC) framework + smallest Indian state by area + only Indian state with continuous 451-year Portuguese colonial framework + only modern post-colonial framework preserving colonial-power civil-code application as state primary family-law framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western-Indian + Konkan-coastal + mixed Indian-common-law/Portuguese-Codigo-Civil-1867 + Indian-state cluster + Portuguese-Codigo-Civil-1867-Family-Laws-continuous-since-1870-globally-distinctive + only-Indian-state-with-Uniform-Civil-Code-framework + smallest-Indian-state-by-area + Portuguese-India-1510-1961-451-year-colonial-framework + Operation-Vijay-1961-annexation + Goa-Daman-Diu-Reorganisation-Act-1987 + Indian-non-Hague-1980-Portuguese-Hague-1983-intersection clusters within the corpus."
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "sardinia",
+  "name": "Sardinia (Sardegna / Sardigna)",
+  "jurisdiction_code": "IT-SRD",
+  "legal_system": "civil-law",
+  "language": ["it", "sc", "ca", "sdc", "sdn"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Sardinia (Sardegna in Italian / Sardigna in Sardinian / officially Regione Autonoma della Sardegna) is a Mediterranean civil-law autonomous region of the Italian Republic comprising the island of Sardinia (second-largest island in the Mediterranean, ~24,090 km²) and surrounding minor archipelagos (La Maddalena, Asinara, San Pietro, Sant'Antioco) — structurally distinctive globally as the only Italian autonomous region operating a constitutionally-protected multi-linguistic minority framework with Sardinian (Sardu), Algherese Catalan (Alguerès), Sassarese (Sassarese), Gallurese (Gadduresu), Tabarchino, and Maddalenino as recognised minority languages under Italian Law 482/1999 and Sardinia's Sardinian Linguistic Policy Law 22/2018, as the second Italian autonomous region established (Statuto Speciale 26 February 1948, ~9 months after Sicily but ~2 months before formal Italian Constitution), and as the central jurisdiction of Italy's longest-tradition continuous customary-law-influenced civil-law framework dating from the medieval Carta de Logu (~14th-century Sardinian customary-law code by Eleonora of Arborea, 1392 Logudoro version). Sardinia's autonomy framework was established by Constitutional Law 3/1948 of 26 February 1948 (Statuto Speciale della Regione Sardegna). The Statuto Speciale grants Sardinia exclusive legislative competence over an extensive range of matters including agriculture, fisheries, industry, mining, and local administration. Family-law framework operates under the Italian Civil Code (Codice Civile 1942, as amended by Law 54/2006 Joint Custody Reform) applied via Sardinian autonomous-region administrative framework with Italian Law 482/1999 linguistic-minority protections. Parental authority (responsabilità genitoriale) and child custody operate under Italian Civil Code Articles 315-342-bis as amended. The Court of Appeal of Cagliari (or Sassari) is the apex regional appellate court for Sardinian civil and criminal matters; final appellate jurisdiction lies with the Italian Court of Cassation and the Italian Constitutional Court. Sardinia is silent on 'parental alienation' as a statutory label. Italy is a Hague Convention 1980 party (acceded 22 February 1985) — Sardinia Hague applicability via Italian territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Statuto Speciale della Regione Sardegna 1948 (Constitutional Law 3/1948)",
+      "title": "Sardinian Special Statute",
+      "year": 1948,
+      "url": "https://www.regione.sardegna.it/",
+      "relevance": "Italian Constitutional Law of 26 February 1948 establishing the Sardinian autonomous-region framework — second Italian autonomous region (after Sicily 1946)."
+    },
+    {
+      "citation": "Italian Law 482/1999 (Linguistic Minorities Protection)",
+      "title": "Italian Linguistic Minorities Protection Law",
+      "year": 1999,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities — recognises Sardinian, Catalan (Alguerese), and other Sardinian minority languages."
+    },
+    {
+      "citation": "Sardinian Linguistic Policy Law 22/2018",
+      "title": "Sardinian Linguistic Policy Law",
+      "year": 2018,
+      "url": "https://www.regione.sardegna.it/",
+      "relevance": "Sardinian Regional Law 22/2018 of 3 July 2018 establishing Sardinia's distinctive multi-linguistic-minority policy framework including Sardinian (Sardu), Algherese Catalan (Alguerès), Sassarese, Gallurese, Tabarchino, and Maddalenino."
+    },
+    {
+      "citation": "Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)",
+      "title": "Italian Civil Code — Parental Authority",
+      "year": 2006,
+      "url": "https://www.normattiva.it/",
+      "relevance": "Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Sardinia."
+    },
+    {
+      "citation": "Carta de Logu (Sardinian Medieval Customary-Law Code)",
+      "title": "Carta de Logu",
+      "year": 1392,
+      "url": "https://www.regione.sardegna.it/",
+      "relevance": "Medieval Sardinian customary-law code by Eleonora of Arborea — 1392 Logudoro version. Foundational influence on Italy's longest-tradition continuous customary-law-influenced civil-law framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Cagliari (Corte d'Appello di Cagliari)",
+      "seat": "Cagliari",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex regional appellate court for civil and criminal matters from southern Sardinia."
+    },
+    {
+      "name": "Court of Appeal of Sassari (Corte d'Appello di Sassari)",
+      "seat": "Sassari",
+      "url": "https://www.giustizia.it/",
+      "role": "Apex regional appellate court for civil and criminal matters from northern Sardinia."
+    },
+    {
+      "name": "Corte di Cassazione (Italian Court of Cassation)",
+      "seat": "Rome",
+      "url": "https://www.cortedicassazione.it/",
+      "role": "Final appellate court for civil and criminal matters from Sardinia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ordine degli Psicologi della Regione Sardegna",
+      "url": "https://www.opsardegna.it/",
+      "role": "Sardinian regional professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Sardinian family-court decisions are anonymised per Italian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1392,
+      "title": "Carta de Logu (Sardinian Medieval Customary-Law Code)",
+      "description": "Carta de Logu — medieval Sardinian customary-law code by Eleonora of Arborea (1392 Logudoro version) — foundational influence on Italy's longest-tradition continuous customary-law-influenced civil-law framework."
+    },
+    {
+      "year": 1720,
+      "title": "Treaty of The Hague + Savoyard Kingdom of Sardinia",
+      "description": "Treaty of The Hague of 17 February 1720 transferring Sardinia from Austria to the Savoyard House — establishing Savoyard Kingdom of Sardinia (1720-1861)."
+    },
+    {
+      "year": 1948,
+      "title": "Statuto Speciale + autonomous-region establishment",
+      "description": "Italian Constitutional Law 3/1948 of 26 February 1948 establishing the Sardinian autonomous-region framework — second Italian autonomous region."
+    },
+    {
+      "year": 1999,
+      "title": "Italian Law 482/1999 (Linguistic Minorities Protection)",
+      "description": "Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities including Sardinian languages."
+    },
+    {
+      "year": 2018,
+      "title": "Sardinian Linguistic Policy Law 22/2018",
+      "description": "Sardinian Regional Law 22/2018 of 3 July 2018 establishing Sardinia's distinctive multi-linguistic-minority policy framework."
+    }
+  ],
+  "structural_findings": [
+    "Sardinia operates a civil-law Italian Codice Civile framework via Sardinian autonomous-region administrative framework with multi-linguistic-minority protections — places Sardinia in the Mediterranean Italian autonomous-region cluster.",
+    "Only Italian autonomous region operating constitutionally-protected multi-linguistic minority framework with six recognised minority languages is structurally distinctive globally — Sardinian, Algherese Catalan, Sassarese, Gallurese, Tabarchino, Maddalenino.",
+    "Second Italian autonomous region established (Statuto Speciale 26 February 1948) is structurally distinctive within Italian autonomous-region cluster.",
+    "Central jurisdiction of Italy's longest-tradition continuous customary-law-influenced civil-law framework dating from medieval Carta de Logu (1392) is structurally distinctive globally.",
+    "Second-largest island in the Mediterranean is structurally distinctive globally.",
+    "Sardinian Linguistic Policy Law 22/2018 is structurally distinctive globally — one of the most comprehensive sub-national linguistic-minority policy frameworks in Europe.",
+    "Italian Law 482/1999 linguistic-minority protection framework applicability in Sardinia is structurally distinctive within Italian linguistic-minority cluster.",
+    "Italian Hague Convention 1980 accession 1985 + Sardinian Italian-civil-law framework intersection is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:italy",
+    "jurisdiction:sicily",
+    "jurisdiction:catalonia",
+    "jurisdiction:south-tyrol",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Regione Autonoma della Sardegna",
+      "url": "https://www.regione.sardegna.it/",
+      "publisher": "Sardinian Government",
+      "language": "it"
+    },
+    {
+      "title": "Italian Ministry of Justice",
+      "url": "https://www.giustizia.it/",
+      "publisher": "Italian Government",
+      "language": "it"
+    }
+  ],
+  "editorial_notes": [
+    "Sardinia jurisdiction sidecar — civil-law Mediterranean Italian autonomous region with constitutionally-protected multi-linguistic-minority framework (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Sardegna 1948 + Italian Law 482/1999 Linguistic Minorities Protection + Sardinian Linguistic Policy Law 22/2018 + Carta de Logu 1392 medieval customary-law foundation + Italian Hague Convention 1980 accession 1985). Only Italian autonomous region operating constitutionally-protected multi-linguistic minority framework with six recognised minority languages globally + second Italian autonomous region + central jurisdiction of Italy's longest-tradition continuous customary-law-influenced civil-law framework + second-largest Mediterranean island + Algherese Catalan Catalan-language enclave on Sardinia.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Mediterranean + civil-law + Italian-autonomous-region cluster + multi-linguistic-minority-framework-six-recognised-languages-globally-distinctive + Sardinian-Linguistic-Policy-Law-22/2018-most-comprehensive-EU-sub-national-linguistic-policy + Carta-de-Logu-1392-medieval-customary-law + Algherese-Catalan-Catalan-language-enclave + second-largest-Mediterranean-island + Italian-Hague-1985-accession clusters within the corpus."
+  ]
+}

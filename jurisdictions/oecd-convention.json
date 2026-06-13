@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0",
+  "id": "oecd-convention",
+  "name": "OECD Convention 1960 (Organisation for Economic Co-operation and Development)",
+  "jurisdiction_code": "OEC",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Convention on the Organisation for Economic Co-operation and Development (OECD Convention) is a global supranational meta-framework foundational-OECD-treaty framework adopted by the 20 founding states in Paris — structurally distinctive globally as the only modern advanced-economies supranational binding-treaty framework operating on formal advanced-economy-club membership framework (OECD Convention signed 14 December 1960 in Paris France + effective 30 September 1961 + OEEC predecessor founded 16 April 1948 + OECD founded 30 September 1961 — formal foundational OECD treaty framework establishing comprehensive OECD organisation framework, distinct from rest-of-modern-supranational-treaty frameworks which operate as universal-membership frameworks, structurally distinctive globally as the only modern advanced-economies supranational binding-treaty framework operating formal advanced-economy-club membership framework via formal accession-process framework + OECD evolved from OEEC framework managing post-WWII Marshall Plan + only modern supranational binding-treaty framework operating formal soft-law peer-review framework + only modern supranational binding-treaty framework operating formal OECD Council Recommendations framework), as the central jurisdiction of the formal OECD Anti-Bribery Convention 1997 framework (Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted 21 November 1997 + effective 15 February 1999 providing formal foreign-bribery criminalisation framework — formal foundational anti-bribery framework, structurally distinctive globally as the only modern supranational binding-treaty framework operating formal foreign-bribery criminalisation framework + precursor framework to UNCAC 2003), as the central jurisdiction of the formal OECD BEPS Inclusive Framework framework (OECD/G20 Base Erosion and Profit Shifting BEPS Project launched 2013 + Inclusive Framework on BEPS established 2016 + Pillar 1 + Pillar 2 framework adopted 8 October 2021 by 137 jurisdictions + Pillar 2 15% global minimum tax effective 1 January 2024 — formal foundational global-minimum-tax framework, structurally distinctive globally as the only modern supranational binding-treaty framework operating formal global-minimum-tax framework), and as the central jurisdiction of the formal OECD Guidelines for Multinational Enterprises framework (OECD Guidelines for Multinational Enterprises first adopted 1976 + most-recent update 2023 providing formal MNE responsible-business-conduct framework — formal foundational MNE soft-law framework, structurally distinctive globally as the only modern supranational framework operating formal MNE responsible-business-conduct framework with National Contact Points NCPs framework). The OECD Convention is binding upon 38 OECD member states + accession-candidate countries Argentina + Brazil + Bulgaria + Croatia + Indonesia + Peru + Romania as of 2026 — comprehensive advanced-economies coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal OECD family-policy framework operates substantial intersection with parental-alienation framework via formal OECD Family Database + OECD work-family-reconciliation framework. The OECD Council + OECD Secretariat + OECD Secretary-General are the formal OECD bodies; national-level apex courts operate as judicial bodies. The OECD Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "OECD Convention 1960",
+      "title": "OECD Convention",
+      "year": 1961,
+      "url": "https://www.oecd.org/",
+      "relevance": "Convention on the Organisation for Economic Co-operation and Development signed 14 December 1960 in Paris France + effective 30 September 1961 — formal foundational OECD treaty framework establishing comprehensive OECD organisation framework."
+    },
+    {
+      "citation": "OECD Anti-Bribery Convention 1997",
+      "title": "OECD Anti-Bribery Convention",
+      "year": 1999,
+      "url": "https://www.oecd.org/",
+      "relevance": "OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted 21 November 1997 + effective 15 February 1999 — formal foundational anti-bribery framework."
+    },
+    {
+      "citation": "OECD Guidelines for Multinational Enterprises (1976/2023)",
+      "title": "OECD MNE Guidelines",
+      "year": 2023,
+      "url": "https://www.oecd.org/",
+      "relevance": "OECD Guidelines for Multinational Enterprises first adopted 21 June 1976 + most-recent update 8 June 2023 — formal foundational MNE responsible-business-conduct framework."
+    },
+    {
+      "citation": "OECD/G20 BEPS Inclusive Framework (Pillar 1 + Pillar 2) 2021",
+      "title": "OECD BEPS Inclusive Framework",
+      "year": 2024,
+      "url": "https://www.oecd.org/tax/beps/",
+      "relevance": "OECD/G20 BEPS Inclusive Framework Pillar 1 + Pillar 2 adopted 8 October 2021 by 137 jurisdictions + Pillar 2 15% global minimum tax effective 1 January 2024 — formal foundational global-minimum-tax framework."
+    },
+    {
+      "citation": "OECD AI Principles 2019/2024",
+      "title": "OECD AI Principles",
+      "year": 2024,
+      "url": "https://oecd.ai/",
+      "relevance": "OECD Recommendation of the Council on Artificial Intelligence adopted 22 May 2019 + updated 8 May 2024 — formal foundational AI-principles framework + first intergovernmental AI standard framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "OECD Council",
+      "seat": "Paris",
+      "url": "https://www.oecd.org/about/whodoeswhat/",
+      "role": "Formal supreme decision-making body for OECD."
+    },
+    {
+      "name": "OECD Secretary-General",
+      "seat": "Paris",
+      "url": "https://www.oecd.org/about/secretary-general/",
+      "role": "Formal administrative head body for OECD."
+    },
+    {
+      "name": "OECD Secretariat",
+      "seat": "Paris (Château de la Muette)",
+      "url": "https://www.oecd.org/",
+      "role": "Formal executive body for OECD."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OECD Secretariat",
+      "url": "https://www.oecd.org/",
+      "role": "OECD Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "OECD-related communications operate via OECD Council framework + OECD MNE National Contact Points NCPs framework; individual communications not formally accepted under OECD framework except via NCPs framework.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "OEEC established",
+      "description": "Organisation for European Economic Co-operation OEEC established 16 April 1948 in Paris to administer Marshall Plan — predecessor framework to OECD."
+    },
+    {
+      "year": 1960,
+      "title": "OECD Convention adopted",
+      "description": "OECD Convention signed 14 December 1960 in Paris France by 20 founding states — formal foundational OECD treaty framework adopted."
+    },
+    {
+      "year": 1961,
+      "title": "OECD Convention enters force + OECD established",
+      "description": "OECD Convention entered force 30 September 1961 + OECD formally established 30 September 1961 — formal foundational OECD treaty framework operational."
+    },
+    {
+      "year": 1976,
+      "title": "OECD Guidelines for Multinational Enterprises",
+      "description": "OECD Guidelines for Multinational Enterprises first adopted 21 June 1976 — formal foundational MNE responsible-business-conduct framework adopted."
+    },
+    {
+      "year": 1997,
+      "title": "OECD Anti-Bribery Convention adopted",
+      "description": "OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted 21 November 1997 — formal foundational anti-bribery framework adopted."
+    },
+    {
+      "year": 2013,
+      "title": "OECD/G20 BEPS Project launched",
+      "description": "OECD/G20 Base Erosion and Profit Shifting BEPS Project launched 2013 — formal foundational global-tax-avoidance framework."
+    },
+    {
+      "year": 2019,
+      "title": "OECD AI Principles adopted",
+      "description": "OECD Recommendation of the Council on Artificial Intelligence adopted 22 May 2019 — formal foundational AI-principles framework + first intergovernmental AI standard framework."
+    },
+    {
+      "year": 2021,
+      "title": "OECD BEPS Inclusive Framework Pillar 1 + Pillar 2 adopted",
+      "description": "OECD/G20 BEPS Inclusive Framework Pillar 1 + Pillar 2 adopted 8 October 2021 by 137 jurisdictions — formal foundational global-minimum-tax framework adopted."
+    },
+    {
+      "year": 2023,
+      "title": "OECD MNE Guidelines update",
+      "description": "OECD Guidelines for Multinational Enterprises most-recent update 8 June 2023 — formal MNE responsible-business-conduct framework operational update."
+    },
+    {
+      "year": 2024,
+      "title": "OECD Pillar 2 global minimum tax effective",
+      "description": "OECD/G20 BEPS Inclusive Framework Pillar 2 15% global minimum tax effective 1 January 2024 — formal global-minimum-tax framework operational."
+    }
+  ],
+  "structural_findings": [
+    "OECD Convention operates a supranational advanced-economies binding-treaty framework — places OECD Convention in the global supranational-meta-framework cluster.",
+    "Only modern advanced-economies supranational binding-treaty framework operating on formal advanced-economy-club membership framework is structurally distinctive globally — only modern supranational binding-treaty framework operating formal advanced-economy-club membership framework via formal accession-process framework + only modern supranational binding-treaty framework operating formal soft-law peer-review framework + only modern supranational binding-treaty framework operating formal OECD Council Recommendations framework.",
+    "Central jurisdiction of formal OECD Anti-Bribery Convention 1997 framework is structurally distinctive globally — only modern supranational binding-treaty framework operating formal foreign-bribery criminalisation framework + precursor framework to UNCAC 2003.",
+    "Central jurisdiction of formal OECD BEPS Inclusive Framework framework is structurally distinctive globally — only modern supranational binding-treaty framework operating formal global-minimum-tax framework with 137 jurisdictions + Pillar 2 15% global minimum tax effective 1 January 2024.",
+    "Central jurisdiction of formal OECD Guidelines for Multinational Enterprises framework is structurally distinctive globally — only modern supranational framework operating formal MNE responsible-business-conduct framework with National Contact Points NCPs framework.",
+    "38 OECD member state ratification framework with accession-candidate countries Argentina + Brazil + Bulgaria + Croatia + Indonesia + Peru + Romania is structurally distinctive globally — comprehensive advanced-economies coverage framework.",
+    "1948 OEEC + 1960 OECD Convention + 1961 entry into force + 1976 MNE Guidelines + 1997 Anti-Bribery Convention + 2013 BEPS Project + 2019 AI Principles + 2021 BEPS Pillar 1 + Pillar 2 + 2023 MNE Guidelines update + 2024 Pillar 2 effective OECD-framework-development sequence is structurally distinctive globally.",
+    "OECD Convention + Anti-Bribery Convention + MNE Guidelines + BEPS Inclusive Framework + AI Principles + OECD Family Database formal sextet framework with formal OECD family-policy + work-family-reconciliation PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:canada",
+    "jurisdiction:australia",
+    "jurisdiction:new-zealand",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "OECD",
+      "url": "https://www.oecd.org/",
+      "publisher": "OECD",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "OECD Convention jurisdiction sidecar — supranational global advanced-economies foundational-OECD-treaty meta-framework (OECD Convention 1960/1961 + Anti-Bribery Convention 1997/1999 + MNE Guidelines 1976/2023 + BEPS Inclusive Framework Pillar 1 + Pillar 2 2021/2024 + AI Principles 2019/2024 + OEEC 1948 predecessor). Only modern advanced-economies supranational binding-treaty framework operating on formal advanced-economy-club membership framework globally + only modern supranational binding-treaty framework operating formal soft-law peer-review framework + central jurisdiction of formal Anti-Bribery Convention foreign-bribery criminalisation framework + central jurisdiction of formal BEPS Inclusive Framework global-minimum-tax framework with 137 jurisdictions + central jurisdiction of formal MNE Guidelines responsible-business-conduct framework + 38 OECD member states + accession-candidate countries + 1948 OEEC + 1960 OECD Convention + 1961 entry into force + 1976 MNE Guidelines + 1997 Anti-Bribery Convention + 2013 BEPS + 2019 AI Principles + 2021 BEPS Pillar 1 + Pillar 2 + 2023 MNE Guidelines update + 2024 Pillar 2 effective OECD-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: OECD family-policy framework operates substantial intersection with parental-alienation framework via formal OECD Family Database + OECD work-family-reconciliation framework.",
+    "Joins global + supranational + advanced-economies-foundational-OECD-treaty cluster + OECD-Convention-only-modern-advanced-economies-supranational-binding-treaty-with-formal-advanced-economy-club-globally-distinctive + Anti-Bribery-Convention-1997-precursor-to-UNCAC + MNE-Guidelines-1976-2023-with-NCPs + BEPS-Inclusive-Framework-2021-Pillar-1-Pillar-2-global-minimum-tax + AI-Principles-2019-2024-first-intergovernmental-AI-standard + 38-OECD-member-states + accession-candidate-Argentina-Brazil-Bulgaria-Croatia-Indonesia-Peru-Romania + 1948-OEEC-Marshall-Plan-predecessor + OECD-Family-Database-PA-intersection + work-family-reconciliation-PA-intersection clusters within the corpus."
+  ]
+}

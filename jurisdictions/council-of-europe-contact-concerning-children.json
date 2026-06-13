@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "council-of-europe-contact-concerning-children",
+  "name": "Council of Europe Convention on Contact concerning Children 2003 (CETS 192)",
+  "jurisdiction_code": "CCC",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Council of Europe Convention on Contact concerning Children 2003 (formally Convention on Contact concerning Children CETS 192) is a European supranational meta-framework parental-contact-rights instrument adopted by the Council of Europe — structurally distinctive globally as the only modern international binding-treaty framework operating specifically on parental + family contact rights with children (Council of Europe Convention on Contact concerning Children adopted 15 May 2003 + effective 1 September 2005 — formal European regional binding-treaty framework establishing minimum-standard parental + family contact rights with children, distinct from rest-of-modern-international-children's-rights frameworks which operate on broader best-interests-of-the-child + general-children's-rights framework, structurally distinctive globally as the only modern international binding-treaty framework operating on formal-parental-and-family-contact-rights-specific framework), as the only modern international binding-treaty framework with formal contact-rights enforcement framework (Convention Article 14 trans-frontier contact framework + Article 15 trans-frontier contact safeguards framework + Article 17 cooperation between central authorities framework — formal contact-rights enforcement framework, distinct from Hague Convention 1980 + UNCRC + ACRWC + Inter-American Convention 1989 which operate broader frameworks), as the central jurisdiction of the formal Council of Europe post-Hague-1980 parental-contact-rights elaboration framework (Council of Europe Convention 2003 adopted as European regional supplement to Hague Convention 1980 framework — Article 22 framework providing for application alongside Hague Convention 1980 + applicable to 15 of 46 Council of Europe member states that have ratified the Convention as of 2026, with substantial remaining-states-not-ratified framework reflecting limited adoption of parental-contact-rights-specific framework), and as the central jurisdiction of one of the most distinctive modern parental + family contact rights frameworks globally (Convention Article 2 contact-definition framework + Article 3 best-interests-of-the-child framework + Article 4 contact-rights of the child framework + Article 5 contact-rights of parents framework + Article 6 contact-rights of family-members framework — formal three-tier contact-rights framework, distinct from rest-of-modern-international-children's-rights frameworks operating on broader best-interests + parental-rights frameworks without formal three-tier contact-rights framework). The Convention is binding upon 15 Council of Europe member states that have ratified the Convention as of 2026: Albania + Andorra + Bosnia and Herzegovina + Croatia + Cyprus + Czech Republic + Iceland + Italy + Malta + Republic of Moldova + Romania + San Marino + Slovenia + Turkey + Ukraine. The Convention is silent on 'parental alienation' as a statutory label, though formal contact-rights framework is highly relevant. The European Court of Human Rights is the apex judicial body for state-party violations of related rights frameworks. The Council of Europe Convention 2003 is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Council of Europe Convention on Contact concerning Children 2003 (CETS 192)",
+      "title": "Council of Europe Convention on Contact concerning Children",
+      "year": 2005,
+      "url": "https://www.coe.int/",
+      "relevance": "Council of Europe Convention on Contact concerning Children CETS 192 adopted 15 May 2003 + effective 1 September 2005 — formal European regional binding-treaty framework establishing minimum-standard parental + family contact rights with children."
+    },
+    {
+      "citation": "Hague Convention 1980 (concurrent applicability framework)",
+      "title": "Hague Convention 1980",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the Civil Aspects of International Child Abduction 1980 — concurrent applicability framework with Council of Europe Convention 2003 via Article 22 framework."
+    },
+    {
+      "citation": "Council of Europe Convention on the Exercise of Children's Rights 1996 (CETS 160)",
+      "title": "Council of Europe Convention on the Exercise of Children's Rights",
+      "year": 2000,
+      "url": "https://www.coe.int/",
+      "relevance": "Council of Europe Convention on the Exercise of Children's Rights CETS 160 adopted 25 January 1996 + effective 1 July 2000 — formal European regional children's-rights binding-treaty framework, complementary framework with Council of Europe Convention 2003."
+    },
+    {
+      "citation": "European Convention on Human Rights 1950 Article 8 (Right to Respect for Family Life)",
+      "title": "European Convention on Human Rights Article 8",
+      "year": 1953,
+      "url": "https://www.echr.coe.int/",
+      "relevance": "European Convention on Human Rights ECHR Article 8 Right to Respect for Family Life — formal European regional human-rights framework underlying Council of Europe Convention 2003 contact-rights framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "European Court of Human Rights (ECtHR)",
+      "seat": "Strasbourg",
+      "url": "https://www.echr.coe.int/",
+      "role": "Apex judicial body for state-party violations of related rights frameworks including ECHR Article 8 Right to Respect for Family Life applicable to contact-rights framework."
+    },
+    {
+      "name": "Council of Europe Standing Committee T-CC",
+      "seat": "Strasbourg",
+      "url": "https://www.coe.int/",
+      "role": "Council of Europe Standing Committee T-CC — formal monitoring framework for Council of Europe Convention on Contact concerning Children 2003."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Council of Europe Secretariat",
+      "url": "https://www.coe.int/",
+      "role": "Council of Europe Convention on Contact concerning Children 2003 implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Council of Europe Convention 2003-related individual communications are anonymised per Council of Europe + ECtHR practice using initials.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "title": "Council of Europe founded",
+      "description": "Council of Europe founded 5 May 1949 by Statute of the Council of Europe — beginning of formal Council of Europe regional framework."
+    },
+    {
+      "year": 1950,
+      "title": "ECHR adopted + Article 8",
+      "description": "European Convention on Human Rights ECHR adopted 4 November 1950 + effective 3 September 1953 — formal ECHR framework including Article 8 Right to Respect for Family Life applicable to contact-rights framework."
+    },
+    {
+      "year": 1980,
+      "title": "Hague Convention 1980 adopted",
+      "description": "Hague Convention on the Civil Aspects of International Child Abduction adopted 25 October 1980 — universal multilateral framework supplementary to Council of Europe Convention 2003."
+    },
+    {
+      "year": 1996,
+      "title": "Council of Europe Convention on the Exercise of Children's Rights",
+      "description": "Council of Europe Convention on the Exercise of Children's Rights CETS 160 adopted 25 January 1996 — formal European regional children's-rights binding-treaty framework."
+    },
+    {
+      "year": 2003,
+      "title": "Council of Europe Convention 2003 adopted",
+      "description": "Council of Europe Convention on Contact concerning Children CETS 192 adopted 15 May 2003 — formal European regional parental-contact-rights binding-treaty framework."
+    },
+    {
+      "year": 2005,
+      "title": "Council of Europe Convention 2003 enters force",
+      "description": "Council of Europe Convention on Contact concerning Children CETS 192 entered force 1 September 2005 — formal European regional parental-contact-rights binding-treaty framework operational."
+    }
+  ],
+  "structural_findings": [
+    "Council of Europe Convention 2003 operates a supranational European regional parental-contact-rights binding-treaty framework — places Council of Europe Convention 2003 in the European supranational-meta-framework cluster.",
+    "Only modern international binding-treaty framework operating specifically on parental + family contact rights with children is structurally distinctive globally — formal-parental-and-family-contact-rights-specific framework.",
+    "Only modern international binding-treaty framework with formal contact-rights enforcement framework is structurally distinctive globally — Convention Article 14 + 15 + 17 frameworks.",
+    "Central jurisdiction of formal Council of Europe post-Hague-1980 parental-contact-rights elaboration framework is structurally distinctive globally — Article 22 concurrent applicability framework with Hague Convention 1980.",
+    "Central jurisdiction of one of most distinctive modern parental + family contact rights frameworks globally is structurally distinctive globally — Convention Article 2 + 3 + 4 + 5 + 6 frameworks + formal three-tier contact-rights framework.",
+    "15 of 46 Council of Europe member state party ratification framework is structurally distinctive globally — relatively-limited European state party ratification framework reflecting limited adoption of parental-contact-rights-specific framework.",
+    "1949 Council of Europe + 1950 ECHR + 1980 Hague Convention + 1996 Council of Europe Convention on the Exercise of Children's Rights + 2003 Council of Europe Convention regional-framework-development sequence is structurally distinctive globally.",
+    "Concurrent applicability framework with Hague Convention 1980 via Article 22 framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:council-of-europe",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child",
+    "evidence:hague-convention-1980"
+  ],
+  "sources": [
+    {
+      "title": "Council of Europe",
+      "url": "https://www.coe.int/",
+      "publisher": "Council of Europe",
+      "language": "en"
+    },
+    {
+      "title": "European Court of Human Rights",
+      "url": "https://www.echr.coe.int/",
+      "publisher": "ECtHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Council of Europe Convention on Contact concerning Children 2003 jurisdiction sidecar — supranational European regional parental-contact-rights binding-treaty meta-framework (Council of Europe Convention 2003/2005 + Hague Convention 1980/1983 + Council of Europe Convention on the Exercise of Children's Rights 1996/2000 + ECHR 1950/1953 Article 8 + Council of Europe founded 1949 + ECtHR). Only modern international binding-treaty framework operating specifically on parental + family contact rights with children globally + only modern international binding-treaty framework with formal contact-rights enforcement framework + central jurisdiction of formal Council of Europe post-Hague-1980 parental-contact-rights elaboration framework + central jurisdiction of one of most distinctive modern parental + family contact rights frameworks globally + 15 of 46 Council of Europe member state party ratification framework + 1949 Council of Europe + 1950 ECHR + 1980 Hague Convention + 1996 Council of Europe Convention on the Exercise of Children's Rights + 2003 Council of Europe Convention regional-framework-development sequence + Concurrent applicability framework with Hague Convention 1980 via Article 22 framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins European + supranational + regional-parental-contact-rights-binding-treaty cluster + Council-of-Europe-Convention-2003-only-international-binding-treaty-framework-operating-on-parental-and-family-contact-rights-globally-distinctive + Article-14-trans-frontier-contact-framework + Article-22-concurrent-applicability-with-Hague-Convention-1980 + three-tier-contact-rights-framework-Article-4-5-6 + 15-of-46-Council-of-Europe-state-party-ratification + 1949-Council-of-Europe + ECHR-Article-8-Right-to-Respect-for-Family-Life + Council-of-Europe-Convention-on-the-Exercise-of-Children's-Rights-1996 clusters within the corpus."
+  ]
+}

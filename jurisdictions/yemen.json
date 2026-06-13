@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "yemen",
+  "name": "Yemen (Republic of Yemen / الجمهورية اليمنية)",
+  "jurisdiction_code": "YE",
+  "legal_system": "religious-law",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Yemen is a MENA religious-law republic whose family-law framework operates under the Personal Status Law 20/1992 (Qanun al-Ahwal al-Shakhsiyya) drawing on Shafi'i and Zaydi Shia jurisprudence (the latter distinctive to Yemeni Islam). Custody (hadana) and guardianship (wilaya) are governed by Personal Status Law arts. 138-158. The Supreme Court (المحكمة العليا) is the apex court for civil and criminal matters; the Supreme Constitutional Court operates constitutional review. Personal-status matters are heard at first instance in Personal Status Courts. Psychology profession is regulated through the Ministry of Public Health and Population framework; no unified federal-statutory psychology regulator exists. Yemen is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Yemen is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Personal Status Law 20/1992 arts. 138-158",
+      "title": "Personal Status Law — Custody and guardianship",
+      "year": 1992,
+      "url": "https://www.moj.gov.ye/",
+      "relevance": "Federal Personal Status Law drawing on Shafi'i and Zaydi Shia jurisprudence (Zaydi being distinctive to Yemen). Arts. 138-158 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Rights of the Child Law 45/2002",
+      "title": "Rights of the Child Law",
+      "year": 2002,
+      "url": "https://www.moj.gov.ye/",
+      "relevance": "Federal children's rights statute aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (المحكمة العليا)",
+      "seat": "Sana'a",
+      "url": "https://www.scourt.gov.ye/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Public Health and Population, Yemen",
+      "url": "https://www.mophp.gov.ye/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Yemeni family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1990,
+      "title": "Republic of Yemen formation",
+      "description": "Unification of North Yemen (Yemen Arab Republic) and South Yemen (People's Democratic Republic of Yemen) establishing Republic of Yemen."
+    },
+    {
+      "year": 1992,
+      "title": "Personal Status Law 20/1992",
+      "description": "Federal Personal Status Law enacted post-unification codifying personal-status matters on Shafi'i + Zaydi Shia jurisprudential basis."
+    },
+    {
+      "year": 2002,
+      "title": "Rights of the Child Law 45/2002",
+      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+    }
+  ],
+  "structural_findings": [
+    "Yemen operates a structurally distinctive Shafi'i + Zaydi Shia religious-law framework — Zaydi Shia jurisprudence is distinctive to Yemen within the MENA religious-law cluster; no other jurisdiction in the corpus has Zaydi-primary personal-status.",
+    "Non-Hague Convention status places Yemen in the non-Hague MENA cluster.",
+    "Post-unification 1990 codification (Personal Status Law 1992) integrated previously parallel North/South Yemen legal frameworks."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:oman",
+    "jurisdiction:iran",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Yemen",
+      "url": "https://www.scourt.gov.ye/",
+      "publisher": "Supreme Court",
+      "language": "ar"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.moj.gov.ye/",
+      "publisher": "Ministry of Justice",
+      "language": "ar"
+    },
+    {
+      "title": "Ministry of Public Health and Population",
+      "url": "https://www.mophp.gov.ye/",
+      "publisher": "MOPHP",
+      "language": "ar"
+    }
+  ],
+  "editorial_notes": [
+    "Yemen jurisdiction sidecar — Shafi'i + Zaydi Shia religious-law framework. Personal Status Law 20/1992 + Rights of the Child Law 2002 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins MENA + religious-law + Zaydi-Shia distinctive cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

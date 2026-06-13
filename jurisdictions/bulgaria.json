@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "id": "bulgaria",
+  "name": "Bulgaria (България)",
+  "jurisdiction_code": "BG",
+  "legal_system": "civil-law",
+  "language": ["bg"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Bulgaria is a civil-law unitary republic whose family-law framework operates under the Семеен кодекс (Family Code) of 2009 (in force 1 October 2009). Parental rights and obligations (родителски права и задължения) are governed by Family Code arts. 122-138, with joint exercise of parental rights operating as the statutory default during marriage. The Върховен касационен съд (Supreme Court of Cassation, Sofia) is the apex civil court of cassation; the Конституционен съд (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under the Закон за здравето (Health Act) and the Bulgarian Psychological Society — statutory regulation is less centralised than the federal-statutory regimes elsewhere in the corpus. Bulgaria is silent on 'parental alienation' as a statutory label; courts operate substantively under the най-добрия интерес на детето (best-interests-of-the-child) standard. ECHR Strasbourg jurisprudence has produced Bulgarian contact-enforcement cases (notably Mincheva v. Bulgaria 2010) engaging the Article 8 positive-obligations framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Семеен кодекс 2009",
+      "title": "Family Code 2009 — Parental rights and obligations",
+      "year": 2009,
+      "url": "https://lex.bg/laws/ldoc/2135637484",
+      "relevance": "Federal statute on family law in force 1 October 2009. Arts. 122-138 govern parental rights and obligations; joint exercise of parental rights during marriage is the statutory default. Art. 59 governs the determination of which parent will exercise parental rights on divorce, with the welfare standard governing."
+    },
+    {
+      "citation": "Закон за закрила на детето",
+      "title": "Child Protection Act",
+      "year": 2000,
+      "url": "https://lex.bg/laws/ldoc/2134925825",
+      "relevance": "Federal child-protection statute providing the framework for welfare-paramountcy and the State Agency for Child Protection."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Върховен касационен съд (Supreme Court of Cassation)",
+      "seat": "Sofia",
+      "url": "https://vks.bg/",
+      "role": "Apex civil court of cassation. Family-law decisions reach the Supreme Court of Cassation via the Apelativen sad (Court of Appeal) following first-instance Rayonen sad (District Court) determinations."
+    },
+    {
+      "name": "Конституционен съд (Constitutional Court)",
+      "seat": "Sofia",
+      "url": "https://constcourt.bg/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review of statutes."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Дружество на психолозите в България (Bulgarian Psychological Society)",
+      "url": "https://psychology-bg.org/",
+      "role": "Peak academic-and-professional psychology society in Bulgaria. Operates ethics code."
+    }
+  ],
+  "anonymisation_convention": "Bulgarian family-law decisions are anonymised per Supreme Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 2000,
+      "title": "Child Protection Act",
+      "description": "Federal child-protection statute enacted."
+    },
+    {
+      "year": 2009,
+      "title": "Family Code 2009 in force",
+      "description": "Семеен кодекс 2009 in force 1 October 2009 — substantial modernisation of family law including parental-rights framework."
+    },
+    {
+      "year": 2010,
+      "title": "Mincheva v. Bulgaria (ECHR)",
+      "description": "Strasbourg Article 8 positive-obligations decision on Bulgarian contact-enforcement — included in the corpus's Strasbourg-Article-8 jurisprudence cluster."
+    }
+  ],
+  "structural_findings": [
+    "Bulgaria sits structurally within the CEE/Balkan civil-law cluster alongside Romania + Greece + Croatia + Serbia — modernised Family Code 2009 + welfare-standard family-court framework + Constitutional Court constitutional-review.",
+    "Mincheva v. Bulgaria 2010 contact-enforcement decision places Bulgaria within the Strasbourg Article 8 positive-obligations jurisprudence cluster alongside the Italian triptych (Bondavalli + Improta + Strumia) and Romanian Strasbourg-jurisprudence documented elsewhere in the corpus.",
+    "Psychology profession regulation operates less centrally than federal-statutory regimes elsewhere in the corpus — Закон за здравето + Bulgarian Psychological Society peak-body ethics oversight rather than unified statutory professional-order regime."
+  ],
+  "references": [
+    "jurisdiction:romania",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:strasbourg-article-8-positive-obligations-doctrine",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Върховен касационен съд (Supreme Court of Cassation)",
+      "url": "https://vks.bg/",
+      "publisher": "Supreme Court of Cassation",
+      "language": "bg,en"
+    },
+    {
+      "title": "Конституционен съд",
+      "url": "https://constcourt.bg/",
+      "publisher": "Constitutional Court",
+      "language": "bg,en"
+    },
+    {
+      "title": "Lex.bg — Bulgarian legal database",
+      "url": "https://lex.bg/",
+      "publisher": "Lex.bg",
+      "language": "bg"
+    }
+  ],
+  "editorial_notes": [
+    "Bulgaria jurisdiction sidecar — CEE/Balkan civil-law framework. Family Code 2009 + Child Protection Act 2000 + Mincheva v. Bulgaria Strasbourg Article 8 jurisprudence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins CEE/Balkan + Strasbourg-Article-8 jurisprudence clusters within the corpus."
+  ]
+}

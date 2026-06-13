@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "melilla",
+  "name": "Melilla (Ciudad Autónoma de Melilla / مليلية)",
+  "jurisdiction_code": "ES-ML",
+  "legal_system": "civil-law",
+  "language": ["es", "ar", "ber", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Melilla (Spanish: Ciudad Autónoma de Melilla / Arabic: مليلية Maliliyya / Berber: ⵎⵍⵉⵍⵜ Mlilt) is a North African civil-law Autonomous City of the Kingdom of Spain — structurally distinctive globally as one of two modern European Union sub-national territories located on the African mainland (alongside Ceuta — distinct from rest-of-EU-sub-national-territories located in Europe or non-African overseas territories), as one of two Spanish Autonomous Cities (Ciudades Autónomas — Ceuta + Melilla, constitutionally distinct sui generis territorial framework under Constitution of Spain 1978 Article 144(b) + Statute of Autonomy of Melilla 1995), as the longest-continuously-Spanish sub-national territory globally (Melilla under Spanish control since 17 September 1497 — formal Spanish framework 1497-present 528+ years, longer than any other modern Spanish sub-national territory including Spain itself's modern territorial framework, predating Christopher Columbus' first Atlantic crossing by 5 years), as the central jurisdiction of one of the most contested modern Spanish-Moroccan sovereignty frameworks (Morocco maintains formal sovereignty claim over Melilla since Moroccan independence 1956 — distinct from rest-of-Spanish-sub-national territorial framework where sovereignty is uncontested), and as a distinctive multi-religious + multi-cultural Spanish sub-national jurisdiction (~50% Christian + ~45% Muslim + ~5% Jewish + ~1% Hindu Spanish-Indian-community + others — distinctive multi-religious + Spanish-Sephardic-Jewish-community + Spanish-Indian-Sindhi-community framework, distinct from rest-of-Spanish-sub-national-territorial Christian-majority framework). Melilla historically operated under Phoenician 7th century BCE + Carthaginian + Roman Rusaddir + Visigothic + Byzantine + Arab Berber Caliphate framework 700s CE + various Berber dynasties + Spanish 1497+ (Pedro de Estopiñán Castilian conquest 17 September 1497 — beginning of formal Spanish framework) + Spanish Plaza de Soberanía framework 1497-1995 + Autonomous City of Melilla 1995+. Melilla comprises ~12 km² with a population of ~85,000. Family-law framework operates under the federal Spanish civil-law framework (Spanish Civil Code 1889 Family Law portion) applied uniformly across Spanish sub-national territories. The Court of First Instance and Instruction of Melilla is the primary trial court; the Superior Court of Justice of Andalusia, Ceuta and Melilla is the apex regional appellate court; final appellate jurisdiction lies with the Supreme Court of Spain. Melilla is silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 signatory and party (acceded 16 June 1987 effective 1 September 1987) — Melilla is governed by Spanish Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Spain 1978 Article 144(b) (Autonomous Cities)",
+      "title": "Constitution of Spain Article 144(b)",
+      "year": 1978,
+      "url": "https://www.congreso.es/",
+      "relevance": "Spanish Constitutional Article 144(b) establishing framework for Autonomous Cities — applicable to Ceuta + Melilla."
+    },
+    {
+      "citation": "Statute of Autonomy of Melilla 1995 (Organic Law 2/1995)",
+      "title": "Statute of Autonomy of Melilla",
+      "year": 1995,
+      "url": "https://www.melilla.es/",
+      "relevance": "Spanish Federal Organic Law 2/1995 of 13 March 1995 — formal Statute of Autonomy of Melilla, formal Autonomous City framework."
+    },
+    {
+      "citation": "Spanish Civil Code 1889",
+      "title": "Spanish Civil Code",
+      "year": 1889,
+      "url": "https://www.boe.es/",
+      "relevance": "Spanish Federal Civil Code 1889 Family Law portion applicable uniformly across Melilla."
+    },
+    {
+      "citation": "Hague Convention 1980 — Spanish accession 16 June 1987",
+      "title": "Hague Convention 1980 — Spain",
+      "year": 1987,
+      "url": "https://www.hcch.net/",
+      "relevance": "Spanish Hague Convention 1980 accession 16 June 1987 effective 1 September 1987 — applicable to Melilla."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of First Instance and Instruction of Melilla (Juzgado de Primera Instancia e Instrucción de Melilla)",
+      "seat": "Melilla",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Primary trial court for civil and criminal matters from Melilla."
+    },
+    {
+      "name": "Superior Court of Justice of Andalusia, Ceuta and Melilla (Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla)",
+      "seat": "Granada",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Apex regional appellate court for civil and criminal matters from Melilla."
+    },
+    {
+      "name": "Supreme Court of Spain (Tribunal Supremo)",
+      "seat": "Madrid",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Final appellate court for civil and criminal matters from Melilla."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Spanish Ministry of Health (Ministerio de Sanidad)",
+      "url": "https://www.sanidad.gob.es/",
+      "role": "Spanish Federal professional regulatory framework applicable in Melilla."
+    }
+  ],
+  "anonymisation_convention": "Melilla family-court decisions are anonymised per Spanish court practice using initials.",
+  "key_developments": [
+    {
+      "year": -700,
+      "title": "Phoenician founding of Rusaddir",
+      "description": "Phoenician founding of Rusaddir 7th century BCE — earliest formal urban-settlement framework over Melilla."
+    },
+    {
+      "year": 700,
+      "title": "Arab Berber Caliphate conquest",
+      "description": "Arab Berber Umayyad Caliphate conquest of Melilla 700s — beginning of formal Arab Berber framework over Melilla 700s-1497."
+    },
+    {
+      "year": 1497,
+      "title": "Spanish conquest by Pedro de Estopiñán",
+      "description": "Pedro de Estopiñán Castilian conquest of Melilla 17 September 1497 — beginning of formal Spanish framework over Melilla 1497+ 528+ years."
+    },
+    {
+      "year": 1860,
+      "title": "Treaty of Wad-Ras + Spanish-Moroccan War",
+      "description": "Treaty of Wad-Ras signed 26 April 1860 — formal Spanish-Moroccan treaty following Spanish-Moroccan War 1859-1860 confirming Spanish framework over Melilla."
+    },
+    {
+      "year": 1956,
+      "title": "Moroccan independence + sovereignty claim",
+      "description": "Moroccan independence 2 March 1956 — beginning of formal Moroccan sovereignty claim over Ceuta + Melilla."
+    },
+    {
+      "year": 1978,
+      "title": "Constitution of Spain + Article 144(b)",
+      "description": "Constitution of Spain adopted 27 December 1978 — Article 144(b) establishing framework for Autonomous Cities."
+    },
+    {
+      "year": 1995,
+      "title": "Statute of Autonomy of Melilla",
+      "description": "Spanish Federal Organic Law 2/1995 of 13 March 1995 — formal Statute of Autonomy of Melilla, formal Autonomous City framework."
+    }
+  ],
+  "structural_findings": [
+    "Melilla operates a federal Spanish civil-law Autonomous City framework — places Melilla in the North African Spanish sub-national cluster.",
+    "One of two modern European Union sub-national territories located on the African mainland is structurally distinctive globally — alongside Ceuta framework.",
+    "One of two Spanish Autonomous Cities is structurally distinctive within Spanish framework — constitutionally distinct sui generis territorial framework under Article 144(b).",
+    "Longest-continuously-Spanish sub-national territory globally is structurally distinctive globally — Melilla under Spanish framework 1497+ 528+ years, predating Christopher Columbus' first Atlantic crossing by 5 years.",
+    "Central jurisdiction of one of most contested modern Spanish-Moroccan sovereignty frameworks is structurally distinctive globally — Morocco maintains formal sovereignty claim over Melilla since Moroccan independence 1956.",
+    "Distinctive multi-religious + multi-cultural Spanish sub-national jurisdiction framework is structurally distinctive within Spanish framework — Spanish-Sephardic-Jewish-community + Spanish-Indian-Sindhi-community framework.",
+    "1497 Pedro de Estopiñán Castilian conquest of Melilla historical framework is structurally distinctive globally — only modern Spanish sub-national territory predating Spanish unification + Reconquista completion 1492 framework by only 5 years.",
+    "Spanish Hague-Convention-1980-accession-1987 framework applies."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:morocco",
+    "jurisdiction:ceuta",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Autonomous City of Melilla (Ciudad Autónoma de Melilla)",
+      "url": "https://www.melilla.es/",
+      "publisher": "Melilla Government",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Melilla jurisdiction sidecar — civil-law North African Spanish Autonomous City (Constitution of Spain 1978 Article 144(b) + Statute of Autonomy of Melilla 1995 + Spanish Civil Code 1889 + Phoenician Rusaddir 7th century BCE + Arab Berber 700s-1497 + Pedro de Estopiñán Castilian conquest 1497 + Treaty of Wad-Ras 1860 + Moroccan sovereignty claim 1956+ + Spanish-Sephardic-Jewish-community + Spanish-Indian-Sindhi-community + Spanish Hague-1980). One of two modern European Union sub-national territories located on the African mainland + one of two Spanish Autonomous Cities + longest-continuously-Spanish sub-national territory globally + central jurisdiction of one of most contested modern Spanish-Moroccan sovereignty frameworks + distinctive multi-religious + multi-cultural Spanish sub-national jurisdiction framework + 1497 Castilian conquest pre-Reconquista-completion framework. Spanish Autonomous Cities duo complete (Ceuta + Melilla).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-African + civil-law + Spanish-Autonomous-City cluster + Spanish-EU-sub-national-territory-on-African-mainland-globally-distinctive + Constitution-of-Spain-1978-Article-144-b-Autonomous-Cities + Statute-of-Autonomy-of-Melilla-1995 + Pedro-de-Estopiñán-1497-conquest-longest-continuously-Spanish + Treaty-of-Wad-Ras-1860 + Moroccan-sovereignty-claim-1956+ + Spanish-Sephardic-Jewish-community + Spanish-Indian-Sindhi-community + Spanish-Hague-1980-1987 clusters within the corpus."
+  ]
+}

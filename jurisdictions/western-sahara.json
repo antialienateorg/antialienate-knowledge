@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "id": "western-sahara",
+  "name": "Western Sahara (Sahrawi Arab Democratic Republic / الجمهورية العربية الصحراوية الديمقراطية / SADR)",
+  "jurisdiction_code": "EH",
+  "legal_system": "mixed",
+  "language": ["ar", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Western Sahara is a North African mixed-legal-system disputed territory — structurally distinctive globally as the only remaining UN-listed non-self-governing territory pending decolonisation in Africa. Approximately 80% of the territory is administered by Morocco (which considers it the Southern Provinces under Moroccan Family Code 2004 Moudawana framework); the remaining ~20% (Free Zone) is controlled by the Polisario Front (Sahrawi Arab Democratic Republic / SADR, recognised by 47 UN member states and African Union). Family-law framework in Moroccan-administered area operates under the Moroccan Moudawana 2004 (Maliki-Islamic-law); SADR-administered area operates under SADR Personal Status Code drawing on Maliki-Islamic-law and Hassaniya customary-law (Hassaniya being the Sahrawi dialect of Arabic). Parental authority and child custody are governed by Moudawana arts. 163-186 (Moroccan-administered) or SADR Personal Status Code (SADR-administered) and customary-law for matters not addressed. The Sahrawi judicial framework operates within SADR (apex Supreme Court in Tindouf-area refugee camps) and Moroccan judicial framework operates in Moroccan-administered area. Family-law matters are heard at first instance in the Court of First Instance (Moroccan-administered) and Sahrawi District Courts (SADR-administered). Western Sahara is silent on 'parental alienation' as a statutory label. Western Sahara is not a Hague Convention 1980 party; Morocco's Hague accession (effective 2010) covers Moroccan-administered area but SADR Free Zone is non-Hague.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Moroccan Moudawana 2004 (Moroccan-administered area)",
+      "title": "Moroccan Moudawana — Custody and guardianship",
+      "year": 2004,
+      "url": "https://www.justice.gov.ma/",
+      "relevance": "Moroccan Family Code applied in Moroccan-administered area of Western Sahara — Maliki Islamic-law framework with substantial 2004 modernisation."
+    },
+    {
+      "citation": "SADR Personal Status Code (SADR-administered area)",
+      "title": "SADR Personal Status Code",
+      "year": 1991,
+      "url": "https://www.sadr-gov.org/",
+      "relevance": "SADR Personal Status Code applied in SADR-administered Free Zone — Maliki Islamic-law + Hassaniya customary-law framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Moroccan Court of Cassation (Moroccan-administered area)",
+      "seat": "Rabat",
+      "url": "https://www.courdecassation.ma/",
+      "role": "Apex Moroccan court for civil and criminal matters covering Moroccan-administered Western Sahara."
+    },
+    {
+      "name": "Sahrawi Supreme Court (SADR-administered area)",
+      "seat": "Tindouf-area refugee camps",
+      "url": "https://www.sadr-gov.org/",
+      "role": "Apex SADR court for SADR-administered Free Zone."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Various — Moroccan Ministry of Health (Moroccan-administered) / SADR Ministry of Health (SADR-administered)",
+      "url": "",
+      "role": "Federal regulators of health professionals operating in respective administered areas."
+    }
+  ],
+  "anonymisation_convention": "Western Sahara family-court decisions are anonymised per relevant court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1975,
+      "title": "Spanish withdrawal + Madrid Accords",
+      "description": "Spanish colonial withdrawal from Spanish Sahara; Madrid Accords transferred administration to Morocco and Mauritania (Mauritania subsequently withdrew 1979)."
+    },
+    {
+      "year": 1976,
+      "title": "SADR declaration",
+      "description": "Sahrawi Arab Democratic Republic (SADR) declared by Polisario Front; recognised by 47 UN member states and African Union."
+    },
+    {
+      "year": 1991,
+      "title": "Ceasefire + MINURSO",
+      "description": "Ceasefire between Morocco and Polisario; UN Mission for the Referendum in Western Sahara (MINURSO) established for self-determination referendum (still pending)."
+    },
+    {
+      "year": 2010,
+      "title": "Hague Convention 1980 Morocco accession",
+      "description": "Morocco acceded to Hague Convention 1980 — covering Moroccan-administered Western Sahara per Morocco's territorial claim."
+    },
+    {
+      "year": 2020,
+      "title": "Resumption of armed conflict",
+      "description": "Ceasefire broke down; armed conflict resumed."
+    }
+  ],
+  "structural_findings": [
+    "Western Sahara is structurally distinctive globally within the corpus as the only remaining UN-listed non-self-governing territory pending decolonisation in Africa.",
+    "Dual legal-system administration (Moroccan + SADR) within a single UN-recognised territory is structurally distinctive globally — only state in the corpus with concurrent dual-administration legal frameworks.",
+    "Hague Convention 1980 applicability is split — Morocco's accession covers Moroccan-administered area; SADR Free Zone is non-Hague. Structurally distinctive split-Hague-applicability status within a single territory.",
+    "SADR recognition by 47 UN member states + African Union but not UN seat itself is structurally distinctive partial-recognition status."
+  ],
+  "references": [
+    "jurisdiction:morocco",
+    "jurisdiction:mauritania",
+    "jurisdiction:kosovo",
+    "jurisdiction:palestine",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UN MINURSO",
+      "url": "https://www.minurso.unmissions.org/",
+      "publisher": "UN MINURSO",
+      "language": "en,ar,es,fr"
+    },
+    {
+      "title": "SADR Government",
+      "url": "https://www.sadr-gov.org/",
+      "publisher": "Polisario / SADR",
+      "language": "ar,es"
+    },
+    {
+      "title": "Moroccan Ministry of Justice",
+      "url": "https://www.justice.gov.ma/",
+      "publisher": "Ministry of Justice",
+      "language": "ar,fr"
+    }
+  ],
+  "editorial_notes": [
+    "Western Sahara jurisdiction sidecar — mixed-legal-system North African UN non-self-governing territory (Moroccan Moudawana + SADR Personal Status Code + Hassaniya customary + dual-administration framework + split-Hague-applicability + partial-recognition SADR). Only remaining UN-listed African non-self-governing territory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North African + mixed-legal-system + UN-non-self-governing-territory-distinctive + dual-administration-distinctive + partial-recognition + split-Hague-applicability-distinctive clusters within the corpus."
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "id": "icescr",
+  "name": "International Covenant on Economic, Social and Cultural Rights (ICESCR 1966)",
+  "jurisdiction_code": "ICE",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The International Covenant on Economic, Social and Cultural Rights (ICESCR) is a global supranational meta-framework economic + social + cultural rights binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as one of two universal multilateral binding-treaty translations of UDHR framework alongside ICCPR (ICESCR adopted 16 December 1966 by UN General Assembly Resolution 2200A (XXI) + effective 3 January 1976 — formal universal multilateral binding-treaty framework establishing comprehensive economic + social + cultural rights framework, distinct from ICCPR framework which operates on civil + political rights framework, structurally distinctive globally as one of two universal multilateral binding-treaty translations of UDHR framework alongside ICCPR — formally constituting International Bill of Human Rights framework alongside UDHR + ICCPR), as the central jurisdiction of the formal Article 10 family + maternity + children's-protection framework (ICESCR Article 10 framework on rights of the family + maternity + children's-protection — formal foundational family + maternity + children's-protection framework establishing 'the widest possible protection and assistance should be accorded to the family' + 'special protection should be accorded to mothers during a reasonable period before and after childbirth' + 'special measures of protection and assistance should be taken on behalf of all children and young persons', structurally distinctive globally as the only modern universal binding-treaty framework operating formal combined family + maternity + children's-protection framework), as the central jurisdiction of the formal Article 13 right to education framework (ICESCR Article 13 framework on right to education — formal foundational right-to-education framework, structurally distinctive globally as one of the most-developed modern universal binding-treaty right-to-education framework provisions), and as the central jurisdiction of the formal Article 12 right to health framework (ICESCR Article 12 framework on right to highest attainable standard of physical and mental health — formal foundational right-to-health framework, structurally distinctive globally as the most-developed modern universal binding-treaty right-to-health framework provision). The ICESCR is binding upon 173 state parties as of 2026 — substantial state party + non-state-party framework with significant non-ratification framework including United States + Cuba + Comoros + Saint Lucia + South Africa + others. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 10 family + maternity + children's-protection framework intersects with parental-alienation framework. The UN Committee on Economic, Social and Cultural Rights is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The ICESCR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "International Covenant on Economic, Social and Cultural Rights 1966",
+      "title": "ICESCR",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "International Covenant on Economic, Social and Cultural Rights adopted 16 December 1966 by UN General Assembly Resolution 2200A (XXI) + effective 3 January 1976 — formal universal multilateral binding-treaty framework establishing comprehensive economic + social + cultural rights framework."
+    },
+    {
+      "citation": "ICESCR Article 10 (Family + Maternity + Children's Protection)",
+      "title": "ICESCR Article 10",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "ICESCR Article 10 framework on rights of the family + maternity + children's-protection — formal foundational family + maternity + children's-protection framework."
+    },
+    {
+      "citation": "ICESCR Article 12 (Right to Health)",
+      "title": "ICESCR Article 12",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "ICESCR Article 12 framework on right to highest attainable standard of physical and mental health — formal foundational right-to-health framework."
+    },
+    {
+      "citation": "ICESCR Article 13 (Right to Education)",
+      "title": "ICESCR Article 13",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "ICESCR Article 13 framework on right to education — formal foundational right-to-education framework."
+    },
+    {
+      "citation": "ICESCR Optional Protocol 2008 (Individual Communications)",
+      "title": "ICESCR Optional Protocol",
+      "year": 2013,
+      "url": "https://www.un.org/",
+      "relevance": "ICESCR Optional Protocol adopted 10 December 2008 + effective 5 May 2013 — formal UN Committee on Economic, Social and Cultural Rights individual communications framework, applicable to 28 state parties as of 2026."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Committee on Economic, Social and Cultural Rights (CESCR Committee)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cescr",
+      "role": "Apex monitoring framework body for ICESCR."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "ICESCR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ICESCR-related individual communications are anonymised per UN Committee on Economic, Social and Cultural Rights practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "UDHR adopted",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 — foundational framework underlying ICESCR."
+    },
+    {
+      "year": 1966,
+      "title": "ICCPR + ICESCR adopted",
+      "description": "International Covenant on Civil and Political Rights ICCPR + International Covenant on Economic, Social and Cultural Rights ICESCR adopted 16 December 1966 — formal binding-treaty translation of UDHR framework."
+    },
+    {
+      "year": 1976,
+      "title": "ICESCR enters force",
+      "description": "International Covenant on Economic, Social and Cultural Rights entered force 3 January 1976 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2008,
+      "title": "ICESCR Optional Protocol adopted",
+      "description": "ICESCR Optional Protocol adopted 10 December 2008 — formal UN Committee on Economic, Social and Cultural Rights individual communications framework."
+    },
+    {
+      "year": 2013,
+      "title": "ICESCR Optional Protocol enters force",
+      "description": "ICESCR Optional Protocol entered force 5 May 2013 — formal UN Committee on Economic, Social and Cultural Rights individual communications framework operational."
+    }
+  ],
+  "structural_findings": [
+    "ICESCR operates a supranational universal multilateral binding-treaty framework — places ICESCR in the global supranational-meta-framework cluster.",
+    "One of two universal multilateral binding-treaty translations of UDHR framework alongside ICCPR is structurally distinctive globally — formally constituting International Bill of Human Rights framework alongside UDHR + ICCPR.",
+    "Central jurisdiction of formal Article 10 family + maternity + children's-protection framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal combined family + maternity + children's-protection framework.",
+    "Central jurisdiction of formal Article 13 right to education framework is structurally distinctive globally — one of the most-developed modern universal binding-treaty right-to-education framework provisions.",
+    "Central jurisdiction of formal Article 12 right to health framework is structurally distinctive globally — most-developed modern universal binding-treaty right-to-health framework provision.",
+    "173 state party ratification framework is structurally distinctive globally — substantial state party + non-state-party framework with significant non-ratification framework including United States + Cuba + Comoros + Saint Lucia + South Africa + others.",
+    "ICESCR Optional Protocol 2008/2013 framework is structurally distinctive globally — only 28 state party + relatively-limited UN Committee on Economic, Social and Cultural Rights individual communications framework.",
+    "1948 UDHR + 1966 ICCPR + ICESCR + 1976 entry into force + 2008/2013 Optional Protocol International-Bill-of-Human-Rights-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — ICESCR",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cescr",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ICESCR jurisdiction sidecar — supranational global economic + social + cultural rights universal multilateral binding-treaty meta-framework (ICESCR 1966/1976 + Article 10 Family + Maternity + Children's Protection + Article 12 Right to Health + Article 13 Right to Education + Optional Protocol 2008/2013 Individual Communications + UN Committee on Economic, Social and Cultural Rights + UDHR 1948 + ICCPR 1966/1976 + International Bill of Human Rights). One of two universal multilateral binding-treaty translations of UDHR framework alongside ICCPR + formally constituting International Bill of Human Rights framework alongside UDHR + ICCPR + central jurisdiction of formal Article 10 family + maternity + children's-protection framework + central jurisdiction of formal Article 13 right to education framework + central jurisdiction of formal Article 12 right to health framework + 173 state party ratification framework + ICESCR Optional Protocol 2008/2013 framework + 1948 UDHR + 1966 ICCPR + ICESCR + 1976 entry into force + 2008/2013 Optional Protocol International-Bill-of-Human-Rights-framework-development sequence. International Bill of Human Rights triad complete (UDHR + ICCPR + ICESCR).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + universal-multilateral-economic-social-cultural-rights-binding-treaty cluster + ICESCR-one-of-two-universal-binding-treaty-translations-of-UDHR-globally-distinctive + Article-10-Family-Maternity-Children-Protection-combined-framework + Article-12-Right-to-Health + Article-13-Right-to-Education + Optional-Protocol-2008-2013-individual-communications + 173-state-party-ratification + UN-Committee-on-Economic-Social-and-Cultural-Rights-CESCR-Committee + International-Bill-of-Human-Rights-UDHR-ICCPR-ICESCR-1948-1966-1976 clusters within the corpus."
+  ]
+}

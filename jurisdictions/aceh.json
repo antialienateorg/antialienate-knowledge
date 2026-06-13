@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0",
+  "id": "aceh",
+  "name": "Aceh / Nanggroe Aceh Darussalam (نڠكرو اچيه دارالسلام)",
+  "jurisdiction_code": "ID-AC",
+  "legal_system": "mixed",
+  "language": ["id", "ace", "ar", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Aceh (formally Nanggroe Aceh Darussalam نڠكرو اچيه دارالسلام / Daerah Istimewa Aceh in Indonesian) is a Northwestern Sumatran Indonesian mixed civil-law/Islamic-law special-autonomy province — structurally distinctive globally as the only Indonesian province operating a formal Sharia framework (Qanun Jinayat 2014 Islamic Criminal Code + Mahkamah Syariah Islamic Court framework — Aceh-specific Islamic criminal-law framework including public caning for moral offences distinct from rest-of-Indonesia's secular Pancasila-based legal framework), as the only Indonesian province with formal special-autonomy framework derived from peace-agreement framework (Law on the Governing of Aceh 11/2006 UU 11/2006 implementing the Helsinki Memorandum of Understanding 15 August 2005 ending the Aceh War 1976-2005 between Indonesian Government and Free Aceh Movement Gerakan Aceh Merdeka GAM), as the central jurisdiction of one of the most devastating natural disasters of the 21st century (2004 Indian Ocean earthquake-tsunami 26 December 2004 — ~170,000 deaths in Aceh out of ~230,000 total — most deaths in any single jurisdiction from the tsunami framework), and as a distinctive jurisdiction within Indonesia for the Acehnese-cultural-political-identity-vs-Indonesian-cultural-political-assimilation tension (historic Aceh Sultanate 1496-1903 + Dutch-Aceh War 1873-1914 + 1949 Indonesian incorporation + 1976-2005 GAM insurgency framework). Aceh historically operated the Aceh Sultanate 1496-1903 as a major Indian Ocean Islamic maritime power, was subjected to Dutch-Aceh War 1873-1914 with substantial Acehnese resistance, was incorporated into Indonesia 1949 following Dutch decolonisation, was granted Daerah Istimewa (Special Region) status 1959, suffered the GAM insurgency 1976-2005, achieved the Helsinki MoU peace agreement 15 August 2005 (mediated by Crisis Management Initiative Martti Ahtisaari), and was granted Law on the Governing of Aceh 11/2006 framework. Aceh comprises ~58,377 km² with a population of ~5.4 million. Family-law framework operates under a dual federal Indonesian civil-law framework + Aceh-specific Mahkamah Syariah Islamic-court family-law framework — distinct from rest-of-Indonesia. The Mahkamah Syariah (Sharia Courts) operates as primary court for Islamic family-law matters; the Banda Aceh High Court is the apex appellate court; final appellate jurisdiction lies with the Supreme Court of Indonesia. Aceh is silent on 'parental alienation' as a statutory label. Indonesia is a Hague Convention 1980 signatory but not a party — Aceh is governed by the Indonesian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Law on the Governing of Aceh 11/2006 (UU 11/2006)",
+      "title": "Law on the Governing of Aceh",
+      "year": 2006,
+      "url": "https://peraturan.go.id/",
+      "relevance": "Indonesian Federal Act of 11 July 2006 implementing the Helsinki Memorandum of Understanding 15 August 2005 — only Indonesian province with formal special-autonomy framework derived from peace-agreement framework."
+    },
+    {
+      "citation": "Helsinki Memorandum of Understanding 2005 (Indonesian Government + GAM)",
+      "title": "Helsinki MoU 2005",
+      "year": 2005,
+      "url": "https://www.cmi.fi/",
+      "relevance": "Memorandum of Understanding of 15 August 2005 between Indonesian Government and Free Aceh Movement Gerakan Aceh Merdeka GAM — ending the Aceh War 1976-2005, mediated by Crisis Management Initiative Martti Ahtisaari."
+    },
+    {
+      "citation": "Qanun Jinayat 2014 (Aceh Islamic Criminal Code)",
+      "title": "Qanun Jinayat Islamic Criminal Code",
+      "year": 2014,
+      "url": "https://www.acehprov.go.id/",
+      "relevance": "Aceh Provincial Qanun (Sharia regulation) of 2014 establishing Aceh-specific Islamic criminal-law framework — including public caning for moral offences distinct from rest-of-Indonesia's secular Pancasila-based legal framework."
+    },
+    {
+      "citation": "Mahkamah Syariah Aceh framework",
+      "title": "Mahkamah Syariah Framework",
+      "year": 2003,
+      "url": "https://www.ms-aceh.go.id/",
+      "relevance": "Mahkamah Syariah (Sharia Courts) Aceh framework operating as primary court for Islamic family-law matters — distinct from rest-of-Indonesia's secular civil-court family-law framework."
+    },
+    {
+      "citation": "Special Autonomy Law 18/2001 (predecessor framework)",
+      "title": "Aceh Special Autonomy Law 2001",
+      "year": 2001,
+      "url": "https://peraturan.go.id/",
+      "relevance": "Indonesian Federal Act of 2001 establishing predecessor special-autonomy framework — superseded by Law on the Governing of Aceh 11/2006."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Mahkamah Syariah Aceh",
+      "seat": "Banda Aceh",
+      "url": "https://www.ms-aceh.go.id/",
+      "role": "Aceh-specific Sharia court framework operating as primary court for Islamic family-law matters."
+    },
+    {
+      "name": "Banda Aceh High Court",
+      "seat": "Banda Aceh",
+      "url": "https://www.pt-bandaaceh.go.id/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Aceh."
+    },
+    {
+      "name": "Supreme Court of Indonesia (Mahkamah Agung)",
+      "seat": "Jakarta",
+      "url": "https://www.mahkamahagung.go.id/",
+      "role": "Final appellate court for civil and criminal matters from Aceh."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indonesian Ministry of Health (Kementerian Kesehatan)",
+      "url": "https://www.kemkes.go.id/",
+      "role": "Indonesian Federal professional regulatory framework applicable in Aceh."
+    }
+  ],
+  "anonymisation_convention": "Aceh family-court decisions are anonymised per Indonesian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1496,
+      "title": "Aceh Sultanate founded",
+      "description": "Aceh Sultanate founded 1496 — major Indian Ocean Islamic maritime power 1496-1903."
+    },
+    {
+      "year": 1873,
+      "title": "Dutch-Aceh War begins",
+      "description": "Dutch-Aceh War 1873-1914 — substantial Acehnese resistance against Dutch colonisation."
+    },
+    {
+      "year": 1949,
+      "title": "Indonesian incorporation",
+      "description": "Aceh incorporated into Indonesia 1949 following Dutch decolonisation."
+    },
+    {
+      "year": 1959,
+      "title": "Daerah Istimewa status",
+      "description": "Aceh granted Daerah Istimewa (Special Region) status 1959 — predecessor special-status framework."
+    },
+    {
+      "year": 1976,
+      "title": "GAM founded",
+      "description": "Free Aceh Movement Gerakan Aceh Merdeka GAM founded 4 December 1976 — beginning of Aceh War 1976-2005."
+    },
+    {
+      "year": 2001,
+      "title": "Special Autonomy Law 18/2001",
+      "description": "Indonesian Federal Special Autonomy Law 18/2001 — predecessor framework establishing Aceh Sharia framework."
+    },
+    {
+      "year": 2004,
+      "title": "Indian Ocean tsunami",
+      "description": "Indian Ocean earthquake-tsunami 26 December 2004 — ~170,000 deaths in Aceh out of ~230,000 total — most deaths in any single jurisdiction."
+    },
+    {
+      "year": 2005,
+      "title": "Helsinki MoU + end of Aceh War",
+      "description": "Helsinki Memorandum of Understanding 15 August 2005 between Indonesian Government and GAM — ending Aceh War 1976-2005, mediated by CMI Martti Ahtisaari."
+    },
+    {
+      "year": 2006,
+      "title": "Law on the Governing of Aceh",
+      "description": "Indonesian Federal Law on the Governing of Aceh 11/2006 of 11 July 2006 implementing Helsinki MoU framework."
+    },
+    {
+      "year": 2014,
+      "title": "Qanun Jinayat adopted",
+      "description": "Aceh Provincial Qanun Jinayat 2014 establishing Aceh-specific Islamic criminal-law framework including public caning for moral offences."
+    }
+  ],
+  "structural_findings": [
+    "Aceh operates a mixed federal Indonesian civil-law + Aceh-specific Islamic-law special-autonomy province framework — places Aceh in the Northwestern Sumatran Indonesian-province cluster.",
+    "Only Indonesian province operating formal Sharia framework is structurally distinctive globally — Qanun Jinayat 2014 Islamic Criminal Code + Mahkamah Syariah Islamic Court framework.",
+    "Only Indonesian province with formal special-autonomy framework derived from peace-agreement framework is structurally distinctive globally — Helsinki MoU 2005 + Law on the Governing of Aceh 11/2006.",
+    "Central jurisdiction of 2004 Indian Ocean tsunami is structurally distinctive globally — ~170,000 deaths in Aceh out of ~230,000 total — most deaths in any single jurisdiction.",
+    "Acehnese-cultural-political-identity-vs-Indonesian-cultural-political-assimilation tension is structurally distinctive within Indonesian provincial cluster — historic Aceh Sultanate 1496-1903 + Dutch-Aceh War 1873-1914 + 1976-2005 GAM insurgency framework.",
+    "Aceh Sultanate 1496-1903 major Indian Ocean Islamic maritime power framework is structurally distinctive globally.",
+    "1976-2005 GAM insurgency framework with Helsinki-MoU-mediated peace agreement is structurally distinctive globally — only modern Southeast-Asian internal armed conflict resolved via formal CMI-mediated peace agreement.",
+    "Indonesian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:indonesia",
+    "jurisdiction:malaysia",
+    "jurisdiction:finland",
+    "jurisdiction:saudi-arabia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Aceh",
+      "url": "https://www.acehprov.go.id/",
+      "publisher": "Aceh Provincial Government",
+      "language": "id"
+    },
+    {
+      "title": "Mahkamah Syariah Aceh",
+      "url": "https://www.ms-aceh.go.id/",
+      "publisher": "Aceh Sharia Court",
+      "language": "id"
+    },
+    {
+      "title": "Crisis Management Initiative — Helsinki MoU",
+      "url": "https://www.cmi.fi/",
+      "publisher": "CMI Finland",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Aceh jurisdiction sidecar — mixed federal Indonesian civil-law/Aceh Islamic-law Northwestern Sumatran Indonesian special-autonomy province (Law on the Governing of Aceh 11/2006 + Helsinki MoU 2005 + Qanun Jinayat 2014 + Mahkamah Syariah Aceh + Special Autonomy Law 18/2001 + Aceh Sultanate 1496-1903 + Dutch-Aceh War 1873-1914 + 1976-2005 GAM insurgency + 2004 Indian Ocean tsunami + Indonesian non-Hague-1980). Only Indonesian province operating formal Sharia framework globally + only Indonesian province with formal special-autonomy framework derived from peace-agreement framework + central jurisdiction of 2004 Indian Ocean tsunami + Acehnese-cultural-political-identity-vs-Indonesian-cultural-political-assimilation tension + Aceh Sultanate 1496-1903 maritime power.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northwestern-Sumatran + mixed Indonesian-civil-law/Aceh-Islamic-law + Indonesian-special-autonomy-province cluster + Qanun-Jinayat-2014-Islamic-Criminal-Code-globally-distinctive + Helsinki-MoU-2005-peace-agreement + Law-on-Governing-of-Aceh-11-2006 + Mahkamah-Syariah-Aceh + Aceh-Sultanate-1496-1903 + 1976-2005-GAM-insurgency + 2004-Indian-Ocean-tsunami + Indonesian-non-Hague-1980 clusters within the corpus."
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "id": "pitcairn-islands",
+  "name": "Pitcairn Islands (Pitcairn, Henderson, Ducie and Oeno Islands)",
+  "jurisdiction_code": "PN",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Pitcairn Islands (Pitcairn, Henderson, Ducie and Oeno Islands) is a Pacific Island common-law British Overseas Territory — structurally distinctive globally as the smallest permanently inhabited British Overseas Territory and the smallest permanently inhabited national jurisdiction in the world (population ~50). The Pitcairn population is composed primarily of descendants of HMS Bounty mutineers (1789) and their Polynesian Tahitian companions, retaining a distinct Pitkern Creole linguistic and cultural heritage. Family-law framework operates under the Pitcairn Ordinances drawing on English common-law substantive heritage applied via the Local Government and Court Ordinances. Parental responsibility and child custody are governed by case-law applying English-law principles. The Pitcairn Supreme Court is the apex domestic court for civil and criminal matters; appellate jurisdiction lies with the Court of Appeal of New Zealand (per Pitcairn-NZ administrative arrangement) and ultimately the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance by the Island Magistrate and the Supreme Court when sitting. Psychology profession is regulated through the administrative arrangements with New Zealand. Pitcairn Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under English-law welfare-of-the-child principles. Pitcairn Islands is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Pitcairn Ordinances (drawing on English-law principles)",
+      "title": "Pitcairn Ordinances",
+      "year": 1970,
+      "url": "https://www.government.pn/",
+      "relevance": "Federal Pitcairn Ordinances applying English-law principles including matrimonial-causes and children's-welfare provisions."
+    },
+    {
+      "citation": "Constitution of Pitcairn 2010",
+      "title": "Constitution of Pitcairn",
+      "year": 2010,
+      "url": "https://www.government.pn/",
+      "relevance": "Constitution establishing Pitcairn's institutional framework as British Overseas Territory."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Pitcairn Supreme Court",
+      "seat": "Adamstown",
+      "url": "https://www.government.pn/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "Court of Appeal of New Zealand (administrative arrangement)",
+      "seat": "Wellington",
+      "url": "https://www.courtsofnz.govt.nz/",
+      "role": "Appellate court for Pitcairn matters via Pitcairn-NZ administrative arrangement."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Pitcairn."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Administrative arrangements with New Zealand",
+      "url": "https://www.health.govt.nz/",
+      "role": "Federal regulator of health and allied health professionals via NZ administrative arrangements."
+    }
+  ],
+  "anonymisation_convention": "Pitcairn family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1789,
+      "title": "HMS Bounty mutiny + Pitcairn settlement",
+      "description": "HMS Bounty mutineers (led by Fletcher Christian) and Polynesian Tahitian companions settled Pitcairn Island — established present Pitcairn population's heritage."
+    },
+    {
+      "year": 1838,
+      "title": "British Crown Colony status",
+      "description": "Pitcairn established as British Crown Colony."
+    },
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Pitcairn effective 1 August 1986."
+    },
+    {
+      "year": 2010,
+      "title": "Constitution of Pitcairn 2010",
+      "description": "Constitution establishing Pitcairn's institutional framework as British Overseas Territory."
+    }
+  ],
+  "structural_findings": [
+    "Pitcairn Islands operates a common-law framework with British Overseas Territory status — places Pitcairn in the BOT cluster.",
+    "Smallest permanently inhabited national jurisdiction in the world (population ~50) is structurally distinctive globally — most-sparsely-populated jurisdiction in the corpus.",
+    "HMS Bounty descendants population heritage with Pitkern Creole linguistic and cultural framework is structurally distinctive globally — only state-level jurisdiction with primary HMS Bounty descent heritage.",
+    "Court of Appeal of New Zealand appellate jurisdiction via Pitcairn-NZ administrative arrangement is structurally distinctive — only BOT with NZ Court of Appeal appellate jurisdiction.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:new-zealand",
+    "jurisdiction:saint-helena",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Pitcairn Islands",
+      "url": "https://www.government.pn/",
+      "publisher": "Government",
+      "language": "en"
+    },
+    {
+      "title": "Court of Appeal of New Zealand",
+      "url": "https://www.courtsofnz.govt.nz/",
+      "publisher": "Court of Appeal of NZ",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Pitcairn Islands jurisdiction sidecar — common-law Pacific BOT (Pitcairn Ordinances + Constitution 2010 + HMS Bounty descendants heritage + Pitkern Creole + NZ Court of Appeal appellate arrangement + JCPC + Hague via UK territorial extension 1986). Smallest permanently inhabited national jurisdiction globally (~50 residents).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + BOT cluster + smallest-permanently-inhabited-jurisdiction-globally-distinctive + HMS-Bounty-descendants-heritage-distinctive + NZ-Court-of-Appeal-arrangement-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

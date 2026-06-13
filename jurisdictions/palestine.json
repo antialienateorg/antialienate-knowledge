@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "palestine",
+  "name": "Palestine (State of Palestine / دولة فلسطين)",
+  "jurisdiction_code": "PS",
+  "legal_system": "mixed",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Palestine (State of Palestine) is a Levantine partially-recognised mixed-legal-system framework operating across the West Bank (under Palestinian Authority administration) and the Gaza Strip with overlapping Ottoman, British Mandate, Jordanian, Egyptian, Israeli military-order, and Palestinian Basic Law legal-system layers. Family-law framework operates under the Jordanian Personal Status Law 1976 (residual application in West Bank under Palestinian Authority) and the Egyptian Family Status Law 1954 (Gaza Strip residual) — both drawing on Hanafi Sunni Islamic jurisprudence — supplemented by Palestinian Authority laws including Law 7/2008 on Family Protection from Violence. Custody (hadana) and guardianship (wilaya) are governed by Jordanian Personal Status Law 1976 arts. 154-180 (West Bank) and Egyptian Family Status Law arts. 25-45 (Gaza). Sharia Courts operate at first instance for Muslim personal-status matters; ecclesiastical/religious courts operate for Christian and Druze communities. The Palestinian Authority High Court of Justice operates apex jurisdiction within the Palestinian Authority framework. Psychology profession is regulated through the Palestinian Ministry of Health framework. Palestine is silent on 'parental alienation' as a statutory label. Palestine is not a Hague Convention 1980 party. Palestine is a UN observer state (recognised by 138+ UN member states).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Jordanian Personal Status Law 1976 arts. 154-180 (West Bank residual application)",
+      "title": "Jordanian Personal Status Law — Custody and guardianship (West Bank)",
+      "year": 1976,
+      "url": "https://www.maannews.net/",
+      "relevance": "Jordanian Personal Status Law applied residually in West Bank under Palestinian Authority. Arts. 154-180 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Egyptian Family Status Law 1954 (Gaza Strip residual)",
+      "title": "Egyptian Family Status Law (Gaza residual)",
+      "year": 1954,
+      "url": "https://www.maannews.net/",
+      "relevance": "Egyptian Family Status Law applied residually in Gaza Strip. Arts. 25-45 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Palestinian Authority Law 7/2008 on Family Protection from Violence",
+      "title": "Law on Family Protection from Violence",
+      "year": 2008,
+      "url": "https://www.palaw.ps/",
+      "relevance": "Palestinian Authority law on family violence prevention affecting family-law proceedings."
+    },
+    {
+      "citation": "Palestinian Basic Law 2003",
+      "title": "Palestinian Basic Law",
+      "year": 2003,
+      "url": "https://www.palaw.ps/",
+      "relevance": "Constitutional framework establishing Palestinian Authority institutional structure."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Palestinian Authority High Court of Justice",
+      "seat": "Ramallah",
+      "url": "https://www.courts.gov.ps/",
+      "role": "Apex court within Palestinian Authority framework for civil and administrative matters."
+    },
+    {
+      "name": "Sharia Court of Appeals",
+      "seat": "Ramallah",
+      "url": "https://www.courts.gov.ps/",
+      "role": "Apex Sharia jurisdiction over Muslim personal-status matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Palestinian Ministry of Health",
+      "url": "https://www.moh.ps/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Palestinian family-court decisions are anonymised per Sharia Court of Appeals practice using initials.",
+  "key_developments": [
+    {
+      "year": 1954,
+      "title": "Egyptian Family Status Law 1954 (Gaza)",
+      "description": "Egyptian Family Status Law applied in Gaza Strip under Egyptian administration."
+    },
+    {
+      "year": 1976,
+      "title": "Jordanian Personal Status Law 1976 (West Bank)",
+      "description": "Jordanian Personal Status Law applied in West Bank under Jordanian administration."
+    },
+    {
+      "year": 1993,
+      "title": "Oslo Accords + Palestinian Authority establishment",
+      "description": "Oslo Accords established Palestinian Authority with partial civil-administrative jurisdiction in West Bank and Gaza."
+    },
+    {
+      "year": 2003,
+      "title": "Palestinian Basic Law",
+      "description": "Constitutional framework establishing Palestinian Authority institutional structure."
+    },
+    {
+      "year": 2008,
+      "title": "Law on Family Protection from Violence (Law 7/2008)",
+      "description": "Palestinian Authority law on family violence prevention."
+    },
+    {
+      "year": 2012,
+      "title": "UN observer state status",
+      "description": "Palestine recognised as UN observer state by General Assembly Resolution 67/19."
+    }
+  ],
+  "structural_findings": [
+    "Palestine operates the most structurally distinctive multi-layer mixed-legal-system framework within the corpus — Ottoman + British Mandate + Jordanian (West Bank) + Egyptian (Gaza) + Israeli military-order + Palestinian Authority Basic Law/Statutes + Hanafi Sunni Islamic jurisdiction + Christian/Druze ecclesiastical jurisdiction. Most layered legal-system framework in the corpus.",
+    "Geographic legal-system fragmentation (West Bank Jordanian-derivative + Gaza Egyptian-derivative) is structurally distinctive — single state with two distinct personal-status frameworks based on prior occupier inheritance.",
+    "Partially-recognised UN observer state status places Palestine in the disputed-status cluster with Kosovo.",
+    "Non-Hague Convention status places Palestine in the non-Hague Levantine cluster."
+  ],
+  "references": [
+    "jurisdiction:jordan",
+    "jurisdiction:egypt",
+    "jurisdiction:israel",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Palestinian Authority Courts",
+      "url": "https://www.courts.gov.ps/",
+      "publisher": "Palestinian Authority",
+      "language": "ar,en"
+    },
+    {
+      "title": "Palestinian Law Database",
+      "url": "https://www.palaw.ps/",
+      "publisher": "Birzeit University Institute of Law",
+      "language": "ar,en"
+    },
+    {
+      "title": "Palestinian Ministry of Health",
+      "url": "https://www.moh.ps/",
+      "publisher": "Ministry of Health",
+      "language": "ar,en"
+    }
+  ],
+  "editorial_notes": [
+    "Palestine jurisdiction sidecar — multi-layer mixed-legal-system Levantine (Jordanian-Personal-Status-West-Bank + Egyptian-Family-Status-Gaza + Palestinian Authority Basic Law + Hanafi Sunni Islamic + ecclesiastical communities + non-Hague). Most layered legal-system in corpus. UN observer state.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Levantine + multi-layer-mixed-legal-system + geographic-fragmentation-distinctive + UN-observer-state-cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

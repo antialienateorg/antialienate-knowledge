@@ -1,0 +1,84 @@
+# UK Sovereign Base Areas in Cyprus (Akrotiri and Dhekelia / SBA)
+
+**Jurisdiction code:** `CY-SBA` · **Legal system:** common-law  
+**Language(s):** en, el  
+
+The UK Sovereign Base Areas in Cyprus (SBA / Akrotiri and Dhekelia) are a Mediterranean common-law British Overseas Territory comprising two non-contiguous areas (Western SBA centred on RAF Akrotiri ~123 km²; Eastern SBA centred on Dhekelia ~131 km², total ~254 km²) on the island of Cyprus — structurally distinctive globally as the only British Overseas Territory that is (i) a non-self-governing military installation, (ii) located on the territory of another sovereign state (Republic of Cyprus), (iii) physically surrounded by EU territory (Republic of Cyprus, EU member since 2004), and (iv) constitutionally established by Treaty of Establishment 1960 as a continuing UK military presence following Cypriot independence with formal Republic of Cyprus consent. The SBAs were established by Annex A to the Treaty of Establishment 1960 between United Kingdom, Republic of Cyprus, Greece, and Turkey, retaining ~3% of pre-independence British Cyprus as 'Sovereign Base Areas' for UK military purposes. The SBAs are administered by the SBA Administration headquartered at Episkopi Cantonment. SBAs have an estimated ~14,000 civilian residents (predominantly Greek Cypriots ~9,200 + Turkish Cypriots + UK military personnel families) operating under the SBA civilian-resident framework. SBAs are not part of the European Union (EU-Cyprus accession excluded SBAs per Protocol 3 of the Cyprus Accession Treaty 2003) — making them a structurally distinctive non-EU enclave entirely surrounded by EU territory. Family-law framework operates under a dual common-law (English-derived via UK extension) + Greek-Cypriot/Turkish-Cypriot personal-law accommodation framework via the Sovereign Base Areas Ordinances (modelled on Republic of Cyprus civil law in many areas). Parental authority and child custody operate under SBA Ordinances supplemented by reference to Republic of Cyprus civil law via the Application of Republic of Cyprus Law Ordinance. The Senior Judge's Court of the SBA is the first-instance court; the Court of Appeal of the SBA is the intermediate appellate court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). SBAs are silent on 'parental alienation' as a statutory label. SBAs are Hague Convention 1980 applicable via UK territorial extension.
+
+## PA recognition status
+
+- **Statutory:** silent
+- **Apex court position:** no-apex-position
+- **Professional regulator position:** silent
+
+## Statutory framework
+
+- **Treaty of Establishment 1960 (UK-Republic of Cyprus-Greece-Turkey)** — Treaty of Establishment 1960 (1960) — <https://www.gov.uk/>
+  - International treaty establishing the Republic of Cyprus and reserving UK Sovereign Base Areas in Cyprus per Annex A — formal Republic of Cyprus consent to continuing UK military presence.
+- **Application of Republic of Cyprus Law Ordinance** — Application of Republic of Cyprus Law Ordinance (1960) — <https://www.sbaadministration.org/>
+  - SBA Ordinance providing for application of Republic of Cyprus civil law in SBA civil matters — including family law.
+- **Protocol 3 of the Cyprus Accession Treaty 2003 (SBA exclusion from EU)** — Protocol 3 — Cyprus Accession Treaty (2003) — <https://eur-lex.europa.eu/>
+  - EU Treaty Protocol excluding SBAs from EU membership when Republic of Cyprus joined EU on 1 May 2004 — establishing SBAs as non-EU enclave entirely surrounded by EU territory.
+
+## Apex courts
+
+### Court of Appeal of the SBA
+<https://www.sbaadministration.org/>
+
+### Senior Judge's Court of the SBA
+<https://www.sbaadministration.org/>
+
+### UK Privy Council (Judicial Committee)
+<https://www.jcpc.uk/>
+
+## Professional regulators
+
+- **UK professional framework (applicable in SBAs via UK extension)** — <https://www.hcpc-uk.org/>
+
+## Anonymisation convention
+
+SBA family-court decisions are anonymised per Court of Appeal practice using initials.
+
+## Key developments
+
+- **1960** — Treaty of Establishment of 16 August 1960 between UK, Republic of Cyprus, Greece, and Turkey establishing Republic of Cyprus and reserving SBAs per Annex A.
+- **1986** — Hague Convention 1980 territorial extension by UK to SBAs effective 1 August 1986.
+- **2003** — EU Treaty Protocol 3 of Cyprus Accession Treaty excluding SBAs from EU membership when Republic of Cyprus joined EU 1 May 2004.
+- **2014** — UK-Republic of Cyprus agreement of 15 January 2014 transferring administration of non-military land (~78% of SBA area) to Republic of Cyprus while retaining UK sovereignty — implementation pending Cyprus reunification.
+
+## Structural findings
+
+- UK Sovereign Base Areas operate a mixed common-law + Greek/Turkish Cypriot personal-law accommodation framework — places SBAs in the British Overseas Territory cluster.
+- Only British Overseas Territory that is a non-self-governing military installation is structurally distinctive globally.
+- Only British Overseas Territory located on the territory of another sovereign state with formal that state's consent is structurally distinctive globally.
+- Only British Overseas Territory physically surrounded by EU territory is structurally distinctive globally — non-EU enclave entirely surrounded by EU Republic of Cyprus.
+- Treaty-of-Establishment-based constitutional framework is structurally distinctive globally — only modern British Overseas Territory established by international treaty with the host state.
+- EU exclusion via Protocol 3 of Cyprus Accession Treaty (2003) is structurally distinctive — only modern British Overseas Territory with EU-exclusion protocol.
+- 2014 SBA civilian sovereignty extension agreement (transferring administration of non-military land to Republic of Cyprus while retaining UK sovereignty) is structurally distinctive — only modern partial-sovereignty-administration-split arrangement.
+- Dual Greek-Cypriot and Turkish-Cypriot civilian population is structurally distinctive within British Overseas Territory cluster.
+
+## See also
+
+- `jurisdiction:united-kingdom`
+- `jurisdiction:cyprus`
+- `jurisdiction:greece`
+- `jurisdiction:turkey`
+- `jurisdiction:northern-cyprus`
+- `evidence:cross-border-parental-abduction-and-pa-intersection`
+- `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Sovereign Base Areas Administration** — <https://www.sbaadministration.org/> (UK Government) [en]
+2. **UK Government — Cyprus Sovereign Base Areas** — <https://www.gov.uk/> (UK Government) [en]
+
+## Editorial notes
+
+- UK Sovereign Base Areas in Cyprus jurisdiction sidecar — common-law Mediterranean British Overseas Territory (Treaty of Establishment 1960 + Annex A SBA reservation + Application of Republic of Cyprus Law Ordinance + Protocol 3 EU exclusion 2003 + 2014 civilian sovereignty extension agreement + SBA Senior Judge's Court + Court of Appeal of the SBA + UK Privy Council final appellate + Hague via UK territorial extension 1986). Only British Overseas Territory that is non-self-governing military installation globally + only British Overseas Territory on territory of another sovereign state with formal that state's consent + only British Overseas Territory physically surrounded by EU territory + only modern British Overseas Territory with EU-exclusion protocol + only modern partial-sovereignty-administration-split arrangement.
+- PA-recognition: silent statutory + no-apex-position + silent regulator.
+- Joins Mediterranean + common-law + British-Overseas-Territory cluster + non-self-governing-military-installation-globally-distinctive + on-territory-of-another-sovereign-state-with-consent + non-EU-enclave-surrounded-by-EU + Treaty-of-Establishment-1960-constitutional-framework + Protocol-3-EU-exclusion + 2014-partial-sovereignty-administration-split + dual-Greek-Turkish-Cypriot-civilian-population clusters within the corpus.
+
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "arunachal-pradesh",
+  "name": "Arunachal Pradesh (अरुणाचल प्रदेश / Doni Polo)",
+  "jurisdiction_code": "IN-AR",
+  "legal_system": "mixed",
+  "language": ["en", "hi", "njm", "nst"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Arunachal Pradesh (अरुणाचल प्रदेश in Hindi, meaning 'Land of Dawn-Lit Mountains' / Doni Polo in Tani languages) is a North-eastern Indian Himalayan mixed common-law/multi-tribal-customary-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state operating constitutional Article 371-H special-status framework providing for special responsibility of the Governor regarding law and order (notably allowing the Governor to exercise individual judgment after consultation with the Council of Ministers — distinct from the more extensive customary-law-protection Article 371-A/G/F frameworks), as the central jurisdiction of the Sino-Indian border dispute with the People's Republic of China (which claims most of Arunachal Pradesh as 'Southern Tibet' / Zangnan and renamed places via 2017+ Chinese-name-publication campaigns), and as the most ethnically diverse Indian state with 26 major tribes (including Adi, Apatani, Galo, Monpa, Nyishi, Tagin, Tani, and 19 other recognised tribes) speaking 90+ distinct languages, the most multi-tribal-population Indian state by tribe count. Arunachal Pradesh was the North-East Frontier Agency (NEFA) under federal administration until 1972, then a Union Territory until 1987, then formed as the 24th state of India on 20 February 1987 under the Constitution (Fifty-Fifth Amendment) Act 1986 and the State of Arunachal Pradesh Act 1986. Arunachal Pradesh comprises ~83,743 km² with a population of ~1.4 million. Family-law framework operates under a dual federal Indian common-law + multi-tribal-customary-law framework with tribal customary law applied via traditional village councils (Kebang, Buliang, Bango) operating under Inner Line Permit (ILP) framework restricting non-resident access. Parental authority and child custody operate under tribal customary law for tribal persons subject to Indian general framework. The Gauhati High Court (Itanagar Permanent Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Arunachal Pradesh is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Arunachal Pradesh is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of India Article 371-H (Arunachal Pradesh Special Provisions)",
+      "title": "Constitution of India Article 371-H",
+      "year": 1986,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Article inserted by Constitution (Fifty-Fifth Amendment) Act 1986 establishing special provisions for Arunachal Pradesh — providing for special responsibility of the Governor regarding law and order with individual judgment authority after consultation with Council of Ministers."
+    },
+    {
+      "citation": "State of Arunachal Pradesh Act 1986",
+      "title": "State of Arunachal Pradesh Act",
+      "year": 1986,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1986 establishing the State of Arunachal Pradesh effective 20 February 1987."
+    },
+    {
+      "citation": "Bengal Eastern Frontier Regulation 1873 (Inner Line Permit framework)",
+      "title": "Bengal Eastern Frontier Regulation",
+      "year": 1873,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Foundational Inner Line Permit (ILP) framework restricting non-resident access to Arunachal Pradesh — preserved continuously since British colonial framework."
+    },
+    {
+      "citation": "Constitution (Fifty-Fifth Amendment) Act 1986",
+      "title": "Constitution 55th Amendment Act",
+      "year": 1986,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Amendment Act of 1986 inserting Article 371-H providing special Governor responsibility framework for Arunachal Pradesh."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Gauhati High Court (Itanagar Permanent Bench)",
+      "seat": "Itanagar",
+      "url": "https://www.ghconline.gov.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Arunachal Pradesh."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Arunachal Pradesh."
+    },
+    {
+      "name": "Traditional village councils (Kebang, Buliang, Bango)",
+      "seat": "Various Arunachal Pradesh villages",
+      "url": "",
+      "role": "Tribal customary courts operating under tribal customary law and ILP framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Arunachal Pradesh."
+    }
+  ],
+  "anonymisation_convention": "Arunachal Pradesh family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1873,
+      "title": "Bengal Eastern Frontier Regulation + ILP framework",
+      "description": "Bengal Eastern Frontier Regulation 1873 establishing foundational Inner Line Permit (ILP) framework restricting non-resident access to North-eastern frontier territories including future Arunachal Pradesh."
+    },
+    {
+      "year": 1962,
+      "title": "Sino-Indian War + Arunachal Pradesh as central front",
+      "description": "Sino-Indian War October-November 1962 — Arunachal Pradesh (then NEFA) was the central front in the conflict with PRC."
+    },
+    {
+      "year": 1972,
+      "title": "NEFA + Union Territory of Arunachal Pradesh established",
+      "description": "North-East Frontier Agency (NEFA) reorganised as Union Territory of Arunachal Pradesh on 21 January 1972."
+    },
+    {
+      "year": 1986,
+      "title": "Constitution 55th Amendment + Article 371-H",
+      "description": "Indian Constitutional Amendment Act of 1986 inserting Article 371-H providing special Governor responsibility framework."
+    },
+    {
+      "year": 1987,
+      "title": "Arunachal Pradesh State established",
+      "description": "Arunachal Pradesh formed as 24th state of India on 20 February 1987 under the State of Arunachal Pradesh Act 1986."
+    },
+    {
+      "year": 2017,
+      "title": "Chinese Zangnan place-naming campaign begins",
+      "description": "PRC commenced systematic publication of Chinese names for Arunachal Pradesh places (~30 places in 2017 list, expanded in 2021 and 2024) — escalating Sino-Indian border dispute via place-naming framework."
+    }
+  ],
+  "structural_findings": [
+    "Arunachal Pradesh operates a mixed federal Indian common-law + multi-tribal-customary-law framework — places Arunachal Pradesh in the North-eastern Indian Indigenous-tribal-customary-law-protected cluster.",
+    "Only Indian state operating constitutional Article 371-H special-status framework providing for special responsibility of the Governor regarding law and order is structurally distinctive globally — distinct from more extensive customary-law-protection Article 371-A/G/F frameworks.",
+    "Central jurisdiction of Sino-Indian border dispute with PRC claiming most of Arunachal Pradesh as 'Southern Tibet'/Zangnan is structurally distinctive globally.",
+    "PRC 2017+ Chinese-name-publication campaigns escalating border dispute via place-naming framework is structurally distinctive globally — only modern major sub-national territorial dispute pursued via systematic place-naming framework.",
+    "Most ethnically diverse Indian state with 26 major tribes speaking 90+ distinct languages is structurally distinctive globally — most multi-tribal-population Indian state by tribe count.",
+    "Inner Line Permit (ILP) framework restricting non-resident access since 1873 is structurally distinctive globally — only modern Indian state with continuous 150+-year ILP framework.",
+    "Traditional village councils (Kebang, Buliang, Bango) framework operating under ILP + Article 371-H protection is structurally distinctive within Indian state framework.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:china",
+    "jurisdiction:bhutan",
+    "jurisdiction:myanmar",
+    "jurisdiction:aksai-chin",
+    "jurisdiction:nagaland",
+    "jurisdiction:mizoram",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Arunachal Pradesh",
+      "url": "https://www.arunachalpradesh.gov.in/",
+      "publisher": "Arunachal Pradesh Government",
+      "language": "en"
+    },
+    {
+      "title": "Gauhati High Court",
+      "url": "https://www.ghconline.gov.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Arunachal Pradesh jurisdiction sidecar — mixed federal Indian common-law/multi-tribal-customary-law North-eastern Indian Himalayan Indian-state (Indian Constitution Article 371-H + Constitution 55th Amendment Act 1986 + State of Arunachal Pradesh Act 1986 + Bengal Eastern Frontier Regulation 1873 Inner Line Permit + traditional village councils Kebang/Buliang/Bango + Sino-Indian border dispute + PRC 2017+ Chinese-name-publication campaigns + Indian non-Hague-1980). Only Indian state operating Article 371-H Governor special-responsibility framework globally + central jurisdiction of Sino-Indian border dispute with PRC claiming most of Arunachal Pradesh as Southern Tibet/Zangnan + only modern major sub-national territorial dispute pursued via systematic place-naming framework + most ethnically diverse Indian state with 26 major tribes speaking 90+ languages + only modern Indian state with continuous 150+-year ILP framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-eastern-Indian + Himalayan + mixed Indian-common-law/multi-tribal-customary-law + Indian-state cluster + Article-371-H-Governor-special-responsibility-framework-globally-distinctive + Sino-Indian-border-dispute-Southern-Tibet-Zangnan + PRC-Chinese-name-publication-place-naming-framework + 26-major-tribes-90-plus-languages + Bengal-Eastern-Frontier-Regulation-1873-ILP-150-year-framework + Kebang-Buliang-Bango-traditional-village-councils + Article-371-cluster-with-Nagaland-Mizoram-Sikkim + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

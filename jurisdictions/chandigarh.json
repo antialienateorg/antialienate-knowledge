@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "chandigarh",
+  "name": "Chandigarh (चंडीगढ़)",
+  "jurisdiction_code": "IN-CH",
+  "legal_system": "common-law",
+  "language": ["en", "hi", "pa"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Chandigarh (चंडीगढ़ in Hindi) is a Northern Indian common-law Indian Union Territory — structurally distinctive globally as the only Indian Union Territory serving simultaneously as the joint capital of two Indian states (Punjab and Haryana, since the Punjab Reorganisation Act 1966 effective 1 November 1966 created Haryana via bifurcation of Punjab and designated Chandigarh as joint capital), as one of the most distinctive examples of modernist urban-planning architecture globally (designed by Swiss-French architect Le Corbusier as comprehensive planned city per Le Corbusier's 1951+ urban plan + Capitol Complex declared UNESCO World Heritage Site 17 July 2016 as part of The Architectural Work of Le Corbusier — recognising Le Corbusier's contribution to the Modern Movement), and as the only Indian Union Territory existing primarily as a single planned city (~114 km² Union Territory covering essentially the entire Chandigarh planned-city area). Chandigarh was constructed as new capital of Punjab following 1947 Partition that left Punjab without its historical capital Lahore (transferred to Pakistan), and was established as Union Territory on 1 November 1966 via the Punjab Reorganisation Act 1966 simultaneously serving as capital of Punjab and Haryana (and historically until 1971 of Himachal Pradesh) — distinctive jurisdictional framework where the same Union Territory administrative framework serves as state-government-seat for three distinct sub-national governmental frameworks. Chandigarh comprises ~114 km² with a population of ~1.2 million. Family-law framework operates under the federal Indian common-law framework (Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, Guardians and Wards Act 1890) applied via Union Territory administrative framework. The Punjab and Haryana High Court (located in Chandigarh) is the apex domestic appellate court — only Indian High Court serving as joint High Court for two Indian states with simultaneous Union Territory jurisdiction; final appellate jurisdiction lies with the Supreme Court of India. Chandigarh is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Chandigarh is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Punjab Reorganisation Act 1966 (Chandigarh as joint capital UT)",
+      "title": "Punjab Reorganisation Act",
+      "year": 1966,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1966 effective 1 November 1966 creating Haryana via bifurcation of Punjab and designating Chandigarh as Union Territory serving as joint capital of Punjab and Haryana — only Indian Union Territory serving as joint capital of two states."
+    },
+    {
+      "citation": "Le Corbusier Urban Plan 1951+",
+      "title": "Le Corbusier Urban Plan",
+      "year": 1951,
+      "url": "https://www.chandigarh.gov.in/",
+      "relevance": "Comprehensive urban plan by Swiss-French architect Le Corbusier 1951+ establishing Chandigarh as planned city framework."
+    },
+    {
+      "citation": "UNESCO World Heritage — The Architectural Work of Le Corbusier 2016",
+      "title": "UNESCO World Heritage — Le Corbusier",
+      "year": 2016,
+      "url": "https://whc.unesco.org/en/list/1321/",
+      "relevance": "UNESCO World Heritage Site inscription on 17 July 2016 — Capitol Complex Chandigarh inscribed as part of The Architectural Work of Le Corbusier transnational nomination across seven countries."
+    },
+    {
+      "citation": "Federal Indian Hindu Marriage Act 1955 + Muslim Personal Law (Shariat) Application Act 1937",
+      "title": "Indian Federal Family Law Framework",
+      "year": 1955,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal family-law statutes applicable in Chandigarh."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Punjab and Haryana High Court",
+      "seat": "Chandigarh",
+      "url": "https://highcourtchd.gov.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Chandigarh, Punjab, and Haryana — only Indian High Court serving as joint High Court for two Indian states with simultaneous Union Territory jurisdiction."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Chandigarh."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Chandigarh."
+    }
+  ],
+  "anonymisation_convention": "Chandigarh family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1947,
+      "title": "Partition + loss of Lahore",
+      "description": "1947 Partition — Punjab's historical capital Lahore transferred to Pakistan; new capital required for Indian Punjab."
+    },
+    {
+      "year": 1951,
+      "title": "Le Corbusier Urban Plan begins",
+      "description": "Le Corbusier commissioned to design Chandigarh as comprehensive planned city — work commenced 1951."
+    },
+    {
+      "year": 1953,
+      "title": "Chandigarh inaugurated as Punjab capital",
+      "description": "Chandigarh inaugurated as new capital of Punjab on 7 October 1953."
+    },
+    {
+      "year": 1966,
+      "title": "Punjab Reorganisation + Chandigarh as joint UT capital",
+      "description": "Punjab Reorganisation Act 1966 effective 1 November 1966 creating Haryana via bifurcation of Punjab and designating Chandigarh as Union Territory serving as joint capital of Punjab and Haryana."
+    },
+    {
+      "year": 2016,
+      "title": "UNESCO World Heritage inscription",
+      "description": "UNESCO World Heritage Site inscription of Capitol Complex Chandigarh on 17 July 2016 as part of The Architectural Work of Le Corbusier transnational nomination."
+    }
+  ],
+  "structural_findings": [
+    "Chandigarh operates a federal Indian common-law Union Territory framework — places Chandigarh in the Northern Indian-Union-Territory cluster.",
+    "Only Indian Union Territory serving simultaneously as joint capital of two Indian states (Punjab and Haryana) is structurally distinctive globally — distinctive jurisdictional framework where same Union Territory serves as state-government-seat for two sub-national governmental frameworks.",
+    "Punjab and Haryana High Court located in Chandigarh is structurally distinctive globally — only Indian High Court serving as joint High Court for two Indian states with simultaneous Union Territory jurisdiction.",
+    "Le Corbusier-planned city + UNESCO World Heritage Capitol Complex 2016 framework is structurally distinctive globally — one of most distinctive examples of modernist urban-planning architecture and only Indian state-capital UNESCO World Heritage Site.",
+    "Only Indian Union Territory existing primarily as single planned city (~114 km² Union Territory covering essentially the entire Chandigarh planned-city area) is structurally distinctive.",
+    "Punjab Reorganisation Act 1966 framework where same Union Territory simultaneously serves as capital of two states is structurally distinctive globally — only modern multi-state-capital framework via Union Territory.",
+    "Historical 1966-1971 triple-capital framework (Chandigarh as capital of Punjab + Haryana + Himachal Pradesh) is structurally distinctive globally.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:pakistan",
+    "jurisdiction:france",
+    "jurisdiction:switzerland",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Chandigarh Administration",
+      "url": "https://www.chandigarh.gov.in/",
+      "publisher": "Chandigarh Administration",
+      "language": "en"
+    },
+    {
+      "title": "Punjab and Haryana High Court",
+      "url": "https://highcourtchd.gov.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    },
+    {
+      "title": "UNESCO World Heritage Centre — Le Corbusier",
+      "url": "https://whc.unesco.org/en/list/1321/",
+      "publisher": "UNESCO",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Chandigarh jurisdiction sidecar — common-law Northern Indian Indian Union Territory (Punjab Reorganisation Act 1966 + Le Corbusier Urban Plan 1951+ + UNESCO World Heritage 2016 + Indian Federal family-law framework + Punjab and Haryana High Court + Indian non-Hague-1980). Only Indian Union Territory serving simultaneously as joint capital of two Indian states (Punjab and Haryana) globally + only Indian High Court serving as joint High Court for two states with simultaneous Union Territory jurisdiction + UNESCO World Heritage Le Corbusier-planned city + only Indian Union Territory existing primarily as single planned city + only modern multi-state-capital framework via Union Territory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northern-Indian + common-law + Indian-Union-Territory cluster + joint-Punjab-Haryana-capital-Union-Territory-globally-distinctive + Le-Corbusier-planned-city-modernist-architecture + UNESCO-World-Heritage-Capitol-Complex-2016 + Punjab-Reorganisation-Act-1966 + 1966-1971-triple-capital-Punjab-Haryana-Himachal-Pradesh + Punjab-and-Haryana-High-Court-joint-High-Court + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

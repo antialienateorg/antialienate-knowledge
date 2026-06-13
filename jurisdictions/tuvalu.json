@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0",
+  "id": "tuvalu",
+  "name": "Tuvalu",
+  "jurisdiction_code": "TV",
+  "legal_system": "mixed",
+  "language": ["en", "tvl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Tuvalu is a Pacific mixed common-law/customary-law sovereign Commonwealth realm (independence from UK 1 October 1978) — structurally distinctive globally as the first sovereign state to adopt a constitutional 'digital nation' framework to preserve sovereignty in the face of projected territorial submersion from sea-level rise (Tuvalu Constitution Amendment Act 2023 effective 19 September 2023 entrenched Tuvalu's perpetual statehood, maritime boundaries, and digital-sovereignty doctrine), and as one of three Polynesian states with traditional council-of-chiefs (Falekaupule) family-law authority operating alongside the Westminster legal framework. Tuvalu's nine atolls (highest natural elevation ~4.6 m above sea level) are widely projected to become uninhabitable by mid-21st century due to sea-level rise. The 2023 Falepili Union Treaty with Australia provides for special climate-mobility visa pathways from Tuvalu to Australia. Family-law framework operates under a dual common-law (English-derived) + Tuvaluan customary-law (aganu) framework via the Native Lands Act and Custom of Tuvalu Act. Parental authority and child custody operate under the Family Protection and Domestic Violence Act 2014. The High Court of Tuvalu is the apex domestic court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee) via Tuvalu Constitution s. 136. Family-law matters are heard at first instance in the High Court of Tuvalu and on customary-status matters via Falekaupule customary courts. Psychology profession is informally regulated; no formal psychology-licensing body exists. Tuvalu is silent on 'parental alienation' as a statutory label. Tuvalu acceded to the Hague Convention 1980 — not a party (one of the very few UN-member non-Hague-Convention-1980 states).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Tuvalu 1978 (as amended 2023)",
+      "title": "Constitution of Tuvalu",
+      "year": 1978,
+      "url": "https://tuvalu-legislation.tv/",
+      "relevance": "Constitution of Tuvalu — 2023 Constitution Amendment Act entrenched perpetual statehood, maritime boundaries, and digital-sovereignty doctrine."
+    },
+    {
+      "citation": "Native Lands Act and Custom of Tuvalu Act",
+      "title": "Native Lands Act and Custom of Tuvalu Act",
+      "year": 1978,
+      "url": "https://tuvalu-legislation.tv/",
+      "relevance": "Tuvaluan Acts establishing customary-law (aganu) framework operating alongside the common-law framework."
+    },
+    {
+      "citation": "Family Protection and Domestic Violence Act 2014",
+      "title": "Family Protection and Domestic Violence Act 2014",
+      "year": 2014,
+      "url": "https://tuvalu-legislation.tv/",
+      "relevance": "Tuvaluan Act governing family protection and parental responsibility."
+    },
+    {
+      "citation": "Falepili Union Treaty 2023 (Tuvalu-Australia)",
+      "title": "Falepili Union Treaty 2023",
+      "year": 2023,
+      "url": "https://www.dfat.gov.au/",
+      "relevance": "International treaty between Tuvalu and Australia providing for special climate-mobility visa pathways from Tuvalu to Australia."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Tuvalu",
+      "seat": "Funafuti",
+      "url": "https://www.paclii.org/tv/",
+      "role": "Apex domestic court for civil and criminal matters from Tuvalu."
+    },
+    {
+      "name": "UK Privy Council (Judicial Committee)",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Tuvalu via Constitution s. 136."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Tuvalu Ministry of Health (Department of Public Health)",
+      "url": "https://www.tuvalu.tv/",
+      "role": "Tuvaluan governmental health framework — no formal psychology-licensing body exists."
+    }
+  ],
+  "anonymisation_convention": "Tuvaluan family-court decisions are anonymised per High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1978,
+      "title": "Independence from UK",
+      "description": "Tuvalu achieved independence from the United Kingdom on 1 October 1978 (separated from the Gilbert and Ellice Islands colony)."
+    },
+    {
+      "year": 2000,
+      "title": "UN membership",
+      "description": "Tuvalu joined the United Nations on 5 September 2000 as the 189th member state."
+    },
+    {
+      "year": 2014,
+      "title": "Family Protection and Domestic Violence Act",
+      "description": "Tuvaluan Act establishing family protection and parental responsibility framework."
+    },
+    {
+      "year": 2023,
+      "title": "Constitution Amendment Act + digital-sovereignty doctrine",
+      "description": "Tuvalu Constitution Amendment Act effective 19 September 2023 entrenching perpetual statehood, maritime boundaries, and digital-sovereignty doctrine to preserve sovereignty in face of projected territorial submersion."
+    },
+    {
+      "year": 2023,
+      "title": "Falepili Union Treaty (Tuvalu-Australia)",
+      "description": "International treaty between Tuvalu and Australia signed on 9 November 2023 providing for special climate-mobility visa pathways from Tuvalu to Australia."
+    }
+  ],
+  "structural_findings": [
+    "Tuvalu operates a mixed common-law/customary-law framework with Westminster constitutional structure — places Tuvalu in the Pacific Commonwealth realm cluster.",
+    "First sovereign state to adopt a constitutional 'digital nation' framework (2023) is structurally distinctive globally — only state with entrenched perpetual statehood and digital-sovereignty doctrine in face of projected territorial submersion.",
+    "Falepili Union Treaty 2023 with Australia is structurally distinctive globally — first bilateral climate-mobility treaty with special visa pathways.",
+    "Polynesian Falekaupule (council-of-chiefs) customary family-law authority is structurally distinctive within Commonwealth realm cluster — shared with Tonga and Samoa.",
+    "Highest natural elevation ~4.6 m above sea level is structurally distinctive globally — most existentially climate-vulnerable sovereign state.",
+    "Non-Hague-Convention-1980 status is structurally distinctive — one of few UN-member states not party to Hague Abduction Convention."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:australia",
+    "jurisdiction:tonga",
+    "jurisdiction:samoa",
+    "jurisdiction:kiribati",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Tuvalu Legislation",
+      "url": "https://tuvalu-legislation.tv/",
+      "publisher": "Tuvalu Government",
+      "language": "en"
+    },
+    {
+      "title": "Pacific Islands Legal Information Institute (PacLII) — Tuvalu",
+      "url": "https://www.paclii.org/tv/",
+      "publisher": "PacLII",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Tuvalu jurisdiction sidecar — mixed common-law/customary-law Pacific Commonwealth realm (English-derived common law + Tuvaluan aganu customary law + Falekaupule council-of-chiefs + Constitution Amendment Act 2023 digital-sovereignty + Falepili Union Treaty 2023 + non-Hague-1980). First sovereign state with constitutional digital-nation framework globally + first bilateral climate-mobility treaty (Falepili Union) + most existentially climate-vulnerable sovereign state (~4.6 m max elevation).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific + mixed common-law/customary-law + Commonwealth realm cluster + digital-nation-framework-globally-distinctive + Falepili-Union-Treaty-climate-mobility + Falekaupule-customary-authority + maximally-climate-vulnerable + non-Hague-1980 + UK-Privy-Council-final-appeal clusters within the corpus."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "id": "south-georgia-and-south-sandwich-islands",
+  "name": "South Georgia and the South Sandwich Islands (SGSSI)",
+  "jurisdiction_code": "GS",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "South Georgia and the South Sandwich Islands (SGSSI) is a Sub-Antarctic common-law British Overseas Territory — structurally distinctive globally as one of two Sub-Antarctic British Overseas Territories (with British Antarctic Territory) and as the territorial subject of the 1982 Falklands War's South Georgia theatre (Operation Paraquet). SGSSI was administered as a Falkland Islands Dependency until 3 October 1985 when it became a separate British Overseas Territory under the South Georgia and South Sandwich Islands Order. SGSSI has no permanent civilian population — only seasonal British Antarctic Survey research staff at King Edward Point and Bird Island stations, and limited South Georgia government officials at Grytviken. Family-law framework is theoretical given the absence of permanent civilian population, but operates under English law applied via the SGSSI Constitution. Parental authority and child custody would in principle operate under English common-law via Children Act 1989. The SGSSI Magistrate's Court (with limited Supreme Court jurisdiction) is the apex domestic court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). SGSSI is also the focus of the Argentine sovereignty claim (Islas Georgias del Sur y Sandwich del Sur). SGSSI is silent on 'parental alienation' as a statutory label. SGSSI is a Hague Convention 1980 party via UK territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "South Georgia and South Sandwich Islands Order 1985",
+      "title": "SGSSI Order 1985",
+      "year": 1985,
+      "url": "https://www.legislation.gov.uk/",
+      "relevance": "Order in Council of 3 October 1985 establishing SGSSI as a separate British Overseas Territory from the Falkland Islands Dependencies."
+    },
+    {
+      "citation": "English Children Act 1989 (applicable in SGSSI)",
+      "title": "Children Act 1989",
+      "year": 1989,
+      "url": "https://www.legislation.gov.uk/",
+      "relevance": "English Children Act 1989 applicable to civil-status persons in SGSSI for parental responsibility and child custody — theoretical given absence of permanent civilian population."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "SGSSI Magistrate's Court / Supreme Court",
+      "seat": "King Edward Point, South Georgia",
+      "url": "https://www.gov.gs/",
+      "role": "Apex domestic court for SGSSI — theoretical given absence of permanent civilian population."
+    },
+    {
+      "name": "UK Privy Council (Judicial Committee)",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from SGSSI."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UK professional framework (applicable in SGSSI)",
+      "url": "https://www.hcpc-uk.org/",
+      "role": "UK professional regulatory framework — theoretical given absence of permanent civilian population."
+    }
+  ],
+  "anonymisation_convention": "SGSSI decisions are anonymised per UK overseas-territory court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1775,
+      "title": "James Cook landing on South Georgia",
+      "description": "Captain James Cook landed on South Georgia and claimed the island for Britain on 17 January 1775."
+    },
+    {
+      "year": 1982,
+      "title": "Falklands War South Georgia theatre + Operation Paraquet",
+      "description": "Argentina invaded South Georgia on 3 April 1982; UK forces recaptured South Georgia on 25 April 1982 via Operation Paraquet — first major UK military success of the Falklands War."
+    },
+    {
+      "year": 1985,
+      "title": "SGSSI Order — separate British Overseas Territory",
+      "description": "Order in Council of 3 October 1985 establishing SGSSI as a separate British Overseas Territory from the Falkland Islands Dependencies."
+    },
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to SGSSI effective 1 August 1986."
+    }
+  ],
+  "structural_findings": [
+    "SGSSI operates a common-law English-law framework — places SGSSI in the British Overseas Territory cluster.",
+    "Sub-Antarctic British Overseas Territory status (with British Antarctic Territory) is structurally distinctive globally — one of two Sub-Antarctic BOTs.",
+    "Absence of permanent civilian population renders family-law framework theoretical — structurally distinctive within Hague Convention party cluster.",
+    "1982 Falklands War South Georgia theatre (Operation Paraquet) is structurally distinctive globally — first major UK military success of the Falklands War.",
+    "Argentine sovereignty claim (Islas Georgias del Sur y Sandwich del Sur) is structurally distinctive — sustained sovereignty dispute parallel to Falklands sovereignty dispute."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:falkland-islands",
+    "jurisdiction:british-antarctic-territory",
+    "jurisdiction:argentina",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of South Georgia and the South Sandwich Islands",
+      "url": "https://www.gov.gs/",
+      "publisher": "SGSSI Government",
+      "language": "en"
+    },
+    {
+      "title": "UK Foreign, Commonwealth and Development Office",
+      "url": "https://www.gov.uk/",
+      "publisher": "UK Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "SGSSI jurisdiction sidecar — common-law Sub-Antarctic British Overseas Territory (English law + SGSSI Order 1985 separation from Falklands Dependencies + 1982 Falklands War South Georgia theatre + Argentine sovereignty claim + Hague via UK territorial extension 1986). One of two Sub-Antarctic British Overseas Territories globally + first major UK military success of Falklands War.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Sub-Antarctic + common-law + British-Overseas-Territory cluster + Sub-Antarctic-BOT-globally-distinctive + 1982-Falklands-War-South-Georgia-theatre + Argentine-sovereignty-dispute + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

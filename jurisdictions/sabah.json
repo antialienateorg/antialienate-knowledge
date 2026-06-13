@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "id": "sabah",
+  "name": "Sabah (Negeri di Bawah Bayu / 沙巴)",
+  "jurisdiction_code": "MY-SBH",
+  "legal_system": "mixed",
+  "language": ["ms", "en", "zh", "kdt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Sabah (Malay: Negeri di Bawah Bayu 'Land Below the Wind' / 沙巴 Shābā in Chinese) is a Bornean Malaysian mixed common-law/Adat-customary-law constituent state of the Federation of Malaysia — structurally distinctive globally as the second-largest Malaysian state by area (~73,631 km² — ~22% of Malaysian land area, second after Sarawak), as the only Malaysian state with formal autonomy framework under the Malaysia Agreement 1963 (MA63) via the 20-Point Agreement Sabah 1963 (parallel to Sarawak's 18-Point Agreement) including formal immigration-control autonomy (Sabah operates independent immigration controls under Immigration Act 1959/63 — distinct from Peninsular Malaysia, requiring Sabah immigration clearance for Peninsular Malaysians + foreign nationals entering Sabah), as the only Malaysian state subject to ongoing external sovereignty claim (Philippines Sulu Sultanate Sabah claim — Philippines maintains formal claim to Sabah based on historical Sulu Sultanate framework, manifested in the 2013 Lahad Datu standoff/Sulu intrusion 11 February - 24 March 2013 with ~235 deaths), and as the only Malaysian state with continuous British North Borneo Company framework 1881-1946 (North Borneo British protectorate via British North Borneo Company 1881-1946 + Japanese occupation 1941-1945 + British Crown Colony 1946-1963 + Federation of Malaysia 16 September 1963). Sabah comprises ~73,631 km² with a population of ~3.4 million. Family-law framework operates under a dual federal Malaysian common-law framework + Sabah-specific Native Court Adat-customary-law family-law framework for indigenous communities (Kadazan-Dusun + Murut + Bajau + Sungai + Brunei Malay + Suluk indigenous communities). The High Court of Sabah and Sarawak (Kota Kinabalu Branch) is the apex domestic trial court — operates with parallel Native Court Adat-framework jurisdiction; final appellate jurisdiction lies with the Court of Appeal of Malaysia and Federal Court of Malaysia. Sabah is silent on 'parental alienation' as a statutory label. Malaysia is a Hague Convention 1980 signatory but not a party — Sabah is governed by the Malaysian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Malaysia Agreement 1963 (MA63) + 20-Point Agreement Sabah",
+      "title": "Malaysia Agreement 1963 + 20-Point Agreement",
+      "year": 1963,
+      "url": "https://www.sabah.gov.my/",
+      "relevance": "Agreement of 9 July 1963 between United Kingdom + Malaya + Sarawak + Sabah + Singapore establishing Federation of Malaysia 16 September 1963 + Sabah-specific 20-Point Agreement 1963 — formal autonomy framework for Sabah."
+    },
+    {
+      "citation": "Constitution of Malaysia Article 161A (Sarawak/Sabah Special Provisions)",
+      "title": "Constitution of Malaysia Article 161A",
+      "year": 1963,
+      "url": "http://www.agc.gov.my/",
+      "relevance": "Malaysian Constitutional Article 161A providing special provisions for Sarawak + Sabah — including formal immigration-control autonomy."
+    },
+    {
+      "citation": "Immigration Act 1959/63 (Sabah)",
+      "title": "Sabah Immigration Act",
+      "year": 1963,
+      "url": "https://www.sabah.gov.my/",
+      "relevance": "Sabah-specific immigration act establishing independent immigration controls — distinct from Peninsular Malaysia."
+    },
+    {
+      "citation": "Native Court Enactment 1992 Sabah",
+      "title": "Sabah Native Court Enactment",
+      "year": 1992,
+      "url": "https://www.sabah.gov.my/",
+      "relevance": "Sabah-specific Native Court Enactment establishing formal Adat-customary-law family-law framework for indigenous communities (Kadazan-Dusun + Murut + Bajau + Sungai + Brunei Malay + Suluk)."
+    },
+    {
+      "citation": "Land Ordinance 1930 Sabah (Native Customary Rights)",
+      "title": "Sabah Land Ordinance",
+      "year": 1930,
+      "url": "https://www.sabah.gov.my/",
+      "relevance": "Sabah-specific land ordinance establishing Native Customary Rights framework — formal recognition of indigenous customary land tenure."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Sabah and Sarawak (Kota Kinabalu Branch)",
+      "seat": "Kota Kinabalu",
+      "url": "https://www.kehakiman.gov.my/",
+      "role": "Apex domestic trial court for civil and criminal matters from Sabah — operates with parallel Native Court Adat-framework jurisdiction."
+    },
+    {
+      "name": "Court of Appeal of Malaysia",
+      "seat": "Putrajaya",
+      "url": "https://www.kehakiman.gov.my/",
+      "role": "Intermediate appellate court for civil and criminal matters from Sabah."
+    },
+    {
+      "name": "Federal Court of Malaysia",
+      "seat": "Putrajaya",
+      "url": "https://www.kehakiman.gov.my/",
+      "role": "Final appellate court for civil and criminal matters from Sabah."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Malaysian Medical Council (Majlis Perubatan Malaysia)",
+      "url": "https://www.mmc.gov.my/",
+      "role": "Malaysian Federal professional regulatory framework applicable in Sabah."
+    }
+  ],
+  "anonymisation_convention": "Sabah family-court decisions are anonymised per Malaysian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1881,
+      "title": "British North Borneo Company chartered",
+      "description": "British North Borneo Company chartered 1881 — beginning of British North Borneo Company framework 1881-1946."
+    },
+    {
+      "year": 1941,
+      "title": "Japanese occupation",
+      "description": "Japanese occupation of North Borneo 1941-1945 — interruption of British North Borneo Company framework."
+    },
+    {
+      "year": 1946,
+      "title": "British Crown Colony",
+      "description": "North Borneo became British Crown Colony 15 July 1946 — end of British North Borneo Company framework."
+    },
+    {
+      "year": 1963,
+      "title": "Federation of Malaysia + 20-Point Agreement",
+      "description": "Federation of Malaysia established 16 September 1963 — Sabah joined under Malaysia Agreement 1963 (MA63) + 20-Point Agreement Sabah 1963."
+    },
+    {
+      "year": 1992,
+      "title": "Native Court Enactment",
+      "description": "Sabah Native Court Enactment 1992 establishing formal Adat-customary-law family-law framework for indigenous communities."
+    },
+    {
+      "year": 2013,
+      "title": "Lahad Datu standoff",
+      "description": "Lahad Datu standoff / Sulu intrusion 11 February - 24 March 2013 — ~235 deaths from Philippines Sulu Sultanate claim manifestation."
+    },
+    {
+      "year": 2018,
+      "title": "MA63 review framework",
+      "description": "Malaysian Federal Government MA63 review framework commenced 2018 — ongoing constitutional review of Sarawak + Sabah autonomy framework."
+    }
+  ],
+  "structural_findings": [
+    "Sabah operates a mixed federal Malaysian common-law + Sabah Adat-customary-law constituent-state framework — places Sabah in the Bornean Malaysian-state cluster.",
+    "Second-largest Malaysian state by area (~73,631 km² / ~22% of Malaysian land area) is structurally distinctive within Malaysian state cluster — second after Sarawak.",
+    "Only Malaysian state with formal autonomy framework under Malaysia Agreement 1963 (MA63) via 20-Point Agreement Sabah including formal immigration-control autonomy is structurally distinctive globally — parallel to Sarawak's 18-Point Agreement framework.",
+    "Only Malaysian state subject to ongoing external sovereignty claim is structurally distinctive globally — Philippines Sulu Sultanate Sabah claim + 2013 Lahad Datu standoff/Sulu intrusion framework.",
+    "Only Malaysian state with continuous British North Borneo Company framework 1881-1946 is structurally distinctive globally — only modern Southeast Asian jurisdiction with formal chartered-company colonial framework.",
+    "Sabah Native Court Adat framework with formal recognition of Kadazan-Dusun + Murut + Bajau + Sungai + Brunei Malay + Suluk indigenous communities is structurally distinctive within Malaysian state cluster.",
+    "Bornean tri-jurisdiction framework (Sarawak + Sabah + Brunei + Indonesian Kalimantan) is structurally distinctive globally — historical Bornean kingdoms framework.",
+    "Malaysian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:malaysia",
+    "jurisdiction:sarawak",
+    "jurisdiction:brunei",
+    "jurisdiction:philippines",
+    "jurisdiction:indonesia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Sabah",
+      "url": "https://www.sabah.gov.my/",
+      "publisher": "Sabah State Government",
+      "language": "en"
+    },
+    {
+      "title": "Malaysian Judiciary",
+      "url": "https://www.kehakiman.gov.my/",
+      "publisher": "Malaysian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Sabah jurisdiction sidecar — mixed federal Malaysian common-law/Sabah Adat-customary-law Bornean Malaysian-state (Malaysia Agreement 1963 MA63 + 20-Point Agreement Sabah + Constitution Article 161A + Sabah Immigration Act 1959/63 + Sabah Native Court Enactment 1992 + Land Ordinance 1930 + British North Borneo Company 1881-1946 + Japanese occupation 1941-1945 + British Crown Colony 1946-1963 + Philippines Sulu Sultanate claim + 2013 Lahad Datu standoff + MA63 review 2018+ + Malaysian non-Hague-1980). Second-largest Malaysian state by area + only Malaysian state with formal autonomy framework via 20-Point Agreement globally + only Malaysian state subject to ongoing external sovereignty claim + only Malaysian state with continuous British North Borneo Company framework globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Bornean + mixed Malaysian-common-law/Sabah-Adat-customary-law + Malaysian-state cluster + MA63-20-Point-Agreement-Sabah-formal-autonomy + Sabah-Immigration-Act-independent-controls + Native-Court-Adat-framework + British-North-Borneo-Company-1881-1946-globally-distinctive + Philippines-Sulu-Sultanate-Sabah-claim + 2013-Lahad-Datu-standoff + Bornean-tri-jurisdiction-historical-framework + Malaysian-non-Hague-1980 clusters within the corpus."
+  ]
+}

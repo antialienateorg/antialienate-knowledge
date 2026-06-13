@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0",
+  "id": "andaman-and-nicobar-islands",
+  "name": "Andaman and Nicobar Islands (अंडमान और निकोबार द्वीप समूह)",
+  "jurisdiction_code": "IN-AN",
+  "legal_system": "mixed",
+  "language": ["en", "hi", "bn", "ta", "te"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Andaman and Nicobar Islands (अंडमान और निकोबार द्वीप समूह in Hindi) are a Bay of Bengal mixed common-law/indigenous-customary-law Indian Union Territory comprising the Andaman Islands group (300+ islands) and Nicobar Islands group (22 islands) — structurally distinctive globally as the only Indian jurisdiction with an uncontacted indigenous tribe (the Sentinelese of North Sentinel Island, who have remained isolated for ~60,000+ years and whose contact is explicitly prohibited under the Aboriginal Tribes (Andaman and Nicobar Islands) Regulation 1956 and 1991+ Eyes-and-Ears policy — the only modern formal state-level prohibition on contact with an uncontacted indigenous tribe), as the central jurisdiction of the most extensive Indian indigenous-tribe-protection framework operating five Particularly Vulnerable Tribal Groups (PVTGs): Great Andamanese, Onge, Jarawa, Sentinelese (all Negrito-origin), and Shompen (Mongoloid Nicobarese), and as the only Indian Union Territory with comprehensive Inner Line Permit-equivalent restricted-area framework via Restricted Area Permit (RAP) under the Foreigners (Protected Areas) Order 1958. The Andamans were Cellular Jail penal colony framework (Kālā Pānī, 'Black Water') under British colonial framework 1858-1942, were occupied by Imperial Japan 1942-1945, were proclaimed as the temporary Provisional Government of Free India by Subhas Chandra Bose's Azad Hind on 30 December 1943 (the only Indian territory under formal Azad Hind administration during WWII), and integrated into India following 1947. Andaman and Nicobar Islands comprise ~8,249 km² total area across ~500+ islands with a population of ~380,000 (~95% non-indigenous, ~5% indigenous tribal). Family-law framework operates under the federal Indian common-law framework (Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, Guardians and Wards Act 1890) applied via Union Territory administrative framework with Aboriginal Tribes Regulation 1956 customary-law protection for the five PVTGs. The Calcutta High Court (Port Blair Circuit Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Andaman and Nicobar Islands are silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Andaman and Nicobar Islands are governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Aboriginal Tribes (Andaman and Nicobar Islands) Regulation 1956",
+      "title": "Aboriginal Tribes Regulation",
+      "year": 1956,
+      "url": "https://www.andaman.gov.in/",
+      "relevance": "Indian Federal Regulation of 1956 explicitly protecting indigenous tribes of Andaman and Nicobar Islands — including five PVTGs Great Andamanese, Onge, Jarawa, Sentinelese, Shompen."
+    },
+    {
+      "citation": "Foreigners (Protected Areas) Order 1958 + Restricted Area Permit (RAP) framework",
+      "title": "Foreigners (Protected Areas) Order",
+      "year": 1958,
+      "url": "https://www.andaman.gov.in/",
+      "relevance": "Indian Federal Order establishing Restricted Area Permit framework for Andaman and Nicobar Islands — restricting foreigner access including specific prohibitions on entering tribal reserves."
+    },
+    {
+      "citation": "Eyes-and-Ears Policy 1991 (Sentinelese non-contact)",
+      "title": "Sentinelese Eyes-and-Ears Policy",
+      "year": 1991,
+      "url": "https://www.andaman.gov.in/",
+      "relevance": "Indian Government Eyes-and-Ears policy framework of 1991 — formal prohibition on attempts to contact the Sentinelese tribe of North Sentinel Island."
+    },
+    {
+      "citation": "Andaman and Nicobar Islands (Protection of Aboriginal Tribes) Amendment 2010",
+      "title": "Aboriginal Tribes Protection Amendment 2010",
+      "year": 2010,
+      "url": "https://www.andaman.gov.in/",
+      "relevance": "Indian Federal Amendment strengthening aboriginal-tribes-protection framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Calcutta High Court (Port Blair Circuit Bench)",
+      "seat": "Port Blair (Circuit Bench of Calcutta)",
+      "url": "https://www.calcuttahighcourt.gov.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Andaman and Nicobar Islands."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Andaman and Nicobar Islands."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Andaman and Nicobar Islands."
+    }
+  ],
+  "anonymisation_convention": "Andaman and Nicobar Islands family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1858,
+      "title": "Cellular Jail penal colony established",
+      "description": "British Cellular Jail (Kālā Pānī, 'Black Water') penal colony established 1858 — beginning of Indian colonial penal colony framework that operated until 1942."
+    },
+    {
+      "year": 1942,
+      "title": "Japanese occupation",
+      "description": "Japanese occupation of Andaman and Nicobar Islands March 1942-October 1945."
+    },
+    {
+      "year": 1943,
+      "title": "Provisional Government of Free India",
+      "description": "Subhas Chandra Bose's Azad Hind proclaimed Provisional Government of Free India in Andaman and Nicobar Islands on 30 December 1943 — only Indian territory under formal Azad Hind administration during WWII."
+    },
+    {
+      "year": 1956,
+      "title": "Aboriginal Tribes (A&N Islands) Regulation",
+      "description": "Indian Federal Regulation of 1956 explicitly protecting indigenous tribes of Andaman and Nicobar Islands."
+    },
+    {
+      "year": 1991,
+      "title": "Sentinelese Eyes-and-Ears Policy",
+      "description": "Indian Government Eyes-and-Ears policy framework of 1991 — formal prohibition on attempts to contact the Sentinelese tribe of North Sentinel Island."
+    },
+    {
+      "year": 2004,
+      "title": "2004 Indian Ocean earthquake-tsunami",
+      "description": "2004 Indian Ocean earthquake-tsunami of 26 December 2004 devastated Andaman and Nicobar Islands particularly Nicobar Islands — over 7,000 deaths and substantial geomorphological transformation."
+    },
+    {
+      "year": 2018,
+      "title": "John Allen Chau North Sentinel Island incident",
+      "description": "American missionary John Allen Chau killed by Sentinelese tribe on 17 November 2018 — reaffirming Indian Government non-contact policy framework."
+    }
+  ],
+  "structural_findings": [
+    "Andaman and Nicobar Islands operate a mixed federal Indian common-law + indigenous-customary-law Union Territory framework — places A&N Islands in the Bay of Bengal Indian-Union-Territory cluster.",
+    "Only Indian jurisdiction with an uncontacted indigenous tribe (Sentinelese of North Sentinel Island) is structurally distinctive globally.",
+    "Only modern formal state-level prohibition on contact with an uncontacted indigenous tribe is structurally distinctive globally — Indian Eyes-and-Ears policy 1991 framework.",
+    "Central jurisdiction of most extensive Indian indigenous-tribe-protection framework operating five Particularly Vulnerable Tribal Groups (PVTGs) is structurally distinctive globally — Great Andamanese, Onge, Jarawa, Sentinelese, Shompen.",
+    "Only Indian Union Territory with comprehensive Restricted Area Permit (RAP) framework under Foreigners (Protected Areas) Order 1958 is structurally distinctive.",
+    "Cellular Jail penal colony framework (Kālā Pānī, 'Black Water') 1858-1942 is structurally distinctive globally — only Indian Union Territory with British colonial penal-colony foundational framework.",
+    "1943 Provisional Government of Free India (Azad Hind) framework is structurally distinctive globally — only Indian territory under formal Azad Hind administration during WWII.",
+    "2018 John Allen Chau incident is structurally distinctive globally — only modern state-level reaffirmation of non-contact policy framework following missionary fatality.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:myanmar",
+    "jurisdiction:thailand",
+    "jurisdiction:indonesia",
+    "jurisdiction:bangladesh",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Andaman and Nicobar Administration",
+      "url": "https://www.andaman.gov.in/",
+      "publisher": "A&N Administration",
+      "language": "en"
+    },
+    {
+      "title": "Calcutta High Court",
+      "url": "https://www.calcuttahighcourt.gov.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Andaman and Nicobar Islands jurisdiction sidecar — mixed federal Indian common-law/indigenous-customary-law Bay of Bengal Indian Union Territory (Aboriginal Tribes (A&N Islands) Regulation 1956 + Foreigners (Protected Areas) Order 1958 Restricted Area Permit + Sentinelese Eyes-and-Ears Policy 1991 + five PVTGs Great Andamanese/Onge/Jarawa/Sentinelese/Shompen + Cellular Jail penal colony 1858-1942 + Provisional Government of Free India Azad Hind 1943 + 2004 Indian Ocean earthquake-tsunami + 2018 Chau incident + Indian non-Hague-1980). Only Indian jurisdiction with uncontacted indigenous tribe (Sentinelese) globally + only modern formal state-level prohibition on contact with uncontacted indigenous tribe + most extensive Indian indigenous-tribe-protection framework + only Indian Union Territory with British colonial penal-colony foundational framework + only Indian territory under formal Azad Hind administration during WWII.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Bay-of-Bengal + mixed Indian-common-law/indigenous-customary-law + Indian-Union-Territory cluster + Sentinelese-uncontacted-indigenous-tribe-globally-distinctive + Eyes-and-Ears-Policy-1991-non-contact + five-PVTGs-Great-Andamanese-Onge-Jarawa-Sentinelese-Shompen + Aboriginal-Tribes-Regulation-1956 + Foreigners-Protected-Areas-Order-1958-RAP + Cellular-Jail-Kālā-Pānī-penal-colony-1858-1942 + Provisional-Government-of-Free-India-Azad-Hind-1943 + 2018-Chau-incident + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

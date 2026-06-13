@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "id": "cabinda",
+  "name": "Cabinda Province (Cabinda / Cabinda Enclave)",
+  "jurisdiction_code": "AO-CAB",
+  "legal_system": "civil-law",
+  "language": ["pt", "kg", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Cabinda Province (Portuguese: Cabinda — also known as Cabinda Enclave) is a Central African civil-law constituent province of the Republic of Angola — structurally distinctive globally as the only modern Angolan sub-national territory not contiguous with main Angola (~7,283 km² Angolan exclave separated from main Angola by the Republic of the Congo and the Democratic Republic of the Congo ~60 km wide DRC Bas-Congo corridor framework — formal Angolan exclave framework, distinct from rest-of-Angolan-sub-national-territorial framework), as the central jurisdiction of one of the most economically distinctive modern African sub-national oil-production frameworks (Cabinda contains ~60-65% of Angolan oil production + ~25-30% of Sub-Saharan African oil production at peak ~700,000 barrels/day output framework — structurally distinctive globally as the most economically-substantial sub-national oil-production framework on the African continent), as the central jurisdiction of one of the longest-running modern African separatist insurgency frameworks (Front for the Liberation of the Enclave of Cabinda FLEC 1963-2026 63+ years — continuous Cabinda separatist insurgency framework 1963-present, distinct framework from FNLA + MPLA + UNITA Angolan-mainland frameworks during Angolan War of Independence 1961-1975 + Angolan Civil War 1975-2002, with 1 August 2006 Memorandum of Understanding for Peace + National Reconciliation in the Province of Cabinda partial-resolution framework but FLEC-FAC fragment continuing armed insurgency), as the only modern African sub-national territory with formal pre-Angolan-independence-treaty-framework (Treaty of Simulambuco 1 February 1885 — Portuguese-Cabinda Treaty of Protectorate framework establishing Cabinda as separate Portuguese protectorate distinct from Portuguese Angola framework 1885-1956, only formally-integrated into Portuguese Angola 1956 via Portuguese Ministry of Overseas Cabinda-Angola integration framework). Cabinda Province historically operated under Kingdom of Loango + Kingdom of Ngoyo + Kingdom of Kakongo pre-16th century - 19th century + Portuguese Treaty of Simulambuco 1885 protectorate framework + Portuguese Cabinda 1885-1956 + Portuguese Angola Cabinda integration 1956-1975 + Angolan Cabinda 1975+ via Alvor Agreement 15 January 1975. Cabinda Province comprises ~7,283 km² with a population of ~720,000 (~95% Cabindans + others). Family-law framework operates under the federal Angolan civil-law framework (Angolan Family Code 11/2024 + Angolan Civil Code 2024) applied uniformly across Angolan sub-national territories. The Court of Appeal of Cabinda is the apex regional court; final appellate jurisdiction lies with the Supreme Court of Angola. Cabinda is silent on 'parental alienation' as a statutory label. Angola is a Hague Convention 1980 signatory but not a party — Cabinda is governed by Angolan non-Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Treaty of Simulambuco 1885 (Portuguese-Cabinda Treaty of Protectorate)",
+      "title": "Treaty of Simulambuco",
+      "year": 1885,
+      "url": "https://www.angola.gov.ao/",
+      "relevance": "Portuguese-Cabinda Treaty of Simulambuco signed 1 February 1885 — formal Portuguese-Cabinda Treaty of Protectorate framework establishing Cabinda as separate Portuguese protectorate distinct from Portuguese Angola framework 1885-1956."
+    },
+    {
+      "citation": "Alvor Agreement 1975 + Cabinda integration",
+      "title": "Alvor Agreement",
+      "year": 1975,
+      "url": "https://www.angola.gov.ao/",
+      "relevance": "Alvor Agreement signed 15 January 1975 — formal Portuguese-Angolan independence agreement with formal integration of Cabinda into independent Angola framework."
+    },
+    {
+      "citation": "Memorandum of Understanding for Peace + National Reconciliation in the Province of Cabinda 2006",
+      "title": "Cabinda Memorandum of Understanding 2006",
+      "year": 2006,
+      "url": "https://www.angola.gov.ao/",
+      "relevance": "Angolan Government-FLEC-Renovada Memorandum of Understanding for Peace + National Reconciliation in the Province of Cabinda signed 1 August 2006 — partial-resolution framework for Cabinda separatist insurgency framework."
+    },
+    {
+      "citation": "Constitution of Angola 2010 Article 5 (Provinces)",
+      "title": "Constitution of Angola Article 5",
+      "year": 2010,
+      "url": "https://www.tribunalconstitucional.ao/",
+      "relevance": "Angolan Constitutional Article 5 establishing provinces as constituent subjects of Angola — applicable to Cabinda."
+    },
+    {
+      "citation": "Angolan Family Code 11/2024 + Angolan Civil Code 2024",
+      "title": "Angolan Family Code + Civil Code",
+      "year": 2024,
+      "url": "https://www.angola.gov.ao/",
+      "relevance": "Angolan Federal Family Code 11/2024 + Angolan Federal Civil Code 2024 applicable uniformly across Cabinda."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Cabinda (Tribunal da Relação de Cabinda)",
+      "seat": "Cabinda",
+      "url": "https://www.tribunalconstitucional.ao/",
+      "role": "Apex regional appellate court for civil and criminal matters from Cabinda."
+    },
+    {
+      "name": "Supreme Court of Angola (Tribunal Supremo)",
+      "seat": "Luanda",
+      "url": "https://www.tribunalsupremo.ao/",
+      "role": "Final appellate court for civil and criminal matters from Cabinda."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Angolan Ministry of Health (Ministério da Saúde)",
+      "url": "https://www.minsa.gov.ao/",
+      "role": "Angolan Federal professional regulatory framework applicable in Cabinda."
+    }
+  ],
+  "anonymisation_convention": "Cabinda family-court decisions are anonymised per Angolan court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1885,
+      "title": "Treaty of Simulambuco",
+      "description": "Portuguese-Cabinda Treaty of Simulambuco signed 1 February 1885 — formal Portuguese-Cabinda Treaty of Protectorate framework establishing Cabinda as separate Portuguese protectorate."
+    },
+    {
+      "year": 1956,
+      "title": "Portuguese Angola integration",
+      "description": "Cabinda formally integrated into Portuguese Angola 1956 via Portuguese Ministry of Overseas Cabinda-Angola integration framework — end of separate Portuguese protectorate framework."
+    },
+    {
+      "year": 1963,
+      "title": "FLEC founded",
+      "description": "Front for the Liberation of the Enclave of Cabinda FLEC founded 4 August 1963 — beginning of formal Cabinda separatist insurgency framework 1963-present."
+    },
+    {
+      "year": 1975,
+      "title": "Alvor Agreement + Angolan independence",
+      "description": "Alvor Agreement signed 15 January 1975 + Angolan independence 11 November 1975 — formal integration of Cabinda into independent Angola framework."
+    },
+    {
+      "year": 1977,
+      "title": "FLEC FAC + FLEC Renovada split",
+      "description": "Front for the Liberation of the Enclave of Cabinda split into FLEC-FAC (Forças Armadas Cabindesas) + FLEC-Renovada 1977 — beginning of formal FLEC organisational fragmentation framework."
+    },
+    {
+      "year": 2006,
+      "title": "Cabinda Memorandum of Understanding",
+      "description": "Angolan Government-FLEC-Renovada Memorandum of Understanding for Peace + National Reconciliation in the Province of Cabinda signed 1 August 2006 — partial-resolution framework."
+    },
+    {
+      "year": 2010,
+      "title": "Togo national football team attack",
+      "description": "Togo national football team attack 8 January 2010 by FLEC-FAC during Africa Cup of Nations — pivotal armed-conflict-event framework + 3 deaths."
+    }
+  ],
+  "structural_findings": [
+    "Cabinda Province operates a federal Angolan civil-law constituent province framework — places Cabinda in the Central African Angolan sub-national cluster.",
+    "Only modern Angolan sub-national territory not contiguous with main Angola is structurally distinctive within Angolan framework — formal Angolan exclave framework separated by Republic of the Congo + DRC.",
+    "Central jurisdiction of one of most economically distinctive modern African sub-national oil-production frameworks is structurally distinctive globally — Cabinda contains ~60-65% of Angolan oil production + ~25-30% of Sub-Saharan African oil production at peak.",
+    "Central jurisdiction of one of longest-running modern African separatist insurgency frameworks is structurally distinctive globally — FLEC 1963-2026 63+ years continuous Cabinda separatist insurgency framework.",
+    "Only modern African sub-national territory with formal pre-Angolan-independence-treaty-framework is structurally distinctive globally — Treaty of Simulambuco 1885 Portuguese-Cabinda Treaty of Protectorate framework.",
+    "1885 Treaty of Simulambuco + 1956 Portuguese Angola integration + 1975 Alvor Agreement + Cabinda separatist-cultural-political-identity framework is structurally distinctive globally.",
+    "1977 FLEC-FAC + FLEC-Renovada organisational-fragmentation framework + 2006 partial-Memorandum-of-Understanding-resolution + FLEC-FAC continuing armed insurgency is structurally distinctive globally.",
+    "Angolan non-Hague-Convention-1980-ratification framework applies."
+  ],
+  "references": [
+    "jurisdiction:angola",
+    "jurisdiction:portugal",
+    "jurisdiction:republic-of-the-congo",
+    "jurisdiction:democratic-republic-of-the-congo",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Angola (Governo de Angola)",
+      "url": "https://www.angola.gov.ao/",
+      "publisher": "Angolan Government",
+      "language": "pt"
+    }
+  ],
+  "editorial_notes": [
+    "Cabinda Province jurisdiction sidecar — civil-law Central African Angolan constituent province (Treaty of Simulambuco 1885 + Alvor Agreement 1975 + Cabinda Memorandum of Understanding 2006 + Constitution of Angola 2010 Article 5 + Angolan Family Code 11/2024 + Kingdom of Loango + Kingdom of Ngoyo + Kingdom of Kakongo + Portuguese Cabinda 1885-1956 + Portuguese Angola Cabinda integration 1956-1975 + FLEC 1963-present + FLEC-FAC + FLEC-Renovada split 1977 + 2010 Togo attack + Angolan non-Hague-1980-ratification framework). Only modern Angolan sub-national territory not contiguous with main Angola + central jurisdiction of one of most economically distinctive modern African sub-national oil-production frameworks + central jurisdiction of one of longest-running modern African separatist insurgency frameworks + only modern African sub-national territory with formal pre-Angolan-independence-treaty-framework + Treaty of Simulambuco 1885 + Portuguese protectorate 1885-1956 + 1956 Portuguese Angola integration + Cabinda separatist-cultural-political-identity framework + 1977 FLEC organisational-fragmentation framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central-African + civil-law + Angolan-province cluster + Angolan-exclave-not-contiguous-with-main-Angola-globally-distinctive + Cabinda-60-65-percent-Angolan-oil-production + FLEC-1963-2026-63-year-separatist-insurgency + Treaty-of-Simulambuco-1885-Portuguese-Cabinda-Treaty-of-Protectorate + Portuguese-Cabinda-1885-1956-separate-protectorate + 1956-Portuguese-Angola-integration + Alvor-Agreement-1975 + 2006-Cabinda-Memorandum-of-Understanding + 1977-FLEC-FAC-FLEC-Renovada-split + 2010-Togo-attack + Angolan-non-Hague-1980 clusters within the corpus."
+  ]
+}

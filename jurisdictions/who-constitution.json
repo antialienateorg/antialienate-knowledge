@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0",
+  "id": "who-constitution",
+  "name": "WHO Constitution 1946 (World Health Organization)",
+  "jurisdiction_code": "WHO",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Constitution of the World Health Organization (WHO Constitution) is a global supranational meta-framework health-rights binding-treaty instrument adopted by the International Health Conference in New York — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on health-rights framework (WHO Constitution adopted 22 July 1946 in New York + effective 7 April 1948 — formal universal multilateral binding-treaty framework establishing comprehensive health-rights framework, distinct from rest-of-modern-international-treaty frameworks which operate on broader general-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating formal health-as-fundamental-human-right framework via Preamble framework 'The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition' + 7 April World Health Day commemoration framework + first UN specialized agency operating exclusively on health framework), as the central jurisdiction of the formal WHO Preamble Health-as-Fundamental-Right framework (WHO Constitution Preamble framework providing 'Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity' + 'The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being' — formal foundational health-as-fundamental-right framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal health-as-fundamental-right framework with formal comprehensive health-definition framework), as the central jurisdiction of the formal International Health Regulations IHR 2005 framework (International Health Regulations IHR 2005 adopted 23 May 2005 by 58th World Health Assembly Resolution WHA58.3 + effective 15 June 2007 providing formal global health-security framework via Public Health Emergency of International Concern PHEIC framework — formal foundational global health-security framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal global health-security PHEIC framework), and as the central jurisdiction of the formal WHO Pandemic Agreement 2025 framework (WHO Pandemic Agreement adopted 20 May 2025 by 78th World Health Assembly providing formal pandemic prevention + preparedness + response framework — formal foundational pandemic framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal pandemic-specific framework). The WHO Constitution is binding upon 194 WHO member states + 2 associate members as of 2026 — comprehensive universal coverage framework. The Constitution is silent on 'parental alienation' as a statutory label, though formal WHO ICD-11 framework operates substantial intersection with parental-alienation framework via formal mental-health-condition-classification framework where ICD-11 index entry 'parental alienation' was added 2018 + removed 2020 + child-maltreatment QE52 framework with mental-health-care related codes. The World Health Assembly + WHO Executive Board + WHO Director-General + WHO Regional Offices are the formal WHO bodies; national-level apex courts operate as judicial bodies. The WHO Constitution is silent on 'parental alienation' as a statutory label, though WHO ICD-11 classification framework operates active framework on 'parental alienation' classification framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "WHO Constitution 1946",
+      "title": "WHO Constitution",
+      "year": 1948,
+      "url": "https://www.who.int/",
+      "relevance": "WHO Constitution adopted 22 July 1946 in New York + effective 7 April 1948 — formal universal multilateral binding-treaty framework establishing comprehensive health-rights framework."
+    },
+    {
+      "citation": "WHO Constitution Preamble (Health-as-Fundamental-Right Framework)",
+      "title": "WHO Constitution Preamble",
+      "year": 1948,
+      "url": "https://www.who.int/",
+      "relevance": "WHO Constitution Preamble framework on health-as-fundamental-right + comprehensive health-definition — formal foundational health-as-fundamental-right framework."
+    },
+    {
+      "citation": "International Health Regulations IHR 2005",
+      "title": "IHR 2005",
+      "year": 2007,
+      "url": "https://www.who.int/",
+      "relevance": "International Health Regulations IHR 2005 adopted 23 May 2005 by 58th World Health Assembly Resolution WHA58.3 + effective 15 June 2007 — formal foundational global health-security PHEIC framework."
+    },
+    {
+      "citation": "WHO Framework Convention on Tobacco Control FCTC 2003",
+      "title": "WHO FCTC",
+      "year": 2005,
+      "url": "https://www.who.int/",
+      "relevance": "WHO Framework Convention on Tobacco Control FCTC adopted 21 May 2003 by 56th World Health Assembly + effective 27 February 2005 — formal foundational global tobacco-control framework + first WHO global health convention framework."
+    },
+    {
+      "citation": "WHO Pandemic Agreement 2025",
+      "title": "WHO Pandemic Agreement",
+      "year": 2025,
+      "url": "https://www.who.int/",
+      "relevance": "WHO Pandemic Agreement adopted 20 May 2025 by 78th World Health Assembly — formal foundational pandemic-specific framework."
+    },
+    {
+      "citation": "WHO ICD-11 2018-2022",
+      "title": "WHO ICD-11",
+      "year": 2022,
+      "url": "https://www.who.int/standards/classifications/classification-of-diseases",
+      "relevance": "WHO International Classification of Diseases ICD-11 adopted 25 May 2019 by 72nd World Health Assembly + effective 1 January 2022 — formal foundational global disease-classification framework with PA-classification-history framework (ICD-11 index entry 'parental alienation' added 2018 + removed 2020 + QE52 child-maltreatment framework retained)."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "World Health Assembly (WHA)",
+      "seat": "Geneva",
+      "url": "https://www.who.int/governance/world-health-assembly",
+      "role": "Formal supreme decision-making body for WHO."
+    },
+    {
+      "name": "WHO Executive Board",
+      "seat": "Geneva",
+      "url": "https://www.who.int/governance/executive-board",
+      "role": "Formal executive body for WHO."
+    },
+    {
+      "name": "WHO Director-General",
+      "seat": "Geneva",
+      "url": "https://www.who.int/director-general",
+      "role": "Formal administrative head body for WHO."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "WHO Secretariat",
+      "url": "https://www.who.int/",
+      "role": "WHO Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "WHO-related communications operate via state-state + WHA reporting framework; individual communications not formally accepted under WHO framework.",
+  "key_developments": [
+    {
+      "year": 1946,
+      "title": "WHO Constitution adopted",
+      "description": "WHO Constitution adopted 22 July 1946 in New York by International Health Conference — formal universal multilateral binding-treaty framework adopted."
+    },
+    {
+      "year": 1948,
+      "title": "WHO Constitution enters force + WHO established",
+      "description": "WHO Constitution entered force 7 April 1948 + World Health Organization WHO formally established 7 April 1948 — formal foundational WHO treaty framework operational + 7 April World Health Day commemoration framework."
+    },
+    {
+      "year": 1980,
+      "title": "Smallpox eradication declared",
+      "description": "WHO declared smallpox eradicated 8 May 1980 — formal WHO disease-eradication framework operational."
+    },
+    {
+      "year": 2003,
+      "title": "WHO Framework Convention on Tobacco Control",
+      "description": "WHO Framework Convention on Tobacco Control FCTC adopted 21 May 2003 — formal foundational global tobacco-control framework + first WHO global health convention framework."
+    },
+    {
+      "year": 2005,
+      "title": "International Health Regulations IHR 2005",
+      "description": "International Health Regulations IHR 2005 adopted 23 May 2005 + effective 15 June 2007 — formal foundational global health-security PHEIC framework."
+    },
+    {
+      "year": 2018,
+      "title": "ICD-11 with 'parental alienation' index entry",
+      "description": "WHO ICD-11 launched 18 June 2018 with 'parental alienation' index entry under caregiver-child relationship problem Z62.898 framework — formal WHO PA-classification framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "'Parental alienation' removed from ICD-11 index",
+      "description": "WHO ICD-11 'parental alienation' index entry removed 23 March 2020 following advocacy from feminist + intimate-partner-violence + child-protection coalitions — formal WHO PA-classification reversal framework."
+    },
+    {
+      "year": 2020,
+      "title": "COVID-19 PHEIC + pandemic declarations",
+      "description": "WHO declared COVID-19 Public Health Emergency of International Concern PHEIC 30 January 2020 + pandemic 11 March 2020 — formal WHO PHEIC framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "ICD-11 enters force",
+      "description": "WHO ICD-11 entered force 1 January 2022 — formal foundational global disease-classification framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "WHO Pandemic Agreement adopted",
+      "description": "WHO Pandemic Agreement adopted 20 May 2025 by 78th World Health Assembly — formal foundational pandemic-specific framework adopted."
+    }
+  ],
+  "structural_findings": [
+    "WHO Constitution operates a supranational universal multilateral binding-treaty framework — places WHO Constitution in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on health-rights framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal health-as-fundamental-human-right framework + first UN specialized agency operating exclusively on health framework.",
+    "Central jurisdiction of formal WHO Preamble health-as-fundamental-right framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal health-as-fundamental-right framework with formal comprehensive health-definition framework.",
+    "Central jurisdiction of formal IHR 2005 framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal global health-security PHEIC framework.",
+    "Central jurisdiction of formal WHO Pandemic Agreement 2025 framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal pandemic-specific framework.",
+    "194 WHO member state + 2 associate member ratification framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1946 WHO Constitution + 1948 entry into force + 1980 smallpox eradication + 2003 FCTC + 2005 IHR + 2018 ICD-11 + 2020 COVID-19 PHEIC + 2022 ICD-11 entry into force + 2025 Pandemic Agreement WHO-framework-development sequence is structurally distinctive globally.",
+    "ICD-11 'parental alienation' index entry 2018-added/2020-removed framework operates direct WHO PA-classification framework with formal reversal framework — structurally distinctive globally as the only modern WHO classification framework operating formal PA-classification reversal framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:icd-11-parental-alienation-removal",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "World Health Organization",
+      "url": "https://www.who.int/",
+      "publisher": "WHO",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "WHO Constitution jurisdiction sidecar — supranational global health-rights universal multilateral binding-treaty meta-framework (WHO Constitution 1946/1948 + Preamble Health-as-Fundamental-Right + IHR 2005/2007 + FCTC 2003/2005 + ICD-11 2018-2022 + Pandemic Agreement 2025 + 7 April World Health Day + smallpox eradication 1980 + COVID-19 PHEIC 2020). Only modern universal multilateral binding-treaty framework operating specifically on health-rights framework globally + formal health-as-fundamental-right framework via Preamble + central jurisdiction of formal IHR 2005 PHEIC framework + central jurisdiction of formal WHO Pandemic Agreement 2025 framework + 194 WHO member states + 2 associate members + 1946 WHO Constitution + 1948 entry into force + 7 April World Health Day + 1980 smallpox + 2003 FCTC + 2005 IHR + 2018 ICD-11 + 2020 COVID-19 PHEIC + 2022 ICD-11 entry into force + 2025 Pandemic Agreement WHO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent professional regulator. NOTE: WHO ICD-11 framework operated direct PA-classification framework via 'parental alienation' index entry added 18 June 2018 + removed 23 March 2020 following advocacy from feminist + intimate-partner-violence + child-protection coalitions — formal WHO PA-classification reversal framework operating effectively-against position by adding-then-removing PA-index-entry framework while retaining Z62.898 caregiver-child relationship problem framework + QE52 child-maltreatment framework. WHO has issued no formal position statement on PA as such — silent regulator-position framework.",
+    "Joins global + supranational + universal-multilateral-health-rights-binding-treaty cluster + WHO-only-universal-health-rights-binding-treaty-globally-distinctive + Preamble-Health-as-Fundamental-Right + IHR-2005-PHEIC-framework + FCTC-2003-first-WHO-global-health-convention + ICD-11-2018-2022 + Pandemic-Agreement-2025 + 194-WHO-member-states + 7-April-World-Health-Day + 1980-Smallpox-Eradication + 2020-COVID-19-PHEIC + ICD-11-PA-classification-added-2018-removed-2020 + Z62.898-caregiver-child-relationship-problem-retained + QE52-child-maltreatment-retained + WHO-PA-classification-reversal-silent-regulator-position clusters within the corpus."
+  ]
+}

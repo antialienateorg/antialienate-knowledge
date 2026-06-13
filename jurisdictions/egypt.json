@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "id": "egypt",
+  "name": "Egypt (مصر / Miṣr)",
+  "jurisdiction_code": "EG",
+  "legal_system": "mixed",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Egypt is a mixed civil-law / Islamic-law (Sharia) jurisdiction operating under Personal Status Law for family matters and the 2004 Family Courts Law 10 procedural framework. Custody (حضانة / ḥaḍāna) for Muslim families follows classical Islamic-jurisprudence age thresholds; non-Muslim families operate under religious-community personal-status frameworks (Coptic Christian, Jewish). The National Council for Childhood and Motherhood (NCCM / المجلس القومي للطفولة والأمومة), established by Presidential Decree 54/1988, is the statutory child-rights body and a middle/critique-leaning institutional anchor (per 2016 personal-status-reform position). The Egyptian Psychiatric Association (EPA) is institutionally silent on PA. The Constitution of Egypt 2014 art. 80 enshrines children's rights and art. 53 equality before the law.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Egypt 2014 art. 80",
+      "title": "Constitution of Egypt 2014 — children's rights",
+      "year": 2014,
+      "url": "https://www.constituteproject.org/constitution/Egypt_2014",
+      "relevance": "Art. 80: state commitment to protect children + best-interests principle. Constitutional backdrop for child-welfare reasoning in Egyptian family courts."
+    },
+    {
+      "citation": "Personal Status Law No. 25 of 1929 (as amended) + Law No. 100 of 1985 + Law No. 1 of 2000",
+      "title": "Personal Status Law — substantive family law for Muslim families",
+      "year": 1929,
+      "url": "https://manshurat.org/",
+      "relevance": "Substantive Personal Status Law for Muslim families. Law No. 100 of 1985 + Law No. 1 of 2000 amendments. Governs marriage, divorce, custody (حضانة hadana), maintenance and inheritance under classical Islamic jurisprudence. Hadana custody age thresholds vary by school (Hanafi default 15 for boys / marriage for girls in current Egyptian application)."
+    },
+    {
+      "citation": "Family Courts Law No. 10 of 2004",
+      "title": "Family Courts Law 10/2004 — specialist family-court forum",
+      "year": 2004,
+      "url": "https://manshurat.org/",
+      "relevance": "Establishes specialist Family Courts (محاكم الأسرة maḥākim al-usra) as the procedural forum for all personal-status disputes. Includes Family Dispute Resolution Offices (مكاتب تسوية النزاعات الأسرية) requiring pre-trial mediation. Procedural framework within which hadana custody disputes are litigated."
+    },
+    {
+      "citation": "Child Law No. 12 of 1996 (as amended by Law 126 of 2008)",
+      "title": "Child Law 12/1996 — substantive child-welfare statute",
+      "year": 1996,
+      "url": "https://manshurat.org/",
+      "relevance": "Substantive child-welfare statute. Establishes child-protection framework + age of majority. Law 126/2008 amendments strengthened protection provisions. Operates alongside Personal Status Law in determining best-interests in custody disputes."
+    },
+    {
+      "citation": "Presidential Decree 54 of 1988 — National Council for Childhood and Motherhood (NCCM)",
+      "title": "NCCM — statutory child-rights body",
+      "year": 1988,
+      "url": "https://www.nccm-egypt.org/",
+      "relevance": "Presidential Decree 54/1988 establishes the National Council for Childhood and Motherhood (المجلس القومي للطفولة والأمومة) as the statutory child-rights body. NCCM coordinates child-protection policy and advises on legislation. Middle/critique-leaning institutional anchor (per 2016 personal-status-reform position)."
+    },
+    {
+      "citation": "Coptic Orthodox Personal Status By-laws + Jewish Religious-Court Frameworks",
+      "title": "Religious-community personal-status frameworks (non-Muslim)",
+      "year": 1938,
+      "url": "https://www.constituteproject.org/",
+      "relevance": "Non-Muslim Egyptian families (Coptic Christian + Jewish) operate under religious-community personal-status frameworks rather than Islamic-law Personal Status. Coptic Orthodox 1938 by-laws govern Coptic marriages and custody. Parallel jurisdictional architecture."
+    },
+    {
+      "citation": "Combating Domestic Violence — Law 6 of 2020 (amendments)",
+      "title": "Domestic Violence amendments 2020",
+      "year": 2020,
+      "url": "https://manshurat.org/",
+      "relevance": "Penal Code amendments strengthening domestic-violence protections. Operates alongside Personal Status Law and Child Law 12/1996 in PA-adjacent fact-patterns where DV/PA dynamics intersect."
+    },
+    {
+      "citation": "Medical Profession Practice Law No. 415 of 1954",
+      "title": "Medical Profession Practice Law — psychiatrist statutory regulation",
+      "year": 1954,
+      "url": "https://manshurat.org/",
+      "relevance": "Statutory framework for medical practitioners including psychiatrists. Egyptian Medical Syndicate operates under this Law. No PA-specific Egyptian medical-regulator position."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Constitutional Court of Egypt (المحكمة الدستورية العليا)",
+      "url": "https://sccourt.gov.eg/",
+      "key_decisions": [
+        {
+          "caption": "Supreme Constitutional Court is the apex constitutional court. No PA-construct-specific apex decision identified. Has addressed Personal Status Law constitutional challenges including Coptic remarriage and divorce questions.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Court of Cassation (محكمة النقض)",
+      "url": "https://cc.gov.eg/",
+      "key_decisions": [
+        {
+          "caption": "Court of Cassation is the apex court for civil and criminal matters. Personal Status Chamber reviews family-law cassation petitions. No PA-construct-specific apex decision identified.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Family Courts (محاكم الأسرة) + Family Dispute Resolution Offices",
+      "url": "https://www.moj.gov.eg/",
+      "key_decisions": [
+        {
+          "caption": "Specialist Family Courts established by Law 10/2004 — first-instance forum for all personal-status disputes. Family Dispute Resolution Offices conduct pre-trial mediation. Bulk of Egyptian custody disputes including hadana proceedings decided here.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Personal Status Departments — religious-community jurisdictions (Coptic Orthodox / Jewish)",
+      "url": "https://www.constituteproject.org/",
+      "key_decisions": [
+        {
+          "caption": "Religious-community personal-status frameworks operate for non-Muslim families. Coptic Orthodox 1938 by-laws + Jewish religious-court frameworks parallel to Islamic Personal Status. Family-court structure handles procedural matters; substantive rules vary by community.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "National Council for Childhood and Motherhood (NCCM / المجلس القومي للطفولة والأمومة)",
+      "url": "https://www.nccm-egypt.org/",
+      "position_statement": "Statutory child-rights body established by Presidential Decree 54/1988. Coordinates child-protection policy + advises on legislation. Middle/critique-leaning institutional anchor — engaged the 2016 personal-status-reform debate. Closest institutional-critique signal in Egyptian PA-adjacent landscape."
+    },
+    {
+      "name": "National Council for Women (NCW / المجلس القومي للمرأة)",
+      "url": "https://ncw.gov.eg/",
+      "position_statement": "Constitutional independent council on women's affairs. Engages family-law reform debates. No PA-construct-specific position identified."
+    },
+    {
+      "name": "Egyptian Medical Syndicate (نقابة الأطباء)",
+      "url": "https://www.ema.org.eg/",
+      "position_statement": "Statutory professional syndicate for medical practitioners including psychiatrists under Medical Profession Practice Law 415/1954. No PA-specific position."
+    },
+    {
+      "name": "Egyptian Psychiatric Association (EPA / الجمعية المصرية للطب النفسي)",
+      "url": "https://www.egyptianpsychiatry.com/",
+      "position_statement": "Professional association of psychiatrists in Egypt. Institutionally silent on PA. Silence parallels HPCSA SA + CPRB Kenya + NACP Nigeria regional African pattern."
+    },
+    {
+      "name": "Al-Azhar Council of Senior Scholars (هيئة كبار العلماء)",
+      "url": "https://www.azhar.eg/",
+      "position_statement": "Statutory body of Sunni Islamic scholars at Al-Azhar. Periodic fatwas on family-law matters including custody (hadana). Operates within classical-jurisprudence framework. No PA-construct-specific position."
+    },
+    {
+      "name": "Dar al-Iftaa (دار الإفتاء)",
+      "url": "https://www.dar-alifta.org/",
+      "position_statement": "Egyptian official fatwa-issuing body. Periodic fatwas on family-law matters including custody disputes. Frames classical-jurisprudence position on hadana."
+    },
+    {
+      "name": "Family-court psychological consultants (متخصصو الإرشاد الأسري)",
+      "url": "https://www.moj.gov.eg/",
+      "position_statement": "Family Court consultants under Law 10/2004 mediation framework. No publicly identifiable individual practitioners at directory standard."
+    }
+  ],
+  "anonymisation_convention": "Egyptian family courts treat personal-status proceedings with confidentiality; minor children are not named publicly. Court of Cassation published decisions typically use party initials or generic descriptors. Coptic-community proceedings similarly confidential. Arabic-language judgment-publication conventions distinct from Latin-script jurisdictions.",
+  "key_developments": [
+    {
+      "year": 1929,
+      "description": "Personal Status Law No. 25 of 1929 — foundational substantive Personal Status statute for Muslim families.",
+      "url": "https://manshurat.org/"
+    },
+    {
+      "year": 1938,
+      "description": "Coptic Orthodox Personal Status By-laws — religious-community personal-status framework for Coptic Christian families.",
+      "url": "https://www.constituteproject.org/"
+    },
+    {
+      "year": 1954,
+      "description": "Medical Profession Practice Law No. 415 of 1954 — statutory framework for medical practitioners.",
+      "url": "https://manshurat.org/"
+    },
+    {
+      "year": 1985,
+      "description": "Personal Status Law amendment Law No. 100 of 1985 — substantive modifications to Personal Status framework.",
+      "url": "https://manshurat.org/"
+    },
+    {
+      "year": 1988,
+      "description": "Presidential Decree 54 of 1988 — establishes NCCM as statutory child-rights body.",
+      "url": "https://www.nccm-egypt.org/"
+    },
+    {
+      "year": 1996,
+      "description": "Child Law No. 12 of 1996 — substantive child-welfare statute.",
+      "url": "https://manshurat.org/"
+    },
+    {
+      "year": 2000,
+      "description": "Personal Status Law amendment Law No. 1 of 2000 — introduced khulʿ (judicial divorce on wife's initiative).",
+      "url": "https://manshurat.org/"
+    },
+    {
+      "year": 2004,
+      "description": "Family Courts Law No. 10 of 2004 — establishes specialist Family Courts + Family Dispute Resolution Offices.",
+      "url": "https://manshurat.org/"
+    },
+    {
+      "year": 2008,
+      "description": "Child Law amendment Law No. 126 of 2008 — strengthens protection provisions.",
+      "url": "https://manshurat.org/"
+    },
+    {
+      "year": 2014,
+      "description": "Constitution of Egypt 2014 — art. 80 children's rights paramountcy.",
+      "url": "https://www.constituteproject.org/constitution/Egypt_2014"
+    },
+    {
+      "year": 2016,
+      "description": "NCCM 2016 personal-status-reform position — closest institutional-critique signal in Egyptian PA-adjacent landscape.",
+      "url": "https://www.nccm-egypt.org/"
+    },
+    {
+      "year": 2020,
+      "description": "Combating Domestic Violence Law 6 of 2020 (amendments) — strengthen DV protections.",
+      "url": "https://manshurat.org/"
+    }
+  ],
+  "structural_findings": [
+    "ISLAMIC HADANA CUSTODY FRAMEWORK IS THE STRUCTURALLY DEFINING EGYPTIAN FEATURE: Custody (حضانة / hadana) for Muslim families operates under classical Islamic jurisprudence with age-threshold rules differing materially from common-law welfare standard. PA-adjacent fact-patterns engage hadana analysis rather than welfare-paramountcy reasoning. Distinct from SA/Kenya/Nigeria common-law-leaning structures.",
+    "PARALLEL RELIGIOUS-COMMUNITY PERSONAL-STATUS FRAMEWORKS: Egyptian non-Muslim families (Coptic Christian + Jewish) operate under religious-community personal-status frameworks parallel to Islamic Personal Status. The Coptic 1938 by-laws + Jewish religious courts provide parallel jurisdictional tracks. Triple-track architecture (Islamic Personal Status + Coptic + Jewish) within unified Family Court procedural forum.",
+    "NCCM AS MIDDLE/CRITIQUE-LEANING INSTITUTIONAL ANCHOR: National Council for Childhood and Motherhood (Presidential Decree 54/1988) engaged the 2016 personal-status-reform debate. Closest Egyptian institutional-critique signal in PA-adjacent landscape. Structurally distinct from Project Alert/WACOL Nigeria or FIDA Kenya which are women's-rights-NGO-led — Egypt's critique anchor is state-statutory body.",
+    "FAMILY COURTS LAW 10/2004 PROCEDURAL UNIFICATION: Specialist Family Courts (Law 10/2004) created procedural unification while substantive rules remain religious-community-bifurcated. Family Dispute Resolution Offices require pre-trial mediation — institutional mediation analogue to Singapore CAPS or Hong Kong SWD framework but operating within Personal Status substantive frame.",
+    "EGYPTIAN PSYCHIATRIC ASSOCIATION INSTITUTIONAL SILENCE: EPA institutionally silent on PA — parallels HPCSA SA + CPRB Kenya + NACP Nigeria regional African pattern. Egyptian psychology-regulator silence is the regional pattern's African-Middle-Eastern extension.",
+    "AL-AZHAR + DAR AL-IFTAA RELIGIOUS-AUTHORITY DIMENSION: Sunni Islamic religious authorities (Al-Azhar Council of Senior Scholars + Dar al-Iftaa) issue periodic fatwas on family-law matters including hadana. Religious-authority dimension distinct from professional-regulator dimension; Egyptian PA-adjacent reasoning may engage religious-jurisprudential standards in addition to statutory framework.",
+    "NO NAMED-ON-RECORD PA CLINICAL EXPERT LOCATED: Mirrors regional African pattern. Egyptian institutional landscape is statutory-body-anchored (NCCM) rather than clinical-practitioner-led.",
+    "REGIONAL PATTERN — INSTITUTIONAL/STATE-BODY CRITIQUE-LEANING: Egypt's NCCM differs structurally from sub-Saharan African pattern (women's-rights-NGOs FIDA Kenya / Project Alert NG / WACOL NG / Mosaic SA). Egyptian critique anchor is state-statutory body (NCCM); sub-Saharan critique anchors are civil-society NGOs. Reflects different state-civil-society relationship in North African vs sub-Saharan contexts."
+  ],
+  "references": [
+    "practitioner:eg.nccm",
+    "practitioner:eg.ncw",
+    "jurisdiction:south-africa",
+    "jurisdiction:kenya",
+    "jurisdiction:nigeria"
+  ],
+  "sources": [
+    {
+      "title": "Manshurat — Egyptian legislation database",
+      "url": "https://manshurat.org/",
+      "publisher": "manshurat.org",
+      "language": "ar"
+    },
+    {
+      "title": "Supreme Constitutional Court of Egypt",
+      "url": "https://sccourt.gov.eg/",
+      "publisher": "Supreme Constitutional Court",
+      "language": "ar"
+    },
+    {
+      "title": "Court of Cassation (محكمة النقض)",
+      "url": "https://cc.gov.eg/",
+      "publisher": "Court of Cassation",
+      "language": "ar"
+    },
+    {
+      "title": "Ministry of Justice (وزارة العدل)",
+      "url": "https://www.moj.gov.eg/",
+      "publisher": "Government of Egypt",
+      "language": "ar"
+    },
+    {
+      "title": "National Council for Childhood and Motherhood (NCCM)",
+      "url": "https://www.nccm-egypt.org/",
+      "publisher": "Government of Egypt",
+      "language": "ar"
+    },
+    {
+      "title": "National Council for Women (NCW)",
+      "url": "https://ncw.gov.eg/",
+      "publisher": "Government of Egypt",
+      "language": "ar"
+    },
+    {
+      "title": "Al-Azhar (الأزهر)",
+      "url": "https://www.azhar.eg/",
+      "publisher": "Al-Azhar Al-Sharif",
+      "language": "ar"
+    },
+    {
+      "title": "Dar al-Iftaa (دار الإفتاء)",
+      "url": "https://www.dar-alifta.org/",
+      "publisher": "Egyptian Fatwa Authority",
+      "language": "ar"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: manshurat.org for Egyptian legislation; sccourt.gov.eg + cc.gov.eg for case-law; NCCM + NCW for institutional anchors; Al-Azhar + Dar al-Iftaa for religious-jurisprudential dimension.",
+    "Arabic terminology preserved with transliteration: hadana (حضانة custody); maḥākim al-usra (محاكم الأسرة Family Courts); maktab taswiya al-nizāʿāt al-usariyya (مكتب تسوية النزاعات الأسرية Family Dispute Resolution Office); khulʿ (خلع judicial divorce on wife's initiative).",
+    "Islamic hadana custody framework defining feature preserved in structural_findings[0].",
+    "Triple-track religious-community architecture (Islamic + Coptic + Jewish) preserved in structural_findings[1].",
+    "NCCM as middle/critique-leaning institutional anchor (distinct from sub-Saharan civil-society NGOs) preserved in structural_findings[2] and [7].",
+    "Al-Azhar + Dar al-Iftaa religious-authority dimension distinct from professional-regulator dimension preserved in structural_findings[5]."
+  ]
+}

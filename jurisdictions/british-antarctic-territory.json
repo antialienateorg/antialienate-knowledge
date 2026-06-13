@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "british-antarctic-territory",
+  "name": "British Antarctic Territory (BAT)",
+  "jurisdiction_code": "AQ-BR",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "British Antarctic Territory (BAT) is an Antarctic common-law British Overseas Territory comprising the sector of Antarctica south of 60°S between 20°W and 80°W longitude (the Antarctic Peninsula, South Orkney Islands, South Shetland Islands, and surrounding areas) — structurally distinctive globally as one of seven national Antarctic territorial claims operating under the 1959 Antarctic Treaty's claim-suspension framework (article IV), with overlapping claims by Argentina (Antártida Argentina) and Chile (Territorio Chileno Antártico). BAT was established as a separate British Overseas Territory on 3 March 1962 by the British Antarctic Territory Order, having previously been administered as part of the Falkland Islands Dependencies. BAT has no permanent civilian population — only seasonal British Antarctic Survey research staff at Rothera, Halley, Bird Island, King Edward Point, and Signy research stations. Family-law framework is theoretical given the absence of permanent civilian population, but operates under English law applied via the BAT Order. Parental authority and child custody would in principle operate under English common-law via Children Act 1989. The BAT Magistrate's Court is the apex domestic court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). BAT is silent on 'parental alienation' as a statutory label. BAT is a Hague Convention 1980 party via UK territorial extension — operationally theoretical given absence of civilian population.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "British Antarctic Territory Order 1962",
+      "title": "BAT Order 1962",
+      "year": 1962,
+      "url": "https://www.legislation.gov.uk/",
+      "relevance": "Order in Council of 3 March 1962 establishing BAT as a separate British Overseas Territory from the Falkland Islands Dependencies."
+    },
+    {
+      "citation": "Antarctic Treaty 1959 (article IV claim suspension)",
+      "title": "Antarctic Treaty",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "International treaty providing for Antarctic claim suspension under article IV — BAT claim suspended pending Treaty term."
+    },
+    {
+      "citation": "English Children Act 1989 (applicable in BAT)",
+      "title": "Children Act 1989",
+      "year": 1989,
+      "url": "https://www.legislation.gov.uk/",
+      "relevance": "English Children Act 1989 applicable in BAT for parental responsibility and child custody — theoretical given absence of permanent civilian population."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "BAT Magistrate's Court",
+      "seat": "Stanley, Falkland Islands (administrative seat)",
+      "url": "https://www.gov.uk/government/organisations/british-antarctic-territory",
+      "role": "Apex domestic court for BAT — theoretical given absence of permanent civilian population."
+    },
+    {
+      "name": "UK Privy Council (Judicial Committee)",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from BAT."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UK professional framework (applicable in BAT)",
+      "url": "https://www.hcpc-uk.org/",
+      "role": "UK professional regulatory framework — theoretical given absence of permanent civilian population."
+    }
+  ],
+  "anonymisation_convention": "BAT decisions are anonymised per UK overseas-territory court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1908,
+      "title": "UK Antarctic claim established",
+      "description": "UK Letters Patent of 21 July 1908 establishing the original Falkland Islands Dependencies claim including the BAT sector."
+    },
+    {
+      "year": 1959,
+      "title": "Antarctic Treaty signed",
+      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — BAT claim suspended pending Treaty term."
+    },
+    {
+      "year": 1962,
+      "title": "BAT Order — separate British Overseas Territory",
+      "description": "Order in Council of 3 March 1962 establishing BAT as a separate British Overseas Territory from the Falkland Islands Dependencies."
+    }
+  ],
+  "structural_findings": [
+    "BAT operates a common-law English-law framework — places BAT in the British Overseas Territory cluster.",
+    "Antarctic common-law British Overseas Territory status is structurally distinctive globally — one of three Antarctic common-law claim-jurisdictions (with Australian Antarctic Territory and Ross Dependency).",
+    "Antarctic Treaty article IV claim suspension is structurally distinctive globally — only modern claim-suspension framework affecting state territorial claims.",
+    "Overlapping claims by Argentina (Antártida Argentina) and Chile (Territorio Chileno Antártico) on identical BAT territory is structurally distinctive globally — only state territorial claims where multiple state claims overlap entirely.",
+    "Absence of permanent civilian population renders family-law framework theoretical — structurally distinctive within Hague Convention party cluster."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:falkland-islands",
+    "jurisdiction:south-georgia-and-south-sandwich-islands",
+    "jurisdiction:argentina",
+    "jurisdiction:chile",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "British Antarctic Territory Government",
+      "url": "https://www.gov.uk/government/organisations/british-antarctic-territory",
+      "publisher": "UK Government",
+      "language": "en"
+    },
+    {
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "publisher": "Antarctic Treaty Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "British Antarctic Territory jurisdiction sidecar — common-law Antarctic British Overseas Territory (English law + BAT Order 1962 + Antarctic Treaty 1959 claim suspension + overlapping Argentine and Chilean claims + Hague via UK territorial extension). One of three Antarctic common-law claim-jurisdictions globally + only state territorial claims where multiple state claims overlap entirely.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Antarctic + common-law + British-Overseas-Territory cluster + Antarctic-claim-jurisdiction + Antarctic-Treaty-article-IV-claim-suspension + overlapping-Argentine-Chilean-claims + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

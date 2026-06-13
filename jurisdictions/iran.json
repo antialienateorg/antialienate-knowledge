@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "iran",
+  "name": "Iran (Islamic Republic of Iran / ایران)",
+  "jurisdiction_code": "IR",
+  "legal_system": "religious-law",
+  "language": ["fa"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Iran is a religious-law theocratic republic whose family-law framework operates under the Civil Code (Qanun-e Madani, 1928, as substantially amended) and the Family Protection Law 1391 (2013) — the post-revolutionary modernised family-law statute. Custody (hizanat) and guardianship (walayat) are governed by Civil Code arts. 1168-1180 (Twelver Shia Jaʿfari jurisprudential basis) and the Family Protection Law 2013. The Supreme Court of Iran (Divan-e Aaliye Keshvar) is the apex court for civil and criminal matters; Family Courts (Dadgah-e Khanevadeh) operate as first-instance specialised courts. Psychology profession is regulated under the Psychology and Counseling Organization of Iran (Sazman-e Nezam-e Ravanshenasi va Mosharaverat) established by Law 1379/2003. Iran is silent on 'parental alienation' as a statutory label; courts operate substantively under the maslahat-e tifl (welfare-of-the-child) standard mediated by Twelver Shia jurisprudence. Iran is non-Hague Convention (not party to the 1980 Child Abduction Convention).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Qanun-e Madani (Civil Code) arts. 1168-1180",
+      "title": "Civil Code — Custody and guardianship",
+      "year": 1928,
+      "url": "https://www.dotic.ir/",
+      "relevance": "Federal civil code originally enacted 1928; Book Two Title IX governs custody (hizanat) and guardianship (walayat) on Twelver Shia Jaʿfari jurisprudential basis. Substantially amended over time."
+    },
+    {
+      "citation": "Family Protection Law 1391/2013",
+      "title": "Family Protection Law 2013",
+      "year": 2013,
+      "url": "https://www.dotic.ir/",
+      "relevance": "Post-revolutionary modernised family-law statute. Updates procedural framework for Family Courts; codifies welfare-of-the-child considerations in custody determinations."
+    },
+    {
+      "citation": "Psychology and Counseling Organization Law 1379/2003",
+      "title": "Law Establishing the Psychology and Counseling Organization",
+      "year": 2003,
+      "url": "https://www.pcoiran.ir/",
+      "relevance": "Federal statute establishing the Psychology and Counseling Organization of Iran (Sazman-e Nezam-e Ravanshenasi) as statutory professional-order regulator."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Divan-e Aaliye Keshvar (Supreme Court of Iran)",
+      "seat": "Tehran",
+      "url": "https://www.divan-edalat.ir/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Sazman-e Nezam-e Ravanshenasi va Mosharaverat (Psychology and Counseling Organization of Iran / PCO)",
+      "url": "https://www.pcoiran.ir/",
+      "role": "Statutory professional-order regulator under Law 1379/2003. Operates statutory licensing and disciplinary jurisdiction for psychologists and counsellors."
+    }
+  ],
+  "anonymisation_convention": "Iranian family-law decisions are typically not published; when published in scholarly literature, party identities are obscured per court practice.",
+  "key_developments": [
+    {
+      "year": 1928,
+      "title": "Qanun-e Madani (Civil Code) enacted",
+      "description": "Iran's foundational civil code enacted 1928."
+    },
+    {
+      "year": 1979,
+      "title": "Islamic Revolution",
+      "description": "Establishment of the Islamic Republic; family law re-aligned to Twelver Shia Jaʿfari jurisprudential framework."
+    },
+    {
+      "year": 2003,
+      "title": "Psychology and Counseling Organization Law",
+      "description": "Statutory professional-order regulator established."
+    },
+    {
+      "year": 2013,
+      "title": "Family Protection Law 1391",
+      "description": "Post-revolutionary modernised family-law statute enacted."
+    }
+  ],
+  "structural_findings": [
+    "Iran operates the only major Twelver Shia Jaʿfari religious-law framework within the corpus — distinct from the Sunni-tradition Gulf jurisdictions (Saudi Arabia Hanbali + Qatar Hanbali + UAE mixed-Sunni). Custody provisions reflect Shia jurisprudential framework where mother holds primary hizanat to a specified age before transition to father.",
+    "PCO statutory professional-order regime places Iran among the federal-statutory psychology regulator group within the corpus.",
+    "Non-Hague Convention status — places Iran alongside Saudi Arabia in the non-Hague Gulf cluster. Relevant to cross-border-displacement custody matters."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Center for Information and Communications Technology of the Judiciary",
+      "url": "https://www.divan-edalat.ir/",
+      "publisher": "Judiciary of the Islamic Republic of Iran",
+      "language": "fa,en"
+    },
+    {
+      "title": "Iran Legal Information Center",
+      "url": "https://www.dotic.ir/",
+      "publisher": "Government of Iran",
+      "language": "fa"
+    },
+    {
+      "title": "Psychology and Counseling Organization of Iran (PCO)",
+      "url": "https://www.pcoiran.ir/",
+      "publisher": "PCO",
+      "language": "fa"
+    }
+  ],
+  "editorial_notes": [
+    "Iran jurisdiction sidecar — Twelver Shia Jaʿfari religious-law framework. Civil Code 1928 + Family Protection Law 2013 + PCO statutory professional-order psychology regulator + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Shia primary-cluster + non-Hague Convention + federal-statutory psychology regulator clusters within the corpus."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "id": "greenland",
+  "name": "Greenland (Kalaallit Nunaat / Grønland)",
+  "jurisdiction_code": "GL",
+  "legal_system": "civil-law",
+  "language": ["kl", "da"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Greenland (Kalaallit Nunaat) is a North Atlantic civil-law autonomous territory of the Kingdom of Denmark — structurally distinctive globally as the largest island state with Inuit-majority population operating under the 2009 Self-Government Act (Selvstyreloven) with high autonomy. Family-law framework operates under specially adapted Danish legal-system framework — the Greenlandic Family Law and Children Act (Inatsisartutlov om børn) with Inuit customary-law (Inuit-customary) elements. Greenland has independent legislative competence over family-law matters since the 2009 Self-Government Act. Parental responsibility (forældreansvar) and child custody are governed by Greenlandic Family Law and the Children Act. The High Court of Greenland (Grønlands Landsret) is the apex domestic court for civil and criminal matters; final appellate jurisdiction was retained with the Danish Supreme Court (Højesteret). Family-law matters are heard at first instance in the Court of Greenland (Retten i Grønland) — specialised circuit-court system covering Greenland's geographic dispersion. Psychology profession is regulated through the Greenlandic Healthcare Authority. Greenland is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. Greenland is a Hague Convention 1980 party via Danish territorial extension effective 1 July 1991.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Greenlandic Family Law (Inatsisartutlov om familier)",
+      "title": "Greenlandic Family Law",
+      "year": 2014,
+      "url": "https://www.naalakkersuisut.gl/",
+      "relevance": "Greenlandic Family Law adapted to Greenlandic conditions governing marriage, parental responsibility, and child custody."
+    },
+    {
+      "citation": "Self-Government Act 2009 (Selvstyreloven)",
+      "title": "Self-Government Act",
+      "year": 2009,
+      "url": "https://www.naalakkersuisut.gl/",
+      "relevance": "Federal Self-Government Act establishing Greenland's high autonomy with independent legislative competence over family-law matters."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Greenland (Grønlands Landsret)",
+      "seat": "Nuuk",
+      "url": "https://www.domstol.gl/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Danish Supreme Court (Højesteret)",
+      "seat": "Copenhagen",
+      "url": "https://www.hoejesteret.dk/",
+      "role": "Final appellate court for civil and criminal matters from Greenland."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Greenlandic Healthcare Authority",
+      "url": "https://www.peqqik.gl/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Greenlandic family-court decisions are anonymised per High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1979,
+      "title": "Home Rule established",
+      "description": "Home Rule established within Kingdom of Denmark."
+    },
+    {
+      "year": 1991,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by Denmark to Greenland effective 1 July 1991."
+    },
+    {
+      "year": 2009,
+      "title": "Self-Government Act (Selvstyreloven)",
+      "description": "Federal Self-Government Act establishing Greenland's high autonomy with independent legislative competence over family-law matters."
+    },
+    {
+      "year": 2014,
+      "title": "Greenlandic Family Law",
+      "description": "Greenlandic Family Law adapted to Greenlandic conditions governing marriage, parental responsibility, and child custody."
+    }
+  ],
+  "structural_findings": [
+    "Greenland operates a Danish-derivative civil-law framework with substantial Inuit customary-law adaptation — places Greenland in the Nordic civil-law cluster with structurally distinctive autonomous-territory + Inuit-customary-element framework.",
+    "Largest island state with Inuit-majority population is structurally distinctive globally.",
+    "High autonomy under 2009 Self-Government Act with independent legislative competence over family-law is structurally distinctive within Nordic/European framework.",
+    "Hague Convention 1980 applicability via Danish territorial extension reflects structurally distinctive autonomous-territory Hague jurisdiction status.",
+    "Bilingual official-language framework (Greenlandic + Danish) reflects post-1979 autonomy."
+  ],
+  "references": [
+    "jurisdiction:denmark",
+    "jurisdiction:iceland",
+    "jurisdiction:faroe-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Greenlandic Courts",
+      "url": "https://www.domstol.gl/",
+      "publisher": "Judiciary",
+      "language": "kl,da"
+    },
+    {
+      "title": "Government of Greenland (Naalakkersuisut)",
+      "url": "https://www.naalakkersuisut.gl/",
+      "publisher": "Government of Greenland",
+      "language": "kl,da"
+    },
+    {
+      "title": "Greenlandic Healthcare Authority",
+      "url": "https://www.peqqik.gl/",
+      "publisher": "Healthcare Authority",
+      "language": "kl,da"
+    }
+  ],
+  "editorial_notes": [
+    "Greenland jurisdiction sidecar — civil-law autonomous-territory Nordic (Greenlandic Family Law 2014 + Self-Government Act 2009 + Inuit-customary-element + bilingual + Hague Convention via Danish territorial extension 1991). Largest island state with Inuit-majority population.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Nordic + civil-law + autonomous-territory-with-independent-legislative-competence-over-family-law distinctive cluster + Inuit-customary-element + Hague-via-Danish-territorial-extension clusters within the corpus."
+  ]
+}

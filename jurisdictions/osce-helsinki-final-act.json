@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0",
+  "id": "osce-helsinki-final-act",
+  "name": "OSCE Helsinki Final Act 1975 + OSCE Charter (Organization for Security and Co-operation in Europe)",
+  "jurisdiction_code": "OSC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ru", "de", "it"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The OSCE Helsinki Final Act is a regional supranational meta-framework foundational-OSCE-instrument framework adopted by the Conference on Security and Co-operation in Europe in Helsinki — structurally distinctive globally as the only modern Euro-Atlantic regional supranational framework operating formal Helsinki-Decalogue 10 principles framework + bridging-Cold-War framework via East-West cooperation framework (Helsinki Final Act signed 1 August 1975 in Helsinki Finland by 35 states + CSCE Paris Charter signed 21 November 1990 + Conference on Security and Co-operation in Europe CSCE transformed to Organization for Security and Co-operation in Europe OSCE 1 January 1995 — formal foundational OSCE instrument framework operating non-treaty political-commitments framework establishing 10 Helsinki Decalogue principles framework, distinct from rest-of-modern-regional-treaty frameworks which operate as formal binding-treaty frameworks, structurally distinctive globally as the only modern Euro-Atlantic regional supranational framework operating non-treaty political-commitments framework + only modern Cold-War-bridging regional supranational framework + only modern regional supranational framework spanning Vancouver-to-Vladivostok geographic framework), as the central jurisdiction of the formal Helsinki Decalogue 10 Principles framework (Helsinki Final Act 10 Decalogue principles framework: sovereign equality + refraining from threat or use of force + inviolability of frontiers + territorial integrity + peaceful settlement of disputes + non-intervention in internal affairs + respect for human rights and fundamental freedoms including freedom of thought conscience religion or belief + equal rights and self-determination of peoples + cooperation among states + fulfilment in good faith of obligations under international law — formal foundational Helsinki Decalogue framework, structurally distinctive globally as the only modern regional supranational framework operating formal Helsinki-Decalogue 10 principles framework with formal human-dimension + political-military-dimension + economic-environmental-dimension formal three-baskets framework), as the central jurisdiction of the formal OSCE Office for Democratic Institutions and Human Rights ODIHR framework (OSCE ODIHR established 1990 + based in Warsaw Poland providing formal Euro-Atlantic election-observation + human-rights monitoring framework — formal foundational Euro-Atlantic election-observation framework, structurally distinctive globally as the only modern regional supranational framework operating formal election-observation framework with operational mandate framework via OSCE election-observation missions framework), and as the central jurisdiction of the formal OSCE Russia Suspension 2022-2024 framework (Russia withdrew from OSCE Parliamentary Assembly 2022 + Russia's chairmanship application blocked at 2022 Lodz Ministerial Council + OSCE Russia funding-share dispute 2022-2024 + Russia partial-suspension framework over invasion of Ukraine — formal foundational OSCE Russia-suspension framework, structurally distinctive globally as the only modern regional supranational framework operating formal partial-Russia-suspension framework). The OSCE Helsinki Final Act is operating upon 57 OSCE participating states as of 2026 — comprehensive Vancouver-to-Vladivostok Euro-Atlantic coverage framework (largest regional security organisation globally framework). The Helsinki Final Act is silent on 'parental alienation' as a statutory label, though formal Helsinki Decalogue Principle VII human-rights framework operates substantial intersection with parental-alienation framework via formal cross-border-Euro-Atlantic children's-rights framework + OSCE Human Dimension framework. The OSCE Permanent Council + OSCE Ministerial Council + OSCE Parliamentary Assembly + OSCE Chairmanship + OSCE Secretariat + OSCE ODIHR + OSCE High Commissioner on National Minorities HCNM + OSCE Representative on Freedom of the Media RFOM are the formal OSCE bodies; national-level apex courts operate as judicial bodies. The OSCE Helsinki Final Act is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "OSCE Helsinki Final Act 1975",
+      "title": "Helsinki Final Act",
+      "year": 1975,
+      "url": "https://www.osce.org/",
+      "relevance": "Helsinki Final Act signed 1 August 1975 in Helsinki Finland by 35 states — formal foundational CSCE/OSCE instrument framework operating non-treaty political-commitments framework establishing 10 Helsinki Decalogue principles framework."
+    },
+    {
+      "citation": "OSCE Helsinki Decalogue (10 Principles Framework)",
+      "title": "Helsinki Decalogue",
+      "year": 1975,
+      "url": "https://www.osce.org/",
+      "relevance": "Helsinki Final Act 10 Decalogue principles framework — formal foundational Helsinki Decalogue framework with formal three-baskets framework on human-dimension + political-military-dimension + economic-environmental-dimension."
+    },
+    {
+      "citation": "1990 CSCE Paris Charter (Charter of Paris for a New Europe)",
+      "title": "Paris Charter",
+      "year": 1990,
+      "url": "https://www.osce.org/",
+      "relevance": "Charter of Paris for a New Europe signed 21 November 1990 in Paris by 34 CSCE states — formal foundational post-Cold-War CSCE framework establishing CSCE permanent institutions framework."
+    },
+    {
+      "citation": "1994 CSCE Budapest Summit (CSCE→OSCE transformation)",
+      "title": "Budapest Summit Declaration",
+      "year": 1994,
+      "url": "https://www.osce.org/",
+      "relevance": "CSCE Budapest Summit Declaration adopted 6 December 1994 — formal foundational CSCE-to-OSCE transformation framework effective 1 January 1995."
+    },
+    {
+      "citation": "1999 Istanbul Document (OSCE Charter for European Security)",
+      "title": "Istanbul Document Charter for European Security",
+      "year": 1999,
+      "url": "https://www.osce.org/",
+      "relevance": "Istanbul Document Charter for European Security adopted 19 November 1999 at OSCE Istanbul Summit — formal foundational OSCE European-security framework."
+    },
+    {
+      "citation": "1990 OSCE ODIHR (Office for Democratic Institutions and Human Rights)",
+      "title": "OSCE ODIHR",
+      "year": 1990,
+      "url": "https://www.osce.org/odihr",
+      "relevance": "OSCE Office for Democratic Institutions and Human Rights ODIHR established 1990 + based in Warsaw Poland — formal foundational Euro-Atlantic election-observation + human-rights monitoring framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "OSCE Ministerial Council",
+      "seat": "Vienna",
+      "url": "https://www.osce.org/ministerial-council",
+      "role": "Formal supreme decision-making body for OSCE."
+    },
+    {
+      "name": "OSCE Permanent Council",
+      "seat": "Vienna",
+      "url": "https://www.osce.org/permanent-council",
+      "role": "Formal executive body for OSCE."
+    },
+    {
+      "name": "OSCE Parliamentary Assembly",
+      "seat": "Copenhagen",
+      "url": "https://www.oscepa.org/",
+      "role": "Formal parliamentary body for OSCE."
+    },
+    {
+      "name": "OSCE Office for Democratic Institutions and Human Rights (ODIHR)",
+      "seat": "Warsaw",
+      "url": "https://www.osce.org/odihr",
+      "role": "Formal Euro-Atlantic election-observation + human-rights monitoring framework body."
+    },
+    {
+      "name": "OSCE High Commissioner on National Minorities (HCNM)",
+      "seat": "The Hague",
+      "url": "https://www.osce.org/hcnm",
+      "role": "Formal OSCE national-minorities framework body."
+    },
+    {
+      "name": "OSCE Representative on Freedom of the Media (RFOM)",
+      "seat": "Vienna",
+      "url": "https://www.osce.org/representative-on-freedom-of-media",
+      "role": "Formal OSCE media-freedom framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OSCE Secretariat",
+      "url": "https://www.osce.org/",
+      "role": "OSCE Helsinki Final Act implementation framework."
+    }
+  ],
+  "anonymisation_convention": "OSCE-related communications operate via Permanent Council + Ministerial Council framework + ODIHR election-observation framework; individual communications not formally accepted under OSCE framework.",
+  "key_developments": [
+    {
+      "year": 1973,
+      "title": "CSCE Helsinki Consultations begin",
+      "description": "Conference on Security and Co-operation in Europe CSCE Helsinki Consultations begin 3 July 1973 in Helsinki Finland — formal foundational CSCE negotiation framework."
+    },
+    {
+      "year": 1975,
+      "title": "Helsinki Final Act signed",
+      "description": "Helsinki Final Act signed 1 August 1975 in Helsinki Finland by 35 states — formal foundational CSCE instrument framework operational."
+    },
+    {
+      "year": 1990,
+      "title": "CSCE Paris Charter + ODIHR established",
+      "description": "Charter of Paris for a New Europe signed 21 November 1990 in Paris + OSCE Office for Democratic Institutions and Human Rights ODIHR established 1990 + based in Warsaw — formal foundational post-Cold-War CSCE framework + Euro-Atlantic election-observation framework operational."
+    },
+    {
+      "year": 1992,
+      "title": "OSCE HCNM established",
+      "description": "OSCE High Commissioner on National Minorities HCNM established 1992 + based in The Hague — formal OSCE national-minorities framework operational."
+    },
+    {
+      "year": 1995,
+      "title": "CSCE transforms to OSCE",
+      "description": "Conference on Security and Co-operation in Europe CSCE transformed to Organization for Security and Co-operation in Europe OSCE 1 January 1995 — formal foundational OSCE framework operational."
+    },
+    {
+      "year": 1997,
+      "title": "OSCE RFOM established",
+      "description": "OSCE Representative on Freedom of the Media RFOM established 1997 + based in Vienna — formal OSCE media-freedom framework operational."
+    },
+    {
+      "year": 1999,
+      "title": "Istanbul Charter for European Security",
+      "description": "Istanbul Document Charter for European Security adopted 19 November 1999 at OSCE Istanbul Summit — formal foundational OSCE European-security framework."
+    },
+    {
+      "year": 2014,
+      "title": "OSCE Special Monitoring Mission to Ukraine",
+      "description": "OSCE Special Monitoring Mission to Ukraine SMM established 21 March 2014 — formal foundational OSCE Ukraine monitoring framework."
+    },
+    {
+      "year": 2022,
+      "title": "OSCE Russia partial-suspension framework",
+      "description": "Russia withdrew from OSCE Parliamentary Assembly 2022 + Russia's chairmanship application blocked at 2022 Lodz Ministerial Council + OSCE SMM Ukraine terminated 31 March 2022 — formal OSCE partial-Russia-suspension framework."
+    },
+    {
+      "year": 2025,
+      "title": "OSCE 50th anniversary Helsinki Final Act",
+      "description": "OSCE 50th anniversary of Helsinki Final Act commemorated 1 August 2025 — formal OSCE 50th-anniversary framework."
+    }
+  ],
+  "structural_findings": [
+    "OSCE Helsinki Final Act operates a regional supranational non-treaty political-commitments framework — places OSCE Helsinki Final Act in the regional supranational-meta-framework cluster.",
+    "Only modern Euro-Atlantic regional supranational framework operating formal Helsinki-Decalogue 10 principles framework + bridging-Cold-War framework via East-West cooperation framework is structurally distinctive globally — only modern Euro-Atlantic regional supranational framework operating non-treaty political-commitments framework + only modern Cold-War-bridging regional supranational framework + only modern regional supranational framework spanning Vancouver-to-Vladivostok geographic framework.",
+    "Central jurisdiction of formal Helsinki Decalogue 10 Principles framework is structurally distinctive globally — only modern regional supranational framework operating formal Helsinki-Decalogue 10 principles framework with formal three-baskets framework.",
+    "Central jurisdiction of formal OSCE ODIHR framework is structurally distinctive globally — only modern regional supranational framework operating formal election-observation framework with operational mandate framework via OSCE election-observation missions framework.",
+    "Central jurisdiction of formal OSCE Russia Suspension 2022-2024 framework is structurally distinctive globally — only modern regional supranational framework operating formal partial-Russia-suspension framework.",
+    "57 OSCE participating state framework spanning Vancouver-to-Vladivostok is structurally distinctive globally — comprehensive Euro-Atlantic coverage framework + largest regional security organisation globally framework.",
+    "1973 Helsinki Consultations + 1975 Helsinki Final Act + 1990 Paris Charter + ODIHR + 1992 HCNM + 1994 Budapest Summit + 1995 CSCE→OSCE + 1997 RFOM + 1999 Istanbul Charter + 2014 SMM Ukraine + 2022 Russia partial-suspension + 2025 50th anniversary OSCE-framework-development sequence is structurally distinctive globally.",
+    "Helsinki Final Act + Helsinki Decalogue + Paris Charter + Istanbul Charter + ODIHR + HCNM + RFOM formal septet framework with formal cross-border-Euro-Atlantic children's-rights + OSCE Human Dimension PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:echr-council-of-europe",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "OSCE",
+      "url": "https://www.osce.org/",
+      "publisher": "Organization for Security and Co-operation in Europe",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "OSCE Helsinki Final Act jurisdiction sidecar — regional supranational Euro-Atlantic Vancouver-to-Vladivostok non-treaty political-commitments meta-framework (Helsinki Final Act 1975 + Helsinki Decalogue 10 Principles + 1990 Paris Charter + 1994 Budapest Summit CSCE→OSCE + 1999 Istanbul Charter + ODIHR 1990 + HCNM 1992 + RFOM 1997 + 2014 SMM Ukraine + 2022 Russia partial-suspension + 2025 50th anniversary). Only modern Euro-Atlantic regional supranational framework operating formal Helsinki-Decalogue 10 principles framework + bridging-Cold-War framework + only modern Euro-Atlantic regional supranational framework operating non-treaty political-commitments framework + only modern regional supranational framework spanning Vancouver-to-Vladivostok geographic framework + central jurisdiction of formal Helsinki Decalogue 10 Principles framework with formal three-baskets framework + central jurisdiction of formal OSCE ODIHR election-observation framework + 57 OSCE participating states + largest regional security organisation globally + 1973 Helsinki Consultations + 1975 Helsinki Final Act + 1990 Paris Charter + ODIHR + 1992 HCNM + 1994 Budapest Summit + 1995 CSCE→OSCE + 1997 RFOM + 1999 Istanbul Charter + 2014 SMM Ukraine + 2022 Russia partial-suspension + 2025 50th anniversary OSCE-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Helsinki Decalogue Principle VII human-rights framework + OSCE Human Dimension framework operate substantial intersection with parental-alienation framework via formal cross-border-Euro-Atlantic children's-rights framework.",
+    "Joins regional + supranational + Euro-Atlantic-Vancouver-to-Vladivostok-non-treaty-political-commitments cluster + OSCE-Helsinki-Final-Act-only-modern-Euro-Atlantic-regional-supranational-Helsinki-Decalogue-globally-distinctive + Helsinki-Decalogue-10-Principles + three-baskets-human-political-military-economic-environmental + ODIHR-Warsaw-election-observation + HCNM-Hague-national-minorities + RFOM-Vienna-media-freedom + 57-OSCE-participating-states + largest-regional-security-organisation-globally + 1973-Helsinki-Consultations + 1975-Helsinki-Final-Act + 1990-Paris-Charter + 1994-Budapest-Summit-CSCE-to-OSCE + 1999-Istanbul-Charter + 2014-SMM-Ukraine + 2022-Russia-partial-suspension + 2025-50th-anniversary + Euro-Atlantic-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "id": "corsica",
+  "name": "Corsica (Corse / Corsica)",
+  "jurisdiction_code": "FR-COR",
+  "legal_system": "civil-law",
+  "language": ["fr", "co"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Corsica (Corse in French / Corsica in Corsican) is a Mediterranean civil-law sui generis collectivité territoriale of the French Republic — structurally distinctive globally as the only French sui generis territorial collectivity (Collectivité de Corse / Collectività di Corsica) operating outside both the standard French DROM/COM frameworks and the standard French metropolitan region framework, established by the merger of Haute-Corse and Corse-du-Sud departments and the former Collectivité Territoriale de Corse into a single Collectivité de Corse on 1 January 2018 via the Loi NOTRe 2015 and Ordonnance 2016-1561, and as the only metropolitan French territory with a distinctive arrêtés Miot 1801 fiscal-succession framework (preserving the historical Genoese Statutes of 1571 framework, abolished only in 2018 by Loi 2017-285 — most recent abolition of a 19th-century special fiscal framework in metropolitan France). Corsica has a distinct Statut of 2002 (Statut de la Collectivité de Corse, Loi 2002-92) granting limited legislative-experimentation powers under Article 72 of the French Constitution. The Corsican National Liberation Front (FLNC) armed independence-movement framework operated from 1976-2014; FLNC dissolved 25 June 2014. Family-law framework operates under the French Civil Code (Code civil 1804) applied as in metropolitan France via Bastia/Ajaccio judicial framework. Parental authority (autorité parentale) and child custody operate under Civil Code Articles 371-387. The Court of Appeal of Bastia is the apex domestic appellate court for civil and criminal matters from Corsica; final appellate jurisdiction lies with the French Court of Cassation in Paris. Corsica is silent on 'parental alienation' as a statutory label. France is a Hague Convention 1980 party (acceded 1 December 1983) — Corsica Hague applicability via French metropolitan extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Loi NOTRe 2015 + Ordonnance 2016-1561 (Collectivité de Corse establishment)",
+      "title": "Collectivité de Corse establishment 2018",
+      "year": 2018,
+      "url": "https://www.legifrance.gouv.fr/",
+      "relevance": "French Federal Law and Ordonnance establishing Collectivité de Corse effective 1 January 2018 via merger of Haute-Corse and Corse-du-Sud departments and former Collectivité Territoriale de Corse."
+    },
+    {
+      "citation": "Statut de la Collectivité de Corse 2002 (Loi 2002-92)",
+      "title": "Corsica Statut 2002",
+      "year": 2002,
+      "url": "https://www.legifrance.gouv.fr/",
+      "relevance": "French Federal Law of 22 January 2002 establishing Corsica's distinctive Statut granting limited legislative-experimentation powers under Article 72 of the French Constitution."
+    },
+    {
+      "citation": "Loi 2017-285 (2018 abolition of arrêtés Miot)",
+      "title": "Loi 2017-285",
+      "year": 2017,
+      "url": "https://www.legifrance.gouv.fr/",
+      "relevance": "French Law of 6 March 2017 abolishing the arrêtés Miot fiscal-succession framework (preserved from Genoese Statutes 1571) effective 2018 — most recent abolition of a 19th-century special fiscal framework in metropolitan France."
+    },
+    {
+      "citation": "French Civil Code arts. 371-387 (applicable in Corsica)",
+      "title": "French Civil Code — Parental authority",
+      "year": 1804,
+      "url": "https://www.legifrance.gouv.fr/",
+      "relevance": "French Civil Code applied directly in Corsica as in metropolitan France. Arts. 371-387 govern autorité parentale and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Bastia (Cour d'appel de Bastia)",
+      "seat": "Bastia",
+      "url": "https://www.cour-appel-bastia.justice.fr/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Corsica."
+    },
+    {
+      "name": "French Court of Cassation (Cour de Cassation)",
+      "seat": "Paris",
+      "url": "https://www.cour-de-cassation.fr/",
+      "role": "Final appellate court for civil and criminal matters from Corsica."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "French Republic professional framework (applicable in Corsica)",
+      "url": "https://www.sante.gouv.fr/",
+      "role": "French professional regulatory framework for health and allied health professionals including clinical psychology applicable in Corsica."
+    }
+  ],
+  "anonymisation_convention": "Corsican family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1768,
+      "title": "Treaty of Versailles + French annexation",
+      "description": "Treaty of Versailles of 15 May 1768 transferring Corsica from Republic of Genoa to France — formal French annexation following 1729-1768 Corsican Revolution."
+    },
+    {
+      "year": 1801,
+      "title": "Arrêtés Miot fiscal-succession framework",
+      "description": "Arrêtés Miot of 21 prairial an IX (10 June 1801) by André-François Miot establishing distinctive Corsican fiscal-succession framework preserving Genoese Statutes of 1571 — abolished only 2018 by Loi 2017-285."
+    },
+    {
+      "year": 1976,
+      "title": "FLNC formation",
+      "description": "Corsican National Liberation Front (Fronte di Liberazione Naziunale Corsu / FLNC) formed 4-5 May 1976 — beginning of Corsican armed independence-movement framework."
+    },
+    {
+      "year": 1982,
+      "title": "Statut Joxe Defferre — first Statut",
+      "description": "Loi 82-214 of 2 March 1982 establishing first Corsican Statut granting limited administrative autonomy."
+    },
+    {
+      "year": 2002,
+      "title": "Statut de la Collectivité de Corse",
+      "description": "Loi 2002-92 of 22 January 2002 establishing Corsica's distinctive Statut granting limited legislative-experimentation powers under Article 72 of the French Constitution."
+    },
+    {
+      "year": 2014,
+      "title": "FLNC dissolution",
+      "description": "FLNC announced unilateral and definitive end to armed action on 25 June 2014 — ending 38-year armed independence-movement framework."
+    },
+    {
+      "year": 2018,
+      "title": "Collectivité de Corse + arrêtés Miot abolition",
+      "description": "Collectivité de Corse effective 1 January 2018 via merger of Haute-Corse and Corse-du-Sud departments and former Collectivité Territoriale de Corse + arrêtés Miot fiscal-succession framework abolition 2018 via Loi 2017-285."
+    }
+  ],
+  "structural_findings": [
+    "Corsica operates a French-civil-law framework applied as in metropolitan France — places Corsica in the French metropolitan civil-law cluster with sui generis administrative framework.",
+    "Only French sui generis territorial collectivity operating outside both DROM/COM and standard metropolitan region frameworks is structurally distinctive globally.",
+    "Collectivité de Corse 2018 merger establishment is structurally distinctive within French administrative cluster.",
+    "Statut de la Collectivité de Corse 2002 limited legislative-experimentation powers under Article 72 is structurally distinctive — only French metropolitan territory with such legislative-experimentation framework.",
+    "Arrêtés Miot 1801 fiscal-succession framework (preserved from Genoese Statutes 1571) abolished only 2018 is structurally distinctive globally — most recent abolition of a 19th-century special fiscal framework in metropolitan France, ~217-year preservation period.",
+    "FLNC 1976-2014 armed independence-movement framework is structurally distinctive globally — only major contemporary metropolitan-European armed independence movement subject to formal unilateral dissolution.",
+    "French Hague Convention 1980 accession 1983 + Corsican civil-law framework intersection is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:france",
+    "jurisdiction:italy",
+    "jurisdiction:catalonia",
+    "jurisdiction:basque-country",
+    "jurisdiction:scotland",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Court of Appeal of Bastia",
+      "url": "https://www.cour-appel-bastia.justice.fr/",
+      "publisher": "Court of Appeal",
+      "language": "fr"
+    },
+    {
+      "title": "Légifrance",
+      "url": "https://www.legifrance.gouv.fr/",
+      "publisher": "French Government",
+      "language": "fr"
+    },
+    {
+      "title": "Collectivité de Corse",
+      "url": "https://www.isula.corsica/",
+      "publisher": "Collectivité de Corse",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "Corsica jurisdiction sidecar — civil-law Mediterranean French sui generis Collectivité de Corse (French Civil Code + Statut de la Collectivité de Corse 2002 + Collectivité de Corse establishment 2018 + arrêtés Miot 1801 fiscal-succession framework abolished 2018 + FLNC 1976-2014 armed independence-movement + Article 72 legislative-experimentation powers + French Hague Convention 1980 accession 1983). Only French sui generis territorial collectivity outside DROM/COM and standard metropolitan region frameworks globally + only French metropolitan territory with Article 72 legislative-experimentation framework + most recent abolition of 19th-century special fiscal framework in metropolitan France (~217-year arrêtés Miot preservation) + only major contemporary metropolitan-European armed independence movement subject to formal unilateral dissolution.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Mediterranean + civil-law + French-sui-generis-collectivity cluster + outside-DROM-COM-and-metropolitan-region-frameworks-globally-distinctive + Statut-de-la-Collectivité-de-Corse-2002-legislative-experimentation + arrêtés-Miot-1801-fiscal-succession-217-year-preservation + FLNC-1976-2014-armed-independence-movement-formal-dissolution + Treaty-of-Versailles-1768-Genoese-to-French-transfer clusters within the corpus."
+  ]
+}

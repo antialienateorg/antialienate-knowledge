@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "id": "dadra-nagar-haveli-daman-diu",
+  "name": "Dadra and Nagar Haveli and Daman and Diu (दादरा और नगर हवेली और दमन और दीव)",
+  "jurisdiction_code": "IN-DD",
+  "legal_system": "mixed",
+  "language": ["en", "hi", "gu", "pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Dadra and Nagar Haveli and Daman and Diu (दादरा और नगर हवेली और दमन और दीव in Hindi) is a Western Indian mixed common-law/Portuguese-civil-law-remnant Indian Union Territory comprising the merged Dadra and Nagar Haveli (interior tribal-area enclave bordering Maharashtra and Gujarat) + Daman (coastal town bordering Gujarat) + Diu (small coastal island bordering Gujarat) — structurally distinctive globally as the only Indian Union Territory formed via the formal merger of two previously distinct Indian Union Territories (Dadra and Nagar Haveli + Daman and Diu merged into single Union Territory effective 26 January 2020 under the Dadra and Nagar Haveli and Daman and Diu (Merger of Union Territories) Act 2019), as the only Indian Union Territory operating Portuguese civil-law remnant framework (Portuguese Codigo Civil 1867 framework applicable to Goa-Dadra-Daman-Diu Portuguese India 1510-1961 — preserved post-Operation Vijay 1961 annexation by India under the Goa, Daman and Diu Administration Act 1962 and Indian Government framework), as the central jurisdiction of three distinct Portuguese India enclaves with three different annexation histories (Dadra and Nagar Haveli: nationalist takeover 1954 + integration 1961; Daman and Diu: Operation Vijay 1961 India-Portugal armed action), and as the only Indian Union Territory with all-Portuguese-India 1510-1961 colonial framework (distinct from Puducherry's French India framework 1674-1962). The Union Territory comprises ~603 km² with a population of ~590,000. Family-law framework operates under a dual federal Indian common-law + Portuguese civil-law-remnant framework with Codigo Civil 1867 applicability via Indian post-1961 legal-succession framework. The Bombay High Court (Goa/Daman/Diu Permanent Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. The Union Territory is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Dadra and Nagar Haveli and Daman and Diu is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Dadra and Nagar Haveli and Daman and Diu (Merger of Union Territories) Act 2019",
+      "title": "DNH-DD Merger Act 2019",
+      "year": 2020,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 2019 effective 26 January 2020 merging Dadra and Nagar Haveli + Daman and Diu into single Union Territory — only Indian Union Territory formed via formal merger of two previously distinct Union Territories."
+    },
+    {
+      "citation": "Goa, Daman and Diu Administration Act 1962",
+      "title": "Goa, Daman and Diu Administration Act",
+      "year": 1962,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1962 preserving Portuguese civil-law remnant framework via Codigo Civil 1867 applicability."
+    },
+    {
+      "citation": "Portuguese Codigo Civil 1867 (preserved post-1961 in Daman/Diu/DNH)",
+      "title": "Portuguese Codigo Civil 1867",
+      "year": 1867,
+      "url": "",
+      "relevance": "Portuguese Civil Code 1867 — preserved post-Operation Vijay 1961 annexation by India under Goa, Daman and Diu Administration Act 1962."
+    },
+    {
+      "citation": "Constitution (Tenth Amendment) Act 1961 + Dadra-Nagar Haveli integration",
+      "title": "Constitution 10th Amendment Act + DNH integration",
+      "year": 1961,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Amendment Act of 1961 integrating Dadra and Nagar Haveli into India following 1954 nationalist takeover."
+    },
+    {
+      "citation": "Constitution (Twelfth Amendment) Act 1962 + Goa-Daman-Diu integration",
+      "title": "Constitution 12th Amendment Act + Goa-Daman-Diu integration",
+      "year": 1962,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Amendment Act of 1962 integrating Goa, Daman and Diu into India following Operation Vijay 1961."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Bombay High Court (Goa/Daman/Diu Permanent Bench)",
+      "seat": "Panaji, Goa (with jurisdiction over Daman, Diu, DNH)",
+      "url": "https://bombayhighcourt.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Dadra and Nagar Haveli and Daman and Diu."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Dadra and Nagar Haveli and Daman and Diu."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Dadra and Nagar Haveli and Daman and Diu."
+    }
+  ],
+  "anonymisation_convention": "Dadra and Nagar Haveli and Daman and Diu family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1510,
+      "title": "Portuguese conquest of Goa",
+      "description": "Portuguese conquest of Goa 1510 — beginning of Portuguese India framework that included Daman (1559), Diu (1535), Dadra (1779), and Nagar Haveli (1783)."
+    },
+    {
+      "year": 1954,
+      "title": "Dadra and Nagar Haveli nationalist takeover",
+      "description": "Indian nationalist takeover of Dadra and Nagar Haveli on 2 August 1954 — establishment of Varishtha Panchayat self-government framework."
+    },
+    {
+      "year": 1961,
+      "title": "Operation Vijay + Goa/Daman/Diu annexation",
+      "description": "Operation Vijay 17-19 December 1961 — Indian armed action annexing Portuguese India enclaves including Goa, Daman, Diu."
+    },
+    {
+      "year": 1961,
+      "title": "Constitution 10th Amendment + DNH integration",
+      "description": "Indian Constitutional Amendment Act of 1961 integrating Dadra and Nagar Haveli into India."
+    },
+    {
+      "year": 1962,
+      "title": "Constitution 12th Amendment + Goa-Daman-Diu integration + Administration Act",
+      "description": "Indian Constitutional Amendment Act of 1962 + Goa, Daman and Diu Administration Act 1962 preserving Portuguese civil-law remnant framework."
+    },
+    {
+      "year": 1987,
+      "title": "Goa becomes state + Daman/Diu remain UT",
+      "description": "Goa formed as 25th state on 30 May 1987 — Daman and Diu continued as separate Union Territory."
+    },
+    {
+      "year": 2020,
+      "title": "DNH and DD Merger effective",
+      "description": "Dadra and Nagar Haveli + Daman and Diu merged into single Union Territory effective 26 January 2020 — only Indian Union Territory formed via formal merger of two previously distinct Union Territories."
+    }
+  ],
+  "structural_findings": [
+    "Dadra and Nagar Haveli and Daman and Diu operate a mixed federal Indian common-law + Portuguese civil-law-remnant Union Territory framework — places the merged UT in the Western Indian-Union-Territory cluster.",
+    "Only Indian Union Territory formed via formal merger of two previously distinct Indian Union Territories is structurally distinctive globally — 2020 DNH-DD Merger.",
+    "Only Indian Union Territory operating Portuguese civil-law remnant framework is structurally distinctive globally — Codigo Civil 1867 + post-1961 Indian preservation framework.",
+    "Central jurisdiction of three distinct Portuguese India enclaves with three different annexation histories is structurally distinctive globally — DNH 1954 nationalist takeover + 1961 integration; Daman/Diu Operation Vijay 1961.",
+    "Only Indian Union Territory with all-Portuguese-India 1510-1961 colonial framework is structurally distinctive within Indian Union Territory cluster — distinct from Puducherry's French India framework 1674-1962.",
+    "Three-enclave non-contiguous administrative framework (DNH inland + Daman coastal + Diu island) is structurally distinctive within Indian Union Territory cluster.",
+    "Operation Vijay 1961 Indian armed action is structurally distinctive globally — only modern post-WWII Indian armed action to annex foreign colonial territory.",
+    "Indian non-Hague-Convention-1980-ratification status applies — Portuguese civil-law-remnant framework intersection with Portuguese Hague Convention 1980 accession 1983 is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:portugal",
+    "jurisdiction:madeira",
+    "jurisdiction:azores",
+    "jurisdiction:cabo-verde",
+    "jurisdiction:puducherry",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Administration of Dadra and Nagar Haveli and Daman and Diu",
+      "url": "https://www.ddd.gov.in/",
+      "publisher": "DNH-DD Administration",
+      "language": "en"
+    },
+    {
+      "title": "Bombay High Court",
+      "url": "https://bombayhighcourt.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Dadra and Nagar Haveli and Daman and Diu jurisdiction sidecar — mixed federal Indian common-law/Portuguese civil-law-remnant Western Indian merged Union Territory (Dadra and Nagar Haveli and Daman and Diu (Merger of Union Territories) Act 2019 + Goa, Daman and Diu Administration Act 1962 + Portuguese Codigo Civil 1867 + Constitution 10th Amendment 1961 DNH + Constitution 12th Amendment 1962 Goa-Daman-Diu + Operation Vijay 1961 + three-enclave non-contiguous administrative framework + Indian non-Hague-1980). Only Indian Union Territory formed via formal merger of two previously distinct Indian Union Territories globally + only Indian Union Territory operating Portuguese civil-law remnant framework + central jurisdiction of three distinct Portuguese India enclaves with three different annexation histories + only Indian Union Territory with all-Portuguese-India 1510-1961 colonial framework + only modern post-WWII Indian armed action to annex foreign colonial territory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western-Indian + mixed Indian-common-law/Portuguese-civil-law-remnant + Indian-Union-Territory cluster + only-Indian-Union-Territory-formed-via-formal-merger-globally-distinctive + Portuguese-civil-law-remnant-Codigo-Civil-1867 + three-enclave-DNH-Daman-Diu + Operation-Vijay-1961-armed-action + 1954-DNH-nationalist-takeover + Portuguese-India-1510-1961-framework + Goa-Daman-Diu-Administration-Act-1962 + Indian-non-Hague-1980-Portuguese-Hague-1983-intersection clusters within the corpus."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "slug": "olg-frankfurt-7-uf-88-25-germany-2026",
+  "caption": "OLG Frankfurt am Main, 7 UF 88/25 (Beschluss vom 5.1.2026)",
+  "jurisdiction_code": "DE",
+  "decision_date": "2026-01-05",
+  "court": "Oberlandesgericht Frankfurt am Main (7. Familiensenat, sitting in Kassel)",
+  "panel": "Composition not stated in Pressemitteilung",
+  "judges": [],
+  "parties": {
+    "applicant": "mother (Beschwerdeführerin — inferred from outcome shape; not stated in PM)",
+    "respondent": "father (Beschwerdegegner — inferred)",
+    "children": [
+      {"anonym": "Kind 1", "year_of_birth": 2014, "sex": "male", "notes": "Consistently refused father contact; aged ca. 11 at decision"},
+      {"anonym": "Kind 2", "year_of_birth": 2020, "sex": "female", "notes": "Maintained regular father contact; aged ca. 5 at decision — sibling differentiation was determinative"}
+    ]
+  },
+  "counsel": [],
+  "experts": [
+    {"name": "Sachverständige A", "field": "family-court forensic Sachverständige (Gutachter)", "instructed_by": "Amtsgericht below", "practitioner_ref": ""}
+  ],
+  "procedural_history": "Sorge-und-Umgangs-Verfahren before an unnamed Familiengericht (Amtsgericht) within the OLG Frankfurt district. The AG-instructed Sachverständige recommended residence-transfer of both children to the father on PAS / bindungsfeindliche-Beeinflussung grounds, with a reduced finding on the mother's Erziehungsfähigkeit. Beschwerde to the OLG Frankfurt am Main, 7. Familiensenat (which sits in Kassel). The Beschwerdeführer is not stated in the Pressemitteilung; the outcome shape (alleinige elterliche Sorge / Aufenthaltsbestimmungsrecht to the mother) is consistent with the mother having appealed. The OLG decided 5.1.2026; nicht anfechtbar.",
+  "summary": "The Familiensenat of the OLG Frankfurt am Main operationalised BVerfG 1 BvR 1076/23 at OLG level by setting Sachverständigen-Mindestanforderungen for parental-alienation-framed family proceedings. A PAS-based Gutachten was held nicht tragfähig and its central reasoning a Zirkelschluss that is methodisch untauglich. The AG's residence-transfer order was replaced with alleinige elterliche Sorge to the mother; nicht anfechtbar. The decision marks the conversion of the BVerfG's constitutional holding into operational OLG-level guidance.",
+  "holding": "A Sachverständigengutachten whose central reasoning rests on PAS or Eltern-Kind-Entfremdung as a construct is nicht tragfähig as a basis for residence- or contact-altering family-court orders. A child's refusal of contact with one parent cannot be inferred pauschal to be manipulation by the other parent; multi-factorial causal analysis is required. Sibling differentiation must be preserved. Repeated-appointment evaluators must meet the BRAK/DFGT *Mindestanforderungen* 3. Aufl. 2025 standard (Approbation, forensic Fachkunde, Methodentransparenz) in addition to the BVerfG-derived prohibition on PAS as construct.",
+  "verbatim_quotes": [
+    {
+      "paragraph": "Leitsatz",
+      "language": "de",
+      "text": "Verweigert ein Kind den Umgang mit einem Elternteil, kann das nicht pauschal darauf zurückgeführt werden, dass der Elternteil, bei dem das Kind wohnt, das Kind manipuliert.",
+      "translation_en": "If a child refuses contact with one parent, that cannot be inferred wholesale to be manipulation by the parent with whom the child resides.",
+      "source_url": "https://www.olg-frankfurt.justiz.hessen.de/presse/pressemitteilungen"
+    },
+    {
+      "paragraph": "Pressemitteilung 03/2026",
+      "language": "de",
+      "text": "Ein auf das Konzept des sogenannten Parental Alienation Syndrom (PAS) gestütztes Gutachten ist als Grundlage einer kindeswohlorientierten Entscheidung nicht tragfähig; der dem PAS-Konstrukt zugrunde liegende Zirkelschluss ist methodisch untauglich.",
+      "translation_en": "A Gutachten based on the so-called Parental Alienation Syndrome (PAS) construct is not a sound basis for a child-welfare-oriented decision; the circular reasoning underlying the PAS construct is methodologically unsuitable.",
+      "source_url": "https://www.olg-frankfurt.justiz.hessen.de/presse/pressemitteilungen"
+    }
+  ],
+  "outcome": "AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche Sorge einschließlich Aufenthaltsbestimmungsrecht auf die Mutter übertragen; Beschluss nicht anfechtbar.",
+  "comparative_jurisprudence": [
+    {"caption": "BVerfG 17.11.2023 – 1 BvR 1076/23", "jurisdiction_code": "DE", "case_study_ref": "bverfg-1-bvr-1076-23-germany-2023", "relevance": "The constitutional ruling that this OLG decision operationalises."},
+    {"caption": "Re Y [2026] EWFC 38", "jurisdiction_code": "UK-EWS", "relevance": "Companion English EWFC decision (McFarlane P set aside unregulated PA-evaluator's findings) — parallel critique of evaluator quality in a same-year window."},
+    {"caption": "Family Law Amendment Act 2023 (Cth) Sch 2", "jurisdiction_code": "AU", "relevance": "Australian Court Children's Reports reform — parallel statutory tightening of expert-evidence standards in family proceedings."},
+    {"caption": "CFP Nota Técnica nº 4/2022", "jurisdiction_code": "BR", "relevance": "Brazilian Conselho Federal de Psicologia forensic-evaluator standards on PA — institutional counterpart to the OLG's evaluator-conduct holding."}
+  ],
+  "subsequent_reception": [
+    {"venue": "DAV FamR", "year": 2026, "citation": "DAV FamR 3/26", "summary": "Deutscher Anwaltverein FamR lead editorial summary."},
+    {"venue": "ISUV", "year": 2026, "citation": "Case note dated 5.1.2026", "summary": "Interessenverband Unterhalt und Familienrecht — practitioner-press case note."},
+    {"venue": "Anwalt Heinzel", "year": 2026, "citation": "Leitsatz-blog post", "summary": "Practitioner-blog with verbatim Leitsatz extraction."}
+  ],
+  "references": [
+    "case-study:bverfg-1-bvr-1076-23-germany-2023",
+    "jurisdiction:germany",
+    "evidence:alienating-tactics-as-child-abuse"
+  ],
+  "sources": [
+    {"title": "Pressemitteilung Nr. 03/2026 — Beeinflussung des Kindes durch Elternteil (OLG Frankfurt am Main, 14.01.2026)", "url": "https://www.olg-frankfurt.justiz.hessen.de/presse/pressemitteilungen", "publisher": "Hessisches Justizministerium / OLG Frankfurt am Main", "language": "de", "accessed": "2026-05-30", "type": "court-press-release"},
+    {"title": "Mindestanforderungen an die Qualität von Sachverständigengutachten im Kindschaftsrecht, 3. Aufl. 2025", "url": "https://www.brak.de/", "publisher": "Bundesrechtsanwaltskammer (BRAK) / Deutscher Familiengerichtstag (DFGT)", "language": "de", "accessed": "2026-05-30", "type": "official-database"},
+    {"title": "BVerfG 17.11.2023 – 1 BvR 1076/23 (foundational constitutional ruling applied here)", "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html", "publisher": "Bundesverfassungsgericht", "language": "de", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "DAV FamR 3/26 — Lead editorial on OLG Frankfurt 7 UF 88/25", "url": "https://anwaltverein.de/de/zeitschriften/famr", "publisher": "Deutscher Anwaltverein", "language": "de", "accessed": "2026-05-30", "type": "journal-article"},
+    {"title": "FamRZ Redaktionsmeldung 30.10.2025 — Vorab-Notiz auf BRAK/DFGT 3. Aufl. 2025", "url": "https://www.famrz.de/", "publisher": "FamRZ", "language": "de", "accessed": "2026-05-30", "type": "journal-article"}
+  ],
+  "editorial_notes": [
+    "Full Volltext not yet available in public databases (juris paywalled; rewis and openJur publication typically delayed several months for OLG-level Beschlüsse). Reconstruction relies on the OLG Pressemitteilung Nr. 03/2026 plus secondary practitioner press; every reconstructed point is tagged inline with [Pressemitteilung] or [DAV FamR 3/26] in the rendered article.",
+    "ECLI not yet assigned at time of writing.",
+    "Identity of the originating Amtsgericht not stated in the Pressemitteilung.",
+    "Beschwerdeführer not explicitly stated; mother inferred from outcome shape.",
+    "Senate composition (Vorsitzende:r / Berichterstatter) not in the Pressemitteilung.",
+    "Name of the Sachverständige not stated; preserved as Sachverständige A per the Court's anonymisation.",
+    "Counsel for both parties not named in the Pressemitteilung.",
+    "Explicit cross-reference to BVerfG Rn. 34 in the Beschluss text cannot be confirmed without the Volltext; the cite is reconstructed from PM language echoing the BVerfG holding.",
+    "No NJW / NZFam / FamRZ Anmerkung located at time of writing (early Jan 2026 decision).",
+    "Any Folgeentscheidungen (other OLGe applying it) and any BPtK / DFGT statement applying the Mindestanforderungen are flagged as forward-looking research."
+  ],
+  "word_count": 3275,
+  "author": "Alan Markson",
+  "license": "CC-BY-4.0"
+}

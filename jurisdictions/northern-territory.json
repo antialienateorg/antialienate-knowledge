@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "id": "northern-territory",
+  "name": "Northern Territory (NT / Northern Territory of Australia)",
+  "jurisdiction_code": "AU-NT",
+  "legal_system": "common-law",
+  "language": ["en", "kky"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Northern Territory (NT / Northern Territory of Australia) is a Northern Australian common-law constituent self-governing territory of the Commonwealth of Australia — structurally distinctive globally as the first modern jurisdiction worldwide to formally legalise voluntary euthanasia via primary legislation (Rights of the Terminally Ill Act 1995 (NT) effective 1 July 1996 — first formal voluntary-euthanasia legislation worldwide, applied to 4 cases prior to Commonwealth Euthanasia Laws Act 1997 override that nullified NT legislation 25 March 1997, establishing template framework for subsequent global voluntary-euthanasia legislation including Oregon Death with Dignity Act 1997 + Netherlands Termination of Life on Request Act 2002 + Belgium 2002 + Luxembourg 2009 + Colombia 2015 + Canada 2016 + Australia state-by-state 2017-2023 + New Zealand 2020 + Spain 2021 + Austria 2022 + Portugal 2023 + Ecuador 2024), as the only Australian sub-national jurisdiction with Aboriginal-majority demographic framework (~33% Aboriginal + ~62% non-Aboriginal — distinct from rest-of-Australian-states + territories which operate non-Aboriginal-majority frameworks), as the central jurisdiction of one of the most distinctive modern Australian Commonwealth-state-level interventions (Northern Territory Intervention 'Closing the Gap' framework 2007-2022 — Howard Government Commonwealth response to Little Children are Sacred Report 15 June 2007 + formal suspension of Racial Discrimination Act 1975 (Cth) provisions over 73 Aboriginal communities + ~$680 million Commonwealth direct-administration framework, gradually replaced by 2022 Aboriginal-Self-Determination framework), and as one of the only modern Australian sub-national jurisdictions formally operating under limited self-government framework (Northern Territory (Self-Government) Act 1978 (Cth) effective 1 July 1978 — limited self-government framework with Commonwealth retained powers over Aboriginal Affairs + Uranium Mining + National Parks, distinct from Australian state framework operating full state-government powers, also distinct from Australian Capital Territory ACT framework operating different limited self-government framework under Australian Capital Territory (Self-Government) Act 1988). Northern Territory historically operated under Aboriginal frameworks ~60,000 years + British exploration 1606 + South Australian Crown Land 1863-1911 + Northern Territory Commonwealth direct administration 1911-1978 + Northern Territory limited self-government 1978+. Northern Territory comprises ~1,419,630 km² with a population of ~250,000. Family-law framework operates under the federal Australian common-law framework (Family Law Act 1975 (Cth)) applied uniformly across Australian sub-national territories. The Supreme Court of the Northern Territory is the apex regional court; final appellate jurisdiction lies with the High Court of Australia. Northern Territory is silent on 'parental alienation' as a statutory label. Australia is a Hague Convention 1980 signatory and party (acceded 29 October 1986 effective 1 January 1987) — Northern Territory is governed by Australian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Northern Territory (Self-Government) Act 1978 (Cth)",
+      "title": "Northern Territory (Self-Government) Act",
+      "year": 1978,
+      "url": "https://www.legislation.gov.au/",
+      "relevance": "Commonwealth Northern Territory (Self-Government) Act 1978 effective 1 July 1978 — limited self-government framework with Commonwealth retained powers over Aboriginal Affairs + Uranium Mining + National Parks."
+    },
+    {
+      "citation": "Rights of the Terminally Ill Act 1995 (NT) (overridden 1997)",
+      "title": "Rights of the Terminally Ill Act 1995",
+      "year": 1996,
+      "url": "https://nt.gov.au/",
+      "relevance": "Northern Territory Rights of the Terminally Ill Act 1995 effective 1 July 1996 — first formal voluntary-euthanasia legislation worldwide, applied to 4 cases prior to Commonwealth Euthanasia Laws Act 1997 override 25 March 1997."
+    },
+    {
+      "citation": "Northern Territory National Emergency Response Act 2007 (Cth)",
+      "title": "Northern Territory Intervention",
+      "year": 2007,
+      "url": "https://www.legislation.gov.au/",
+      "relevance": "Commonwealth Northern Territory National Emergency Response Act 2007 effective 18 August 2007 — Northern Territory Intervention 'Closing the Gap' framework 2007-2022."
+    },
+    {
+      "citation": "Family Law Act 1975 (Cth)",
+      "title": "Australian Family Law Act",
+      "year": 1975,
+      "url": "https://www.legislation.gov.au/",
+      "relevance": "Australian Federal Family Law Act 1975 applicable uniformly across Northern Territory."
+    },
+    {
+      "citation": "Hague Convention 1980 — Australian accession 29 October 1986",
+      "title": "Hague Convention 1980 — Australia",
+      "year": 1986,
+      "url": "https://www.hcch.net/",
+      "relevance": "Australian Hague Convention 1980 accession 29 October 1986 effective 1 January 1987 — applicable to Northern Territory."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Northern Territory",
+      "seat": "Darwin",
+      "url": "https://supremecourt.nt.gov.au/",
+      "role": "Apex regional appellate court for civil and criminal matters from Northern Territory."
+    },
+    {
+      "name": "High Court of Australia",
+      "seat": "Canberra",
+      "url": "https://www.hcourt.gov.au/",
+      "role": "Final appellate court for civil and criminal matters from Northern Territory."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Australian Health Practitioner Regulation Agency (AHPRA)",
+      "url": "https://www.ahpra.gov.au/",
+      "role": "Australian Federal professional regulatory framework applicable in Northern Territory."
+    }
+  ],
+  "anonymisation_convention": "Northern Territory family-court decisions are anonymised per Australian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1606,
+      "title": "British exploration",
+      "description": "Willem Janszoon Dutch + first British exploration of Northern Territory coast 1606 — beginning of formal European framework."
+    },
+    {
+      "year": 1863,
+      "title": "South Australian Crown Land",
+      "description": "Northern Territory established as South Australian Crown Land 6 July 1863 — formal South Australian framework over NT 1863-1911."
+    },
+    {
+      "year": 1911,
+      "title": "Commonwealth direct administration",
+      "description": "Northern Territory transferred from South Australia to Commonwealth direct administration 1 January 1911 — formal Commonwealth framework over NT 1911-1978."
+    },
+    {
+      "year": 1978,
+      "title": "Limited self-government",
+      "description": "Northern Territory limited self-government effective 1 July 1978 under Northern Territory (Self-Government) Act 1978 (Cth)."
+    },
+    {
+      "year": 1995,
+      "title": "Rights of the Terminally Ill Act",
+      "description": "Northern Territory Rights of the Terminally Ill Act 1995 enacted 25 May 1995 effective 1 July 1996 — first formal voluntary-euthanasia legislation worldwide."
+    },
+    {
+      "year": 1997,
+      "title": "Commonwealth Euthanasia Laws Act override",
+      "description": "Commonwealth Euthanasia Laws Act 1997 effective 25 March 1997 — formal override of NT Rights of the Terminally Ill Act 1995."
+    },
+    {
+      "year": 2007,
+      "title": "Northern Territory Intervention begins",
+      "description": "Northern Territory National Emergency Response Act 2007 (Cth) effective 18 August 2007 — Northern Territory Intervention 'Closing the Gap' framework begins."
+    },
+    {
+      "year": 2022,
+      "title": "Closing the Gap framework end",
+      "description": "Northern Territory Intervention 'Closing the Gap' framework formally ended 2022 — gradually replaced by 2022 Aboriginal-Self-Determination framework."
+    }
+  ],
+  "structural_findings": [
+    "Northern Territory operates a federal Australian common-law constituent self-governing territory framework — places Northern Territory in the Northern Australian self-governing-territory cluster.",
+    "First modern jurisdiction worldwide to formally legalise voluntary euthanasia via primary legislation is structurally distinctive globally — Rights of the Terminally Ill Act 1995 (NT) effective 1 July 1996, template framework for subsequent global voluntary-euthanasia legislation.",
+    "Only Australian sub-national jurisdiction with Aboriginal-majority demographic framework is structurally distinctive within Australian framework — ~33% Aboriginal demographic framework.",
+    "Central jurisdiction of one of most distinctive modern Australian Commonwealth-state-level interventions is structurally distinctive globally — Northern Territory Intervention 'Closing the Gap' framework 2007-2022.",
+    "One of only modern Australian sub-national jurisdictions formally operating under limited self-government framework is structurally distinctive within Australian framework — Northern Territory (Self-Government) Act 1978.",
+    "1997 Commonwealth Euthanasia Laws Act override framework is structurally distinctive globally — only formal Commonwealth-government override of voluntary-euthanasia legislation framework.",
+    "2007-2022 Northern Territory Intervention with formal suspension of Racial Discrimination Act 1975 (Cth) provisions is structurally distinctive globally.",
+    "Australian Hague-Convention-1980-accession-1986 framework applies."
+  ],
+  "references": [
+    "jurisdiction:australia",
+    "jurisdiction:indonesia",
+    "jurisdiction:papua-new-guinea",
+    "jurisdiction:east-timor",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Northern Territory Government",
+      "url": "https://nt.gov.au/",
+      "publisher": "Northern Territory Government",
+      "language": "en"
+    },
+    {
+      "title": "Australian Government Department of the Prime Minister and Cabinet — Closing the Gap",
+      "url": "https://www.pmc.gov.au/",
+      "publisher": "Australian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Northern Territory jurisdiction sidecar — common-law Northern Australian constituent self-governing territory (Northern Territory (Self-Government) Act 1978 (Cth) + Rights of the Terminally Ill Act 1995 (NT) + Commonwealth Euthanasia Laws Act 1997 override + Northern Territory National Emergency Response Act 2007 (Cth) + Family Law Act 1975 (Cth) + Aboriginal frameworks ~60,000 years + British exploration 1606 + South Australian Crown Land 1863-1911 + Commonwealth direct administration 1911-1978 + NT Intervention 2007-2022 + Australian Hague-1980). First modern jurisdiction worldwide to formally legalise voluntary euthanasia via primary legislation + only Australian sub-national jurisdiction with Aboriginal-majority demographic framework + central jurisdiction of one of most distinctive modern Australian Commonwealth-state-level interventions + one of only modern Australian sub-national jurisdictions formally operating under limited self-government framework + 1997 Commonwealth Euthanasia Laws Act override globally distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northern-Australian + common-law + Australian-self-governing-territory cluster + Rights-of-the-Terminally-Ill-Act-1995-NT-first-worldwide-voluntary-euthanasia-globally-distinctive + Commonwealth-Euthanasia-Laws-Act-1997-override + Aboriginal-majority-demographic-framework + Northern-Territory-Intervention-Closing-the-Gap-2007-2022 + Northern-Territory-Self-Government-Act-1978-limited-self-government + Aboriginal-frameworks-60000-years + Australian-Hague-1980-1986 clusters within the corpus."
+  ]
+}

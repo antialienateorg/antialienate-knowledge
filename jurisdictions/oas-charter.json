@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0",
+  "id": "oas-charter",
+  "name": "OAS Charter 1948 (Charter of the Organization of American States)",
+  "jurisdiction_code": "OAS",
+  "legal_system": "supranational",
+  "language": ["en", "es", "fr", "pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Charter of the Organization of American States (OAS Charter) is a regional supranational meta-framework foundational-OAS-treaty framework adopted by the Ninth International Conference of American States in Bogotá — structurally distinctive globally as the oldest modern regional supranational binding-treaty framework operating on Americas regional framework (OAS Charter signed 30 April 1948 in Bogotá Colombia + effective 13 December 1951 — formal foundational OAS treaty framework establishing comprehensive OAS organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate as subsequent regional treaties, structurally distinctive globally as the oldest modern regional supranational binding-treaty framework + first regional organisation established under UN Charter Chapter VIII framework as regional arrangement under UN Charter framework), as the central jurisdiction of the formal OAS Inter-American Human Rights System framework (OAS Charter Article 106 framework + 1948 American Declaration of the Rights and Duties of Man + 1969 American Convention on Human Rights Pact of San José + Inter-American Commission on Human Rights IACHR + Inter-American Court of Human Rights IACtHR framework — formal foundational Americas-regional-human-rights framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal two-tier Commission + Court Americas-regional-human-rights framework), as the central jurisdiction of the formal OAS Democratic Charter framework (Inter-American Democratic Charter adopted 11 September 2001 in Lima Peru providing 'The peoples of the Americas have a right to democracy and their governments have an obligation to promote and defend it' — formal foundational Americas-regional-democratic-governance framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal regional democratic-governance framework), and as the central jurisdiction of the formal Pact of Bogotá American Treaty on Pacific Settlement framework (American Treaty on Pacific Settlement Pact of Bogotá signed 30 April 1948 in Bogotá Colombia + effective 6 May 1949 providing formal pacific-settlement framework — formal foundational Americas-regional-pacific-settlement framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal regional pacific-settlement framework). The OAS Charter is binding upon 35 OAS member states + 73 OAS permanent observers as of 2026 — comprehensive Americas regional coverage framework (Cuba suspended since 2009 but reinstated as member). The Charter is silent on 'parental alienation' as a statutory label, though formal Inter-American Human Rights System framework operates substantial intersection with parental-alienation framework via formal cross-border-children's-rights framework underlying Inter-American Convention on the International Return of Children 1989. The OAS General Assembly + OAS Permanent Council + OAS Secretary General + IACHR + IACtHR are the formal OAS bodies; national-level apex courts operate as judicial bodies. The OAS Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "OAS Charter 1948",
+      "title": "OAS Charter",
+      "year": 1951,
+      "url": "https://www.oas.org/",
+      "relevance": "Charter of the Organization of American States signed 30 April 1948 in Bogotá Colombia + effective 13 December 1951 — formal foundational OAS treaty framework establishing comprehensive OAS organisation framework."
+    },
+    {
+      "citation": "1948 American Declaration of the Rights and Duties of Man",
+      "title": "American Declaration of the Rights and Duties of Man",
+      "year": 1948,
+      "url": "https://www.oas.org/",
+      "relevance": "American Declaration of the Rights and Duties of Man adopted 2 May 1948 in Bogotá Colombia — formal foundational Americas-regional-human-rights declaration framework + first modern international human rights instrument adopted before UDHR 10 December 1948."
+    },
+    {
+      "citation": "1969 American Convention on Human Rights (Pact of San José)",
+      "title": "American Convention on Human Rights",
+      "year": 1978,
+      "url": "https://www.oas.org/",
+      "relevance": "American Convention on Human Rights Pact of San José adopted 22 November 1969 in San José Costa Rica + effective 18 July 1978 — formal foundational Americas-regional-human-rights binding-treaty framework."
+    },
+    {
+      "citation": "Inter-American Democratic Charter 2001",
+      "title": "Inter-American Democratic Charter",
+      "year": 2001,
+      "url": "https://www.oas.org/",
+      "relevance": "Inter-American Democratic Charter adopted 11 September 2001 in Lima Peru — formal foundational Americas-regional-democratic-governance framework."
+    },
+    {
+      "citation": "Pact of Bogotá American Treaty on Pacific Settlement 1948",
+      "title": "Pact of Bogotá",
+      "year": 1949,
+      "url": "https://www.oas.org/",
+      "relevance": "American Treaty on Pacific Settlement Pact of Bogotá signed 30 April 1948 in Bogotá Colombia + effective 6 May 1949 — formal foundational Americas-regional-pacific-settlement framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "OAS General Assembly",
+      "seat": "Washington DC",
+      "url": "https://www.oas.org/en/about/general_assembly.asp",
+      "role": "Formal supreme decision-making body for OAS."
+    },
+    {
+      "name": "OAS Permanent Council",
+      "seat": "Washington DC",
+      "url": "https://www.oas.org/en/about/permanent_council.asp",
+      "role": "Formal executive body for OAS."
+    },
+    {
+      "name": "Inter-American Commission on Human Rights (IACHR)",
+      "seat": "Washington DC",
+      "url": "https://www.oas.org/en/iachr/",
+      "role": "Formal Americas-regional-human-rights commission body."
+    },
+    {
+      "name": "Inter-American Court of Human Rights (IACtHR)",
+      "seat": "San José",
+      "url": "https://www.corteidh.or.cr/",
+      "role": "Apex judicial body for Americas-regional-human-rights framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OAS General Secretariat",
+      "url": "https://www.oas.org/",
+      "role": "OAS Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "OAS-related individual communications via IACHR + IACtHR framework operate formal anonymisation convention using initials per IACHR + IACtHR Rules of Procedure.",
+  "key_developments": [
+    {
+      "year": 1889,
+      "title": "First International Conference of American States",
+      "description": "First International Conference of American States held 2 October 1889 - 19 April 1890 in Washington DC — predecessor framework to OAS Charter."
+    },
+    {
+      "year": 1948,
+      "title": "OAS Charter + American Declaration adopted",
+      "description": "OAS Charter signed 30 April 1948 + American Declaration of the Rights and Duties of Man adopted 2 May 1948 + Pact of Bogotá signed 30 April 1948 all in Bogotá Colombia — formal foundational OAS framework + first modern international human rights instrument."
+    },
+    {
+      "year": 1951,
+      "title": "OAS Charter enters force",
+      "description": "OAS Charter entered force 13 December 1951 — formal foundational OAS treaty framework operational."
+    },
+    {
+      "year": 1959,
+      "title": "IACHR established",
+      "description": "Inter-American Commission on Human Rights IACHR established 18 August 1959 — formal Americas-regional-human-rights commission body operational."
+    },
+    {
+      "year": 1969,
+      "title": "American Convention on Human Rights adopted",
+      "description": "American Convention on Human Rights Pact of San José adopted 22 November 1969 in San José Costa Rica — formal foundational Americas-regional-human-rights binding-treaty framework adopted."
+    },
+    {
+      "year": 1978,
+      "title": "American Convention enters force + IACtHR established",
+      "description": "American Convention on Human Rights entered force 18 July 1978 + Inter-American Court of Human Rights IACtHR established 3 September 1979 in San José Costa Rica — formal Americas-regional-human-rights court body operational."
+    },
+    {
+      "year": 1989,
+      "title": "Inter-American Convention on International Return of Children",
+      "description": "Inter-American Convention on the International Return of Children adopted 15 July 1989 in Montevideo Uruguay — formal Americas-regional cross-border-children's-rights framework with PA-intersection framework."
+    },
+    {
+      "year": 2001,
+      "title": "Inter-American Democratic Charter adopted",
+      "description": "Inter-American Democratic Charter adopted 11 September 2001 in Lima Peru — formal foundational Americas-regional-democratic-governance framework."
+    },
+    {
+      "year": 2009,
+      "title": "Cuba reinstated as OAS member",
+      "description": "OAS General Assembly Resolution 2438 of 3 June 2009 reinstating Cuba as OAS member ending 1962 suspension — formal OAS membership framework."
+    }
+  ],
+  "structural_findings": [
+    "OAS Charter operates a regional supranational binding-treaty framework — places OAS Charter in the regional supranational-meta-framework cluster.",
+    "Oldest modern regional supranational binding-treaty framework operating on Americas regional framework is structurally distinctive globally — first regional organisation established under UN Charter Chapter VIII framework as regional arrangement under UN Charter framework.",
+    "Central jurisdiction of formal Inter-American Human Rights System framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal two-tier IACHR + IACtHR Americas-regional-human-rights framework.",
+    "Central jurisdiction of formal Inter-American Democratic Charter framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal regional democratic-governance framework.",
+    "Central jurisdiction of formal Pact of Bogotá pacific-settlement framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal regional pacific-settlement framework.",
+    "35 OAS member states + 73 OAS permanent observers ratification framework with Cuba suspended-reinstated framework is structurally distinctive globally — comprehensive Americas regional coverage framework.",
+    "1889 First International Conference + 1948 OAS Charter + American Declaration + Pact of Bogotá + 1951 OAS Charter entry into force + 1959 IACHR + 1969 American Convention + 1978 entry into force + 1979 IACtHR + 1989 Inter-American Convention on International Return of Children + 2001 Democratic Charter + 2009 Cuba reinstated OAS-framework-development sequence is structurally distinctive globally.",
+    "OAS Charter + American Declaration 1948 + American Convention 1969 + Inter-American Convention on International Return of Children 1989 + Democratic Charter 2001 formal quintet framework with formal Americas-regional cross-border-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:inter-american-court",
+    "jurisdiction:inter-american-convention-on-human-rights",
+    "jurisdiction:inter-american-convention-return-of-children",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Organization of American States",
+      "url": "https://www.oas.org/",
+      "publisher": "OAS",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "OAS Charter jurisdiction sidecar — regional supranational Americas-regional foundational-OAS-treaty meta-framework (OAS Charter 1948/1951 + American Declaration 1948 + American Convention 1969/1978 + Pact of Bogotá 1948/1949 + Democratic Charter 2001 + IACHR 1959 + IACtHR 1978/1979 + 1889 First International Conference predecessor + 1989 Inter-American Convention on International Return of Children + 2009 Cuba reinstated). Oldest modern regional supranational binding-treaty framework globally + first regional organisation under UN Charter Chapter VIII + central jurisdiction of formal two-tier IACHR + IACtHR Americas-regional-human-rights framework + central jurisdiction of formal Inter-American Democratic Charter framework + 35 OAS member states + 73 OAS permanent observers comprehensive Americas coverage + 1889 First International Conference + 1948 trilateral foundation + 1951 entry into force + 1959 IACHR + 1969 American Convention + 1978 entry into force + 1979 IACtHR + 1989 International Return of Children + 2001 Democratic Charter + 2009 Cuba reinstated OAS-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Inter-American Human Rights System framework operates substantial intersection with parental-alienation framework via formal Americas-regional cross-border-children's-rights framework underlying Inter-American Convention on the International Return of Children 1989.",
+    "Joins regional + supranational + Americas-regional-foundational-OAS-treaty cluster + OAS-Charter-oldest-modern-regional-supranational-binding-treaty-globally-distinctive + UN-Charter-Chapter-VIII-regional-arrangement-framework + 1948-American-Declaration-predecessor-to-UDHR + 1969-Pact-of-San-José + 1948-Pact-of-Bogotá-Pacific-Settlement + 2001-Inter-American-Democratic-Charter + IACHR-Washington + IACtHR-San-José + 1989-Inter-American-Convention-Return-of-Children + 35-OAS-member-states + 73-OAS-permanent-observers + 1889-First-International-Conference-predecessor + Cuba-suspended-1962-reinstated-2009 + Americas-regional-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

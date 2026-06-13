@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "id": "slovenia",
+  "name": "Slovenia (Slovenija)",
+  "jurisdiction_code": "SI",
+  "legal_system": "civil-law",
+  "language": ["sl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Slovenia is a civil-law unitary republic whose family-law framework operates under the Družinski zakonik (Family Code) of 2017 (Law DZ-1) in force 15 April 2019. Parental care (starševska skrb) is governed by Družinski zakonik arts. 138-181; joint exercise of parental care during marriage is the statutory default. The Vrhovno sodišče (Supreme Court of the Republic of Slovenia, Ljubljana) is the apex civil court; the Ustavno sodišče (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated under the Slovenian framework with Društvo psihologov Slovenije (DPS) operating peak-body ethics oversight. Slovenia is silent on 'parental alienation' as a statutory label; courts operate substantively under the otrokova korist (child's benefit / best-interests) standard. As an EU Member State and Council of Europe member, Slovenia operates within the Strasbourg Article 8 positive-obligations framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Družinski zakonik 2017 (Law DZ-1)",
+      "title": "Family Code 2017 — Parental care",
+      "year": 2017,
+      "url": "http://www.pisrs.si/Pis.web/pregledPredpisa?id=ZAKO7556",
+      "relevance": "Federal statute on family law adopted 21 March 2017, in force 15 April 2019. Substantial modernisation of Slovenian family law including parental care framework. Joint exercise during marriage is the statutory default; otrokova korist welfare standard codified."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Vrhovno sodišče Republike Slovenije (Supreme Court of the Republic of Slovenia)",
+      "seat": "Ljubljana",
+      "url": "http://www.sodisce.si/sodisca/vrhovno_sodisce/",
+      "role": "Apex civil court. Family-law decisions reach the Supreme Court via the Višje sodišče (Higher Court of Appeal) following first-instance Okrožno sodišče (Circuit Court) determinations."
+    },
+    {
+      "name": "Ustavno sodišče (Constitutional Court)",
+      "seat": "Ljubljana",
+      "url": "http://www.us-rs.si/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and individual constitutional complaints."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Društvo psihologov Slovenije (DPS)",
+      "url": "https://www.dps.si/",
+      "role": "Peak professional association for psychologists in Slovenia. Operates ethics code and complaints procedure."
+    }
+  ],
+  "anonymisation_convention": "Slovenian family-law decisions are anonymised per Vrhovno sodišče practice using initials.",
+  "key_developments": [
+    {
+      "year": 2017,
+      "title": "Družinski zakonik adopted",
+      "description": "New Family Code adopted 21 March 2017."
+    },
+    {
+      "year": 2019,
+      "title": "Družinski zakonik in force",
+      "description": "Družinski zakonik 2017 in force 15 April 2019 — substantial modernisation of Slovenian family law including parental-care framework."
+    }
+  ],
+  "structural_findings": [
+    "Slovenia sits structurally within the CEE/Balkan civil-law cluster alongside Croatia + Bulgaria + Romania + Serbia — modernised Family Code 2017 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction.",
+    "Družinski zakonik 2017 represents one of the more recent civil-code family-law modernisations within the corpus — adopted 2017 and in force 2019. Structurally adjacent to the broader EU civil-law cluster.",
+    "Psychology profession regulation operates through DPS peak-body ethics oversight."
+  ],
+  "references": [
+    "jurisdiction:croatia",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Vrhovno sodišče Republike Slovenije",
+      "url": "http://www.sodisce.si/sodisca/vrhovno_sodisce/",
+      "publisher": "Vrhovno sodišče",
+      "language": "sl,en"
+    },
+    {
+      "title": "Ustavno sodišče",
+      "url": "http://www.us-rs.si/",
+      "publisher": "Ustavno sodišče",
+      "language": "sl,en"
+    },
+    {
+      "title": "PIS — Pravno-informacijski sistem",
+      "url": "http://www.pisrs.si/",
+      "publisher": "Government of the Republic of Slovenia",
+      "language": "sl,en"
+    },
+    {
+      "title": "Društvo psihologov Slovenije (DPS)",
+      "url": "https://www.dps.si/",
+      "publisher": "DPS",
+      "language": "sl"
+    }
+  ],
+  "editorial_notes": [
+    "Slovenia jurisdiction sidecar — CEE/Balkan civil-law framework. Družinski zakonik 2017 (in force 2019) + Constitutional Court individual-complaint + DPS peak-body psychology regulation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins CEE/Balkan civil-law cluster within the corpus."
+  ]
+}

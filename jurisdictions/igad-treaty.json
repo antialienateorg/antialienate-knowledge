@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0",
+  "id": "igad-treaty",
+  "name": "IGAD Agreement 1996 (Intergovernmental Authority on Development)",
+  "jurisdiction_code": "IGA",
+  "legal_system": "supranational",
+  "language": ["en", "ar", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Agreement Establishing the Intergovernmental Authority on Development (IGAD Agreement) is a regional supranational meta-framework foundational-IGAD-treaty framework adopted by the 7 founding Horn-of-Africa states in Nairobi — structurally distinctive globally as the only modern Horn-of-Africa regional supranational binding-treaty framework operating on formal Horn-of-Africa framework (IGAD Agreement signed 21 March 1996 in Nairobi Kenya + effective 25 November 1996 + IGADD Intergovernmental Authority on Drought and Development predecessor founded 16 January 1986 in Djibouti — formal foundational IGAD treaty framework establishing comprehensive IGAD organisation framework, distinct from rest-of-modern-regional-African-treaty frameworks which operate on different geographic scopes, structurally distinctive globally as the only modern Horn-of-Africa regional supranational binding-treaty framework operating formal Horn-of-Africa framework + formed in 1986 as IGADD drought-response framework + transformed to IGAD development framework 1996 + only modern African regional supranational binding-treaty framework operating formal South-Sudan-mediation framework via IGAD-Plus framework + only modern regional supranational binding-treaty framework operating formal Eritrea-membership-suspended-self-suspension framework since April 2007), as the central jurisdiction of the formal IGAD South Sudan Mediation framework (IGAD-led South Sudan Civil War mediation framework + Agreement on the Resolution of the Conflict in the Republic of South Sudan ARCSS signed 17 August 2015 in Addis Ababa Ethiopia + Revitalized Agreement on the Resolution of the Conflict in the Republic of South Sudan R-ARCSS signed 12 September 2018 in Addis Ababa Ethiopia — formal foundational IGAD South-Sudan-mediation framework, structurally distinctive globally as the only modern African regional supranational binding-treaty framework operating formal regional-state-level mediation framework with operational mediation framework via IGAD-Plus framework including AU + UN + US + UK + Norway + China framework), as the central jurisdiction of the formal IGAD Climate Prediction and Applications Centre ICPAC framework (IGAD Climate Prediction and Applications Centre ICPAC established 1989 in Nairobi Kenya providing formal Horn-of-Africa climate-prediction framework — formal foundational Horn-of-Africa climate-prediction framework, structurally distinctive globally as the only modern Horn-of-Africa regional supranational binding-treaty framework operating formal regional climate-prediction framework), and as the central jurisdiction of the formal IGAD CEWARN Conflict Early Warning and Response Mechanism framework (IGAD Conflict Early Warning and Response Mechanism CEWARN established 2002 providing formal Horn-of-Africa conflict-early-warning framework — formal foundational Horn-of-Africa conflict-early-warning framework, structurally distinctive globally as the only modern Horn-of-Africa regional supranational binding-treaty framework operating formal regional conflict-early-warning framework). The IGAD Agreement is binding upon 8 IGAD member states as of 2026 (Djibouti + Eritrea + Ethiopia + Kenya + Somalia + South Sudan + Sudan + Uganda) with Eritrea-self-suspended-since-April-2007 framework — comprehensive Horn-of-Africa regional coverage framework. The Agreement is silent on 'parental alienation' as a statutory label, though formal IGAD CEWARN + IGAD Migration Policy frameworks operate substantial intersection with parental-alienation framework via formal Horn-of-Africa cross-border-children's-rights framework + IGAD Migration Action Plan framework. The IGAD Assembly of Heads of State and Government + IGAD Council of Ministers + IGAD Secretariat + IGAD CEWARN + IGAD ICPAC are the formal IGAD bodies; national-level apex courts operate as judicial bodies. The IGAD Agreement is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "IGADD Founding 1986",
+      "title": "IGADD",
+      "year": 1986,
+      "url": "https://igad.int/",
+      "relevance": "Intergovernmental Authority on Drought and Development IGADD established 16 January 1986 in Djibouti — predecessor framework to IGAD."
+    },
+    {
+      "citation": "IGAD Agreement 1996",
+      "title": "IGAD Agreement",
+      "year": 1996,
+      "url": "https://igad.int/",
+      "relevance": "Agreement Establishing the Intergovernmental Authority on Development signed 21 March 1996 in Nairobi Kenya + effective 25 November 1996 transforming IGADD into IGAD — formal foundational IGAD treaty framework establishing comprehensive IGAD organisation framework."
+    },
+    {
+      "citation": "IGAD South Sudan ARCSS 2015",
+      "title": "ARCSS",
+      "year": 2015,
+      "url": "https://igad.int/",
+      "relevance": "Agreement on the Resolution of the Conflict in the Republic of South Sudan ARCSS signed 17 August 2015 in Addis Ababa Ethiopia — formal foundational IGAD South-Sudan-mediation framework."
+    },
+    {
+      "citation": "IGAD South Sudan R-ARCSS 2018",
+      "title": "R-ARCSS",
+      "year": 2018,
+      "url": "https://igad.int/",
+      "relevance": "Revitalized Agreement on the Resolution of the Conflict in the Republic of South Sudan R-ARCSS signed 12 September 2018 in Addis Ababa Ethiopia — formal revitalized IGAD South-Sudan-mediation framework."
+    },
+    {
+      "citation": "IGAD CEWARN 2002 (Conflict Early Warning and Response Mechanism)",
+      "title": "IGAD CEWARN",
+      "year": 2002,
+      "url": "https://cewarn.org/",
+      "relevance": "IGAD Conflict Early Warning and Response Mechanism CEWARN established 2002 — formal foundational Horn-of-Africa conflict-early-warning framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "IGAD Assembly of Heads of State and Government",
+      "seat": "rotating",
+      "url": "https://igad.int/",
+      "role": "Formal supreme decision-making body for IGAD."
+    },
+    {
+      "name": "IGAD Council of Ministers",
+      "seat": "rotating",
+      "url": "https://igad.int/",
+      "role": "Formal executive body for IGAD."
+    },
+    {
+      "name": "IGAD Secretariat",
+      "seat": "Djibouti",
+      "url": "https://igad.int/",
+      "role": "Formal administrative body for IGAD."
+    },
+    {
+      "name": "IGAD Climate Prediction and Applications Centre (ICPAC)",
+      "seat": "Nairobi",
+      "url": "https://www.icpac.net/",
+      "role": "Formal Horn-of-Africa climate-prediction framework body."
+    },
+    {
+      "name": "IGAD Conflict Early Warning and Response Mechanism (CEWARN)",
+      "seat": "Addis Ababa",
+      "url": "https://cewarn.org/",
+      "role": "Formal Horn-of-Africa conflict-early-warning framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "IGAD Secretariat",
+      "url": "https://igad.int/",
+      "role": "IGAD Agreement implementation framework."
+    }
+  ],
+  "anonymisation_convention": "IGAD-related communications operate via state-state framework via IGAD Assembly + IGAD Council of Ministers; individual communications not formally accepted under IGAD framework.",
+  "key_developments": [
+    {
+      "year": 1986,
+      "title": "IGADD established",
+      "description": "Intergovernmental Authority on Drought and Development IGADD established 16 January 1986 in Djibouti by Djibouti + Ethiopia + Kenya + Somalia + Sudan + Uganda in response to 1984-1985 Ethiopian famine — predecessor framework to IGAD."
+    },
+    {
+      "year": 1989,
+      "title": "ICPAC established",
+      "description": "IGAD Climate Prediction and Applications Centre ICPAC established 1989 in Nairobi Kenya — formal foundational Horn-of-Africa climate-prediction framework operational."
+    },
+    {
+      "year": 1993,
+      "title": "Eritrea joins IGADD",
+      "description": "Eritrea joined IGADD 1993 after independence — formal IGAD expansion framework."
+    },
+    {
+      "year": 1996,
+      "title": "IGAD Agreement adopted",
+      "description": "Agreement Establishing the Intergovernmental Authority on Development signed 21 March 1996 in Nairobi Kenya — formal foundational revised IGAD treaty framework adopted."
+    },
+    {
+      "year": 2002,
+      "title": "CEWARN established",
+      "description": "IGAD Conflict Early Warning and Response Mechanism CEWARN established 2002 — formal foundational Horn-of-Africa conflict-early-warning framework operational."
+    },
+    {
+      "year": 2007,
+      "title": "Eritrea self-suspends from IGAD",
+      "description": "Eritrea self-suspended IGAD membership April 2007 over Ethiopia + Somalia framework — formal IGAD Eritrea-self-suspension framework operational."
+    },
+    {
+      "year": 2011,
+      "title": "South Sudan joins IGAD",
+      "description": "South Sudan joined IGAD 25 November 2011 after independence — formal IGAD expansion framework."
+    },
+    {
+      "year": 2015,
+      "title": "ARCSS signed",
+      "description": "Agreement on the Resolution of the Conflict in the Republic of South Sudan ARCSS signed 17 August 2015 in Addis Ababa Ethiopia — formal foundational IGAD South-Sudan-mediation framework adopted."
+    },
+    {
+      "year": 2018,
+      "title": "R-ARCSS signed",
+      "description": "Revitalized Agreement on the Resolution of the Conflict in the Republic of South Sudan R-ARCSS signed 12 September 2018 in Addis Ababa Ethiopia — formal revitalized IGAD South-Sudan-mediation framework adopted."
+    },
+    {
+      "year": 2023,
+      "title": "IGAD Sudan mediation",
+      "description": "IGAD-led Sudan civil war mediation framework operational from April 2023 in response to Sudan civil war framework — formal IGAD Sudan-mediation framework operational."
+    }
+  ],
+  "structural_findings": [
+    "IGAD Agreement operates a regional supranational binding-treaty framework — places IGAD Agreement in the regional supranational-meta-framework cluster.",
+    "Only modern Horn-of-Africa regional supranational binding-treaty framework operating on formal Horn-of-Africa framework is structurally distinctive globally — formed in 1986 as IGADD drought-response framework + transformed to IGAD development framework 1996 + only modern African regional supranational binding-treaty framework operating formal South-Sudan-mediation framework via IGAD-Plus framework + only modern regional supranational binding-treaty framework operating formal Eritrea-membership-suspended-self-suspension framework since April 2007.",
+    "Central jurisdiction of formal IGAD South Sudan Mediation framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal regional-state-level mediation framework with operational mediation framework via IGAD-Plus framework including AU + UN + US + UK + Norway + China framework.",
+    "Central jurisdiction of formal IGAD ICPAC framework is structurally distinctive globally — only modern Horn-of-Africa regional supranational binding-treaty framework operating formal regional climate-prediction framework.",
+    "Central jurisdiction of formal IGAD CEWARN framework is structurally distinctive globally — only modern Horn-of-Africa regional supranational binding-treaty framework operating formal regional conflict-early-warning framework.",
+    "8 IGAD member state ratification framework with Eritrea-self-suspended-since-April-2007 framework is structurally distinctive globally — comprehensive Horn-of-Africa regional coverage framework.",
+    "1986 IGADD + 1989 ICPAC + 1993 Eritrea + 1996 IGAD Agreement + 2002 CEWARN + 2007 Eritrea self-suspension + 2011 South Sudan + 2015 ARCSS + 2018 R-ARCSS + 2023 Sudan mediation IGAD-framework-development sequence is structurally distinctive globally.",
+    "IGAD Agreement + IGADD predecessor + ARCSS + R-ARCSS + CEWARN + ICPAC + IGAD Migration Action Plan formal septet framework with formal Horn-of-Africa cross-border-children's-rights PA-intersection framework via Migration Policy framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:ethiopia",
+    "jurisdiction:kenya",
+    "jurisdiction:au-constitutive-act",
+    "jurisdiction:african-charter-human-peoples-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "IGAD",
+      "url": "https://igad.int/",
+      "publisher": "IGAD Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "IGAD Agreement jurisdiction sidecar — regional supranational Horn-of-Africa foundational-IGAD-treaty meta-framework (IGAD Agreement 1996 + IGADD 1986 predecessor + ARCSS 2015 + R-ARCSS 2018 + CEWARN 2002 + ICPAC 1989 + 1993 Eritrea + 2007 Eritrea self-suspension + 2011 South Sudan + 2023 Sudan mediation). Only modern Horn-of-Africa regional supranational binding-treaty framework globally + only modern African regional supranational binding-treaty framework operating formal South-Sudan-mediation framework via IGAD-Plus + only modern regional supranational binding-treaty framework operating formal Eritrea-self-suspension framework since April 2007 + central jurisdiction of formal IGAD South Sudan Mediation framework + central jurisdiction of formal ICPAC climate-prediction framework + central jurisdiction of formal CEWARN conflict-early-warning framework + 8 IGAD member states (Djibouti + Eritrea + Ethiopia + Kenya + Somalia + South Sudan + Sudan + Uganda) with Eritrea-self-suspended-since-April-2007 + 1986 IGADD + 1989 ICPAC + 1993 Eritrea + 1996 IGAD Agreement + 2002 CEWARN + 2007 Eritrea self-suspension + 2011 South Sudan + 2015 ARCSS + 2018 R-ARCSS + 2023 Sudan mediation IGAD-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: IGAD CEWARN + IGAD Migration Policy frameworks operate substantial intersection with parental-alienation framework via formal Horn-of-Africa cross-border-children's-rights framework + IGAD Migration Action Plan framework.",
+    "Joins regional + supranational + Horn-of-Africa-foundational-IGAD-treaty cluster + IGAD-Agreement-only-Horn-of-Africa-regional-supranational-binding-treaty-globally-distinctive + IGADD-1986-drought-response-predecessor + IGAD-Plus-South-Sudan-mediation-AU-UN-US-UK-Norway-China + ARCSS-2015-R-ARCSS-2018-Addis-Ababa + ICPAC-Nairobi-1989-climate-prediction + CEWARN-Addis-Ababa-2002-conflict-early-warning + IGAD-Secretariat-Djibouti + 8-IGAD-member-states + Eritrea-self-suspended-April-2007 + South-Sudan-joined-2011 + 2023-Sudan-civil-war-mediation + Horn-of-Africa-cross-border-children-rights-PA-intersection-via-Migration-Policy clusters within the corpus."
+  ]
+}

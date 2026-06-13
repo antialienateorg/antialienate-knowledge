@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "id": "guam",
+  "name": "Guam (Guåhan)",
+  "jurisdiction_code": "GU",
+  "legal_system": "common-law",
+  "language": ["en", "ch"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Guam (Guåhan) is a Pacific Island common-law unincorporated US territory — structurally distinctive as the largest US territory in the Mariana Islands archipelago and the location of substantial US military presence. Family-law framework operates under the Guam Code Annotated Title 19 (Personal Relations) drawing on US-derivative common-law substantive heritage. Parental responsibility and child custody are governed by Guam Code Annotated Title 19 Chapter 3 (Family Court). The Supreme Court of Guam is the apex domestic court for civil and criminal matters; appellate jurisdiction in certain federal questions lies with the US Court of Appeals for the Ninth Circuit. Family-law matters are heard at first instance in the Superior Court of Guam (Family Court Division). Psychology profession is regulated through the Guam Board of Allied Health Examiners. Guam is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Guam is a Hague Convention 1980 party via US territorial extension effective 1 July 1988. Guam has substantial Chamorro indigenous cultural heritage retained alongside US civic framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Guam Code Annotated Title 19 (Personal Relations) Chapter 3",
+      "title": "Guam Code Annotated Title 19 — Personal Relations",
+      "year": 1953,
+      "url": "https://www.guamcourts.gov/",
+      "relevance": "Federal Personal Relations Code codifying marriage, divorce, parental responsibility, and child custody. Chapter 3 governs Family Court jurisdiction and parental responsibility."
+    },
+    {
+      "citation": "Organic Act of Guam 1950",
+      "title": "Organic Act of Guam",
+      "year": 1950,
+      "url": "https://www.guamcourts.gov/",
+      "relevance": "Federal Organic Act establishing Guam's unincorporated US territory status with civilian government."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Guam",
+      "seat": "Hagåtña",
+      "url": "https://www.guamcourts.gov/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "US Court of Appeals for the Ninth Circuit + US Supreme Court",
+      "seat": "San Francisco / Washington DC",
+      "url": "https://www.supremecourt.gov/",
+      "role": "Final appellate court for certain federal questions from Guam."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Guam Board of Allied Health Examiners",
+      "url": "https://www.dphss.guam.gov/",
+      "role": "Federal regulator of allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Guamanian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1950,
+      "title": "Organic Act of Guam + US citizenship",
+      "description": "Federal Organic Act establishing Guam's unincorporated US territory status with civilian government and granting US citizenship to Guam residents."
+    },
+    {
+      "year": 1988,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by US to Guam effective 1 July 1988."
+    }
+  ],
+  "structural_findings": [
+    "Guam operates a US-derivative common-law framework with unincorporated US territory status — places Guam in the US Pacific territory cluster.",
+    "Chamorro indigenous cultural heritage retained alongside US civic framework — structurally distinctive within US Pacific territory cluster.",
+    "Largest US territory in Mariana Islands archipelago with substantial US military presence is structurally distinctive globally.",
+    "Hague Convention 1980 applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:northern-mariana-islands",
+    "jurisdiction:american-samoa",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Guam Courts",
+      "url": "https://www.guamcourts.gov/",
+      "publisher": "Judiciary",
+      "language": "en,ch"
+    },
+    {
+      "title": "Department of Public Health and Social Services",
+      "url": "https://www.dphss.guam.gov/",
+      "publisher": "DPHSS",
+      "language": "en,ch"
+    },
+    {
+      "title": "US Supreme Court",
+      "url": "https://www.supremecourt.gov/",
+      "publisher": "US Supreme Court",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Guam jurisdiction sidecar — common-law Pacific US unincorporated territory (Guam Code Title 19 + Organic Act 1950 + Hague via US territorial extension 1988). Largest US territory in Marianas with Chamorro heritage.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + US-unincorporated-territory cluster + Chamorro-heritage + Hague-via-US-territorial-extension clusters within the corpus."
+  ]
+}

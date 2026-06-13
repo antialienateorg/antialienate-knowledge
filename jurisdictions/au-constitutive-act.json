@@ -1,0 +1,178 @@
+{
+  "schema_version": "1.0",
+  "id": "au-constitutive-act",
+  "name": "African Union Constitutive Act 2000",
+  "jurisdiction_code": "AUC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "ar", "pt", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The African Union Constitutive Act is a regional supranational meta-framework foundational-AU-treaty framework adopted by the OAU Assembly of Heads of State and Government in Lomé Togo — structurally distinctive globally as the only modern regional supranational binding-treaty framework operating on Africa-wide continental framework with formal Article 4(h) right-of-intervention framework (AU Constitutive Act adopted 11 July 2000 in Lomé Togo + effective 26 May 2001 + AU launched 9 July 2002 in Durban South Africa replacing Organisation of African Unity OAU established 25 May 1963 — formal foundational AU treaty framework establishing comprehensive AU organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate without formal right-of-intervention framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Article 4(h) right-of-intervention-in-grave-circumstances framework + only regional organisation operating formal continental-coverage framework), as the central jurisdiction of the formal Article 4(h) Right of Intervention framework (AU Constitutive Act Article 4(h) framework providing 'the right of the Union to intervene in a Member State pursuant to a decision of the Assembly in respect of grave circumstances, namely: war crimes, genocide and crimes against humanity' — formal foundational right-of-intervention framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal right-of-intervention framework), as the central jurisdiction of the formal African Charter on Human and Peoples' Rights Banjul Charter framework (Banjul Charter adopted 27 June 1981 in Nairobi Kenya + effective 21 October 1986 + African Commission on Human and Peoples' Rights ACHPR established 1987 + African Court on Human and Peoples' Rights AfCHPR established 1998/2006 — formal foundational Africa-regional-human-rights framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal two-tier ACHPR + AfCHPR Africa-regional-human-rights framework + only modern regional human-rights framework formally including peoples' rights framework), and as the central jurisdiction of the formal African Charter on the Rights and Welfare of the Child ACRWC framework (ACRWC adopted 11 July 1990 in Addis Ababa Ethiopia + effective 29 November 1999 + African Committee of Experts on the Rights and Welfare of the Child ACERWC established 2001 — formal foundational Africa-regional-children's-rights framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal regional children's-rights framework with PA-intersection framework). The AU Constitutive Act is binding upon 55 AU member states as of 2026 — comprehensive Africa-continental coverage framework. The Act is silent on 'parental alienation' as a statutory label, though formal ACRWC framework operates substantial intersection with parental-alienation framework via formal Africa-regional cross-border-children's-rights framework. The AU Assembly + AU Executive Council + AU Commission + Pan-African Parliament + African Court on Human and Peoples' Rights AfCHPR are the formal AU bodies; national-level apex courts operate as judicial bodies. The AU Constitutive Act is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "AU Constitutive Act 2000",
+      "title": "AU Constitutive Act",
+      "year": 2001,
+      "url": "https://au.int/",
+      "relevance": "African Union Constitutive Act adopted 11 July 2000 in Lomé Togo + effective 26 May 2001 + AU launched 9 July 2002 in Durban South Africa — formal foundational AU treaty framework establishing comprehensive AU organisation framework."
+    },
+    {
+      "citation": "AU Constitutive Act Article 4(h) (Right of Intervention Framework)",
+      "title": "AU Constitutive Act Article 4(h)",
+      "year": 2001,
+      "url": "https://au.int/",
+      "relevance": "AU Constitutive Act Article 4(h) framework on right-of-intervention in grave circumstances — formal foundational right-of-intervention framework."
+    },
+    {
+      "citation": "African Charter on Human and Peoples' Rights (Banjul Charter) 1981",
+      "title": "Banjul Charter",
+      "year": 1986,
+      "url": "https://au.int/",
+      "relevance": "African Charter on Human and Peoples' Rights Banjul Charter adopted 27 June 1981 in Nairobi Kenya + effective 21 October 1986 — formal foundational Africa-regional-human-rights framework including formal peoples' rights framework."
+    },
+    {
+      "citation": "African Charter on the Rights and Welfare of the Child (ACRWC) 1990",
+      "title": "ACRWC",
+      "year": 1999,
+      "url": "https://au.int/",
+      "relevance": "African Charter on the Rights and Welfare of the Child ACRWC adopted 11 July 1990 in Addis Ababa Ethiopia + effective 29 November 1999 — formal foundational Africa-regional-children's-rights framework with PA-intersection framework."
+    },
+    {
+      "citation": "Protocol to African Charter on Establishment of African Court 1998",
+      "title": "Protocol on African Court",
+      "year": 2004,
+      "url": "https://au.int/",
+      "relevance": "Protocol to the African Charter on Human and Peoples' Rights on the Establishment of an African Court on Human and Peoples' Rights adopted 9 June 1998 in Ouagadougou Burkina Faso + effective 25 January 2004 — formal Africa-regional-human-rights court framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "AU Assembly of Heads of State and Government",
+      "seat": "Addis Ababa",
+      "url": "https://au.int/en/assembly",
+      "role": "Formal supreme decision-making body for AU."
+    },
+    {
+      "name": "AU Commission",
+      "seat": "Addis Ababa",
+      "url": "https://au.int/en/commission",
+      "role": "Formal executive body for AU."
+    },
+    {
+      "name": "African Commission on Human and Peoples' Rights (ACHPR)",
+      "seat": "Banjul",
+      "url": "https://achpr.au.int/",
+      "role": "Formal Africa-regional-human-rights commission body."
+    },
+    {
+      "name": "African Court on Human and Peoples' Rights (AfCHPR)",
+      "seat": "Arusha",
+      "url": "https://www.african-court.org/",
+      "role": "Apex judicial body for Africa-regional-human-rights framework."
+    },
+    {
+      "name": "African Committee of Experts on the Rights and Welfare of the Child (ACERWC)",
+      "seat": "Addis Ababa",
+      "url": "https://www.acerwc.africa/",
+      "role": "Formal Africa-regional-children's-rights framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "AU Commission Secretariat",
+      "url": "https://au.int/",
+      "role": "AU Constitutive Act implementation framework."
+    }
+  ],
+  "anonymisation_convention": "AU-related individual communications via ACHPR + AfCHPR + ACERWC framework operate formal anonymisation convention using initials per ACHPR + AfCHPR + ACERWC Rules of Procedure.",
+  "key_developments": [
+    {
+      "year": 1963,
+      "title": "OAU established",
+      "description": "Organisation of African Unity OAU established 25 May 1963 in Addis Ababa Ethiopia by 32 African states — predecessor framework to AU."
+    },
+    {
+      "year": 1981,
+      "title": "Banjul Charter adopted",
+      "description": "African Charter on Human and Peoples' Rights Banjul Charter adopted 27 June 1981 in Nairobi Kenya — formal foundational Africa-regional-human-rights framework adopted."
+    },
+    {
+      "year": 1986,
+      "title": "Banjul Charter enters force",
+      "description": "Banjul Charter entered force 21 October 1986 — formal Africa-regional-human-rights framework operational."
+    },
+    {
+      "year": 1987,
+      "title": "ACHPR established",
+      "description": "African Commission on Human and Peoples' Rights ACHPR established 2 November 1987 in Banjul Gambia — formal Africa-regional-human-rights commission body operational."
+    },
+    {
+      "year": 1990,
+      "title": "ACRWC adopted",
+      "description": "African Charter on the Rights and Welfare of the Child ACRWC adopted 11 July 1990 in Addis Ababa Ethiopia — formal foundational Africa-regional-children's-rights framework adopted."
+    },
+    {
+      "year": 1998,
+      "title": "Protocol on African Court adopted",
+      "description": "Protocol to the African Charter on Human and Peoples' Rights on the Establishment of an African Court on Human and Peoples' Rights adopted 9 June 1998 in Ouagadougou Burkina Faso — formal Africa-regional-human-rights court framework adopted."
+    },
+    {
+      "year": 1999,
+      "title": "ACRWC enters force",
+      "description": "ACRWC entered force 29 November 1999 — formal Africa-regional-children's-rights framework operational."
+    },
+    {
+      "year": 2000,
+      "title": "AU Constitutive Act adopted",
+      "description": "AU Constitutive Act adopted 11 July 2000 in Lomé Togo — formal foundational AU treaty framework adopted."
+    },
+    {
+      "year": 2001,
+      "title": "AU Constitutive Act enters force + ACERWC established",
+      "description": "AU Constitutive Act entered force 26 May 2001 + African Committee of Experts on the Rights and Welfare of the Child ACERWC established 2001 — formal AU + Africa-regional-children's-rights framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "AU launched",
+      "description": "African Union AU formally launched 9 July 2002 in Durban South Africa replacing OAU — formal foundational AU framework operational."
+    },
+    {
+      "year": 2004,
+      "title": "AfCHPR enters force",
+      "description": "Protocol on African Court entered force 25 January 2004 + African Court on Human and Peoples' Rights AfCHPR seated in Arusha Tanzania — formal Africa-regional-human-rights court body operational."
+    }
+  ],
+  "structural_findings": [
+    "AU Constitutive Act operates a regional supranational binding-treaty framework — places AU Constitutive Act in the regional supranational-meta-framework cluster.",
+    "Only modern regional supranational binding-treaty framework operating on Africa-wide continental framework with formal Article 4(h) right-of-intervention framework is structurally distinctive globally — only modern regional organisation operating formal continental-coverage framework + only modern regional supranational binding-treaty framework operating formal right-of-intervention framework.",
+    "Central jurisdiction of formal Article 4(h) right-of-intervention framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal right-of-intervention-in-grave-circumstances framework.",
+    "Central jurisdiction of formal Banjul Charter framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal two-tier ACHPR + AfCHPR Africa-regional-human-rights framework + only modern regional human-rights framework formally including peoples' rights framework.",
+    "Central jurisdiction of formal ACRWC framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal regional children's-rights framework with PA-intersection framework.",
+    "55 AU member state ratification framework is structurally distinctive globally — comprehensive Africa-continental coverage framework.",
+    "1963 OAU + 1981 Banjul Charter + 1986 entry into force + 1987 ACHPR + 1990 ACRWC + 1998 Protocol on African Court + 1999 ACRWC entry into force + 2000 AU Constitutive Act + 2001 entry into force + 2001 ACERWC + 2002 AU launched + 2004 AfCHPR operational AU-framework-development sequence is structurally distinctive globally.",
+    "AU Constitutive Act + Banjul Charter + ACRWC + Protocol on African Court formal quartet framework with formal Africa-regional cross-border-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:african-charter-human-peoples-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "African Union",
+      "url": "https://au.int/",
+      "publisher": "AU",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "AU Constitutive Act jurisdiction sidecar — regional supranational Africa-continental foundational-AU-treaty meta-framework (AU Constitutive Act 2000/2001/2002 + Article 4(h) Right of Intervention + Banjul Charter 1981/1986 + ACRWC 1990/1999 + Protocol on African Court 1998/2004 + 1963 OAU predecessor + ACHPR 1987 + ACERWC 2001 + AfCHPR Arusha). Only modern regional supranational binding-treaty framework operating on Africa-wide continental framework globally + only modern regional supranational binding-treaty framework operating formal Article 4(h) right-of-intervention framework + central jurisdiction of formal two-tier ACHPR + AfCHPR Africa-regional-human-rights framework + central jurisdiction of formal ACRWC Africa-regional-children's-rights framework + only modern regional human-rights framework formally including peoples' rights framework + 55 AU member state ratification framework + 1963 OAU + 1981 Banjul Charter + 1986 entry into force + 1987 ACHPR + 1990 ACRWC + 1998 Protocol on African Court + 1999 ACRWC entry into force + 2000 AU Constitutive Act + 2001 entry into force + 2001 ACERWC + 2002 AU launched + 2004 AfCHPR operational AU-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ACRWC framework operates substantial intersection with parental-alienation framework via formal Africa-regional cross-border-children's-rights framework + ACERWC framework body.",
+    "Joins regional + supranational + Africa-continental-foundational-AU-treaty cluster + AU-Constitutive-Act-only-modern-regional-supranational-binding-treaty-with-formal-right-of-intervention-globally-distinctive + Article-4(h)-Right-of-Intervention + Banjul-Charter-1981-formal-peoples-rights + ACRWC-1990-Africa-regional-children-rights + Protocol-on-African-Court-1998 + ACHPR-Banjul + AfCHPR-Arusha + ACERWC-Addis-Ababa + 55-AU-member-states + 1963-OAU-predecessor + 2002-AU-launched-Durban + Africa-regional-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

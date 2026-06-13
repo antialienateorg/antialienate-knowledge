@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "id": "delhi",
+  "name": "Delhi / National Capital Territory of Delhi (NCT) (दिल्ली)",
+  "jurisdiction_code": "IN-DL",
+  "legal_system": "common-law",
+  "language": ["en", "hi", "pa", "ur"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Delhi (दिल्ली in Hindi) / officially the National Capital Territory of Delhi (NCT) is a North Indian common-law Indian Union Territory + national capital city — structurally distinctive globally as the only Indian Union Territory with constitutional Article 239AA special-status framework providing for a Legislative Assembly with substantially expanded legislative competence (inserted by Constitution (Sixty-Ninth Amendment) Act 1991, comprehensive Delhi state-like framework), as the seat of the Indian Federal Government (Indian Parliament, Indian Supreme Court, Rashtrapati Bhavan, Indian Cabinet Secretariat, Prime Minister's Office), as the largest Indian metropolitan jurisdiction by population (~33 million in greater Delhi NCR / ~16 million within NCT Delhi alone — the largest Indian metropolitan population) and the second-largest in the world (after Tokyo Greater Tokyo Area), and as the most contested modern Indian sub-state-vs-federal constitutional jurisdiction (multiple Supreme Court constitutional cases including Government of National Capital Territory of Delhi v Union of India (2018, 2023, 2024) defining the constitutional jurisdiction split between the elected NCT Government and the Lieutenant Governor appointed by the President of India). Delhi has been continuously inhabited since ~6th century BCE and was capital of multiple historical Indian empires/sultanates/Mughal dynasty 1638-1857. Following 1947 Partition, Delhi became a Part-C State 1950-1956, then Union Territory 1956-1991, then NCT under Article 239AA 1991-present. Delhi NCT comprises ~1,484 km² with a population of ~16.7 million. Family-law framework operates under the federal Indian common-law framework (Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, Christian Marriage Act 1872, Parsi Marriage and Divorce Act 1936, Special Marriage Act 1954, Guardians and Wards Act 1890) applied via NCT administrative framework. The Delhi High Court (established 31 October 1966) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Delhi is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Delhi is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of India Article 239AA (Delhi NCT Special Provisions)",
+      "title": "Constitution of India Article 239AA",
+      "year": 1991,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Constitutional Article inserted by Constitution (Sixty-Ninth Amendment) Act 1991 establishing special provisions for Delhi NCT — Legislative Assembly with substantially expanded legislative competence."
+    },
+    {
+      "citation": "Government of National Capital Territory of Delhi Act 1991",
+      "title": "GNCTD Act 1991",
+      "year": 1991,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 1991 establishing the National Capital Territory of Delhi framework."
+    },
+    {
+      "citation": "GNCT of Delhi (Amendment) Act 2021",
+      "title": "GNCTD Amendment Act 2021",
+      "year": 2021,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal Act of 2021 expanding Lieutenant Governor's role in Delhi NCT framework — contested by elected NCT Government in multiple Supreme Court cases."
+    },
+    {
+      "citation": "Government of NCT of Delhi v Union of India (2018, 2023, 2024)",
+      "title": "Delhi v Union of India (SC Constitutional Cases)",
+      "year": 2024,
+      "url": "https://main.sci.gov.in/",
+      "relevance": "Multiple Indian Supreme Court Constitutional Bench cases defining the constitutional jurisdiction split between the elected NCT Government and the Lieutenant Governor appointed by the President of India."
+    },
+    {
+      "citation": "Federal Indian Family Law Framework (Hindu Marriage Act 1955, Muslim Personal Law 1937, Christian Marriage Act 1872, Parsi Marriage and Divorce Act 1936)",
+      "title": "Indian Federal Family Law Framework",
+      "year": 1955,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Federal family-law statutes applicable in Delhi NCT."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Delhi High Court",
+      "seat": "New Delhi",
+      "url": "https://delhihighcourt.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Delhi NCT — established 31 October 1966."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Delhi NCT — physically located within Delhi NCT."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework applicable in Delhi NCT."
+    }
+  ],
+  "anonymisation_convention": "Delhi family-court decisions are anonymised per Indian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1638,
+      "title": "Mughal Shahjahanabad founded",
+      "description": "Mughal Emperor Shah Jahan founded Shahjahanabad (Old Delhi) on 12 May 1638 — Mughal capital 1638-1857."
+    },
+    {
+      "year": 1911,
+      "title": "British India capital transfer to Delhi",
+      "description": "British India capital transferred from Calcutta to Delhi on 12 December 1911 — Delhi Durbar."
+    },
+    {
+      "year": 1947,
+      "title": "Partition + Independent India capital",
+      "description": "Delhi continued as capital of newly independent India on 15 August 1947."
+    },
+    {
+      "year": 1991,
+      "title": "Constitution 69th Amendment + Article 239AA",
+      "description": "Constitution (Sixty-Ninth Amendment) Act 1991 inserting Article 239AA establishing National Capital Territory of Delhi framework."
+    },
+    {
+      "year": 2018,
+      "title": "Delhi v Union of India + constitutional jurisdiction definition",
+      "description": "Indian Supreme Court Constitution Bench judgment of 4 July 2018 in Government of NCT of Delhi v Union of India — first major constitutional definition of NCT-vs-Lieutenant-Governor jurisdiction."
+    },
+    {
+      "year": 2023,
+      "title": "Delhi services judgment",
+      "description": "Indian Supreme Court Constitution Bench judgment of 11 May 2023 in Government of NCT of Delhi v Union of India regarding services jurisdiction."
+    },
+    {
+      "year": 2024,
+      "title": "GNCTD Amendment Act 2021 challenges (ongoing)",
+      "description": "Ongoing Indian Supreme Court challenges to GNCTD Amendment Act 2021 framework."
+    }
+  ],
+  "structural_findings": [
+    "Delhi operates a federal Indian common-law NCT framework — places Delhi in the North Indian-Union-Territory cluster.",
+    "Only Indian Union Territory with constitutional Article 239AA special-status framework providing for Legislative Assembly with substantially expanded legislative competence is structurally distinctive globally.",
+    "Seat of the Indian Federal Government framework (Indian Parliament + Indian Supreme Court + Rashtrapati Bhavan + Indian Cabinet Secretariat + PMO) is structurally distinctive within Indian Union Territory cluster.",
+    "Largest Indian metropolitan jurisdiction by population (~33 million in greater Delhi NCR / ~16 million within NCT Delhi alone) is structurally distinctive globally — second-largest metropolitan area in the world after Tokyo Greater Tokyo Area.",
+    "Most contested modern Indian sub-state-vs-federal constitutional jurisdiction is structurally distinctive globally — multiple Supreme Court Constitutional Bench cases defining NCT-vs-Lieutenant-Governor jurisdiction split.",
+    "Constitution 69th Amendment 1991 inserting Article 239AA is structurally distinctive globally — only Indian Union Territory framework specifically established via constitutional amendment.",
+    "GNCTD Amendment Act 2021 expanding Lieutenant Governor's role is structurally distinctive globally — only modern formal Indian Federal expansion of presidentially-appointed authority in elected NCT framework.",
+    "1638-1857 Mughal capital + 1911-1947 British India capital + 1947-present Independent India capital historical framework is structurally distinctive globally — only state-level entity with continuous capital status spanning Mughal + British + Independent India.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:pakistan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of National Capital Territory of Delhi",
+      "url": "https://www.delhi.gov.in/",
+      "publisher": "Delhi NCT Government",
+      "language": "en"
+    },
+    {
+      "title": "Delhi High Court",
+      "url": "https://delhihighcourt.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Delhi NCT jurisdiction sidecar — common-law North Indian Indian Union Territory + national capital (Indian Constitution Article 239AA + Government of NCT of Delhi Act 1991 + GNCTD Amendment Act 2021 + Government of NCT of Delhi v Union of India 2018/2023/2024 Constitutional Bench cases + Delhi High Court 1966 + Mughal Shahjahanabad 1638 + British India capital 1911 + Independent India capital 1947 + Indian non-Hague-1980). Only Indian Union Territory with constitutional Article 239AA special-status framework globally + seat of Indian Federal Government + largest Indian metropolitan jurisdiction (~33 million Delhi NCR) + second-largest metropolitan area in the world + most contested modern Indian sub-state-vs-federal constitutional jurisdiction + only state-level entity with continuous capital status spanning Mughal + British + Independent India.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-Indian + common-law + Indian-Union-Territory cluster + Article-239AA-special-status-framework-globally-distinctive + seat-of-Indian-Federal-Government + largest-Indian-metropolitan-jurisdiction + second-largest-global-metropolitan-area + Government-of-NCT-of-Delhi-v-Union-of-India-2018-2023-2024 + Constitution-69th-Amendment-1991 + GNCTD-Amendment-Act-2021 + Mughal-British-Independent-India-continuous-capital-status + Delhi-High-Court-1966 + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

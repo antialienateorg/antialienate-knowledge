@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "id": "usmca-nafta",
+  "name": "USMCA 2020 (United States-Mexico-Canada Agreement) + NAFTA 1994 Predecessor",
+  "jurisdiction_code": "USM",
+  "legal_system": "supranational",
+  "language": ["en", "es", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The United States-Mexico-Canada Agreement (USMCA) is a regional supranational meta-framework foundational-USMCA-treaty framework adopted by the 3 North American states in Buenos Aires — structurally distinctive globally as the only modern North American regional supranational binding-treaty framework operating on formal NAFTA-replacement framework + Trump-renegotiated framework (USMCA Agreement signed 30 November 2018 in Buenos Aires Argentina + effective 1 July 2020 replacing North American Free Trade Agreement NAFTA signed 17 December 1992 in San Antonio Texas + effective 1 January 1994 — formal foundational USMCA treaty framework establishing comprehensive USMCA organisation framework, distinct from rest-of-modern-regional-treaty frameworks which operate without renegotiation framework, structurally distinctive globally as the only modern North American regional supranational binding-treaty framework operating formal NAFTA-replacement framework + only modern regional supranational binding-treaty framework operating formal Trump-renegotiated framework + only modern regional supranational binding-treaty framework operating formal Sunset-Clause framework via Article 34.7 six-year-review framework with 16-year automatic termination framework + USD ~30 trillion combined GDP framework + ~510 million population framework + only modern regional supranational binding-treaty framework operating formal English-Spanish-French trilingual framework), as the central jurisdiction of the formal USMCA Chapter 31 Dispute Settlement Mechanism framework (USMCA Chapter 31 framework providing formal state-state dispute settlement framework + Chapter 10 anti-dumping/countervailing duty dispute settlement framework + Chapter 14 investment dispute settlement framework — formal foundational USMCA dispute-settlement framework, structurally distinctive globally as the only modern North American regional supranational binding-treaty framework operating formal multi-track dispute-settlement framework), as the central jurisdiction of the formal USMCA Article 34.7 Sunset Clause framework (USMCA Article 34.7 framework providing formal six-year-review framework + 16-year automatic termination framework + first-review July 2026 framework — formal foundational USMCA Sunset-Clause framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Sunset-Clause framework with automatic-termination framework), and as the central jurisdiction of the formal USMCA Chapter 23 Labour + Chapter 24 Environment framework (USMCA Chapter 23 Labour + Chapter 24 Environment frameworks providing formal labour-rights + environmental-protection framework + Rapid Response Labour Mechanism RRLM framework — formal foundational USMCA labour + environment framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal Rapid-Response-Labour-Mechanism framework). The USMCA Agreement is binding upon 3 USMCA member states as of 2026 (Canada + Mexico + United States) — comprehensive North American regional coverage framework. The Agreement is silent on 'parental alienation' as a statutory label, though formal USMCA Chapter 23 Labour framework operates limited intersection with parental-alienation framework via formal North-American work-family-reconciliation framework. The USMCA Free Trade Commission + USMCA Joint Committee + USMCA Dispute Settlement Panels are the formal USMCA bodies; national-level apex courts operate as judicial bodies. The USMCA Agreement is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "NAFTA 1992 (Predecessor)",
+      "title": "NAFTA",
+      "year": 1994,
+      "url": "https://www.trade.gov/usmca",
+      "relevance": "North American Free Trade Agreement signed 17 December 1992 in San Antonio Texas + effective 1 January 1994 — predecessor framework to USMCA establishing comprehensive North American free-trade framework."
+    },
+    {
+      "citation": "USMCA Agreement 2018",
+      "title": "USMCA",
+      "year": 2020,
+      "url": "https://www.trade.gov/usmca",
+      "relevance": "United States-Mexico-Canada Agreement signed 30 November 2018 in Buenos Aires Argentina + effective 1 July 2020 replacing NAFTA — formal foundational USMCA treaty framework establishing comprehensive USMCA organisation framework."
+    },
+    {
+      "citation": "USMCA Chapter 31 (Dispute Settlement Mechanism Framework)",
+      "title": "USMCA Chapter 31",
+      "year": 2020,
+      "url": "https://www.trade.gov/usmca",
+      "relevance": "USMCA Chapter 31 framework on state-state dispute settlement — formal foundational USMCA dispute-settlement framework."
+    },
+    {
+      "citation": "USMCA Article 34.7 (Sunset Clause Framework)",
+      "title": "USMCA Article 34.7",
+      "year": 2020,
+      "url": "https://www.trade.gov/usmca",
+      "relevance": "USMCA Article 34.7 framework on Sunset Clause providing formal six-year-review framework + 16-year automatic termination framework + first-review July 2026 framework — formal foundational USMCA Sunset-Clause framework."
+    },
+    {
+      "citation": "USMCA Chapter 23 (Labour Framework) + Chapter 24 (Environment Framework)",
+      "title": "USMCA Chapter 23 + Chapter 24",
+      "year": 2020,
+      "url": "https://www.trade.gov/usmca",
+      "relevance": "USMCA Chapter 23 Labour + Chapter 24 Environment frameworks + Rapid Response Labour Mechanism RRLM — formal foundational USMCA labour + environment framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "USMCA Free Trade Commission",
+      "seat": "rotating",
+      "url": "https://www.trade.gov/usmca",
+      "role": "Formal supreme decision-making body for USMCA."
+    },
+    {
+      "name": "USMCA Joint Committee",
+      "seat": "rotating",
+      "url": "https://www.trade.gov/usmca",
+      "role": "Formal executive body for USMCA."
+    },
+    {
+      "name": "USMCA Dispute Settlement Panels",
+      "seat": "ad-hoc",
+      "url": "https://www.trade.gov/usmca",
+      "role": "Apex USMCA dispute-settlement framework body via Chapter 31 + Chapter 10 + Chapter 14 frameworks."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "United States Trade Representative (USTR)",
+      "url": "https://ustr.gov/",
+      "role": "USMCA Agreement implementation framework body for United States."
+    },
+    {
+      "name": "Mexico Secretaría de Economía",
+      "url": "https://www.gob.mx/se/",
+      "role": "USMCA Agreement implementation framework body for Mexico."
+    },
+    {
+      "name": "Global Affairs Canada",
+      "url": "https://www.international.gc.ca/",
+      "role": "USMCA Agreement implementation framework body for Canada."
+    }
+  ],
+  "anonymisation_convention": "USMCA-related communications via USMCA Dispute Settlement Panels framework operate via state-state framework + investor-state framework via Chapter 14; individual communications limited under USMCA framework.",
+  "key_developments": [
+    {
+      "year": 1965,
+      "title": "Canada-US Auto Pact",
+      "description": "Canada-United States Automotive Products Trade Agreement signed 16 January 1965 — predecessor framework to NAFTA-USMCA."
+    },
+    {
+      "year": 1988,
+      "title": "Canada-US Free Trade Agreement",
+      "description": "Canada-United States Free Trade Agreement signed 2 January 1988 + effective 1 January 1989 — predecessor framework to NAFTA-USMCA."
+    },
+    {
+      "year": 1992,
+      "title": "NAFTA signed",
+      "description": "North American Free Trade Agreement signed 17 December 1992 in San Antonio Texas by Canada + Mexico + United States — predecessor framework to USMCA adopted."
+    },
+    {
+      "year": 1994,
+      "title": "NAFTA enters force",
+      "description": "NAFTA entered force 1 January 1994 — predecessor framework to USMCA operational."
+    },
+    {
+      "year": 2017,
+      "title": "USMCA renegotiations launched",
+      "description": "Trump-administration USMCA renegotiations launched 16 August 2017 in Washington DC — formal USMCA renegotiation framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "USMCA signed",
+      "description": "United States-Mexico-Canada Agreement signed 30 November 2018 in Buenos Aires Argentina — formal foundational USMCA treaty framework adopted."
+    },
+    {
+      "year": 2019,
+      "title": "USMCA Protocol of Amendment + Mexico labour reform",
+      "description": "Protocol of Amendment to USMCA signed 10 December 2019 in Mexico City Mexico + Mexico labour reform framework operational — formal USMCA labour-reform framework."
+    },
+    {
+      "year": 2020,
+      "title": "USMCA enters force + NAFTA terminated",
+      "description": "USMCA entered force 1 July 2020 + NAFTA terminated 30 June 2020 — formal foundational USMCA treaty framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump Round 2 tariff disputes + USMCA review preparation",
+      "description": "Trump Round 2 tariff disputes against Canada + Mexico February 2025 + USMCA review preparation framework — formal USMCA review preparation framework."
+    },
+    {
+      "year": 2026,
+      "title": "USMCA Article 34.7 first six-year review",
+      "description": "USMCA Article 34.7 first six-year review framework operational July 2026 — formal USMCA Sunset-Clause review framework operational."
+    }
+  ],
+  "structural_findings": [
+    "USMCA Agreement operates a regional supranational binding-treaty framework — places USMCA Agreement in the regional supranational-meta-framework cluster.",
+    "Only modern North American regional supranational binding-treaty framework operating on formal NAFTA-replacement framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Trump-renegotiated framework + only modern regional supranational binding-treaty framework operating formal Sunset-Clause framework via Article 34.7 six-year-review framework with 16-year automatic termination framework + USD ~30 trillion combined GDP + ~510 million population.",
+    "Central jurisdiction of formal USMCA Chapter 31 Dispute Settlement Mechanism framework is structurally distinctive globally — only modern North American regional supranational binding-treaty framework operating formal multi-track dispute-settlement framework with Chapter 31 state-state + Chapter 10 anti-dumping + Chapter 14 investment frameworks.",
+    "Central jurisdiction of formal USMCA Article 34.7 Sunset Clause framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Sunset-Clause framework with automatic-termination framework.",
+    "Central jurisdiction of formal USMCA Chapter 23 Labour + Chapter 24 Environment framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Rapid-Response-Labour-Mechanism framework.",
+    "3 USMCA member state ratification framework is structurally distinctive globally — comprehensive North American regional coverage framework.",
+    "1965 Auto Pact + 1988 CUSFTA + 1992 NAFTA + 1994 entry into force + 2017 renegotiations launched + 2018 USMCA signed + 2019 Protocol of Amendment + Mexico labour reform + 2020 USMCA entry into force + NAFTA terminated + 2025 Trump Round 2 tariffs + 2026 Article 34.7 first review USMCA-framework-development sequence is structurally distinctive globally.",
+    "USMCA Agreement + NAFTA Agreement + Chapter 31 Dispute Settlement + Article 34.7 Sunset Clause + Chapter 23 Labour + Chapter 24 Environment + Chapter 14 Investment formal sextet framework with formal North-American work-family-reconciliation limited PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:canada",
+    "jurisdiction:mexico",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "USMCA",
+      "url": "https://www.trade.gov/usmca",
+      "publisher": "United States Trade Representative",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "USMCA jurisdiction sidecar — regional supranational North-American foundational-USMCA-treaty meta-framework (USMCA Agreement 2018/2020 + NAFTA 1992/1994 predecessor + 2019 Protocol of Amendment + Chapter 31 Dispute Settlement + Article 34.7 Sunset Clause + Chapter 23 Labour + Chapter 24 Environment + Chapter 14 Investment + Rapid Response Labour Mechanism + 1965 Auto Pact + 1988 CUSFTA + 2025 Trump Round 2 + 2026 Article 34.7 first review). Only modern North American regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework operating formal NAFTA-replacement framework + only modern regional supranational binding-treaty framework operating formal Trump-renegotiated framework + only modern regional supranational binding-treaty framework operating formal Sunset-Clause framework + USD ~30 trillion combined GDP + ~510 million population + central jurisdiction of formal Chapter 31 + Chapter 10 + Chapter 14 multi-track dispute-settlement framework + central jurisdiction of formal Sunset-Clause framework + central jurisdiction of formal RRLM framework + 3 USMCA member states + 1965 Auto Pact + 1988 CUSFTA + 1992 NAFTA + 1994 entry into force + 2017 renegotiations + 2018 USMCA signed + 2019 Protocol of Amendment + Mexico labour reform + 2020 USMCA entry into force + NAFTA terminated + 2025 Trump Round 2 + 2026 Article 34.7 first review USMCA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: USMCA Chapter 23 Labour framework operates limited intersection with parental-alienation framework via formal North-American work-family-reconciliation framework.",
+    "Joins regional + supranational + North-American-foundational-USMCA-treaty cluster + USMCA-only-North-American-regional-supranational-binding-treaty-globally-distinctive + NAFTA-replacement-framework + Trump-renegotiated + Article-34.7-Sunset-Clause-six-year-review-16-year-automatic-termination + Chapter-31-state-state-dispute-settlement + Chapter-10-anti-dumping + Chapter-14-investment + Chapter-23-Labour + Chapter-24-Environment + Rapid-Response-Labour-Mechanism + 3-USMCA-member-states-Canada-Mexico-United-States + English-Spanish-French-trilingual + USD-30-trillion-combined-GDP + 510-million-population + 1965-Auto-Pact-predecessor + 1988-CUSFTA-predecessor + 2017-renegotiations + 2019-Protocol-of-Amendment-Mexico-labour-reform + 2025-Trump-Round-2-tariffs + 2026-Article-34.7-first-review + North-American-work-family-reconciliation-PA-intersection clusters within the corpus."
+  ]
+}

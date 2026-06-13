@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0",
+  "id": "balearic-islands",
+  "name": "Balearic Islands (Illes Balears / Islas Baleares)",
+  "jurisdiction_code": "ES-IB",
+  "legal_system": "civil-law",
+  "language": ["ca", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "The Balearic Islands (Illes Balears in Catalan / Islas Baleares in Spanish) are a Mediterranean civil-law autonomous community of the Kingdom of Spain comprising the Balearic archipelago (Mallorca, Menorca, Ibiza/Eivissa, Formentera) — structurally distinctive globally as the only EU member-state subnational jurisdiction operating a tri-island Foral Civil Law tradition with distinct per-island sub-regimes (Mallorca + Menorca regime under the broader Mallorcan tradition; Ibiza-Formentera (Pitiüses) regime under distinct Pitiusan tradition), and as the only EU subnational jurisdiction with distinctive Roman-tradition succession framework (institución de heredero or hereus, distinct from Spanish national legítima framework) preserved continuously since the Catalan conquest of Mallorca by Jaume I in 1229 (Crown of Aragon territorial heritage). The Balearic civil-law tradition (Dret Civil Balear / Derecho Civil Balear) was preserved through the 1715 Decretos de Nueva Planta (despite abolition of Mallorcan political institutions), formally compiled in the 1961 Compilation of Civil Law of the Balearic Islands (Compilación del Derecho Civil de las Islas Baleares), and recodified as the Compilació del dret civil de les Illes Balears 1990 (Compilation of Civil Law of the Balearic Islands, modernised by Llei 7/2017 of 3 August 2017). Family-law framework operates under the Compilació Title III (Family Law) for the Mallorca-Menorca regime and Title IV for the Pitiusan regime, with parental authority and family-property framework provisions distinct from Spanish national Código Civil framework. The Tribunal Superior de Justícia de les Illes Balears (TSJIB) is the apex appellate court for Balearic-foral-civil-law matters. The Balearic Islands are silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 party (acceded 16 June 1987) — Balearic Hague applicability via Spanish federal extension subject to Balearic Foral Civil Law application framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Compilació del dret civil de les Illes Balears 1990 (modernised 2017)",
+      "title": "Compilation of Civil Law of the Balearic Islands",
+      "year": 2017,
+      "url": "https://www.parlamentib.es/",
+      "relevance": "Balearic Compilation of foral civil law originally adopted 6 September 1990 — modernised by Llei 7/2017 of 3 August 2017. Title III Family Law for Mallorca-Menorca regime + Title IV for Pitiusan regime."
+    },
+    {
+      "citation": "Statute of Autonomy of the Balearic Islands 2007 (Ley Orgánica 1/2007)",
+      "title": "Statute of Autonomy of the Balearic Islands",
+      "year": 2007,
+      "url": "https://www.parlamentib.es/",
+      "relevance": "Spanish Organic Law establishing Balearic autonomous-community governance framework with distinct civil-law jurisdiction preservation."
+    },
+    {
+      "citation": "Compilación del Derecho Civil de las Islas Baleares 1961 (replaced by 1990 Compilació)",
+      "title": "Compilation of Civil Law of the Balearic Islands 1961",
+      "year": 1961,
+      "url": "https://www.boe.es/",
+      "relevance": "Predecessor compilation of Balearic civil law adopted 19 April 1961 — replaced by Compilació 1990."
+    },
+    {
+      "citation": "Spanish Constitution 1978 Article 149.1.8",
+      "title": "Spanish Constitution Article 149.1.8",
+      "year": 1978,
+      "url": "https://www.boe.es/",
+      "relevance": "Spanish Constitution providing for foral civil law preservation — constitutional foundation for Balearic civil-law jurisdiction."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tribunal Superior de Justícia de les Illes Balears (TSJIB)",
+      "seat": "Palma de Mallorca",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Apex appellate court for Balearic-foral-civil-law matters from the Balearic Islands."
+    },
+    {
+      "name": "Tribunal Constitucional de España",
+      "seat": "Madrid",
+      "url": "https://www.tribunalconstitucional.es/",
+      "role": "Apex Spanish constitutional court for federal constitutional questions from the Balearic Islands."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Col·legi Oficial de Psicologia de les Illes Balears (COPIB)",
+      "url": "https://www.copib.es/",
+      "role": "Balearic autonomous-community professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Balearic family-court decisions are anonymised per Balearic court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1229,
+      "title": "Catalan conquest of Mallorca",
+      "description": "Jaume I conquest of Mallorca 31 December 1229 — beginning of Catalan tradition that became foundation of Balearic civil-law framework."
+    },
+    {
+      "year": 1715,
+      "title": "Decretos de Nueva Planta",
+      "description": "Following 1715 War of the Spanish Succession, Decretos de Nueva Planta abolished Mallorcan political institutions but preserved Balearic civil-law tradition."
+    },
+    {
+      "year": 1961,
+      "title": "Compilación del Derecho Civil de las Islas Baleares",
+      "description": "Compilation of Civil Law of the Balearic Islands adopted 19 April 1961 — first modern formal codification of Balearic civil law."
+    },
+    {
+      "year": 1990,
+      "title": "Compilació del dret civil de les Illes Balears",
+      "description": "Balearic Compilation of foral civil law adopted 6 September 1990 — replaced 1961 Compilación."
+    },
+    {
+      "year": 2017,
+      "title": "Llei 7/2017 Compilació modernisation",
+      "description": "Llei 7/2017 of 3 August 2017 comprehensively modernising Compilació del dret civil de les Illes Balears."
+    }
+  ],
+  "structural_findings": [
+    "Balearic Islands operate a civil-law framework with own Balearic foral civil-law jurisdiction — places Balearic Islands in the EU subnational civil-law-with-own-code cluster.",
+    "Only EU member-state subnational jurisdiction operating tri-island Foral Civil Law tradition with distinct per-island sub-regimes (Mallorca-Menorca + Pitiusan) is structurally distinctive globally.",
+    "Only EU subnational jurisdiction with distinctive Roman-tradition succession framework (institución de heredero or hereus) preserved continuously since 1229 Crown of Aragon conquest is structurally distinctive globally.",
+    "Distinct per-island sub-regimes within a single autonomous community is structurally distinctive globally — Mallorca-Menorca regime under broader Mallorcan tradition vs Pitiusan regime under distinct Ibiza-Formentera tradition.",
+    "Compilació del dret civil de les Illes Balears 2017 modernisation is structurally distinctive within European subnational civil-code modernisation cluster.",
+    "Spanish Constitution Article 149.1.8 (foral civil law preservation) applies via the Balearic-civil-law framework.",
+    "Spanish Hague Convention 1980 accession 1987 + Balearic Foral Civil Law application framework is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:catalonia",
+    "jurisdiction:aragon",
+    "jurisdiction:basque-country",
+    "jurisdiction:navarre",
+    "jurisdiction:galicia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Parlament de les Illes Balears",
+      "url": "https://www.parlamentib.es/",
+      "publisher": "Balearic Government",
+      "language": "ca"
+    },
+    {
+      "title": "Tribunal Superior de Justícia de les Illes Balears",
+      "url": "https://www.poderjudicial.es/",
+      "publisher": "Spanish Government",
+      "language": "ca"
+    }
+  ],
+  "editorial_notes": [
+    "Balearic Islands jurisdiction sidecar — civil-law Mediterranean Spanish autonomous community with own Balearic foral civil-law jurisdiction across tri-island sub-regime framework (Compilació del dret civil de les Illes Balears 1990 + Llei 7/2017 modernisation + Statute of Autonomy 2007 + 1229 Crown of Aragon conquest foundation + Decretos de Nueva Planta 1715 civil-law preservation + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with tri-island Foral Civil Law tradition with distinct per-island sub-regimes globally + only EU subnational with Roman-tradition succession framework (institución de heredero/hereus) preserved continuously since 1229. Completes Iberian foral civil-law hex (Balearic Islands + Galicia + Aragon + Catalonia + Basque + Navarre).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Mediterranean + civil-law + EU-subnational-civil-law-with-own-code cluster + tri-island-Foral-Civil-Law-tradition-with-distinct-per-island-sub-regimes-globally-distinctive + Mallorca-Menorca-vs-Pitiusan-sub-regime + Roman-tradition-succession-institución-de-heredero + Crown-of-Aragon-1229-foundation + Iberian-foral-civil-law-hex clusters within the corpus."
+  ]
+}

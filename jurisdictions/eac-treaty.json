@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "id": "eac-treaty",
+  "name": "EAC Treaty 1999 (East African Community)",
+  "jurisdiction_code": "EAC",
+  "legal_system": "supranational",
+  "language": ["en", "sw"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Treaty for the Establishment of the East African Community (EAC Treaty) is a regional supranational meta-framework foundational-EAC-treaty framework adopted by the 3 founding East African states in Arusha — structurally distinctive globally as the only modern East African regional supranational binding-treaty framework operating on formal East-Africa framework + dissolved-and-revived framework via 1977 EAC dissolution + 1999 EAC revival (EAC Treaty signed 30 November 1999 in Arusha Tanzania by Kenya + Tanzania + Uganda + effective 7 July 2000 + 1977 EAC dissolution framework + EAC revival 1999 framework — formal foundational revived EAC treaty framework establishing comprehensive EAC organisation framework, distinct from rest-of-modern-regional-African-treaty frameworks which operate without dissolution-and-revival framework, structurally distinctive globally as the only modern regional African supranational binding-treaty framework operating formal dissolution-and-revival framework + only modern African regional supranational binding-treaty framework operating formal Swahili-language framework + most-advanced African regional integration framework with operational customs-union 2005 + common-market 2010 + monetary-union protocol 2013 + political-federation aspiration framework), as the central jurisdiction of the formal EAC Customs Union + Common Market + Monetary Union framework (EAC Customs Union Protocol signed 2 March 2004 + effective 1 January 2005 + EAC Common Market Protocol signed 20 November 2009 + effective 1 July 2010 + EAC Monetary Union Protocol signed 30 November 2013 — formal foundational EAC four-pillar integration framework with customs-union + common-market + monetary-union + political-federation framework, structurally distinctive globally as the only modern African regional supranational binding-treaty framework operating formal four-pillar integration framework with most-advanced African regional integration framework), as the central jurisdiction of the formal East African Court of Justice EACJ framework (East African Court of Justice EACJ established 30 November 2001 in Arusha Tanzania providing formal EAC judicial framework operating individual-petition framework via Article 30 EAC Treaty — formal foundational EAC judicial framework, structurally distinctive globally as the only modern African regional supranational binding-treaty framework operating formal Common-Market individual-petition court framework + first-instance + appellate divisions framework), and as the central jurisdiction of the formal EAC Eight-State Expansion framework (Rwanda + Burundi joined EAC 1 July 2007 + South Sudan joined EAC 5 April 2016 + DRC joined EAC 11 July 2022 + Somalia joined EAC 24 November 2023 expanding EAC from original 3 to 8 member states with population coverage doubling from ~150 million to ~300 million — formal foundational EAC expansion framework, structurally distinctive globally as the only modern African regional supranational binding-treaty framework operating formal eight-state expansion framework). The EAC Treaty is binding upon 8 EAC member states as of 2026 (Burundi + DRC + Kenya + Rwanda + Somalia + South Sudan + Tanzania + Uganda) — comprehensive East African regional coverage framework. The Treaty is silent on 'parental alienation' as a statutory label, though formal EACJ individual-petition framework operates substantial intersection with parental-alienation framework via formal East-Africa-regional cross-border-children's-rights framework via individual-petition framework. The EAC Summit + EAC Council of Ministers + EAC East African Legislative Assembly EALA + EAC East African Court of Justice EACJ + EAC Secretariat are the formal EAC bodies; national-level apex courts operate as judicial bodies. The EAC Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "EAC Treaty 1999",
+      "title": "EAC Treaty",
+      "year": 2000,
+      "url": "https://www.eac.int/",
+      "relevance": "Treaty for the Establishment of the East African Community signed 30 November 1999 in Arusha Tanzania + effective 7 July 2000 — formal foundational revived EAC treaty framework establishing comprehensive EAC organisation framework."
+    },
+    {
+      "citation": "EAC Customs Union Protocol 2004",
+      "title": "EAC Customs Union Protocol",
+      "year": 2005,
+      "url": "https://www.eac.int/",
+      "relevance": "EAC Customs Union Protocol signed 2 March 2004 + effective 1 January 2005 — formal foundational EAC customs-union framework."
+    },
+    {
+      "citation": "EAC Common Market Protocol 2009",
+      "title": "EAC Common Market Protocol",
+      "year": 2010,
+      "url": "https://www.eac.int/",
+      "relevance": "EAC Common Market Protocol signed 20 November 2009 + effective 1 July 2010 — formal foundational EAC common-market framework."
+    },
+    {
+      "citation": "EAC Monetary Union Protocol 2013",
+      "title": "EAC Monetary Union Protocol",
+      "year": 2013,
+      "url": "https://www.eac.int/",
+      "relevance": "EAC Monetary Union Protocol signed 30 November 2013 — formal foundational EAC monetary-union framework operating non-operational currency-not-yet-launched framework."
+    },
+    {
+      "citation": "EAC Treaty Article 30 (EACJ Individual-Petition Framework)",
+      "title": "EAC Treaty Article 30",
+      "year": 2000,
+      "url": "https://www.eac.int/",
+      "relevance": "EAC Treaty Article 30 framework on EACJ individual-petition framework — formal foundational Common-Market individual-petition court framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "EAC Summit",
+      "seat": "rotating",
+      "url": "https://www.eac.int/",
+      "role": "Formal supreme decision-making body for EAC."
+    },
+    {
+      "name": "EAC Council of Ministers",
+      "seat": "rotating",
+      "url": "https://www.eac.int/",
+      "role": "Formal executive body for EAC."
+    },
+    {
+      "name": "East African Legislative Assembly (EALA)",
+      "seat": "Arusha",
+      "url": "https://www.eala.org/",
+      "role": "Formal parliamentary body for EAC."
+    },
+    {
+      "name": "East African Court of Justice (EACJ)",
+      "seat": "Arusha",
+      "url": "https://eacj.eac.int/",
+      "role": "Apex judicial body for EAC framework with individual-petition framework via Article 30 EAC Treaty + first-instance + appellate divisions framework."
+    },
+    {
+      "name": "EAC Secretariat",
+      "seat": "Arusha",
+      "url": "https://www.eac.int/",
+      "role": "Formal administrative body for EAC."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "EAC Secretariat",
+      "url": "https://www.eac.int/",
+      "role": "EAC Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "EAC-related communications via EACJ framework operate formal anonymisation convention using initials per EACJ Rules of Procedure on individual-petition framework.",
+  "key_developments": [
+    {
+      "year": 1967,
+      "title": "Original EAC established",
+      "description": "Treaty for East African Co-operation signed 6 June 1967 by Kenya + Tanzania + Uganda + effective 1 December 1967 — predecessor framework to revived EAC."
+    },
+    {
+      "year": 1977,
+      "title": "Original EAC dissolved",
+      "description": "Original EAC dissolved 1 July 1977 — formal EAC dissolution framework operational."
+    },
+    {
+      "year": 1999,
+      "title": "EAC Treaty revived adopted",
+      "description": "Treaty for the Establishment of the East African Community signed 30 November 1999 in Arusha Tanzania by Kenya + Tanzania + Uganda — formal foundational revived EAC treaty framework adopted."
+    },
+    {
+      "year": 2000,
+      "title": "EAC Treaty enters force",
+      "description": "EAC Treaty entered force 7 July 2000 — formal foundational revived EAC treaty framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "EACJ + EALA established",
+      "description": "East African Court of Justice EACJ + East African Legislative Assembly EALA established 30 November 2001 in Arusha Tanzania — formal foundational EAC judicial + parliamentary frameworks operational."
+    },
+    {
+      "year": 2005,
+      "title": "EAC Customs Union operational",
+      "description": "EAC Customs Union Protocol effective 1 January 2005 — formal foundational EAC customs-union framework operational."
+    },
+    {
+      "year": 2007,
+      "title": "Rwanda + Burundi join EAC",
+      "description": "Rwanda + Burundi joined EAC 1 July 2007 — formal EAC expansion framework."
+    },
+    {
+      "year": 2010,
+      "title": "EAC Common Market operational",
+      "description": "EAC Common Market Protocol effective 1 July 2010 — formal foundational EAC common-market framework operational."
+    },
+    {
+      "year": 2013,
+      "title": "EAC Monetary Union Protocol adopted",
+      "description": "EAC Monetary Union Protocol signed 30 November 2013 — formal foundational EAC monetary-union framework adopted."
+    },
+    {
+      "year": 2016,
+      "title": "South Sudan joins EAC",
+      "description": "South Sudan joined EAC 5 April 2016 — formal EAC expansion framework."
+    },
+    {
+      "year": 2022,
+      "title": "DRC joins EAC",
+      "description": "DRC joined EAC 11 July 2022 — formal EAC expansion framework + EAC Regional Force EACRF deployment to eastern DRC November 2022 framework."
+    },
+    {
+      "year": 2023,
+      "title": "Somalia joins EAC",
+      "description": "Somalia joined EAC 24 November 2023 — formal EAC expansion framework + 8th EAC member state framework."
+    }
+  ],
+  "structural_findings": [
+    "EAC Treaty operates a regional supranational binding-treaty framework — places EAC Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern East African regional supranational binding-treaty framework operating on formal East-Africa framework is structurally distinctive globally — only modern regional African supranational binding-treaty framework operating formal dissolution-and-revival framework + only modern African regional supranational binding-treaty framework operating formal Swahili-language framework + most-advanced African regional integration framework.",
+    "Central jurisdiction of formal EAC Customs Union + Common Market + Monetary Union four-pillar integration framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal four-pillar integration framework with most-advanced African regional integration framework.",
+    "Central jurisdiction of formal EACJ framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal Common-Market individual-petition court framework + first-instance + appellate divisions framework.",
+    "Central jurisdiction of formal EAC Eight-State Expansion framework is structurally distinctive globally — only modern African regional supranational binding-treaty framework operating formal eight-state expansion framework with population coverage doubling from ~150 million to ~300 million.",
+    "8 EAC member state ratification framework is structurally distinctive globally — comprehensive East African regional coverage framework.",
+    "1967 original EAC + 1977 dissolution + 1999 revived EAC Treaty + 2000 entry into force + 2001 EACJ + EALA + 2005 Customs Union + 2007 Rwanda + Burundi + 2010 Common Market + 2013 Monetary Union Protocol + 2016 South Sudan + 2022 DRC + 2023 Somalia EAC-framework-development sequence is structurally distinctive globally.",
+    "EAC Treaty + Customs Union Protocol + Common Market Protocol + Monetary Union Protocol + Article 30 individual-petition framework formal quintet framework with formal East-Africa-regional cross-border-children's-rights PA-intersection framework via individual-petition framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:kenya",
+    "jurisdiction:tanzania",
+    "jurisdiction:uganda",
+    "jurisdiction:rwanda",
+    "jurisdiction:african-charter-human-peoples-rights",
+    "jurisdiction:au-constitutive-act",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "EAC",
+      "url": "https://www.eac.int/",
+      "publisher": "EAC Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "EAC Treaty jurisdiction sidecar — regional supranational East-African foundational-EAC-treaty meta-framework (EAC Treaty 1999/2000 + 1967 original EAC predecessor + 1977 dissolution + 1999 revival + Customs Union 2004/2005 + Common Market 2009/2010 + Monetary Union 2013 + EACJ + EALA 2001 + Article 30 individual-petition + 2007 Rwanda + Burundi + 2016 South Sudan + 2022 DRC + 2023 Somalia). Only modern East African regional supranational binding-treaty framework globally + only modern regional African supranational binding-treaty framework operating formal dissolution-and-revival framework + only modern African regional supranational binding-treaty framework operating formal Swahili-language framework + most-advanced African regional integration framework + central jurisdiction of formal four-pillar integration framework + central jurisdiction of formal EACJ Common-Market individual-petition court framework + central jurisdiction of formal eight-state expansion framework with population doubling from ~150M to ~300M + 8 EAC member states (Burundi + DRC + Kenya + Rwanda + Somalia + South Sudan + Tanzania + Uganda) + 1967 original EAC + 1977 dissolution + 1999 revived + 2000 entry into force + 2001 EACJ + EALA + 2005 Customs Union + 2007 Rwanda + Burundi + 2010 Common Market + 2013 Monetary Union Protocol + 2016 South Sudan + 2022 DRC + 2023 Somalia EAC-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: EACJ individual-petition framework operates substantial intersection with parental-alienation framework via formal East-Africa-regional cross-border-children's-rights framework via individual-petition framework.",
+    "Joins regional + supranational + East-African-foundational-EAC-treaty cluster + EAC-Treaty-only-East-African-regional-supranational-binding-treaty-globally-distinctive + dissolution-and-revival-framework-1967-1977-1999 + Swahili-language-framework + most-advanced-African-regional-integration-four-pillar + EAC-Customs-Union-2005 + EAC-Common-Market-2010 + EAC-Monetary-Union-Protocol-2013 + EACJ-Arusha-individual-petition-Article-30 + EALA-Arusha + 8-EAC-member-states + 1967-original-EAC-predecessor + 2007-Rwanda-Burundi + 2016-South-Sudan + 2022-DRC-EACRF-deployment + 2023-Somalia + East-Africa-regional-cross-border-children-rights-PA-intersection-via-EACJ-individual-petition clusters within the corpus."
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0",
+  "id": "norway",
+  "name": "Norway (Norge)",
+  "jurisdiction_code": "NO",
+  "legal_system": "civil-law",
+  "language": ["nb", "nn"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Norway is a Nordic civil-law unitary kingdom whose family-court framework operates under the Barnelova (Children Act) of 1981 (Lov om barn og foreldre). Parental responsibility (foreldreansvar), residence (fast bosted) and contact (samvær) are governed by Barnelova chs. 5-7. Joint parental responsibility is the statutory default for married and cohabiting parents. The Høyesterett (Supreme Court of Norway, Oslo) is the apex court for civil and criminal matters; family-law decisions reach Høyesterett via the Lagmannsrett (Court of Appeal) following first-instance Tingrett (District Court) determinations. Psychology profession is regulated under Statens helsetilsyn / Helsedirektoratet (Norwegian Directorate of Health) under Helsepersonelloven 1999 — psychologist (psykolog) is a statutorily protected title requiring autorisasjon issued by Helsedirektoratet. Norway is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets beste (best-interests-of-the-child) welfare standard.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Barnelova ch. 5",
+      "title": "Foreldreansvar (Parental responsibility)",
+      "year": 1981,
+      "url": "https://lovdata.no/dokument/NL/lov/1981-04-08-7",
+      "relevance": "Statutory basis for parental responsibility. § 34 establishes joint parental responsibility as the default for married and cohabiting parents; § 35 governs sole parental responsibility cases for parents who did not live together. Central provisions for any PA-adjacent custody-modification analysis."
+    },
+    {
+      "citation": "Barnelova ch. 6-7",
+      "title": "Fast bosted og samvær (Residence and contact)",
+      "year": 1981,
+      "url": "https://lovdata.no/dokument/NL/lov/1981-04-08-7",
+      "relevance": "Statutory framework for residence and contact arrangements. § 36 governs fast bosted (residence); § 42-44 govern samvær (contact). § 48 establishes barnets beste as the decisive standard."
+    },
+    {
+      "citation": "Helsepersonelloven 1999 (Health Personnel Act)",
+      "title": "Lov om helsepersonell mv.",
+      "year": 1999,
+      "url": "https://lovdata.no/dokument/NL/lov/1999-07-02-64",
+      "relevance": "Federal statute regulating health personnel including psychologists. Statutorily protected title 'psykolog' requires autorisasjon issued by Helsedirektoratet. Statutory anchor for evaluator-quality in court-appointed psychological assessments."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Høyesterett (Supreme Court of Norway)",
+      "seat": "Oslo",
+      "url": "https://www.domstol.no/en/supremecourt/",
+      "role": "Apex court for civil and criminal matters. Family-law decisions reach Høyesterett via the Lagmannsrett (Court of Appeal) following first-instance Tingrett (District Court) determinations. Høyesterett operates a strict admissibility regime."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Helsedirektoratet (Norwegian Directorate of Health)",
+      "url": "https://www.helsedirektoratet.no/",
+      "role": "Federal agency that issues the autorisasjon (statutory licence) for psychologists and other health personnel under Helsepersonelloven 1999."
+    },
+    {
+      "name": "Norsk psykologforening (Norwegian Psychological Association)",
+      "url": "https://www.psykologforeningen.no/",
+      "role": "Peak professional association for psychologists in Norway. Operates ethics code, specialisation track structure, and complaints procedure alongside the statutory Helsedirektoratet regime."
+    },
+    {
+      "name": "Statens helsetilsyn (Norwegian Board of Health Supervision)",
+      "url": "https://www.helsetilsynet.no/",
+      "role": "Federal supervisory authority for health and social services; operates disciplinary jurisdiction over health personnel including psychologists."
+    }
+  ],
+  "anonymisation_convention": "Norwegian family-law decisions are anonymised per Høyesterett practice using initials. Published Høyesterett decisions on Lovdata strip identifying details. Sits within the European-civil-law initials cluster.",
+  "key_developments": [
+    {
+      "year": 1981,
+      "title": "Barnelova enacted",
+      "description": "Children Act enacted 8 April 1981 — foundational federal statute for family law."
+    },
+    {
+      "year": 1999,
+      "title": "Helsepersonelloven 1999",
+      "description": "Health Personnel Act enacted 2 July 1999, in force 1 January 2001; statutorily protected title 'psykolog' requiring Helsedirektoratet autorisasjon."
+    },
+    {
+      "year": 2003,
+      "title": "UN CRC incorporated into Norwegian law",
+      "description": "UN Convention on the Rights of the Child incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions."
+    }
+  ],
+  "structural_findings": [
+    "Norway sits structurally within the Nordic civil-law cluster alongside Sweden + Denmark + Finland + Iceland — Barnelova + Helsepersonelloven 1999 + UN CRC incorporated as domestic law. Joint parental responsibility statutory default for married/cohabiting parents.",
+    "Helsepersonelloven 1999 statutory-autorisasjon regime places Norway among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL + OPP PT — Helsedirektoratet-issued autorisasjon as the statutory mechanism.",
+    "Norwegian family-court practice has engaged the PA-construct critically since the 2010s within women's-rights and DV-protective discourse — substantively aligned with the Nordic critique register documented across Sweden and Denmark."
+  ],
+  "references": [
+    "jurisdiction:sweden",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Norges Høyesterett (Supreme Court of Norway)",
+      "url": "https://www.domstol.no/en/supremecourt/",
+      "publisher": "Domstoladministrasjonen",
+      "language": "nb,nn,en"
+    },
+    {
+      "title": "Lovdata — Norwegian legal database",
+      "url": "https://lovdata.no/",
+      "publisher": "Lovdata",
+      "language": "nb,nn,en"
+    },
+    {
+      "title": "Helsedirektoratet (Norwegian Directorate of Health)",
+      "url": "https://www.helsedirektoratet.no/",
+      "publisher": "Helsedirektoratet",
+      "language": "nb,nn,en"
+    },
+    {
+      "title": "Norsk psykologforening",
+      "url": "https://www.psykologforeningen.no/",
+      "publisher": "Norsk psykologforening",
+      "language": "nb,nn"
+    }
+  ],
+  "editorial_notes": [
+    "Norway jurisdiction sidecar establishes the Norwegian Nordic civil-law framework within the corpus alongside Sweden. Barnelova 1981 + Helsepersonelloven 1999 + Helsedirektoratet + UN CRC incorporated as domestic law 2003.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Nordic + federal-statutory psychology regulator clusters within the corpus."
+  ]
+}

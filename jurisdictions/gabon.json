@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "id": "gabon",
+  "name": "Gabon (Gabonese Republic / République Gabonaise)",
+  "jurisdiction_code": "GA",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Gabon is a Central African civil-law unitary republic whose family-law framework operates under the Civil Code (Code Civil) drawing on French civil-law substantive heritage, supplemented by Law 19/89 on the Civil Code (Family Provisions) and Law 39/2010 on Children's Rights Protection. Parental authority and child custody are governed by Civil Code arts. 373-396. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Gabon is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Gabon acceded to the Hague Convention 1980 effective 1 February 2011.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code (Law 19/89 on Family) arts. 373-396",
+      "title": "Civil Code Family Provisions — Parental authority",
+      "year": 1989,
+      "url": "https://www.justice.gouv.ga/",
+      "relevance": "Federal Civil Code Family Provisions drawing on French civil-law substantive heritage. Arts. 373-396 govern parental authority and child custody."
+    },
+    {
+      "citation": "Law on Children's Rights Protection 2010 (Law 39/2010)",
+      "title": "Law on Children's Rights Protection",
+      "year": 2010,
+      "url": "https://www.justice.gouv.ga/",
+      "relevance": "Federal Law on Children's Rights Protection aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (Cour de Cassation)",
+      "seat": "Libreville",
+      "url": "https://www.coursupreme.ga/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Cour Constitutionnelle)",
+      "seat": "Libreville",
+      "url": "https://www.cc-gabon.ga/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Gabon",
+      "url": "https://www.sante.gouv.ga/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Gabonese family-court decisions are anonymised per Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 1989,
+      "title": "Law 19/89 on Civil Code Family Provisions",
+      "description": "Federal Civil Code Family Provisions enacted drawing on French civil-law substantive heritage."
+    },
+    {
+      "year": 2010,
+      "title": "Law on Children's Rights Protection (Law 39/2010)",
+      "description": "Federal Law on Children's Rights Protection enacted aligned with UNCRC obligations."
+    },
+    {
+      "year": 2011,
+      "title": "Hague Convention 1980 accession",
+      "description": "Gabon acceded to the Hague Convention 1980 effective 1 February 2011."
+    }
+  ],
+  "structural_findings": [
+    "Gabon operates a French-civil-law family-law framework — places Gabon in the Central African Francophone civil-law cluster with French-derivative substantive heritage.",
+    "Hague Convention 1980 accession 2011 places Gabon in the Hague Central African cluster."
+  ],
+  "references": [
+    "jurisdiction:republic-of-the-congo",
+    "jurisdiction:cameroon",
+    "jurisdiction:democratic-republic-of-the-congo",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Court of Cassation",
+      "url": "https://www.coursupreme.ga/",
+      "publisher": "Court of Cassation",
+      "language": "fr"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.cc-gabon.ga/",
+      "publisher": "Constitutional Court",
+      "language": "fr"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.justice.gouv.ga/",
+      "publisher": "Ministry of Justice",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "Gabon jurisdiction sidecar — civil-law Central African Francophone (Civil Code 1989 + Law on Children's Rights Protection 2010 + Hague Convention 1980 accession 2011).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central African + Francophone + civil-law + French-derivative + Hague Convention clusters within the corpus."
+  ]
+}

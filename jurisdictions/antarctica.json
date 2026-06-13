@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "id": "antarctica",
+  "name": "Antarctica (Antarctic Treaty System)",
+  "jurisdiction_code": "AQ",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "ru", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Antarctica is a supranational meta-legal-system framework operating under the Antarctic Treaty System (ATS) — structurally distinctive globally as the only continental-scale legal-system framework operating without sovereign-state structure or permanent civilian population, as the legal-system covering the only continent on Earth with no Indigenous human population and no sovereign-state-incorporated territory, and as the central legal framework governed by the 1959 Antarctic Treaty, the 1980 Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR), the 1991 Protocol on Environmental Protection to the Antarctic Treaty (Madrid Protocol), and the various subsequent ATS measures and recommendations. Antarctica comprises all land and ice-shelves south of 60°S latitude (~14 million km², ~10% of Earth's land area), and is subject to seven overlapping national claims (Argentina, Australia, Chile, France, New Zealand, Norway, United Kingdom) all subject to the Antarctic Treaty Article IV claim-suspension framework. The Antarctic Treaty (signed 1 December 1959, entered into force 23 June 1961) has 56 state parties as of 2024 including 29 'Consultative Parties' (with claim-status or scientific-research status enabling participation in ATS decision-making at the Antarctic Treaty Consultative Meeting) and 27 'Non-Consultative Parties' (states that have acceded to the Treaty without active research presence). Family-law framework in Antarctica is theoretical given no permanent civilian population — family-law matters involving Antarctic-station personnel typically operate under the home-state nationality framework via Antarctic Treaty Article VIII (personnel exercising Antarctic Treaty functions remain subject to home-state criminal jurisdiction). Parental authority and child custody matters involving Antarctic-station personnel children (very rare — the only known children born in Antarctica are the 11 Argentine and Chilean children born at Argentine Base Esperanza (8) and Chilean Villa Las Estrellas (3) under sovereignty-motivation policies) operate under home-state nationality framework. There is no Antarctic apex court — Antarctic legal-system functions operate under ATS political-administrative framework. The Antarctic Treaty Consultative Meeting (ATCM) is the apex political-administrative body for Antarctic-Treaty-System matters, with the Antarctic Treaty Secretariat in Buenos Aires (since 2003) providing administrative support. Antarctica is silent on 'parental alienation' as a statutory label. Antarctica is not a party to the Hague Convention 1980; Hague Convention applicability to Antarctic-station-personnel family-law matters operates via home-state nationality framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Antarctic Treaty 1959",
+      "title": "Antarctic Treaty",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "International treaty signed 1 December 1959 entered into force 23 June 1961 establishing the Antarctic Treaty System framework — claim suspension under Article IV, peaceful purposes only, freedom of scientific investigation, demilitarisation, denuclearisation, inspection rights."
+    },
+    {
+      "citation": "Antarctic Treaty Article IV (Claim Suspension)",
+      "title": "Antarctic Treaty Article IV",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "Article IV claim-suspension framework — preserves but suspends territorial claims; no new claims or expansion of existing claims permitted during Treaty term."
+    },
+    {
+      "citation": "Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR) 1980",
+      "title": "CCAMLR",
+      "year": 1980,
+      "url": "https://www.ccamlr.org/",
+      "relevance": "International convention of 20 May 1980 establishing conservation framework for Antarctic marine living resources — ATS component instrument."
+    },
+    {
+      "citation": "Protocol on Environmental Protection to the Antarctic Treaty (Madrid Protocol) 1991",
+      "title": "Madrid Protocol",
+      "year": 1991,
+      "url": "https://www.ats.aq/",
+      "relevance": "International protocol of 4 October 1991 establishing comprehensive environmental protection framework — designates Antarctica as a natural reserve devoted to peace and science; 50-year moratorium on Antarctic mining/mineral-resource activities (review available from 2048)."
+    },
+    {
+      "citation": "Antarctic Treaty Article VIII (Personnel Jurisdiction)",
+      "title": "Antarctic Treaty Article VIII",
+      "year": 1959,
+      "url": "https://www.ats.aq/",
+      "relevance": "Article VIII establishing that Antarctic-station personnel exercising Antarctic Treaty functions remain subject to home-state criminal jurisdiction."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Antarctic Treaty Consultative Meeting (ATCM)",
+      "seat": "Rotating annual host (most recent: Milan 2024, India 2025)",
+      "url": "https://www.ats.aq/",
+      "role": "Apex political-administrative body for Antarctic-Treaty-System matters."
+    },
+    {
+      "name": "Antarctic Treaty Secretariat",
+      "seat": "Buenos Aires (since 2003)",
+      "url": "https://www.ats.aq/",
+      "role": "Administrative support body for Antarctic Treaty Consultative Meeting."
+    },
+    {
+      "name": "Various home-state apex courts per nationality framework",
+      "seat": "Various",
+      "url": "",
+      "role": "Home-state apex courts exercise jurisdiction over Antarctic-station personnel via Article VIII nationality framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Various home-state professional regulators per nationality framework",
+      "url": "",
+      "role": "Home-state professional regulators apply via Article VIII nationality framework."
+    }
+  ],
+  "anonymisation_convention": "Antarctic-station personnel family-law decisions are anonymised per home-state court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1959,
+      "title": "Antarctic Treaty signed",
+      "description": "International treaty signed 1 December 1959 by 12 original signatories (Argentina, Australia, Belgium, Chile, France, Japan, New Zealand, Norway, South Africa, USSR, UK, USA) establishing Antarctic Treaty System framework."
+    },
+    {
+      "year": 1961,
+      "title": "Antarctic Treaty effective",
+      "description": "Antarctic Treaty entered into force 23 June 1961 following ratification by all 12 original signatories."
+    },
+    {
+      "year": 1978,
+      "title": "Emilio Marcos Palma — first human born in Antarctica",
+      "description": "Emilio Marcos Palma born at Argentine Base Esperanza on 7 January 1978 — first human born in Antarctica, sovereignty-motivated by Argentine policy."
+    },
+    {
+      "year": 1980,
+      "title": "CCAMLR signed",
+      "description": "Convention on the Conservation of Antarctic Marine Living Resources signed 20 May 1980 — extending ATS framework to marine conservation."
+    },
+    {
+      "year": 1991,
+      "title": "Madrid Protocol signed + 50-year mining moratorium",
+      "description": "Protocol on Environmental Protection to the Antarctic Treaty signed 4 October 1991 — designates Antarctica as a natural reserve devoted to peace and science; 50-year moratorium on Antarctic mining/mineral-resource activities."
+    },
+    {
+      "year": 2003,
+      "title": "Antarctic Treaty Secretariat established in Buenos Aires",
+      "description": "Antarctic Treaty Secretariat established in Buenos Aires in 2003 — first permanent administrative body for ATS."
+    },
+    {
+      "year": 2048,
+      "title": "Madrid Protocol 50-year mining-moratorium review available (future)",
+      "description": "Madrid Protocol 50-year moratorium on Antarctic mining/mineral-resource activities becomes available for review from 2048 (future)."
+    }
+  ],
+  "structural_findings": [
+    "Antarctica operates a supranational meta-legal-system framework under the Antarctic Treaty System — places Antarctica in the unique continental-supranational cluster.",
+    "Only continental-scale legal-system framework operating without sovereign-state structure or permanent civilian population is structurally distinctive globally.",
+    "Only continent on Earth with no Indigenous human population and no sovereign-state-incorporated territory is structurally distinctive globally.",
+    "Antarctic Treaty Article IV claim-suspension framework is structurally distinctive globally — only modern multi-state territorial-claim-suspension framework.",
+    "Antarctic Treaty Article VIII home-state nationality framework for personnel jurisdiction is structurally distinctive globally — only continental-scale extraterritorial-personnel-jurisdiction framework.",
+    "ATCM 29 Consultative Parties + 27 Non-Consultative Parties governance framework is structurally distinctive globally — only modern continental-scale multi-state consultative-governance framework.",
+    "Madrid Protocol 50-year mining moratorium (1991-2048) is structurally distinctive globally — only multi-state long-term moratorium on continental-scale extractive activities.",
+    "Antarctic Treaty Secretariat in Buenos Aires is structurally distinctive within continental-administrative cluster.",
+    "Argentine Base Esperanza and Chilean Villa Las Estrellas birthplace framework is structurally distinctive globally — only continental-scale sovereignty-motivated permanent-civilian-family-presence framework.",
+    "Non-Hague-Convention-1980 status (no continental party) with home-state nationality framework is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:british-antarctic-territory",
+    "jurisdiction:french-southern-and-antarctic-lands",
+    "jurisdiction:australian-antarctic-territory",
+    "jurisdiction:ross-dependency",
+    "jurisdiction:queen-maud-land",
+    "jurisdiction:argentine-antarctica",
+    "jurisdiction:chilean-antarctic-territory",
+    "jurisdiction:peter-i-island",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Antarctic Treaty Secretariat",
+      "url": "https://www.ats.aq/",
+      "publisher": "Antarctic Treaty Secretariat",
+      "language": "en"
+    },
+    {
+      "title": "CCAMLR",
+      "url": "https://www.ccamlr.org/",
+      "publisher": "CCAMLR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Antarctica jurisdiction sidecar — supranational meta-legal-system continental framework under the Antarctic Treaty System (Antarctic Treaty 1959 + CCAMLR 1980 + Madrid Protocol 1991 + Article IV claim suspension + Article VIII home-state nationality framework + ATCM 29 Consultative Parties + 27 Non-Consultative Parties + Antarctic Treaty Secretariat Buenos Aires 2003 + non-Hague-Convention-1980 with home-state nationality framework). Only continental-scale legal-system framework operating without sovereign-state structure or permanent civilian population globally + only continent on Earth with no Indigenous human population and no sovereign-state-incorporated territory + only modern multi-state territorial-claim-suspension framework + only multi-state long-term moratorium on continental-scale extractive activities (Madrid Protocol 1991-2048).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins continental + supranational + Antarctic-Treaty-System cluster + only-continental-legal-system-without-sovereign-state-structure-globally-distinctive + Antarctic-Treaty-Article-IV-claim-suspension + Article-VIII-home-state-nationality-framework + ATCM-Consultative-Parties-governance + Madrid-Protocol-50-year-mining-moratorium + Antarctic-Treaty-Secretariat-Buenos-Aires + non-Hague-Convention-1980 clusters within the corpus."
+  ]
+}

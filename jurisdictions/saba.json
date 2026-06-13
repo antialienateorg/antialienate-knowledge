@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0",
+  "id": "saba",
+  "name": "Saba (The Unspoiled Queen)",
+  "jurisdiction_code": "BQ-SA",
+  "legal_system": "civil-law",
+  "language": ["nl", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Saba (popularly 'The Unspoiled Queen' in English-language framework) is a Caribbean Leeward Islands civil-law Dutch special municipality (bijzondere gemeente) within the Caribbean Netherlands (BES Islands: Bonaire + Sint Eustatius + Saba) — structurally distinctive globally as the smallest formally-administered Dutch sub-national jurisdiction by area (~13 km² — smallest special-municipality framework in the Kingdom of the Netherlands, smaller than rest-of-Dutch-Caribbean special-municipalities Bonaire ~294 km² + Sint Eustatius ~21 km²), as the only Dutch sub-national jurisdiction operating on an extinct stratovolcano (Mount Scenery 877m — highest point in the entire Kingdom of the Netherlands including European Netherlands, structurally distinctive as the only modern Dutch sub-national jurisdiction with formal volcanic-topographic framework, Saba is essentially a single volcanic island with no flat areas), as one of the most distinctive modern formal-equality LGBT-rights frameworks in the Caribbean (Saba conducted the first same-sex marriage in the entire Caribbean region 9 October 2012 — first legally-recognised same-sex marriage in the Caribbean under Dutch Federal same-sex marriage framework 2001, distinct from rest-of-Caribbean which continued sole-different-sex marriage frameworks), and as a distinctive Atlantic-historical jurisdiction (Saba operated continuous English-language framework in formal-administrative + community-cultural usage despite Dutch sovereignty — distinct from rest-of-Dutch-Caribbean frameworks where Papiamento + Dutch dominate, due to historical English/Scottish/Irish settlement). Saba operated under Dutch West India Company framework 1640s onwards + occasional French + British alternations 17th-19th centuries, operated as part of Netherlands Antilles 1954-2010, and was integrated as Dutch special municipality 10 October 2010 following Netherlands Antilles dissolution framework. Saba comprises ~13 km² with a population of ~1,900. Family-law framework operates under the federal Dutch civil-law framework (Dutch Civil Code 1992 Book 1 Family Law portion) applied uniformly across Dutch sub-national jurisdictions. The Court of First Instance (Saba Branch) is the apex regional court; final appellate jurisdiction lies with the Common Court of Justice of Aruba + Curaçao + Sint Maarten + BES + Supreme Court of the Netherlands. Saba is silent on 'parental alienation' as a statutory label. The Netherlands is a Hague Convention 1980 signatory and party (acceded 12 June 1990 effective 1 September 1990) — Saba is governed by Dutch Hague-Convention-1980 framework via Caribbean Netherlands status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Charter for the Kingdom of the Netherlands + 10 October 2010 dissolution framework",
+      "title": "Kingdom Charter + Netherlands Antilles dissolution",
+      "year": 2010,
+      "url": "https://wetten.overheid.nl/",
+      "relevance": "Dutch Federal constitutional framework of 10 October 2010 — Netherlands Antilles dissolution + Saba integration as Dutch special municipality (bijzondere gemeente)."
+    },
+    {
+      "citation": "Dutch Civil Code 1992 Book 1 Family Law portion",
+      "title": "Dutch Civil Code Book 1 Family Law",
+      "year": 1992,
+      "url": "https://wetten.overheid.nl/",
+      "relevance": "Dutch Federal Civil Code 1992 Book 1 Family Law portion applicable uniformly across Saba."
+    },
+    {
+      "citation": "Dutch Same-Sex Marriage Act 2001 (applicable to BES from 10-10-10)",
+      "title": "Dutch Same-Sex Marriage Act",
+      "year": 2001,
+      "url": "https://wetten.overheid.nl/",
+      "relevance": "Dutch Federal Same-Sex Marriage Act of 21 December 2000 effective 1 April 2001 — first formal same-sex marriage framework globally, applicable to Saba from 10 October 2010."
+    },
+    {
+      "citation": "Hague Convention 1980 — Dutch accession 12 June 1990",
+      "title": "Hague Convention 1980 — Netherlands",
+      "year": 1990,
+      "url": "https://www.hcch.net/",
+      "relevance": "Dutch Hague Convention 1980 accession 12 June 1990 effective 1 September 1990 — applicable to Saba via Caribbean Netherlands status."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of First Instance (Saba Branch)",
+      "seat": "The Bottom, Saba",
+      "url": "https://www.caribischeorde.com/",
+      "role": "Apex regional trial court for civil and criminal matters from Saba."
+    },
+    {
+      "name": "Common Court of Justice of Aruba, Curaçao, Sint Maarten, and BES",
+      "seat": "Willemstad, Curaçao",
+      "url": "https://www.caribischeorde.com/",
+      "role": "Intermediate appellate court for civil and criminal matters from Saba."
+    },
+    {
+      "name": "Supreme Court of the Netherlands (Hoge Raad)",
+      "seat": "The Hague",
+      "url": "https://www.hogeraad.nl/",
+      "role": "Final appellate court for civil and criminal matters from Saba."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Dutch Inspectorate for Healthcare and Youth (Inspectie Gezondheidszorg en Jeugd) — Netherlands",
+      "url": "https://www.igj.nl/",
+      "role": "Dutch Federal professional regulatory framework applicable in Saba via Caribbean Netherlands status."
+    }
+  ],
+  "anonymisation_convention": "Saba family-court decisions are anonymised per Dutch + Caribbean Netherlands court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1640,
+      "title": "Dutch West India Company colonisation",
+      "description": "Dutch West India Company colonisation of Saba 1640s — beginning of Dutch colonial framework."
+    },
+    {
+      "year": 1954,
+      "title": "Netherlands Antilles established",
+      "description": "Netherlands Antilles established 15 December 1954 — Saba incorporated as constituent island."
+    },
+    {
+      "year": 2010,
+      "title": "Netherlands Antilles dissolution + special municipality integration",
+      "description": "Netherlands Antilles dissolution 10 October 2010 + Saba integration as Dutch special municipality (bijzondere gemeente)."
+    },
+    {
+      "year": 2012,
+      "title": "First same-sex marriage in Caribbean",
+      "description": "First same-sex marriage in the entire Caribbean region conducted in Saba 9 October 2012 — first legally-recognised same-sex marriage in the Caribbean under Dutch Federal same-sex marriage framework 2001."
+    }
+  ],
+  "structural_findings": [
+    "Saba operates a federal Dutch civil-law special-municipality framework — places Saba in the Caribbean Leeward Islands Dutch special-municipality cluster.",
+    "Smallest formally-administered Dutch sub-national jurisdiction by area (~13 km²) is structurally distinctive within Kingdom of the Netherlands cluster — smallest special-municipality framework.",
+    "Only Dutch sub-national jurisdiction operating on an extinct stratovolcano (Mount Scenery 877m — highest point in the entire Kingdom of the Netherlands) is structurally distinctive globally — only modern Dutch sub-national jurisdiction with formal volcanic-topographic framework.",
+    "One of most distinctive modern formal-equality LGBT-rights frameworks in the Caribbean is structurally distinctive globally — first same-sex marriage in the entire Caribbean region 9 October 2012.",
+    "Continuous English-language framework in formal-administrative + community-cultural usage despite Dutch sovereignty is structurally distinctive within Dutch Caribbean cluster — distinct from rest-of-Dutch-Caribbean Papiamento + Dutch frameworks.",
+    "2010 Netherlands Antilles dissolution + 10-10-10 framework is structurally distinctive within Dutch Caribbean cluster.",
+    "Historical English/Scottish/Irish settlement framework is structurally distinctive within Dutch Caribbean cluster.",
+    "Dutch Hague-Convention-1980-accession-1990 framework applies via Caribbean Netherlands status."
+  ],
+  "references": [
+    "jurisdiction:netherlands",
+    "jurisdiction:bonaire",
+    "jurisdiction:sint-eustatius",
+    "jurisdiction:curacao",
+    "jurisdiction:aruba",
+    "jurisdiction:sint-maarten",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Saba",
+      "url": "https://www.sabagov.com/",
+      "publisher": "Saba Government",
+      "language": "en"
+    },
+    {
+      "title": "Dutch Government Wetten",
+      "url": "https://wetten.overheid.nl/",
+      "publisher": "Dutch Government",
+      "language": "nl"
+    }
+  ],
+  "editorial_notes": [
+    "Saba jurisdiction sidecar — civil-law Caribbean Leeward Islands Dutch special-municipality (Charter for the Kingdom of the Netherlands + 10-10-10 framework + Dutch Civil Code 1992 + Dutch Same-Sex Marriage Act 2001 applicable to Saba from 10-10-10 + Mount Scenery 877m + Netherlands Antilles 1954-2010 + 2012 first Caribbean same-sex marriage + Dutch Hague-1980 via Caribbean Netherlands status). Smallest formally-administered Dutch sub-national jurisdiction by area + only Dutch sub-national jurisdiction operating on an extinct stratovolcano globally + first same-sex marriage in the entire Caribbean region 9 October 2012 + continuous English-language framework despite Dutch sovereignty + 10-10-10 Netherlands Antilles dissolution framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean-Leeward-Islands + civil-law + Dutch-special-municipality cluster + smallest-Dutch-sub-national-jurisdiction-by-area-globally-distinctive + Mount-Scenery-extinct-stratovolcano-highest-point-Kingdom + first-Caribbean-same-sex-marriage-2012 + continuous-English-language-framework + 10-10-10-Netherlands-Antilles-dissolution + Caribbean-Netherlands-BES + Dutch-Hague-1980-1990 clusters within the corpus."
+  ]
+}

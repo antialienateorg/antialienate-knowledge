@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0",
+  "id": "oman",
+  "name": "Oman (سلطنة عمان)",
+  "jurisdiction_code": "OM",
+  "legal_system": "religious-law",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Oman is a Gulf religious-law absolute monarchy whose family-law framework operates under the Personal Status Law (Royal Decree 32/97) of 1997 drawn from Ibadi jurisprudence (with Maliki and Hanafi provisions for non-Ibadi Muslims). Custody (hadana) is governed by arts. 124-145 of the Personal Status Law. The Supreme Court (Al-Mahkama al-Ulya) is the apex court for civil and criminal matters; family-law matters are heard within the Personal Status Courts. Psychology profession is regulated under the Ministry of Health framework and the Oman Medical Specialty Board. Oman is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Oman is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Personal Status Law (Royal Decree 32/97) arts. 124-145",
+      "title": "Personal Status Law — Custody and guardianship",
+      "year": 1997,
+      "url": "https://qanoon.om/",
+      "relevance": "Federal statute on personal status drawn primarily from Ibadi jurisprudence with provisions from Maliki and Hanafi for non-Ibadi Muslims. Arts. 124-145 govern custody and guardianship."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Al-Mahkama al-Ulya (Supreme Court)",
+      "seat": "Muscat",
+      "url": "https://www.sc.om/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Oman Medical Specialty Board (OMSB)",
+      "url": "https://www.omsb.org/",
+      "role": "Federal board regulating medical and allied health specialisations including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Omani family-law decisions are anonymised per court practice; published decisions use initials.",
+  "key_developments": [
+    {
+      "year": 1997,
+      "title": "Personal Status Law (Royal Decree 32/97)",
+      "description": "Federal Personal Status Law enacted; first codification of family-law provisions primarily on Ibadi jurisprudential basis."
+    }
+  ],
+  "structural_findings": [
+    "Oman operates the only Ibadi-jurisprudence-primary religious-law framework within the corpus — distinct from Sunni-Hanbali (Saudi Arabia), Sunni-Maliki/Hanafi (Kuwait), Sunni-Shafi'i (Malaysia/Indonesia), Sunni-Shia-unified (Bahrain), and Shia-Jaʿfari (Iran). Ibadi jurisprudence diverges substantially from Sunni schools in personal-status provisions.",
+    "Non-Hague Convention status places Oman in the non-Hague Gulf cluster."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:bahrain",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Oman",
+      "url": "https://www.sc.om/",
+      "publisher": "Supreme Court, Sultanate of Oman",
+      "language": "ar,en"
+    },
+    {
+      "title": "Qanoon — Omani legal database",
+      "url": "https://qanoon.om/",
+      "publisher": "Ministry of Justice and Legal Affairs",
+      "language": "ar,en"
+    },
+    {
+      "title": "Oman Medical Specialty Board",
+      "url": "https://www.omsb.org/",
+      "publisher": "OMSB",
+      "language": "ar,en"
+    }
+  ],
+  "editorial_notes": [
+    "Oman jurisdiction sidecar — Ibadi religious-law framework. Personal Status Law (Royal Decree 32/97) + OMSB psychology regulation + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Gulf + Ibadi distinctive cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

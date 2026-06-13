@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "togo",
+  "name": "Togo (Togolese Republic / République Togolaise)",
+  "jurisdiction_code": "TG",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Togo is a West African civil-law unitary republic whose family-law framework operates under the Persons and Family Code 2012 (Code des Personnes et de la Famille, Law 2012-014) drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification and customary-law marriage provisions. Parental authority and child custody are governed by Persons and Family Code arts. 269-302. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Togo is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Togo is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Persons and Family Code 2012 (Law 2012-014) arts. 269-302",
+      "title": "Persons and Family Code — Parental authority and custody",
+      "year": 2012,
+      "url": "https://www.coursupreme.tg/",
+      "relevance": "Federal Persons and Family Code drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification. Arts. 269-302 govern parental authority and child custody."
+    },
+    {
+      "citation": "Children's Code 2007 (Law 2007-017)",
+      "title": "Children's Code",
+      "year": 2007,
+      "url": "https://www.coursupreme.tg/",
+      "relevance": "Federal Children's Code aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour Suprême)",
+      "seat": "Lomé",
+      "url": "https://www.coursupreme.tg/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Cour Constitutionnelle)",
+      "seat": "Lomé",
+      "url": "https://www.courconstitutionnelle.tg/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Togo",
+      "url": "https://www.sante.gouv.tg/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Togolese family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2007,
+      "title": "Children's Code 2007 (Law 2007-017)",
+      "description": "Federal Children's Code enacted aligned with UNCRC obligations."
+    },
+    {
+      "year": 2012,
+      "title": "Persons and Family Code 2012 (Law 2012-014)",
+      "description": "Federal Persons and Family Code enacted with substantial modernisation including gender equality codification."
+    }
+  ],
+  "structural_findings": [
+    "Togo operates a French-civil-law family-law framework with gender equality codification — places Togo in the West African Francophone civil-law cluster with French-derivative substantive heritage.",
+    "Persons and Family Code 2012 modernisation is structurally significant — among more recent comprehensive family-law codifications in West African Francophone cluster.",
+    "Non-Hague Convention status places Togo in the non-Hague West African cluster."
+  ],
+  "references": [
+    "jurisdiction:benin",
+    "jurisdiction:ghana",
+    "jurisdiction:burkina-faso",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Togo",
+      "url": "https://www.coursupreme.tg/",
+      "publisher": "Supreme Court",
+      "language": "fr"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.courconstitutionnelle.tg/",
+      "publisher": "Constitutional Court",
+      "language": "fr"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.sante.gouv.tg/",
+      "publisher": "Ministry of Health",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "Togo jurisdiction sidecar — civil-law West African Francophone (Persons and Family Code 2012 + Children's Code 2007 + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins West African + Francophone + civil-law + French-derivative + non-Hague Convention clusters within the corpus."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "id": "liechtenstein",
+  "name": "Liechtenstein (Principality of Liechtenstein / Fürstentum Liechtenstein)",
+  "jurisdiction_code": "LI",
+  "legal_system": "civil-law",
+  "language": ["de"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Liechtenstein is a Central European civil-law constitutional monarchy whose family-law framework operates under the General Civil Code (Allgemeines Bürgerliches Gesetzbuch, ABGB — adopted from Austria with substantial modernisation) supplemented by the Children and Youth Act 2008 (Kinder- und Jugendgesetz). Parental responsibility (Obsorge) and child custody are governed by ABGB §§ 137-186. The Supreme Court of Liechtenstein (Oberster Gerichtshof) is the apex court for civil and criminal matters; the Constitutional Court (Staatsgerichtshof) operates separate constitutional review. Family-law matters are heard at first instance in the Princely Court (Fürstliches Landgericht). Psychology profession is regulated through the Liechtenstein Office of Public Health (Amt für Gesundheit) framework. Liechtenstein is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Liechtenstein acceded to the Hague Convention 1980 effective 1 February 1998. Liechtenstein is a Council of Europe member subject to ECHR jurisdiction.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "General Civil Code (ABGB) §§ 137-186",
+      "title": "General Civil Code — Parental responsibility (Obsorge)",
+      "year": 1812,
+      "url": "https://www.gesetze.li/",
+      "relevance": "Federal civil code adopted from Austria with substantial modernisation. §§ 137-186 govern parental responsibility and child custody."
+    },
+    {
+      "citation": "Children and Youth Act 2008 (Kinder- und Jugendgesetz)",
+      "title": "Children and Youth Act",
+      "year": 2008,
+      "url": "https://www.gesetze.li/",
+      "relevance": "Federal Children and Youth Act codifying child welfare provisions aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Oberster Gerichtshof)",
+      "seat": "Vaduz",
+      "url": "https://www.gerichte.li/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Staatsgerichtshof)",
+      "seat": "Vaduz",
+      "url": "https://www.gerichte.li/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Office of Public Health (Amt für Gesundheit), Liechtenstein",
+      "url": "https://www.llv.li/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Liechtenstein family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1812,
+      "title": "ABGB adoption from Austria",
+      "description": "General Civil Code (ABGB) adopted from Austria — establishing Austrian-civil-law substantive heritage."
+    },
+    {
+      "year": 1978,
+      "title": "Council of Europe membership",
+      "description": "Liechtenstein joined the Council of Europe; ECHR became applicable."
+    },
+    {
+      "year": 1998,
+      "title": "Hague Convention 1980 accession",
+      "description": "Liechtenstein acceded to the Hague Convention 1980 effective 1 February 1998."
+    },
+    {
+      "year": 2008,
+      "title": "Children and Youth Act",
+      "description": "Federal Children and Youth Act enacted codifying child welfare provisions aligned with UNCRC obligations."
+    }
+  ],
+  "structural_findings": [
+    "Liechtenstein operates an Austrian-ABGB-derivative civil-law family-law framework — places Liechtenstein in the German-speaking civil-law cluster with Austria and Germany within the corpus.",
+    "Council of Europe + ECHR membership places Liechtenstein in the ECHR-Hague intersection cluster.",
+    "Hague Convention 1980 accession 1998 places Liechtenstein in the Hague Central European cluster.",
+    "Micro-state status (~38,000 population, ~160 km²) is structurally distinctive within the corpus."
+  ],
+  "references": [
+    "jurisdiction:austria",
+    "jurisdiction:switzerland",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Courts of Liechtenstein",
+      "url": "https://www.gerichte.li/",
+      "publisher": "Courts",
+      "language": "de"
+    },
+    {
+      "title": "Liechtenstein Legal Database",
+      "url": "https://www.gesetze.li/",
+      "publisher": "Office of Justice",
+      "language": "de"
+    },
+    {
+      "title": "Government of Liechtenstein",
+      "url": "https://www.llv.li/",
+      "publisher": "Government",
+      "language": "de"
+    }
+  ],
+  "editorial_notes": [
+    "Liechtenstein jurisdiction sidecar — civil-law Central European micro-state (ABGB Austrian-derivative + Children and Youth Act 2008 + ECHR + Hague Convention 1980 accession 1998).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central European + civil-law + Austrian-ABGB-derivative + ECHR + Hague Convention + micro-state-distinctive clusters within the corpus."
+  ]
+}

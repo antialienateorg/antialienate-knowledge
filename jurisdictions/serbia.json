@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "id": "serbia",
+  "name": "Serbia (Србија / Srbija)",
+  "jurisdiction_code": "RS",
+  "legal_system": "civil-law",
+  "language": ["sr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Serbia is a civil-law unitary republic whose family-law framework operates under the Porodični zakon (Family Act) of 2005 in force 1 July 2005. Parental rights (roditeljsko pravo) are governed by Porodični zakon arts. 67-95; joint exercise during marriage and after divorce is the statutory default unless the court orders sole exercise. The Vrhovni kasacioni sud (Supreme Court of Cassation, Belgrade) is the apex civil court of cassation; the Ustavni sud (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated through Ministry-of-Health licensing under the Health Care Act framework and the Društvo psihologa Srbije (Serbian Psychological Association) peak-body ethics oversight. Serbia is silent on 'parental alienation' as a statutory label; courts operate substantively under the najbolji interes deteta (best-interests-of-the-child) standard. Serbia is a Council of Europe member; ECHR Strasbourg jurisprudence has produced Serbian contact-enforcement cases engaging the Article 8 positive-obligations framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Porodični zakon 2005 arts. 67-95",
+      "title": "Family Act 2005 — Parental rights",
+      "year": 2005,
+      "url": "https://www.paragraf.rs/propisi/porodicni_zakon.html",
+      "relevance": "Federal statute on family law in force 1 July 2005. Arts. 67-95 govern parental rights (roditeljsko pravo); joint exercise during marriage and after divorce is the statutory default. Welfare standard codified."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Vrhovni kasacioni sud (Supreme Court of Cassation)",
+      "seat": "Belgrade",
+      "url": "https://www.vk.sud.rs/",
+      "role": "Apex civil court of cassation. Family-law decisions reach the Supreme Court of Cassation via the Apelacioni sud (Court of Appeal) following first-instance Osnovni sud (Basic Court) determinations."
+    },
+    {
+      "name": "Ustavni sud (Constitutional Court)",
+      "seat": "Belgrade",
+      "url": "https://www.ustavni.sud.rs/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and individual constitutional complaints."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Društvo psihologa Srbije (Serbian Psychological Association / DPS)",
+      "url": "https://www.dps.org.rs/",
+      "role": "Peak academic-and-professional psychology society in Serbia. Operates ethics code."
+    }
+  ],
+  "anonymisation_convention": "Serbian family-law decisions are anonymised per Supreme Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 2005,
+      "title": "Porodični zakon 2005 in force",
+      "description": "Family Act in force 1 July 2005 — modernised parental-rights framework with joint-exercise default."
+    }
+  ],
+  "structural_findings": [
+    "Serbia sits structurally within the Western Balkans civil-law cluster alongside Croatia + Slovenia + Bosnia and Herzegovina + Montenegro + N. Macedonia — Family Act 2005 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction.",
+    "Constitutional Court individual-constitutional-complaint jurisdiction provides constitutional-review pathway for family-court determinations engaging constitutional and ECHR rights.",
+    "Psychology profession regulation operates through Ministry-of-Health framework + DPS peak-body ethics oversight."
+  ],
+  "references": [
+    "jurisdiction:croatia",
+    "jurisdiction:slovenia",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Vrhovni kasacioni sud",
+      "url": "https://www.vk.sud.rs/",
+      "publisher": "Vrhovni kasacioni sud",
+      "language": "sr,en"
+    },
+    {
+      "title": "Ustavni sud",
+      "url": "https://www.ustavni.sud.rs/",
+      "publisher": "Ustavni sud",
+      "language": "sr,en"
+    },
+    {
+      "title": "Paragraf — Serbian legal database",
+      "url": "https://www.paragraf.rs/",
+      "publisher": "Paragraf",
+      "language": "sr"
+    },
+    {
+      "title": "Društvo psihologa Srbije (DPS)",
+      "url": "https://www.dps.org.rs/",
+      "publisher": "DPS",
+      "language": "sr"
+    }
+  ],
+  "editorial_notes": [
+    "Serbia jurisdiction sidecar — Western Balkans civil-law framework. Porodični zakon 2005 + Constitutional Court individual-complaint + DPS peak-body psychology regulation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western Balkans civil-law cluster within the corpus."
+  ]
+}

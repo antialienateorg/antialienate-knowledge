@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "id": "burundi",
+  "name": "Burundi (Republic of Burundi / République du Burundi / Repuburika y'Uburundi)",
+  "jurisdiction_code": "BI",
+  "legal_system": "civil-law",
+  "language": ["fr", "rn"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Burundi is a Central/East African civil-law unitary republic whose family-law framework operates under the Persons and Family Code 1993 (Code des Personnes et de la Famille, Decree-Law 1/024 of 28 April 1993) drawing on Belgian civil-law substantive heritage (via colonial inheritance). Parental authority and child custody are governed by Persons and Family Code arts. 309-339. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Tribunal of Residence (Tribunal de Résidence). Psychology profession is regulated through the Ministry of Public Health framework. Burundi is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Burundi is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Persons and Family Code 1993 (Decree-Law 1/024) arts. 309-339",
+      "title": "Persons and Family Code — Parental authority and custody",
+      "year": 1993,
+      "url": "https://www.ministerejustice.bi/",
+      "relevance": "Federal Persons and Family Code drawing on Belgian civil-law substantive heritage. Arts. 309-339 govern parental authority and child custody."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour Suprême)",
+      "seat": "Bujumbura",
+      "url": "https://www.coursupreme.bi/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Cour Constitutionnelle)",
+      "seat": "Bujumbura",
+      "url": "https://www.cc.bi/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Public Health, Burundi",
+      "url": "https://www.sante.gov.bi/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Burundian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1993,
+      "title": "Persons and Family Code 1993 (Decree-Law 1/024)",
+      "description": "Federal Persons and Family Code enacted drawing on Belgian civil-law substantive heritage."
+    }
+  ],
+  "structural_findings": [
+    "Burundi operates a Belgian-civil-law family-law framework — places Burundi in the Central African Belgian-derivative cluster with DRC and Rwanda within the corpus. Completes Belgian-derivative Central African sub-cluster (DRC+RW+BI).",
+    "Non-Hague Convention status places Burundi in the non-Hague Central African cluster."
+  ],
+  "references": [
+    "jurisdiction:rwanda",
+    "jurisdiction:democratic-republic-of-the-congo",
+    "jurisdiction:belgium",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Burundi",
+      "url": "https://www.coursupreme.bi/",
+      "publisher": "Supreme Court",
+      "language": "fr,rn"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.cc.bi/",
+      "publisher": "Constitutional Court",
+      "language": "fr,rn"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.ministerejustice.bi/",
+      "publisher": "Ministry of Justice",
+      "language": "fr,rn"
+    }
+  ],
+  "editorial_notes": [
+    "Burundi jurisdiction sidecar — civil-law Central/East African Belgian-derivative (Persons and Family Code 1993 + non-Hague). Completes Belgian-derivative Central African sub-cluster (DRC+RW+BI).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central/East African + Francophone + civil-law + Belgian-derivative cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

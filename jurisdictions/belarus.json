@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "belarus",
+  "name": "Belarus (Republic of Belarus / Рэспубліка Беларусь)",
+  "jurisdiction_code": "BY",
+  "legal_system": "civil-law",
+  "language": ["be", "ru"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Belarus is an Eastern European civil-law unitary republic whose family-law framework operates under the Code on Marriage and Family of the Republic of Belarus 1999 (Кодэкс аб шлюбе і сям'і, Law 278-Z), drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Code arts. 67-86. The Supreme Court of the Republic of Belarus (Вярхоўны суд) is the apex court for civil and criminal matters; the Constitutional Court (Канстытуцыйны суд) operates constitutional review. Family-law matters are heard at first instance in District/Regional Courts. Psychology profession is regulated through the Ministry of Health framework with the Belarusian Society of Psychologists operating professional standards. Belarus is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Code art. 67. Belarus acceded to the Hague Convention 1980 effective 1 April 1998 — earliest post-Soviet accession alongside Romania.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Code on Marriage and Family 1999 (278-Z) arts. 67-86",
+      "title": "Code on Marriage and Family — Parental rights and custody",
+      "year": 1999,
+      "url": "https://www.pravo.by/",
+      "relevance": "Federal Code on Marriage and Family enacted post-Soviet. Arts. 67-86 govern parental rights and child custody. Substantially amended over subsequent decades."
+    },
+    {
+      "citation": "Law on the Rights of the Child 2206-XII of 1993",
+      "title": "Law on the Rights of the Child",
+      "year": 1993,
+      "url": "https://www.pravo.by/",
+      "relevance": "Federal children's rights statute enacted post-Soviet aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Вярхоўны суд)",
+      "seat": "Minsk",
+      "url": "https://www.court.gov.by/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Канстытуцыйны суд)",
+      "seat": "Minsk",
+      "url": "https://www.kc.gov.by/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Belarus",
+      "url": "https://www.minzdrav.gov.by/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Belarusian Society of Psychologists",
+      "url": "https://www.bspsy.by/",
+      "role": "Peak professional association for psychologists in Belarus."
+    }
+  ],
+  "anonymisation_convention": "Belarusian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1993,
+      "title": "Law on the Rights of the Child",
+      "description": "Federal children's rights statute enacted post-Soviet aligned with UNCRC obligations."
+    },
+    {
+      "year": 1998,
+      "title": "Hague Convention 1980 accession",
+      "description": "Belarus acceded to the Hague Convention 1980 effective 1 April 1998 — earliest post-Soviet accession alongside Romania."
+    },
+    {
+      "year": 1999,
+      "title": "Code on Marriage and Family",
+      "description": "Federal Code on Marriage and Family enacted post-Soviet codifying marriage, parental rights and child custody."
+    }
+  ],
+  "structural_findings": [
+    "Belarus operates a post-Soviet civil-law framework — Code on Marriage and Family 1999 follows Russian Family Code 1995 codification model within the post-Soviet cluster.",
+    "Hague Convention 1980 accession 1998 places Belarus as among earliest post-Soviet Hague accessions within the corpus.",
+    "Bilingual official-language framework (Belarusian + Russian) reflects post-Soviet language-policy heritage."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:ukraine",
+    "jurisdiction:kazakhstan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Belarus",
+      "url": "https://www.court.gov.by/",
+      "publisher": "Supreme Court",
+      "language": "be,ru"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.kc.gov.by/",
+      "publisher": "Constitutional Court",
+      "language": "be,ru"
+    },
+    {
+      "title": "National Legal Internet Portal",
+      "url": "https://www.pravo.by/",
+      "publisher": "National Centre of Legal Information",
+      "language": "be,ru,en"
+    }
+  ],
+  "editorial_notes": [
+    "Belarus jurisdiction sidecar — civil-law post-Soviet Eastern Europe. Code on Marriage and Family 1999 + Law on Rights of the Child 1993 + Hague Convention 1980 accession 1998 (earliest post-Soviet).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Eastern European + civil-law + post-Soviet + early Hague Convention clusters within the corpus."
+  ]
+}

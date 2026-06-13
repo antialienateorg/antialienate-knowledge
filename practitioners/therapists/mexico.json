@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0",
+  "country": "Mexico",
+  "country_code": "MX",
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "sibling_markdown": "practitioners-mexico-therapists.md",
+  "jurisdictional_context": "Mexico is among the highest-volume PA-clinical jurisdictions in LATAM and the only one with a layered apex-court doctrinal record. Key anchors: (1) SCJN Accion de Inconstitucionalidad 11/2016 (Oaxaca) - Pleno resolved Oct 2017, DOF 16 May 2018, invalidated AUTOMATICITY of suspension/perdida de patria potestad attached to alienacion parental in Oaxaca Codigo Civil arts 336 Bis B, 429 Bis A, 459 fraccion IV (Decreto 1380); did NOT strike down the figura of AP in toto. (2) CDMX Codigo Civil art 323 Septimus - codified AP via ALDF 9 May 2014, DEROGATED 14 July 2017 (ALDF unanimous 36-0) in force 4 August 2017 - NOT 2021 as is frequently mis-stated. (3) State-level variation: AP remains codified in Estado de Mexico, Aguascalientes, Coahuila, Hidalgo, Queretaro, Puebla. (4) SCJN Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia (Nov 2021) is procedural anchor. (5) CNDH 2011 Alienacion Parental 317pp 2nd ed is the principal mixed-positions institutional volume. (6) CDHCM 2015 Alienacion parental + 2017 derogation celebration + Amicus Curiae Amparo Directo 14/2020 SCJN are the clearest critique-side institutional voices. (7) AMPFS - Asociacion Mexicana de Padres de Familia Separados (founded Oct 2002) is the recognition-camp institutional anchor; Mendoza-Amaro / GARI-PA Hispanic chapter / PASG is the clinical-network anchor. (8) Sociedad Mexicana de Psicologia has issued NO public PA-specific institutional position - the single most important negative finding. Peritos psicologos forenses adscritos a juzgados familiares of CDMX/Edomex/Jalisco/Nuevo Leon operate via state TSJ peritaje circuits without national-society institutional cover. Cedula profesional issued by Direccion General de Profesiones SEP - BUSCATEC https://www.cedulaprofesional.sep.gob.mx/",
+  "user_brief_corrections": {
+    "scjn_adr_2424_2014": "Specific expediente 2424/2014 is no se ha podido verificar publicamente in primary SCJN engroses retrievable. Substitute: AI 11/2016 (Oaxaca), ADR 3859/2014 (Min Pte Zaldivar - violencia familiar framing), ADR 2710/2017 (modificacion de guarda y custodia por impedir convivencias).",
+    "cdmx_323_septimus_repeal_date": "Was DEROGATED 14 July 2017 in force 4 August 2017 - NOT nearly-repealed 2021. Post-2017 controversies are RE-INTRODUCTION attempts.",
+    "eduardo_carrasco_garcia": "No primary source verifies an Editorial Trillas Mexico textbook by this author. Most likely intended reference is Nelson Zicavo Crianza Compartida (Editorial Trillas, Mexico, ISBN 978-607-17-0661-4).",
+    "federacion_mexicana_FEM": "No public organisation matching Federacion Mexicana de Especialistas y Estudiosos de las Familias FEM is verifiable. The retrievable federation is Federacion Mexicana de Especialistas y Residentes en Medicina Familiar - medicina familiar, not psicologia familiar."
+  },
+  "stance_counts": {
+    "recognition": 4,
+    "critique": 3,
+    "middle": 2,
+    "institutional": 6,
+    "forensic-evaluator": 0,
+    "total": 15
+  },
+  "entries": [
+    {
+      "id": "mx-mendoza-amaro",
+      "name": "Alejandro Mendoza Amaro",
+      "credentials": "Medico Cirujano y Partero; Lic Psicologia Educativa; Maestria en Ciencias de la Salud; PhD en Psicologia Universidad de Guadalajara 2015-2018",
+      "cedula_profesional": "Not publicly displayed; SEP-registered",
+      "entidad_federativa": "Michoacan",
+      "university_affiliation": "Hospital Psiquiatrico Dr Jose Torres Orozco Secretaria de Salud Michoacan (Jefe de Ensenanza e Investigacion since Aug 2018); GARI-PA Hispanic Chapter (President); PASG core member; AMPFS Delegado Cientifico; CEAP Argentina Comite Cientifico",
+      "stance": "recognition",
+      "publications": [
+        "Analisis Comprensivo de la Sentencia Dictada por el Tribunal Pleno de la SCJN en la Accion de Inconstitucionalidad 11/2016 y sus Implicaciones en los Derechos de los Ninos Ninas y Adolescentes en Torno a la Alienacion Parental (Academia.edu)",
+        "Amicus Curiae sobre la Tesis del Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia de la SCJN respecto a la Alienacion Parental (2021, ResearchGate)",
+        "Co-author Declaration of the Global Movement for Scientific Integrity in Parental Alienation (with W. Bernet) - GARI-PA founding document",
+        "Carta al editor re Sindrome de Alienacion Parental concepto en desuso (Acta Pediatrica de Mexico)"
+      ],
+      "urls": [
+        "https://mendozaphd.wixsite.com/website",
+        "https://www.researchgate.net/profile/Alejandro-Amaro-4",
+        "https://www.linkedin.com/in/alejandromendozaamaromdphd/",
+        "https://www.academia.edu/41873290/",
+        "https://actapediatrica.org.mx/article/carta-al-editor-con-relacion-al-articulo-sindrome-de-alienacion-parental-un-concepto-que-actualmente-debe-ser-considerado-en-desuso/"
+      ],
+      "contact": "dr_mendoza@outlook.com ; +52 144 3273 0494 ; Xengua 106 Col Bosque Camelinas CP 58290 Morelia Michoacan",
+      "verification_notes": "The single most institutionally connected Mexican PA-recognition clinician - PASG + GARI-PA + CEAP + AMPFS + public-sector psychiatric hospital. Already in LATAM file; reaffirmed."
+    },
+    {
+      "id": "mx-heredia-avila-ampfs",
+      "name": "Alejandro Heredia Avila (AMPFS Director General)",
+      "credentials": "Practitioner-advocate, not credentialed clinician of record",
+      "cedula_profesional": "N/A - advocacy role",
+      "entidad_federativa": "CDMX + Estado de Mexico + Jalisco delegations",
+      "university_affiliation": "AMPFS - Asociacion Mexicana de Padres de Familia Separados A.C. (founded Oct 2002)",
+      "stance": "recognition",
+      "publications": [
+        "AMPFS public proposals to Congreso de la Union (since 2018) - Dano Moral por Alienacion Parental y Registro Nacional de Obstructores del Vinculo Filio-Paterno-Materno"
+      ],
+      "urls": [
+        "https://www.ampfs.com.mx/",
+        "https://www.facebook.com/ampfsMexico/",
+        "https://perspectivas.mx/plantea-la-ampfs-crear-registro-nacional-de-obstructores-del-vinculo-familiar-en-mexico/",
+        "https://apfs.es/ampfs-asociacion-mexicana-de-padres-de-familia-separados/"
+      ],
+      "contact": "Via AMPFS institutional channels",
+      "verification_notes": "Institutional voice through which recognition camp routes legislative-reform efforts. Not himself credentialed psicologo; included as directional gatekeeper for recognition-camp referrals."
+    },
+    {
+      "id": "mx-zicavo-trillas",
+      "name": "Nelson Zicavo Martinez",
+      "credentials": "Doctor en Psicologia; psicologo clinico",
+      "cedula_profesional": "Chile-based; published through Mexican publisher Editorial Trillas",
+      "entidad_federativa": "Functionally Mexican publishing footprint (author Chile-based)",
+      "university_affiliation": "Editorial Trillas Mexico author registry",
+      "stance": "recognition",
+      "publications": [
+        "Crianza Compartida. Sindrome de Alienacion Parental, Padrectomia, los Derechos de los Hijos ante la Separacion de los Padres (Editorial Trillas Mexico, ISBN 978-607-17-0661-4)"
+      ],
+      "urls": [
+        "https://www.researchgate.net/publication/278019380_Crianza_Compartida_Sindrome_de_Alienacion_Parental_Padrectomia_los_Derechos_de_los_Hijos_ante_la_Separacion_de_los_Padres"
+      ],
+      "contact": "Via Editorial Trillas",
+      "verification_notes": "Included for publication footprint WITHIN Mexico (Trillas = largest Mexican psicologia trade-publisher). Author personally outside Mexico but functionally indistinguishable in Mexican PA reading list. The most likely intended referent of the brief's Eduardo Carrasco Garcia Trillas-textbook query."
+    },
+    {
+      "id": "mx-torres-velazquez-iztacala",
+      "name": "Laura Evelia Torres Velazquez",
+      "credentials": "Doctora en Psicologia; profesora investigadora titular FES Iztacala UNAM; Programa Institucional de Estudios de Genero FES Iztacala",
+      "cedula_profesional": "Not publicly displayed; SEP-registered",
+      "entidad_federativa": "Estado de Mexico (Tlalnepantla)",
+      "university_affiliation": "UNAM - FES Iztacala Division de Investigacion y Posgrado",
+      "stance": "recognition",
+      "publications": [
+        "Chapter contributor CNDH (2011 2a ed) Alienacion Parental 317pp",
+        "Estilos de familia mas alla de la moderna. Una critica a la categoria de democracia familiar en Giddens (Revista Electronica de Psicologia Iztacala)",
+        "Condiciones de los y las academicas de la FES Iztacala. Un analisis cualitativo (co-author M.A. Dorantes Gomez)"
+      ],
+      "urls": [
+        "https://posgrado.iztacala.unam.mx/torres-velazquez-laura-evelia/",
+        "https://www.researchgate.net/lab/Laura-Evelia-Torres-Velazquez-Laura-Evelia-Torres-Velazquez",
+        "https://www.revistas.unam.mx/index.php/repi/article/view/22820",
+        "https://www.entrehombres.net/183-alienacion-parental-laura-evelia-torres/",
+        "https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&id_autor=18781",
+        "http://appweb.cndh.org.mx/biblioteca/archivos/pdfs/allienacionParental_2aEd.pdf"
+      ],
+      "contact": "Via FES Iztacala Division de Investigacion y Posgrado",
+      "verification_notes": "Confirmed UNAM faculty; PA-specific publication confirmed via CNDH 2011 volume + Entre Hombres MX podcast Ep 183. Most-cited UNAM voice in recognition camp; structurally unusual placement (academic-feminism circuit + recognition-side AP framing)."
+    },
+    {
+      "id": "mx-trujano-ruiz",
+      "name": "Patricia Trujano Ruiz",
+      "credentials": "Doctora en Psicologia; profesora titular FES Iztacala UNAM Carrera de Psicologia + Posgrado",
+      "cedula_profesional": "Not publicly displayed; SEP-registered",
+      "entidad_federativa": "Estado de Mexico (Tlalnepantla)",
+      "university_affiliation": "UNAM - FES Iztacala",
+      "stance": "critique",
+      "publications": [
+        "Violencia bidireccional y varones maltratados. Estudio en una muestra mexicana (Revista Latinoamericana de Medicina Conductual Vol 3 No 2, 2013)",
+        "El silencio tambien es violencia de genero: hablemos de los hombres violentados por sus mujeres (Revista de Divulgacion Crisis y Retos en la Familia y Pareja, 2021)",
+        "Varones victimas de violencia domestica: un estudio exploratorio acerca de su percepcion y aceptacion (Redalyc)"
+      ],
+      "urls": [
+        "https://psicologia.posgrado.unam.mx/patricia-trujano-ruiz/",
+        "https://scholar.google.com/citations?user=WODU4TUAAAAJ&hl=es",
+        "https://dialnet.unirioja.es/servlet/autor?codigo=256319",
+        "https://www.researchgate.net/profile/Patricia-Trujano",
+        "https://www.revistas.unam.mx/index.php/rlmc/article/view/52312",
+        "https://www.redalyc.org/pdf/2830/283041040006.pdf",
+        "https://cuved.unam.mx/revistas/index.php/rrdcr/article/view/288"
+      ],
+      "contact": "Via UNAM Posgrado Psicologia",
+      "verification_notes": "PA-specific named output is limited. Positioned in directory as UNAM-Iztacala methodological-critique voice on family violence rather than as named PA-publication author. Stance verified-by-line-of-work, not single AP paper. SAME FES as Torres Velazquez but opposite side of AP-clinical question."
+    },
+    {
+      "id": "mx-tena-guerrero-ceiich",
+      "name": "Olivia Tena Guerrero",
+      "credentials": "Lic y Mtra en Psicologia; Dra en Sociologia (Facultad de Ciencias Politicas y Sociales UNAM); Premio Mejor Tesis Doctoral en Estudios de Genero Instituto Mexiquense de la Mujer 2002",
+      "cedula_profesional": "Not publicly displayed; SEP-registered",
+      "entidad_federativa": "Ciudad de Mexico",
+      "university_affiliation": "UNAM - Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades (CEIICH); Posgrado en Estudios de Genero; Posgrado en Psicologia",
+      "stance": "critique",
+      "publications": [
+        "Estrategias para mantener el modelo de masculinidad en padres-esposos desempleados (Estudios de Genero, SciELO 2006)",
+        "Multiple chapters in CEIICH gender-studies volumes",
+        "Coordinator Programa Feminismo en Investigacion CEIICH 2007-2011; Seminario Feminismos en America Latina 2009-2011"
+      ],
+      "urls": [
+        "https://genero.posgrado.unam.mx/olivia-tena-guerrero/",
+        "https://psicologia.posgrado.unam.mx/olivia-tena-guerrero/",
+        "https://www.paginaspersonales.unam.mx/academicos/datosContacto/alias:oliviatena",
+        "https://www.researchgate.net/profile/Olivia-Tena",
+        "https://scholar.google.com/citations?user=gdw_l6sAAAAJ&hl=es",
+        "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-94362006000200440"
+      ],
+      "contact": "Via UNAM CEIICH",
+      "verification_notes": "PA-specific named publications: no se ha podido verificar publicamente. Positioned by institutional-lineage + research-line - academic-feminism / CEIICH circuit from which Mexican critique-of-SAP discourse is generated. Strong UNAM faculty verification; weaker direct-AP-publication anchor."
+    },
+    {
+      "id": "mx-cimacnoticias",
+      "name": "Cimacnoticias (CIMAC - Comunicacion e Informacion de la Mujer A.C.) / Lucia Lagunes Huerta",
+      "credentials": "Mexican feminist news agency founded 1988; Lagunes Huerta has directed CIMAC since 2001",
+      "cedula_profesional": "N/A - press institutional entry",
+      "entidad_federativa": "Ciudad de Mexico",
+      "university_affiliation": "CIMAC",
+      "stance": "critique",
+      "publications": [
+        "Juzgados de CDMX obligados a desechar Alienacion Parental (Aug 2017)",
+        "SCJN avala incluir en Codigo Penal oaxaqueno Alienacion Parental (25 Oct 2017)",
+        "Continuous coverage AI 11/2016 + CDMX 323 Septimus derogation process"
+      ],
+      "urls": [
+        "https://cimacnoticias.com.mx/",
+        "https://cimacnoticias.com.mx/noticia/juzgados-de-cdmx-obligados-a-desechar-alienacion-parental/",
+        "https://cimacnoticias.com.mx/2017/10/25/scjn-avala-incluir-en-codigo-penal-oaxaqueno-alienacion-parental/"
+      ],
+      "contact": "Via CIMAC editorial channels",
+      "verification_notes": "Institutional-press entry, not clinician. Included because Mexican PA-critique discourse cannot be source-mapped without it. Functional equivalent of Spain Publico / Brazil Conjur coverage circuit."
+    },
+    {
+      "id": "mx-instituto-mexicano-pareja",
+      "name": "Instituto Mexicano de la Pareja (IMP)",
+      "credentials": "Professional psicoterapia institute - Lic Psicologia Clinica, Maestria en Psicoterapia de Pareja e Individual, diplomados",
+      "cedula_profesional": "N/A - institutional entry",
+      "entidad_federativa": "Estado de Mexico (Naucalpan) + CDMX",
+      "university_affiliation": "Instituto Mexicano de la Pareja",
+      "stance": "middle",
+      "publications": [
+        "IMP institutional curriculum (psicoterapia de pareja + familiar sistemica)"
+      ],
+      "urls": [
+        "https://institutomexicanodelapareja.edu.mx/",
+        "https://x.com/imexicanopareja",
+        "https://www.instagram.com/institutomexicanodelapareja/"
+      ],
+      "contact": "Via IMP institutional channels",
+      "verification_notes": "No formal IMP institutional PA position publicly retrievable. Included as structural middle-camp institutional anchor by clinical-tradition lineage (terapia familiar sistemica)."
+    },
+    {
+      "id": "mx-mediacion-familiar-circuit",
+      "name": "Mediacion Familiar institutional circuit (Centros Estatales de Mediacion / Centro de Justicia Alternativa TSJCDMX)",
+      "credentials": "State Poder Judicial mediation centres",
+      "cedula_profesional": "N/A - institutional entry",
+      "entidad_federativa": "Federal (state-by-state, notably CDMX + Edomex + NL + Jalisco)",
+      "university_affiliation": "Poder Judicial estatal mediation centres",
+      "stance": "middle",
+      "publications": [
+        "Mediacion Familiar en Mexico. Avances en Justicia alternativa para conflictos familiares (Redalyc)"
+      ],
+      "urls": [
+        "https://www.redalyc.org/journal/6558/655869549006/html/",
+        "https://www.poderjudicialcdmx.gob.mx/"
+      ],
+      "contact": "Via state PJ mediation centres",
+      "verification_notes": "Not single named clinician; included as procedural-middle institutional layer where AP allegations are most often deflected from peritaje toward mediacion familiar."
+    },
+    {
+      "id": "mx-scjn",
+      "name": "Suprema Corte de Justicia de la Nacion (SCJN) - Pleno + Primera Sala + Direccion General de Derechos Humanos y Justicia Pluricultural",
+      "credentials": "Federal apex court",
+      "cedula_profesional": "N/A - institutional entry",
+      "entidad_federativa": "Federal - CDMX",
+      "university_affiliation": "SCJN",
+      "stance": "institutional",
+      "publications": [
+        "Accion de Inconstitucionalidad 11/2016 (Oaxaca) - DOF 16 May 2018",
+        "Amparo Directo en Revision 3859/2014 (Min Pte Zaldivar) - violencia familiar framing",
+        "Amparo Directo en Revision 2710/2017 - modificacion de guarda y custodia por impedir convivencias",
+        "Tesis 2015415 alienacion parental",
+        "Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia (Nov 2021)"
+      ],
+      "urls": [
+        "https://www.scjn.gob.mx/",
+        "https://www.dof.gob.mx/nota_detalle.php?codigo=5522808&fecha=16/05/2018",
+        "https://www.scjn.gob.mx/sites/default/files/cronicas_pleno_salas/documento/2019-08/cr-NLPH-0011-16.pdf",
+        "https://www2.scjn.gob.mx/juridica/engroses/3/2016/19/3_193848_3583_firmado.pdf",
+        "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/sentencia/2022-01/ADR3859-2014.pdf",
+        "https://www.sitios.scjn.gob.mx/cec/sites/default/files/page/files/2020-09/ADR%202710%202017%20V.%20P%C3%BAblica%20Modificar%20Guarda%20y%20Custodia%20por%20Impedir%20Convivencias.pdf",
+        "https://sjf2.scjn.gob.mx/detalle/tesis/2015415",
+        "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/protocolos/archivos/2021-11/Protocolo%20para%20juzgar%20con%20perspectiva%20de%20IA%2010nov21.pdf",
+        "https://www.facebook.com/SCJNMexico/posts/528715564221468/"
+      ],
+      "contact": "Direccion General de Derechos Humanos y Justicia Pluricultural SCJN Av Pino Suarez 2 Centro Historico CDMX 06065",
+      "verification_notes": "Mexican institutional doctrinal anchor cited by BOTH camps. AI 11/2016 invalidated automaticity of suspension/perdida de patria potestad - did NOT strike down figura of AP in toto. ADR 2424/2014 referenced in user-brief is no se ha podido verificar publicamente as primary source; use ADR 3859/2014 + ADR 2710/2017 as safer anchors."
+    },
+    {
+      "id": "mx-cndh",
+      "name": "Comision Nacional de los Derechos Humanos (CNDH)",
+      "credentials": "Federal autonomous human-rights body",
+      "cedula_profesional": "N/A - institutional entry",
+      "entidad_federativa": "Federal - CDMX",
+      "university_affiliation": "CNDH",
+      "stance": "institutional",
+      "publications": [
+        "Alienacion Parental (2011, 2a ed expandida) 317pp - multi-author mixed-positions institutional volume",
+        "Programa Ninez y Familia",
+        "Discussion roundtables on parental alienation + vicarious violence (post-2021)"
+      ],
+      "urls": [
+        "https://www.cndh.org.mx/",
+        "http://appweb.cndh.org.mx/biblioteca/archivos/pdfs/allienacionParental_2aEd.pdf",
+        "https://www.cndh.org.mx/tema/194/ninez-y-familia"
+      ],
+      "contact": "Via CNDH institutional channels",
+      "verification_notes": "The CNDH 2011 volume is the single most operationally-important Mexican institutional reference - both camps cite it."
+    },
+    {
+      "id": "mx-cdhcm",
+      "name": "Comision de Derechos Humanos de la Ciudad de Mexico (CDHCM, ex-CDHDF)",
+      "credentials": "State (CDMX) human-rights commission",
+      "cedula_profesional": "N/A - institutional entry",
+      "entidad_federativa": "Ciudad de Mexico",
+      "university_affiliation": "CDHCM",
+      "stance": "institutional",
+      "publications": [
+        "Alienacion parental (2015)",
+        "Reconoce la proteccion de los derechos humanos a traves de la derogacion de la mal denominada figura de alienacion parental del Codigo Civil de la Ciudad de Mexico (Aug 2017)",
+        "Amicus Curiae Amparo Directo 14/2020 SCJN (2023)"
+      ],
+      "urls": [
+        "https://cdhcm.org.mx/",
+        "https://cdhcm.org.mx/wp-content/uploads/2015/05/Alienacion-parental.pdf",
+        "https://cdhcm.org.mx/2017/08/la-cdhdf-reconoce-la-proteccion-de-los-derechos-humanos-a-traves-de-la-derogacion-de-la-mal-denominada-figura-de-alienacion-parental-del-codigo-civil-de-la-ciudad-de-mexico/",
+        "https://cdhcm.org.mx/wp-content/uploads/2023/06/Amicus-Curiae-Amparo-Directo-14-2020-SCJN.pdf"
+      ],
+      "contact": "Via CDHCM institutional channels",
+      "verification_notes": "Clearest critique-side institutional voice in Mexico. Verbatim Spanish: la mal denominada figura de alienacion parental."
+    },
+    {
+      "id": "mx-celig-congreso-cdmx",
+      "name": "CELIG - Centro de Estudios Legislativos para la Igualdad de Genero, Congreso de la Ciudad de Mexico",
+      "credentials": "Legislative-research centre Congreso CDMX II Legislatura",
+      "cedula_profesional": "N/A - institutional entry",
+      "entidad_federativa": "Ciudad de Mexico",
+      "university_affiliation": "Congreso CDMX",
+      "stance": "institutional",
+      "publications": [
+        "Informacion tecnica sobre alienacion parental (29 May 2024) - tracks state-code map + AI 11/2016 implications + gender-perspective critique line"
+      ],
+      "urls": [
+        "https://genero.congresocdmx.gob.mx/",
+        "https://genero.congresocdmx.gob.mx/wp-content/uploads/2024/05/CELIG-Inform-Te%CC%81c-Alienacio%CC%81n-Parental-29-05-24.pdf"
+      ],
+      "contact": "Via Congreso CDMX CELIG",
+      "verification_notes": "Most recent (2024) institutional Mexican-government technical brief on AP; primary source for state-code variation map."
+    },
+    {
+      "id": "mx-cedula-profesional-sep",
+      "name": "Cedula Profesional / Direccion General de Profesiones (DGP-SEP) - BUSCATEC",
+      "credentials": "Federal credentialing registry for all Mexican psicologos",
+      "cedula_profesional": "N/A - registry itself",
+      "entidad_federativa": "Federal",
+      "university_affiliation": "DGP-SEP",
+      "stance": "institutional",
+      "publications": [],
+      "urls": [
+        "https://www.cedulaprofesional.sep.gob.mx/"
+      ],
+      "contact": "Via DGP-SEP",
+      "verification_notes": "Cedula numbers generally NOT publicly displayed on practitioner sites; verification requires direct BUSCATEC lookup before formal outreach."
+    },
+    {
+      "id": "mx-sociedad-mexicana-psicologia",
+      "name": "Sociedad Mexicana de Psicologia (SMP) / Federacion Mexicana de Psicologia",
+      "credentials": "National psicologia professional society / federation",
+      "cedula_profesional": "N/A - institutional entry",
+      "entidad_federativa": "Federal",
+      "university_affiliation": "SMP",
+      "stance": "institutional",
+      "publications": [
+        "Codigo Etico del Psicologo (multiple editions) - does not address AP specifically"
+      ],
+      "urls": [
+        "https://www.sociedadmexicanadepsicologia.org/",
+        "https://www.psicologia.unam.mx/documentos/pdf/comite_etica/CODIGO_ETICO_SMP.pdf"
+      ],
+      "contact": "Via SMP institutional channels",
+      "verification_notes": "THE SINGLE MOST IMPORTANT NEGATIVE FINDING. Unlike Brazil CFP NT 4/2022 or Colombia COLPSIC 2023 Posicion Gremial, the Sociedad Mexicana de Psicologia has issued NO public institutional position on alienacion parental. Structural reason individual Mexican psicologos in either camp operate without institutional cover."
+    }
+  ],
+  "excluded_entries": [
+    {
+      "name": "Eduardo Carrasco Garcia (Editorial Trillas Mexico)",
+      "reason": "No primary source verifies Trillas textbook by this author. Likely intended referent is Nelson Zicavo Crianza Compartida (Editorial Trillas Mexico, ISBN 978-607-17-0661-4)."
+    },
+    {
+      "name": "Jose Antonio Mendez Cabrera",
+      "reason": "No se ha podido verificar publicamente an individual psicologo of that name with PA-specific publications."
+    },
+    {
+      "name": "Andrea Becerra Frola",
+      "reason": "No primary author site or institutional affiliation verifiable. Becerra C. referenced in some PA literature but not Andrea Becerra Frola specifically."
+    },
+    {
+      "name": "Velazquez de la Rosa lineage",
+      "reason": "No se ha podido verificar publicamente a named clinician with this label and PA publication footprint."
+    },
+    {
+      "name": "Roxana Hernandez Esquivel",
+      "reason": "No se ha podido verificar publicamente her UNAM affiliation or PA publications."
+    },
+    {
+      "name": "SCJN Amparo Directo en Revision 2424/2014",
+      "reason": "Specific expediente no se ha podido verificar publicamente in primary SCJN engroses. Substitute: AI 11/2016, ADR 3859/2014, ADR 2710/2017."
+    },
+    {
+      "name": "Federacion Mexicana de Especialistas y Estudiosos de las Familias (FEM)",
+      "reason": "No se ha podido verificar publicamente an organisation with this exact name. Retrievable medicina-familiar federation is FedMexMF, not psicologia familiar."
+    },
+    {
+      "name": "Dra Maria Asuncion Lara (UNAM/INPRFM)",
+      "reason": "Confirmed UNAM faculty but research line is depresion posparto / depresion en mujeres, not AP. Category mismatch."
+    },
+    {
+      "name": "INMUJERES / CONAVIM / CEAV PA-specific clinical guias",
+      "reason": "No se ha podido verificar publicamente a named PA-specific clinical guia from any of these three federal bodies."
+    }
+  ],
+  "structural_findings": [
+    "SINGLE BIGGEST: Mexico has the most layered apex-court doctrinal record on AP of any LATAM jurisdiction - and the only example of a jurisdiction that codified AP in capital civil code (CDMX 2014), then derogated it (2017), then preserved the figura at federal level while invalidating its automatic-consequence rule (SCJN AI 11/2016 Oaxaca, ruled 2017, DOF 2018). The result is a uniquely fragmented landscape where individual clinicians on both sides operate without institutional psicologia-profession cover. The Sociedad Mexicana de Psicologia has issued no PA-specific institutional position - the single most consequential negative finding.",
+    "Recognition camp is institutionally healthier at the clinical-author level (Mendoza-Amaro + AMPFS + GARI-PA triad); critique camp is institutionally healthier at the human-rights-institution level (CDHCM + CELIG + cimacnoticias triad) but thin on named individual clinician-authors with primary PA publications.",
+    "Two FES Iztacala figures (Laura Evelia Torres = recognition; Patricia Trujano = critique-adjacent) illustrate the same-campus opposite-sides pattern.",
+    "CDMX 323 Septimus chronology was significantly mis-dated in briefing-set assumption - derogation was 2017 not 2021. Post-2017 reform attempts are RE-INTRODUCTION attempts.",
+    "AI 11/2016 (Oaxaca) is the load-bearing apex-court anchor for Mexican PA jurisprudence, not ADR 2424/2014 (which is not independently verifiable).",
+    "State-code variation matters operationally more than federal doctrine - same perito working custodia case will encounter AP as tipificable category in Toluca and not in CDMX across the same Valle de Mexico metropolis.",
+    "CNDH 2011 Alienacion Parental (2nd ed, 317pp) is the single most operationally-useful Mexican institutional reference - explicitly mixed-positions, used by both camps."
+  ]
+}

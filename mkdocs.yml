@@ -1,0 +1,153 @@
+site_name: AntiAlienate Knowledge
+site_description: The open-source highway for parental alienation — case studies, evidence, playbooks, jurisdictions, practitioner directory.
+site_url: https://knowledge.antialienate.com
+repo_url: https://github.com/AntiAlienate/antialienate-knowledge
+repo_name: AntiAlienate/antialienate-knowledge
+edit_uri: edit/main/
+copyright: 'CC BY 4.0 · AntiAlienate.com'
+
+# docs_dir points at the build-time staged `docs/` directory.
+# The workflow's "Stage content into docs/" step symlinks each
+# root-level content directory into here BEFORE mkdocs runs, so
+# source files stay in place at the repo root (preserving all
+# external links to /blob/main/<dir>/file.md style URLs) while
+# MkDocs sees a clean child-directory layout.
+# To rebuild locally: run the staging commands from
+# .github/workflows/docs.yml then `mkdocs build --strict --site-dir _site`.
+docs_dir: docs
+site_dir: _site
+
+theme:
+  name: material
+  palette:
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+plugins:
+  - search
+  - awesome-pages
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AntiAlienate/antialienate-knowledge
+    - icon: fontawesome/solid/globe
+      link: https://www.antialienate.com
+    - icon: fontawesome/solid/terminal
+      link: https://get.antialienate.com
+
+nav:
+  - Home: README.md
+  - "⌘ CLI Tool": https://get.antialienate.com
+  - Start here:
+    - Playbooks: playbooks/README.md
+    - Case Studies: case-studies/README.md
+    - Evidence: evidence/README.md
+    - The Debate: the-debate/recognition-vs-critique.md
+  - Playbooks:
+    - playbooks/README.md
+    - First 90 Days: playbooks/first-90-days.md
+    - Court Prep: playbooks/court-prep-checklist.md
+    - Working With Your Lawyer: playbooks/working-with-lawyer.md
+    - Evaluator Selection: playbooks/evaluator-selection.md
+    - Reunification Therapy: playbooks/reunification-therapy.md
+    - Teen Alienation: playbooks/teen-alienation.md
+    - Documentation System: playbooks/documentation-system.md
+    - Accused of Alienation: playbooks/accused-of-alienation.md
+    - Cross-Border / Hague: playbooks/cross-border-hague.md
+    - Grandparent Alienation: playbooks/grandparent-pa.md
+    - PA and Domestic Violence: playbooks/pa-and-domestic-violence.md
+    - Step-Parent Dynamics: playbooks/step-parent-dynamics.md
+  - Case Studies:
+    - case-studies/README.md
+    - Global Comparison Matrix: case-studies/global-comparison.md
+    - Open question — US clean reversal: case-studies/open-question-clean-us-appellate-reversal-of-pa-finding.md
+  - Evidence:
+    - evidence/README.md
+    - PA as Child Abuse: evidence/pa-as-child-abuse.md
+    - Alienating Tactics as Child Abuse: evidence/alienating-tactics-as-child-abuse.md
+    - Mental-Health Outcomes: evidence/mental-health-outcomes.md
+    - Reunification Outcomes: evidence/reunification-outcomes.md
+    - Forensic Operation in Courts: evidence/forensic-operation-in-courts.md
+    - International Institutional Positions: evidence/international-institutional-positions.md
+    - Prevalence Claims: evidence/prevalence-claims.md
+    - Diagnostic Codes That Apply: evidence/diagnostic-codes-that-apply.md
+    - Court Submissions — What You Can Claim: evidence/what-court-submissions-can-claim.md
+    - Evaluator Training Asymmetry: evidence/evaluator-training-asymmetry.md
+    - Standard of Proof: evidence/standard-of-proof.md
+  - The Debate: the-debate/recognition-vs-critique.md
+  - Glossary: glossary/glossary.md
+  - Jurisdictions:
+    - jurisdictions/README.md
+  - Influencers:
+    - influencers/README.md
+  - Practitioners:
+    - practitioners/README.md
+  - Resources:
+    - resources/README.md
+  - Community:
+    - community/README.md
+  - Research databases: resources/research-databases.md
+  - Key books: resources/key-books.md
+  - Templates: templates/
+  - Case law: case-law/
+  - Tools: tools/
+  - Publishers: publishers/
+
+not_in_nav: |
+  /CONTRIBUTING.md
+  /press/
+  /docs/
+  /MEMORY.md
+  /digest/
+  /infographics/
+  /open-source/
+  /landmark-cases/
+  /clinical/
+  /comparative/
+  /dashboard/
+  /data/
+  /posts/
+  /statutes/
+  /videos/

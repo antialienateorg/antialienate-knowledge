@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "moldova",
+  "name": "Moldova (Republica Moldova)",
+  "jurisdiction_code": "MD",
+  "legal_system": "civil-law",
+  "language": ["ro"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Moldova is an Eastern European civil-law unitary republic whose family-law framework operates under the Family Code (Codul familiei, Law 1316/2000) in force 26 April 2001. Parental rights and obligations (drepturile și obligațiile părintești) are governed by Codul familiei arts. 58-78; joint exercise during marriage is the statutory default. The Curtea Supremă de Justiție (Supreme Court of Justice, Chișinău) is the apex court for civil and criminal matters; the Curtea Constituțională (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under Law 102/2017 (On the Profession of Psychologist) establishing the Comisia Națională a Psihologilor (National Commission of Psychologists). Moldova is silent on 'parental alienation' as a statutory label; courts operate substantively under the interesul superior al copilului (best-interests-of-the-child) standard. Council of Europe member; ECHR Strasbourg jurisprudence applies.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Codul familiei (Law 1316/2000) arts. 58-78",
+      "title": "Family Code 2000 — Parental rights and obligations",
+      "year": 2000,
+      "url": "https://www.legis.md/cautare/getResults?doc_id=129820",
+      "relevance": "Federal statute on family law in force 26 April 2001. Arts. 58-78 govern parental rights and obligations; joint exercise during marriage is the statutory default. Welfare standard codified."
+    },
+    {
+      "citation": "Law 102/2017 — On the Profession of Psychologist",
+      "title": "Law on the Profession of Psychologist",
+      "year": 2017,
+      "url": "https://www.legis.md/",
+      "relevance": "Federal statute establishing the Comisia Națională a Psihologilor as statutory regulator and registration framework for psychologists."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Curtea Supremă de Justiție (Supreme Court of Justice)",
+      "seat": "Chișinău",
+      "url": "http://csj.md/",
+      "role": "Apex civil and criminal court."
+    },
+    {
+      "name": "Curtea Constituțională (Constitutional Court)",
+      "seat": "Chișinău",
+      "url": "https://www.constcourt.md/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Comisia Națională a Psihologilor (National Commission of Psychologists)",
+      "url": "https://psiholog.gov.md/",
+      "role": "Statutory regulator under Law 102/2017. Operates the national register of psychologists."
+    }
+  ],
+  "anonymisation_convention": "Moldovan family-law decisions are anonymised per Curtea Supremă practice using initials.",
+  "key_developments": [
+    {
+      "year": 2000,
+      "title": "Codul familiei 2000",
+      "description": "Family Code adopted 26 October 2000; in force 26 April 2001."
+    },
+    {
+      "year": 2017,
+      "title": "Law 102/2017 Psychologists",
+      "description": "Statutory psychology profession regulation; National Commission of Psychologists established."
+    }
+  ],
+  "structural_findings": [
+    "Moldova sits structurally within the post-Soviet civil-law cluster alongside Ukraine — Codul familiei 2001 + welfare-standard family-court framework + Constitutional Court constitutional-review.",
+    "Law 102/2017 + Comisia Națională a Psihologilor places Moldova among the federal-statutory psychology regulator group within the corpus."
+  ],
+  "references": [
+    "jurisdiction:ukraine",
+    "jurisdiction:romania",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Curtea Supremă de Justiție",
+      "url": "http://csj.md/",
+      "publisher": "Curtea Supremă de Justiție",
+      "language": "ro,en"
+    },
+    {
+      "title": "Curtea Constituțională",
+      "url": "https://www.constcourt.md/",
+      "publisher": "Constitutional Court",
+      "language": "ro,en"
+    },
+    {
+      "title": "Legis.md",
+      "url": "https://www.legis.md/",
+      "publisher": "Government of Moldova",
+      "language": "ro"
+    }
+  ],
+  "editorial_notes": [
+    "Moldova jurisdiction sidecar — post-Soviet civil-law framework. Codul familiei 2001 + Law 102/2017 + Constitutional Court.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins post-Soviet civil-law + federal-statutory psychology regulator clusters."
+  ]
+}

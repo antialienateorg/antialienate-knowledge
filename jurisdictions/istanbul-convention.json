@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "istanbul-convention",
+  "name": "Istanbul Convention (Council of Europe Convention on Preventing and Combating Violence Against Women and Domestic Violence 2011 / CETS 210)",
+  "jurisdiction_code": "IST",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "tr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Istanbul Convention (Council of Europe Convention on Preventing and Combating Violence Against Women and Domestic Violence CETS 210) is a European supranational meta-framework gender-based-violence + domestic-violence binding-treaty instrument adopted by the Council of Europe — structurally distinctive globally as the only modern regional binding-treaty framework operating comprehensive gender-based-violence + domestic-violence framework with formal monitoring-body framework (Istanbul Convention adopted 11 May 2011 + effective 1 August 2014 — formal European regional binding-treaty framework establishing comprehensive gender-based-violence + domestic-violence framework, distinct from CEDAW universal framework which operates broader women's-rights framework without formal monitoring-body framework + Inter-American Belém do Pará Convention 1994 which operates broader gender-based-violence framework, structurally distinctive globally as the only modern regional binding-treaty framework operating both formal binding-treaty framework + dedicated monitoring-body framework on gender-based-violence + domestic-violence), as the central jurisdiction of the formal Council of Europe post-CEDAW comprehensive-gender-based-violence framework elaboration (Istanbul Convention adopted as European regional supplement to CEDAW framework — applicable to 38 of 46 Council of Europe member states that have ratified the Convention as of 2026, with substantial state party + non-state-party European framework reflecting limited but-not-universal European-adoption framework), as the central jurisdiction of one of the most distinctive modern Council of Europe Article 31 framework on custody-orders-after-domestic-violence framework (Convention Article 31 framework providing for state-party-obligation to take into account, in determining custody + visitation rights, formal incidents of violence against parent in custody-determination framework — formal direct intersection with parental-alienation framework, distinct from rest-of-modern-international-women's-rights frameworks which operate without formal custody-determination framework, structurally distinctive globally as the only formal regional binding-treaty Article 31 framework intersecting with parental-alienation framework), and as the central jurisdiction of the GREVIO monitoring framework (Group of Experts on Action against Violence against Women and Domestic Violence GREVIO established under Charter Article 66 — formal dedicated monitoring-body framework with formal periodic-evaluation + Country Report framework + Urgent Inquiry framework, distinct from CEDAW Committee framework operating without formal Article 31-equivalent custody-determination framework). The Istanbul Convention is binding upon 38 of 46 Council of Europe member states that have ratified the Convention as of 2026 (Turkey withdrew 1 July 2021 — first formal withdrawal from CoE human-rights treaty framework in Council of Europe history). The Convention is silent on 'parental alienation' as a statutory label, though formal Article 31 framework operates significant intersection with parental-alienation framework. The GREVIO is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The Istanbul Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Council of Europe Convention on Preventing and Combating Violence Against Women and Domestic Violence 2011 (CETS 210)",
+      "title": "Istanbul Convention",
+      "year": 2014,
+      "url": "https://www.coe.int/",
+      "relevance": "Council of Europe Convention on Preventing and Combating Violence Against Women and Domestic Violence CETS 210 adopted 11 May 2011 in Istanbul + effective 1 August 2014 — formal European regional binding-treaty framework establishing comprehensive gender-based-violence + domestic-violence framework."
+    },
+    {
+      "citation": "Istanbul Convention Article 31 (Custody, Visitation Rights and Safety)",
+      "title": "Istanbul Convention Article 31",
+      "year": 2014,
+      "url": "https://www.coe.int/",
+      "relevance": "Istanbul Convention Article 31 framework providing for state-party-obligation to take into account, in determining custody + visitation rights, formal incidents of violence against parent in custody-determination framework — formal direct intersection with parental-alienation framework."
+    },
+    {
+      "citation": "GREVIO Establishment Framework (Convention Article 66)",
+      "title": "GREVIO Establishment Framework",
+      "year": 2015,
+      "url": "https://www.coe.int/en/web/istanbul-convention/grevio",
+      "relevance": "Group of Experts on Action against Violence against Women and Domestic Violence GREVIO established 2015 under Charter Article 66 — formal dedicated monitoring-body framework with formal periodic-evaluation + Country Report framework + Urgent Inquiry framework."
+    },
+    {
+      "citation": "CEDAW (universal multilateral framework)",
+      "title": "CEDAW",
+      "year": 1981,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Elimination of All Forms of Discrimination Against Women CEDAW 1979/1981 — universal multilateral framework underlying Istanbul Convention framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Group of Experts on Action against Violence against Women and Domestic Violence (GREVIO)",
+      "seat": "Strasbourg",
+      "url": "https://www.coe.int/en/web/istanbul-convention/grevio",
+      "role": "Apex monitoring framework body for Istanbul Convention."
+    },
+    {
+      "name": "European Court of Human Rights (ECtHR)",
+      "seat": "Strasbourg",
+      "url": "https://www.echr.coe.int/",
+      "role": "Apex judicial body for related rights frameworks including ECHR Article 8 Right to Respect for Family Life + Article 3 Prohibition of Torture frameworks applicable to gender-based-violence framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Council of Europe Secretariat",
+      "url": "https://www.coe.int/",
+      "role": "Istanbul Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Istanbul Convention-related individual communications are anonymised per GREVIO + ECtHR practice using initials.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "title": "Council of Europe founded",
+      "description": "Council of Europe founded 5 May 1949 — beginning of formal Council of Europe regional framework."
+    },
+    {
+      "year": 1979,
+      "title": "CEDAW adopted",
+      "description": "UN Convention on the Elimination of All Forms of Discrimination Against Women CEDAW adopted 18 December 1979 — universal multilateral framework underlying Istanbul Convention."
+    },
+    {
+      "year": 2011,
+      "title": "Istanbul Convention adopted",
+      "description": "Council of Europe Convention on Preventing and Combating Violence Against Women and Domestic Violence CETS 210 adopted 11 May 2011 in Istanbul — formal European regional binding-treaty framework."
+    },
+    {
+      "year": 2014,
+      "title": "Istanbul Convention enters force",
+      "description": "Council of Europe Convention on Preventing and Combating Violence Against Women and Domestic Violence CETS 210 entered force 1 August 2014 — formal European regional binding-treaty framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "GREVIO established",
+      "description": "Group of Experts on Action against Violence against Women and Domestic Violence GREVIO established 2015 under Charter Article 66 — formal dedicated monitoring-body framework."
+    },
+    {
+      "year": 2021,
+      "title": "Turkey withdrawal",
+      "description": "Turkey withdrew from Istanbul Convention 1 July 2021 — first formal withdrawal from Council of Europe human-rights treaty framework in Council of Europe history."
+    },
+    {
+      "year": 2023,
+      "title": "EU bloc accession",
+      "description": "EU bloc accession to Istanbul Convention 28 June 2023 — formal EU bloc-level accession framework."
+    }
+  ],
+  "structural_findings": [
+    "Istanbul Convention operates a supranational European regional gender-based-violence + domestic-violence binding-treaty framework — places Istanbul Convention in the European supranational-meta-framework cluster.",
+    "Only modern regional binding-treaty framework operating comprehensive gender-based-violence + domestic-violence framework with formal monitoring-body framework is structurally distinctive globally — distinct from CEDAW universal framework + Inter-American Belém do Pará Convention 1994 framework.",
+    "Central jurisdiction of formal Council of Europe post-CEDAW comprehensive-gender-based-violence framework elaboration is structurally distinctive globally — Istanbul Convention framework.",
+    "Central jurisdiction of one of most distinctive modern Council of Europe Article 31 framework on custody-orders-after-domestic-violence framework is structurally distinctive globally — Convention Article 31 framework formal direct intersection with parental-alienation framework.",
+    "Central jurisdiction of GREVIO monitoring framework is structurally distinctive globally — formal dedicated monitoring-body framework.",
+    "38 of 46 Council of Europe member state party ratification framework is structurally distinctive globally — substantial state party + non-state-party European framework reflecting limited but-not-universal European-adoption framework.",
+    "Turkey withdrawal 1 July 2021 framework is structurally distinctive globally — first formal withdrawal from Council of Europe human-rights treaty framework in Council of Europe history.",
+    "EU bloc accession 2023 framework is structurally distinctive globally — formal EU bloc-level accession framework."
+  ],
+  "references": [
+    "jurisdiction:council-of-europe",
+    "jurisdiction:european-union",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:coercive-control-statutes-and-pa-critique-intersection",
+    "evidence:global-south-womens-rights-critique-register"
+  ],
+  "sources": [
+    {
+      "title": "Council of Europe — Istanbul Convention",
+      "url": "https://www.coe.int/en/web/istanbul-convention",
+      "publisher": "Council of Europe",
+      "language": "en"
+    },
+    {
+      "title": "GREVIO",
+      "url": "https://www.coe.int/en/web/istanbul-convention/grevio",
+      "publisher": "Council of Europe",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Istanbul Convention jurisdiction sidecar — supranational European regional gender-based-violence + domestic-violence binding-treaty meta-framework (Istanbul Convention 2011/2014 + Article 31 Custody framework + GREVIO Establishment 2015 + CEDAW 1979/1981 + Council of Europe founded 1949 + Turkey withdrawal 2021 + EU bloc accession 2023). Only modern regional binding-treaty framework operating comprehensive gender-based-violence + domestic-violence framework with formal monitoring-body framework globally + central jurisdiction of formal Council of Europe post-CEDAW comprehensive-gender-based-violence framework elaboration + central jurisdiction of one of most distinctive modern Council of Europe Article 31 framework on custody-orders-after-domestic-violence framework + central jurisdiction of GREVIO monitoring framework + 38 of 46 Council of Europe member state party ratification framework + Turkey withdrawal 1 July 2021 first formal withdrawal from Council of Europe human-rights treaty framework in Council of Europe history + EU bloc accession 2023 framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 31 framework operates formal direct intersection with parental-alienation framework via state-party-obligation to take into account violence against parent in custody-determination framework.",
+    "Joins European + supranational + regional-gender-based-violence-domestic-violence-binding-treaty cluster + Istanbul-Convention-Article-31-custody-determination-globally-distinctive + GREVIO-dedicated-monitoring-body + 38-of-46-Council-of-Europe-state-party-ratification + Turkey-withdrawal-2021-first-formal-CoE-treaty-withdrawal + EU-bloc-accession-2023 + CEDAW-supranational-framework-underlying + Council-of-Europe-Convention-2003-Contact-concerning-Children-complementary-framework clusters within the corpus."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0",
+  "id": "ningxia",
+  "name": "Ningxia Hui Autonomous Region (宁夏回族自治区 / نٍ شِيَا خُوِذُو زِجِ‌ٿِيُوِ)",
+  "jurisdiction_code": "CN-NX",
+  "legal_system": "civil-law",
+  "language": ["zh", "ar", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Ningxia Hui Autonomous Region (宁夏回族自治区 Níngxià Huízú Zìzhìqū in Chinese / نٍ شِيَا خُوِذُو زِجِ‌ٿِيُوِ in Xiao'erjing Arabic-script Chinese) is a Northwestern Chinese civil-law Chinese autonomous-region constituent unit of the People's Republic of China — structurally distinctive globally as the only Chinese autonomous-region established on the basis of Hui Sino-Muslim ethnic-religious framework (~36% Hui Sino-Muslim population — distinct from rest-of-China's Han-cultural-political framework, with Hui as Han-Chinese-speaking Sunni Muslim ethnic-religious community descended from Silk Road Arab + Persian + Central Asian Muslim trader frameworks 7th-13th centuries), as the smallest Chinese autonomous-region by area (~66,400 km² — ~0.7% of Chinese land area, smallest of all 5 Chinese autonomous regions), as the central jurisdiction of the modern Hui Sino-Muslim cultural-religious framework (Tongxin Great Mosque + Najiahu Mosque + Yinchuan Sino-Muslim architectural framework — distinctive Hui-Muslim mosque architectural tradition combining Chinese imperial + Arabic-Islamic architectural elements, distinct from Uyghur Turkic-Central-Asian-Muslim mosque architectural tradition in Xinjiang), and as the only modern Chinese sub-national territory operating Xiao'erjing نٍ شِيَا (Arabic-script Chinese writing system historically used by Hui Sino-Muslim communities — distinct from rest-of-Chinese-speaking world). Ningxia historically operated under multiple frameworks including Western Xia 1038-1227 (Tangut Empire) + Mongol-Yuan 1227-1368 + Ming-Qing Ningxia Wei military framework, was established as Ningxia Province 1929-1954, merged into Gansu Province 1954-1958, and was formally established as Ningxia Hui Autonomous Region 25 October 1958. Ningxia Hui Autonomous Region comprises ~66,400 km² with a population of ~7.2 million (~2.5 million Hui + ~4.5 million Han + others). Family-law framework operates under the federal Chinese civil-law framework (Chinese Marriage Law 1980 + Chinese Civil Code 2020 Family Law portion Articles 1040-1118) applied uniformly across Chinese autonomous regions. The Ningxia High People's Court is the apex regional court; final appellate jurisdiction lies with the Supreme People's Court of China. Ningxia is silent on 'parental alienation' as a statutory label. China is a Hague Convention 1980 signatory but not a party — Ningxia is governed by the Chinese non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the People's Republic of China Article 4 (Regional Ethnic Autonomy)",
+      "title": "Constitution of China Article 4",
+      "year": 1982,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Constitutional Article 4 providing for Regional Ethnic Autonomy framework — applicable to Ningxia Hui Autonomous Region."
+    },
+    {
+      "citation": "Law on Regional Ethnic Autonomy 1984 (revised 2001)",
+      "title": "Regional Ethnic Autonomy Law",
+      "year": 1984,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Law of 31 May 1984 (revised 28 February 2001) establishing Regional Ethnic Autonomy framework — applicable to Ningxia Hui Autonomous Region."
+    },
+    {
+      "citation": "Chinese Civil Code 2020 Family Law portion (Articles 1040-1118)",
+      "title": "Chinese Civil Code Family Law",
+      "year": 2020,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Civil Code 2020 Family Law portion applicable uniformly across Ningxia Hui Autonomous Region."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Ningxia High People's Court",
+      "seat": "Yinchuan",
+      "url": "https://www.court.gov.cn/",
+      "role": "Apex regional appellate court for civil and criminal matters from Ningxia Hui Autonomous Region."
+    },
+    {
+      "name": "Supreme People's Court of China",
+      "seat": "Beijing",
+      "url": "https://www.court.gov.cn/",
+      "role": "Final appellate court for civil and criminal matters from Ningxia Hui Autonomous Region."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Chinese National Health Commission (国家卫生健康委员会)",
+      "url": "http://www.nhc.gov.cn/",
+      "role": "Chinese Federal professional regulatory framework applicable in Ningxia Hui Autonomous Region."
+    }
+  ],
+  "anonymisation_convention": "Ningxia family-court decisions are anonymised per Chinese court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1038,
+      "title": "Western Xia (Tangut Empire) founded",
+      "description": "Western Xia (Tangut Empire) 1038-1227 — centred in modern Ningxia, distinct Tangut-script + Buddhist framework."
+    },
+    {
+      "year": 1227,
+      "title": "Mongol conquest of Western Xia",
+      "description": "Mongol conquest of Western Xia 1227 — Chinggis Khan's final campaign, integration into Mongol-Yuan framework 1227-1368."
+    },
+    {
+      "year": 1929,
+      "title": "Ningxia Province established",
+      "description": "Ningxia Province established 1929 — separation from Gansu Province framework 1929-1954."
+    },
+    {
+      "year": 1954,
+      "title": "Ningxia Province merged with Gansu",
+      "description": "Ningxia Province merged into Gansu Province 1954-1958 — interim merger framework."
+    },
+    {
+      "year": 1958,
+      "title": "Ningxia Hui Autonomous Region established",
+      "description": "Ningxia Hui Autonomous Region formally established 25 October 1958 — establishment as Hui Sino-Muslim autonomous region framework."
+    },
+    {
+      "year": 1984,
+      "title": "Regional Ethnic Autonomy Law",
+      "description": "Chinese Federal Regional Ethnic Autonomy Law 1984 providing legal framework for Ningxia Hui Autonomous Region."
+    },
+    {
+      "year": 2018,
+      "title": "Yinchuan Grand Mosque demolition reversal",
+      "description": "Yinchuan Grand Mosque demolition reversal August 2018 — pivotal Hui Sino-Muslim cultural-religious-framework contestation, reversal of planned demolition following Hui protests."
+    }
+  ],
+  "structural_findings": [
+    "Ningxia operates a federal Chinese civil-law autonomous-region framework — places Ningxia in the Northwestern Chinese autonomous-region cluster.",
+    "Only Chinese autonomous-region established on basis of Hui Sino-Muslim ethnic-religious framework is structurally distinctive globally — ~36% Hui Sino-Muslim population.",
+    "Smallest Chinese autonomous-region by area (~66,400 km² / ~0.7% of Chinese land area) is structurally distinctive within Chinese autonomous-region cluster — smallest of all 5 Chinese autonomous regions.",
+    "Central jurisdiction of modern Hui Sino-Muslim cultural-religious framework is structurally distinctive globally — Hui-Muslim mosque architectural tradition combining Chinese imperial + Arabic-Islamic architectural elements.",
+    "Only modern Chinese sub-national territory operating Xiao'erjing Arabic-script Chinese writing system is structurally distinctive globally — distinct from rest-of-Chinese-speaking world.",
+    "Western Xia (Tangut Empire) 1038-1227 historical framework is structurally distinctive globally — Tangut-script + Buddhist Empire centred on modern Ningxia.",
+    "Hui Sino-Muslim community descended from Silk Road Arab + Persian + Central Asian Muslim trader frameworks 7th-13th centuries is structurally distinctive globally — Han-Chinese-speaking Sunni Muslim ethnic-religious community.",
+    "Chinese non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:tibet",
+    "jurisdiction:xinjiang",
+    "jurisdiction:inner-mongolia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ningxia Hui Autonomous Region Government",
+      "url": "https://www.nx.gov.cn/",
+      "publisher": "Ningxia Hui Autonomous Region Government",
+      "language": "zh"
+    }
+  ],
+  "editorial_notes": [
+    "Ningxia Hui Autonomous Region jurisdiction sidecar — civil-law Northwestern Chinese Chinese-autonomous-region (Chinese Civil Code 2020 + Chinese Marriage Law 1980 + Constitution Article 4 Regional Ethnic Autonomy + Regional Ethnic Autonomy Law 1984/2001 + Western Xia Tangut Empire 1038-1227 + Mongol-Yuan 1227-1368 + Ningxia Province 1929-1958 + Ningxia Hui Autonomous Region 1958+ + 2018 Yinchuan Grand Mosque demolition reversal + Hui Sino-Muslim ethnic-religious framework + Xiao'erjing Arabic-script Chinese + Hui-Muslim mosque architectural tradition + Chinese non-Hague-1980). Only Chinese autonomous-region established on basis of Hui Sino-Muslim ethnic-religious framework globally + smallest Chinese autonomous-region by area + central jurisdiction of modern Hui Sino-Muslim cultural-religious framework + only modern Chinese sub-national territory operating Xiao'erjing Arabic-script Chinese writing system globally + Western Xia Tangut Empire historical framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northwestern-Chinese + civil-law + Chinese-autonomous-region cluster + Hui-Sino-Muslim-ethnic-religious-framework-globally-distinctive + smallest-Chinese-autonomous-region-by-area + Hui-Muslim-mosque-architectural-tradition + Xiao-erjing-Arabic-script-Chinese + Western-Xia-Tangut-Empire-1038-1227 + 2018-Yinchuan-Grand-Mosque-demolition-reversal + Chinese-non-Hague-1980 clusters within the corpus."
+  ]
+}

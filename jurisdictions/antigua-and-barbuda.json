@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "id": "antigua-and-barbuda",
+  "name": "Antigua and Barbuda",
+  "jurisdiction_code": "AG",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Antigua and Barbuda is a Caribbean common-law constitutional monarchy whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance of Children Act, the Status of Children Act, and case-law applying the welfare-of-the-child principle. Parental responsibility and child custody are governed by case-law and Maintenance of Children Act provisions. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Antigua and Barbuda) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health, Wellness and the Environment framework. Antigua and Barbuda is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Antigua and Barbuda is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Divorce Act CAP 150",
+      "title": "Divorce Act",
+      "year": 1997,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal divorce statute."
+    },
+    {
+      "citation": "Maintenance of Children Act",
+      "title": "Maintenance of Children Act",
+      "year": 1949,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on maintenance obligations including child support."
+    },
+    {
+      "citation": "Status of Children Act 2008",
+      "title": "Status of Children Act",
+      "year": 2008,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Federal statute on legal status of children."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Eastern Caribbean Supreme Court — Court of Appeal",
+      "seat": "St. John's",
+      "url": "https://www.eccourts.org/",
+      "role": "Apex domestic appellate court for OECS states including Antigua and Barbuda."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Antigua and Barbuda."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Wellness and the Environment, Antigua and Barbuda",
+      "url": "https://www.ab.gov.ag/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Antiguan family-court decisions are anonymised per Eastern Caribbean Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1981,
+      "title": "Independence",
+      "description": "Antigua and Barbuda achieved independence from the United Kingdom; retained JCPC as final appellate court."
+    },
+    {
+      "year": 2008,
+      "title": "Status of Children Act",
+      "description": "Federal statute on legal status of children enacted."
+    }
+  ],
+  "structural_findings": [
+    "Antigua and Barbuda operates a common-law framework — places Antigua and Barbuda in the OECS-Anglophone Caribbean common-law cluster.",
+    "Eastern Caribbean Supreme Court appellate jurisdiction places Antigua and Barbuda in the OECS-shared-judicial-system cluster.",
+    "Judicial Committee of the Privy Council retention as final appellate court is shared with other OECS Anglophone states.",
+    "Non-Hague Convention status places Antigua and Barbuda in the non-Hague Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:saint-lucia",
+    "jurisdiction:trinidad-and-tobago",
+    "jurisdiction:united-kingdom",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Eastern Caribbean Supreme Court",
+      "url": "https://www.eccourts.org/",
+      "publisher": "ECSC",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Antigua and Barbuda jurisdiction sidecar — common-law Caribbean (OECS-ECSC appellate + JCPC final-appellate + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins OECS-Anglophone Caribbean + common-law + OECS-shared-judicial-system + JCPC-final-appellate + non-Hague Convention clusters within the corpus."
+  ]
+}

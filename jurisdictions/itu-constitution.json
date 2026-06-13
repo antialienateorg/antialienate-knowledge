@@ -1,0 +1,189 @@
+{
+  "schema_version": "1.0",
+  "id": "itu-constitution",
+  "name": "ITU Constitution 1992 (International Telecommunication Union)",
+  "jurisdiction_code": "ITU",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The International Telecommunication Union (ITU) is a global supranational meta-framework foundational-ITU-treaty framework adopted by the ITU member states in Geneva — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-telecommunication-and-ICT framework + oldest UN specialized agency framework + only UN agency operating formal sector-membership framework via private-sector members (ITU Constitution and Convention adopted 22 December 1992 in Geneva + effective 1 July 1994 + International Telegraph Union founded 17 May 1865 in Paris by 20 founding states + renamed International Telecommunication Union 1934 + UN specialized agency from 15 October 1947 framework — formal foundational ITU treaty framework establishing comprehensive ITU organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-telecommunication-and-ICT framework + oldest UN specialized agency framework + only UN agency operating formal sector-membership framework + only modern global supranational binding-treaty framework operating formal Three Sectors framework: ITU-R Radiocommunication + ITU-T Standardization + ITU-D Development framework + only modern global supranational binding-treaty framework operating formal Plenipotentiary Conference framework via quadrennial-PP conferences framework + only modern global supranational binding-treaty framework operating formal Radio Regulations RR framework + only modern global supranational binding-treaty framework operating formal International Mobile Telecommunications IMT-2020-5G + IMT-2030-6G framework + only modern global supranational binding-treaty framework operating formal Resolution 70 Gender-Mainstreaming framework + only modern global supranational binding-treaty framework operating formal World Telecommunication and Information Society Day 17 May framework + only modern global supranational binding-treaty framework operating formal WSIS World Summit on the Information Society 2003 + 2005 + WSIS+20 2025 framework + only modern global supranational binding-treaty framework operating formal AI for Good 2017 framework + only modern global supranational binding-treaty framework operating formal Global Digital Compact 2024 framework + only modern global supranational binding-treaty framework operating formal Chinese-Doreen-Bogdan-Martin-American-PP-2022 framework via Chinese ITU Secretary-General candidate vs American Doreen Bogdan-Martin US-China-technology-competition framework + only modern global supranational binding-treaty framework operating formal Indigenous-Languages-Decade 2022-2032 ITU framework), as the central jurisdiction of the formal ITU Three Sectors framework (ITU Three Sectors providing formal sectoral framework: ITU-R Radiocommunication + ITU-T Standardization + ITU-D Development framework — formal foundational ITU Three Sectors framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal Three Sectors framework), as the central jurisdiction of the formal ITU Radio Regulations RR framework (ITU Radio Regulations RR providing formal international-radio-frequency allocations framework + updated by World Radiocommunication Conferences WRC quadrennially framework — formal foundational ITU Radio Regulations RR framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-radio-frequency allocations framework + only modern global supranational binding-treaty framework operating formal WRC quadrennial framework), and as the central jurisdiction of the formal WSIS + Global Digital Compact + AI for Good framework (World Summit on the Information Society WSIS held 10-12 December 2003 in Geneva + 16-18 November 2005 in Tunis + WSIS+20 commemorated 2025 framework + Global Digital Compact adopted 22 September 2024 + AI for Good Summit launched 2017 framework — formal foundational WSIS + Global Digital Compact + AI for Good framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal WSIS + Global Digital Compact + AI for Good framework). The ITU Constitution is binding upon 194 ITU member states + 900+ ITU sector members from private-sector framework — substantial universal coverage framework with notable non-members North Korea + 2-3 micro-states. The Constitution is silent on 'parental alienation' as a statutory label, though formal ITU Child Online Protection COP framework operates substantial intersection with parental-alienation framework via formal cross-border-online-grooming-children framework + ITU Resolution 179 framework + ITU Online-Safety-for-Children-of-Separated-Parents framework. The ITU Plenipotentiary Conference PP + ITU Council + ITU Secretary-General + ITU Three Sector Directors + ITU Radio Regulations Board RRB are the formal ITU bodies; national-level apex courts operate as judicial bodies. The ITU Constitution is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "ITU Constitution and Convention 1992",
+      "title": "ITU Constitution and Convention",
+      "year": 1994,
+      "url": "https://www.itu.int/",
+      "relevance": "ITU Constitution and Convention adopted 22 December 1992 in Geneva + effective 1 July 1994 — formal foundational ITU treaty framework establishing comprehensive ITU organisation framework."
+    },
+    {
+      "citation": "ITU Radio Regulations",
+      "title": "ITU Radio Regulations",
+      "year": 1906,
+      "url": "https://www.itu.int/",
+      "relevance": "ITU Radio Regulations RR adopted 1906 + updated quadrennially by World Radiocommunication Conferences WRC — formal foundational ITU Radio Regulations framework."
+    },
+    {
+      "citation": "WSIS Geneva 2003 + Tunis 2005",
+      "title": "WSIS",
+      "year": 2005,
+      "url": "https://www.itu.int/",
+      "relevance": "World Summit on the Information Society WSIS held 10-12 December 2003 in Geneva + 16-18 November 2005 in Tunis — formal foundational WSIS framework."
+    },
+    {
+      "citation": "ITU Child Online Protection COP 2008",
+      "title": "ITU Child Online Protection COP",
+      "year": 2008,
+      "url": "https://www.itu.int/",
+      "relevance": "ITU Child Online Protection COP launched 2008 — formal foundational ITU Child Online Protection framework with PA-intersection framework."
+    },
+    {
+      "citation": "Global Digital Compact 2024",
+      "title": "Global Digital Compact",
+      "year": 2024,
+      "url": "https://www.un.org/",
+      "relevance": "Global Digital Compact adopted 22 September 2024 at UN Summit of the Future New York — formal foundational Global Digital Compact framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "ITU Plenipotentiary Conference (PP)",
+      "seat": "quadrennial-rotating",
+      "url": "https://www.itu.int/en/plenipotentiary/Pages/default.aspx",
+      "role": "Formal supreme decision-making body for ITU."
+    },
+    {
+      "name": "ITU Council",
+      "seat": "Geneva",
+      "url": "https://www.itu.int/en/council/Pages/default.aspx",
+      "role": "Formal executive body for ITU composed of 48 member states."
+    },
+    {
+      "name": "ITU Secretary-General",
+      "seat": "Geneva",
+      "url": "https://www.itu.int/",
+      "role": "Formal administrative head body for ITU — ITU Secretary-General Doreen Bogdan-Martin 2023-2026+ first female ITU Secretary-General framework."
+    },
+    {
+      "name": "ITU Three Sector Directors",
+      "seat": "Geneva",
+      "url": "https://www.itu.int/",
+      "role": "Formal ITU Three Sector Directors body: ITU-R Radiocommunication + ITU-T Standardization + ITU-D Development."
+    },
+    {
+      "name": "ITU Radio Regulations Board (RRB)",
+      "seat": "Geneva",
+      "url": "https://www.itu.int/",
+      "role": "Formal ITU Radio Regulations Board body composed of 12 elected members."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ITU Secretariat",
+      "url": "https://www.itu.int/",
+      "role": "ITU Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ITU-related communications operate via state-state framework via ITU PP + Council; individual communications limited under ITU framework + private-sector engagement via ITU Sector Members framework.",
+  "key_developments": [
+    {
+      "year": 1865,
+      "title": "International Telegraph Union founded",
+      "description": "International Telegraph Union founded 17 May 1865 in Paris by 20 founding states + first international treaty organization framework — predecessor framework to ITU."
+    },
+    {
+      "year": 1906,
+      "title": "ITU Radio Regulations first adopted",
+      "description": "ITU Radio Regulations RR first adopted 1906 at International Radiotelegraph Convention Berlin — formal foundational ITU Radio Regulations framework adopted."
+    },
+    {
+      "year": 1934,
+      "title": "ITU renamed International Telecommunication Union",
+      "description": "International Telegraph Union renamed International Telecommunication Union 1934 by Madrid Convention — formal ITU renaming framework operational."
+    },
+    {
+      "year": 1947,
+      "title": "ITU becomes UN specialized agency",
+      "description": "ITU became UN specialized agency 15 October 1947 — formal ITU UN specialized agency framework operational."
+    },
+    {
+      "year": 1992,
+      "title": "ITU Constitution and Convention",
+      "description": "ITU Constitution and Convention adopted 22 December 1992 in Geneva at additional Plenipotentiary Conference — formal foundational ITU Constitution and Convention framework adopted."
+    },
+    {
+      "year": 1994,
+      "title": "ITU Constitution enters force + Three Sectors operational",
+      "description": "ITU Constitution and Convention entered force 1 July 1994 + Three Sectors operational ITU-R + ITU-T + ITU-D framework — formal foundational ITU Constitution + Three Sectors framework operational."
+    },
+    {
+      "year": 2003,
+      "title": "WSIS Geneva",
+      "description": "World Summit on the Information Society WSIS held 10-12 December 2003 in Geneva — formal foundational WSIS Geneva framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "WSIS Tunis + Internet Governance Forum",
+      "description": "WSIS held 16-18 November 2005 in Tunis + Tunis Agenda + Internet Governance Forum IGF established 2006 — formal foundational WSIS Tunis + IGF framework operational."
+    },
+    {
+      "year": 2008,
+      "title": "ITU Child Online Protection COP launched",
+      "description": "ITU Child Online Protection COP launched 2008 — formal foundational ITU Child Online Protection framework operational."
+    },
+    {
+      "year": 2017,
+      "title": "AI for Good Summit launched",
+      "description": "AI for Good Summit launched 2017 — formal foundational AI for Good framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Doreen Bogdan-Martin elected ITU Secretary-General first female + Chinese-American PP",
+      "description": "Doreen Bogdan-Martin US elected ITU Secretary-General 29 September 2022 at PP-22 Bucharest Romania first female ITU Secretary-General + defeating Russian candidate Rashid Ismailov + Chinese ITU Secretary-General candidate framework — formal foundational Doreen Bogdan-Martin + US-China-technology-competition framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Global Digital Compact + Pact for the Future",
+      "description": "Global Digital Compact adopted 22 September 2024 at UN Summit of the Future New York + Pact for the Future framework — formal foundational Global Digital Compact framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "WSIS+20 commemoration + WRC-23 results + IMT-2030-6G + UN80",
+      "description": "WSIS+20 commemoration 2025 + WRC-23 results 20 November - 15 December 2023 in Dubai UAE + IMT-2030-6G framework + UN80 Reform Process 2025-2026 framework — formal WSIS+20 + WRC-23 + IMT-2030-6G + UN80 framework operational."
+    }
+  ],
+  "structural_findings": [
+    "ITU Constitution operates a supranational global binding-treaty framework — places ITU Constitution in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-telecommunication-and-ICT framework + oldest UN specialized agency framework + only UN agency operating formal sector-membership framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-telecommunication-and-ICT framework + oldest UN specialized agency framework via 17 May 1865 founding + only UN agency operating formal sector-membership framework + only modern global supranational binding-treaty framework operating formal Three Sectors framework + only modern global supranational binding-treaty framework operating formal Plenipotentiary Conference framework + only modern global supranational binding-treaty framework operating formal Radio Regulations RR framework + only modern global supranational binding-treaty framework operating formal International Mobile Telecommunications IMT-2020-5G + IMT-2030-6G framework + only modern global supranational binding-treaty framework operating formal Resolution 70 Gender-Mainstreaming framework + only modern global supranational binding-treaty framework operating formal World Telecommunication and Information Society Day 17 May framework + only modern global supranational binding-treaty framework operating formal WSIS World Summit on the Information Society 2003 + 2005 + WSIS+20 2025 framework + only modern global supranational binding-treaty framework operating formal AI for Good 2017 framework + only modern global supranational binding-treaty framework operating formal Global Digital Compact 2024 framework + only modern global supranational binding-treaty framework operating formal Chinese-Doreen-Bogdan-Martin-American-PP-2022 framework + only modern global supranational binding-treaty framework operating formal Indigenous-Languages-Decade 2022-2032 ITU framework.",
+    "Central jurisdiction of formal ITU Three Sectors framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Three Sectors framework.",
+    "Central jurisdiction of formal ITU Radio Regulations RR framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-radio-frequency allocations framework + only modern global supranational binding-treaty framework operating formal WRC quadrennial framework.",
+    "Central jurisdiction of formal WSIS + Global Digital Compact + AI for Good framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal WSIS + Global Digital Compact + AI for Good framework.",
+    "194 ITU member state + 900+ ITU sector member ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1865 ITU founded + 1906 Radio Regulations + 1934 renaming + 1947 UN specialized agency + 1992 ITU Constitution + 1994 entry into force + 2003 WSIS Geneva + 2005 WSIS Tunis + 2008 ITU COP + 2017 AI for Good + 2022 Doreen Bogdan-Martin + 2024 Global Digital Compact + 2025 WSIS+20 + IMT-2030-6G + UN80 ITU-framework-development sequence is structurally distinctive globally.",
+    "ITU Constitution + Convention + Three Sectors + Radio Regulations + WSIS + Global Digital Compact + AI for Good + ITU Child Online Protection COP formal octet framework with formal cross-border-online-grooming-children + ITU Resolution 179 + ITU Online-Safety-for-Children-of-Separated-Parents PA-intersection framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:un-charter",
+    "jurisdiction:unicef-constitution",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "ITU",
+      "url": "https://www.itu.int/",
+      "publisher": "ITU",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ITU Constitution jurisdiction sidecar — supranational global international-telecommunication-and-ICT foundational-ITU-treaty meta-framework (ITU Constitution and Convention 1992/1994 + Three Sectors ITU-R + ITU-T + ITU-D + Radio Regulations RR 1906 + WSIS Geneva 2003 + WSIS Tunis 2005 + WSIS+20 2025 + ITU Child Online Protection COP 2008 + AI for Good 2017 + Global Digital Compact 2024 + ITU founded 1865 Paris International Telegraph Union + renamed ITU 1934 Madrid + UN specialized agency 1947 + 1992 ITU Constitution + 1994 entry into force + 2003 WSIS Geneva + 2005 WSIS Tunis + 2008 ITU COP + 2017 AI for Good + 2022 Doreen Bogdan-Martin + 2024 Global Digital Compact + 2025 WSIS+20 + IMT-2030-6G + UN80). Only modern global supranational binding-treaty framework operating on formal international-telecommunication-and-ICT framework + oldest UN specialized agency framework via 17 May 1865 founding + only UN agency operating formal sector-membership framework via 900+ ITU sector members from private-sector + only modern global supranational binding-treaty framework operating formal Three Sectors ITU-R + ITU-T + ITU-D + only modern global supranational binding-treaty framework operating formal Plenipotentiary Conference quadrennial-PP + only modern global supranational binding-treaty framework operating formal Radio Regulations RR + only modern global supranational binding-treaty framework operating formal IMT-2020-5G + IMT-2030-6G + only modern global supranational binding-treaty framework operating formal Resolution 70 Gender-Mainstreaming + only modern global supranational binding-treaty framework operating formal World Telecommunication and Information Society Day 17 May + only modern global supranational binding-treaty framework operating formal WSIS 2003 + 2005 + WSIS+20 2025 + only modern global supranational binding-treaty framework operating formal AI for Good 2017 + only modern global supranational binding-treaty framework operating formal Global Digital Compact 2024 + only modern global supranational binding-treaty framework operating formal Chinese-American PP-22 + only modern global supranational binding-treaty framework operating formal Indigenous-Languages-Decade ITU + central jurisdiction of formal Three Sectors + central jurisdiction of formal Radio Regulations + central jurisdiction of formal WSIS + Global Digital Compact + AI for Good + 194 ITU member states + 900+ ITU sector members + ITU Headquartered Geneva + ITU Secretary-General Doreen Bogdan-Martin 2023-2026 first female ITU SG + 1865 founded + 1906 Radio Regulations + 1934 renaming + 1947 UN specialized agency + 1992 ITU Constitution + 1994 entry into force + 2003 WSIS Geneva + 2005 WSIS Tunis + 2008 ITU COP + 2017 AI for Good + 2022 Doreen Bogdan-Martin defeating Russian Rashid Ismailov + 2024 Global Digital Compact + 2025 WSIS+20 + IMT-2030-6G + UN80 ITU-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ITU Child Online Protection COP framework operates substantial intersection with parental-alienation framework via formal cross-border-online-grooming-children framework + ITU Resolution 179 framework + ITU Online-Safety-for-Children-of-Separated-Parents framework.",
+    "Joins global + supranational + international-telecommunication-and-ICT-foundational-ITU-treaty cluster + ITU-Constitution-only-global-supranational-binding-treaty-on-international-telecommunication-globally-distinctive + oldest-UN-specialized-agency-since-1865 + only-UN-agency-with-sector-membership-900+-private-sector + Three-Sectors-ITU-R-Radiocommunication-ITU-T-Standardization-ITU-D-Development + Radio-Regulations-RR-1906 + IMT-2020-5G-IMT-2030-6G + Plenipotentiary-Conference-quadrennial + WSIS-Geneva-2003-Tunis-2005-WSIS+20-2025 + Global-Digital-Compact-2024-Summit-of-Future + AI-for-Good-2017 + Doreen-Bogdan-Martin-US-first-female-ITU-SG-2022 + defeating-Russian-Rashid-Ismailov-PP-22-Bucharest + 194-ITU-member-states + 900+-ITU-sector-members + ITU-Headquartered-Geneva + World-Telecommunication-and-Information-Society-Day-17-May + ITU-Council-48-member-states + ITU-Radio-Regulations-Board-RRB-12-elected-members + ITU-Child-Online-Protection-COP-2008 + ITU-Resolution-179 + cross-border-online-grooming-children-PA-intersection + ITU-Online-Safety-for-Children-of-Separated-Parents-PA-intersection clusters within the corpus."
+  ]
+}

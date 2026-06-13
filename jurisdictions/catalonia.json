@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "id": "catalonia",
+  "name": "Catalonia (Catalunya / Cataluña)",
+  "jurisdiction_code": "ES-CT",
+  "legal_system": "civil-law",
+  "language": ["ca", "es", "oc"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Catalonia (Catalunya / Cataluña) is a North-eastern Iberian civil-law autonomous community of the Kingdom of Spain — structurally distinctive globally as the only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from the national civil code (Codi Civil de Catalunya / CCCat, adopted incrementally 2002-2017, replacing the Compilation of Catalan Civil Law 1960), and as the central jurisdiction of the contested 2017 Catalan independence referendum and subsequent Spanish Constitutional Court constitutional crisis. Catalonia's distinct civil-law tradition (dret civil català) derives from the medieval Usatges de Barcelona (~1060) and Constitucions de Catalunya, was preserved through the 1714 War of the Spanish Succession Decretos de Nueva Planta (despite abolition of Catalan political institutions), formally compiled in the 1960 Compilation of Catalan Civil Law (Compilació del Dret Civil de Catalunya), and comprehensively recodified as the Codi Civil de Catalunya 2002-2017 in six books: Book I General Provisions 2002, Book II Persons and Family 2010, Book III Persons and Family 2008, Book IV Successions 2008, Book V Real Rights 2006, Book VI Obligations and Contracts 2017. Family-law framework operates under Codi Civil de Catalunya Book II Persons and Family 2010 (Llei 25/2010), distinguishing Catalan from Spanish national family-law framework (Código Civil Articles 90-110). Parental authority (potestat parental) and child custody (guarda i custòdia) operate under CCCat Articles 233-1 to 233-13 with strong presumption of joint custody (custòdia compartida) since 2010 reform — among the strongest joint-custody-presumption frameworks in Europe. The Catalan High Court of Justice (Tribunal Superior de Justícia de Catalunya) is the apex appellate court for Catalan civil-law matters; final appellate jurisdiction on Spanish constitutional questions lies with the Spanish Constitutional Court (Tribunal Constitucional). Catalonia is silent on 'parental alienation' as a statutory label, though Catalan superior courts have considered the concept substantively in case law including Sentencia 14/2021 (Audiència Provincial de Barcelona). Spain is a Hague Convention 1980 party (acceded 16 June 1987) — Catalan Hague applicability via Spanish federal extension subject to Catalan civil-code-specific application framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Codi Civil de Catalunya (CCCat) 2002-2017",
+      "title": "Codi Civil de Catalunya",
+      "year": 2010,
+      "url": "https://www.parlament.cat/",
+      "relevance": "Catalan Civil Code recodified incrementally 2002-2017 in six books — only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from national civil code. Book II Persons and Family 2010 (Llei 25/2010) governs family law including parental authority and child custody."
+    },
+    {
+      "citation": "Statute of Autonomy of Catalonia 2006",
+      "title": "Statute of Autonomy of Catalonia",
+      "year": 2006,
+      "url": "https://www.parlament.cat/",
+      "relevance": "Spanish Organic Law establishing Catalan autonomous-community governance framework with distinct civil-law jurisdiction preservation under Spanish Constitution Article 149.1.8."
+    },
+    {
+      "citation": "Spanish Constitution 1978 Article 149.1.8",
+      "title": "Spanish Constitution Article 149.1.8",
+      "year": 1978,
+      "url": "https://www.boe.es/",
+      "relevance": "Spanish Constitution providing for federal-level competence over civil legislation except in autonomous communities with preserved foral or special civil law — constitutional foundation for Catalan civil-code jurisdiction."
+    },
+    {
+      "citation": "Compilació del Dret Civil de Catalunya 1960 (replaced by CCCat)",
+      "title": "Compilation of Catalan Civil Law 1960",
+      "year": 1960,
+      "url": "https://www.boe.es/",
+      "relevance": "Predecessor compilation of Catalan civil law — replaced incrementally by Codi Civil de Catalunya 2002-2017."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tribunal Superior de Justícia de Catalunya (TSJC)",
+      "seat": "Barcelona",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Apex appellate court for Catalan civil-law matters from Catalonia."
+    },
+    {
+      "name": "Tribunal Constitucional de España (Spanish Constitutional Court)",
+      "seat": "Madrid",
+      "url": "https://www.tribunalconstitucional.es/",
+      "role": "Apex Spanish constitutional court for federal constitutional questions from Catalonia."
+    },
+    {
+      "name": "Tribunal Supremo de España (Spanish Supreme Court)",
+      "seat": "Madrid",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Apex Spanish appellate court for Spanish-national-law matters from Catalonia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Col·legi Oficial de Psicologia de Catalunya (COPC)",
+      "url": "https://www.copc.cat/",
+      "role": "Catalan autonomous-community professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Catalan family-court decisions are anonymised per Catalan court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1060,
+      "title": "Usatges de Barcelona",
+      "description": "Usatges de Barcelona ~1060 established foundation of Catalan customary civil law."
+    },
+    {
+      "year": 1714,
+      "title": "Decretos de Nueva Planta",
+      "description": "Following 1714 War of the Spanish Succession, Decretos de Nueva Planta abolished Catalan political institutions but preserved Catalan civil-law tradition."
+    },
+    {
+      "year": 1960,
+      "title": "Compilació del Dret Civil de Catalunya",
+      "description": "Compilation of Catalan Civil Law adopted 21 July 1960 — first modern formal codification of Catalan civil law."
+    },
+    {
+      "year": 1978,
+      "title": "Spanish Constitution + Article 149.1.8 civil-law preservation",
+      "description": "Spanish Constitution of 1978 Article 149.1.8 preserving foral or special civil law in autonomous communities including Catalonia."
+    },
+    {
+      "year": 2010,
+      "title": "CCCat Book II Persons and Family + joint-custody presumption",
+      "description": "Catalan Civil Code Book II Persons and Family adopted 30 July 2010 — establishing strong presumption of joint custody (custòdia compartida) under Article 233-10."
+    },
+    {
+      "year": 2017,
+      "title": "Catalan independence referendum + Spanish constitutional crisis",
+      "description": "Catalan independence referendum of 1 October 2017 followed by Catalan Parliament unilateral independence declaration of 27 October 2017 — declared illegal by Spanish Constitutional Court. Subsequent application of Constitution Article 155 by Spanish Government."
+    },
+    {
+      "year": 2017,
+      "title": "CCCat Book VI Obligations and Contracts",
+      "description": "Catalan Civil Code Book VI Obligations and Contracts adopted 2017 — completing six-book civil code recodification 2002-2017."
+    }
+  ],
+  "structural_findings": [
+    "Catalonia operates a civil-law framework with own Catalan civil-code jurisdiction — places Catalonia in the EU subnational civil-law-with-own-code cluster.",
+    "Only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from the national civil code is structurally distinctive globally.",
+    "Codi Civil de Catalunya six-book recodification 2002-2017 is structurally distinctive globally — modern multi-book EU subnational civil-code recodification.",
+    "CCCat Book II Persons and Family Article 233-10 strong presumption of joint custody (custòdia compartida) since 2010 is structurally distinctive within European family-law cluster — among strongest joint-custody-presumption frameworks in Europe.",
+    "2017 Catalan independence referendum + subsequent Spanish constitutional crisis is structurally distinctive globally — modern EU subnational independence-referendum-vs-constitutional-court conflict.",
+    "Tribunal Superior de Justícia de Catalunya as apex Catalan-civil-law appellate court is structurally distinctive — only EU subnational apex appellate court for distinct subnational civil-code jurisdiction.",
+    "Spanish Hague Convention 1980 accession 1987 + Catalan civil-code-specific application framework is structurally distinctive — federal Hague extension binding on subnational civil-code jurisdiction."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:france",
+    "jurisdiction:andorra",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Parlament de Catalunya",
+      "url": "https://www.parlament.cat/",
+      "publisher": "Catalan Government",
+      "language": "ca"
+    },
+    {
+      "title": "Tribunal Superior de Justícia de Catalunya",
+      "url": "https://www.poderjudicial.es/",
+      "publisher": "Spanish Government",
+      "language": "ca"
+    },
+    {
+      "title": "Tribunal Constitucional de España",
+      "url": "https://www.tribunalconstitucional.es/",
+      "publisher": "Spanish Government",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Catalonia jurisdiction sidecar — civil-law North-eastern Iberian Spanish autonomous community with own Catalan civil-code jurisdiction (Codi Civil de Catalunya 2002-2017 + Statute of Autonomy 2006 + Spanish Constitution Article 149.1.8 + CCCat Book II Persons and Family 2010 strong joint-custody presumption + 2017 independence referendum + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from national civil code globally + modern multi-book EU subnational civil-code recodification + among strongest joint-custody-presumption frameworks in Europe + modern EU subnational independence-referendum-vs-constitutional-court conflict.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-eastern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + only-EU-member-state-subnational-with-own-Civil-Code-globally-distinctive + CCCat-six-book-recodification + Article-233-10-strong-joint-custody-presumption + 2017-Catalan-independence-referendum-constitutional-crisis + Tribunal-Superior-de-Justicia-de-Catalunya-apex-Catalan-civil-law clusters within the corpus."
+  ]
+}

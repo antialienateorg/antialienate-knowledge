@@ -1,0 +1,162 @@
+{
+  "schema_version": "1.0",
+  "id": "asean-charter",
+  "name": "ASEAN Charter 2007 (Charter of the Association of Southeast Asian Nations)",
+  "jurisdiction_code": "ASE",
+  "legal_system": "supranational",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Charter of the Association of Southeast Asian Nations (ASEAN Charter) is a regional supranational meta-framework foundational-ASEAN-treaty framework adopted by the 10 ASEAN member states in Singapore — structurally distinctive globally as the only modern Southeast Asia regional supranational binding-treaty framework operating on formal ASEAN-Way consensus + non-interference framework (ASEAN Charter signed 20 November 2007 in Singapore + effective 15 December 2008 + ASEAN founded 8 August 1967 in Bangkok via Bangkok Declaration — formal foundational ASEAN treaty framework granting legal-personality framework to ASEAN organisation framework + 40-year delayed treaty-form codification framework, distinct from rest-of-modern-regional-treaty frameworks which operate on formal binding-treaty framework from outset, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal ASEAN-Way consensus + non-interference framework + only modern regional supranational binding-treaty framework operating formal 40-year delayed treaty-form codification framework), as the central jurisdiction of the formal ASEAN-Way Consensus + Non-Interference framework (ASEAN Charter Article 2 framework providing 'respect for the independence, sovereignty, equality, territorial integrity and national identity of all ASEAN Member States' + 'non-interference in the internal affairs of ASEAN Member States' + 'consultation and consensus' — formal foundational ASEAN-Way framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal ASEAN-Way consensus + non-interference framework), as the central jurisdiction of the formal AICHR ASEAN Intergovernmental Commission on Human Rights framework (AICHR established 23 October 2009 by ASEAN Foreign Ministers Meeting + ASEAN Human Rights Declaration adopted 18 November 2012 in Phnom Penh Cambodia — formal foundational ASEAN-regional-human-rights framework, structurally distinctive globally as the only modern Southeast Asia regional supranational binding-treaty framework operating formal regional human-rights framework + only modern regional human-rights framework operating without formal individual-petition or court framework), and as the central jurisdiction of the formal ACWC ASEAN Commission on the Promotion and Protection of the Rights of Women and Children framework (ACWC established 7 April 2010 by ASEAN Foreign Ministers Meeting — formal foundational ASEAN-regional-women-children-rights framework, structurally distinctive globally as the only modern Southeast Asia regional supranational binding-treaty framework operating formal regional women + children rights framework with PA-intersection framework). The ASEAN Charter is binding upon 10 ASEAN member states + 1 observer state Timor-Leste pending accession 2025-2026 as of 2026 — comprehensive Southeast Asia regional coverage framework. The Charter is silent on 'parental alienation' as a statutory label, though formal ACWC framework operates substantial intersection with parental-alienation framework via formal Southeast-Asia-regional women + children rights framework. The ASEAN Summit + ASEAN Coordinating Council + ASEAN Community Councils + AICHR + ACWC + ASEAN Secretariat are the formal ASEAN bodies; national-level apex courts operate as judicial bodies. The ASEAN Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "ASEAN Charter 2007",
+      "title": "ASEAN Charter",
+      "year": 2008,
+      "url": "https://asean.org/",
+      "relevance": "Charter of the Association of Southeast Asian Nations signed 20 November 2007 in Singapore + effective 15 December 2008 — formal foundational ASEAN treaty framework granting legal-personality framework to ASEAN organisation framework."
+    },
+    {
+      "citation": "1967 Bangkok Declaration",
+      "title": "ASEAN Declaration (Bangkok Declaration)",
+      "year": 1967,
+      "url": "https://asean.org/",
+      "relevance": "ASEAN Declaration Bangkok Declaration signed 8 August 1967 in Bangkok Thailand by Indonesia + Malaysia + Philippines + Singapore + Thailand founding ASEAN — predecessor framework to ASEAN Charter."
+    },
+    {
+      "citation": "ASEAN Charter Article 2 (ASEAN-Way Framework)",
+      "title": "ASEAN Charter Article 2",
+      "year": 2008,
+      "url": "https://asean.org/",
+      "relevance": "ASEAN Charter Article 2 framework on ASEAN-Way consensus + non-interference — formal foundational ASEAN-Way framework."
+    },
+    {
+      "citation": "ASEAN Intergovernmental Commission on Human Rights (AICHR) 2009",
+      "title": "AICHR",
+      "year": 2009,
+      "url": "https://asean.org/our-communities/asean-political-security-community/aichr/",
+      "relevance": "ASEAN Intergovernmental Commission on Human Rights AICHR established 23 October 2009 by ASEAN Foreign Ministers Meeting — formal foundational ASEAN-regional-human-rights framework."
+    },
+    {
+      "citation": "ASEAN Human Rights Declaration 2012",
+      "title": "ASEAN Human Rights Declaration",
+      "year": 2012,
+      "url": "https://asean.org/",
+      "relevance": "ASEAN Human Rights Declaration adopted 18 November 2012 in Phnom Penh Cambodia — formal foundational ASEAN-regional-human-rights declaration framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "ASEAN Summit",
+      "seat": "Jakarta",
+      "url": "https://asean.org/",
+      "role": "Formal supreme decision-making body for ASEAN."
+    },
+    {
+      "name": "ASEAN Coordinating Council",
+      "seat": "Jakarta",
+      "url": "https://asean.org/",
+      "role": "Formal executive body for ASEAN."
+    },
+    {
+      "name": "ASEAN Intergovernmental Commission on Human Rights (AICHR)",
+      "seat": "Jakarta",
+      "url": "https://asean.org/our-communities/asean-political-security-community/aichr/",
+      "role": "Formal ASEAN-regional-human-rights commission body."
+    },
+    {
+      "name": "ASEAN Commission on the Promotion and Protection of the Rights of Women and Children (ACWC)",
+      "seat": "Jakarta",
+      "url": "https://asean.org/",
+      "role": "Formal ASEAN-regional women + children rights commission body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ASEAN Secretariat",
+      "url": "https://asean.org/",
+      "role": "ASEAN Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ASEAN-related communications via AICHR + ACWC framework operate via state-state framework; individual communications not formally accepted under ASEAN framework.",
+  "key_developments": [
+    {
+      "year": 1967,
+      "title": "ASEAN founded",
+      "description": "ASEAN founded 8 August 1967 in Bangkok Thailand via Bangkok Declaration by Indonesia + Malaysia + Philippines + Singapore + Thailand — predecessor framework to ASEAN Charter."
+    },
+    {
+      "year": 1976,
+      "title": "Treaty of Amity and Cooperation",
+      "description": "Treaty of Amity and Cooperation in Southeast Asia TAC adopted 24 February 1976 in Bali Indonesia — formal foundational ASEAN amity + cooperation framework."
+    },
+    {
+      "year": 1995,
+      "title": "Southeast Asia Nuclear Weapon-Free Zone Treaty",
+      "description": "Treaty on the Southeast Asia Nuclear Weapon-Free Zone SEANWFZ Treaty adopted 15 December 1995 in Bangkok Thailand — formal foundational ASEAN nuclear-weapon-free-zone framework."
+    },
+    {
+      "year": 2007,
+      "title": "ASEAN Charter adopted",
+      "description": "ASEAN Charter signed 20 November 2007 in Singapore — formal foundational ASEAN treaty framework adopted."
+    },
+    {
+      "year": 2008,
+      "title": "ASEAN Charter enters force",
+      "description": "ASEAN Charter entered force 15 December 2008 — formal foundational ASEAN treaty framework operational granting legal-personality framework to ASEAN organisation framework."
+    },
+    {
+      "year": 2009,
+      "title": "AICHR established",
+      "description": "ASEAN Intergovernmental Commission on Human Rights AICHR established 23 October 2009 by ASEAN Foreign Ministers Meeting — formal foundational ASEAN-regional-human-rights framework operational."
+    },
+    {
+      "year": 2010,
+      "title": "ACWC established",
+      "description": "ASEAN Commission on the Promotion and Protection of the Rights of Women and Children ACWC established 7 April 2010 by ASEAN Foreign Ministers Meeting — formal foundational ASEAN-regional-women-children-rights framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "ASEAN Human Rights Declaration adopted",
+      "description": "ASEAN Human Rights Declaration adopted 18 November 2012 in Phnom Penh Cambodia — formal foundational ASEAN-regional-human-rights declaration framework."
+    },
+    {
+      "year": 2022,
+      "title": "Timor-Leste in-principle ASEAN member",
+      "description": "ASEAN Summit 11 November 2022 in Phnom Penh Cambodia agreed in-principle to admit Timor-Leste as 11th ASEAN member with observer status pending full accession 2025-2026 — formal ASEAN expansion framework."
+    }
+  ],
+  "structural_findings": [
+    "ASEAN Charter operates a regional supranational binding-treaty framework — places ASEAN Charter in the regional supranational-meta-framework cluster.",
+    "Only modern Southeast Asia regional supranational binding-treaty framework operating on formal ASEAN-Way consensus + non-interference framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal ASEAN-Way framework + only modern regional supranational binding-treaty framework operating formal 40-year delayed treaty-form codification framework.",
+    "Central jurisdiction of formal ASEAN-Way framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal ASEAN-Way consensus + non-interference framework.",
+    "Central jurisdiction of formal AICHR framework is structurally distinctive globally — only modern Southeast Asia regional supranational binding-treaty framework operating formal regional human-rights framework + only modern regional human-rights framework operating without formal individual-petition or court framework.",
+    "Central jurisdiction of formal ACWC framework is structurally distinctive globally — only modern Southeast Asia regional supranational binding-treaty framework operating formal regional women + children rights framework with PA-intersection framework.",
+    "10 ASEAN member state + 1 observer state Timor-Leste pending accession 2025-2026 ratification framework is structurally distinctive globally — comprehensive Southeast Asia regional coverage framework.",
+    "1967 Bangkok Declaration + 1976 TAC + 1995 SEANWFZ Treaty + 2007 ASEAN Charter + 2008 entry into force + 2009 AICHR + 2010 ACWC + 2012 ASEAN Human Rights Declaration + 2022 Timor-Leste in-principle ASEAN-framework-development sequence is structurally distinctive globally.",
+    "ASEAN Charter + 1967 Bangkok Declaration + AICHR + ACWC + ASEAN Human Rights Declaration formal quintet framework with formal Southeast-Asia-regional women + children rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:asean-commission-women-children",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "ASEAN",
+      "url": "https://asean.org/",
+      "publisher": "ASEAN",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ASEAN Charter jurisdiction sidecar — regional supranational Southeast-Asia foundational-ASEAN-treaty meta-framework (ASEAN Charter 2007/2008 + Article 2 ASEAN-Way + 1967 Bangkok Declaration predecessor + 1976 TAC + 1995 SEANWFZ + AICHR 2009 + ACWC 2010 + ASEAN Human Rights Declaration 2012 + Timor-Leste in-principle 2022). Only modern Southeast Asia regional supranational binding-treaty framework operating on formal ASEAN-Way consensus + non-interference framework globally + only modern regional supranational binding-treaty framework operating formal 40-year delayed treaty-form codification framework + central jurisdiction of formal AICHR + central jurisdiction of formal ACWC + only modern regional human-rights framework operating without formal individual-petition or court framework + 10 ASEAN member states + 1 observer state Timor-Leste + 1967 Bangkok Declaration + 1976 TAC + 1995 SEANWFZ + 2007 ASEAN Charter + 2008 entry into force + 2009 AICHR + 2010 ACWC + 2012 ASEAN Human Rights Declaration + 2022 Timor-Leste in-principle ASEAN-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: ACWC framework operates substantial intersection with parental-alienation framework via formal Southeast-Asia-regional women + children rights framework.",
+    "Joins regional + supranational + Southeast-Asia-foundational-ASEAN-treaty cluster + ASEAN-Charter-only-Southeast-Asia-regional-supranational-binding-treaty-with-formal-ASEAN-Way-globally-distinctive + Article-2-ASEAN-Way + AICHR-2009 + ACWC-2010 + ASEAN-Human-Rights-Declaration-2012-Phnom-Penh + 10-ASEAN-member-states + Timor-Leste-observer-2022 + 1967-Bangkok-Declaration-predecessor + 1976-TAC + 1995-SEANWFZ + 40-year-delayed-treaty-form-codification + only-modern-regional-human-rights-without-individual-petition-or-court + Southeast-Asia-regional-women-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

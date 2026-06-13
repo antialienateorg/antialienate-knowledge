@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "id": "republic-of-the-congo",
+  "name": "Republic of the Congo (Congo-Brazzaville / République du Congo)",
+  "jurisdiction_code": "CG",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Republic of the Congo (Congo-Brazzaville) is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1984 (Code de la Famille, Law 73/84 of 17 October 1984) drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 322-345. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. Republic of the Congo is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Republic of the Congo acceded to the Hague Convention 1980 effective 1 March 2009.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1984 (Law 73/84) arts. 322-345",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1984,
+      "url": "https://www.justice.gouv.cg/",
+      "relevance": "Federal Family Code drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 322-345 govern parental authority and child custody."
+    },
+    {
+      "citation": "Law on Child Protection 2010 (Law 4-2010)",
+      "title": "Law on Child Protection",
+      "year": 2010,
+      "url": "https://www.justice.gouv.cg/",
+      "relevance": "Federal Law on Child Protection aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour Suprême)",
+      "seat": "Brazzaville",
+      "url": "https://www.coursupreme.cg/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Cour Constitutionnelle)",
+      "seat": "Brazzaville",
+      "url": "https://www.cour-constitutionnelle.cg/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Republic of the Congo",
+      "url": "https://www.sante.gouv.cg/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Congolese family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1984,
+      "title": "Family Code 1984 (Law 73/84)",
+      "description": "Federal Family Code enacted drawing on French civil-law substantive heritage with codification of customary-law marriage provisions."
+    },
+    {
+      "year": 2009,
+      "title": "Hague Convention 1980 accession",
+      "description": "Republic of the Congo acceded to the Hague Convention 1980 effective 1 March 2009."
+    },
+    {
+      "year": 2010,
+      "title": "Law on Child Protection (Law 4-2010)",
+      "description": "Federal Law on Child Protection enacted aligned with UNCRC obligations."
+    }
+  ],
+  "structural_findings": [
+    "Republic of the Congo operates a French-civil-law family-law framework with codification of customary-law marriage provisions — places Congo-Brazzaville in the Central African Francophone civil-law cluster with structurally distinctive French-derivative substantive heritage.",
+    "Hague Convention 1980 accession 2009 places Republic of the Congo in the Hague Central African cluster — earlier than most peers."
+  ],
+  "references": [
+    "jurisdiction:democratic-republic-of-the-congo",
+    "jurisdiction:gabon",
+    "jurisdiction:cameroon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of the Republic of the Congo",
+      "url": "https://www.coursupreme.cg/",
+      "publisher": "Supreme Court",
+      "language": "fr"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.cour-constitutionnelle.cg/",
+      "publisher": "Constitutional Court",
+      "language": "fr"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.justice.gouv.cg/",
+      "publisher": "Ministry of Justice",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "Republic of the Congo jurisdiction sidecar — civil-law Central African Francophone (French-derivative + Family Code 1984 + Law on Child Protection 2010 + Hague Convention 1980 accession 2009).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central African + Francophone + civil-law + French-derivative + Hague Convention clusters within the corpus."
+  ]
+}

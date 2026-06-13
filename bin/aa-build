@@ -1,0 +1,928 @@
+#!/usr/bin/env python3
+"""AntiAlienate Knowledge Builder.
+
+Single source of truth: JSON. The .md siblings are RENDERED from JSON.
+Edit JSON, run `aa-build render`, never hand-edit MD.
+
+Subcommands:
+  validate            Schema-validate all JSON under practitioners/ and case-studies/
+  render              Render MD from JSON for all files (or specific paths)
+  refs                Cross-link resolver: every references entry must resolve
+  urls                HEAD-check all URLs (slow; opt-in)
+  aggregate           Regenerate region aggregates (eu.md from de+es+fr+it+nl+be JSON)
+  build               validate + refs + render + aggregate + license-footer (the full pipe)
+  index               Regenerate practitioners/*/README.md coverage tables
+
+Exit codes:
+  0  all good
+  1  schema/ref/render error
+  2  URL liveness warning (urls mode only; non-fatal by default)
+
+Dependencies:
+  jsonschema, jinja2, requests (urls mode only)
+
+Conventions:
+  - JSON path: practitioners/<type>/<country_code_lower>.json (e.g. practitioners/therapists/de.json)
+  - MD path: same stem, .md
+  - Case study JSON: case-studies/<slug>.json
+  - Case study MD: case-studies/<slug>.md
+  - License footer is injected on every rendered MD: source of truth is the JSON, edit there.
+
+Cross-link format: <type>:<id>
+  case-study:bverfg-1-bvr-1076-23-germany-2023
+  practitioner:de.zimmermann-walper-fichtner
+  jurisdiction:germany
+  evidence:alienating-tactics-as-child-abuse
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import pathlib
+import re
+import sys
+from typing import Any
+
+REPO_ROOT = pathlib.Path(os.environ.get("AA_REPO_ROOT", pathlib.Path.cwd()))
+SCHEMAS = REPO_ROOT / "schemas"
+PRACTITIONERS = REPO_ROOT / "practitioners"
+CASE_STUDIES = REPO_ROOT / "case-studies"
+JURISDICTIONS = REPO_ROOT / "jurisdictions"
+EVIDENCE = REPO_ROOT / "evidence"
+
+LICENSE_FOOTER = (
+    "\n\n---\n\n"
+    "*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). "
+    "Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*\n"
+)
+
+# ---------- schema loading ----------
+
+def load_schema(name: str) -> dict[str, Any]:
+    p = SCHEMAS / f"{name}.schema.json"
+    if not p.exists():
+        die(f"schema not found: {p}")
+    return json.loads(p.read_text())
+
+
+def validator_for(name: str):
+    try:
+        from jsonschema import Draft7Validator
+    except ImportError:
+        die("missing dependency: pip install jsonschema")
+    return Draft7Validator(load_schema(name))
+
+
+# ---------- discovery ----------
+
+_NON_ENTITY_BASENAMES = {"index.json", "manifest.json"}
+
+
+def all_practitioner_jsons() -> list[pathlib.Path]:
+    return [p for p in sorted(PRACTITIONERS.glob("*/*.json")) if p.name not in _NON_ENTITY_BASENAMES]
+
+
+def all_case_study_jsons() -> list[pathlib.Path]:
+    return [p for p in sorted(CASE_STUDIES.glob("*.json")) if p.name not in _NON_ENTITY_BASENAMES]
+
+
+def all_jurisdiction_jsons() -> list[pathlib.Path]:
+    if not JURISDICTIONS.exists():
+        return []
+    return [p for p in sorted(JURISDICTIONS.glob("*.json")) if p.name not in _NON_ENTITY_BASENAMES]
+
+
+# ---------- validate ----------
+
+def cmd_validate(args) -> int:
+    p_val = validator_for("practitioner")
+    c_val = validator_for("case-study")
+    j_val = None
+    if (SCHEMAS / "jurisdiction.schema.json").exists():
+        j_val = validator_for("jurisdiction")
+    errors = 0
+    for f in all_practitioner_jsons():
+        data = json.loads(f.read_text())
+        # tolerate legacy schema_version 1.0 entries with a one-line warning
+        if data.get("schema_version") != "2.0":
+            print(f"WARN {f}: schema_version {data.get('schema_version','?')} — needs migration to 2.0", file=sys.stderr)
+            continue
+        for e in p_val.iter_errors(data):
+            print(f"FAIL {f}: {e.message} at {list(e.absolute_path)}", file=sys.stderr)
+            errors += 1
+    for f in all_case_study_jsons():
+        data = json.loads(f.read_text())
+        for e in c_val.iter_errors(data):
+            print(f"FAIL {f}: {e.message} at {list(e.absolute_path)}", file=sys.stderr)
+            errors += 1
+    if j_val is not None:
+        for f in all_jurisdiction_jsons():
+            data = json.loads(f.read_text())
+            for e in j_val.iter_errors(data):
+                print(f"FAIL {f}: {e.message} at {list(e.absolute_path)}", file=sys.stderr)
+                errors += 1
+    print(f"validate: {errors} error(s)")
+    return 1 if errors else 0
+
+
+# ---------- refs ----------
+
+def collect_all_ids() -> dict[str, set[str]]:
+    """Return {type: set(id)} for every known entity."""
+    ids: dict[str, set[str]] = {
+        "practitioner": set(),
+        "case-study": set(),
+        "jurisdiction": set(),
+        "evidence": set(),
+    }
+    for f in all_practitioner_jsons():
+        try:
+            data = json.loads(f.read_text())
+        except json.JSONDecodeError:
+            continue
+        for e in data.get("entries", []) + data.get("excluded", []):
+            if "id" in e:
+                ids["practitioner"].add(e["id"])
+    for f in all_case_study_jsons():
+        try:
+            data = json.loads(f.read_text())
+        except json.JSONDecodeError:
+            continue
+        if "slug" in data:
+            ids["case-study"].add(data["slug"])
+    # jurisdictions: prefer JSON id field; fall back to MD stem
+    for f in all_jurisdiction_jsons():
+        try:
+            data = json.loads(f.read_text())
+        except json.JSONDecodeError:
+            continue
+        if "id" in data:
+            ids["jurisdiction"].add(data["id"])
+    if JURISDICTIONS.exists():
+        for f in JURISDICTIONS.glob("*.md"):
+            ids["jurisdiction"].add(f.stem)
+    if EVIDENCE.exists():
+        for f in EVIDENCE.glob("*.md"):
+            ids["evidence"].add(f.stem)
+    return ids
+
+
+def cmd_refs(args) -> int:
+    known = collect_all_ids()
+    broken = 0
+    for f in all_practitioner_jsons() + all_case_study_jsons():
+        try:
+            data = json.loads(f.read_text())
+        except json.JSONDecodeError:
+            continue
+        for ref in collect_refs(data):
+            kind, _, ident = ref.partition(":")
+            if not ident or kind not in known:
+                print(f"BAD-REF {f}: '{ref}' (unknown type)", file=sys.stderr)
+                broken += 1
+                continue
+            if ident not in known[kind]:
+                print(f"BAD-REF {f}: '{ref}' does not resolve", file=sys.stderr)
+                broken += 1
+    mode = "FAIL" if getattr(args, "strict", False) else "warn"
+    print(f"refs: {broken} broken ({mode})")
+    if getattr(args, "strict", False):
+        return 1 if broken else 0
+    return 0
+
+
+def collect_refs(node: Any) -> list[str]:
+    out = []
+    if isinstance(node, dict):
+        if "references" in node and isinstance(node["references"], list):
+            out.extend(str(r) for r in node["references"])
+        for v in node.values():
+            out.extend(collect_refs(v))
+    elif isinstance(node, list):
+        for v in node:
+            out.extend(collect_refs(v))
+    return out
+
+
+# ---------- render ----------
+
+def render_practitioner_md(data: dict) -> str:
+    lines = []
+    lines.append(f"# Practitioners — {data['country']} — {data['type'].capitalize()}")
+    lines.append("")
+    if data.get("jurisdictional_context"):
+        lines.append("## Jurisdictional context")
+        lines.append("")
+        lines.append(data["jurisdictional_context"])
+        lines.append("")
+    if data.get("structural_findings"):
+        lines.append("## Structural findings")
+        lines.append("")
+        for f in data["structural_findings"]:
+            lines.append(f"- {f}")
+        lines.append("")
+    # group entries by stance
+    groups: dict[str, list] = {}
+    for e in data.get("entries", []):
+        groups.setdefault(e["stance"], []).append(e)
+    stance_order = ["recognition", "critique", "middle", "forensic-evaluator", "institutional", "cross-jurisdictional"]
+    stance_titles = {
+        "recognition": "Recognition camp",
+        "critique": "Critique camp",
+        "middle": "Middle / methodological camp",
+        "forensic-evaluator": "Forensic evaluators",
+        "institutional": "Institutional anchors",
+        "cross-jurisdictional": "Cross-jurisdictional pointers",
+    }
+    for s in stance_order:
+        if s not in groups:
+            continue
+        lines.append(f"## {stance_titles[s]}")
+        lines.append("")
+        for e in groups[s]:
+            lines.append(f"### {e['name']}")
+            if e.get("credentials"):
+                lines.append(f"*{e['credentials']}*")
+            meta = []
+            if e.get("city"): meta.append(e["city"])
+            if e.get("region"): meta.append(e["region"])
+            if e.get("affiliation"): meta.append(e["affiliation"])
+            if meta:
+                lines.append(" · ".join(meta))
+            lines.append("")
+            if e.get("stance_notes"):
+                lines.append(f"**Stance:** {e['stance_notes']}")
+                lines.append("")
+            if e.get("publications"):
+                lines.append("**Publications:**")
+                for p in e["publications"]:
+                    cite = f"- {p['title']} ({p['year']})"
+                    if p.get("venue"): cite += f" — *{p['venue']}*"
+                    if p.get("url"): cite += f" — <{p['url']}>"
+                    lines.append(cite)
+                lines.append("")
+            if e.get("urls"):
+                lines.append("**Verification:**")
+                for u in e["urls"]:
+                    lines.append(f"- <{u}>")
+                lines.append("")
+            if e.get("contact"):
+                lines.append(f"**Contact:** {e['contact']}")
+                lines.append("")
+            if e.get("verification_notes"):
+                lines.append(f"*Notes: {e['verification_notes']}*")
+                lines.append("")
+            if e.get("references"):
+                lines.append("**See also:** " + ", ".join(f"`{r}`" for r in e["references"]))
+                lines.append("")
+            lines.append(f"<sub>ID: `{e['id']}`</sub>")
+            lines.append("")
+    if data.get("excluded"):
+        lines.append("## Excluded (with documented reason)")
+        lines.append("")
+        for x in data["excluded"]:
+            lines.append(f"- **{x['name']}** — {x['exclusion_reason']}")
+            if x.get("primary_source_url"):
+                lines.append(f"  - Primary source: <{x['primary_source_url']}>")
+        lines.append("")
+    return "\n".join(lines)
+
+
+def render_case_study_md(data: dict) -> str:
+    lines = []
+    lines.append(f"# {data['caption']}")
+    lines.append("")
+    if data.get("ecli"):
+        lines.append(f"**ECLI:** `{data['ecli']}`  ")
+    if data.get("neutral_citation"):
+        lines.append(f"**Neutral citation:** {data['neutral_citation']}  ")
+    lines.append(f"**Court:** {data['court']}  ")
+    lines.append(f"**Decided:** {data['decision_date']}  ")
+    if data.get("panel"):
+        lines.append(f"**Panel:** {data['panel']}  ")
+    lines.append("")
+    lines.append("## Why this case matters")
+    lines.append("")
+    lines.append(data["summary"])
+    lines.append("")
+    if data.get("procedural_history"):
+        lines.append("## Procedural history")
+        lines.append("")
+        lines.append(data["procedural_history"])
+        lines.append("")
+    if data.get("counsel"):
+        lines.append("## Counsel")
+        lines.append("")
+        for c in data["counsel"]:
+            line = f"- **{c['name']}**"
+            if c.get("role"): line += f" ({c['role']})"
+            if c.get("firm"): line += f" — {c['firm']}"
+            line += f" for {c['for']}"
+            lines.append(line)
+        lines.append("")
+    if data.get("experts"):
+        lines.append("## Experts")
+        lines.append("")
+        for x in data["experts"]:
+            line = f"- **{x['name']}**"
+            if x.get("field"): line += f" — {x['field']}"
+            if x.get("instructed_by"): line += f" (instructed by {x['instructed_by']})"
+            if x.get("practitioner_ref"): line += f" — see practitioner `{x['practitioner_ref']}`"
+            lines.append(line)
+        lines.append("")
+    lines.append("## Holding")
+    lines.append("")
+    lines.append(data["holding"])
+    lines.append("")
+    if data.get("verbatim_quotes"):
+        lines.append("## Verbatim")
+        lines.append("")
+        for q in data["verbatim_quotes"]:
+            head = q.get("paragraph", "")
+            lines.append(f"**{head}** ({q['language']}):")
+            lines.append("")
+            lines.append("> " + q["text"].replace("\n", "\n> "))
+            lines.append("")
+            if q.get("translation_en"):
+                lines.append(f"*Translation:* {q['translation_en']}")
+                lines.append("")
+            if q.get("source_url"):
+                lines.append(f"<{q['source_url']}>")
+                lines.append("")
+    if data.get("outcome"):
+        lines.append("## Outcome")
+        lines.append("")
+        lines.append(data["outcome"])
+        lines.append("")
+    if data.get("comparative_jurisprudence"):
+        lines.append("## Comparative jurisprudence")
+        lines.append("")
+        for c in data["comparative_jurisprudence"]:
+            line = f"- **{c['caption']}**"
+            if c.get("jurisdiction_code"): line += f" ({c['jurisdiction_code']})"
+            if c.get("case_study_ref"): line += f" — [`{c['case_study_ref']}`](./{c['case_study_ref']}.md)"
+            if c.get("relevance"): line += f" — {c['relevance']}"
+            lines.append(line)
+        lines.append("")
+    if data.get("subsequent_reception"):
+        lines.append("## Subsequent reception")
+        lines.append("")
+        for r in data["subsequent_reception"]:
+            line = f"- {r.get('venue', '')}"
+            if r.get("year"): line += f" ({r['year']})"
+            if r.get("citation"): line += f" — {r['citation']}"
+            if r.get("url"): line += f" — <{r['url']}>"
+            lines.append(line)
+            if r.get("summary"):
+                lines.append(f"  - {r['summary']}")
+        lines.append("")
+    if data.get("references"):
+        lines.append("## See also")
+        lines.append("")
+        for r in data["references"]:
+            lines.append(f"- `{r}`")
+        lines.append("")
+    lines.append("## Sources")
+    lines.append("")
+    for i, s in enumerate(data["sources"], 1):
+        line = f"{i}. **{s['title']}** — <{s['url']}>"
+        if s.get("publisher"): line += f" ({s['publisher']})"
+        if s.get("language"): line += f" [{s['language']}]"
+        if s.get("accessed"): line += f" — accessed {s['accessed']}"
+        lines.append(line)
+    lines.append("")
+    if data.get("editorial_notes"):
+        lines.append("## Editorial notes")
+        lines.append("")
+        for n in data["editorial_notes"]:
+            lines.append(f"- {n}")
+        lines.append("")
+    lines.append(f"*Author: {data['author']}.*")
+    return "\n".join(lines)
+
+
+def cmd_render(args) -> int:
+    targets = [pathlib.Path(p) for p in args.paths] if args.paths else (
+        all_practitioner_jsons() + all_case_study_jsons() + all_jurisdiction_jsons()
+    )
+    n = 0
+    for f in targets:
+        if not f.exists() or f.suffix != ".json":
+            continue
+        try:
+            data = json.loads(f.read_text())
+        except json.JSONDecodeError as e:
+            print(f"SKIP {f}: invalid JSON ({e})", file=sys.stderr)
+            continue
+        if "case-studies" in f.parts:
+            body = render_case_study_md(data)
+        elif "practitioners" in f.parts:
+            if data.get("schema_version") != "2.0":
+                continue
+            body = render_practitioner_md(data)
+        elif "jurisdictions" in f.parts:
+            body = render_jurisdiction_md(data)
+        else:
+            continue
+        body += LICENSE_FOOTER
+        md = f.with_suffix(".md")
+        md.write_text(body)
+        n += 1
+    print(f"render: {n} file(s) rebuilt")
+    return 0
+
+
+def render_jurisdiction_md(data: dict) -> str:
+    lines = [f"# {data['name']}", ""]
+    lines.append(f"**Jurisdiction code:** `{data['jurisdiction_code']}` · **Legal system:** {data['legal_system']}  ")
+    if data.get("language"):
+        lines.append(f"**Language(s):** {', '.join(data['language'])}  ")
+    lines.append("")
+    lines.append(data.get("summary", ""))
+    lines.append("")
+    if data.get("pa_recognition_status"):
+        s = data["pa_recognition_status"]
+        lines.append("## PA recognition status")
+        lines.append("")
+        lines.append(f"- **Statutory:** {s.get('statutory','—')}")
+        lines.append(f"- **Apex court position:** {s.get('apex_court_position','—')}")
+        lines.append(f"- **Professional regulator position:** {s.get('professional_regulator_position','—')}")
+        lines.append("")
+    if data.get("statutory_framework"):
+        lines.append("## Statutory framework")
+        lines.append("")
+        for st in data["statutory_framework"]:
+            line = f"- **{st['citation']}**"
+            if st.get("title"): line += f" — {st['title']}"
+            if st.get("year"): line += f" ({st['year']})"
+            if st.get("url"): line += f" — <{st['url']}>"
+            if st.get("relevance"): line += f"\n  - {st['relevance']}"
+            lines.append(line)
+        lines.append("")
+    if data.get("apex_courts"):
+        lines.append("## Apex courts")
+        lines.append("")
+        for ac in data["apex_courts"]:
+            lines.append(f"### {ac['name']}")
+            if ac.get("url"): lines.append(f"<{ac['url']}>")
+            if ac.get("key_decisions"):
+                for k in ac["key_decisions"]:
+                    line = f"- **{k.get('caption','—')}**"
+                    if k.get("year"): line += f" ({k['year']})"
+                    if k.get("stance"): line += f" — {k['stance']}"
+                    if k.get("case_study_ref"): line += f" — [`{k['case_study_ref']}`](../case-studies/{k['case_study_ref']}.md)"
+                    lines.append(line)
+            lines.append("")
+    if data.get("professional_regulators"):
+        lines.append("## Professional regulators")
+        lines.append("")
+        for r in data["professional_regulators"]:
+            line = f"- **{r['name']}**"
+            if r.get("position_statement"): line += f" — {r['position_statement']}"
+            if r.get("position_date"): line += f" ({r['position_date']})"
+            if r.get("url"): line += f" — <{r['url']}>"
+            if r.get("practitioner_ref"): line += f" — see practitioner `{r['practitioner_ref']}`"
+            lines.append(line)
+        lines.append("")
+    if data.get("anonymisation_convention"):
+        lines.append("## Anonymisation convention")
+        lines.append("")
+        lines.append(data["anonymisation_convention"])
+        lines.append("")
+    if data.get("key_developments"):
+        lines.append("## Key developments")
+        lines.append("")
+        for d in sorted(data["key_developments"], key=lambda x: x.get("year", 0)):
+            line = f"- **{d.get('year','—')}** — {d['description']}"
+            if d.get("url"): line += f" — <{d['url']}>"
+            lines.append(line)
+        lines.append("")
+    if data.get("structural_findings"):
+        lines.append("## Structural findings")
+        lines.append("")
+        for f in data["structural_findings"]:
+            lines.append(f"- {f}")
+        lines.append("")
+    if data.get("references"):
+        lines.append("## See also")
+        lines.append("")
+        for r in data["references"]:
+            lines.append(f"- `{r}`")
+        lines.append("")
+    if data.get("sources"):
+        lines.append("## Sources")
+        lines.append("")
+        for i, s in enumerate(data["sources"], 1):
+            line = f"{i}. **{s['title']}** — <{s['url']}>"
+            if s.get("publisher"): line += f" ({s['publisher']})"
+            if s.get("language"): line += f" [{s['language']}]"
+            lines.append(line)
+        lines.append("")
+    if data.get("editorial_notes"):
+        lines.append("## Editorial notes")
+        lines.append("")
+        for n in data["editorial_notes"]:
+            lines.append(f"- {n}")
+        lines.append("")
+    return "\n".join(lines)
+
+
+# ---------- urls ----------
+
+def cmd_urls(args) -> int:
+    try:
+        import requests
+    except ImportError:
+        die("missing dependency: pip install requests")
+    seen = set()
+    dead = 0
+    for f in all_practitioner_jsons() + all_case_study_jsons():
+        try:
+            data = json.loads(f.read_text())
+        except json.JSONDecodeError:
+            continue
+        for url in collect_urls(data):
+            if url in seen:
+                continue
+            seen.add(url)
+            try:
+                r = requests.head(url, timeout=10, allow_redirects=True)
+                if r.status_code >= 400:
+                    print(f"DEAD {url} ({r.status_code}) in {f}", file=sys.stderr)
+                    dead += 1
+            except requests.RequestException as e:
+                print(f"WARN {url} ({e}) in {f}", file=sys.stderr)
+    print(f"urls: {dead} dead of {len(seen)} unique")
+    return 2 if dead else 0
+
+
+def collect_urls(node: Any) -> list[str]:
+    out = []
+    if isinstance(node, dict):
+        for k, v in node.items():
+            if isinstance(v, str) and v.startswith(("http://", "https://")):
+                out.append(v)
+            else:
+                out.extend(collect_urls(v))
+    elif isinstance(node, list):
+        for v in node:
+            out.extend(collect_urls(v))
+    return out
+
+
+# ---------- index ----------
+
+def cmd_index(args) -> int:
+    for kind in ("therapists", "lawyers"):
+        d = PRACTITIONERS / kind
+        if not d.exists():
+            continue
+        rows = []
+        for f in sorted(d.glob("*.json")):
+            try:
+                data = json.loads(f.read_text())
+            except json.JSONDecodeError:
+                continue
+            country = data.get("country", f.stem.upper())
+            n = len(data.get("entries", []))
+            x = len(data.get("excluded", []))
+            stem = f.stem
+            rows.append((country, stem, n, x))
+        out = [f"# Practitioners — {kind.capitalize()}", "",
+               "Open directory of " + kind + " who work parental-alienation cases. CC BY 4.0.",
+               "", "## Coverage", "",
+               "| Country / Region | Markdown | JSON | Verified | Excluded |",
+               "|---|---|---|---:|---:|"]
+        for country, stem, n, x in rows:
+            out.append(f"| {country} | [{stem}.md]({stem}.md) | [{stem}.json]({stem}.json) | {n} | {x} |")
+        out.append("")
+        out.append("*Canonical JSON: `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/" + kind + "/<country>.json`*")
+        (d / "README.md").write_text("\n".join(out) + LICENSE_FOOTER)
+    print("index: practitioner READMEs rebuilt")
+    return 0
+
+
+# ---------- aggregate ----------
+
+REGION_MEMBERS = {
+    "eu": ["de", "fr", "es", "it", "nl", "be"],
+    "latam": ["br", "mx", "ar", "co", "cl"],
+    "asia": ["in", "sg", "hk", "jp"],
+    "africa": ["za", "ke", "ng", "eg"],
+}
+
+
+def cmd_aggregate(args) -> int:
+    # currently a stub that records which countries have deepened files
+    for kind in ("therapists", "lawyers"):
+        d = PRACTITIONERS / kind
+        if not d.exists():
+            continue
+        for region, members in REGION_MEMBERS.items():
+            agg = d / f"{region}.md"
+            if not agg.exists():
+                continue
+            deepened = [m for m in members if (d / f"{m}.json").exists()]
+            if not deepened:
+                continue
+            marker = f"\n\n<!-- aa-build:aggregate-status -->\n> **Note:** The following member countries now have their own deepened files: " + ", ".join(f"[{m}]({m}.md)" for m in deepened) + ". This aggregate is the original baseline; the country files are authoritative where they exist.\n"
+            content = agg.read_text()
+            content = re.sub(r"\n\n<!-- aa-build:aggregate-status -->.*", "", content, flags=re.S)
+            agg.write_text(content + marker)
+    print("aggregate: status banners refreshed")
+    return 0
+
+
+# ---------- manifest ----------
+
+# Canonical, GitHub-independent base. The KB build publishes per-entry JSON,
+# schemas, and this manifest to Firebase at knowledge.antialienate.com, so every
+# downstream consumer (Liena RAG / app case-law browser / external citers) reads
+# from the live site — no runtime GitHub dependency, no API rate limits.
+RAW_BASE = "https://knowledge.antialienate.com"
+# Human-facing pages are mkdocs directory URLs (case-studies/<slug>/), produced
+# below by stripping the .json/.md extension and appending a trailing slash.
+SITE_BASE = "https://knowledge.antialienate.com"
+
+
+def cmd_manifest(args) -> int:
+    """Write /manifest.json (canonical enumeration for downstream consumers)
+    plus per-type indexes:
+      practitioners/therapists/index.json
+      practitioners/lawyers/index.json
+      case-studies/index.json
+    Every downstream consumer (Liena RAG / Archon / search / external citers) can
+    walk manifest.json to discover every entity, its schema, and its URLs."""
+    import datetime
+    now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+
+    schemas = {
+        "practitioner": f"{RAW_BASE}/schemas/practitioner.schema.json",
+        "case-study": f"{RAW_BASE}/schemas/case-study.schema.json",
+    }
+
+    def file_meta(path: pathlib.Path) -> dict:
+        rel = path.relative_to(REPO_ROOT).as_posix()
+        stem = rel[:-5] if rel.endswith(".json") else rel
+        return {
+            "path": rel,
+            "json_url": f"{RAW_BASE}/{rel}",          # canonical structured data (static on Firebase)
+            "md_url": None,                            # raw MD is rendered to HTML by mkdocs; use html_url
+            "html_url": f"{SITE_BASE}/{stem}/",        # human-readable mkdocs page (directory URL)
+        }
+
+    practitioners: dict[str, list[dict]] = {"therapists": [], "lawyers": []}
+    for kind in practitioners.keys():
+        d = PRACTITIONERS / kind
+        if not d.exists():
+            continue
+        for f in sorted(d.glob("*.json")):
+            try:
+                data = json.loads(f.read_text())
+            except json.JSONDecodeError:
+                continue
+            if data.get("schema_version") != "2.0":
+                continue
+            meta = file_meta(f) | {
+                "country": data.get("country"),
+                "country_code": data.get("country_code"),
+                "schema_version": data["schema_version"],
+                "entries_count": len(data.get("entries", [])),
+                "excluded_count": len(data.get("excluded", [])),
+                "entry_ids": [e["id"] for e in data.get("entries", []) if "id" in e],
+                "excluded_ids": [e["id"] for e in data.get("excluded", []) if "id" in e],
+            }
+            practitioners[kind].append(meta)
+        # per-type index
+        idx = {
+            "schema": schemas["practitioner"],
+            "type": kind,
+            "license": "CC-BY-4.0",
+            "generated": now,
+            "countries": practitioners[kind],
+        }
+        (d / "index.json").write_text(json.dumps(idx, indent=2, ensure_ascii=False) + "\n")
+
+    case_studies: list[dict] = []
+    if CASE_STUDIES.exists():
+        for f in sorted(CASE_STUDIES.glob("*.json")):
+            if f.name in {"index.json", "manifest.json"}:
+                continue
+            try:
+                data = json.loads(f.read_text())
+            except json.JSONDecodeError:
+                continue
+            meta = file_meta(f) | {
+                "slug": data.get("slug"),
+                "caption": data.get("caption"),
+                "ecli": data.get("ecli"),
+                "neutral_citation": data.get("neutral_citation"),
+                "jurisdiction_code": data.get("jurisdiction_code"),
+                "decision_date": data.get("decision_date"),
+                "court": data.get("court"),
+                "schema_version": data.get("schema_version"),
+                "references_count": len(data.get("references", [])),
+                "sources_count": len(data.get("sources", [])),
+            }
+            case_studies.append(meta)
+        idx = {
+            "schema": schemas["case-study"],
+            "type": "case-study",
+            "license": "CC-BY-4.0",
+            "generated": now,
+            "cases": case_studies,
+        }
+        (CASE_STUDIES / "index.json").write_text(json.dumps(idx, indent=2, ensure_ascii=False) + "\n")
+
+    jurisdictions = []
+    if JURISDICTIONS.exists():
+        json_stems = {p.stem for p in all_jurisdiction_jsons()}
+        for f in sorted(JURISDICTIONS.glob("*.md")):
+            if f.stem == "README":
+                continue
+            entry = {"id": f.stem, "html_url": f"{SITE_BASE}/jurisdictions/{f.stem}/"}
+            if f.stem in json_stems:
+                entry["json_url"] = f"{RAW_BASE}/jurisdictions/{f.stem}.json"
+                try:
+                    jd = json.loads((JURISDICTIONS / f"{f.stem}.json").read_text())
+                    entry["schema_version"] = jd.get("schema_version")
+                    entry["jurisdiction_code"] = jd.get("jurisdiction_code")
+                    entry["name"] = jd.get("name")
+                except Exception:
+                    pass
+            jurisdictions.append(entry)
+        # Also list JSON-only jurisdictions without a sibling MD (shouldn't happen post-render but defensive)
+        md_stems = {f.stem for f in JURISDICTIONS.glob("*.md")}
+        for j in all_jurisdiction_jsons():
+            if j.stem in md_stems:
+                continue
+            try:
+                jd = json.loads(j.read_text())
+            except Exception:
+                continue
+            jurisdictions.append({
+                "id": j.stem,
+                "json_url": f"{RAW_BASE}/jurisdictions/{j.name}",
+                "schema_version": jd.get("schema_version"),
+                "name": jd.get("name"),
+                "jurisdiction_code": jd.get("jurisdiction_code"),
+            })
+    evidence = []
+    ed = REPO_ROOT / "evidence"
+    if ed.exists():
+        for f in sorted(ed.glob("*.md")):
+            if f.stem == "README":
+                continue
+            evidence.append({"id": f.stem, "html_url": f"{SITE_BASE}/evidence/{f.stem}/"})
+
+    manifest = {
+        "manifest_version": "1.0",
+        "repository": "AntiAlienate/antialienate-knowledge",
+        "license": "CC-BY-4.0",
+        "generated": now,
+        "schemas": dict(schemas, jurisdiction=f"{RAW_BASE}/schemas/jurisdiction.schema.json"),
+        "id_format": {
+            "practitioner": "<country_code lowercase>.<slug>  e.g. de.zimmermann-walper-fichtner",
+            "case-study": "<slug>  e.g. bverfg-1-bvr-1076-23-germany-2023",
+            "jurisdiction": "<filename stem under jurisdictions/>  e.g. germany",
+            "evidence": "<filename stem under evidence/>  e.g. alienating-tactics-as-child-abuse",
+        },
+        "cross_link_format": "<type>:<id>  e.g. case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "consumption": {
+            "rag": "Prefer JSON over MD. Use entry.id / case-study.slug as stable vector-ID prefix.",
+            "discovery": "Walk this manifest; per-type index.json files give compact listings.",
+            "updates": "Re-fetch manifest.json + per-type index.json from knowledge.antialienate.com; re-ingest entries whose JSON changed.",
+            "anonymisation": "Children + family parties are anonymised per the deciding court's convention. Do not attempt de-anonymisation.",
+            "license": "CC BY 4.0 — attribute to AntiAlienate Knowledge with link.",
+        },
+        "counts": {
+            "practitioners_therapists": len(practitioners["therapists"]),
+            "practitioners_lawyers": len(practitioners["lawyers"]),
+            "case_studies": len(case_studies),
+            "jurisdictions": len(jurisdictions),
+            "evidence_pages": len(evidence),
+        },
+        "indexes": {
+            "practitioners_therapists": f"{RAW_BASE}/practitioners/therapists/index.json",
+            "practitioners_lawyers": f"{RAW_BASE}/practitioners/lawyers/index.json",
+            "case_studies": f"{RAW_BASE}/case-studies/index.json",
+        },
+        "jurisdictions": jurisdictions,
+        "evidence": evidence,
+    }
+    (REPO_ROOT / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
+    print(f"manifest: written; {len(practitioners['therapists'])} v2 therapist files, {len(case_studies)} case studies, {len(jurisdictions)} jurisdictions, {len(evidence)} evidence pages")
+    return 0
+
+
+# ---------- case-law export ----------
+
+CASE_LAW = REPO_ROOT / "case-law"
+
+
+def _caselaw_title(md: str, fallback: str) -> str:
+    fm = re.match(r"^---\s*\n(.*?)\n---\s*\n", md, re.S)
+    if fm:
+        m = re.search(r'(?m)^title:\s*"?([^"\n]+)"?', fm.group(1))
+        if m:
+            return m.group(1).strip()
+    h1 = re.search(r"(?m)^#\s+(.+)$", md)
+    return (h1.group(1) if h1 else fallback).strip()
+
+
+def cmd_caselaw(args) -> int:
+    """Export the case-law/ markdown corpus as JSON for the app's in-app
+    /case-law/browse (Option B): a light index grouped by jurisdiction, plus
+    one JSON per entry carrying the markdown body so the app renders it in-app
+    (instant SPA transition) instead of bouncing to the public site. Published
+    to knowledge.antialienate.com, so the app fetches it with no GitHub call."""
+    import datetime
+    now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    if not CASE_LAW.exists():
+        print("caselaw: no case-law/ dir; skipped")
+        return 0
+    by_jur: dict[str, list[dict]] = {}
+    total = 0
+    for f in sorted(CASE_LAW.rglob("*.md")):
+        rel = f.relative_to(CASE_LAW)
+        parts = rel.parts
+        # Skip READMEs + top-level loose files — match the app's <jurisdiction>/<slug> grouping.
+        if f.stem == "README" or len(parts) < 2:
+            continue
+        jur = parts[0]
+        slug = "/".join(parts[1:])[:-3]  # path under the jurisdiction, sans .md
+        md = f.read_text(encoding="utf-8")
+        title = _caselaw_title(md, slug)
+        body = re.sub(r"^---\s*\n.*?\n---\s*\n", "", md, count=1, flags=re.S)  # strip frontmatter
+        entry = {
+            "jurisdiction": jur,
+            "slug": slug,
+            "title": title,
+            "html_url": f"{SITE_BASE}/case-law/{jur}/{slug}/",
+        }
+        by_jur.setdefault(jur, []).append(entry)
+        # Per-entry JSON (with body) sits next to the .md and is published as a static asset.
+        f.with_suffix(".json").write_text(
+            json.dumps({**entry, "body": body, "generated": now}, indent=2, ensure_ascii=False) + "\n",
+            encoding="utf-8")
+        total += 1
+    for jur in by_jur:
+        by_jur[jur].sort(key=lambda e: e["slug"])
+    index = {
+        "type": "case-law",
+        "license": "CC-BY-4.0",
+        "generated": now,
+        "count": total,
+        "jurisdictions": dict(sorted(by_jur.items())),
+    }
+    (CASE_LAW / "index.json").write_text(
+        json.dumps(index, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"caselaw: {total} entries across {len(by_jur)} jurisdictions; index + per-entry JSON written")
+    return 0
+
+
+# ---------- build ----------
+
+def cmd_build(args) -> int:
+    rc = cmd_validate(args)
+    rc |= cmd_refs(args)
+    rc |= cmd_render(args)
+    rc |= cmd_index(args)
+    rc |= cmd_aggregate(args)
+    rc |= cmd_manifest(args)
+    return 1 if rc else 0
+
+
+# ---------- main ----------
+
+def die(msg: str) -> None:
+    print(f"aa-build: {msg}", file=sys.stderr)
+    sys.exit(2)
+
+
+def main(argv: list[str] | None = None) -> int:
+    p = argparse.ArgumentParser(prog="aa-build")
+    sub = p.add_subparsers(dest="cmd", required=True)
+    for c in ("validate", "urls", "index", "aggregate", "manifest", "caselaw", "build"):
+        sub.add_parser(c)
+    refs = sub.add_parser("refs")
+    refs.add_argument("--strict", action="store_true", help="fail (exit 1) on broken refs; default is warn-only during migration")
+    r = sub.add_parser("render")
+    r.add_argument("paths", nargs="*")
+    args = p.parse_args(argv)
+    return {
+        "validate": cmd_validate,
+        "refs": cmd_refs,
+        "render": cmd_render,
+        "urls": cmd_urls,
+        "index": cmd_index,
+        "aggregate": cmd_aggregate,
+        "manifest": cmd_manifest,
+        "caselaw": cmd_caselaw,
+        "build": cmd_build,
+    }[args.cmd](args)
+
+
+if __name__ == "__main__":
+    sys.exit(main())

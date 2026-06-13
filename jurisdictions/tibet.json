@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "id": "tibet",
+  "name": "Tibet Autonomous Region (西藏自治区 / བོད་རང་སྐྱོང་ལྗོངས་)",
+  "jurisdiction_code": "CN-XZ",
+  "legal_system": "civil-law",
+  "language": ["bo", "zh", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Tibet Autonomous Region (西藏自治区 Xīzàng Zìzhìqū in Chinese / བོད་རང་སྐྱོང་ལྗོངས་ Bod Rang skyong ljongs in Tibetan) is a Southwestern Chinese civil-law Chinese autonomous-region constituent unit of the People's Republic of China — structurally distinctive globally as the only modern jurisdiction with continuous theocratic Tibetan-Buddhist Dalai Lama framework predating Chinese incorporation (Tibetan-Buddhist Ganden Phodrang government 1642-1959 under Dalai Lama institutional framework — distinct from rest-of-China's secular Han-cultural-political framework), as the central jurisdiction of one of the most contested modern Sino-foreign sovereignty disputes (Tibetan Government-in-Exile བོད་གཞུང་དགའ་ལྡན་ཕོ་བྲང་ Central Tibetan Administration CTA based in Dharamshala India since 1960 — 14th Dalai Lama Tenzin Gyatso framework continuously contesting Chinese sovereignty claims), as the only Chinese autonomous-region subject to formal 1951 17-Point Agreement framework (17-Point Agreement for the Peaceful Liberation of Tibet 23 May 1951 between People's Republic of China + Tibetan Local Government — formal annexation framework, contested by Tibetan Government-in-Exile as signed under duress), and as the largest Chinese autonomous-region by area (~1,228,400 km² — ~12.8% of Chinese land area, fourth-largest Chinese province-level division). Tibet historically operated the Ganden Phodrang government 1642-1959 under the Sho Dynasty Dalai Lama institutional framework, was subjected to Qing protectorate framework 1720-1912, achieved de facto independence 1912-1950 following Qing collapse, was annexed by People's Republic of China via 17-Point Agreement 23 May 1951, suffered the 1959 Tibetan Uprising 10 March 1959 leading to 14th Dalai Lama's exile to India 17 March 1959, and was formally established as Tibet Autonomous Region 9 September 1965. Tibet Autonomous Region comprises ~1,228,400 km² with a population of ~3.6 million. Family-law framework operates under the federal Chinese civil-law framework (Chinese Marriage Law 1980 + Chinese Civil Code 2020 Family Law portion Articles 1040-1118) applied uniformly across Chinese autonomous regions. The Tibet High People's Court is the apex regional court; final appellate jurisdiction lies with the Supreme People's Court of China. Tibet is silent on 'parental alienation' as a statutory label. China is a Hague Convention 1980 signatory but not a party — Tibet is governed by the Chinese non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "17-Point Agreement for the Peaceful Liberation of Tibet 1951",
+      "title": "17-Point Agreement",
+      "year": 1951,
+      "url": "https://www.gov.cn/",
+      "relevance": "Agreement of 23 May 1951 between People's Republic of China + Tibetan Local Government formalising Chinese annexation of Tibet — contested by Tibetan Government-in-Exile as signed under duress."
+    },
+    {
+      "citation": "Constitution of the People's Republic of China Article 4 (Regional Ethnic Autonomy)",
+      "title": "Constitution of China Article 4",
+      "year": 1982,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Constitutional Article 4 providing for Regional Ethnic Autonomy framework — applicable to Tibet Autonomous Region."
+    },
+    {
+      "citation": "Law on Regional Ethnic Autonomy 1984 (revised 2001)",
+      "title": "Regional Ethnic Autonomy Law",
+      "year": 1984,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Law of 31 May 1984 (revised 28 February 2001) establishing Regional Ethnic Autonomy framework — applicable to Tibet Autonomous Region."
+    },
+    {
+      "citation": "Chinese Civil Code 2020 Family Law portion (Articles 1040-1118)",
+      "title": "Chinese Civil Code Family Law",
+      "year": 2020,
+      "url": "https://www.gov.cn/",
+      "relevance": "Chinese Federal Civil Code 2020 Family Law portion applicable uniformly across Tibet Autonomous Region."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tibet High People's Court",
+      "seat": "Lhasa",
+      "url": "https://www.court.gov.cn/",
+      "role": "Apex regional appellate court for civil and criminal matters from Tibet Autonomous Region."
+    },
+    {
+      "name": "Supreme People's Court of China",
+      "seat": "Beijing",
+      "url": "https://www.court.gov.cn/",
+      "role": "Final appellate court for civil and criminal matters from Tibet Autonomous Region."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Chinese National Health Commission (国家卫生健康委员会)",
+      "url": "http://www.nhc.gov.cn/",
+      "role": "Chinese Federal professional regulatory framework applicable in Tibet Autonomous Region."
+    }
+  ],
+  "anonymisation_convention": "Tibet family-court decisions are anonymised per Chinese court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1642,
+      "title": "Ganden Phodrang government founded",
+      "description": "Tibetan-Buddhist Ganden Phodrang government founded 1642 under 5th Dalai Lama — beginning of theocratic Dalai Lama institutional framework 1642-1959."
+    },
+    {
+      "year": 1720,
+      "title": "Qing protectorate established",
+      "description": "Qing protectorate over Tibet established 1720 — Qing-Tibetan amban framework 1720-1912."
+    },
+    {
+      "year": 1912,
+      "title": "De facto independence",
+      "description": "Tibet achieved de facto independence 1912 following Qing collapse — 13th Dalai Lama's 1913 Proclamation of Independence framework 1912-1950."
+    },
+    {
+      "year": 1951,
+      "title": "17-Point Agreement + Chinese annexation",
+      "description": "17-Point Agreement for the Peaceful Liberation of Tibet signed 23 May 1951 — formal Chinese annexation framework, contested by Tibetan Government-in-Exile as signed under duress."
+    },
+    {
+      "year": 1959,
+      "title": "Tibetan Uprising + Dalai Lama exile",
+      "description": "Tibetan Uprising 10 March 1959 — 14th Dalai Lama Tenzin Gyatso's exile to India 17 March 1959, establishment of Tibetan Government-in-Exile in Dharamshala India 1960."
+    },
+    {
+      "year": 1965,
+      "title": "Tibet Autonomous Region established",
+      "description": "Tibet Autonomous Region formally established 9 September 1965."
+    },
+    {
+      "year": 1984,
+      "title": "Regional Ethnic Autonomy Law",
+      "description": "Chinese Federal Regional Ethnic Autonomy Law 1984 providing legal framework for Tibet Autonomous Region."
+    },
+    {
+      "year": 2008,
+      "title": "2008 Tibetan unrest",
+      "description": "2008 Tibetan unrest 10 March - 23 March 2008 — 49-year-anniversary of 1959 Uprising framework."
+    }
+  ],
+  "structural_findings": [
+    "Tibet operates a federal Chinese civil-law autonomous-region framework — places Tibet in the Southwestern Chinese autonomous-region cluster.",
+    "Only modern jurisdiction with continuous theocratic Tibetan-Buddhist Dalai Lama framework predating Chinese incorporation (Ganden Phodrang 1642-1959) is structurally distinctive globally.",
+    "Central jurisdiction of one of most contested modern Sino-foreign sovereignty disputes is structurally distinctive globally — Tibetan Government-in-Exile in Dharamshala India 1960-present.",
+    "Only Chinese autonomous-region subject to formal 1951 17-Point Agreement framework is structurally distinctive globally — contested by Tibetan Government-in-Exile as signed under duress.",
+    "Largest Chinese autonomous-region by area (~1,228,400 km² / ~12.8% of Chinese land area) is structurally distinctive within Chinese province-level cluster — fourth-largest Chinese province-level division.",
+    "1959 Tibetan Uprising + 14th Dalai Lama Tenzin Gyatso exile framework is structurally distinctive globally — only modern theocratic-leader-in-exile framework of 65+ years duration.",
+    "1912-1950 de facto independence period is structurally distinctive globally — only modern Chinese sub-national territory with formal 38-year de facto independence framework.",
+    "Chinese non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:china",
+    "jurisdiction:india",
+    "jurisdiction:nepal",
+    "jurisdiction:bhutan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Tibet Autonomous Region Government",
+      "url": "http://www.xizang.gov.cn/",
+      "publisher": "Tibet Autonomous Region Government",
+      "language": "zh"
+    },
+    {
+      "title": "Central Tibetan Administration",
+      "url": "https://tibet.net/",
+      "publisher": "Central Tibetan Administration",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Tibet Autonomous Region jurisdiction sidecar — civil-law Southwestern Chinese Chinese-autonomous-region (Chinese Civil Code 2020 + Chinese Marriage Law 1980 + Constitution Article 4 Regional Ethnic Autonomy + Regional Ethnic Autonomy Law 1984/2001 + 17-Point Agreement 1951 + Ganden Phodrang 1642-1959 + Qing protectorate 1720-1912 + 1912-1950 de facto independence + 1959 Tibetan Uprising + Tibetan Government-in-Exile 1960+ + 2008 unrest + Chinese non-Hague-1980). Only modern jurisdiction with continuous theocratic Tibetan-Buddhist Dalai Lama framework predating Chinese incorporation globally + central jurisdiction of one of most contested modern Sino-foreign sovereignty disputes + only Chinese autonomous-region subject to formal 1951 17-Point Agreement framework + largest Chinese autonomous-region by area + 1959 Tibetan Uprising + Tibetan Government-in-Exile 65+ year framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southwestern-Chinese + civil-law + Chinese-autonomous-region cluster + Ganden-Phodrang-Dalai-Lama-1642-1959-theocratic-framework-globally-distinctive + 17-Point-Agreement-1951-contested-annexation + 1959-Tibetan-Uprising + Tibetan-Government-in-Exile-Dharamshala-1960 + 1912-1950-de-facto-independence + largest-Chinese-autonomous-region-by-area + Chinese-non-Hague-1980 clusters within the corpus."
+  ]
+}

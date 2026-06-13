@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "id": "lebanon",
+  "name": "Lebanon (Lebanese Republic / الجمهورية اللبنانية)",
+  "jurisdiction_code": "LB",
+  "legal_system": "mixed",
+  "language": ["ar", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Lebanon is a MENA mixed-legal-system republic combining French civil-law substantive heritage (via French Mandate inheritance) with confessional personal-status jurisdiction — 18 recognised religious-community courts each administering distinct personal-status law (Sunni, Shia, Druze, Alawite, Maronite Catholic, Greek Orthodox, Greek Catholic, Armenian Apostolic, Armenian Catholic, Syriac Orthodox, Syriac Catholic, Chaldean, Roman Catholic, Protestant, Coptic, Jewish, and others). Family-law framework for Muslim communities operates under Sharia Courts; for Christian communities under canonical/ecclesiastical courts; for Druze under separate Druze Courts. Civil marriage is not recognised internally (though foreign civil marriages are recognised). The Court of Cassation (محكمة التمييز) is the apex court for civil and criminal matters; the Constitutional Council (المجلس الدستوري) operates constitutional review. There is NO civil family-law statute for personal-status matters — each confessional court applies its own community's law. Psychology profession is regulated through the Lebanese Order of Psychologists under Law 8 of 1994 — distinctive as among the earliest dedicated psychology-regulation statutes in MENA region. Lebanon is silent on 'parental alienation' as a statutory label; courts operate substantively under community-specific child welfare standards. Lebanon is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Law on Regulating Sharia Courts of 1962",
+      "title": "Law on Regulating Sharia Courts",
+      "year": 1962,
+      "url": "https://www.justice.gov.lb/",
+      "relevance": "Federal statute regulating Sunni and Shia Sharia Courts for Muslim personal-status matters."
+    },
+    {
+      "citation": "Law on Personal Status of the Religious Communities 1951",
+      "title": "Law on Personal Status of the Religious Communities",
+      "year": 1951,
+      "url": "https://www.justice.gov.lb/",
+      "relevance": "Federal statute recognising confessional personal-status jurisdiction for 18 religious communities."
+    },
+    {
+      "citation": "Lebanese Order of Psychologists Law 8 of 1994",
+      "title": "Order of Psychologists Law",
+      "year": 1994,
+      "url": "https://www.lop.org.lb/",
+      "relevance": "Federal statute establishing the Lebanese Order of Psychologists — among earliest dedicated psychology-regulation statutes in MENA region."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (محكمة التمييز)",
+      "seat": "Beirut",
+      "url": "https://www.justice.gov.lb/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Council (المجلس الدستوري)",
+      "seat": "Beirut",
+      "url": "https://www.cc.gov.lb/",
+      "role": "Constitutional Council with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Lebanese Order of Psychologists (Ordre des Psychologues Libanais)",
+      "url": "https://www.lop.org.lb/",
+      "role": "Federal professional order for psychologists in Lebanon established by Law 8 of 1994."
+    }
+  ],
+  "anonymisation_convention": "Lebanese family-court decisions are anonymised per confessional-court practice; published decisions use initials.",
+  "key_developments": [
+    {
+      "year": 1951,
+      "title": "Law on Personal Status of the Religious Communities",
+      "description": "Federal statute recognising confessional personal-status jurisdiction for 18 religious communities."
+    },
+    {
+      "year": 1962,
+      "title": "Law on Regulating Sharia Courts",
+      "description": "Federal statute regulating Sunni and Shia Sharia Courts for Muslim personal-status matters."
+    },
+    {
+      "year": 1994,
+      "title": "Lebanese Order of Psychologists Law 8 of 1994",
+      "description": "Federal statute establishing the Lebanese Order of Psychologists — among earliest dedicated psychology-regulation statutes in MENA region."
+    }
+  ],
+  "structural_findings": [
+    "Lebanon operates the most structurally distinctive confessional family-law framework within the corpus — 18 recognised religious-community courts each administering separate personal-status law, with NO civil family-law statute. Unique among the MENA cluster.",
+    "Civil marriage non-recognition internally is structurally distinctive — only Lebanon and certain Gulf states maintain this within the corpus.",
+    "Lebanese Order of Psychologists Law 8 of 1994 is the earliest dedicated psychology-regulation statute in the MENA region within the corpus — structurally distinctive.",
+    "Non-Hague Convention status places Lebanon in the non-Hague MENA cluster."
+  ],
+  "references": [
+    "jurisdiction:jordan",
+    "jurisdiction:syria",
+    "jurisdiction:israel",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.justice.gov.lb/",
+      "publisher": "Ministry of Justice",
+      "language": "ar,fr"
+    },
+    {
+      "title": "Constitutional Council",
+      "url": "https://www.cc.gov.lb/",
+      "publisher": "Constitutional Council",
+      "language": "ar,fr"
+    },
+    {
+      "title": "Lebanese Order of Psychologists",
+      "url": "https://www.lop.org.lb/",
+      "publisher": "Order of Psychologists",
+      "language": "ar,fr"
+    }
+  ],
+  "editorial_notes": [
+    "Lebanon jurisdiction sidecar — mixed-legal-system MENA (French civil-law substantive + 18-community confessional personal-status). Most distinctive confessional family-law framework in corpus.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins MENA + mixed-legal-system + 18-community-confessional-distinctive cluster + earliest-MENA-psychology-regulation cluster + non-Hague Convention clusters within the corpus."
+  ]
+}

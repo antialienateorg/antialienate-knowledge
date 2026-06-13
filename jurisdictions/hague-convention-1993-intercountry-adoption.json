@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "id": "hague-convention-1993-intercountry-adoption",
+  "name": "Hague Convention 1993 on Intercountry Adoption",
+  "jurisdiction_code": "HCA",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Hague Convention 1993 on Intercountry Adoption (formally Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption) is a global supranational meta-framework intercountry-adoption-cooperation instrument adopted by the Hague Conference on Private International Law (HCCH) — structurally distinctive globally as the only modern global binding-treaty framework operating specifically on intercountry-adoption framework (Hague Convention 1993 adopted 29 May 1993 + effective 1 May 1995 — formal global binding-treaty framework establishing cooperation framework for intercountry adoptions, distinct from rest-of-modern-international-children's-rights frameworks which operate on broader best-interests + general-children's-rights frameworks, structurally distinctive globally as the only modern global binding-treaty framework operating on formal-intercountry-adoption-specific framework), as the only modern global binding-treaty framework operating formal Central-Authority-cooperation framework for intercountry adoption (Convention Article 6 Central Authority designation framework + Article 14 application to Central Authority framework + Article 17 acceptance framework + Article 23 recognition framework — formal Central-Authority-cooperation framework, distinct from rest-of-modern-international-children's-rights frameworks operating without formal Central-Authority-cooperation framework), as the central jurisdiction of the formal HCCH post-1980 intercountry-adoption elaboration framework (Hague Convention 1993 adopted as global comprehensive supplement to Hague Convention 1980 + UNCRC 1989 frameworks — applicable to 105 state parties as of 2026, with substantial state parties from receiving + sending state parties, structurally distinctive globally as the most-widely-adopted Hague Convention framework on children-specific frameworks alongside Hague Convention 1980's 103 state parties), and as the central jurisdiction of one of the most distinctive modern global intercountry-adoption frameworks globally (Convention Article 1 children's-rights-prioritisation framework + Article 4 child-eligibility framework + Article 5 prospective-adoptive-parents-eligibility framework + Article 16 child-suitability-evaluation framework + Article 17 acceptance-by-receiving-state framework + Article 21 trafficking-prevention framework — formal multi-stage global intercountry-adoption framework). The Hague Convention 1993 is binding upon 105 state parties as of 2026 including substantial receiving state parties (US + EU bloc + Australia + Canada + New Zealand + others) + sending state parties (China + India + Vietnam + Ethiopia + Russia + others). The Convention is silent on 'parental alienation' as a statutory label, though formal intercountry-adoption framework is highly relevant. The Permanent Bureau of the Hague Conference on Private International Law is the apex monitoring framework body; national-level Central Authorities + national-level apex courts operate as administrative + judicial bodies. The Hague Convention 1993 is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Hague Convention 1993 on Intercountry Adoption",
+      "title": "Hague Convention 1993",
+      "year": 1995,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption adopted 29 May 1993 + effective 1 May 1995 — formal global binding-treaty framework establishing cooperation framework for intercountry adoptions."
+    },
+    {
+      "citation": "Hague Convention 1980 (concurrent applicability framework)",
+      "title": "Hague Convention 1980",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the Civil Aspects of International Child Abduction 1980 — concurrent applicability framework with Hague Convention 1993."
+    },
+    {
+      "citation": "UN Convention on the Rights of the Child UNCRC 1989 + Article 21 (Adoption)",
+      "title": "UNCRC + Article 21",
+      "year": 1989,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Rights of the Child adopted 20 November 1989 + Article 21 adoption framework — universal multilateral framework underlying Hague Convention 1993 intercountry-adoption framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Permanent Bureau of the Hague Conference on Private International Law (HCCH)",
+      "seat": "The Hague",
+      "url": "https://www.hcch.net/",
+      "role": "Apex monitoring framework body for Hague Convention 1993."
+    },
+    {
+      "name": "National-level Central Authorities",
+      "seat": "Various",
+      "url": "https://www.hcch.net/",
+      "role": "National-level Central Authorities — formal Central-Authority-cooperation framework operational bodies."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "HCCH Secretariat",
+      "url": "https://www.hcch.net/",
+      "role": "Hague Convention 1993 implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Hague Convention 1993-related individual communications are anonymised per national-level court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1893,
+      "title": "Hague Conference on Private International Law founded",
+      "description": "Hague Conference on Private International Law HCCH founded 12 September 1893 — beginning of formal HCCH framework."
+    },
+    {
+      "year": 1980,
+      "title": "Hague Convention 1980 adopted",
+      "description": "Hague Convention on the Civil Aspects of International Child Abduction adopted 25 October 1980 — universal multilateral framework."
+    },
+    {
+      "year": 1989,
+      "title": "UNCRC adopted",
+      "description": "UN Convention on the Rights of the Child UNCRC adopted 20 November 1989 + Article 21 adoption framework — universal multilateral framework underlying Hague Convention 1993."
+    },
+    {
+      "year": 1993,
+      "title": "Hague Convention 1993 adopted",
+      "description": "Hague Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption adopted 29 May 1993 — formal global binding-treaty framework establishing cooperation framework for intercountry adoptions."
+    },
+    {
+      "year": 1995,
+      "title": "Hague Convention 1993 enters force",
+      "description": "Hague Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption entered force 1 May 1995 — formal global binding-treaty framework operational."
+    },
+    {
+      "year": 2008,
+      "title": "US accession to Hague Convention 1993",
+      "description": "United States accession to Hague Convention 1993 effective 1 April 2008 — formal US receiving state party framework."
+    },
+    {
+      "year": 2017,
+      "title": "Ethiopia ban on intercountry adoption",
+      "description": "Ethiopia ban on intercountry adoption 9 January 2018 effective 14 January 2018 — formal end of Ethiopia sending state framework, significant impact on global intercountry adoption flow framework."
+    }
+  ],
+  "structural_findings": [
+    "Hague Convention 1993 operates a supranational global binding-treaty framework — places Hague Convention 1993 in the global supranational-meta-framework cluster.",
+    "Only modern global binding-treaty framework operating specifically on intercountry-adoption framework is structurally distinctive globally — formal-intercountry-adoption-specific framework.",
+    "Only modern global binding-treaty framework operating formal Central-Authority-cooperation framework for intercountry adoption is structurally distinctive globally — formal Central-Authority-cooperation framework via Convention Article 6 + 14 + 17 + 23 frameworks.",
+    "Central jurisdiction of formal HCCH post-1980 intercountry-adoption elaboration framework is structurally distinctive globally — Hague Convention 1993 framework.",
+    "Central jurisdiction of one of most distinctive modern global intercountry-adoption frameworks globally is structurally distinctive globally — Convention Article 1 + 4 + 5 + 16 + 17 + 21 frameworks + formal multi-stage global intercountry-adoption framework.",
+    "105 state party ratification framework is structurally distinctive globally — most-widely-adopted Hague Convention framework on children-specific frameworks alongside Hague Convention 1980's 103 state parties.",
+    "1893 HCCH + 1980 Hague Convention + 1989 UNCRC + 1993 Hague Convention + 1995 entry into force + 2008 US accession + 2018 Ethiopia ban global-framework-development sequence is structurally distinctive globally.",
+    "Substantial receiving state + sending state framework is structurally distinctive globally — bilateral-flow framework distinct from rest-of-modern-international-children's-rights frameworks operating without bilateral-flow framework."
+  ],
+  "references": [
+    "jurisdiction:hague-conference-on-private-international-law",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child",
+    "evidence:hague-convention-1980"
+  ],
+  "sources": [
+    {
+      "title": "Hague Conference on Private International Law (HCCH)",
+      "url": "https://www.hcch.net/",
+      "publisher": "HCCH",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Hague Convention 1993 on Intercountry Adoption jurisdiction sidecar — supranational global intercountry-adoption-cooperation binding treaty meta-framework (Hague Convention 1993/1995 + Hague Convention 1980/1983 + UN Convention on the Rights of the Child UNCRC 1989 Article 21 + HCCH founded 1893 + US accession 2008 + Ethiopia ban 2018). Only modern global binding-treaty framework operating specifically on intercountry-adoption framework globally + only modern global binding-treaty framework operating formal Central-Authority-cooperation framework for intercountry adoption + central jurisdiction of formal HCCH post-1980 intercountry-adoption elaboration framework + central jurisdiction of one of most distinctive modern global intercountry-adoption frameworks globally + 105 state party ratification framework + 1893 HCCH + 1980 Hague Convention + 1989 UNCRC + 1993 Hague Convention + 1995 entry into force + 2008 US accession + 2018 Ethiopia ban global-framework-development sequence + Substantial receiving state + sending state framework + bilateral-flow framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + global-intercountry-adoption-cooperation-binding-treaty cluster + Hague-Convention-1993-only-modern-global-binding-treaty-framework-operating-specifically-on-intercountry-adoption-globally-distinctive + Article-6-14-17-23-Central-Authority-cooperation + Article-1-4-5-16-17-21-multi-stage-intercountry-adoption + 105-state-party-ratification-most-widely-adopted-Hague-Convention-children-framework + receiving-state-sending-state-bilateral-flow + 1995-entry-into-force + 2008-US-accession + 2018-Ethiopia-ban clusters within the corpus."
+  ]
+}

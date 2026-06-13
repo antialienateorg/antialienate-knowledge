@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0",
+  "id": "bougainville",
+  "name": "Autonomous Region of Bougainville (AROB)",
+  "jurisdiction_code": "PG-NSB",
+  "legal_system": "mixed",
+  "language": ["en", "tpi", "ho"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Autonomous Region of Bougainville (AROB), comprising Bougainville Island + Buka Island + outlying islands, is an Oceanian Melanesian mixed common-law/Adat-customary-law autonomous region of Papua New Guinea — structurally distinctive globally as the world's most decisive independence referendum result in modern history (97.7% YES for independence in Bougainville Independence Referendum 23 November - 7 December 2019, ~181,067 YES out of ~185,272 valid votes — highest YES-percentage of any modern independence referendum globally, ahead of 2020 Bougainville-equivalent jurisdictions), as the only Papua New Guinea autonomous region established via formal peace-agreement framework derived from internal armed conflict resolution (Bougainville Peace Agreement 30 August 2001 ending the Bougainville Civil War 1988-1998 between Bougainville Revolutionary Army BRA and Papua New Guinea Defence Force PNGDF with ~15,000-20,000 deaths — proportionally one of the deadliest modern Oceanian internal armed conflicts), as the central jurisdiction of the most economically distinctive modern Oceanian internal armed conflict catalysed by Rio Tinto-operated Panguna Copper Mine framework (Panguna Mine operated 1972-1989 — closed 1989 due to BRA insurgency, representing ~17% of Papua New Guinea export revenue and ~44% of Papua New Guinea export revenue at peak, never reopened post-Civil War), and as the only modern independence-bound jurisdiction subject to formal post-referendum constitutional implementation framework (post-2019 referendum + 2021 Bougainville-PNG Joint Consultation framework + 2027 target independence transition framework — Papua New Guinea Parliament 2027-target ratification framework). Bougainville comprises ~9,318 km² with a population of ~300,000. Family-law framework operates under a dual federal Papua New Guinea common-law framework + Bougainville-specific Customary Court Adat-customary-law family-law framework for indigenous Melanesian communities. The Bougainville High Court is the apex regional court; the National Court of Papua New Guinea + Supreme Court of Papua New Guinea provide intermediate + final appellate jurisdiction. Bougainville is silent on 'parental alienation' as a statutory label. Papua New Guinea is a Hague Convention 1980 signatory but not a party — Bougainville is governed by the PNG non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Bougainville Peace Agreement 2001",
+      "title": "Bougainville Peace Agreement",
+      "year": 2001,
+      "url": "https://www.abg.gov.pg/",
+      "relevance": "Agreement of 30 August 2001 between Papua New Guinea Government + Bougainville Revolutionary Army BRA + Bougainville Resistance Force BRF + other parties ending Bougainville Civil War 1988-1998 — providing for Bougainville Autonomous Government + Bougainville Independence Referendum framework."
+    },
+    {
+      "citation": "Constitution of Papua New Guinea — Bougainville Special Provisions",
+      "title": "PNG Constitution — Bougainville Provisions",
+      "year": 2002,
+      "url": "http://www.parliament.gov.pg/",
+      "relevance": "Papua New Guinea Constitutional amendments 2002 implementing Bougainville Peace Agreement — providing for Bougainville Autonomous Government + Bougainville Independence Referendum framework."
+    },
+    {
+      "citation": "Bougainville Constitution 2004",
+      "title": "Bougainville Constitution",
+      "year": 2004,
+      "url": "https://www.abg.gov.pg/",
+      "relevance": "Bougainville Constitution adopted 2004 — establishing Autonomous Bougainville Government (ABG) framework."
+    },
+    {
+      "citation": "Bougainville Independence Referendum 2019 (97.7% YES)",
+      "title": "Bougainville Independence Referendum",
+      "year": 2019,
+      "url": "https://www.abg.gov.pg/",
+      "relevance": "Bougainville Independence Referendum 23 November - 7 December 2019 — 97.7% YES for independence — world's most decisive modern independence referendum result."
+    },
+    {
+      "citation": "Bougainville-PNG Joint Consultation Framework 2021+",
+      "title": "Bougainville-PNG Joint Consultation Framework",
+      "year": 2021,
+      "url": "https://www.abg.gov.pg/",
+      "relevance": "Bougainville-PNG Joint Consultation framework established 2021 — 2027 target independence transition framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "National Court of Papua New Guinea (Bougainville Circuit)",
+      "seat": "Buka",
+      "url": "http://www.pngjudiciary.gov.pg/",
+      "role": "Apex regional trial court for civil and criminal matters from Bougainville."
+    },
+    {
+      "name": "Supreme Court of Papua New Guinea",
+      "seat": "Port Moresby",
+      "url": "http://www.pngjudiciary.gov.pg/",
+      "role": "Final appellate court for civil and criminal matters from Bougainville."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Papua New Guinea Medical Board",
+      "url": "https://www.health.gov.pg/",
+      "role": "Papua New Guinea Federal professional regulatory framework applicable in Bougainville."
+    }
+  ],
+  "anonymisation_convention": "Bougainville family-court decisions are anonymised per Papua New Guinea court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1972,
+      "title": "Panguna Mine begins operations",
+      "description": "Rio Tinto-operated Panguna Copper Mine operations begin 1972 — ~17-44% of Papua New Guinea export revenue 1972-1989."
+    },
+    {
+      "year": 1975,
+      "title": "Bougainville incorporated into PNG independence",
+      "description": "Bougainville incorporated into newly-independent Papua New Guinea on 16 September 1975 — initial unilateral declaration of independence by Bougainville on 1 September 1975 superseded by PNG independence."
+    },
+    {
+      "year": 1988,
+      "title": "Bougainville Civil War begins",
+      "description": "Bougainville Civil War 1988-1998 — Bougainville Revolutionary Army BRA insurgency catalysed by Panguna Mine framework + cumulative ~15,000-20,000 deaths."
+    },
+    {
+      "year": 1989,
+      "title": "Panguna Mine closes",
+      "description": "Panguna Copper Mine closes 1989 due to BRA insurgency — never reopened post-Civil War."
+    },
+    {
+      "year": 1998,
+      "title": "Bougainville Civil War ceasefire",
+      "description": "Bougainville Civil War ceasefire 30 April 1998 — Lincoln Agreement framework."
+    },
+    {
+      "year": 2001,
+      "title": "Bougainville Peace Agreement",
+      "description": "Bougainville Peace Agreement signed 30 August 2001 — providing for Bougainville Autonomous Government + Bougainville Independence Referendum framework."
+    },
+    {
+      "year": 2002,
+      "title": "PNG Constitutional amendments",
+      "description": "Papua New Guinea Constitutional amendments 2002 implementing Bougainville Peace Agreement."
+    },
+    {
+      "year": 2004,
+      "title": "Bougainville Constitution adopted",
+      "description": "Bougainville Constitution adopted 2004 — establishing Autonomous Bougainville Government (ABG)."
+    },
+    {
+      "year": 2005,
+      "title": "Autonomous Bougainville Government established",
+      "description": "Autonomous Bougainville Government (ABG) formally established 15 June 2005 — first ABG President Joseph Kabui."
+    },
+    {
+      "year": 2019,
+      "title": "Bougainville Independence Referendum",
+      "description": "Bougainville Independence Referendum 23 November - 7 December 2019 — 97.7% YES for independence (181,067 YES of 185,272 valid votes)."
+    },
+    {
+      "year": 2021,
+      "title": "Bougainville-PNG Joint Consultation Framework",
+      "description": "Bougainville-PNG Joint Consultation framework established 2021 — 2027 target independence transition framework."
+    }
+  ],
+  "structural_findings": [
+    "Bougainville operates a mixed federal Papua New Guinea common-law + Bougainville Adat-customary-law autonomous region framework — places Bougainville in the Oceanian Melanesian autonomous-region cluster.",
+    "World's most decisive independence referendum result in modern history (97.7% YES) is structurally distinctive globally — Bougainville Independence Referendum 2019.",
+    "Only Papua New Guinea autonomous region established via formal peace-agreement framework derived from internal armed conflict resolution is structurally distinctive globally — Bougainville Peace Agreement 2001 implementing 2001-onwards framework.",
+    "Central jurisdiction of most economically distinctive modern Oceanian internal armed conflict catalysed by Rio Tinto-operated Panguna Copper Mine framework is structurally distinctive globally — Panguna Mine 1972-1989 representing ~17-44% PNG export revenue.",
+    "Only modern independence-bound jurisdiction subject to formal post-referendum constitutional implementation framework is structurally distinctive globally — 2019 referendum + 2021 Joint Consultation + 2027 target independence transition framework.",
+    "Bougainville Civil War 1988-1998 with ~15,000-20,000 deaths is structurally distinctive globally — proportionally one of deadliest modern Oceanian internal armed conflicts.",
+    "Autonomous Bougainville Government (ABG) framework established 2005 is structurally distinctive within Oceanian autonomous-region cluster.",
+    "PNG non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:papua-new-guinea",
+    "jurisdiction:australia",
+    "jurisdiction:solomon-islands",
+    "jurisdiction:new-zealand",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Autonomous Bougainville Government",
+      "url": "https://www.abg.gov.pg/",
+      "publisher": "ABG",
+      "language": "en"
+    },
+    {
+      "title": "Papua New Guinea Parliament",
+      "url": "http://www.parliament.gov.pg/",
+      "publisher": "PNG Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Bougainville jurisdiction sidecar — mixed federal Papua New Guinea common-law/Bougainville Adat-customary-law Oceanian Melanesian autonomous region (Bougainville Peace Agreement 2001 + PNG Constitution Bougainville Provisions 2002 + Bougainville Constitution 2004 + Bougainville Independence Referendum 2019 97.7% YES + Bougainville-PNG Joint Consultation Framework 2021+ + 2027 target independence transition + Panguna Mine 1972-1989 + Bougainville Civil War 1988-1998 + ABG established 2005 + PNG non-Hague-1980). World's most decisive independence referendum result in modern history globally + only PNG autonomous region established via formal peace-agreement framework + central jurisdiction of most economically distinctive modern Oceanian internal armed conflict + only modern independence-bound jurisdiction subject to formal post-referendum constitutional implementation framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Oceanian-Melanesian + mixed PNG-common-law/Bougainville-Adat-customary-law + PNG-autonomous-region cluster + Bougainville-Independence-Referendum-2019-97-7-percent-YES-globally-distinctive + Bougainville-Peace-Agreement-2001 + Bougainville-Civil-War-1988-1998 + Panguna-Copper-Mine-1972-1989 + ABG-2005 + 2027-target-independence-transition + PNG-non-Hague-1980 clusters within the corpus."
+  ]
+}

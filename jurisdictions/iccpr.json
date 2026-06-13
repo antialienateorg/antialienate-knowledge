@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0",
+  "id": "iccpr",
+  "name": "International Covenant on Civil and Political Rights (ICCPR 1966)",
+  "jurisdiction_code": "ICC",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The International Covenant on Civil and Political Rights (ICCPR) is a global supranational meta-framework civil + political rights binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as one of two universal multilateral binding-treaty translations of UDHR framework (ICCPR adopted 16 December 1966 by UN General Assembly Resolution 2200A (XXI) + effective 23 March 1976 — formal universal multilateral binding-treaty framework establishing comprehensive civil + political rights framework, distinct from rest-of-modern-international-human-rights frameworks which operate on broader general-rights frameworks, structurally distinctive globally as one of two universal multilateral binding-treaty translations of UDHR framework alongside ICESCR — formally constituting International Bill of Human Rights framework alongside UDHR + ICESCR), as the central jurisdiction of the formal Article 23 family-rights framework (ICCPR Article 23 framework on rights of the family — formal foundational family-rights framework establishing family as 'natural and fundamental group unit of society' entitled to formal state protection, structurally distinctive globally as one of the most-fundamental modern international family-rights framework provisions alongside UDHR Article 16 + American Convention Article 17 + Banjul Charter Article 18 frameworks), as the central jurisdiction of the formal Article 24 children's-rights framework (ICCPR Article 24 framework on rights of children — formal foundational children's-rights framework predating UNCRC 1989 by 23 years, structurally distinctive globally as one of the earliest formal universal binding-treaty children's-rights framework provisions), and as the central jurisdiction of the formal ICCPR Optional Protocol 1 individual communications framework (ICCPR Optional Protocol 1 adopted 16 December 1966 + effective 23 March 1976 — formal UN Human Rights Committee individual communications framework, applicable to 117 state parties as of 2026, structurally distinctive globally as one of the earliest formal universal binding-treaty individual-communications frameworks). The ICCPR is binding upon 174 state parties as of 2026 — substantial state party + non-state-party framework with significant non-ratification framework including China + Saudi Arabia + Singapore + Comoros + Cuba + Malaysia + others. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 17 privacy + Article 23 family-rights + Article 24 children's-rights frameworks operate substantial intersection with parental-alienation framework. The UN Human Rights Committee is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The ICCPR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "International Covenant on Civil and Political Rights 1966",
+      "title": "ICCPR",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "International Covenant on Civil and Political Rights adopted 16 December 1966 by UN General Assembly Resolution 2200A (XXI) + effective 23 March 1976 — formal universal multilateral binding-treaty framework establishing comprehensive civil + political rights framework."
+    },
+    {
+      "citation": "ICCPR Article 17 (Privacy) + Article 23 (Family) + Article 24 (Children)",
+      "title": "ICCPR Articles 17 + 23 + 24",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "ICCPR Article 17 framework on privacy + Article 23 framework on family-rights establishing family as 'natural and fundamental group unit of society' + Article 24 framework on children's-rights — formal foundational family-rights + children's-rights framework triad."
+    },
+    {
+      "citation": "ICCPR Optional Protocol 1 1966 (Individual Communications)",
+      "title": "ICCPR Optional Protocol 1",
+      "year": 1976,
+      "url": "https://www.un.org/",
+      "relevance": "ICCPR Optional Protocol 1 adopted 16 December 1966 + effective 23 March 1976 — formal UN Human Rights Committee individual communications framework, applicable to 117 state parties as of 2026."
+    },
+    {
+      "citation": "ICCPR Optional Protocol 2 1989 (Death Penalty Abolition)",
+      "title": "ICCPR Optional Protocol 2",
+      "year": 1991,
+      "url": "https://www.un.org/",
+      "relevance": "ICCPR Optional Protocol 2 adopted 15 December 1989 + effective 11 July 1991 — formal death-penalty abolition framework, applicable to 91 state parties as of 2026."
+    },
+    {
+      "citation": "UN Human Rights Committee General Comment 17 1989 (Article 24 Children's Rights)",
+      "title": "Human Rights Committee General Comment 17",
+      "year": 1989,
+      "url": "https://www.ohchr.org/",
+      "relevance": "UN Human Rights Committee General Comment 17 of 7 April 1989 on Article 24 Children's Rights — formal UN Human Rights Committee framework on children's-rights framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Human Rights Committee (CCPR Committee)",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/ccpr",
+      "role": "Apex monitoring framework body for ICCPR."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "ICCPR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ICCPR-related individual communications are anonymised per UN Human Rights Committee practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "UDHR adopted",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 — foundational framework underlying ICCPR."
+    },
+    {
+      "year": 1966,
+      "title": "ICCPR + ICESCR adopted",
+      "description": "International Covenant on Civil and Political Rights ICCPR + International Covenant on Economic, Social and Cultural Rights ICESCR adopted 16 December 1966 — formal binding-treaty translation of UDHR framework."
+    },
+    {
+      "year": 1976,
+      "title": "ICCPR enters force",
+      "description": "International Covenant on Civil and Political Rights entered force 23 March 1976 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1989,
+      "title": "Optional Protocol 2 (Death Penalty Abolition) + General Comment 17",
+      "description": "ICCPR Optional Protocol 2 on Death Penalty Abolition adopted 15 December 1989 + UN Human Rights Committee General Comment 17 of 7 April 1989 on Article 24 Children's Rights — formal complementary frameworks."
+    },
+    {
+      "year": 1991,
+      "title": "Optional Protocol 2 enters force",
+      "description": "ICCPR Optional Protocol 2 on Death Penalty Abolition entered force 11 July 1991 — formal death-penalty abolition framework operational."
+    }
+  ],
+  "structural_findings": [
+    "ICCPR operates a supranational universal multilateral binding-treaty framework — places ICCPR in the global supranational-meta-framework cluster.",
+    "One of two universal multilateral binding-treaty translations of UDHR framework is structurally distinctive globally — alongside ICESCR + formally constituting International Bill of Human Rights framework alongside UDHR + ICESCR.",
+    "Central jurisdiction of formal Article 23 family-rights framework is structurally distinctive globally — formal foundational family-rights framework establishing family as 'natural and fundamental group unit of society'.",
+    "Central jurisdiction of formal Article 24 children's-rights framework is structurally distinctive globally — formal foundational children's-rights framework predating UNCRC 1989 by 23 years.",
+    "Central jurisdiction of formal ICCPR Optional Protocol 1 individual communications framework is structurally distinctive globally — formal UN Human Rights Committee individual communications framework, applicable to 117 state parties as of 2026.",
+    "174 state party ratification framework is structurally distinctive globally — substantial state party + non-state-party framework with significant non-ratification framework including China + Saudi Arabia + Singapore + Comoros + Cuba + Malaysia + others.",
+    "Article 17 + Article 23 + Article 24 formal privacy + family + children's-rights triad framework is structurally distinctive globally.",
+    "1948 UDHR + 1966 ICCPR + ICESCR + 1976 entry into force + 1989 Optional Protocol 2 + General Comment 17 International-Bill-of-Human-Rights-framework-development sequence is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — ICCPR",
+      "url": "https://www.ohchr.org/en/treaty-bodies/ccpr",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ICCPR jurisdiction sidecar — supranational global civil + political rights universal multilateral binding-treaty meta-framework (ICCPR 1966/1976 + Article 17 Privacy + Article 23 Family + Article 24 Children + Optional Protocol 1 Individual Communications 1966/1976 + Optional Protocol 2 Death Penalty Abolition 1989/1991 + UN Human Rights Committee General Comment 17 1989 + UDHR 1948 + ICESCR 1966/1976 + International Bill of Human Rights). One of two universal multilateral binding-treaty translations of UDHR framework alongside ICESCR + formally constituting International Bill of Human Rights framework alongside UDHR + ICESCR globally + central jurisdiction of formal Article 23 family-rights framework + central jurisdiction of formal Article 24 children's-rights framework + central jurisdiction of formal ICCPR Optional Protocol 1 individual communications framework + 174 state party ratification framework + Article 17 + Article 23 + Article 24 formal privacy + family + children's-rights triad framework + 1948 UDHR + 1966 ICCPR + ICESCR + 1976 entry into force + 1989 Optional Protocol 2 + General Comment 17 International-Bill-of-Human-Rights-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins global + supranational + universal-multilateral-civil-political-rights-binding-treaty cluster + ICCPR-one-of-two-universal-binding-treaty-translations-of-UDHR-globally-distinctive + Article-17-Privacy + Article-23-Family-natural-and-fundamental-group-unit-of-society + Article-24-Children-Rights-predating-UNCRC-1989 + Optional-Protocol-1-individual-communications + Optional-Protocol-2-Death-Penalty-Abolition + 174-state-party-ratification + UN-Human-Rights-Committee-CCPR-Committee + International-Bill-of-Human-Rights-UDHR-ICCPR-ICESCR-1948-1966-1976 clusters within the corpus."
+  ]
+}

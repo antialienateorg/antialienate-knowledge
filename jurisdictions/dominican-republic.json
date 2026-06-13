@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "dominican-republic",
+  "name": "Dominican Republic (República Dominicana)",
+  "jurisdiction_code": "DO",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Dominican Republic is a Caribbean civil-law republic whose family-law framework operates under the Civil Code (Código Civil, drawing on French Napoleonic Code substantive heritage via 19th-century adoption) supplemented by the Code for the System of Protection and Fundamental Rights of Children and Adolescents 2003 (Law 136-03, replacing 1994 Code for Minors). Parental authority (autoridad parental) and child custody are governed by Civil Code arts. 371-387 and Law 136-03 Title II. The Supreme Court of Justice (Suprema Corte de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional, established 2010) operates separate constitutional review. Family-law matters are heard at first instance in the Children and Adolescents Courts (Tribunales de Niños, Niñas y Adolescentes). Psychology profession is regulated through the Colegio Dominicano de Psicólogos (CODOPSI). The Dominican Republic is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Law 136-03 art. 5. The Dominican Republic acceded to the Hague Convention 1980 effective 1 November 2004.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code arts. 371-387",
+      "title": "Civil Code — Parental authority and custody",
+      "year": 1884,
+      "url": "https://www.poderjudicial.gob.do/",
+      "relevance": "Federal Civil Code drawing on French Napoleonic Code substantive heritage via 19th-century adoption. Arts. 371-387 govern autoridad parental and child custody."
+    },
+    {
+      "citation": "Code for the System of Protection and Fundamental Rights of Children and Adolescents 2003 (Law 136-03)",
+      "title": "Code for Children and Adolescents Protection",
+      "year": 2003,
+      "url": "https://www.poderjudicial.gob.do/",
+      "relevance": "Federal Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations, replacing 1994 Code for Minors."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Justice (Suprema Corte de Justicia)",
+      "seat": "Santo Domingo",
+      "url": "https://www.poderjudicial.gob.do/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Tribunal Constitucional)",
+      "seat": "Santo Domingo",
+      "url": "https://www.tribunalconstitucional.gob.do/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review (established 2010)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Colegio Dominicano de Psicólogos (CODOPSI)",
+      "url": "https://www.codopsi.org.do/",
+      "role": "Federal professional college for psychologists in the Dominican Republic."
+    }
+  ],
+  "anonymisation_convention": "Dominican family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1884,
+      "title": "Civil Code adoption (French Napoleonic)",
+      "description": "Federal Civil Code adopted via Napoleonic Code substantive heritage."
+    },
+    {
+      "year": 2003,
+      "title": "Law 136-03 — Code for Children and Adolescents Protection",
+      "description": "Federal Code enacted replacing 1994 Code for Minors, codifying superior-interest principle aligned with UNCRC obligations."
+    },
+    {
+      "year": 2004,
+      "title": "Hague Convention 1980 accession",
+      "description": "The Dominican Republic acceded to the Hague Convention 1980 effective 1 November 2004."
+    },
+    {
+      "year": 2010,
+      "title": "Constitutional Court established",
+      "description": "Constitutional Court established with original jurisdiction over constitutional review."
+    }
+  ],
+  "structural_findings": [
+    "Dominican Republic operates a French-Napoleonic-derivative civil-law family-law framework — structurally distinctive within the Caribbean cluster (where common-law dominates among Hispaniola, Cuba and Anglophone Caribbean).",
+    "Hague Convention 1980 accession 2004 places Dominican Republic in the Hague Caribbean cluster.",
+    "Constitutional Court (2010) establishment is among the more recent Latin American constitutional-review-court establishments in the corpus."
+  ],
+  "references": [
+    "jurisdiction:cuba",
+    "jurisdiction:haiti",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Power of the Dominican Republic",
+      "url": "https://www.poderjudicial.gob.do/",
+      "publisher": "Judicial Power",
+      "language": "es"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.tribunalconstitucional.gob.do/",
+      "publisher": "Constitutional Court",
+      "language": "es"
+    },
+    {
+      "title": "Colegio Dominicano de Psicólogos",
+      "url": "https://www.codopsi.org.do/",
+      "publisher": "CODOPSI",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Dominican Republic jurisdiction sidecar — civil-law Caribbean (Civil Code Napoleonic-derivative + Law 136-03 + Constitutional Court 2010 + Hague Convention 1980 accession 2004).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + civil-law (distinctive in Anglophone-Caribbean) + Napoleonic-derivative + Hague Convention clusters within the corpus."
+  ]
+}

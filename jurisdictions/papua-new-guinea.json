@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "papua-new-guinea",
+  "name": "Papua New Guinea (Independent State of Papua New Guinea)",
+  "jurisdiction_code": "PG",
+  "legal_system": "mixed",
+  "language": ["en", "tpi", "ho"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Papua New Guinea is a Pacific Island mixed-legal-system constitutional monarchy combining Australian-derivative common-law substantive heritage (via 1975 independence + adopted Constitution) with constitutionally-recognised customary-law personal-status jurisdiction operating through Village Courts under the Village Courts Act 1989. Family-law framework operates under the Marriage Act 1963, the Matrimonial Causes Act 1963, the Lukautim Pikinini (Child) Act 2015, the Customary Recognition Act, and the Underlying Law Act 2000 codifying the role of customary law. Parental responsibility and child custody are governed by Lukautim Pikinini Act ss. 5-7 and case-law applying the welfare-of-the-child principle. The Supreme Court of Papua New Guinea is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the National Court (Family Section), Magistrates' Courts, and Village Courts for customary-law matters. Psychology profession is regulated through the Medical Board of Papua New Guinea framework. Papua New Guinea is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Lukautim Pikinini Act s. 5. Papua New Guinea is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Lukautim Pikinini (Child) Act 2015",
+      "title": "Lukautim Pikinini (Child) Act",
+      "year": 2015,
+      "url": "https://www.judiciary.gov.pg/",
+      "relevance": "Federal Child Welfare Act codifying welfare-of-the-child principle (s. 5), parental responsibility, custody, and children's protection provisions. Tok Pisin language title 'Lukautim Pikinini' means 'Looking after the child'."
+    },
+    {
+      "citation": "Underlying Law Act 2000",
+      "title": "Underlying Law Act",
+      "year": 2000,
+      "url": "https://www.judiciary.gov.pg/",
+      "relevance": "Federal statute codifying the role of customary law as part of underlying law of PNG."
+    },
+    {
+      "citation": "Village Courts Act 1989",
+      "title": "Village Courts Act",
+      "year": 1989,
+      "url": "https://www.judiciary.gov.pg/",
+      "relevance": "Federal statute establishing Village Courts for customary-law jurisdiction."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Papua New Guinea",
+      "seat": "Port Moresby",
+      "url": "https://www.judiciary.gov.pg/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Medical Board of Papua New Guinea",
+      "url": "https://www.health.gov.pg/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "PNG family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1975,
+      "title": "Independence",
+      "description": "Papua New Guinea achieved independence from Australia; Constitution adopted establishing common-law substantive framework with constitutionally-recognised customary-law jurisdiction."
+    },
+    {
+      "year": 1989,
+      "title": "Village Courts Act",
+      "description": "Federal statute establishing Village Courts for customary-law jurisdiction."
+    },
+    {
+      "year": 2000,
+      "title": "Underlying Law Act",
+      "description": "Federal statute codifying the role of customary law as part of underlying law of PNG."
+    },
+    {
+      "year": 2015,
+      "title": "Lukautim Pikinini (Child) Act",
+      "description": "Federal Child Welfare Act enacted codifying welfare-of-the-child principle and child-protection provisions."
+    }
+  ],
+  "structural_findings": [
+    "Papua New Guinea operates a structurally distinctive mixed-legal-system framework — Australian-derivative common-law substantive + constitutionally-recognised customary-law via Village Courts + Underlying Law Act 2000 codification. Most layered customary-law-statutory framework in the Pacific cluster within the corpus.",
+    "Tok Pisin-titled federal statute (Lukautim Pikinini Act) is structurally distinctive within the corpus — indigenous-language legislative naming reflects PNG language-policy heritage.",
+    "Trilingual official-language framework (English + Tok Pisin + Hiri Motu) is structurally distinctive within the Pacific cluster.",
+    "Non-Hague Convention status places PNG in the non-Hague Pacific cluster alongside Fiji."
+  ],
+  "references": [
+    "jurisdiction:fiji",
+    "jurisdiction:australia",
+    "jurisdiction:solomon-islands",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Papua New Guinea",
+      "url": "https://www.judiciary.gov.pg/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.health.gov.pg/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Papua New Guinea jurisdiction sidecar — mixed-legal-system Pacific Island (Australian-derivative common-law substantive + customary-law via Village Courts + Underlying Law Act 2000 + Lukautim Pikinini Act 2015 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + mixed-legal-system + Australian-derivative + customary-law-codified + Tok-Pisin-statute-distinctive + trilingual-official-language + non-Hague Convention clusters within the corpus."
+  ]
+}

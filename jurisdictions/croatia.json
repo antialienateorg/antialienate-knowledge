@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0",
+  "id": "croatia",
+  "name": "Croatia (Hrvatska)",
+  "jurisdiction_code": "HR",
+  "legal_system": "civil-law",
+  "language": ["hr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Croatia is a civil-law unitary republic whose family-law framework operates under the Obiteljski zakon (Family Act) of 2015 in force 1 November 2015. Parental care (roditeljska skrb) is governed by Obiteljski zakon arts. 91-117; joint exercise of parental care during marriage is the statutory default. The Vrhovni sud (Supreme Court of the Republic of Croatia, Zagreb) is the apex court for civil and criminal matters; the Ustavni sud (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated under the Zakon o psihološkoj djelatnosti 2003/2019 (Psychological Activity Act) establishing the Hrvatska psihološka komora (Croatian Psychological Chamber, HPK) as the statutory professional-chamber regulator. Croatia is silent on 'parental alienation' as a statutory label; courts operate substantively under the najbolji interes djeteta (best-interests-of-the-child) standard. As an EU Member State and Council of Europe member, Croatia operates within the Strasbourg Article 8 positive-obligations framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Obiteljski zakon 2015 arts. 91-117",
+      "title": "Family Act 2015 — Parental care",
+      "year": 2015,
+      "url": "https://www.zakon.hr/z/88/Obiteljski-zakon",
+      "relevance": "Federal statute on family law in force 1 November 2015. Arts. 91-117 govern parental care (roditeljska skrb); joint exercise during marriage is the statutory default. Art. 106 governs exercise of parental care after divorce; arts. 119-126 govern personal relations and contact (osobni odnosi). Welfare standard codified."
+    },
+    {
+      "citation": "Zakon o psihološkoj djelatnosti",
+      "title": "Psychological Activity Act",
+      "year": 2019,
+      "url": "https://www.zakon.hr/z/362/Zakon-o-psiholo%C5%A1koj-djelatnosti",
+      "relevance": "Federal statute regulating the psychology profession. Establishes the Hrvatska psihološka komora (HPK) as the statutory professional-chamber regulator. Statutory title protection; mandatory HPK membership for practising psychologists; disciplinary jurisdiction."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Vrhovni sud Republike Hrvatske (Supreme Court of the Republic of Croatia)",
+      "seat": "Zagreb",
+      "url": "https://www.vsrh.hr/",
+      "role": "Apex court for civil and criminal matters. Family-law decisions reach the Supreme Court via the Županijski sud (County Court of Appeal) following first-instance Općinski sud (Municipal Court) determinations."
+    },
+    {
+      "name": "Ustavni sud (Constitutional Court)",
+      "seat": "Zagreb",
+      "url": "https://www.usud.hr/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and individual constitutional complaints."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Hrvatska psihološka komora (HPK)",
+      "url": "https://www.psiholoska-komora.hr/",
+      "role": "Statutory professional-chamber regulator under Zakon o psihološkoj djelatnosti. Operates statutory licensing and disciplinary jurisdiction for psychologists. Mandatory membership for practising psychologists."
+    },
+    {
+      "name": "Hrvatsko psihološko društvo (Croatian Psychological Association)",
+      "url": "https://www.psihologija.hr/",
+      "role": "Peak academic-and-professional psychology society in Croatia. Operates ethics code alongside the statutory HPK regime."
+    }
+  ],
+  "anonymisation_convention": "Croatian family-law decisions are anonymised per Vrhovni sud practice using initials.",
+  "key_developments": [
+    {
+      "year": 2003,
+      "title": "Zakon o psihološkoj djelatnosti 2003",
+      "description": "Original Psychological Activity Act establishing HPK statutory professional chamber."
+    },
+    {
+      "year": 2015,
+      "title": "Obiteljski zakon 2015 in force",
+      "description": "New Family Act in force 1 November 2015 — modernised parental-care framework."
+    },
+    {
+      "year": 2019,
+      "title": "Zakon o psihološkoj djelatnosti 2019",
+      "description": "Updated Psychological Activity Act strengthening statutory regulation under HPK."
+    }
+  ],
+  "structural_findings": [
+    "Croatia sits structurally within the CEE/Balkan civil-law cluster alongside Bulgaria + Romania + Slovenia + Serbia — modernised Family Act 2015 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction.",
+    "HPK statutory professional-chamber regime (Zakon o psihološkoj djelatnosti 2003/2019) places Croatia among the federal-statutory psychology regulator group within the corpus — operates the distinctive 'komora' (chamber) tradition alongside Romania (CPR) and Spain (Colegio Oficial).",
+    "Constitutional Court individual-constitutional-complaint jurisdiction provides a constitutional-review pathway for family-court determinations engaging constitutional and ECHR rights."
+  ],
+  "references": [
+    "jurisdiction:bulgaria",
+    "jurisdiction:romania",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Vrhovni sud Republike Hrvatske",
+      "url": "https://www.vsrh.hr/",
+      "publisher": "Vrhovni sud",
+      "language": "hr,en"
+    },
+    {
+      "title": "Ustavni sud Republike Hrvatske",
+      "url": "https://www.usud.hr/",
+      "publisher": "Ustavni sud",
+      "language": "hr,en"
+    },
+    {
+      "title": "Zakon.hr — Croatian legal database",
+      "url": "https://www.zakon.hr/",
+      "publisher": "Zakon.hr",
+      "language": "hr"
+    },
+    {
+      "title": "Hrvatska psihološka komora (HPK)",
+      "url": "https://www.psiholoska-komora.hr/",
+      "publisher": "HPK",
+      "language": "hr"
+    }
+  ],
+  "editorial_notes": [
+    "Croatia jurisdiction sidecar — CEE/Balkan civil-law framework. Obiteljski zakon 2015 + Zakon o psihološkoj djelatnosti 2019 + HPK statutory professional-chamber psychology regulator.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins CEE/Balkan + federal-statutory psychology regulator (chamber tradition) clusters within the corpus."
+  ]
+}

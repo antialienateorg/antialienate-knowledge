@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0",
+  "id": "czechia",
+  "name": "Czechia (Česko / Czech Republic)",
+  "jurisdiction_code": "CZ",
+  "legal_system": "civil-law",
+  "language": ["cs"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Czechia is a civil-law unitary republic whose family-law framework was substantially modernised by the New Civil Code (Občanský zákoník, Law 89/2012) in force 1 January 2014. Parental responsibility (rodičovská odpovědnost) is governed by §§ 858-880 of the New Civil Code. The Supreme Court (Nejvyšší soud, Brno) is the apex civil-court of cassation; the Constitutional Court (Ústavní soud, Brno) operates a separate constitutional-review jurisdiction. Family-law matters are heard first-instance by Okresní soud (District Courts) with appeals to Krajský soud (Regional Courts). Psychology profession is regulated under Law 96/2004 on non-medical health professions and the Czech Psychological Society (Českomoravská psychologická společnost / ČMPS) operates ethics oversight. Czechia is silent on 'parental alienation' as a statutory label; courts operate substantively under the nejlepší zájem dítěte (best-interests-of-the-child) standard. The Constitutional Court has produced jurisprudence on parental-contact enforcement engaging the European Convention positive-obligations framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Občanský zákoník 89/2012 §§ 858-880",
+      "title": "New Civil Code — Parental Responsibility",
+      "year": 2012,
+      "url": "https://www.zakonyprolidi.cz/cs/2012-89",
+      "relevance": "Federal civil-code basis for parental responsibility. New Civil Code (Law 89/2012) in force 1 January 2014 substantially modernised Czech private law. §§ 858-880 govern parental responsibility including custody, residence and contact. § 875 establishes the welfare standard."
+    },
+    {
+      "citation": "Zákon o zvláštních řízeních soudních 292/2013",
+      "title": "Special Court Proceedings Act 2013",
+      "year": 2013,
+      "url": "https://www.zakonyprolidi.cz/cs/2013-292",
+      "relevance": "Federal procedural statute for special court proceedings including family-law matters. In force 1 January 2014 alongside the new Civil Code."
+    },
+    {
+      "citation": "Law 96/2004",
+      "title": "Law on non-medical health professions",
+      "year": 2004,
+      "url": "https://www.zakonyprolidi.cz/cs/2004-96",
+      "relevance": "Federal statute regulating non-medical health professions including clinical psychologists; statutory licensing under Ministry of Health."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Nejvyšší soud (Supreme Court)",
+      "seat": "Brno",
+      "url": "https://www.nsoud.cz/",
+      "role": "Apex civil-court of cassation. Family-law decisions reach the Supreme Court via the Krajský soud (Regional Court of Appeal) following Okresní soud (District Court) determinations."
+    },
+    {
+      "name": "Ústavní soud (Constitutional Court)",
+      "seat": "Brno",
+      "url": "https://www.usoud.cz/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and individual constitutional complaints. Has produced jurisprudence on parental-contact enforcement engaging European Convention positive-obligations framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Českomoravská psychologická společnost (ČMPS)",
+      "url": "https://www.cmps.eu/",
+      "role": "Peak academic-and-professional psychology society in Czechia. Operates ethics code."
+    },
+    {
+      "name": "Ministry of Health (Ministerstvo zdravotnictví)",
+      "url": "https://www.mzcr.cz/",
+      "role": "Federal ministry operating statutory licensing of clinical psychologists under Law 96/2004."
+    }
+  ],
+  "anonymisation_convention": "Czech family-law decisions are anonymised per Supreme Court and Constitutional Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2004,
+      "title": "Law 96/2004 non-medical health professions",
+      "description": "Federal statutory regulation of clinical psychologists under Ministry of Health licensing."
+    },
+    {
+      "year": 2014,
+      "title": "New Civil Code in force",
+      "description": "Občanský zákoník 89/2012 + Zákon o zvláštních řízeních soudních 292/2013 in force 1 January 2014 — substantial modernisation of Czech private law and family-court procedure."
+    }
+  ],
+  "structural_findings": [
+    "Czechia sits structurally within the CEE civil-law cluster alongside Poland + Slovakia + Hungary + Romania — New Civil Code modernisation 2014 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction.",
+    "Ústavní soud parental-contact enforcement jurisprudence engages European Convention Article 8 positive-obligations framework — sits structurally alongside Strasbourg apex jurisprudence (Bondavalli + Improta + Strumia Italian triptych) documented elsewhere in the corpus.",
+    "Psychology profession regulation under Law 96/2004 + ČMPS peak-body ethics is less centralised than federal-statutory regimes elsewhere but provides statutory licensing pathway."
+  ],
+  "references": [
+    "jurisdiction:poland",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:strasbourg-article-8-positive-obligations-doctrine",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Nejvyšší soud (Supreme Court)",
+      "url": "https://www.nsoud.cz/",
+      "publisher": "Nejvyšší soud",
+      "language": "cs,en"
+    },
+    {
+      "title": "Ústavní soud (Constitutional Court)",
+      "url": "https://www.usoud.cz/",
+      "publisher": "Ústavní soud",
+      "language": "cs,en"
+    },
+    {
+      "title": "Zákony pro lidi — Czech legal database",
+      "url": "https://www.zakonyprolidi.cz/",
+      "publisher": "AION CS",
+      "language": "cs"
+    }
+  ],
+  "editorial_notes": [
+    "Czechia jurisdiction sidecar — CEE civil-law framework. Občanský zákoník 89/2012 (in force 2014) + Zákon o zvláštních řízeních 292/2013 + Constitutional Court individual-complaint + Law 96/2004 psychology regulation.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. Constitutional Court parental-contact enforcement jurisprudence engages Article 8 positive obligations.",
+    "Joins CEE civil-law cluster + Constitutional-Court-individual-complaint cluster within the corpus."
+  ]
+}

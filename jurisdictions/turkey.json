@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "id": "turkey",
+  "name": "Türkiye (Republic of Türkiye)",
+  "jurisdiction_code": "TR",
+  "legal_system": "civil-law",
+  "language": ["tr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Türkiye is a civil-law unitary republic whose family-court framework operates under the Türk Medeni Kanunu (Turkish Civil Code, Law 4721/2001) Book Two (Family Law). Parental authority (velâyet) is held by both spouses during marriage (TMK arts. 335-336) and, on divorce, assigned to one parent by the family court under TMK art. 182 with the welfare standard governing the determination. Personal relationship between the non-custodial parent and the child (kişisel ilişki) is governed by TMK art. 182/2 and art. 323. Family-law matters are heard by specialised Aile Mahkemeleri (Family Courts) under Law 4787/2003. The Yargıtay (Court of Cassation, Ankara) is the apex court of appeal for civil matters; Türkiye's Constitutional Court (Anayasa Mahkemesi) operates an individual-application jurisdiction since 2012 for constitutional and ECHR-rights claims. Psychology profession is regulated by the Türk Psikologlar Derneği (TPD) under Ministry of Health licensing requirements; statutory regulation of psychology as a profession remains less comprehensive than the federal-statutory regimes elsewhere in the corpus. Türkiye is silent on 'parental alienation' as a statutory label; family-court practice operates substantively under the çocuğun üstün yararı (best-interests-of-the-child) welfare standard.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Türk Medeni Kanunu (TMK) arts. 182, 323, 335-336",
+      "title": "Turkish Civil Code Book Two — Family Law (parental authority and contact)",
+      "year": 2001,
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+      "relevance": "Federal civil-code basis for parental authority (velâyet) and personal relationship (kişisel ilişki). TMK 4721/2001 in force 1 January 2002. Art. 182 governs assignment of velâyet on divorce; art. 323 governs the right of personal relationship between the non-custodial parent and the child."
+    },
+    {
+      "citation": "Aile Mahkemelerinin Kuruluş ve Görevleri Hakkında Kanun (Law 4787/2003)",
+      "title": "Law on Establishment and Duties of Family Courts",
+      "year": 2003,
+      "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4787.pdf",
+      "relevance": "Federal statute establishing specialised Aile Mahkemeleri (Family Courts) with jurisdiction over family-law matters. In force 18 January 2003. Family courts are first-instance specialised courts; appeals lie to the Bölge Adliye Mahkemesi (regional appellate court) and ultimately Yargıtay."
+    },
+    {
+      "citation": "Anayasa Mahkemesi individual-application jurisdiction (2012)",
+      "title": "Constitutional Court individual-application jurisdiction",
+      "year": 2012,
+      "url": "https://www.anayasa.gov.tr/en/",
+      "relevance": "Türkiye's Constitutional Court individual-application jurisdiction in force 23 September 2012 — provides constitutional review pathway for family-court determinations engaging Constitutional rights and ECHR provisions. Cited in Strasbourg-adjacent family-law jurisprudence."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Yargıtay (Court of Cassation)",
+      "seat": "Ankara",
+      "url": "https://www.yargitay.gov.tr/",
+      "role": "Apex court of cassation for civil and criminal matters. Family-law decisions reach Yargıtay via the Bölge Adliye Mahkemesi (regional appellate courts). Operates as a cassation court reviewing legal-question determinations."
+    },
+    {
+      "name": "Anayasa Mahkemesi (Constitutional Court)",
+      "seat": "Ankara",
+      "url": "https://www.anayasa.gov.tr/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review and, since 2012, individual-application jurisdiction for constitutional rights and ECHR violations. Cited in family-law constitutional-review cases."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Türk Psikologlar Derneği (TPD)",
+      "url": "https://www.psikolog.org.tr/",
+      "role": "Peak professional association for psychologists in Türkiye. Operates ethics code and divisional structures. Statutory regulation of the psychology profession remains less comprehensive than the federal-statutory regimes elsewhere in the corpus; psychology practice oversight is shared with the Ministry of Health and the YÖK (Yükseköğretim Kurulu / Council of Higher Education) for training requirements."
+    }
+  ],
+  "anonymisation_convention": "Turkish family-law decisions are anonymised per Yargıtay practice; published Yargıtay and Anayasa Mahkemesi decisions use initials or single-letter labels. Family-court decisions are not generally published in full.",
+  "key_developments": [
+    {
+      "year": 2001,
+      "title": "Türk Medeni Kanunu 4721/2001",
+      "description": "New Turkish Civil Code enacted 22 November 2001, in force 1 January 2002 — substantial modernisation of family law including parental authority (velâyet) framework."
+    },
+    {
+      "year": 2003,
+      "title": "Law 4787/2003 — Family Courts",
+      "description": "Specialised Aile Mahkemeleri (Family Courts) established under Law 4787/2003 in force 18 January 2003."
+    },
+    {
+      "year": 2012,
+      "title": "Anayasa Mahkemesi individual-application jurisdiction",
+      "description": "Constitutional Court individual-application jurisdiction in force 23 September 2012 — provides constitutional-rights review pathway."
+    }
+  ],
+  "structural_findings": [
+    "Türkiye sits at the boundary of the European civil-law cluster and the Middle-Eastern jurisdictions. TMK 2001 represents a substantial modernisation of family law along civil-law lines; specialised Aile Mahkemeleri operate as first-instance courts. Distinct from the federal-statutory psychology regulator regimes elsewhere in the corpus.",
+    "Anayasa Mahkemesi individual-application jurisdiction since 2012 provides a Strasbourg-adjacent constitutional-review pathway for family-court determinations engaging ECHR rights. This places Türkiye structurally adjacent to the Convention-incorporated jurisdictions while operating as a Council of Europe member with regular ECHR family-law jurisprudence (e.g. Cengiz Kılıç v. Turkey ECHR 2011 documented in the corpus practitioner-base notes).",
+    "Psychology profession regulation is structurally less comprehensive than the federal-statutory regimes elsewhere in the corpus — Ministry of Health licensing + YÖK training requirements + TPD peak-body ethics oversight rather than a unified statutory professional-order regime."
+  ],
+  "references": [
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:strasbourg-article-8-positive-obligations-doctrine",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Yargıtay (Court of Cassation)",
+      "url": "https://www.yargitay.gov.tr/",
+      "publisher": "Türkiye Cumhuriyeti",
+      "language": "tr"
+    },
+    {
+      "title": "Anayasa Mahkemesi (Constitutional Court)",
+      "url": "https://www.anayasa.gov.tr/",
+      "publisher": "Türkiye Cumhuriyeti",
+      "language": "tr,en"
+    },
+    {
+      "title": "Mevzuat — Turkish legislation portal",
+      "url": "https://www.mevzuat.gov.tr/",
+      "publisher": "Cumhurbaşkanlığı Hukuk ve Mevzuat Genel Müdürlüğü",
+      "language": "tr"
+    },
+    {
+      "title": "Türk Psikologlar Derneği (TPD)",
+      "url": "https://www.psikolog.org.tr/",
+      "publisher": "TPD",
+      "language": "tr"
+    }
+  ],
+  "editorial_notes": [
+    "Türkiye jurisdiction sidecar — civil-law framework (TMK 4721/2001 + Law 4787/2003 Family Courts + Anayasa Mahkemesi individual-application 2012).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Psychology profession regulation less comprehensive than federal-statutory regimes elsewhere in corpus."
+  ]
+}

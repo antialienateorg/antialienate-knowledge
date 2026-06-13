@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "us-virgin-islands",
+  "name": "US Virgin Islands (United States Virgin Islands / USVI)",
+  "jurisdiction_code": "VI",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "US Virgin Islands is a Caribbean mixed-legal-system unincorporated US territory — structurally distinctive within the corpus as combining Danish civil-law substantive heritage (via 1917 acquisition from Denmark) with US-derivative common-law procedural framework. Family-law framework operates under the US Virgin Islands Code Title 16 (Family Relations) drawing on US-derivative common-law substantive heritage. Parental responsibility and child custody are governed by USVI Code Title 16 Chapter 11. The Supreme Court of the US Virgin Islands is the apex domestic court for civil and criminal matters; appellate jurisdiction in certain federal questions lies with the US Court of Appeals for the Third Circuit. Family-law matters are heard at first instance in the Superior Court of the Virgin Islands (Family Division). Psychology profession is regulated through the Virgin Islands Department of Health framework. US Virgin Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. US Virgin Islands is a Hague Convention 1980 party via US territorial extension effective 1 July 1988.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "US Virgin Islands Code Title 16 (Family Relations) Chapter 11",
+      "title": "USVI Code Title 16 — Family Relations",
+      "year": 1957,
+      "url": "https://www.visupremecourt.org/",
+      "relevance": "Federal Family Relations Code codifying marriage, divorce, parental responsibility, and child custody. Chapter 11 governs parental responsibility and child custody."
+    },
+    {
+      "citation": "Revised Organic Act of the Virgin Islands 1954",
+      "title": "Revised Organic Act of the Virgin Islands",
+      "year": 1954,
+      "url": "https://www.visupremecourt.org/",
+      "relevance": "Federal Revised Organic Act establishing USVI's unincorporated US territory status with civilian government."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the US Virgin Islands",
+      "seat": "Charlotte Amalie",
+      "url": "https://www.visupremecourt.org/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "US Court of Appeals for the Third Circuit + US Supreme Court",
+      "seat": "Philadelphia / Washington DC",
+      "url": "https://www.supremecourt.gov/",
+      "role": "Final appellate court for certain federal questions from USVI."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Virgin Islands Department of Health",
+      "url": "https://doh.vi.gov/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "USVI family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1917,
+      "title": "US acquisition from Denmark",
+      "description": "United States acquired Virgin Islands from Denmark in 1917 — Danish civil-law substantive heritage commenced US-territorial integration."
+    },
+    {
+      "year": 1954,
+      "title": "Revised Organic Act of the Virgin Islands",
+      "description": "Federal Revised Organic Act establishing USVI's unincorporated US territory status."
+    },
+    {
+      "year": 1988,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by US to USVI effective 1 July 1988."
+    }
+  ],
+  "structural_findings": [
+    "USVI operates a US-derivative common-law framework with structurally distinctive Danish civil-law substantive heritage residual (via 1917 acquisition from Denmark) — only US territory with Danish-substantive heritage in the corpus.",
+    "Unincorporated US territory status places USVI in the US Caribbean territory cluster.",
+    "Hague Convention 1980 applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:puerto-rico",
+    "jurisdiction:british-virgin-islands",
+    "jurisdiction:denmark",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of the US Virgin Islands",
+      "url": "https://www.visupremecourt.org/",
+      "publisher": "Supreme Court",
+      "language": "en"
+    },
+    {
+      "title": "Virgin Islands Department of Health",
+      "url": "https://doh.vi.gov/",
+      "publisher": "Department of Health",
+      "language": "en"
+    },
+    {
+      "title": "US Supreme Court",
+      "url": "https://www.supremecourt.gov/",
+      "publisher": "US Supreme Court",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "US Virgin Islands jurisdiction sidecar — mixed-legal-system Caribbean US unincorporated territory (USVI Code Title 16 + Danish civil-law substantive residual + Revised Organic Act 1954 + Hague via US territorial extension 1988). Only US territory with Danish-substantive heritage globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + US-unincorporated-territory cluster + Danish-substantive-residual + Hague-via-US-territorial-extension clusters within the corpus."
+  ]
+}

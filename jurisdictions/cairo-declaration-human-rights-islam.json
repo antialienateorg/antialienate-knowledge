@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "cairo-declaration-human-rights-islam",
+  "name": "Cairo Declaration on Human Rights in Islam 1990 + OIC Charter Framework",
+  "jurisdiction_code": "CDH",
+  "legal_system": "supranational",
+  "language": ["ar", "en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Cairo Declaration on Human Rights in Islam 1990 (formally Cairo Declaration on Human Rights in Islam adopted by the Organisation of Islamic Cooperation OIC) is a Pan-Islamic supranational meta-framework Islamic-context human-rights soft-law instrument adopted by the Organisation of Islamic Cooperation (OIC — formerly Organisation of the Islamic Conference 1969-2011) — structurally distinctive globally as the only modern supranational meta-framework operating formal Islamic-context human-rights framework (Cairo Declaration on Human Rights in Islam adopted 5 August 1990 by 19th Islamic Conference of Foreign Ministers in Cairo + soft-law framework — formal Islamic-context human-rights framework explicitly based on Islamic Sharia framework via Article 24 + Article 25 framework, distinct from rest-of-modern-international-human-rights frameworks which operate on secular human-rights framework, structurally distinctive globally as the only modern supranational human-rights framework with formal foundational Islamic Sharia framework), as the central jurisdiction of the formal OIC Pan-Islamic human-rights elaboration framework (Cairo Declaration adopted as Islamic supplement to Universal Declaration of Human Rights 1948 framework — applicable to all 57 OIC member states as soft-law framework, structurally distinctive globally as the only modern Pan-Islamic human-rights soft-law framework), as the central jurisdiction of the formal Cairo Declaration Article 5 family-rights framework (Cairo Declaration Article 5 framework on family-rights — formal Islamic-context family-rights framework, distinct from rest-of-modern-international-human-rights frameworks operating without formal Islamic-context family-rights framework, structurally distinctive globally as the only modern Islamic-context family-rights formal framework), and as the central jurisdiction of one of the most distinctive modern soft-law-vs-binding-treaty framework debates globally (Cairo Declaration soft-law framework + 2008 OIC Independent Permanent Human Rights Commission IPHRC framework + 2020 Cairo Declaration Update Process framework — formal ongoing OIC framework debate on transitioning from soft-law to binding-treaty framework, distinct from rest-of-modern-international-human-rights frameworks operating on either binding-treaty framework or soft-law framework without transition framework). The Cairo Declaration on Human Rights in Islam 1990 is binding upon 57 OIC member states as soft-law framework — universal Pan-Islamic coverage framework as soft-law framework. The Declaration is silent on 'parental alienation' as a statutory label, though formal Article 5 family-rights framework intersects with parental-rights framework. The OIC Independent Permanent Human Rights Commission IPHRC is the formal monitoring framework body; national-level apex courts operate as judicial bodies. The Cairo Declaration on Human Rights in Islam is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Cairo Declaration on Human Rights in Islam 1990",
+      "title": "Cairo Declaration on Human Rights in Islam",
+      "year": 1990,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Cairo Declaration on Human Rights in Islam adopted 5 August 1990 by 19th Islamic Conference of Foreign Ministers in Cairo — formal Islamic-context human-rights soft-law framework explicitly based on Islamic Sharia framework."
+    },
+    {
+      "citation": "Cairo Declaration Article 5 (Family Rights)",
+      "title": "Cairo Declaration Article 5",
+      "year": 1990,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Cairo Declaration Article 5 framework on family-rights — formal Islamic-context family-rights framework."
+    },
+    {
+      "citation": "Cairo Declaration Articles 24 + 25 (Sharia Framework)",
+      "title": "Cairo Declaration Articles 24 + 25",
+      "year": 1990,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Cairo Declaration Article 24 framework providing all rights specified in the Declaration are subject to Islamic Sharia + Article 25 framework providing Islamic Sharia as the only source of reference for explanation or clarification of any Articles — formal foundational Islamic Sharia framework underlying Cairo Declaration."
+    },
+    {
+      "citation": "OIC Independent Permanent Human Rights Commission IPHRC 2008",
+      "title": "OIC IPHRC",
+      "year": 2008,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "OIC Independent Permanent Human Rights Commission IPHRC established 2008 under OIC Charter 2008 framework — formal OIC monitoring framework body."
+    },
+    {
+      "citation": "OIC Charter 1972 (revised 2008)",
+      "title": "OIC Charter",
+      "year": 2008,
+      "url": "https://www.oic-oci.org/",
+      "relevance": "Organisation of Islamic Cooperation OIC Charter adopted 1972 + revised 2008 — formal Pan-Islamic regional supranational framework underlying Cairo Declaration."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "OIC Independent Permanent Human Rights Commission (IPHRC)",
+      "seat": "Jeddah",
+      "url": "https://www.oic-iphrc.org/",
+      "role": "Formal monitoring framework body for Cairo Declaration on Human Rights in Islam."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OIC Secretariat",
+      "url": "https://www.oic-oci.org/",
+      "role": "Cairo Declaration on Human Rights in Islam implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Cairo Declaration-related individual communications are not formally accepted under OIC IPHRC framework — soft-law cooperative framework.",
+  "key_developments": [
+    {
+      "year": 1969,
+      "title": "OIC founded",
+      "description": "Organisation of the Islamic Conference OIC founded 25 September 1969 in Rabat following Al-Aqsa Mosque arson attack 21 August 1969 — beginning of formal Pan-Islamic regional supranational framework."
+    },
+    {
+      "year": 1972,
+      "title": "OIC Charter adopted",
+      "description": "OIC Charter adopted 1972 — formal Pan-Islamic regional supranational framework."
+    },
+    {
+      "year": 1990,
+      "title": "Cairo Declaration adopted",
+      "description": "Cairo Declaration on Human Rights in Islam adopted 5 August 1990 by 19th Islamic Conference of Foreign Ministers in Cairo — formal Islamic-context human-rights soft-law framework."
+    },
+    {
+      "year": 2008,
+      "title": "OIC Charter revision + IPHRC",
+      "description": "OIC Charter revised 2008 + OIC Independent Permanent Human Rights Commission IPHRC established 2008 — formal OIC monitoring framework body."
+    },
+    {
+      "year": 2011,
+      "title": "OIC renamed Organisation of Islamic Cooperation",
+      "description": "Organisation of Islamic Cooperation renamed from Organisation of the Islamic Conference 28 June 2011 — formal Pan-Islamic regional supranational framework renaming."
+    },
+    {
+      "year": 2020,
+      "title": "Cairo Declaration Update Process",
+      "description": "Cairo Declaration Update Process commenced 2020 — formal ongoing OIC framework debate on transitioning from soft-law to binding-treaty framework."
+    }
+  ],
+  "structural_findings": [
+    "Cairo Declaration on Human Rights in Islam operates a supranational Pan-Islamic Islamic-context human-rights soft-law framework — places Cairo Declaration in the Pan-Islamic supranational-meta-framework cluster.",
+    "Only modern supranational meta-framework operating formal Islamic-context human-rights framework is structurally distinctive globally — formal Islamic-context human-rights framework explicitly based on Islamic Sharia framework.",
+    "Central jurisdiction of formal OIC Pan-Islamic human-rights elaboration framework is structurally distinctive globally — only modern Pan-Islamic human-rights soft-law framework.",
+    "Central jurisdiction of formal Cairo Declaration Article 5 family-rights framework is structurally distinctive globally — only modern Islamic-context family-rights formal framework.",
+    "Central jurisdiction of one of most distinctive modern soft-law-vs-binding-treaty framework debates globally is structurally distinctive globally — formal ongoing OIC framework debate.",
+    "57 OIC member state soft-law framework applicability is structurally distinctive globally — universal Pan-Islamic coverage framework as soft-law framework.",
+    "1969 OIC + 1972 OIC Charter + 1990 Cairo Declaration + 2008 OIC Charter revision + IPHRC + 2011 renaming + 2020 Update Process Islamic-human-rights-framework-development sequence is structurally distinctive globally.",
+    "Cairo Declaration Articles 24 + 25 formal foundational Islamic Sharia framework is structurally distinctive globally — only modern supranational human-rights framework with formal foundational Islamic Sharia framework."
+  ],
+  "references": [
+    "jurisdiction:organisation-of-islamic-cooperation",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:global-south-womens-rights-critique-register"
+  ],
+  "sources": [
+    {
+      "title": "Organisation of Islamic Cooperation",
+      "url": "https://www.oic-oci.org/",
+      "publisher": "OIC",
+      "language": "en"
+    },
+    {
+      "title": "OIC Independent Permanent Human Rights Commission (IPHRC)",
+      "url": "https://www.oic-iphrc.org/",
+      "publisher": "OIC IPHRC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Cairo Declaration on Human Rights in Islam jurisdiction sidecar — supranational Pan-Islamic Islamic-context human-rights soft-law meta-framework (Cairo Declaration 1990 + Article 5 Family Rights + Articles 24 + 25 Sharia Framework + OIC Charter 1972/2008 + OIC IPHRC 2008 + OIC founded 1969 + OIC renaming 2011 + Cairo Declaration Update Process 2020). Only modern supranational meta-framework operating formal Islamic-context human-rights framework globally + central jurisdiction of formal OIC Pan-Islamic human-rights elaboration framework + central jurisdiction of formal Cairo Declaration Article 5 family-rights framework + central jurisdiction of one of most distinctive modern soft-law-vs-binding-treaty framework debates globally + 57 OIC member state soft-law framework applicability + 1969 OIC + 1972 OIC Charter + 1990 Cairo Declaration + 2008 OIC Charter revision + IPHRC + 2011 renaming + 2020 Update Process Islamic-human-rights-framework-development sequence + Cairo Declaration Articles 24 + 25 formal foundational Islamic Sharia framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pan-Islamic + supranational + Islamic-context-human-rights-soft-law cluster + Cairo-Declaration-Articles-24-25-Sharia-framework-globally-distinctive + Article-5-family-rights-Islamic-context + OIC-Charter-1972-2008-foundational + OIC-IPHRC-2008-monitoring-body + 57-OIC-member-state-universal-Pan-Islamic-coverage + soft-law-vs-binding-treaty-debate + 2020-Cairo-Declaration-Update-Process + 1990-Cairo-Declaration-versus-Universal-Declaration-of-Human-Rights-1948 clusters within the corpus."
+  ]
+}

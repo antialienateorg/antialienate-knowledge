@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "id": "fao-constitution",
+  "name": "FAO Constitution 1945 (Food and Agriculture Organization)",
+  "jurisdiction_code": "FAO",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Constitution of the Food and Agriculture Organization of the United Nations (FAO Constitution) is a global supranational meta-framework foundational-FAO-treaty framework adopted at the Quebec Conference — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-food-agriculture-and-nutrition framework + first UN specialized agency founded framework (FAO Constitution adopted 16 October 1945 in Quebec City Canada by 42 founding states + effective 16 October 1945 — formal foundational FAO treaty framework establishing comprehensive FAO organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-food-agriculture-and-nutrition framework + first UN specialized agency founded framework + 16 October World Food Day commemoration framework + only modern global supranational binding-treaty framework operating formal Codex Alimentarius food-standards framework via FAO-WHO-joint-1963 framework + only modern global supranational binding-treaty framework operating formal Convention on Plant Protection framework via 1951 IPPC framework + only modern global supranational binding-treaty framework operating formal Right-to-Food framework via Article 11 ICESCR partnership framework + only modern global supranational binding-treaty framework operating formal 2030 Zero Hunger SDG 2 framework + only modern global supranational binding-treaty framework operating formal Gaza-2023-2024-food-insecurity-IPC-Phase-5-famine framework + only modern global supranational binding-treaty framework operating formal Sudan-civil-war-2023-largest-food-insecurity-crisis-globally framework + only modern global supranational binding-treaty framework operating formal Black Sea Grain Initiative 2022-2023 framework via FAO + UN-mediated framework via Russia + Ukraine grain-corridor framework), as the central jurisdiction of the formal Codex Alimentarius framework (Codex Alimentarius Commission established 1963 by FAO + WHO joint framework providing formal international-food-standards framework — formal foundational Codex Alimentarius framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-food-standards framework + only modern global supranational binding-treaty framework operating formal FAO-WHO-joint framework), as the central jurisdiction of the formal IPPC International Plant Protection Convention framework (IPPC International Plant Protection Convention adopted 6 December 1951 in Rome Italy + effective 3 April 1952 + revised 1979 + revised 1997 providing formal international-plant-protection framework — formal foundational IPPC framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal international-plant-protection framework), and as the central jurisdiction of the formal FAO IPC-Integrated-Food-Security-Phase-Classification framework (FAO IPC Integrated Food Security Phase Classification framework launched 2004 providing formal five-phase food-security classification framework with IPC Phase 5 famine framework — formal foundational FAO IPC framework, structurally distinctive globally as the only modern global supranational binding-treaty framework operating formal five-phase food-security classification framework with IPC Phase 5 famine framework). The FAO Constitution is binding upon 195 FAO member states + 2 associate members + 1 EU framework as of 2026 — comprehensive universal coverage framework. The Constitution is silent on 'parental alienation' as a statutory label, though formal FAO Right-to-Food framework operates limited intersection with parental-alienation framework via formal family-food-security framework + UNICEF-FAO-joint child-nutrition framework. The FAO Conference + FAO Council + FAO Director-General + FAO Secretariat are the formal FAO bodies; national-level apex courts operate as judicial bodies. The FAO Constitution is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "FAO Constitution 1945",
+      "title": "FAO Constitution",
+      "year": 1945,
+      "url": "https://www.fao.org/",
+      "relevance": "Constitution of the Food and Agriculture Organization of the United Nations adopted 16 October 1945 in Quebec City Canada + effective 16 October 1945 — formal foundational FAO treaty framework establishing comprehensive FAO organisation framework."
+    },
+    {
+      "citation": "IPPC International Plant Protection Convention 1951",
+      "title": "IPPC",
+      "year": 1952,
+      "url": "https://www.fao.org/",
+      "relevance": "International Plant Protection Convention adopted 6 December 1951 in Rome Italy + effective 3 April 1952 + revised 1979 + revised 1997 — formal foundational IPPC international-plant-protection framework."
+    },
+    {
+      "citation": "Codex Alimentarius Commission 1963",
+      "title": "Codex Alimentarius Commission",
+      "year": 1963,
+      "url": "https://www.fao.org/",
+      "relevance": "Codex Alimentarius Commission established 1963 by FAO + WHO joint framework — formal foundational Codex Alimentarius international-food-standards framework."
+    },
+    {
+      "citation": "FAO IPC Integrated Food Security Phase Classification 2004",
+      "title": "FAO IPC",
+      "year": 2004,
+      "url": "https://www.fao.org/",
+      "relevance": "FAO IPC Integrated Food Security Phase Classification framework launched 2004 — formal foundational FAO IPC five-phase food-security classification framework."
+    },
+    {
+      "citation": "FAO Voluntary Guidelines on the Right to Adequate Food 2004",
+      "title": "FAO Voluntary Guidelines on the Right to Adequate Food",
+      "year": 2004,
+      "url": "https://www.fao.org/",
+      "relevance": "FAO Voluntary Guidelines on the Right to Adequate Food in the Context of National Food Security adopted 24 November 2004 — formal foundational FAO Right-to-Food framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "FAO Conference",
+      "seat": "Rome",
+      "url": "https://www.fao.org/about/governance/conference",
+      "role": "Formal supreme decision-making body for FAO."
+    },
+    {
+      "name": "FAO Council",
+      "seat": "Rome",
+      "url": "https://www.fao.org/about/governance/council",
+      "role": "Formal executive body for FAO."
+    },
+    {
+      "name": "FAO Director-General",
+      "seat": "Rome",
+      "url": "https://www.fao.org/about/director-gen",
+      "role": "Formal administrative head body for FAO."
+    },
+    {
+      "name": "FAO Secretariat",
+      "seat": "Rome",
+      "url": "https://www.fao.org/",
+      "role": "Formal administrative body for FAO."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "FAO Secretariat",
+      "url": "https://www.fao.org/",
+      "role": "FAO Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "FAO-related communications operate via state-state framework via FAO Conference + Council; individual communications not formally accepted under FAO framework.",
+  "key_developments": [
+    {
+      "year": 1943,
+      "title": "Hot Springs Conference",
+      "description": "United Nations Conference on Food and Agriculture Hot Springs Conference held 18 May - 3 June 1943 in Hot Springs Virginia USA — predecessor framework to FAO."
+    },
+    {
+      "year": 1945,
+      "title": "FAO Constitution adopted + FAO founded",
+      "description": "FAO Constitution adopted 16 October 1945 in Quebec City Canada by 42 founding states + effective 16 October 1945 + FAO founded 16 October 1945 — formal foundational FAO treaty framework + first UN specialized agency operational."
+    },
+    {
+      "year": 1951,
+      "title": "IPPC International Plant Protection Convention adopted + FAO Headquarters Rome",
+      "description": "IPPC International Plant Protection Convention adopted 6 December 1951 in Rome Italy + FAO Headquarters moved from Washington DC to Rome Italy 1951 — formal IPPC + FAO Rome Headquarters framework operational."
+    },
+    {
+      "year": 1963,
+      "title": "Codex Alimentarius Commission established",
+      "description": "Codex Alimentarius Commission established 1963 by FAO + WHO joint framework — formal foundational Codex Alimentarius international-food-standards framework operational."
+    },
+    {
+      "year": 1979,
+      "title": "World Food Day established + IPPC revised",
+      "description": "World Food Day established 1979 at 20th FAO Conference Rome Italy + commemorated 16 October FAO founding date + IPPC revised 1979 — formal World Food Day + IPPC revised framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "World Food Summit + Rome Declaration",
+      "description": "World Food Summit held 13-17 November 1996 in Rome Italy + Rome Declaration on World Food Security adopted 13 November 1996 — formal foundational FAO World Food Summit framework."
+    },
+    {
+      "year": 2004,
+      "title": "FAO Voluntary Guidelines on Right to Food + IPC launched",
+      "description": "FAO Voluntary Guidelines on the Right to Adequate Food in the Context of National Food Security adopted 24 November 2004 + FAO IPC Integrated Food Security Phase Classification framework launched 2004 — formal foundational FAO Right-to-Food + IPC framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "Sustainable Development Goals adopted including SDG 2 Zero Hunger",
+      "description": "Sustainable Development Goals SDGs adopted 25 September 2015 including SDG 2 Zero Hunger framework — formal foundational FAO SDG 2 Zero Hunger framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Black Sea Grain Initiative + Russia invades Ukraine",
+      "description": "Russia invaded Ukraine 24 February 2022 + Black Sea Grain Initiative signed 22 July 2022 in Istanbul Turkey by Russia + Ukraine + Turkey + UN-mediated + FAO-involved + Russia withdrew 17 July 2023 — formal FAO + UN-mediated Black Sea Grain Initiative framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Gaza famine IPC Phase 5",
+      "description": "Gaza famine IPC Phase 5 declared March 2024 + IPC Phase 4-5 famine framework operational in Gaza 2023-2024 framework — formal Gaza famine IPC framework operational."
+    }
+  ],
+  "structural_findings": [
+    "FAO Constitution operates a supranational global binding-treaty framework — places FAO Constitution in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-food-agriculture-and-nutrition framework + first UN specialized agency founded framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-food-agriculture-and-nutrition framework + first UN specialized agency founded framework + 16 October World Food Day commemoration framework + only modern global supranational binding-treaty framework operating formal Codex Alimentarius food-standards framework via FAO-WHO-joint-1963 framework + only modern global supranational binding-treaty framework operating formal Convention on Plant Protection framework via 1951 IPPC framework + only modern global supranational binding-treaty framework operating formal Right-to-Food framework via Article 11 ICESCR partnership framework + only modern global supranational binding-treaty framework operating formal 2030 Zero Hunger SDG 2 framework + only modern global supranational binding-treaty framework operating formal Gaza-2023-2024-food-insecurity-IPC-Phase-5-famine framework + only modern global supranational binding-treaty framework operating formal Sudan-civil-war-2023-largest-food-insecurity-crisis-globally framework + only modern global supranational binding-treaty framework operating formal Black Sea Grain Initiative 2022-2023 framework.",
+    "Central jurisdiction of formal Codex Alimentarius framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-food-standards framework + only modern global supranational binding-treaty framework operating formal FAO-WHO-joint framework.",
+    "Central jurisdiction of formal IPPC International Plant Protection Convention framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal international-plant-protection framework.",
+    "Central jurisdiction of formal FAO IPC-Integrated-Food-Security-Phase-Classification framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal five-phase food-security classification framework with IPC Phase 5 famine framework.",
+    "195 FAO member state + 2 associate member + 1 EU ratification framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1943 Hot Springs + 1945 FAO Constitution + 1951 IPPC + Rome HQ + 1963 Codex + 1979 World Food Day + IPPC revised + 1996 World Food Summit + 2004 Right to Food + IPC + 2015 SDG 2 + 2022 Russia-Ukraine + Black Sea Grain Initiative + 2024 Gaza famine FAO-framework-development sequence is structurally distinctive globally.",
+    "FAO Constitution + Codex Alimentarius + IPPC + Right to Food Voluntary Guidelines + IPC + Black Sea Grain Initiative formal sextet framework with limited PA-intersection framework via formal family-food-security framework + UNICEF-FAO-joint child-nutrition framework — distinctive in operating limited PA-intersection framework via family-food-security framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icescr",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/",
+      "publisher": "FAO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "FAO Constitution jurisdiction sidecar — supranational global international-food-agriculture-and-nutrition foundational-FAO-treaty meta-framework (FAO Constitution 1945 Quebec + IPPC 1951/1952 + Codex Alimentarius 1963 FAO-WHO-joint + IPC 2004 + Right to Food Voluntary Guidelines 2004 + 1943 Hot Springs predecessor + 1951 Rome HQ + 1979 World Food Day + 1996 World Food Summit + 2015 SDG 2 + 2022 Black Sea Grain Initiative + 2024 Gaza famine). Only modern global supranational binding-treaty framework operating on formal international-food-agriculture-and-nutrition framework + first UN specialized agency founded framework + 16 October World Food Day commemoration framework + only modern global supranational binding-treaty framework operating formal Codex Alimentarius food-standards framework via FAO-WHO-joint-1963 framework + only modern global supranational binding-treaty framework operating formal IPPC framework + only modern global supranational binding-treaty framework operating formal Right-to-Food framework via Article 11 ICESCR partnership + only modern global supranational binding-treaty framework operating formal IPC five-phase food-security classification framework + only modern global supranational binding-treaty framework operating formal Gaza famine IPC Phase 5 + only modern global supranational binding-treaty framework operating formal Sudan-civil-war-2023-largest-food-insecurity-crisis-globally + only modern global supranational binding-treaty framework operating formal Black Sea Grain Initiative 2022-2023 + central jurisdiction of formal Codex Alimentarius + central jurisdiction of formal IPPC + central jurisdiction of formal IPC five-phase food-security with IPC Phase 5 famine + 195 FAO member states + 2 associate members + 1 EU + FAO Headquartered Rome since 1951 + 1943 Hot Springs + 1945 FAO Constitution + 1951 IPPC + Rome HQ + 1963 Codex + 1979 World Food Day + 1996 World Food Summit + 2004 Right to Food + IPC + 2015 SDG 2 + 2022 Russia-Ukraine + Black Sea Grain Initiative + 2024 Gaza famine FAO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: FAO Right-to-Food framework operates limited intersection with parental-alienation framework via formal family-food-security framework + UNICEF-FAO-joint child-nutrition framework.",
+    "Joins global + supranational + international-food-agriculture-and-nutrition-foundational-FAO-treaty cluster + FAO-Constitution-only-global-supranational-binding-treaty-on-food-agriculture-globally-distinctive + first-UN-specialized-agency-founded + 16-October-World-Food-Day + Codex-Alimentarius-FAO-WHO-joint-1963 + IPPC-International-Plant-Protection-Convention-1951-Rome + IPC-Integrated-Food-Security-Phase-Classification-2004-five-phase-Phase-5-famine + Right-to-Food-Voluntary-Guidelines-2004-Article-11-ICESCR-partnership + SDG-2-Zero-Hunger + Gaza-famine-IPC-Phase-5-2024 + Sudan-civil-war-2023-largest-food-insecurity-globally + Black-Sea-Grain-Initiative-2022-2023-Istanbul-Russia-withdrew + 195-FAO-member-states + 2-associate-members + 1-EU + FAO-Headquartered-Rome-since-1951 + 1943-Hot-Springs-Conference-predecessor + 1996-World-Food-Summit-Rome-Declaration + family-food-security-PA-intersection-via-UNICEF-FAO-joint clusters within the corpus."
+  ]
+}

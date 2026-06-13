@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "sakha",
+  "name": "Republic of Sakha (Yakutia) (Республика Саха (Якутия) / Саха Өрөспүүбүлүкэтэ)",
+  "jurisdiction_code": "RU-SA",
+  "legal_system": "civil-law",
+  "language": ["ru", "sah", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Republic of Sakha (Yakutia) (Russian: Республика Саха (Якутия) Respublika Sakha (Yakutiya) / Sakha: Саха Өрөспүүбүлүкэтэ Sakha Öröspüübülükete) is a Far Eastern Russian civil-law constituent republic of the Russian Federation — structurally distinctive globally as the largest Russian sub-national republic by area (~3,083,523 km² — ~18.1% of Russian land area, largest of all 21 Russian republics + largest Russian sub-national territory + larger than India ~3,287,263 km² but smaller than Argentina ~2,780,400 km²), as the only Russian sub-national republic operating formal Turkic-language (Sakha-Yakut language family) official-administrative framework alongside Russian (Sakha language formal official language of Sakha under Constitution of Sakha 1992 Article 46 alongside Russian — formal Turkic-language framework distinct from rest-of-Russian-Federation Slavic-language framework), as the central jurisdiction of one of the most economically distinctive modern Russian sub-national diamond-mining frameworks (Sakha contains ~99% of Russian diamond production + ~25% of global diamond production — ALROSA diamond-mining framework, structurally distinctive globally as the most diamond-economically-dominant sub-national jurisdiction worldwide), and as the central jurisdiction of one of the most distinctive modern sub-national jurisdictions for extreme-cold-climate-framework (Verkhoyansk + Oymyakon cluster — coldest permanently-inhabited settlements globally, formal Pole-of-Cold framework with recorded temperatures down to -67.8°C 6 February 1933 + -67.7°C 26 January 1926, distinct from rest-of-modern-sub-national jurisdictions globally). Sakha historically operated under Yakut Turkic-speaking communities pre-17th century + Russian Cossack expansion 1620s-1680s + Russian Empire 1721-1917 + Soviet Yakut ASSR 1922-1991 + Republic of Sakha (Yakutia) 1991+ (with formal sovereignty declaration 27 September 1990). Sakha comprises ~3,083,523 km² with a population of ~1.0 million (~50% Sakha + ~38% Russian + others). Family-law framework operates under the federal Russian civil-law framework (Russian Family Code 1995 + Russian Civil Code 1994) applied uniformly across Russian sub-national territories. The Supreme Court of Sakha is the apex regional court; final appellate jurisdiction lies with the Supreme Court of the Russian Federation. Sakha is silent on 'parental alienation' as a statutory label. Russia is a Hague Convention 1980 signatory and party (acceded 28 July 2011 effective 1 October 2011) — Sakha is governed by Russian Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the Republic of Sakha (Yakutia) 1992",
+      "title": "Constitution of Sakha 1992",
+      "year": 1992,
+      "url": "https://www.sakha.gov.ru/",
+      "relevance": "Sakha Constitution adopted 4 April 1992 — formal constitutional framework for Republic of Sakha (Yakutia), including formal Sakha language official-administrative framework Article 46."
+    },
+    {
+      "citation": "Constitution of the Russian Federation 1993 Article 5 (Republics)",
+      "title": "Constitution of Russian Federation Article 5",
+      "year": 1993,
+      "url": "https://www.constitution.ru/",
+      "relevance": "Russian Constitutional Article 5 establishing republics as constituent subjects of Russian Federation — applicable to Sakha."
+    },
+    {
+      "citation": "Russian Family Code 1995 + Russian Civil Code 1994",
+      "title": "Russian Family Code + Civil Code",
+      "year": 1995,
+      "url": "https://www.consultant.ru/",
+      "relevance": "Russian Federal Family Code 1995 + Russian Federal Civil Code 1994 applicable uniformly across Sakha."
+    },
+    {
+      "citation": "Hague Convention 1980 — Russian accession 28 July 2011",
+      "title": "Hague Convention 1980 — Russia",
+      "year": 2011,
+      "url": "https://www.hcch.net/",
+      "relevance": "Russian Hague Convention 1980 accession 28 July 2011 effective 1 October 2011 — applicable to Sakha."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Republic of Sakha (Yakutia) (Верховный суд Республики Саха (Якутия))",
+      "seat": "Yakutsk",
+      "url": "https://vs.jak.sudrf.ru/",
+      "role": "Apex regional appellate court for civil and criminal matters from Sakha."
+    },
+    {
+      "name": "Supreme Court of the Russian Federation (Верховный Суд Российской Федерации)",
+      "seat": "Moscow",
+      "url": "https://vsrf.ru/",
+      "role": "Final appellate court for civil and criminal matters from Sakha."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of the Republic of Sakha (Yakutia)",
+      "url": "https://www.sakha.gov.ru/",
+      "role": "Sakha regional-level + Russian Federal professional regulatory framework applicable in Sakha."
+    }
+  ],
+  "anonymisation_convention": "Sakha family-court decisions are anonymised per Russian court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1620,
+      "title": "Russian Cossack expansion begins",
+      "description": "Russian Cossack expansion into Sakha territory 1620s-1680s — beginning of Russian colonial framework over Sakha."
+    },
+    {
+      "year": 1922,
+      "title": "Yakut ASSR established",
+      "description": "Soviet Yakut Autonomous Soviet Socialist Republic established 27 April 1922 — first formal Sakha autonomous sub-national framework."
+    },
+    {
+      "year": 1926,
+      "title": "Oymyakon Pole of Cold record",
+      "description": "Oymyakon recorded temperature of -67.7°C on 26 January 1926 — formal Pole-of-Cold framework, coldest permanently-inhabited settlement globally."
+    },
+    {
+      "year": 1933,
+      "title": "Verkhoyansk Pole of Cold record",
+      "description": "Verkhoyansk recorded temperature of -67.8°C on 6 February 1933 — formal Pole-of-Cold framework, coldest permanently-inhabited settlement globally."
+    },
+    {
+      "year": 1955,
+      "title": "Mirny diamond mine discovery",
+      "description": "Mirny diamond mine discovery 13 June 1955 — beginning of formal Sakha diamond-mining framework."
+    },
+    {
+      "year": 1990,
+      "title": "Sakha sovereignty declaration",
+      "description": "Sakha sovereignty declaration 27 September 1990 — formal post-Soviet sovereignty framework."
+    },
+    {
+      "year": 1992,
+      "title": "Constitution of Sakha",
+      "description": "Sakha Constitution adopted 4 April 1992 — formal constitutional framework for Republic of Sakha (Yakutia)."
+    }
+  ],
+  "structural_findings": [
+    "Sakha operates a federal Russian civil-law constituent republic framework — places Sakha in the Far Eastern Russian Republic cluster.",
+    "Largest Russian sub-national republic by area (~3,083,523 km² / ~18.1% of Russian land area) is structurally distinctive globally — largest Russian sub-national territory + larger than India.",
+    "Only Russian sub-national republic operating formal Turkic-language official-administrative framework alongside Russian is structurally distinctive globally — Sakha language formal official language under Constitution of Sakha 1992 Article 46.",
+    "Central jurisdiction of one of most economically distinctive modern Russian sub-national diamond-mining frameworks is structurally distinctive globally — Sakha contains ~99% of Russian diamond production + ~25% of global diamond production via ALROSA framework.",
+    "Central jurisdiction of one of most distinctive modern sub-national jurisdictions for extreme-cold-climate-framework is structurally distinctive globally — Verkhoyansk + Oymyakon coldest permanently-inhabited settlements globally with Pole-of-Cold framework.",
+    "Verkhoyansk -67.8°C 6 February 1933 + Oymyakon -67.7°C 26 January 1926 historical-climate-record framework is structurally distinctive globally.",
+    "Sakha-Yakut Turkic-speaking historical-cultural-political-linguistic framework is structurally distinctive within Russian Far Eastern cluster.",
+    "Russian Hague-Convention-1980-accession-2011 framework applies."
+  ],
+  "references": [
+    "jurisdiction:russia",
+    "jurisdiction:mongolia",
+    "jurisdiction:china",
+    "jurisdiction:japan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Republic of Sakha (Yakutia)",
+      "url": "https://www.sakha.gov.ru/",
+      "publisher": "Sakha Government",
+      "language": "ru"
+    },
+    {
+      "title": "ALROSA — Sakha Diamond Mining",
+      "url": "https://www.alrosa.ru/",
+      "publisher": "ALROSA",
+      "language": "ru"
+    }
+  ],
+  "editorial_notes": [
+    "Republic of Sakha (Yakutia) jurisdiction sidecar — civil-law Far Eastern Russian constituent republic (Constitution of Sakha 1992 + Constitution of Russian Federation 1993 Article 5 + Russian Family Code 1995 + Yakut Turkic-speaking historical framework + Russian Cossack expansion 1620s-1680s + Russian Empire 1721-1917 + Yakut ASSR 1922-1991 + 1990 sovereignty declaration + Mirny diamond mine 1955 + Verkhoyansk-Oymyakon Pole of Cold framework + ALROSA framework + Russian Hague-1980). Largest Russian sub-national republic by area + only Russian sub-national republic operating formal Turkic-language official-administrative framework alongside Russian + central jurisdiction of one of most economically distinctive modern Russian sub-national diamond-mining frameworks + central jurisdiction of one of most distinctive modern sub-national jurisdictions for extreme-cold-climate-framework + Verkhoyansk + Oymyakon coldest permanently-inhabited settlements globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Far-Eastern + civil-law + Russian-Republic cluster + largest-Russian-Republic-by-area-globally-distinctive + Sakha-Turkic-language-formal-official-administrative + ALROSA-25-percent-global-diamond-production + Verkhoyansk-Oymyakon-Pole-of-Cold-coldest-permanently-inhabited-globally + Mirny-diamond-mine-1955 + 1990-sovereignty-declaration + Russian-Hague-1980-2011 clusters within the corpus."
+  ]
+}

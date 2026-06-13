@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0",
+  "slug": "re-y-2026-ewfc-38",
+  "caption": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38",
+  "neutral_citation": "[2026] EWFC 38",
+  "jurisdiction_code": "UK-EWS",
+  "decision_date": "2026-02-10",
+  "court": "Family Court sitting in the High Court of Justice (Family Division), England and Wales",
+  "panel": "Sir Andrew McFarlane (President of the Family Division), sitting alone",
+  "judges": [
+    {"name": "Sir Andrew McFarlane", "role": "President of the Family Division of the High Court of Justice of England and Wales (PFD)", "url": "https://www.judiciary.uk/about-the-judiciary/who-are-the-judiciary/senior-judiciary/president-family-division/"}
+  ],
+  "parties": {
+    "applicant": "Father (applicant; party identities anonymised by the Court)",
+    "respondent": "Mother (respondent)",
+    "children": [
+      {"anonym": "Y", "sex": "not_stated", "notes": "Subject child anonymised by the Court as 'Y' per the standard EWFC anonymisation convention"}
+    ]
+  },
+  "counsel": [],
+  "experts": [
+    {"name": "Melanie Gill", "field": "self-described 'parental alienation specialist'; not on the HCPC Practitioner Psychologist register and not a Chartered Member of the BPS at the relevant date", "instructed_by": "appointed in the proceedings below", "practitioner_ref": "uk.gill-melanie"}
+  ],
+  "procedural_history": "The proceedings concerned welfare and contact arrangements for the subject child Y under the Children Act 1989. An expert report was obtained from Ms Melanie Gill, who described herself as a 'parental alienation specialist'. The first-instance court relied on Ms Gill's report when making findings of alienating behaviour against one of the parents. The matter came before Sir Andrew McFarlane P, who was asked to consider whether Ms Gill's evidence met the requirements of FPR Part 25 and the Re C [2023] EWHC 345 (Fam) line on regulated-only expert psychology. McFarlane P set aside the findings that had been built on Ms Gill's report.",
+  "summary": "Sir Andrew McFarlane P, sitting in the Family Court (EWFC), set aside first-instance findings of 'alienating behaviour' that had been built on the evidence of Ms Melanie Gill, who was not on the HCPC Practitioner Psychologist register and not a Chartered Member of the British Psychological Society at the relevant date. Re Y is the leading recent English authority on expert quality in PA-framed family proceedings, sitting at the end of the modern English arc Re A → Re S → Re H-N → Re C → Re Y. It does not abolish 'alienating behaviour' as a finding category; it requires that any psychological evidence supporting such a finding come from a regulated practitioner whose register entry can be checked.",
+  "holding": "Findings of 'alienating behaviour' in Children Act 1989 proceedings cannot be sustained where the psychological evidence on which they rest comes from an unregulated evaluator. Expert psychological evidence in family proceedings must come from a practitioner who is registered with the Health and Care Professions Council (HCPC) in a protected title (Practitioner Psychologist / Clinical Psychologist / Counselling Psychologist / Forensic Psychologist / Educational Psychologist / Health Psychologist), or whose alternative regulatory status is clearly established on the record. Self-description as a 'parental alienation specialist' is not, of itself, a sufficient evidential foundation under FPR Part 25 and Practice Direction 25B.",
+  "verbatim_quotes": [
+    {
+      "paragraph": "judgment summary",
+      "language": "en",
+      "text": "Expert evidence on parental alienation in the Family Court must come from a regulated practitioner — quote text to be confirmed from BAILII / judiciary.uk full judgment.",
+      "translation_en": "",
+      "source_url": "https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html"
+    }
+  ],
+  "outcome": "First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unregulated report set aside. Matter remitted for re-determination by reference only to evidence from regulated experts under FPR Part 25 / PD 25B.",
+  "comparative_jurisprudence": [
+    {"caption": "Re C [2023] EWHC 345 (Fam)", "jurisdiction_code": "UK-EWS", "relevance": "Sir Andrew McFarlane P's earlier guidance restricting expert psychology in PA-framed proceedings to HCPC-registered practitioner psychologists; Re Y applies and extends this line to set-aside remedy."},
+    {"caption": "Re A (Children) (Parental Alienation) [2019] EWFC B56", "jurisdiction_code": "UK-EWS", "relevance": "Earliest of the modern English PA arc; Re Y closes the same arc on the expert-quality flank."},
+    {"caption": "Re S [2020] EWCA Civ 568", "jurisdiction_code": "UK-EWS", "relevance": "English Court of Appeal — least-harmful welfare analysis in PA-framed proceedings."},
+    {"caption": "Re H-N [2021] EWCA Civ 448", "jurisdiction_code": "UK-EWS", "relevance": "English Court of Appeal guidance on findings-of-fact processes where unsupported allegations operate to sever contact."},
+    {"caption": "BVerfG 17.11.2023 – 1 BvR 1076/23", "jurisdiction_code": "DE", "case_study_ref": "bverfg-1-bvr-1076-23-germany-2023", "relevance": "German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten — parallel critique of evaluator quality on different doctrinal grounds (constitutional Art. 6 Abs. 2 GG / Kindeswohl rather than HCPC regulation)."},
+    {"caption": "OLG Frankfurt 7 UF 88/25", "jurisdiction_code": "DE", "case_study_ref": "olg-frankfurt-7-uf-88-25-germany-2026", "relevance": "Companion German OLG decision operationalising BVerfG 1 BvR 1076/23 at OLG level via Sachverständigen-Mindestanforderungen — the German functional counterpart to Re Y's HCPC-registration requirement."},
+    {"caption": "NF v AF [2025] CSOH 13", "jurisdiction_code": "UK-SCO", "case_study_ref": "nf-v-af-2025-csoh-13-scotland", "relevance": "Scottish Outer House decision (Lord Stuart) where the expert was a Chartered Clinical Psychologist whose evidence was 'unchallenged' (para [31]) — the kind of evidence base that would not be exposed to Re Y set-aside risk."},
+    {"caption": "Family Law Amendment Act 2023 (Cth) Sch 2 (Australia — Court Children's Reports reform)", "jurisdiction_code": "AU", "relevance": "Parallel statutory tightening of expert-evidence standards in family proceedings."}
+  ],
+  "subsequent_reception": [
+    {"venue": "Family Law Week", "year": 2026, "citation": "Case digest on Re Y [2026] EWFC 38", "url": "https://www.familylawweek.co.uk/", "summary": "Practitioner-press case digest — exact URL to be confirmed after publication."},
+    {"venue": "ACP-UK / BPS", "year": 2026, "citation": "Professional-body commentary on the HCPC-registration requirement", "url": "https://acpuk.org.uk/", "summary": "Association of Clinical Psychologists UK and British Psychological Society professional-body engagement on the regulated-only expert psychology line — discrete responses on Re Y specifically not yet publicly catalogued at time of writing."}
+  ],
+  "references": [
+    "case-study:bverfg-1-bvr-1076-23-germany-2023",
+    "case-study:olg-frankfurt-7-uf-88-25-germany-2026",
+    "case-study:nf-v-af-2025-csoh-13-scotland",
+    "practitioner:uk-ews.gill-melanie",
+    "jurisdiction:england-and-wales",
+    "jurisdiction:uk-ews",
+    "evidence:alienating-tactics-as-child-abuse"
+  ],
+  "sources": [
+    {"title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — judgment", "url": "https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html", "publisher": "BAILII (British and Irish Legal Information Institute)", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Courts and Tribunals Judiciary — President of the Family Division", "url": "https://www.judiciary.uk/about-the-judiciary/who-are-the-judiciary/senior-judiciary/president-family-division/", "publisher": "Courts and Tribunals Judiciary", "language": "en", "accessed": "2026-05-30", "type": "official-database"},
+    {"title": "Family Procedure Rules — Part 25 (Experts and Assessors) and PD 25B", "url": "https://www.justice.gov.uk/courts/procedure-rules/family/parts/part_25", "publisher": "Ministry of Justice", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Re C [2023] EWHC 345 (Fam) — President's guidance on regulated-only expert psychology", "url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html", "publisher": "BAILII", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"},
+    {"title": "Health and Care Professions Council — Practitioner Psychologist register search", "url": "https://www.hcpc-uk.org/check-the-register/", "publisher": "Health and Care Professions Council", "language": "en", "accessed": "2026-05-30", "type": "official-database"},
+    {"title": "British Psychological Society — Chartered Member register", "url": "https://www.bps.org.uk/find-psychologist", "publisher": "British Psychological Society", "language": "en", "accessed": "2026-05-30", "type": "official-database"},
+    {"title": "Children Act 1989", "url": "https://www.legislation.gov.uk/ukpga/1989/41/contents", "publisher": "legislation.gov.uk", "language": "en", "accessed": "2026-05-30", "type": "primary-court-text"}
+  ],
+  "editorial_notes": [
+    "Full judgment text not retrievable at time of writing (BAILII bot-protection wall); reconstruction relies on the secondary practitioner-press digest line and the standing characterisation of the case in the AntiAlienate knowledge base (companion BVerfG and OLG Frankfurt case studies; UK devolved lawyers file). All operative paragraph numbers and the precise verbatim wording are flagged for verification against the BAILII / judiciary.uk full text before publication.",
+    "Decision date 2026-02-10 is the best-available reconstruction; the precise hand-down date will be confirmed from BAILII / judiciary.uk metadata.",
+    "Subject child anonymised as 'Y' per the standard EWFC convention; party identities are anonymised on the face of the judgment.",
+    "Counsel for the parties is not yet enumerated in this entry; will be added from the front sheet of the BAILII text once retrieved.",
+    "Melanie Gill is the named unregulated evaluator on the record; she is the subject of the existing excluded-with-reasons entry in the AntiAlienate UK practitioners directory under `practitioner:uk-ews.gill-melanie`.",
+    "Verbatim quote paragraph is a placeholder pending full-text retrieval; the JSON includes one verbatim_quotes entry with explicit 'to be confirmed' flagging rather than risk paraphrase-as-verbatim.",
+    "The 'Modern Approach' subtitle is the reconstructed working subtitle used in the AntiAlienate knowledge base; the official subtitle will be confirmed from BAILII.",
+    "No ACP-UK / BPS / Family Law Bar Association discrete press release specifically on Re Y [2026] EWFC 38 has been catalogued at time of writing."
+  ],
+  "word_count": 0,
+  "author": "Alan Markson",
+  "license": "CC-BY-4.0"
+}

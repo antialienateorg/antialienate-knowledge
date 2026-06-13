@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "id": "asean-commission-women-children",
+  "name": "ASEAN Commission on the Promotion and Protection of the Rights of Women and Children (ACWC)",
+  "jurisdiction_code": "ACW",
+  "legal_system": "supranational",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The ASEAN Commission on the Promotion and Protection of the Rights of Women and Children (ACWC) is a Southeast Asian supranational meta-framework children's-rights + women's-rights instrument adopted by the Association of Southeast Asian Nations (ASEAN) — structurally distinctive globally as the only modern regional combined children's-rights + women's-rights monitoring-body framework (ASEAN ACWC established 7 April 2010 by 16th ASEAN Summit in Hanoi — formal regional combined children's-rights + women's-rights monitoring-body framework, distinct from ACERWC African children's-rights-only framework + Inter-American Commission on Human Rights universal-framework + UNCRC Committee on the Rights of the Child universal-framework, structurally distinctive globally as the only regional monitoring-body framework with formal combined children's-rights + women's-rights mandate), as the central jurisdiction of the formal Southeast Asian post-2007 children's-rights + women's-rights elaboration framework (ACWC established under ASEAN Charter 2007 + ASEAN Declaration on the Promotion and Protection of the Rights of Women and Children 2004 + Declaration of the Establishment of the ASEAN Commission on the Promotion and Protection of the Rights of Women and Children 2010 — formal ASEAN-specific framework distinguishing from UNCRC + CEDAW universal frameworks in formal regional-soft-law-monitoring-body framework operating without formal binding-treaty framework, distinct from ACRWC binding-treaty framework + Inter-American Convention 1989 binding-treaty framework), as the only modern regional children's-rights + women's-rights framework operating without formal binding-treaty framework (ACWC operates under formal regional-soft-law-monitoring-body framework — distinct from ACRWC + Inter-American Convention 1989 binding-treaty frameworks, structurally distinctive globally as the only modern regional children's-rights + women's-rights framework relying primarily on consensus-driven cooperative framework), and as the central jurisdiction of one of the most distinctive modern ASEAN-non-interference + consensus-driven cooperative frameworks (ACWC operates under formal ASEAN principles of non-interference + consensus-driven decision-making + soft-law framework — distinct from rest-of-modern-regional-children's-rights frameworks operating under formal binding-treaty + monitoring-body frameworks). The ACWC is binding upon all 10 ASEAN member states: Brunei Darussalam + Cambodia + Indonesia + Laos + Malaysia + Myanmar + Philippines + Singapore + Thailand + Vietnam + Timor-Leste (accession ongoing). The ACWC is silent on 'parental alienation' as a statutory label, though formal mandate areas include implementation of UN Convention on the Rights of the Child UNCRC 1989 + UN Convention on the Elimination of All Forms of Discrimination Against Women CEDAW 1979 frameworks. The ACWC is the formal monitoring body framework; the ASEAN Intergovernmental Commission on Human Rights (AICHR) is the broader regional human-rights body. The ACWC is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Declaration of the Establishment of the ASEAN Commission on the Promotion and Protection of the Rights of Women and Children 2010",
+      "title": "Declaration of the Establishment of the ACWC",
+      "year": 2010,
+      "url": "https://asean.org/",
+      "relevance": "ASEAN Declaration of the Establishment of the ACWC adopted 7 April 2010 by 16th ASEAN Summit in Hanoi — formal ACWC framework."
+    },
+    {
+      "citation": "ASEAN Charter 2007 (effective 15 December 2008)",
+      "title": "ASEAN Charter 2007",
+      "year": 2008,
+      "url": "https://asean.org/",
+      "relevance": "ASEAN Charter adopted 20 November 2007 effective 15 December 2008 — formal ASEAN regional supranational framework underlying ACWC."
+    },
+    {
+      "citation": "ASEAN Declaration on the Promotion and Protection of the Rights of Women and Children 2004",
+      "title": "ASEAN Declaration on Promotion and Protection of Women and Children 2004",
+      "year": 2004,
+      "url": "https://asean.org/",
+      "relevance": "ASEAN Declaration on the Promotion and Protection of the Rights of Women and Children adopted 29 June 2004 by 37th ASEAN Ministerial Meeting in Jakarta — precursor framework to ACWC 2010."
+    },
+    {
+      "citation": "UN Convention on the Rights of the Child UNCRC 1989 + UN Convention on the Elimination of All Forms of Discrimination Against Women CEDAW 1979",
+      "title": "UNCRC + CEDAW",
+      "year": 1989,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Rights of the Child adopted 20 November 1989 + UN Convention on the Elimination of All Forms of Discrimination Against Women adopted 18 December 1979 — universal multilateral frameworks underlying ACWC mandate."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "ASEAN Commission on the Promotion and Protection of the Rights of Women and Children (ACWC)",
+      "seat": "Jakarta (rotating Secretariat framework)",
+      "url": "https://acwc.asean.org/",
+      "role": "Apex regional monitoring body for ACWC implementation in state parties."
+    },
+    {
+      "name": "ASEAN Intergovernmental Commission on Human Rights (AICHR)",
+      "seat": "Jakarta",
+      "url": "https://aichr.org/",
+      "role": "Broader regional human-rights body — ACWC operates as ASEAN-specific children's-rights + women's-rights body within AICHR umbrella framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "ASEAN Secretariat",
+      "url": "https://asean.org/",
+      "role": "ACWC implementation framework."
+    }
+  ],
+  "anonymisation_convention": "ACWC-related individual communications are not formally accepted under ACWC framework — consensus-driven cooperative framework.",
+  "key_developments": [
+    {
+      "year": 1967,
+      "title": "ASEAN founded",
+      "description": "Association of Southeast Asian Nations ASEAN founded 8 August 1967 — beginning of formal ASEAN regional framework."
+    },
+    {
+      "year": 1979,
+      "title": "CEDAW adopted",
+      "description": "UN Convention on the Elimination of All Forms of Discrimination Against Women CEDAW adopted 18 December 1979 — universal multilateral framework underlying ACWC mandate."
+    },
+    {
+      "year": 1989,
+      "title": "UNCRC adopted",
+      "description": "UN Convention on the Rights of the Child UNCRC adopted 20 November 1989 — universal multilateral framework underlying ACWC mandate."
+    },
+    {
+      "year": 2004,
+      "title": "ASEAN Declaration on Women and Children",
+      "description": "ASEAN Declaration on the Promotion and Protection of the Rights of Women and Children adopted 29 June 2004 by 37th ASEAN Ministerial Meeting in Jakarta — precursor framework to ACWC 2010."
+    },
+    {
+      "year": 2007,
+      "title": "ASEAN Charter adopted",
+      "description": "ASEAN Charter adopted 20 November 2007 by 13th ASEAN Summit in Singapore — formal ASEAN regional supranational framework."
+    },
+    {
+      "year": 2008,
+      "title": "ASEAN Charter enters force",
+      "description": "ASEAN Charter entered force 15 December 2008 — formal ASEAN regional supranational framework operational."
+    },
+    {
+      "year": 2009,
+      "title": "AICHR established",
+      "description": "ASEAN Intergovernmental Commission on Human Rights AICHR established 23 October 2009 — broader regional human-rights body framework."
+    },
+    {
+      "year": 2010,
+      "title": "ACWC established",
+      "description": "ASEAN Commission on the Promotion and Protection of the Rights of Women and Children ACWC established 7 April 2010 by 16th ASEAN Summit in Hanoi — formal ASEAN-specific children's-rights + women's-rights monitoring-body framework."
+    }
+  ],
+  "structural_findings": [
+    "ACWC operates a supranational Southeast Asian regional children's-rights + women's-rights monitoring-body framework — places ACWC in the Southeast Asian supranational-meta-framework cluster.",
+    "Only modern regional combined children's-rights + women's-rights monitoring-body framework is structurally distinctive globally — distinct from ACERWC African children's-rights-only framework + Inter-American Commission on Human Rights universal-framework + UNCRC Committee on the Rights of the Child universal-framework.",
+    "Central jurisdiction of formal Southeast Asian post-2007 children's-rights + women's-rights elaboration framework is structurally distinctive globally — ACWC 2010 framework.",
+    "Only modern regional children's-rights + women's-rights framework operating without formal binding-treaty framework is structurally distinctive globally — formal regional-soft-law-monitoring-body framework.",
+    "Central jurisdiction of one of most distinctive modern ASEAN-non-interference + consensus-driven cooperative frameworks is structurally distinctive globally — formal ASEAN principles of non-interference + consensus-driven decision-making + soft-law framework.",
+    "2010 ACWC establishment + 2009 AICHR establishment + 2008 ASEAN Charter entry into force + 2007 ASEAN Charter adoption + 2004 ASEAN Declaration regional-framework-development sequence is structurally distinctive globally.",
+    "Combined children's-rights + women's-rights mandate framework is structurally distinctive globally — only regional combined-mandate framework.",
+    "ASEAN principles of non-interference + consensus-driven framework limits monitoring-body framework effectiveness."
+  ],
+  "references": [
+    "jurisdiction:asean",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:un-convention-on-the-rights-of-the-child"
+  ],
+  "sources": [
+    {
+      "title": "ASEAN",
+      "url": "https://asean.org/",
+      "publisher": "ASEAN",
+      "language": "en"
+    },
+    {
+      "title": "ASEAN Commission on the Promotion and Protection of the Rights of Women and Children (ACWC)",
+      "url": "https://acwc.asean.org/",
+      "publisher": "ACWC",
+      "language": "en"
+    },
+    {
+      "title": "ASEAN Intergovernmental Commission on Human Rights (AICHR)",
+      "url": "https://aichr.org/",
+      "publisher": "AICHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "ACWC jurisdiction sidecar — supranational Southeast Asian regional children's-rights + women's-rights monitoring-body meta-framework (Declaration of the Establishment of the ACWC 2010 + ASEAN Charter 2007/2008 + ASEAN Declaration on Promotion and Protection of Women and Children 2004 + UNCRC 1989 + CEDAW 1979 + ASEAN founded 1967 + AICHR 2009). Only modern regional combined children's-rights + women's-rights monitoring-body framework globally + central jurisdiction of formal Southeast Asian post-2007 children's-rights + women's-rights elaboration framework + only modern regional children's-rights + women's-rights framework operating without formal binding-treaty framework + central jurisdiction of one of most distinctive modern ASEAN-non-interference + consensus-driven cooperative frameworks + Combined children's-rights + women's-rights mandate framework + ASEAN principles of non-interference + consensus-driven framework limits monitoring-body framework effectiveness.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southeast-Asian + supranational + regional-children's-rights-women's-rights-monitoring-body cluster + combined-children's-rights-women's-rights-mandate-globally-distinctive + ACWC-2010-soft-law-framework + ASEAN-Charter-2007-2008 + ASEAN-Declaration-Promotion-Protection-Women-Children-2004 + AICHR-2009 + ASEAN-principles-of-non-interference + consensus-driven-decision-making + UNCRC-CEDAW-implementation-mandate clusters within the corpus."
+  ]
+}

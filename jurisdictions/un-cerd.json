@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "id": "un-cerd",
+  "name": "UN Convention on the Elimination of All Forms of Racial Discrimination (CERD 1965)",
+  "jurisdiction_code": "CRD",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN International Convention on the Elimination of All Forms of Racial Discrimination (CERD) is a global supranational meta-framework racial-discrimination binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on racial-discrimination framework (CERD adopted 21 December 1965 by UN General Assembly Resolution 2106 (XX) + effective 4 January 1969 — formal universal multilateral binding-treaty framework establishing comprehensive racial-discrimination framework, distinct from rest-of-modern-international-human-rights frameworks which operate on broader general-rights frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-racial-discrimination-specific framework + first major UN human-rights treaty adopted after UDHR 1948 + Genocide Convention 1948 + CRPD ICCPR + ICESCR 1966 predecessor frameworks), as the central jurisdiction of the formal Article 1 racial-discrimination-definition framework (CERD Article 1 framework providing 'racial discrimination shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life' — formal foundational racial-discrimination-definition framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal racial-discrimination-definition framework), as the central jurisdiction of the formal Article 14 individual-communications-framework (CERD Article 14 framework providing 'A State Party may at any time declare that it recognizes the competence of the Committee to receive and consider communications from individuals or groups of individuals within its jurisdiction claiming to be victims of a violation by that State Party of any of the rights set forth in this Convention' — formal foundational individual-communications framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal optional individual-communications framework with 60 state parties as of 2026 accepting Article 14 framework), and as the central jurisdiction of the formal CERD Committee + State-State Inter-Communications Procedure framework via Qatar v Saudi Arabia 2018 + Qatar v United Arab Emirates 2018 + Palestine v Israel 2018 + Azerbaijan v Armenia 2022 + Armenia v Azerbaijan 2022 (CERD Committee + State-State Inter-Communications Procedure under CERD Articles 11-13 — formal foundational State-State Inter-Communications Procedure framework, structurally distinctive globally as the only modern universal binding-treaty framework with formal State-State Inter-Communications Procedure framework currently active). The CERD is binding upon 182 state parties as of 2026 — substantial universal coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 1 racial-discrimination-definition + Article 5 equal-protection framework + Article 14 individual-communications frameworks operate substantial intersection with parental-alienation framework via formal cross-border racial-discrimination-against-children-of-mixed-race-marriages framework. The CERD Committee is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The CERD is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN International Convention on the Elimination of All Forms of Racial Discrimination 1965",
+      "title": "CERD",
+      "year": 1969,
+      "url": "https://www.un.org/",
+      "relevance": "UN International Convention on the Elimination of All Forms of Racial Discrimination adopted 21 December 1965 by UN General Assembly Resolution 2106 (XX) + effective 4 January 1969 — formal universal multilateral binding-treaty framework establishing comprehensive racial-discrimination framework."
+    },
+    {
+      "citation": "CERD Article 1 (Racial-Discrimination-Definition Framework)",
+      "title": "CERD Article 1",
+      "year": 1969,
+      "url": "https://www.un.org/",
+      "relevance": "CERD Article 1 framework on racial-discrimination-definition — formal foundational racial-discrimination-definition framework."
+    },
+    {
+      "citation": "CERD Article 14 (Individual-Communications Framework)",
+      "title": "CERD Article 14",
+      "year": 1969,
+      "url": "https://www.un.org/",
+      "relevance": "CERD Article 14 framework on individual-communications — formal foundational individual-communications framework."
+    },
+    {
+      "citation": "CERD Articles 11-13 (State-State Inter-Communications Procedure Framework)",
+      "title": "CERD Articles 11-13",
+      "year": 1969,
+      "url": "https://www.un.org/",
+      "relevance": "CERD Articles 11-13 on State-State Inter-Communications Procedure framework — formal foundational State-State Inter-Communications Procedure framework currently active in Qatar v Saudi Arabia 2018 + Qatar v UAE 2018 + Palestine v Israel 2018 + Azerbaijan v Armenia 2022 + Armenia v Azerbaijan 2022."
+    },
+    {
+      "citation": "CERD General Recommendation 35 2013 (Combating Racist Hate Speech)",
+      "title": "CERD General Recommendation 35",
+      "year": 2013,
+      "url": "https://www.ohchr.org/",
+      "relevance": "CERD Committee General Recommendation 35 of 26 September 2013 on combating racist hate speech — formal CERD framework on racist hate speech framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "CERD Committee",
+      "seat": "Geneva",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cerd",
+      "role": "Apex monitoring framework body for CERD."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OHCHR Secretariat",
+      "url": "https://www.ohchr.org/",
+      "role": "CERD implementation framework."
+    }
+  ],
+  "anonymisation_convention": "CERD-related individual communications are anonymised per CERD Committee practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "UDHR adopted",
+      "description": "Universal Declaration of Human Rights adopted 10 December 1948 — foundational framework underlying CERD."
+    },
+    {
+      "year": 1965,
+      "title": "CERD adopted",
+      "description": "UN International Convention on the Elimination of All Forms of Racial Discrimination adopted 21 December 1965 by UN General Assembly Resolution 2106 (XX) — formal universal multilateral binding-treaty framework adopted before ICCPR + ICESCR 1966."
+    },
+    {
+      "year": 1969,
+      "title": "CERD enters force",
+      "description": "UN CERD entered force 4 January 1969 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 1982,
+      "title": "Individual-Communications Procedure Operational",
+      "description": "CERD Article 14 individual-communications procedure operational from 1982 with 10th state-party declaration framework — formal individual-communications procedure operational."
+    },
+    {
+      "year": 2013,
+      "title": "CERD General Recommendation 35",
+      "description": "CERD Committee General Recommendation 35 of 26 September 2013 on combating racist hate speech — formal CERD framework on racist hate speech framework."
+    },
+    {
+      "year": 2018,
+      "title": "CERD State-State Inter-Communications Procedure Cluster",
+      "description": "Qatar v Saudi Arabia + Qatar v UAE + Palestine v Israel State-State Inter-Communications Procedure submitted 2018 — first formal cluster of State-State Inter-Communications Procedure submissions under CERD framework."
+    },
+    {
+      "year": 2022,
+      "title": "Azerbaijan-Armenia State-State Inter-Communications Procedure",
+      "description": "Azerbaijan v Armenia + Armenia v Azerbaijan State-State Inter-Communications Procedure submitted 2022 — formal CERD State-State Inter-Communications Procedure framework."
+    }
+  ],
+  "structural_findings": [
+    "CERD operates a supranational universal multilateral binding-treaty framework — places CERD in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on racial-discrimination framework is structurally distinctive globally — formal-racial-discrimination-specific framework + first major UN human-rights treaty adopted after UDHR 1948 + Genocide Convention 1948.",
+    "Central jurisdiction of formal Article 1 racial-discrimination-definition framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal racial-discrimination-definition framework.",
+    "Central jurisdiction of formal Article 14 individual-communications framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal optional individual-communications framework with 60 state parties as of 2026 accepting Article 14 framework.",
+    "Central jurisdiction of formal CERD State-State Inter-Communications Procedure framework is structurally distinctive globally — only modern universal binding-treaty framework with formal State-State Inter-Communications Procedure framework currently active in 5 submissions.",
+    "182 state party ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1948 UDHR + 1948 Genocide Convention + 1965 CERD + 1969 entry into force + 1982 Article 14 operational + 2013 General Recommendation 35 + 2018 State-State Cluster + 2022 Azerbaijan-Armenia racial-discrimination-framework-development sequence is structurally distinctive globally.",
+    "Article 1 racial-discrimination-definition + Article 14 individual-communications + Articles 11-13 State-State Inter-Communications Procedure formal triad framework with formal cross-border racial-discrimination-against-children-of-mixed-race-marriages PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "OHCHR — CERD",
+      "url": "https://www.ohchr.org/en/treaty-bodies/cerd",
+      "publisher": "OHCHR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "CERD jurisdiction sidecar — supranational global racial-discrimination universal multilateral binding-treaty meta-framework (CERD 1965/1969 + Article 1 Racial-Discrimination-Definition Framework + Article 14 Individual-Communications Framework + Articles 11-13 State-State Inter-Communications Procedure Framework + CERD General Recommendation 35 2013 + CERD State-State Cluster 2018-2022). Only modern universal multilateral binding-treaty framework operating specifically on racial-discrimination framework globally + central jurisdiction of formal Article 1 racial-discrimination-definition framework + central jurisdiction of formal Article 14 individual-communications framework + central jurisdiction of formal CERD State-State Inter-Communications Procedure framework + 182 state party ratification framework + 1948 UDHR + 1948 Genocide Convention + 1965 CERD + 1969 entry into force + 1982 Article 14 operational + 2013 General Recommendation 35 + 2018 State-State Cluster + 2022 Azerbaijan-Armenia racial-discrimination-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 1 racial-discrimination-definition + Article 5 equal-protection + Article 14 individual-communications frameworks operate substantial intersection with parental-alienation framework via formal cross-border racial-discrimination-against-children-of-mixed-race-marriages framework.",
+    "Joins global + supranational + universal-multilateral-racial-discrimination-binding-treaty cluster + CERD-only-universal-racial-discrimination-binding-treaty-globally-distinctive + Article-1-Racial-Discrimination-Definition + Article-5-Equal-Protection + Article-14-Individual-Communications + Articles-11-13-State-State-Inter-Communications-Procedure + Qatar-v-Saudi-Arabia-2018 + Qatar-v-UAE-2018 + Palestine-v-Israel-2018 + Azerbaijan-v-Armenia-2022 + 182-state-party-substantial-coverage + General-Recommendation-35-2013-Racist-Hate-Speech + first-major-UN-human-rights-treaty-after-UDHR-Genocide-Convention clusters within the corpus."
+  ]
+}

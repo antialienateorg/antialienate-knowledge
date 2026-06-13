@@ -1,0 +1,395 @@
+{
+  "schema_version": "1.0",
+  "id": "argentina",
+  "name": "Argentina",
+  "jurisdiction_code": "AR",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Argentina operates a regime of institutional inadmission without statutory inadmission — the INVERSE of Spain's LOPIVI architecture: there is no federal statute that names or repudiates síndrome de alienación parental (SAP), yet the densest LATAM critique register has been built bottom-up through colegios profesionales rather than through a single federal regulator. The Corte Suprema de Justicia de la Nación (CSJN) in P., B. E. G. c/ B., K. E. (7.10.2021) admitted alienación parental as a relational concept (considerando 17 — 'discurso paterno ayudado por posición de la madre'), placing the apex court in a middle position, while the Cámara Nacional de Apelaciones en lo Civil (CNCiv) Sala J 'E.J.M. y otro c/ S.R.K.' (1.12.2021) became the first Argentine appellate court to name AP without reservations. Operative statutory recognition runs through Ley 24.270/1993 (impedimento de contacto) and the indirect-hook of CCyC art. 671 (deber de no entorpecer contacto).",
+  "pa_recognition_status": {
+    "statutory": "indirect-hook",
+    "apex_court_position": "middle",
+    "professional_regulator_position": "position-statement-against"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Ley 24.270/1993 — Impedimento de contacto de los hijos menores con sus padres no convivientes",
+      "title": "Ley de Impedimento de Contacto",
+      "year": 1993,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/691/norma.htm",
+      "relevance": "Operative statutory hook for recognition of alienating conduct. Tipifica penalmente al progenitor conviviente que ilegalmente impide u obstruye el contacto del menor con el progenitor no conviviente. Es la base estatutaria primaria invocada en casos de alienación parental — no el CCyC art. 671, que sólo funciona como deber civil correlativo."
+    },
+    {
+      "citation": "Código Civil y Comercial de la Nación (CCyC), Ley 26.994/2014, arts. 638–704",
+      "title": "Régimen de responsabilidad parental",
+      "year": 2014,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm",
+      "relevance": "Unifica el régimen de responsabilidad parental tras el Código Civil de Vélez. Establece el principio de coparentalidad y el cuidado personal compartido como regla."
+    },
+    {
+      "citation": "CCyC art. 671 — Deberes de los progenitores",
+      "title": "Deber de no entorpecer el contacto del hijo con el otro progenitor",
+      "year": 2014,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm",
+      "relevance": "Indirect-hook civil correlativo del tipo penal de Ley 24.270. No es la fuente operativa de recognition (corrección preservada: Ley 24.270 es la fuente operativa, no CCyC 671) sino el deber civil sustantivo invocado en sede de familia para fundar medidas cautelares y revinculaciones."
+    },
+    {
+      "citation": "Constitución Nacional, arts. 14, 18, 19, 75 inc. 22",
+      "title": "Derechos individuales y jerarquía constitucional de los tratados de derechos humanos (CDN)",
+      "year": 1994,
+      "url": "https://www.argentina.gob.ar/constitucion-nacional",
+      "relevance": "Art. 75 inc. 22 da jerarquía constitucional a la Convención sobre los Derechos del Niño (CDN). Marco supralegal del interés superior del niño invocado por CSJN en P.B.E.G. 2021."
+    },
+    {
+      "citation": "Ley 26.061/2005 — Protección integral de los derechos de niñas, niños y adolescentes",
+      "title": "Ley de Protección Integral",
+      "year": 2005,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110778/norma.htm",
+      "relevance": "Anclaje del interés superior del niño y del derecho del niño a ser oído. Base normativa de la anonimización por iniciales en sede de familia."
+    },
+    {
+      "citation": "Ley 26.485/2009 — Protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres",
+      "title": "Ley de Violencia contra las Mujeres",
+      "year": 2009,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/norma.htm",
+      "relevance": "Tipifica violencia simbólica y psicológica; eje central del registro crítico contra SAP/AP como herramienta de revictimización."
+    },
+    {
+      "citation": "Ley 26.150/2006 — Programa Nacional de Educación Sexual Integral (ESI)",
+      "title": "ESI",
+      "year": 2006,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/121222/norma.htm",
+      "relevance": "Programa educativo que provee marco contextual para reconocimiento de abuso intrafamiliar y de discursos negacionistas asociados a SAP."
+    },
+    {
+      "citation": "Ley 26.388/2008 — Reforma del Código Penal sobre delitos informáticos (grooming)",
+      "title": "Ley de Grooming",
+      "year": 2008,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/140000-144999/141790/norma.htm",
+      "relevance": "Tipifica grooming; contexto normativo de protección integral del NNA."
+    },
+    {
+      "citation": "Ley 27.499/2019 — Ley Micaela",
+      "title": "Capacitación obligatoria en género para todas las personas que se desempeñen en la función pública",
+      "year": 2019,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/315000-319999/318666/norma.htm",
+      "relevance": "Obligación de capacitación en género para magistrados y funcionarios judiciales — instrumento de difusión institucional del registro crítico anti-SAP."
+    },
+    {
+      "citation": "Ley 27.610/2021 — Interrupción Voluntaria del Embarazo (IVE)",
+      "title": "IVE",
+      "year": 2021,
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/345000-349999/346231/norma.htm",
+      "relevance": "Marco de derechos sexuales y reproductivos; vinculado a registro crítico de género."
+    },
+    {
+      "citation": "Decreto 1086/2005 — Plan Nacional contra la Discriminación",
+      "title": "Plan Nacional de Acción",
+      "year": 2005,
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-1086-2005-110331",
+      "relevance": "Marco ejecutivo de políticas anti-discriminación, anclaje histórico de articulación con el sistema de protección integral."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Corte Suprema de Justicia de la Nación (CSJN)",
+      "url": "https://sj.csjn.gov.ar/",
+      "key_decisions": [
+        {
+          "caption": "P., B. E. G. c/ B., K. E. s/ medidas precautorias (7.10.2021) — considerando 17 admite la alienación parental como concepto relacional: 'discurso paterno ayudado por la posición de la madre'. Coloca a la CSJN en posición middle: no consagra SAP como síndrome ni lo repudia; admite alienación como dinámica vincular.",
+          "case_study_ref": "csjn-p-b-e-g-c-b-k-e-2021-argentina",
+          "year": 2021,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Cámara Nacional de Apelaciones en lo Civil (CNCiv) — Sala J",
+      "url": "https://www.pjn.gov.ar/",
+      "key_decisions": [
+        {
+          "caption": "'E.J.M. y otro c/ S.R.K.' (1.12.2021) — primer tribunal de apelación argentino en nombrar 'alienación parental' sin reservas terminológicas, marcando inflexión jurisprudencial de fuero civil federal de capital",
+          "year": 2021,
+          "stance": "recognition"
+        }
+      ]
+    },
+    {
+      "name": "Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA)",
+      "url": "https://www.scba.gov.ar/",
+      "key_decisions": [
+        {
+          "caption": "Jurisprudencia provincial de familia en línea de moderación: anonimización por iniciales, aplicación de Ley 24.270 e invocación de CCyC art. 671 como deber civil correlativo",
+          "year": 2024,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Cámara de Casación Civil (Tribunal Constitucional analog)",
+      "url": "https://www.pjn.gov.ar/",
+      "key_decisions": [
+        {
+          "caption": "Línea casatoria de moderación procesal en materia de familia — fuero ordinario sin doctrina apex específica sobre AP",
+          "year": 2024,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Federación de Psicólogas y Psicólogos de la República Argentina (FePRA)",
+      "url": "https://www.fepra.org.ar/",
+      "position_statement": "Pronunciamiento sobre el pretendido 'Síndrome de Alienación Parental (SAP)' (14.12.2019, modificado diciembre 2020). Invoca art. 3.5 del Código de Ética que prohíbe la aplicación de técnicas sin aval científico. Verbatim: 'el llamado SAP carece de aval científico y su utilización en sede pericial contraviene el Código de Ética'. Translation_en: 'so-called SAP lacks scientific validation and its use in forensic settings contravenes the Code of Ethics.'",
+      "position_date": "2019-12-14",
+      "practitioner_ref": "ar.fepra"
+    },
+    {
+      "name": "Colegio de Psicólogos de la Provincia de Buenos Aires — Distrito I (La Plata)",
+      "url": "https://www.colegiodepsicologos.org.ar/",
+      "position_statement": "Pronunciamiento provincial alineado con FePRA contra el uso de SAP en pericias psicológicas en fuero de familia.",
+      "practitioner_ref": "ar.colpsiba-distrito-i"
+    },
+    {
+      "name": "Colegio de Psicólogos de Rosario (Santa Fe — 2da Circunscripción)",
+      "url": "https://www.colegiopsicologos2.org.ar/",
+      "position_statement": "Posicionamiento provincial contra SAP."
+    },
+    {
+      "name": "Colegio de Psicólogos de Mar del Plata",
+      "position_statement": "Posicionamiento contra el uso pericial de SAP."
+    },
+    {
+      "name": "Colegio de Psicólogos de la Provincia de Córdoba",
+      "position_statement": "Posicionamiento provincial contra SAP."
+    },
+    {
+      "name": "Colegio de Psicólogos de Bahía Blanca",
+      "position_statement": "Posicionamiento provincial contra SAP."
+    },
+    {
+      "name": "Colegio de Psicólogos de Quilmes",
+      "position_statement": "Posicionamiento provincial contra SAP."
+    },
+    {
+      "name": "Asociación Argentina de Prevención del Maltrato Infanto-Juvenil (ASAPMI)",
+      "url": "https://www.asapmi.org.ar/",
+      "position_statement": "Posicionamiento institucional contra SAP/AP en su uso pericial; alineado con FePRA y Defensoría del Pueblo CABA.",
+      "practitioner_ref": "ar.asapmi"
+    },
+    {
+      "name": "Defensoría del Pueblo de la Ciudad Autónoma de Buenos Aires",
+      "url": "https://defensoria.org.ar/",
+      "position_statement": "Declaración del 25.9.2020: rechaza el SAP por carecer de validez científica y por ende jurídica. Verbatim: 'el SAP carece de validez científica y, por ende, jurídica'.",
+      "position_date": "2020-09-25",
+      "practitioner_ref": "ar.defensoria-pueblo-caba"
+    },
+    {
+      "name": "Defensoría del Público de Servicios de Comunicación Audiovisual",
+      "url": "https://defensadelpublico.gob.ar/",
+      "position_statement": "Recomendaciones de tratamiento mediático responsable; rechazo del SAP en cobertura periodística."
+    },
+    {
+      "name": "Asociación de Abogadas y Abogados de Buenos Aires (AABA)",
+      "url": "https://www.aaba.org.ar/",
+      "position_statement": "Repudiación pública del Congreso Internacional CEAP en UBA Derecho (8.11.2024). Posición institucional contra la legitimación académica de SAP/AP."
+    },
+    {
+      "name": "UBA Derecho — Programa Género y Derecho",
+      "url": "http://www.derecho.uba.ar/",
+      "position_statement": "Espacio académico universitario crítico del SAP; eje del registro crítico tras restructuración del MMGyD en 2024.",
+      "practitioner_ref": "ar.uba-derecho-genero"
+    },
+    {
+      "name": "Ministerio de las Mujeres, Géneros y Diversidad (MMGyD) — eliminado 6.6.2024",
+      "position_statement": "Pre-Milei: ente ejecutivo federal anclaje del registro crítico anti-SAP. Eliminado por Decreto 8/2023 con efectividad operativa en junio 2024; sus funciones fueron distribuidas y el Programa Las Víctimas contra las Violencias quedó disrumpido."
+    },
+    {
+      "name": "Secretaría Nacional de Niñez, Adolescencia y Familia (SENNAF)",
+      "url": "https://www.argentina.gob.ar/desarrollosocial/sennaf",
+      "position_statement": "Organismo nacional de protección integral de derechos de NNA; rol institucional sostenido en el sistema federal de protección."
+    }
+  ],
+  "anonymisation_convention": "CSJN anonimiza por iniciales (P., B. E. G. c/ B., K. E.); la SCBA y demás fueros provinciales mantienen el mismo criterio. Las partes en causas de familia nunca son nombradas con nombre completo conforme Ley 26.061/2005 (Protección Integral de los Derechos de NNA) y el art. 75 inc. 22 CN que da jerarquía constitucional a la CDN. Convención editorial: usar siempre iniciales tipo 'P.B.E.G. c/ B.K.E.' en este knowledge base.",
+  "key_developments": [
+    {
+      "year": 1993,
+      "description": "Ley 24.270 — Impedimento de contacto de los hijos menores con sus padres no convivientes. Operative statutory hook (no CCyC art. 671) que tipifica penalmente la obstrucción del contacto y constituye la base sustantiva del reconocimiento jurídico de la conducta alienante.",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/691/norma.htm"
+    },
+    {
+      "year": 2000,
+      "description": "15.9.2000 — Eduardo J. Cárdenas publica 'El abuso de las denuncias de abuso' en La Ley. Es la introducción canónica del SAP al discurso judicial argentino. Cárdenas debe clasificarse como recognition-pole, no middle (corrección preservada).",
+      "url": "https://www.laleyonline.com.ar/"
+    },
+    {
+      "year": 2005,
+      "description": "Ley 26.061 — Protección Integral de los Derechos de Niñas, Niños y Adolescentes. Marco supralegal del interés superior del niño y de la anonimización en sede de familia.",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110778/norma.htm"
+    },
+    {
+      "year": 2005,
+      "description": "Decreto 1086/2005 — Plan Nacional contra la Discriminación.",
+      "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-1086-2005-110331"
+    },
+    {
+      "year": 2009,
+      "description": "Ley 26.485 — Protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres. Marco normativo del registro crítico anti-SAP en clave de género.",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/norma.htm"
+    },
+    {
+      "year": 2014,
+      "description": "Código Civil y Comercial unificado (Ley 26.994). Régimen de responsabilidad parental arts. 638–704; CCyC art. 671 establece el deber de no entorpecer el contacto (indirect-hook civil, no fuente operativa).",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm"
+    },
+    {
+      "year": 2019,
+      "description": "14.12.2019 — FePRA Pronunciamiento sobre el pretendido 'Síndrome de Alienación Parental (SAP)'. Invoca art. 3.5 del Código de Ética que prohíbe la aplicación de técnicas sin aval científico. Modificado en diciembre 2020. Hito fundacional del registro crítico institucional argentino.",
+      "url": "https://www.fepra.org.ar/"
+    },
+    {
+      "year": 2020,
+      "description": "Diciembre 2020 — FePRA Pronunciamiento modificado: reafirmación del rechazo del SAP en sede pericial.",
+      "url": "https://www.fepra.org.ar/"
+    },
+    {
+      "year": 2020,
+      "description": "25.9.2020 — Defensoría del Pueblo de la Ciudad Autónoma de Buenos Aires emite Declaración rechazando el SAP por carecer de validez científica y por ende jurídica.",
+      "url": "https://defensoria.org.ar/"
+    },
+    {
+      "year": 2021,
+      "description": "7.10.2021 — CSJN P., B. E. G. c/ B., K. E. s/ medidas precautorias. Considerando 17 admite la alienación como dinámica relacional: 'discurso paterno ayudado por la posición de la madre'. La CSJN no consagra SAP como síndrome ni lo repudia: posición middle.",
+      "url": "https://sj.csjn.gov.ar/"
+    },
+    {
+      "year": 2021,
+      "description": "1.12.2021 — CNCiv Sala J 'E.J.M. y otro c/ S.R.K.'. Primer tribunal de apelación argentino en nombrar 'alienación parental' sin reservas terminológicas.",
+      "url": "https://www.pjn.gov.ar/"
+    },
+    {
+      "year": 2024,
+      "description": "Junio 2024 — Eliminación operativa del Ministerio de las Mujeres, Géneros y Diversidad (MMGyD) por Decreto 8/2023 del gobierno Milei. Disrupción del Programa Las Víctimas contra las Violencias; Eva Giberti dismissed. Restructuración que desplaza el ancla del registro crítico desde el ejecutivo federal hacia universidades, colegios profesionales y sociedad civil.",
+      "url": "https://www.argentina.gob.ar/"
+    },
+    {
+      "year": 2024,
+      "description": "8.11.2024 — AABA (Asociación de Abogadas y Abogados de Buenos Aires) repudia el Congreso Internacional CEAP organizado en la Facultad de Derecho UBA. Hito de articulación universitario-colegio profesional del registro crítico.",
+      "url": "https://www.aaba.org.ar/"
+    },
+    {
+      "year": 2025,
+      "description": "14.12.2025 — Eva Giberti fallece a los 96 años. Cierre del pole crítico individual-académico de mayor jerarquía: Giberti — fundadora del Programa Las Víctimas contra las Violencias y dismissed por Milei en junio 2024 — era la voz académica individual más senior del registro crítico argentino.",
+      "url": "https://www.argentina.gob.ar/"
+    }
+  ],
+  "structural_findings": [
+    "Argentina opera un régimen de institutional inadmission without statutory inadmission: es el INVERSO estructural de España bajo LOPIVI (Ley Orgánica 8/2021). En Argentina no hay ley federal que nombre o repudie el SAP, pero existe la infraestructura institucional crítica más densa de Latinoamérica.",
+    "Densest LATAM critique register routed through colegios profesionales rather than a single federal regulator: FePRA + 7 Colegios provinciales (PBA Distrito I, Rosario, Mar del Plata, Córdoba, Bahía Blanca, Quilmes, La Plata) + ASAPMI + Defensoría del Pueblo CABA + UBA Derecho componen un mosaico bottom-up sin un único regulador federal (a diferencia de Brasil con CFP, o España con LOPIVI).",
+    "Cárdenas 2000 ('El abuso de las denuncias de abuso', La Ley, 15.9.2000) es la introducción canónica del SAP al discurso judicial argentino. Corrección preservada: Cárdenas debe clasificarse como recognition-pole, no middle.",
+    "La infraestructura institucional crítica (FePRA 2019 + Defensoría CABA 2020 + 7 Colegios provinciales + ASAPMI + UBA Derecho) PRECEDE cualquier fallo apex de la CSJN sobre AP. Cuando la CSJN se pronuncia en P.B.E.G. (2021), ya existe un registro crítico institucional consolidado.",
+    "Operative statutory recognition hook is Ley 24.270/1993 (impedimento de contacto), NOT CCyC art. 671. Corrección preservada: el art. 671 es un deber civil correlativo (indirect-hook) y el tipo penal del impedimento de contacto es la fuente operativa de reconocimiento jurídico de la conducta alienante.",
+    "Restructuración Milei 2024: la eliminación del MMGyD (junio 2024) desplazó el ancla del registro crítico desde el ejecutivo federal hacia universidades (UBA Derecho), colegios profesionales (FePRA y provinciales) y sociedad civil (ASAPMI, AABA). Cambio estructural de la arquitectura crítica nacional.",
+    "Eva Giberti dies 14.12.2025 a los 96 años, dismissed por Milei en junio 2024. Cierre del pole crítico individual-académico de mayor jerarquía: Giberti era la voz académica individual más senior del registro crítico argentino.",
+    "Cross-link Vaccaro: Sonia Vaccaro — psicóloga argentino-española radicada en Madrid — es la primaria en jurisdicción ES y acuñó el término 'violencia vicaria'. Vínculo bidireccional AR-ES preservado en references.",
+    "Corrections preserved: (1) Cárdenas = recognition, no middle; (2) Marcos + Aufranc + Rodríguez + AAPS San Juan excluded as unverifiable; (3) Ley 24.270 (no CCyC art. 671) es el operative recognition hook; (4) Giberti died 14.12.2025 age 96, dismissed por Milei junio 2024."
+  ],
+  "references": [
+    "case-study:csjn-p-b-e-g-c-b-k-e-2021-argentina",
+    "practitioner:ar.cardenas-eduardo",
+    "practitioner:ar.herscovici-pedro",
+    "practitioner:ar.diaz-usandivaras-carlos",
+    "practitioner:ar.giberti-eva",
+    "practitioner:ar.baita-sandra",
+    "practitioner:ar.berlinerblau-virginia",
+    "practitioner:ar.rozanski-carlos",
+    "practitioner:ar.velazquez-susana",
+    "practitioner:ar.fepra",
+    "practitioner:ar.colpsiba-distrito-i",
+    "practitioner:ar.asapmi",
+    "practitioner:ar.defensoria-pueblo-caba",
+    "practitioner:ar.uba-derecho-genero",
+    "jurisdiction:brazil",
+    "jurisdiction:spain",
+    "jurisdiction:chile"
+  ],
+  "sources": [
+    {
+      "title": "CSJN — Jurisprudencia (Secretaría de Jurisprudencia)",
+      "url": "https://sj.csjn.gov.ar/",
+      "publisher": "Corte Suprema de Justicia de la Nación",
+      "language": "es"
+    },
+    {
+      "title": "SAIJ — Sistema Argentino de Información Jurídica",
+      "url": "http://www.saij.gob.ar/",
+      "publisher": "Ministerio de Justicia de la Nación",
+      "language": "es"
+    },
+    {
+      "title": "InfoLEG — Información Legislativa y Documental",
+      "url": "http://www.infoleg.gob.ar/",
+      "publisher": "Ministerio de Justicia de la Nación",
+      "language": "es"
+    },
+    {
+      "title": "Mauricio Luis Mizrahi — 'Responsabilidad parental y alienación parental' (La Ley AR/DOC/1227/2022)",
+      "url": "https://www.laleyonline.com.ar/",
+      "publisher": "La Ley",
+      "language": "es"
+    },
+    {
+      "title": "Mizrahi — Compilación 2024 sobre responsabilidad parental y CCyC arts. 638–704",
+      "url": "https://www.laleyonline.com.ar/",
+      "publisher": "La Ley",
+      "language": "es"
+    },
+    {
+      "title": "FePRA — Federación de Psicólogas y Psicólogos de la República Argentina (Pronunciamiento SAP 14.12.2019)",
+      "url": "https://www.fepra.org.ar/",
+      "publisher": "FePRA",
+      "language": "es"
+    },
+    {
+      "title": "ASAPMI — Asociación Argentina de Prevención del Maltrato Infanto-Juvenil",
+      "url": "https://www.asapmi.org.ar/",
+      "publisher": "ASAPMI",
+      "language": "es"
+    },
+    {
+      "title": "Defensoría del Pueblo CABA — Declaración 25.9.2020 sobre SAP",
+      "url": "https://defensoria.org.ar/",
+      "publisher": "Defensoría del Pueblo de la Ciudad Autónoma de Buenos Aires",
+      "language": "es"
+    },
+    {
+      "title": "UBA Derecho — Programa Género y Derecho",
+      "url": "http://www.derecho.uba.ar/",
+      "publisher": "Universidad de Buenos Aires — Facultad de Derecho",
+      "language": "es"
+    },
+    {
+      "title": "La Ley — Eduardo J. Cárdenas, 'El abuso de las denuncias de abuso' (15.9.2000)",
+      "url": "https://www.laleyonline.com.ar/",
+      "publisher": "La Ley (Thomson Reuters)",
+      "language": "es"
+    },
+    {
+      "title": "Cuestión de Derechos — Revista electrónica (registro crítico académico)",
+      "url": "http://www.cuestiondederechos.org.ar/",
+      "publisher": "Cuestión de Derechos",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Primary sources first: CSJN via sj.csjn.gov.ar; legislación via InfoLEG y SAIJ; pronunciamientos institucionales via sitios oficiales de FePRA, ASAPMI y Defensoría CABA.",
+    "Verbatim Spanish preserved for statutory citations and institutional pronouncements (alienación parental, impedimento de contacto, deber de no entorpecer contacto, responsabilidad parental, perícia, colegios profesionales); translation_en provided alongside verbatim quotations.",
+    "Corrección preservada: Cárdenas (15.9.2000 'El abuso de las denuncias de abuso' La Ley) debe clasificarse como recognition-pole, no middle. Marcos + Aufranc + Rodríguez + AAPS San Juan excluidos como no verificables. Ley 24.270 (no CCyC art. 671) es el operative recognition hook. Giberti falleció el 14.12.2025 a los 96 años, dismissed por Milei en junio 2024.",
+    "Patrón estructural INVERSO de España: institutional inadmission without statutory inadmission. En España hay statutory inadmission via LOPIVI; en Argentina hay institutional inadmission via FePRA + Colegios provinciales + Defensoría CABA sin estatuto federal.",
+    "Vínculo bidireccional AR-ES preservado: Sonia Vaccaro (argentino-española radicada en Madrid) es primaria en jurisdicción ES y acuñó 'violencia vicaria'.",
+    "Anonimización CSJN por iniciales (P., B. E. G. c/ B., K. E.) seguida en todo el knowledge base conforme Ley 26.061/2005 y art. 75 inc. 22 CN (CDN)."
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": "1.0",
+  "id": "arab-league-charter",
+  "name": "Arab League Charter 1945 (Charter of the League of Arab States)",
+  "jurisdiction_code": "ALC",
+  "legal_system": "supranational",
+  "language": ["ar", "en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Charter of the League of Arab States (Arab League Charter) is a regional supranational meta-framework foundational-Arab-League-treaty framework adopted by the founding 7 Arab states in Cairo — structurally distinctive globally as the oldest modern Middle East regional supranational binding-treaty framework operating on pan-Arab framework (Arab League Charter signed 22 March 1945 in Cairo Egypt + effective 10 May 1945 — formal foundational Arab League treaty framework establishing comprehensive Arab League organisation framework predating UN Charter by three months, distinct from rest-of-modern-regional-treaty frameworks which postdate UN Charter, structurally distinctive globally as the oldest modern Middle East regional supranational binding-treaty framework + only modern regional supranational binding-treaty framework predating UN Charter framework), as the central jurisdiction of the formal Arab Charter on Human Rights 2004 framework (Arab Charter on Human Rights adopted 22 May 2004 by Arab League Summit in Tunis Tunisia + effective 15 March 2008 + Arab Human Rights Committee established 2009 — formal foundational Arab-regional-human-rights framework, structurally distinctive globally as the only modern Middle East regional supranational binding-treaty framework operating formal regional human-rights framework + only modern regional human-rights framework operating without formal individual-petition or court framework via Arab Human Rights Committee state-state reporting framework), as the central jurisdiction of the formal Arab Court of Human Rights framework (Statute of the Arab Court of Human Rights adopted 7 September 2014 by Arab League Council in Cairo Egypt + not yet operational due to insufficient ratifications as of 2026 — formal foundational Arab-regional-human-rights-court framework adopted but not operational, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal court-statute-adopted-but-not-operational framework), and as the central jurisdiction of the formal Riyadh Convention 1983 framework (Riyadh Arab Agreement for Judicial Cooperation adopted 6 April 1983 in Riyadh Saudi Arabia + effective 22 October 1985 — formal foundational Arab-regional cross-border judicial-cooperation framework with PA-intersection framework). The Arab League Charter is binding upon 22 Arab League member states as of 2026 — comprehensive Arab regional coverage framework (Syria reinstated 2023 after 12-year 2011 suspension). The Charter is silent on 'parental alienation' as a statutory label, though formal Arab Charter on Human Rights 2004 framework + Riyadh Convention 1983 framework operate substantial intersection with parental-alienation framework via formal Arab-regional cross-border-children's-rights framework. The Arab League Council + Arab League Secretariat + Arab Human Rights Committee are the formal Arab League bodies; national-level apex courts operate as judicial bodies. The Arab League Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Arab League Charter 1945",
+      "title": "Arab League Charter",
+      "year": 1945,
+      "url": "https://www.lasportal.org/",
+      "relevance": "Charter of the League of Arab States signed 22 March 1945 in Cairo Egypt + effective 10 May 1945 — formal foundational Arab League treaty framework establishing comprehensive Arab League organisation framework predating UN Charter by three months."
+    },
+    {
+      "citation": "Arab Charter on Human Rights 2004",
+      "title": "Arab Charter on Human Rights",
+      "year": 2008,
+      "url": "https://www.lasportal.org/",
+      "relevance": "Arab Charter on Human Rights adopted 22 May 2004 by Arab League Summit in Tunis Tunisia + effective 15 March 2008 — formal foundational Arab-regional-human-rights framework."
+    },
+    {
+      "citation": "Arab Court of Human Rights Statute 2014",
+      "title": "Arab Court of Human Rights Statute",
+      "year": 2014,
+      "url": "https://www.lasportal.org/",
+      "relevance": "Statute of the Arab Court of Human Rights adopted 7 September 2014 by Arab League Council in Cairo Egypt — formal foundational Arab-regional-human-rights-court framework adopted but not operational due to insufficient ratifications as of 2026."
+    },
+    {
+      "citation": "Riyadh Arab Agreement for Judicial Cooperation 1983",
+      "title": "Riyadh Convention",
+      "year": 1985,
+      "url": "https://www.lasportal.org/",
+      "relevance": "Riyadh Arab Agreement for Judicial Cooperation adopted 6 April 1983 in Riyadh Saudi Arabia + effective 22 October 1985 — formal foundational Arab-regional cross-border judicial-cooperation framework with PA-intersection framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Arab League Council",
+      "seat": "Cairo",
+      "url": "https://www.lasportal.org/",
+      "role": "Formal supreme decision-making body for Arab League."
+    },
+    {
+      "name": "Arab Human Rights Committee",
+      "seat": "Cairo",
+      "url": "https://www.lasportal.org/",
+      "role": "Formal Arab-regional-human-rights committee body."
+    },
+    {
+      "name": "Arab Court of Human Rights (statute adopted 2014, not operational)",
+      "seat": "Manama (designated)",
+      "url": "https://www.lasportal.org/",
+      "role": "Formal Arab-regional-human-rights-court body adopted but not operational due to insufficient ratifications as of 2026."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Arab League Secretariat",
+      "url": "https://www.lasportal.org/",
+      "role": "Arab League Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Arab League-related communications via Arab Human Rights Committee framework operate via state-state reporting framework; individual communications not formally accepted under Arab League framework.",
+  "key_developments": [
+    {
+      "year": 1944,
+      "title": "Alexandria Protocol",
+      "description": "Alexandria Protocol adopted 7 October 1944 in Alexandria Egypt — predecessor framework to Arab League Charter."
+    },
+    {
+      "year": 1945,
+      "title": "Arab League Charter adopted",
+      "description": "Charter of the League of Arab States signed 22 March 1945 in Cairo Egypt by Egypt + Iraq + Lebanon + Saudi Arabia + Syria + Transjordan + Yemen + effective 10 May 1945 — formal foundational Arab League treaty framework operational predating UN Charter by three months."
+    },
+    {
+      "year": 1983,
+      "title": "Riyadh Convention adopted",
+      "description": "Riyadh Arab Agreement for Judicial Cooperation adopted 6 April 1983 in Riyadh Saudi Arabia — formal foundational Arab-regional cross-border judicial-cooperation framework."
+    },
+    {
+      "year": 1994,
+      "title": "First Arab Charter on Human Rights",
+      "description": "First Arab Charter on Human Rights adopted 15 September 1994 by Arab League Council — predecessor framework to 2004 Arab Charter never receiving sufficient ratifications."
+    },
+    {
+      "year": 2004,
+      "title": "Arab Charter on Human Rights revised + adopted",
+      "description": "Revised Arab Charter on Human Rights adopted 22 May 2004 by Arab League Summit in Tunis Tunisia — formal foundational Arab-regional-human-rights framework adopted."
+    },
+    {
+      "year": 2008,
+      "title": "Arab Charter on Human Rights enters force",
+      "description": "Arab Charter on Human Rights entered force 15 March 2008 — formal Arab-regional-human-rights framework operational."
+    },
+    {
+      "year": 2009,
+      "title": "Arab Human Rights Committee established",
+      "description": "Arab Human Rights Committee established 2009 — formal Arab-regional-human-rights committee framework operational."
+    },
+    {
+      "year": 2011,
+      "title": "Syria suspended from Arab League",
+      "description": "Arab League Council Resolution of 16 November 2011 suspending Syria from Arab League over civil war framework — formal Arab League suspension framework."
+    },
+    {
+      "year": 2014,
+      "title": "Arab Court of Human Rights Statute adopted",
+      "description": "Statute of the Arab Court of Human Rights adopted 7 September 2014 by Arab League Council in Cairo Egypt — formal foundational Arab-regional-human-rights-court framework adopted but not yet operational due to insufficient ratifications."
+    },
+    {
+      "year": 2023,
+      "title": "Syria reinstated to Arab League",
+      "description": "Arab League Council Resolution of 7 May 2023 reinstating Syria as Arab League member ending 12-year 2011 suspension — formal Arab League reinstatement framework."
+    }
+  ],
+  "structural_findings": [
+    "Arab League Charter operates a regional supranational binding-treaty framework — places Arab League Charter in the regional supranational-meta-framework cluster.",
+    "Oldest modern Middle East regional supranational binding-treaty framework operating on pan-Arab framework is structurally distinctive globally — only modern regional supranational binding-treaty framework predating UN Charter framework by three months.",
+    "Central jurisdiction of formal Arab Charter on Human Rights 2004 framework is structurally distinctive globally — only modern Middle East regional supranational binding-treaty framework operating formal regional human-rights framework + only modern regional human-rights framework operating without formal individual-petition or court framework via state-state reporting framework.",
+    "Central jurisdiction of formal Arab Court of Human Rights framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal court-statute-adopted-but-not-operational framework.",
+    "Central jurisdiction of formal Riyadh Convention 1983 framework is structurally distinctive globally — only modern Middle East regional supranational binding-treaty framework operating formal Arab-regional cross-border judicial-cooperation framework.",
+    "22 Arab League member state ratification framework with Syria suspended-2011-reinstated-2023 framework is structurally distinctive globally — comprehensive Arab regional coverage framework.",
+    "1944 Alexandria Protocol + 1945 Arab League Charter + 1983 Riyadh Convention + 1994 First Arab Charter + 2004 Revised Arab Charter + 2008 entry into force + 2009 Arab Human Rights Committee + 2011 Syria suspended + 2014 Arab Court of Human Rights Statute + 2023 Syria reinstated Arab-League-framework-development sequence is structurally distinctive globally.",
+    "Arab League Charter + Arab Charter on Human Rights 2004 + Arab Court of Human Rights Statute 2014 + Riyadh Convention 1983 formal quartet framework with formal Arab-regional cross-border-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:united-arab-emirates",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Arab League",
+      "url": "https://www.lasportal.org/",
+      "publisher": "Arab League",
+      "language": "ar"
+    }
+  ],
+  "editorial_notes": [
+    "Arab League Charter jurisdiction sidecar — regional supranational pan-Arab foundational-Arab-League-treaty meta-framework (Arab League Charter 1945 + Arab Charter on Human Rights 1994/2004/2008 + Arab Court of Human Rights Statute 2014 + Riyadh Convention 1983/1985 + 1944 Alexandria Protocol predecessor + Arab Human Rights Committee 2009 + Syria 2011 suspension/2023 reinstatement). Oldest modern Middle East regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework predating UN Charter framework by three months + central jurisdiction of formal Arab Charter on Human Rights 2004 framework + only modern regional human-rights framework operating without formal individual-petition or court framework + central jurisdiction of formal Arab Court of Human Rights statute-adopted-but-not-operational framework + 22 Arab League member states + 1944 Alexandria Protocol + 1945 Arab League Charter + 1983 Riyadh Convention + 1994 First Arab Charter + 2004 Revised Arab Charter + 2008 entry into force + 2009 Arab Human Rights Committee + 2011 Syria suspended + 2014 Arab Court Statute + 2023 Syria reinstated Arab-League-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Arab Charter on Human Rights 2004 framework + Riyadh Convention 1983 framework operate substantial intersection with parental-alienation framework via formal Arab-regional cross-border-children's-rights framework.",
+    "Joins regional + supranational + pan-Arab-foundational-Arab-League-treaty cluster + Arab-League-Charter-oldest-modern-Middle-East-regional-supranational-binding-treaty-globally-distinctive + Arab-League-only-modern-regional-supranational-binding-treaty-predating-UN-Charter + Arab-Charter-on-Human-Rights-2004-Tunis + Arab-Court-of-Human-Rights-Statute-2014-not-operational + Riyadh-Convention-1983-Judicial-Cooperation + Arab-Human-Rights-Committee-2009 + 22-Arab-League-member-states + Syria-2011-suspension-2023-reinstatement + 1944-Alexandria-Protocol-predecessor + Arab-regional-cross-border-children-rights-PA-intersection clusters within the corpus."
+  ]
+}

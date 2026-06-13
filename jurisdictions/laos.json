@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "laos",
+  "name": "Laos (Lao People's Democratic Republic / ສປປ ລາວ)",
+  "jurisdiction_code": "LA",
+  "legal_system": "civil-law",
+  "language": ["lo"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Laos is a Southeast Asian socialist-civil-law unitary state whose family-law framework operates under the Family Law 1990 (revised 2008) governing marriage, parental rights and child custody. Parental rights and child custody are governed by arts. 25-40 of the Family Law. The People's Supreme Court (ສານປະຊາຊົນສູງສຸດ) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the People's Provincial Courts under specialised civil-procedure rules. Psychology profession is regulated through the Ministry of Health framework; no unified federal-statutory psychology regulator exists. Laos is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Laos is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law 1990 (revised 2008) arts. 25-40",
+      "title": "Family Law — Parental rights and custody",
+      "year": 1990,
+      "url": "https://www.na.gov.la/",
+      "relevance": "Federal family-law statute. Arts. 25-40 govern parental rights and child custody. Substantively revised 2008."
+    },
+    {
+      "citation": "Law on the Protection of the Rights and Interests of Children 2007",
+      "title": "Law on Protection of Children's Rights and Interests",
+      "year": 2007,
+      "url": "https://www.na.gov.la/",
+      "relevance": "Federal children's protection statute consistent with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "People's Supreme Court (ສານປະຊາຊົນສູງສຸດ)",
+      "seat": "Vientiane",
+      "url": "https://www.psc.gov.la/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Laos",
+      "url": "https://www.moh.gov.la/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Lao family-court decisions are anonymised per People's Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1990,
+      "title": "Family Law 1990",
+      "description": "Federal family-law statute enacted establishing socialist-civil-law family-law framework."
+    },
+    {
+      "year": 2007,
+      "title": "Law on Protection of Children's Rights and Interests",
+      "description": "Federal children's-rights statute aligned with UNCRC."
+    },
+    {
+      "year": 2008,
+      "title": "Family Law revision",
+      "description": "Substantive revision of Family Law provisions on parental rights and custody."
+    }
+  ],
+  "structural_findings": [
+    "Laos operates a socialist-civil-law framework — Family Law 1990 (revised 2008) reflects post-1975 socialist-codification heritage, structurally aligned with Vietnam within the corpus.",
+    "Non-Hague Convention status places Laos in the non-Hague Southeast Asian cluster.",
+    "Psychology profession regulation operates through Ministry of Health framework — lacks unified federal-statutory psychology regulator."
+  ],
+  "references": [
+    "jurisdiction:vietnam",
+    "jurisdiction:cambodia",
+    "jurisdiction:thailand",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "People's Supreme Court of Laos",
+      "url": "https://www.psc.gov.la/",
+      "publisher": "People's Supreme Court",
+      "language": "lo,en"
+    },
+    {
+      "title": "National Assembly of Laos",
+      "url": "https://www.na.gov.la/",
+      "publisher": "National Assembly",
+      "language": "lo,en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.moh.gov.la/",
+      "publisher": "MoH",
+      "language": "lo,en"
+    }
+  ],
+  "editorial_notes": [
+    "Laos jurisdiction sidecar — socialist-civil-law framework. Family Law 1990 (rev 2008) + Children's Rights Law 2007 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southeast Asian + socialist-civil-law + non-Hague Convention clusters within the corpus."
+  ]
+}

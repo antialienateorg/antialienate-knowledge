@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
+  "title": "Practitioner Directory File",
+  "description": "Single source of truth for a per-country practitioner directory. The .md sibling is rendered from this JSON at build time. Schema v2.0 adds the references field for cross-linking to case studies, jurisdictions, and other practitioners.",
+  "type": "object",
+  "required": ["schema_version", "country", "country_code", "type", "license", "generated", "entries"],
+  "properties": {
+    "schema_version": {"const": "2.0"},
+    "country": {"type": "string", "description": "Display name, e.g. 'Germany' or 'United Kingdom (England & Wales)'"},
+    "country_code": {"type": "string", "pattern": "^[A-Z]{2,3}(-[A-Z]{2,3})?$", "description": "ISO 3166-1 alpha-2/3 with optional subdivision, e.g. DE, BR, UK-SCO, UK-NIR, UK-WLS"},
+    "type": {"enum": ["therapists", "lawyers"], "description": "Practitioner category"},
+    "license": {"const": "CC-BY-4.0"},
+    "generated": {"type": "string", "format": "date", "description": "Last-rebuild date (YYYY-MM-DD)"},
+    "jurisdictional_context": {"type": "string", "description": "1-3 paragraph framing the country's PA legal/clinical landscape"},
+    "structural_findings": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Top-level findings about this jurisdiction's PA practitioner landscape"
+    },
+    "entries": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/entry"},
+      "description": "Practitioner entries (verified)"
+    },
+    "excluded": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/excluded_entry"},
+      "description": "Practitioners excluded with documented reason (regulatory/safeguarding/unverifiable)"
+    }
+  },
+  "$defs": {
+    "entry": {
+      "type": "object",
+      "required": ["id", "name", "stance"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z]{2,3}(-[a-z]{2,3})?\\.[a-z0-9-]+$", "description": "Stable cross-link ID: <country_code lowercase>.<slug>. Examples: de.zimmermann-walper-fichtner, uk.gill-melanie, br.aguilar-cuenca"},
+        "name": {"type": "string"},
+        "credentials": {"type": "string", "description": "Professional credentials/titles"},
+        "registration_number": {"type": "string", "description": "Regulator/college registration number where verifiable (e.g. HCPC PYL12345, CRP RJ-12345)"},
+        "city": {"type": "string"},
+        "region": {"type": "string", "description": "Sub-national region (CCAA, Bundesland, Estado, Province)"},
+        "affiliation": {"type": "string", "description": "University, hospital, practice, or institution"},
+        "stance": {"enum": ["recognition", "critique", "middle", "institutional", "forensic-evaluator", "cross-jurisdictional"], "description": "Camp characterization (must be primary-source justified in stance_notes)"},
+        "stance_notes": {"type": "string", "description": "Primary-source justification for the stance assignment. Required for non-institutional stances."},
+        "publications": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["title", "year"],
+            "properties": {
+              "title": {"type": "string"},
+              "year": {"type": "integer", "minimum": 1900, "maximum": 2100},
+              "venue": {"type": "string", "description": "Journal, publisher, or platform"},
+              "url": {"type": "string", "format": "uri"},
+              "doi": {"type": "string"}
+            }
+          }
+        },
+        "urls": {
+          "type": "array",
+          "items": {"type": "string", "format": "uri"},
+          "minItems": 1,
+          "description": "Primary-source verification URLs. At least one required."
+        },
+        "contact": {"type": "string", "description": "Verified contact path (clinic page, university directory, public e-mail). 'Not publicly confirmed' if absent."},
+        "verification_notes": {"type": "string", "description": "What was verified, what was not, and via which primary source"},
+        "references": {
+          "type": "array",
+          "items": {"type": "string", "pattern": "^(case-study|practitioner|jurisdiction|evidence):[a-z0-9.-]+$"},
+          "description": "Cross-links to other entities. Format: <type>:<id>. Examples: case-study:bverfg-1-bvr-1076-23-germany-2023, practitioner:de.zimmermann-walper-fichtner, jurisdiction:germany, evidence:alienating-tactics-as-child-abuse"
+        }
+      }
+    },
+    "excluded_entry": {
+      "type": "object",
+      "required": ["id", "name", "exclusion_reason"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z]{2,3}(-[a-z]{2,3})?\\.[a-z0-9-]+$"},
+        "name": {"type": "string"},
+        "exclusion_reason": {"type": "string", "description": "Documented reason: regulatory (e.g. license inactive), safeguarding (e.g. court-documented concern), or unverifiable (could not corroborate via primary source)"},
+        "primary_source_url": {"type": "string", "format": "uri", "description": "Required for regulatory/safeguarding exclusions"},
+        "references": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    }
+  }
+}

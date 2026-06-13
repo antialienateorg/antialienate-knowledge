@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.0",
+  "id": "tanzania",
+  "name": "Tanzania (Tanzania mainland + Zanzibar)",
+  "jurisdiction_code": "TZ",
+  "legal_system": "mixed",
+  "language": ["sw", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Tanzania is a mixed common-law / customary-law / Islamic jurisdiction. The Law of the Child Act 2009 (Act No. 21 of 2009) is the substantive children's-rights statute, mainland. Zanzibar operates the Children's Act 2011. The Law of Marriage Act 1971 (Cap. 29) governs marriage and divorce. The Tanzania Women Lawyers Association (TAWLA) is the load-bearing women's-rights critique-camp institutional anchor (founded 1990). No named-on-record PA clinical expert located — mirrors regional African pattern (KE/NG/EG/GH/TZ surface only at institutional level per africa.json regional finding).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of the United Republic of Tanzania 1977 (as amended)",
+      "title": "Constitution of Tanzania 1977",
+      "year": 1977,
+      "url": "https://www.constituteproject.org/constitution/Tanzania_2005",
+      "relevance": "Federal constitutional framework. Art. 9 fundamental objectives + art. 12-29 fundamental rights. Substantive constitutional backdrop for family-law statutes."
+    },
+    {
+      "citation": "Law of the Child Act 2009 (Act No. 21 of 2009, mainland Tanzania)",
+      "title": "Law of the Child Act 2009 — substantive children's-rights statute",
+      "year": 2009,
+      "url": "https://www.parliament.go.tz/",
+      "relevance": "Substantive Tanzania-mainland children's-rights statute. s.4 best-interests-of-the-child paramountcy. Establishes child-protection framework."
+    },
+    {
+      "citation": "Children's Act 2011 (Zanzibar)",
+      "title": "Children's Act 2011 — Zanzibar substantive children's-rights statute",
+      "year": 2011,
+      "url": "https://www.zanzibar.go.tz/",
+      "relevance": "Substantive Zanzibar children's-rights statute. Operates parallel to mainland Law of the Child Act 2009 reflecting Tanzania's dual-jurisdictional architecture."
+    },
+    {
+      "citation": "Law of Marriage Act 1971 (Cap. 29)",
+      "title": "Law of Marriage Act 1971 — substantive marriage statute",
+      "year": 1971,
+      "url": "https://www.parliament.go.tz/",
+      "relevance": "Substantive Tanzanian marriage and divorce statute. Recognises civil, customary, Christian and Islamic marriages. Custody disputes governed by best-interests-of-the-child standard."
+    },
+    {
+      "citation": "Law of the Child Act 2009 + Sexual Offences Special Provisions Act 1998",
+      "title": "Sexual Offences Special Provisions Act 1998",
+      "year": 1998,
+      "url": "https://www.parliament.go.tz/",
+      "relevance": "Substantive sexual-offences statute strengthening child protections. Intersects with Law of the Child Act 2009 in fact-patterns involving sexual abuse allegations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Tanzania",
+      "url": "https://www.judiciary.go.tz/",
+      "key_decisions": [
+        {
+          "caption": "Court of Appeal — apex court of Tanzania. No PA-construct-specific apex decision identified.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "High Court of Tanzania",
+      "url": "https://www.judiciary.go.tz/",
+      "key_decisions": [
+        {
+          "caption": "High Court of Tanzania — intermediate appellate court. Family-law disputes including custody handled at this level.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Resident Magistrates' Courts + District Courts + Primary Courts",
+      "url": "https://www.judiciary.go.tz/",
+      "key_decisions": [
+        {
+          "caption": "Lower-tier courts with family-law jurisdiction. Primary Courts hear customary-law family disputes. Bulk of routine custody disputes at this level.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Kadhi's Courts (Zanzibar Muslim family law)",
+      "url": "https://www.zanzibar.go.tz/",
+      "key_decisions": [
+        {
+          "caption": "Zanzibar Kadhi's Courts have concurrent jurisdiction over Muslim family-law matters including custody (hadhana). Parallel jurisdictional architecture.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Tanganyika Law Society + Zanzibar Law Society",
+      "url": "https://www.tls.or.tz/",
+      "position_statement": "Tanzania bar associations. No PA-specific position."
+    },
+    {
+      "name": "Medical Council of Tanganyika",
+      "url": "https://www.mct.go.tz/",
+      "position_statement": "Statutory regulator for medical practitioners. No PA-specific position."
+    },
+    {
+      "name": "Tanzania Women Lawyers Association (TAWLA)",
+      "url": "https://www.tawla.or.tz/",
+      "position_statement": "Founded 1990. Load-bearing Tanzanian women's-rights critique-camp institutional anchor. Engages family-court treatment of DV survivors. PA-construct critique is structural / DV-protective rather than published clinical-academic form. Structural counterpart to FIDA Kenya / Project Alert NG / WACOL NG / FIDA-Ghana."
+    },
+    {
+      "name": "National Council of NGOs (NACONGO) + Tanzania Gender Networking Programme (TGNP)",
+      "url": "https://www.tgnp.org/",
+      "position_statement": "Tanzanian civil-society NGO coordination + gender-networking. Engages family-law advocacy. No PA-construct-specific position identified."
+    },
+    {
+      "name": "Commission for Human Rights and Good Governance (CHRAGG)",
+      "url": "https://www.chragg.go.tz/",
+      "position_statement": "Constitutional independent human-rights commission. May engage children's-rights primacy framing. No PA-construct-specific position."
+    }
+  ],
+  "anonymisation_convention": "Tanzanian court judgments published on judiciary.go.tz vary by court level. Children referenced by initial in published decisions. Sharia / Kadhi's Court proceedings follow Sharia-specific anonymisation practice.",
+  "key_developments": [
+    {
+      "year": 1971,
+      "description": "Law of Marriage Act 1971 (Cap. 29) — substantive marriage and divorce statute.",
+      "url": "https://www.parliament.go.tz/"
+    },
+    {
+      "year": 1977,
+      "description": "Constitution of the United Republic of Tanzania 1977 (as amended).",
+      "url": "https://www.constituteproject.org/constitution/Tanzania_2005"
+    },
+    {
+      "year": 1990,
+      "description": "Tanzania Women Lawyers Association (TAWLA) founded. Institutional critique-camp anchor.",
+      "url": "https://www.tawla.or.tz/"
+    },
+    {
+      "year": 1998,
+      "description": "Sexual Offences Special Provisions Act 1998 — substantive sexual-offences statute.",
+      "url": "https://www.parliament.go.tz/"
+    },
+    {
+      "year": 2009,
+      "description": "Law of the Child Act 2009 (Act No. 21 of 2009) — substantive Tanzania-mainland children's-rights statute.",
+      "url": "https://www.parliament.go.tz/"
+    },
+    {
+      "year": 2011,
+      "description": "Children's Act 2011 (Zanzibar) — Zanzibar parallel children's-rights statute.",
+      "url": "https://www.zanzibar.go.tz/"
+    }
+  ],
+  "structural_findings": [
+    "TZ SURFACES ONLY AT INSTITUTIONAL / FEMINIST-LEGAL COLLECTIVE LEVEL: No named-on-record PA clinical expert located. Mirrors regional African pattern (per africa.json regional finding: zero named individual PA clinicians located in KE/NG/EG/GH/TZ/ZW/UG/BW/MA within time-budget public-web search).",
+    "TAWLA AS LOAD-BEARING CRITIQUE-CAMP INSTITUTIONAL ANCHOR: Tanzania Women Lawyers Association (founded 1990) — structural counterpart to FIDA Kenya / Project Alert NG / WACOL NG / FIDA-Ghana / Mosaic SA. African regional pattern of women's-rights-org-led critique.",
+    "DUAL-JURISDICTIONAL ARCHITECTURE: Tanzania mainland (Law of the Child Act 2009) + Zanzibar (Children's Act 2011) operate parallel. Zanzibar additionally operates Kadhi's Courts for Muslim family-law matters (hadhana custody)."
+  ],
+  "references": [
+    "practitioner:tz.tawla",
+    "jurisdiction:south-africa",
+    "jurisdiction:kenya",
+    "jurisdiction:nigeria",
+    "jurisdiction:ghana",
+    "jurisdiction:africa"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Tanzania",
+      "url": "https://www.judiciary.go.tz/",
+      "publisher": "Judiciary of Tanzania",
+      "language": "en"
+    },
+    {
+      "title": "Parliament of Tanzania",
+      "url": "https://www.parliament.go.tz/",
+      "publisher": "Parliament of Tanzania",
+      "language": "en"
+    },
+    {
+      "title": "TAWLA — Tanzania Women Lawyers Association",
+      "url": "https://www.tawla.or.tz/",
+      "publisher": "TAWLA",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Tanzania treated as mainland + Zanzibar dual-jurisdictional structure.",
+    "Resolves single broken ref jurisdiction:tanzania.",
+    "TAWLA as critique anchor preserved in structural_findings[1] consistent with regional African pattern."
+  ]
+}

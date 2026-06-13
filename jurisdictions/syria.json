@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "syria",
+  "name": "Syria (Syrian Arab Republic / الجمهورية العربية السورية)",
+  "jurisdiction_code": "SY",
+  "legal_system": "mixed",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Syria is a MENA mixed-legal-system republic combining French civil-law substantive heritage (via French Mandate inheritance) with Hanafi-school Islamic-law personal-status jurisdiction for Sunni Muslims and parallel personal-status laws for Druze, Christian and Jewish communities. Family-law framework operates under the Personal Status Law 59/1953 (substantially amended 2019 via Law 4/2019), governing marriage, custody (hadana) and guardianship (wilaya) for Muslims at arts. 137-156, with separate Druze, Christian, and Jewish community personal-status laws. The Court of Cassation (محكمة النقض) is the apex court for civil and criminal matters; the Supreme Constitutional Court (المحكمة الدستورية العليا) operates constitutional review. Sharia Courts operate first-instance Muslim personal-status jurisdiction. Psychology profession is regulated through the Ministry of Health framework with the Syrian Order of Psychologists. Syria is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Syria is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Personal Status Law 59/1953 (as amended Law 4/2019) arts. 137-156",
+      "title": "Personal Status Law — Custody and guardianship",
+      "year": 1953,
+      "url": "https://www.moj.gov.sy/",
+      "relevance": "Federal Personal Status Law drawing primarily on Hanafi jurisprudence. Substantially amended 2019 (Law 4/2019) raising marriage age, codifying judicial divorce, expanding custody provisions. Arts. 137-156 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Civil Code 84/1949",
+      "title": "Civil Code",
+      "year": 1949,
+      "url": "https://www.moj.gov.sy/",
+      "relevance": "Federal Civil Code drawing on French civil-law substantive heritage via Egyptian Civil Code transplant."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (محكمة النقض)",
+      "seat": "Damascus",
+      "url": "https://www.moj.gov.sy/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Supreme Constitutional Court (المحكمة الدستورية العليا)",
+      "seat": "Damascus",
+      "url": "https://www.moj.gov.sy/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Syria",
+      "url": "https://www.moh.gov.sy/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Syrian family-court decisions are anonymised per Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "title": "Civil Code 84/1949",
+      "description": "Federal Civil Code enacted drawing on French civil-law substantive heritage via Egyptian Civil Code transplant."
+    },
+    {
+      "year": 1953,
+      "title": "Personal Status Law 59/1953",
+      "description": "Federal Personal Status Law enacted codifying personal-status matters on Hanafi jurisprudential basis with parallel community provisions."
+    },
+    {
+      "year": 2019,
+      "title": "Personal Status Law amendments (Law 4/2019)",
+      "description": "Substantial amendments raising marriage age, codifying judicial divorce, expanding custody provisions."
+    }
+  ],
+  "structural_findings": [
+    "Syria operates a mixed-legal-system framework — French civil-law substantive (via Egyptian transplant) + Hanafi Islamic-law personal-status + parallel Druze/Christian/Jewish community personal-status. Within the MENA mixed-legal-system cluster.",
+    "Non-Hague Convention status places Syria in the non-Hague MENA cluster.",
+    "Multi-community parallel personal-status framework distinguishes Syria from single-tradition codifications, but less elaborate than Lebanon's 18-community confessional system."
+  ],
+  "references": [
+    "jurisdiction:lebanon",
+    "jurisdiction:jordan",
+    "jurisdiction:iraq",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.moj.gov.sy/",
+      "publisher": "Ministry of Justice",
+      "language": "ar"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.moh.gov.sy/",
+      "publisher": "Ministry of Health",
+      "language": "ar"
+    }
+  ],
+  "editorial_notes": [
+    "Syria jurisdiction sidecar — mixed-legal-system MENA (French civil-law substantive via Egyptian transplant + Hanafi Islamic-law personal-status + parallel Druze/Christian/Jewish community provisions). Personal Status Law 59/1953 + 2019 amendments + Civil Code 1949 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins MENA + mixed-legal-system + multi-community-personal-status + non-Hague Convention clusters within the corpus."
+  ]
+}

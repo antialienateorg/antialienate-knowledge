@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "id": "wales",
+  "name": "Wales (Cymru)",
+  "jurisdiction_code": "GB-WLS",
+  "legal_system": "common-law",
+  "language": ["en", "cy"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Wales operates within the unified Bar of England and Wales and shares the Children Act 1989 / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via Cafcass Cymru (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English Cafcass. The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which Cafcass Cymru policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Act 1989 (UK / E&W)",
+      "title": "Children Act 1989 — substantive children-law statute (applies in Wales)",
+      "year": 1989,
+      "url": "https://www.legislation.gov.uk/ukpga/1989/41",
+      "relevance": "Substantive statute applying in Wales as part of the unified England-and-Wales legal jurisdiction. s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame the substantive standard. Cafcass Cymru produces s.7 welfare reports within this statutory frame."
+    },
+    {
+      "citation": "Children and Family Court Advisory and Support Service (Wales) — Cafcass Cymru regulations",
+      "title": "Cafcass Cymru — devolved Welsh service",
+      "year": 2001,
+      "url": "https://gov.wales/cafcass-cymru",
+      "relevance": "Cafcass Cymru was established as a Welsh Government Sponsored Public Body in 2001 — devolved from English Cafcass. Operates its own welfare-reporting framework + practice guidance. The Welsh institutional analogue to English Cafcass."
+    },
+    {
+      "citation": "Welsh Language Measure 2011",
+      "title": "Welsh Language (Wales) Measure 2011",
+      "year": 2011,
+      "url": "https://www.legislation.gov.uk/mwa/2011/1",
+      "relevance": "Welsh Language Standards apply to Welsh public bodies including Cafcass Cymru. Welsh-medium family-court provision is structurally required; Welsh-language capacity in PA-adjacent practice clusters at Linenhall Chambers."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UK Supreme Court / Court of Appeal of England and Wales / High Court Family Division (unified England-and-Wales jurisdiction)",
+      "url": "https://www.supremecourt.uk/",
+      "key_decisions": [
+        {
+          "caption": "Wales shares the unified England-and-Wales judicial hierarchy. The English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) applies in Welsh family courts. No Welsh-specific apex line distinct from the English Re-arc.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Family Court (sitting in Cardiff, Swansea, Wrexham, Newport)",
+      "url": "https://www.gov.uk/courts-tribunals/family-court",
+      "key_decisions": [
+        {
+          "caption": "Family Court sittings in Welsh hearing centres. First-instance forum under Children Act 1989; Cafcass Cymru welfare reports inform PA-adjacent decisions.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Cafcass Cymru — Welsh Government Sponsored Public Body",
+      "url": "https://gov.wales/cafcass-cymru",
+      "position_statement": "Welsh family-court advisory and support service. Cafcass Cymru policy on PA derives from the Doughty/Maxwell/Slater 2018 Welsh-Government-commissioned review framing PA as a 'belief system' rather than clinical syndrome. Methodologically cautious institutional position."
+    },
+    {
+      "name": "Welsh Government — Department for Social Justice + Social Services and Integration Directorate",
+      "url": "https://gov.wales/",
+      "position_statement": "Welsh Government commissioned the Doughty/Maxwell/Slater 2018 literature review on PA. Welsh-Government-level institutional engagement positioning PA as policy-research question rather than clinical category."
+    },
+    {
+      "name": "Welsh Women's Aid",
+      "url": "https://welshwomensaid.org.uk/",
+      "position_statement": "Welsh federation-aligned women's-aid body. Carries federation-aligned critique-camp position for Welsh-language outreach. Subsidiary to Women's Aid Federation England positioning."
+    },
+    {
+      "name": "Health and Care Professions Council (HCPC)",
+      "url": "https://www.hcpc-uk.org/",
+      "position_statement": "UK-wide statutory regulator for practitioner psychologists. Applies in Wales. No Welsh-specific PA position."
+    },
+    {
+      "name": "British Psychological Society — Wales branch",
+      "url": "https://www.bps.org.uk/about-us/our-locations/wales",
+      "position_statement": "BPS Wales branch — operational subsidiary of UK-wide BPS. No Welsh-specific PA position."
+    },
+    {
+      "name": "Cardiff University School of Law and Politics — Dr Julie Doughty research base",
+      "url": "https://www.cardiff.ac.uk/people/view/38456-doughty-julie",
+      "position_statement": "Cardiff University is the institutional research base for Welsh PA academic engagement via Dr Julie Doughty. Doughty/Maxwell/Slater 2018 review is the canonical Welsh academic anchor. Research-pole institutional engagement."
+    }
+  ],
+  "anonymisation_convention": "Wales shares the unified England-and-Wales family-court anonymisation convention under Practice Directions 27A and family-court reporting restrictions. Cafcass Cymru reports use Welsh-language descriptors where parties request Welsh-medium proceedings. The Welsh Language Measure 2011 ensures bilingual operational provision.",
+  "key_developments": [
+    {
+      "year": 1989,
+      "description": "Children Act 1989 — substantive E&W statute (applies in Wales).",
+      "url": "https://www.legislation.gov.uk/ukpga/1989/41"
+    },
+    {
+      "year": 2001,
+      "description": "Cafcass Cymru established as Welsh Government Sponsored Public Body — devolved from English Cafcass.",
+      "url": "https://gov.wales/cafcass-cymru"
+    },
+    {
+      "year": 2011,
+      "description": "Welsh Language (Wales) Measure 2011 — Welsh Language Standards apply to Cafcass Cymru.",
+      "url": "https://www.legislation.gov.uk/mwa/2011/1"
+    },
+    {
+      "year": 2018,
+      "description": "April 2018 — Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (Welsh Government commissioned). Source document for Cafcass Cymru policy. Frames PA as 'belief system' rather than empirically grounded clinical concept.",
+      "url": "https://gov.wales/"
+    }
+  ],
+  "structural_findings": [
+    "WALES SHARES UNIFIED ENGLAND-AND-WALES JUDICIAL HIERARCHY: No Welsh-specific apex line distinct from the English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026). Children Act 1989 + Family Procedure Rules 2010 substantive frame.",
+    "CAFCASS CYMRU IS THE WELSH INSTITUTIONAL DIFFERENTIATOR: Devolved Welsh Government Sponsored Public Body distinct from English Cafcass. Operates own welfare-reporting framework + policy guidance. Welsh-language operational requirement under Welsh Language Measure 2011.",
+    "DOUGHTY/MAXWELL/SLATER 2018 IS THE CANONICAL WELSH ACADEMIC ANCHOR: Welsh-Government-commissioned April 2018 'Review of Research and Case Law on Parental Alienation' frames PA as a 'belief system' rather than empirically grounded clinical concept. Source document on which Cafcass Cymru policy on PA derives. Dr Julie Doughty (Cardiff University School of Law and Politics) is the load-bearing Welsh academic figure.",
+    "WELSH FAMILY BAR DOMINATED BY PUBLIC-LAW CHILDREN PRACTICE: 30 Park Place + 9 Park Place + Queen Square Chambers are the leading Welsh family chambers. PA-experienced practitioners cluster at public-law children rather than private-law children practice. Welsh-language capacity at Linenhall Chambers.",
+    "CRITIQUE-CAMP INSTITUTIONAL ANCHOR: Welsh Women's Aid carries federation-aligned critique-camp position. No Welsh recognition-camp clinical practice anchor identified at directory standard. Welsh institutional landscape critique-leaning."
+  ],
+  "references": [
+    "case-study:re-y-2026-ewfc-38",
+    "practitioner:uk-wls.doughty-julie",
+    "practitioner:uk-wls.cafcass-cymru",
+    "practitioner:uk-wls.welsh-womens-aid",
+    "jurisdiction:england-and-wales",
+    "jurisdiction:scotland",
+    "jurisdiction:northern-ireland"
+  ],
+  "sources": [
+    {
+      "title": "Welsh Government — gov.wales",
+      "url": "https://gov.wales/",
+      "publisher": "Welsh Government",
+      "language": "en"
+    },
+    {
+      "title": "Cafcass Cymru",
+      "url": "https://gov.wales/cafcass-cymru",
+      "publisher": "Welsh Government",
+      "language": "en"
+    },
+    {
+      "title": "UK Legislation — legislation.gov.uk",
+      "url": "https://www.legislation.gov.uk/",
+      "publisher": "UK Government",
+      "language": "en"
+    },
+    {
+      "title": "Cardiff University School of Law and Politics",
+      "url": "https://www.cardiff.ac.uk/law-politics",
+      "publisher": "Cardiff University",
+      "language": "en"
+    },
+    {
+      "title": "Welsh Women's Aid",
+      "url": "https://welshwomensaid.org.uk/",
+      "publisher": "Welsh Women's Aid",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: gov.wales for Welsh Government + Cafcass Cymru; legislation.gov.uk for unified E&W statutes; Cardiff University for academic anchor.",
+    "Bilingualism preserved: Welsh-language family-court provision required under Welsh Language Measure 2011.",
+    "Wales treated as distinct id within unified England-and-Wales judicial hierarchy — institutional differentiation via Cafcass Cymru + Welsh Government + Cardiff Law academic anchor.",
+    "Doughty/Maxwell/Slater 2018 framing PA as 'belief system' preserved in structural_findings[2]."
+  ]
+}

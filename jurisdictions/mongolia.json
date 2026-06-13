@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "id": "mongolia",
+  "name": "Mongolia (Монгол Улс)",
+  "jurisdiction_code": "MN",
+  "legal_system": "civil-law",
+  "language": ["mn"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Mongolia is a Central/East Asian civil-law parliamentary republic whose family-law framework operates under the Family Law of Mongolia 1999 (revised 2019) governing marriage, parental rights and child custody. Parental rights are governed by arts. 24-37 of the Family Law. The Supreme Court of Mongolia (Улсын Дээд Шүүх) is the apex court for civil and criminal matters; the Constitutional Court (Үндсэн Хуулийн Цэц) operates separate constitutional review. Family-law matters are heard at first instance in the District (Sum) Courts under specialised family-procedure rules. Psychology profession is regulated under the Ministry of Health framework with the Mongolian Psychological Association operating professional standards. Mongolia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Family Law art. 25. Mongolia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law of Mongolia 1999 arts. 24-37",
+      "title": "Family Law — Parental rights and child custody",
+      "year": 1999,
+      "url": "https://www.legalinfo.mn/",
+      "relevance": "Federal family-law statute. Arts. 24-37 govern parental rights and child custody. Substantively revised 2019."
+    },
+    {
+      "citation": "Law on the Rights of the Child 2016",
+      "title": "Law on the Rights of the Child",
+      "year": 2016,
+      "url": "https://www.legalinfo.mn/",
+      "relevance": "Federal statute codifying children's rights consistent with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Mongolia (Улсын Дээд Шүүх)",
+      "seat": "Ulaanbaatar",
+      "url": "https://www.supremecourt.mn/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Үндсэн Хуулийн Цэц)",
+      "seat": "Ulaanbaatar",
+      "url": "https://www.conscourt.gov.mn/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Mongolian Psychological Association (MPA)",
+      "url": "https://mpa.mn/",
+      "role": "Peak professional association for psychologists in Mongolia."
+    }
+  ],
+  "anonymisation_convention": "Mongolian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1999,
+      "title": "Family Law of Mongolia enacted",
+      "description": "Federal family-law statute enacted replacing prior Soviet-era code."
+    },
+    {
+      "year": 2016,
+      "title": "Law on the Rights of the Child",
+      "description": "Federal children's-rights statute aligned with UNCRC."
+    },
+    {
+      "year": 2019,
+      "title": "Family Law revision",
+      "description": "Substantive revision of Family Law provisions on parental rights and custody."
+    }
+  ],
+  "structural_findings": [
+    "Mongolia operates a civil-law framework rooted in post-Soviet legal-transition family-law reform — Family Law 1999 (revised 2019) replaced Soviet-era code.",
+    "Non-Hague Convention status places Mongolia in the non-Hague East Asian cluster.",
+    "Psychology profession regulation operates through Ministry of Health framework + MPA peak body — lacks unified federal-statutory psychology regulator."
+  ],
+  "references": [
+    "jurisdiction:south-korea",
+    "jurisdiction:japan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Mongolia",
+      "url": "https://www.supremecourt.mn/",
+      "publisher": "Supreme Court",
+      "language": "mn,en"
+    },
+    {
+      "title": "Constitutional Court of Mongolia",
+      "url": "https://www.conscourt.gov.mn/",
+      "publisher": "Constitutional Court",
+      "language": "mn,en"
+    },
+    {
+      "title": "Legal Info Mongolia",
+      "url": "https://www.legalinfo.mn/",
+      "publisher": "Ministry of Justice and Home Affairs",
+      "language": "mn,en"
+    }
+  ],
+  "editorial_notes": [
+    "Mongolia jurisdiction sidecar — civil-law framework. Family Law 1999 (revised 2019) + Law on Rights of the Child 2016 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central/East Asian + civil-law + post-Soviet-transition + non-Hague Convention clusters within the corpus."
+  ]
+}

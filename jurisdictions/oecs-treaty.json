@@ -1,0 +1,166 @@
+{
+  "schema_version": "1.0",
+  "id": "oecs-treaty",
+  "name": "OECS Revised Treaty of Basseterre 2010 (Organisation of Eastern Caribbean States)",
+  "jurisdiction_code": "OEC-RT",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Revised Treaty of Basseterre Establishing the Organisation of Eastern Caribbean States Economic Union (OECS Revised Treaty) is a regional supranational meta-framework foundational-OECS-treaty framework adopted by the 6 founding Eastern Caribbean states in Saint Lucia — structurally distinctive globally as the only modern Eastern Caribbean regional supranational binding-treaty framework operating on formal Eastern-Caribbean-Economic-Union framework + only modern regional supranational binding-treaty framework operating formal Economic-Union framework with formal monetary-union framework via Eastern Caribbean Currency Union ECCU framework (OECS Revised Treaty signed 18 June 2010 in Saint Lucia + effective 21 January 2011 + original Treaty of Basseterre signed 18 June 1981 in Basseterre Saint Kitts and Nevis founding OECS — formal foundational revised OECS treaty framework establishing comprehensive OECS organisation framework, distinct from rest-of-modern-regional-Caribbean-treaty frameworks which operate on free-trade-area or common-market frameworks, structurally distinctive globally as the only modern Eastern Caribbean regional supranational binding-treaty framework operating formal Economic-Union framework + only modern Caribbean regional supranational binding-treaty framework operating formal monetary-union framework via Eastern Caribbean Currency Union ECCU + Eastern Caribbean Central Bank ECCB framework + only modern regional supranational binding-treaty framework operating formal 6-independent-states + 3-British-Overseas-Territories-mixed-membership framework + smallest regional supranational binding-treaty framework by population framework with ~600,000 combined population framework), as the central jurisdiction of the formal OECS Economic Union framework (OECS Revised Treaty Protocol on Economic Union providing formal Economic Union framework operating five freedoms: free movement of goods + services + capital + persons + harmonisation of fiscal + monetary + trade policies — formal foundational Eastern Caribbean Economic-Union framework, structurally distinctive globally as the only modern Eastern Caribbean regional supranational binding-treaty framework operating formal Economic-Union framework with five-freedoms framework), as the central jurisdiction of the formal Eastern Caribbean Currency Union ECCU framework (Eastern Caribbean Currency Union ECCU established 1965 + Eastern Caribbean Central Bank ECCB established 1 October 1983 in Basseterre Saint Kitts and Nevis providing formal Eastern Caribbean Dollar EC$ currency framework pegged to USD framework — formal foundational Eastern Caribbean Currency Union framework, structurally distinctive globally as the only modern Caribbean regional supranational binding-treaty framework operating formal monetary-union framework with Eastern Caribbean Dollar pegged to USD framework + only modern regional supranational binding-treaty framework operating formal 60-year-monetary-union framework), and as the central jurisdiction of the formal OECS Citizenship by Investment framework (OECS Citizenship by Investment CBI programmes effective from Saint Kitts and Nevis 1984 + Antigua and Barbuda 2013 + Dominica 1993 + Grenada 2013 + Saint Lucia 2015 — formal foundational Caribbean Citizenship-by-Investment framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal multi-state-Citizenship-by-Investment framework + only modern Caribbean regional supranational binding-treaty framework operating formal Citizenship-by-Investment framework). The OECS Revised Treaty is binding upon 6 OECS member states + 4 OECS associate members as of 2026 (Antigua and Barbuda + Dominica + Grenada + Montserrat + Saint Kitts and Nevis + Saint Lucia + Saint Vincent and the Grenadines + 3 British Overseas Territories Anguilla + Martinique + British Virgin Islands) — comprehensive Eastern Caribbean regional coverage framework. The Revised Treaty is silent on 'parental alienation' as a statutory label, though formal OECS Economic Union framework operates substantial intersection with parental-alienation framework via formal Eastern-Caribbean-regional cross-border-children's-rights framework + free-movement-of-persons framework. The OECS Authority of Heads of Government + OECS Council of Ministers + OECS Commission + OECS Assembly + Eastern Caribbean Central Bank ECCB are the formal OECS bodies; national-level apex courts operate as judicial bodies (Eastern Caribbean Supreme Court ECSC as final court of appeal for 6 OECS members + JCPC as final court of appeal for remaining OECS states). The OECS Revised Treaty is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Treaty of Basseterre 1981",
+      "title": "Treaty of Basseterre (Original)",
+      "year": 1981,
+      "url": "https://www.oecs.int/",
+      "relevance": "Original Treaty of Basseterre signed 18 June 1981 in Basseterre Saint Kitts and Nevis founding OECS — predecessor framework to OECS Revised Treaty."
+    },
+    {
+      "citation": "OECS Revised Treaty of Basseterre 2010",
+      "title": "OECS Revised Treaty",
+      "year": 2011,
+      "url": "https://www.oecs.int/",
+      "relevance": "Revised Treaty of Basseterre Establishing the Organisation of Eastern Caribbean States Economic Union signed 18 June 2010 in Saint Lucia + effective 21 January 2011 — formal foundational revised OECS treaty framework establishing comprehensive OECS organisation framework."
+    },
+    {
+      "citation": "OECS Revised Treaty Protocol on Economic Union",
+      "title": "OECS Economic Union Protocol",
+      "year": 2011,
+      "url": "https://www.oecs.int/",
+      "relevance": "OECS Revised Treaty Protocol on Economic Union providing formal Economic Union framework with five freedoms framework — formal foundational Eastern Caribbean Economic-Union framework."
+    },
+    {
+      "citation": "Eastern Caribbean Currency Union 1965",
+      "title": "ECCU",
+      "year": 1965,
+      "url": "https://www.eccb-centralbank.org/",
+      "relevance": "Eastern Caribbean Currency Union ECCU established 1965 + Eastern Caribbean Central Bank ECCB established 1 October 1983 in Basseterre Saint Kitts and Nevis — formal foundational Eastern Caribbean Currency Union framework."
+    },
+    {
+      "citation": "Eastern Caribbean Supreme Court 1967",
+      "title": "Eastern Caribbean Supreme Court",
+      "year": 1967,
+      "url": "https://www.eccourts.org/",
+      "relevance": "Eastern Caribbean Supreme Court ECSC established 27 February 1967 in Castries Saint Lucia providing formal OECS judicial framework as final court of appeal for 6 OECS members — formal foundational OECS judicial framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "OECS Authority of Heads of Government",
+      "seat": "rotating",
+      "url": "https://www.oecs.int/",
+      "role": "Formal supreme decision-making body for OECS."
+    },
+    {
+      "name": "OECS Council of Ministers",
+      "seat": "rotating",
+      "url": "https://www.oecs.int/",
+      "role": "Formal executive body for OECS."
+    },
+    {
+      "name": "OECS Commission",
+      "seat": "Castries",
+      "url": "https://www.oecs.int/",
+      "role": "Formal administrative body for OECS."
+    },
+    {
+      "name": "Eastern Caribbean Central Bank (ECCB)",
+      "seat": "Basseterre",
+      "url": "https://www.eccb-centralbank.org/",
+      "role": "Formal Eastern Caribbean Currency Union framework body."
+    },
+    {
+      "name": "Eastern Caribbean Supreme Court (ECSC)",
+      "seat": "Castries",
+      "url": "https://www.eccourts.org/",
+      "role": "Final court of appeal for 6 OECS members framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OECS Commission",
+      "url": "https://www.oecs.int/",
+      "role": "OECS Revised Treaty implementation framework."
+    }
+  ],
+  "anonymisation_convention": "OECS-related communications operate via OECS Authority of Heads of Government framework + ECSC framework; individual communications limited under OECS framework.",
+  "key_developments": [
+    {
+      "year": 1965,
+      "title": "Eastern Caribbean Currency Union established",
+      "description": "Eastern Caribbean Currency Union ECCU established 1965 — predecessor framework to OECS Treaty."
+    },
+    {
+      "year": 1967,
+      "title": "Eastern Caribbean Supreme Court established",
+      "description": "Eastern Caribbean Supreme Court ECSC established 27 February 1967 in Castries Saint Lucia — formal foundational OECS judicial framework operational."
+    },
+    {
+      "year": 1981,
+      "title": "Treaty of Basseterre signed + OECS founded",
+      "description": "Original Treaty of Basseterre signed 18 June 1981 in Basseterre Saint Kitts and Nevis founding OECS — formal foundational original OECS treaty framework adopted."
+    },
+    {
+      "year": 1983,
+      "title": "Eastern Caribbean Central Bank established",
+      "description": "Eastern Caribbean Central Bank ECCB established 1 October 1983 in Basseterre Saint Kitts and Nevis — formal foundational ECCB framework operational."
+    },
+    {
+      "year": 1984,
+      "title": "Saint Kitts and Nevis Citizenship by Investment programme",
+      "description": "Saint Kitts and Nevis Citizenship by Investment CBI programme effective 1984 — formal foundational Caribbean Citizenship-by-Investment framework + first global modern CBI programme."
+    },
+    {
+      "year": 2010,
+      "title": "OECS Revised Treaty signed",
+      "description": "Revised Treaty of Basseterre Establishing the Organisation of Eastern Caribbean States Economic Union signed 18 June 2010 in Saint Lucia — formal foundational revised OECS treaty framework adopted."
+    },
+    {
+      "year": 2011,
+      "title": "OECS Revised Treaty enters force + OECS Economic Union",
+      "description": "OECS Revised Treaty entered force 21 January 2011 + OECS Economic Union framework operational — formal foundational revised OECS treaty + Economic Union framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Saint Lucia joins CCJ Appellate Jurisdiction + OECS sustainability",
+      "description": "Saint Lucia replaced JCPC with CCJ Appellate Jurisdiction 2024 framework + OECS-Trade-Sustainability framework 2024 — formal OECS framework expansion."
+    }
+  ],
+  "structural_findings": [
+    "OECS Revised Treaty operates a regional supranational binding-treaty framework — places OECS Revised Treaty in the regional supranational-meta-framework cluster.",
+    "Only modern Eastern Caribbean regional supranational binding-treaty framework operating on formal Eastern-Caribbean-Economic-Union framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal Economic-Union framework with formal monetary-union framework via Eastern Caribbean Currency Union ECCU framework + only modern Caribbean regional supranational binding-treaty framework operating formal monetary-union framework via ECCU framework + only modern regional supranational binding-treaty framework operating formal 6-independent-states + 3-British-Overseas-Territories-mixed-membership framework + smallest regional supranational binding-treaty framework by population framework with ~600,000 combined population framework.",
+    "Central jurisdiction of formal OECS Economic Union framework is structurally distinctive globally — only modern Eastern Caribbean regional supranational binding-treaty framework operating formal Economic-Union framework with five-freedoms framework.",
+    "Central jurisdiction of formal Eastern Caribbean Currency Union ECCU framework is structurally distinctive globally — only modern Caribbean regional supranational binding-treaty framework operating formal monetary-union framework with Eastern Caribbean Dollar pegged to USD framework + only modern regional supranational binding-treaty framework operating formal 60-year-monetary-union framework.",
+    "Central jurisdiction of formal OECS Citizenship by Investment framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal multi-state-Citizenship-by-Investment framework + only modern Caribbean regional supranational binding-treaty framework operating formal Citizenship-by-Investment framework.",
+    "6 OECS member state + 4 OECS associate member ratification framework with ~600,000 combined population is structurally distinctive globally — comprehensive Eastern Caribbean regional coverage framework.",
+    "1965 ECCU + 1967 ECSC + 1981 Treaty of Basseterre + 1983 ECCB + 1984 Saint Kitts CBI + 2010 OECS Revised Treaty + 2011 entry into force + 2024 Saint Lucia CCJ + OECS Trade Sustainability OECS-framework-development sequence is structurally distinctive globally.",
+    "OECS Revised Treaty + Treaty of Basseterre + Protocol on Economic Union + ECCU + ECCB + ECSC + Citizenship by Investment formal septet framework with formal Eastern-Caribbean-regional cross-border-children's-rights PA-intersection framework via free-movement-of-persons framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:caricom-treaty",
+    "jurisdiction:antigua-and-barbuda",
+    "jurisdiction:saint-kitts-and-nevis",
+    "jurisdiction:saint-lucia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "OECS",
+      "url": "https://www.oecs.int/",
+      "publisher": "OECS Commission",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "OECS Revised Treaty jurisdiction sidecar — regional supranational Eastern Caribbean foundational-OECS-treaty meta-framework (OECS Revised Treaty 2010/2011 + original Treaty of Basseterre 1981 + Protocol on Economic Union + ECCU 1965 + ECCB 1983 + ECSC 1967 + Saint Kitts CBI 1984 + Saint Lucia CCJ 2024). Only modern Eastern Caribbean regional supranational binding-treaty framework globally + only modern regional supranational binding-treaty framework operating formal Economic-Union framework with formal monetary-union framework via ECCU + only modern Caribbean regional supranational binding-treaty framework operating formal monetary-union framework + smallest regional supranational binding-treaty framework by population ~600,000 + central jurisdiction of formal OECS Economic Union five-freedoms framework + central jurisdiction of formal Eastern Caribbean Currency Union 60-year-monetary-union framework + central jurisdiction of formal multi-state Citizenship-by-Investment framework + 6 OECS member states + 4 associate members + 1965 ECCU + 1967 ECSC + 1981 Treaty of Basseterre + 1983 ECCB + 1984 Saint Kitts CBI + 2010 OECS Revised Treaty + 2011 entry into force + 2024 Saint Lucia CCJ + OECS Trade Sustainability OECS-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: OECS Economic Union framework operates substantial intersection with parental-alienation framework via formal Eastern-Caribbean-regional cross-border-children's-rights framework + free-movement-of-persons framework.",
+    "Joins regional + supranational + Eastern-Caribbean-foundational-OECS-treaty cluster + OECS-Revised-Treaty-only-Eastern-Caribbean-regional-supranational-binding-treaty-globally-distinctive + Economic-Union-five-freedoms + Eastern-Caribbean-Currency-Union-1965 + Eastern-Caribbean-Central-Bank-ECCB-Basseterre + Eastern-Caribbean-Supreme-Court-ECSC-Castries + Eastern-Caribbean-Dollar-pegged-USD + 6-OECS-member-states + 4-OECS-associate-members + 3-British-Overseas-Territories-mixed-membership + smallest-regional-supranational-by-population-600000 + Saint-Kitts-CBI-1984-first-modern-CBI-programme + multi-state-Citizenship-by-Investment + 60-year-monetary-union + 1981-Treaty-of-Basseterre-original + 2010-OECS-Revised-Treaty + 2024-Saint-Lucia-CCJ-Appellate + Eastern-Caribbean-cross-border-children-rights-PA-intersection-via-five-freedoms clusters within the corpus."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "south-sudan",
+  "name": "South Sudan (Republic of South Sudan)",
+  "jurisdiction_code": "SS",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "South Sudan is a Northeast African mixed-legal-system federal republic — established as an independent state on 9 July 2011 following the 2005 Comprehensive Peace Agreement and 2011 independence referendum. Family-law framework operates under the Family Law transitional provisions and Penal Code 2008, with customary-law jurisdiction (operating across various ethnic communities including Dinka, Nuer, Bari, Azande) constituting a substantial layer. The Transitional Constitution 2011 (as amended) establishes a secular framework distinct from pre-independence Sharia-based Sudanese framework. Parental authority and child custody are governed by case-law applying the welfare-of-the-child standard alongside customary-law provisions. The Supreme Court of South Sudan is the apex court for civil and criminal matters. Family-law matters are heard at first instance in County Courts and Customary Courts. Psychology profession is regulated through the Ministry of Health framework. South Sudan is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. South Sudan is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Transitional Constitution 2011",
+      "title": "Transitional Constitution",
+      "year": 2011,
+      "url": "https://www.judiciary.gov.ss/",
+      "relevance": "Federal Transitional Constitution establishing secular framework distinct from pre-independence Sudanese Sharia framework."
+    },
+    {
+      "citation": "Penal Code 2008",
+      "title": "Penal Code",
+      "year": 2008,
+      "url": "https://www.judiciary.gov.ss/",
+      "relevance": "Federal Penal Code applicable in family-law adjacent matters (child protection, domestic violence)."
+    },
+    {
+      "citation": "Local Government Act 2009 + Customary Law Act framework",
+      "title": "Customary Law framework",
+      "year": 2009,
+      "url": "https://www.judiciary.gov.ss/",
+      "relevance": "Federal statutes establishing Customary Courts and codifying customary-law jurisdiction across ethnic communities."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of South Sudan",
+      "seat": "Juba",
+      "url": "https://www.judiciary.gov.ss/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, South Sudan",
+      "url": "https://www.moh.gov.ss/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "South Sudanese family-court decisions are anonymised per Supreme Court practice using initials where available.",
+  "key_developments": [
+    {
+      "year": 2005,
+      "title": "Comprehensive Peace Agreement",
+      "description": "Comprehensive Peace Agreement between Sudan government and Sudan People's Liberation Movement ending 22-year second civil war and establishing path to South Sudan independence."
+    },
+    {
+      "year": 2011,
+      "title": "Independence + Transitional Constitution",
+      "description": "South Sudan declared independence on 9 July 2011 following independence referendum; Transitional Constitution adopted establishing secular framework distinct from pre-independence Sharia framework."
+    },
+    {
+      "year": 2018,
+      "title": "Revitalized Agreement on Resolution of Conflict",
+      "description": "Revitalized Agreement on Resolution of Conflict in South Sudan signed."
+    }
+  ],
+  "structural_findings": [
+    "South Sudan operates a structurally distinctive mixed-legal-system framework — secular framework distinct from pre-independence Sudanese Sharia framework + substantial customary-law layer via Customary Courts across multiple ethnic communities (Dinka, Nuer, Bari, Azande and others). Most ethnically-pluralistic customary-law framework in the African corpus cluster.",
+    "Youngest independent state in the corpus (2011) — newest federal republic with developing institutional framework.",
+    "Non-Hague Convention status places South Sudan in the non-Hague Northeast African cluster."
+  ],
+  "references": [
+    "jurisdiction:sudan",
+    "jurisdiction:uganda",
+    "jurisdiction:kenya",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of South Sudan",
+      "url": "https://www.judiciary.gov.ss/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.moh.gov.ss/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "South Sudan jurisdiction sidecar — mixed-legal-system Northeast Africa (Transitional Constitution 2011 + Penal Code 2008 + multi-ethnic customary-law via Customary Courts + non-Hague). Youngest state in corpus (2011 independence).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Northeast African + mixed-legal-system + multi-ethnic-customary-law-distinctive + youngest-state-2011 + non-Hague Convention clusters within the corpus."
+  ]
+}

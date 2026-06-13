@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "id": "ethiopia",
+  "name": "Ethiopia (Federal Democratic Republic of Ethiopia / የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ)",
+  "jurisdiction_code": "ET",
+  "legal_system": "civil-law",
+  "language": ["am"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Ethiopia is an East African civil-law federal republic whose family-law framework operates under the Revised Family Code 2000 (federal) supplemented by state-level Family Codes in nine ethnic-federal states plus two city administrations. Parental rights and child custody are governed by Revised Family Code arts. 215-272. The Federal Supreme Court (የፌዴራል ጠቅላይ ፍርድ ቤት) is the apex court for civil and criminal matters within the federal court system; the Federal Constitutional Inquiry Council and House of Federation operate constitutional review. Family-law matters are heard at first instance in Federal/State First Instance Courts. Religious-community personal-law jurisdiction operates in parallel: Sharia courts have constitutional recognition (FDRE Constitution art. 78(5)) for Muslim personal-status matters where parties consent. Psychology profession is regulated through the Ministry of Health framework with the Ethiopian Psychological Association operating professional standards. Ethiopia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Ethiopia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Revised Family Code 2000 arts. 215-272",
+      "title": "Revised Family Code — Parental rights and custody",
+      "year": 2000,
+      "url": "https://www.fsc.gov.et/",
+      "relevance": "Federal Family Code (replacing 1960 Civil Code Book II provisions). Arts. 215-272 govern parental rights, custody, and child welfare. Mirrored by state-level Family Codes in regional states."
+    },
+    {
+      "citation": "Civil Code of Ethiopia 1960 (residual provisions)",
+      "title": "Civil Code 1960",
+      "year": 1960,
+      "url": "https://www.fsc.gov.et/",
+      "relevance": "Federal Civil Code drawn from French civil-law and Swiss codification traditions; residual application for matters not covered by Revised Family Code."
+    },
+    {
+      "citation": "FDRE Constitution art. 78(5)",
+      "title": "FDRE Constitution — Sharia courts",
+      "year": 1995,
+      "url": "https://www.fsc.gov.et/",
+      "relevance": "Constitutional recognition of Sharia courts for Muslim personal-status matters where parties consent."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Federal Supreme Court (የፌዴራል ጠቅላይ ፍርድ ቤት)",
+      "seat": "Addis Ababa",
+      "url": "https://www.fsc.gov.et/",
+      "role": "Apex court for civil and criminal matters within the federal court system."
+    },
+    {
+      "name": "House of Federation",
+      "seat": "Addis Ababa",
+      "url": "https://www.hofethiopia.gov.et/",
+      "role": "Constitutional interpretation body with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Ethiopia",
+      "url": "https://www.moh.gov.et/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Ethiopian Psychological Association",
+      "url": "https://www.epaeth.org/",
+      "role": "Peak professional association for psychologists in Ethiopia."
+    }
+  ],
+  "anonymisation_convention": "Ethiopian family-court decisions are anonymised per Federal Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1960,
+      "title": "Civil Code of Ethiopia",
+      "description": "Federal Civil Code enacted drawing on French civil-law and Swiss codification traditions; including Book II family-law provisions."
+    },
+    {
+      "year": 1995,
+      "title": "FDRE Constitution",
+      "description": "Federal constitution recognising Sharia courts for Muslim personal-status matters where parties consent (art. 78(5))."
+    },
+    {
+      "year": 2000,
+      "title": "Revised Family Code",
+      "description": "Federal Family Code enacted replacing 1960 Civil Code Book II family-law provisions; codifying gender-equal marriage and parental-rights provisions."
+    }
+  ],
+  "structural_findings": [
+    "Ethiopia operates a structurally distinctive federal-civil-law framework — Revised Family Code 2000 + state-level Family Codes in nine ethnic-federal states + Sharia court constitutional recognition for Muslim personal-status (art. 78(5)). Most layered family-law architecture within the African corpus cluster.",
+    "Civil-law substantive heritage drawn from French civil-law and Swiss codification traditions (1960 Civil Code) — unique non-colonial civil-law transplant within the African corpus.",
+    "Non-Hague Convention status places Ethiopia in the non-Hague East African cluster.",
+    "Psychology profession regulation operates through Ministry of Health framework + Ethiopian Psychological Association peak body — lacks unified federal-statutory psychology regulator."
+  ],
+  "references": [
+    "jurisdiction:kenya",
+    "jurisdiction:tanzania",
+    "jurisdiction:south-africa",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Federal Supreme Court of Ethiopia",
+      "url": "https://www.fsc.gov.et/",
+      "publisher": "Federal Supreme Court",
+      "language": "am,en"
+    },
+    {
+      "title": "House of Federation",
+      "url": "https://www.hofethiopia.gov.et/",
+      "publisher": "House of Federation",
+      "language": "am,en"
+    },
+    {
+      "title": "Ethiopian Psychological Association",
+      "url": "https://www.epaeth.org/",
+      "publisher": "EPA",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Ethiopia jurisdiction sidecar — civil-law federal framework. Revised Family Code 2000 + Civil Code 1960 residual + Sharia court constitutional recognition + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins East African + civil-law (non-colonial transplant) + federal + Sharia-court-constitutional-recognition + non-Hague Convention clusters within the corpus."
+  ]
+}

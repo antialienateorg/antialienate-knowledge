@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0",
+  "id": "hague-convention-2019-judgments",
+  "name": "Hague Convention 2019 on the Recognition and Enforcement of Foreign Judgments (Hague Judgments Convention)",
+  "jurisdiction_code": "HJC",
+  "legal_system": "supranational",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Hague Convention 2019 on the Recognition and Enforcement of Foreign Judgments (popularly the Hague Judgments Convention / formally Convention of 2 July 2019 on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters) is a global supranational meta-framework foreign-judgments-recognition + enforcement binding-treaty instrument adopted by the Hague Conference on Private International Law (HCCH) — structurally distinctive globally as the most-recent modern global binding-treaty framework operating specifically on cross-border foreign-judgments-recognition + enforcement framework (Hague Judgments Convention adopted 2 July 2019 in The Hague + effective 1 September 2023 — formal global binding-treaty framework establishing comprehensive recognition + enforcement framework for foreign civil + commercial judgments, distinct from Hague Convention 1980 + 1993 + 1996 + 2007 children's-frameworks which operate on family-law-specific frameworks, structurally distinctive globally as the most-recent modern global binding-treaty framework operating on formal-foreign-judgments-recognition-and-enforcement-civil-commercial-specific framework), as the central jurisdiction of the formal post-Hague-2005 Choice of Court Convention judgments-recognition + enforcement elaboration framework (Hague Judgments Convention adopted as global comprehensive supplement to Hague Convention 2005 on Choice of Court Agreements framework + Hague Convention 2007 + Hague Convention 1996 frameworks — applicable to 6 state parties as of 2026 including European Union bloc + Ukraine + Uruguay + Israel + Cabo Verde + Costa Rica, structurally distinctive globally as the newest modern global binding-treaty framework with substantial state-party-coverage growth potential), as the only modern global binding-treaty framework operating formal exclusion of family-law + maintenance + insolvency frameworks (Convention Article 2 framework providing exclusion of family-law-related matters + maintenance obligations + insolvency-related matters from Convention applicability — formal family-law exclusion framework, distinct from Hague Convention 2007 + 1996 + 1993 + 1980 family-law-specific frameworks, structurally distinctive globally as the only modern global binding-treaty framework with formal family-law exclusion framework), and as the central jurisdiction of the formal EU bloc 2022 accession framework (European Union bloc accession to Hague Judgments Convention 29 August 2022 + effective 1 September 2023 alongside Convention entry into force — formal EU bloc-level accession framework, structurally distinctive globally as the only modern global binding-treaty framework with formal EU bloc-level accession framework). The Hague Judgments Convention is binding upon 6 state parties as of 2026 + 1 EU bloc state party framework — early-adoption framework with substantial growth potential. The Convention is silent on 'parental alienation' as a statutory label, though formal Article 2 family-law exclusion framework explicitly excludes family-law matters from Convention applicability — operating as complementary framework with Hague Convention 1980 + 1993 + 1996 + 2007 frameworks. The Permanent Bureau of the Hague Conference on Private International Law is the apex monitoring framework body; national-level apex courts operate as judicial bodies. The Hague Judgments Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Hague Convention 2019 on the Recognition and Enforcement of Foreign Judgments",
+      "title": "Hague Judgments Convention",
+      "year": 2023,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters adopted 2 July 2019 in The Hague + effective 1 September 2023 — formal global binding-treaty framework establishing comprehensive recognition + enforcement framework for foreign civil + commercial judgments."
+    },
+    {
+      "citation": "Hague Judgments Convention Article 2 (Family-Law Exclusion Framework)",
+      "title": "Hague Judgments Convention Article 2",
+      "year": 2023,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Judgments Convention Article 2 framework providing exclusion of family-law-related matters + maintenance obligations + insolvency-related matters from Convention applicability — formal family-law exclusion framework."
+    },
+    {
+      "citation": "Hague Convention 2005 on Choice of Court Agreements (predecessor framework)",
+      "title": "Hague Convention 2005",
+      "year": 2015,
+      "url": "https://www.hcch.net/",
+      "relevance": "Hague Convention 2005 on Choice of Court Agreements adopted 30 June 2005 + effective 1 October 2015 — predecessor framework to Hague Judgments Convention 2019."
+    },
+    {
+      "citation": "EU Brussels Ia Regulation 1215/2012 (functional equivalent framework)",
+      "title": "EU Brussels Ia Regulation",
+      "year": 2015,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU Council Regulation 1215/2012 of 12 December 2012 + effective 10 January 2015 — EU bloc functional equivalent framework operating cross-border-judgments-recognition + enforcement framework within EU bloc."
+    },
+    {
+      "citation": "EU Bloc Accession to Hague Judgments Convention 2022",
+      "title": "EU Bloc Accession",
+      "year": 2022,
+      "url": "https://www.hcch.net/",
+      "relevance": "European Union bloc accession to Hague Judgments Convention 29 August 2022 — formal EU bloc-level accession framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Permanent Bureau of the Hague Conference on Private International Law (HCCH)",
+      "seat": "The Hague",
+      "url": "https://www.hcch.net/",
+      "role": "Apex monitoring framework body for Hague Judgments Convention."
+    },
+    {
+      "name": "Court of Justice of the European Union (CJEU)",
+      "seat": "Luxembourg",
+      "url": "https://curia.europa.eu/",
+      "role": "Court of Justice of the European Union — formal EU bloc judicial body for EU bloc accession framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "HCCH Secretariat",
+      "url": "https://www.hcch.net/",
+      "role": "Hague Judgments Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Hague Judgments Convention-related individual communications are anonymised per national-level court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2005,
+      "title": "Hague Convention 2005 on Choice of Court Agreements adopted",
+      "description": "Hague Convention 2005 on Choice of Court Agreements adopted 30 June 2005 — predecessor framework to Hague Judgments Convention 2019."
+    },
+    {
+      "year": 2015,
+      "title": "Hague Convention 2005 enters force",
+      "description": "Hague Convention 2005 on Choice of Court Agreements entered force 1 October 2015 — formal global binding-treaty framework operational."
+    },
+    {
+      "year": 2019,
+      "title": "Hague Judgments Convention adopted",
+      "description": "Hague Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters adopted 2 July 2019 in The Hague — formal global binding-treaty framework."
+    },
+    {
+      "year": 2022,
+      "title": "EU Bloc accession",
+      "description": "European Union bloc accession to Hague Judgments Convention 29 August 2022 — formal EU bloc-level accession framework."
+    },
+    {
+      "year": 2023,
+      "title": "Hague Judgments Convention enters force",
+      "description": "Hague Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters entered force 1 September 2023 — formal global binding-treaty framework operational."
+    }
+  ],
+  "structural_findings": [
+    "Hague Judgments Convention operates a supranational global binding-treaty framework — places Hague Judgments Convention in the global supranational-meta-framework cluster.",
+    "Most-recent modern global binding-treaty framework operating specifically on cross-border foreign-judgments-recognition + enforcement framework is structurally distinctive globally — formal-foreign-judgments-recognition-and-enforcement-civil-commercial-specific framework.",
+    "Central jurisdiction of formal post-Hague-2005 Choice of Court Convention judgments-recognition + enforcement elaboration framework is structurally distinctive globally — newest modern global binding-treaty framework with substantial state-party-coverage growth potential.",
+    "Only modern global binding-treaty framework operating formal exclusion of family-law + maintenance + insolvency frameworks is structurally distinctive globally — formal family-law exclusion framework via Article 2.",
+    "Central jurisdiction of formal EU bloc 2022 accession framework is structurally distinctive globally — only modern global binding-treaty framework with formal EU bloc-level accession framework.",
+    "6 state party + 1 EU bloc state party ratification framework is structurally distinctive globally — early-adoption framework with substantial growth potential.",
+    "2005 Hague Convention + 2015 entry into force + 2019 Hague Judgments Convention + 2022 EU Bloc accession + 2023 entry into force cross-border-judgments-recognition-framework-development sequence is structurally distinctive globally.",
+    "Article 2 family-law exclusion framework operating as complementary framework with Hague Convention 1980 + 1993 + 1996 + 2007 family-law-specific frameworks is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:hague-conference-on-private-international-law",
+    "jurisdiction:hague-convention-1980-child-abduction",
+    "jurisdiction:hague-convention-1996-protection-of-children",
+    "jurisdiction:hague-convention-2007-child-maintenance",
+    "jurisdiction:european-union",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "Hague Conference on Private International Law (HCCH)",
+      "url": "https://www.hcch.net/",
+      "publisher": "HCCH",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Hague Judgments Convention 2019 jurisdiction sidecar — supranational global cross-border foreign-judgments-recognition + enforcement binding treaty meta-framework (Hague Judgments Convention 2019/2023 + Article 2 Family-Law Exclusion Framework + Hague Convention 2005 on Choice of Court Agreements predecessor framework + EU Brussels Ia Regulation 1215/2012 functional equivalent + EU Bloc accession 2022). Most-recent modern global binding-treaty framework operating specifically on cross-border foreign-judgments-recognition + enforcement framework globally + central jurisdiction of formal post-Hague-2005 Choice of Court Convention judgments-recognition + enforcement elaboration framework + only modern global binding-treaty framework operating formal exclusion of family-law + maintenance + insolvency frameworks + central jurisdiction of formal EU bloc 2022 accession framework + 6 state party + 1 EU bloc state party ratification framework + 2005 Hague Convention + 2015 entry into force + 2019 Hague Judgments Convention + 2022 EU Bloc accession + 2023 entry into force cross-border-judgments-recognition-framework-development sequence + Article 2 family-law exclusion framework operating as complementary framework with Hague Convention 1980 + 1993 + 1996 + 2007 family-law-specific frameworks.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 2 family-law exclusion framework explicitly excludes family-law matters from Convention applicability — operating as complementary framework with Hague Convention 1980 + 1993 + 1996 + 2007 frameworks. Hague Conference framework operates as complementary children's-frameworks quintet (1980 + 1993 + 1996 + 2007 + 2019-exclusion).",
+    "Joins global + supranational + global-foreign-judgments-recognition-enforcement-binding-treaty cluster + Hague-Judgments-Convention-2019-most-recent-globally-distinctive + Article-2-family-law-exclusion-framework + Hague-Convention-2005-Choice-of-Court-predecessor + EU-bloc-accession-2022 + EU-Brussels-Ia-Regulation-functional-equivalent + 6-state-party-1-EU-bloc-early-adoption-framework + complementary-to-Hague-1980-1993-1996-2007-children-family-conventions clusters within the corpus."
+  ]
+}

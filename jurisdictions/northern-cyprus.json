@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "id": "northern-cyprus",
+  "name": "Northern Cyprus (Turkish Republic of Northern Cyprus / Kuzey Kıbrıs Türk Cumhuriyeti)",
+  "jurisdiction_code": "CY-NRT",
+  "legal_system": "mixed",
+  "language": ["tr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Northern Cyprus (Turkish Republic of Northern Cyprus, TRNC) is a Mediterranean partially-recognised mixed-legal-system republic — recognised only by Turkey. Following Turkish military intervention 1974 and unilateral declaration of independence 1983, TRNC operates parallel legal-system framework distinct from Republic of Cyprus. Family-law framework operates under the TRNC Family (Marriage and Divorce) Law 1/1998 drawing on Turkish civil-law substantive heritage with English common-law procedural inheritance via pre-1974 Cyprus framework. Parental authority and child custody are governed by Family Law Part V. The Supreme Court (Yüksek Mahkeme) is the apex court for civil and criminal matters; the Constitutional Court (Anayasa Mahkemesi) operates separate constitutional review. Family-law matters are heard at first instance in District Courts. Psychology profession is regulated through the TRNC Ministry of Health framework. Northern Cyprus is silent on 'parental alienation' as a statutory label. Northern Cyprus is not a Hague Convention 1980 party due to partial recognition. Internationally, the Republic of Cyprus' Hague accession is regarded as covering the whole island including TRNC-administered area, though enforcement in TRNC is limited.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "TRNC Family (Marriage and Divorce) Law 1/1998",
+      "title": "Family Law — Marriage, divorce, and parental authority",
+      "year": 1998,
+      "url": "https://www.mahkemeler.net/",
+      "relevance": "Federal Family Law drawing on Turkish civil-law substantive heritage with English common-law procedural inheritance. Part V governs parental authority and child custody."
+    },
+    {
+      "citation": "TRNC Constitution 1985",
+      "title": "TRNC Constitution",
+      "year": 1985,
+      "url": "https://www.mahkemeler.net/",
+      "relevance": "Constitution establishing TRNC institutional framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Yüksek Mahkeme)",
+      "seat": "North Nicosia",
+      "url": "https://www.mahkemeler.net/",
+      "role": "Apex court for civil and criminal matters within TRNC framework."
+    },
+    {
+      "name": "Constitutional Court (Anayasa Mahkemesi)",
+      "seat": "North Nicosia",
+      "url": "https://www.mahkemeler.net/",
+      "role": "Constitutional Court within TRNC framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "TRNC Ministry of Health",
+      "url": "https://www.saglik.gov.ct.tr/",
+      "role": "Federal regulator of health professionals within TRNC framework."
+    }
+  ],
+  "anonymisation_convention": "TRNC family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1974,
+      "title": "Turkish military intervention",
+      "description": "Turkish military intervention following Greek-Cypriot coup; division of Cyprus."
+    },
+    {
+      "year": 1983,
+      "title": "Unilateral declaration of independence",
+      "description": "TRNC unilaterally declared independence; recognised only by Turkey."
+    },
+    {
+      "year": 1985,
+      "title": "TRNC Constitution",
+      "description": "Constitution establishing TRNC institutional framework."
+    },
+    {
+      "year": 1998,
+      "title": "Family Law 1/1998",
+      "description": "TRNC Family Law enacted drawing on Turkish civil-law substantive heritage with English common-law procedural inheritance."
+    }
+  ],
+  "structural_findings": [
+    "Northern Cyprus operates a structurally distinctive mixed-legal-system framework — Turkish civil-law substantive (post-1974) + English common-law procedural inheritance (via pre-1974 Cyprus framework). Within the disputed-status cluster.",
+    "Recognition only by Turkey is structurally distinctive within the corpus — most narrowly-recognised jurisdiction in the corpus.",
+    "Parallel legal-system framework on same geographic island as Republic of Cyprus (EU member, ECHR, Hague Convention) creates structurally distinctive within-island legal-system bifurcation.",
+    "Hague Convention applicability is contested — Republic of Cyprus accession regarded internationally as covering whole island; TRNC enforcement limited."
+  ],
+  "references": [
+    "jurisdiction:cyprus",
+    "jurisdiction:turkey",
+    "jurisdiction:kosovo",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "TRNC Courts",
+      "url": "https://www.mahkemeler.net/",
+      "publisher": "TRNC Judiciary",
+      "language": "tr"
+    },
+    {
+      "title": "TRNC Ministry of Health",
+      "url": "https://www.saglik.gov.ct.tr/",
+      "publisher": "TRNC Ministry of Health",
+      "language": "tr"
+    }
+  ],
+  "editorial_notes": [
+    "Northern Cyprus jurisdiction sidecar — mixed-legal-system Mediterranean disputed-status (Turkish civil-law substantive + English common-law procedural + Family Law 1998 + non-Hague-due-to-recognition). Recognised only by Turkey.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Mediterranean + mixed-legal-system + most-narrowly-recognised-in-corpus + Turkish-English-hybrid + non-Hague-by-recognition clusters within the corpus."
+  ]
+}

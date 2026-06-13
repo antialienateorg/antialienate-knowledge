@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "eu-gdpr",
+  "name": "EU General Data Protection Regulation (GDPR 2016/679)",
+  "jurisdiction_code": "GDP",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "de", "es", "it", "nl", "pl", "sv", "fi", "da", "el", "pt", "hu", "cs", "sk", "sl", "et", "lv", "lt", "bg", "ro", "hr", "ga", "mt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The EU General Data Protection Regulation (GDPR / formally EU Regulation 2016/679 of 27 April 2016 on the Protection of Natural Persons with Regard to the Processing of Personal Data) is a European Union supranational meta-framework data-protection binding-regulation instrument adopted by the European Parliament + Council — structurally distinctive globally as the only modern supranational meta-framework operating EU bloc binding data-protection framework with formal extraterritorial-applicability framework (GDPR adopted 27 April 2016 + effective 25 May 2018 — formal EU bloc binding data-protection framework establishing comprehensive data-protection framework, distinct from rest-of-modern-international-data-protection frameworks which operate as national-level frameworks, structurally distinctive globally as the only modern supranational meta-framework operating EU bloc binding data-protection framework with formal extraterritorial-applicability framework under Article 3 Territorial Scope applicable to non-EU-bloc-data-controllers processing EU-data-subjects' personal data), as the central jurisdiction of the formal Article 8 children-consent framework (GDPR Article 8 framework providing 'the processing of personal data of a child shall be lawful where the child is at least 16 years old. Where the child is below the age of 16 years, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child' — formal foundational children-consent framework with formal-parental-responsibility-consent framework, structurally distinctive globally as the only modern supranational meta-framework operating formal children-consent framework with parental-responsibility-consent framework, with substantial relevance to PA framework via formal cross-border-data-processing-of-children-of-divorced-parents framework + formal disputes-between-parents-over-children-consent framework), as the central jurisdiction of the formal Article 6 lawful-basis-for-processing framework (GDPR Article 6 framework providing 6 lawful bases for processing including consent + contract + legal obligation + vital interests + public task + legitimate interests — formal foundational lawful-basis-for-processing framework, structurally distinctive globally as the only modern supranational meta-framework operating formal six-pillar-lawful-basis-for-processing framework), and as the central jurisdiction of the formal European Data Protection Board EDPB monitoring framework (EDPB established under GDPR Article 68 — formal EU bloc data-protection monitoring framework with formal binding-decision framework via Article 65 consistency mechanism, structurally distinctive globally as the only modern supranational meta-framework operating formal EU bloc data-protection monitoring framework with formal binding-decision framework). The GDPR is binding upon all 27 EU member states + 3 EEA member states (Iceland + Liechtenstein + Norway) + applicable to non-EU-bloc-data-controllers processing EU-data-subjects' personal data via Article 3 extraterritorial-applicability framework — universal de facto coverage framework via Article 3. The Regulation is silent on 'parental alienation' as a statutory label, though formal Article 8 children-consent + Article 6 lawful-basis-for-processing + Article 12-23 data-subject-rights frameworks operate substantial intersection with parental-alienation framework via formal cross-border-data-processing-of-children-of-divorced-parents framework + formal disputes-between-parents-over-children-consent framework. The European Data Protection Board EDPB is the apex monitoring framework body; the Court of Justice of the European Union CJEU is the apex judicial body framework; national-level Data Protection Authorities DPAs operate as administrative bodies. The GDPR is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "EU General Data Protection Regulation 2016/679",
+      "title": "EU GDPR",
+      "year": 2018,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU Regulation 2016/679 of 27 April 2016 on the Protection of Natural Persons with Regard to the Processing of Personal Data + effective 25 May 2018 — formal EU bloc binding data-protection framework establishing comprehensive data-protection framework."
+    },
+    {
+      "citation": "EU GDPR Article 8 (Children Consent Framework)",
+      "title": "EU GDPR Article 8",
+      "year": 2018,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU GDPR Article 8 framework on conditions applicable to child's consent in relation to information society services — formal foundational children-consent framework with formal-parental-responsibility-consent framework."
+    },
+    {
+      "citation": "EU GDPR Article 6 (Lawful Basis for Processing Framework)",
+      "title": "EU GDPR Article 6",
+      "year": 2018,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU GDPR Article 6 framework on lawfulness of processing — formal foundational six-pillar-lawful-basis-for-processing framework."
+    },
+    {
+      "citation": "EU GDPR Article 3 (Territorial Scope Framework)",
+      "title": "EU GDPR Article 3",
+      "year": 2018,
+      "url": "https://eur-lex.europa.eu/",
+      "relevance": "EU GDPR Article 3 framework on territorial scope — formal extraterritorial-applicability framework applicable to non-EU-bloc-data-controllers processing EU-data-subjects' personal data."
+    },
+    {
+      "citation": "European Data Protection Board EDPB Framework (GDPR Article 68)",
+      "title": "EDPB Framework",
+      "year": 2018,
+      "url": "https://www.edpb.europa.eu/",
+      "relevance": "European Data Protection Board EDPB established under GDPR Article 68 — formal EU bloc data-protection monitoring framework with formal binding-decision framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "European Data Protection Board (EDPB)",
+      "seat": "Brussels",
+      "url": "https://www.edpb.europa.eu/",
+      "role": "Apex monitoring framework body for GDPR."
+    },
+    {
+      "name": "Court of Justice of the European Union (CJEU)",
+      "seat": "Luxembourg",
+      "url": "https://curia.europa.eu/",
+      "role": "Apex judicial body framework for GDPR via formal preliminary reference framework."
+    },
+    {
+      "name": "National Data Protection Authorities (DPAs)",
+      "seat": "Various",
+      "url": "https://www.edpb.europa.eu/",
+      "role": "National-level Data Protection Authorities — formal GDPR enforcement framework operational bodies."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "European Data Protection Board (EDPB)",
+      "url": "https://www.edpb.europa.eu/",
+      "role": "GDPR implementation framework."
+    }
+  ],
+  "anonymisation_convention": "GDPR-related individual communications are anonymised per CJEU + EDPB + DPA practice using initials.",
+  "key_developments": [
+    {
+      "year": 1995,
+      "title": "EU Data Protection Directive 95/46/EC",
+      "description": "EU Data Protection Directive 95/46/EC adopted 24 October 1995 — predecessor framework to GDPR."
+    },
+    {
+      "year": 2016,
+      "title": "EU GDPR adopted",
+      "description": "EU Regulation 2016/679 of 27 April 2016 on the Protection of Natural Persons with Regard to the Processing of Personal Data — formal EU bloc binding data-protection framework."
+    },
+    {
+      "year": 2018,
+      "title": "EU GDPR enters force + EDPB established",
+      "description": "EU GDPR entered force 25 May 2018 + European Data Protection Board EDPB established under GDPR Article 68 — formal EU bloc binding data-protection framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "Schrems II + EU-US data transfers",
+      "description": "CJEU C-311/18 Data Protection Commissioner v Facebook Ireland and Maximillian Schrems Schrems II Judgment 16 July 2020 — landmark CJEU case-law framework on EU-US data transfers framework."
+    }
+  ],
+  "structural_findings": [
+    "EU GDPR operates a supranational EU bloc binding data-protection framework — places EU GDPR in the European Union supranational-meta-framework cluster.",
+    "Only modern supranational meta-framework operating EU bloc binding data-protection framework with formal extraterritorial-applicability framework is structurally distinctive globally — formal EU bloc binding data-protection framework with formal extraterritorial-applicability framework under Article 3 Territorial Scope applicable to non-EU-bloc-data-controllers processing EU-data-subjects' personal data.",
+    "Central jurisdiction of formal Article 8 children-consent framework is structurally distinctive globally — only modern supranational meta-framework operating formal children-consent framework with parental-responsibility-consent framework, with substantial relevance to PA framework via formal cross-border-data-processing-of-children-of-divorced-parents framework.",
+    "Central jurisdiction of formal Article 6 lawful-basis-for-processing framework is structurally distinctive globally — only modern supranational meta-framework operating formal six-pillar-lawful-basis-for-processing framework.",
+    "Central jurisdiction of formal European Data Protection Board EDPB monitoring framework is structurally distinctive globally — only modern supranational meta-framework operating formal EU bloc data-protection monitoring framework with formal binding-decision framework.",
+    "All 27 EU member state + 3 EEA member state binding framework + formal extraterritorial-applicability framework is structurally distinctive globally — universal de facto coverage framework via Article 3.",
+    "1995 EU Data Protection Directive + 2016 GDPR + 2018 entry into force + 2018 EDPB established + 2020 Schrems II EU-data-protection-framework-development sequence is structurally distinctive globally.",
+    "Article 8 children-consent + Article 6 lawful-basis-for-processing + Article 3 territorial scope formal triad framework with formal cross-border-data-processing-of-children-of-divorced-parents PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:european-union",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:eu-apex-sequence-2017-2025"
+  ],
+  "sources": [
+    {
+      "title": "European Union — EU GDPR",
+      "url": "https://eur-lex.europa.eu/",
+      "publisher": "European Union",
+      "language": "en"
+    },
+    {
+      "title": "European Data Protection Board (EDPB)",
+      "url": "https://www.edpb.europa.eu/",
+      "publisher": "EDPB",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "EU GDPR jurisdiction sidecar — supranational European Union EU bloc binding data-protection meta-framework (EU GDPR 2016/2018 + Article 8 Children Consent Framework + Article 6 Lawful Basis for Processing Framework + Article 3 Territorial Scope Framework + European Data Protection Board EDPB + Court of Justice of the European Union CJEU + National Data Protection Authorities DPAs + EU Data Protection Directive 95/46/EC predecessor + Schrems II 2020). Only modern supranational meta-framework operating EU bloc binding data-protection framework with formal extraterritorial-applicability framework globally + central jurisdiction of formal Article 8 children-consent framework + central jurisdiction of formal Article 6 lawful-basis-for-processing framework + central jurisdiction of formal European Data Protection Board EDPB monitoring framework + All 27 EU member state + 3 EEA member state binding framework + formal extraterritorial-applicability framework + 1995 EU Data Protection Directive + 2016 GDPR + 2018 entry into force + 2018 EDPB established + 2020 Schrems II EU-data-protection-framework-development sequence + Article 8 children-consent + Article 6 lawful-basis-for-processing + Article 3 territorial scope formal triad framework with formal cross-border-data-processing-of-children-of-divorced-parents PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article 8 children-consent + Article 6 lawful-basis-for-processing + Article 12-23 data-subject-rights frameworks operate substantial intersection with parental-alienation framework via formal cross-border-data-processing-of-children-of-divorced-parents framework + formal disputes-between-parents-over-children-consent framework.",
+    "Joins European-Union + supranational + EU-bloc-binding-data-protection cluster + EU-GDPR-only-modern-supranational-meta-framework-operating-EU-bloc-binding-data-protection-with-extraterritorial-applicability-globally-distinctive + Article-8-Children-Consent-Framework + Article-6-Lawful-Basis-for-Processing + Article-3-Territorial-Scope-extraterritorial + EDPB-Article-65-consistency-mechanism + CJEU-preliminary-reference + Schrems-II-2020 + 27-EU-3-EEA-30-state-binding + EU-Data-Protection-Directive-95-46-EC-predecessor + cross-border-data-processing-of-children-of-divorced-parents-PA-intersection clusters within the corpus."
+  ]
+}

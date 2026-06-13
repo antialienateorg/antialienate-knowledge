@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "turkmenistan",
+  "name": "Turkmenistan (Türkmenistan)",
+  "jurisdiction_code": "TM",
+  "legal_system": "civil-law",
+  "language": ["tk"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Turkmenistan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code of Turkmenistan 2012 (Maşgala kodeksi) — federal civil-code framework drawing on post-Soviet civil-law tradition with later codification revision. Parental rights and child custody are governed by Family Code arts. 71-99. The Supreme Court of Turkmenistan (Türkmenistanyň Ýokary Kazyýeti) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the District/City Courts. Psychology profession is regulated through the Ministry of Health and Medical Industry framework. Turkmenistan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 71. Turkmenistan is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code of Turkmenistan 2012 arts. 71-99",
+      "title": "Family Code — Parental rights and custody",
+      "year": 2012,
+      "url": "https://www.minjust.gov.tm/",
+      "relevance": "Federal Family Code enacted 2012 (replacing 1969 Soviet-era Code on Marriage and Family). Arts. 71-99 govern parental rights and child custody."
+    },
+    {
+      "citation": "Law on State Guarantees of the Rights of the Child 2014",
+      "title": "Law on State Guarantees of the Rights of the Child",
+      "year": 2014,
+      "url": "https://www.minjust.gov.tm/",
+      "relevance": "Federal children's rights statute aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Ýokary Kazyýet)",
+      "seat": "Ashgabat",
+      "url": "https://www.sup.gov.tm/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Medical Industry, Turkmenistan",
+      "url": "https://www.saglyk.gov.tm/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Turkmen family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 2012,
+      "title": "Family Code 2012",
+      "description": "Federal Family Code enacted replacing 1969 Soviet-era Code on Marriage and Family."
+    },
+    {
+      "year": 2014,
+      "title": "Law on State Guarantees of the Rights of the Child",
+      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+    }
+  ],
+  "structural_findings": [
+    "Turkmenistan operates a post-Soviet civil-law framework with 2012 Family Code codification — later codification than peer post-Soviet states (Russia 1995, Belarus 1999, Uzbekistan 1998, Kazakhstan 2011, Kyrgyzstan 2003). Completes Central Asian post-Soviet cluster within the corpus.",
+    "Non-Hague Convention status places Turkmenistan in the non-Hague Central Asian cluster alongside Tajikistan — structural distinction from Hague-acceding Kazakhstan, Uzbekistan, Kyrgyzstan.",
+    "Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Turkmenistan from MENA religious-law cluster despite Muslim-majority demography."
+  ],
+  "references": [
+    "jurisdiction:uzbekistan",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:tajikistan",
+    "jurisdiction:kyrgyzstan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Turkmenistan",
+      "url": "https://www.sup.gov.tm/",
+      "publisher": "Supreme Court",
+      "language": "tk,ru"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.minjust.gov.tm/",
+      "publisher": "Ministry of Justice",
+      "language": "tk,ru"
+    },
+    {
+      "title": "Ministry of Health and Medical Industry",
+      "url": "https://www.saglyk.gov.tm/",
+      "publisher": "Ministry of Health",
+      "language": "tk,ru"
+    }
+  ],
+  "editorial_notes": [
+    "Turkmenistan jurisdiction sidecar — civil-law post-Soviet Central Asia. Family Code 2012 + Law on State Guarantees of Rights of the Child 2014 + non-Hague Convention. Completes Central Asian post-Soviet cluster (KZ+UZ+KG+TJ+TM).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central Asian + civil-law + post-Soviet + non-Hague Convention clusters within the corpus."
+  ]
+}

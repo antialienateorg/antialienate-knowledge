@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0",
+  "id": "commonwealth-charter",
+  "name": "Commonwealth Charter 2013 (Charter of the Commonwealth)",
+  "jurisdiction_code": "CMW",
+  "legal_system": "supranational",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Charter of the Commonwealth (Commonwealth Charter) is a regional supranational meta-framework foundational-Commonwealth-document framework adopted by the Commonwealth Heads of Government Meeting and signed by Queen Elizabeth II — structurally distinctive globally as the only modern voluntary association supranational framework operating on post-British-Empire framework with formal 16 Commonwealth core values framework via Commonwealth Charter framework (Commonwealth Charter signed 11 March 2013 in London by Queen Elizabeth II + Commonwealth founded 1949 via London Declaration adopting modern voluntary-association framework — formal foundational Commonwealth Charter framework operating non-treaty soft-law framework establishing 16 Commonwealth core values framework, distinct from rest-of-modern-regional-treaty frameworks which operate as formal binding-treaty frameworks, structurally distinctive globally as the only modern voluntary-association supranational framework operating non-treaty soft-law framework + only post-British-Empire framework + only modern regional supranational framework granting Republics-monarchies-mixed-membership framework), as the central jurisdiction of the formal Commonwealth Charter 16 Core Values framework (Commonwealth Charter 16 Commonwealth core values framework: democracy + human rights + international peace and security + tolerance respect and understanding + freedom of expression + separation of powers + rule of law + good governance + sustainable development + protecting the environment + access to health education food and shelter + gender equality + importance of young people in the Commonwealth + recognition of the needs of small states + recognition of the needs of vulnerable states + the role of civil society — formal foundational Commonwealth core-values framework, structurally distinctive globally as the only modern voluntary-association supranational framework operating formal 16 Commonwealth core values framework), as the central jurisdiction of the formal Commonwealth Ministerial Action Group CMAG framework (Commonwealth Ministerial Action Group CMAG established 1995 at Auckland CHOGM providing formal Commonwealth membership-suspension framework over violation of Commonwealth core values — formal foundational Commonwealth membership-suspension framework, structurally distinctive globally as the only modern voluntary-association supranational framework operating formal membership-suspension framework with operational suspension framework via Nigeria 1995-1999 + Pakistan 1999-2004 + 2007-2008 + Zimbabwe 2002-2003 + Fiji 2009-2014), and as the central jurisdiction of the formal Commonwealth of Nations 1949 London Declaration framework (London Declaration adopted 28 April 1949 in London by the Commonwealth Prime Ministers' Conference providing formal abandonment of British Commonwealth framework + adoption of voluntary Commonwealth of Nations framework + acceptance of Republics-monarchies-mixed-membership framework — formal foundational modern Commonwealth voluntary-association framework, structurally distinctive globally as the only modern regional supranational framework operating formal post-British-Empire Republics-monarchies-mixed-membership framework). The Commonwealth Charter is operating upon 56 Commonwealth member states as of 2026 — comprehensive post-British-Empire coverage framework (Maldives rejoined 1 February 2020 after 2016 withdrawal + Gabon + Togo joined 2022 as first non-British-Empire members + Rwanda 2009 + Mozambique 1995 framework). The Charter is silent on 'parental alienation' as a statutory label, though formal Commonwealth Charter 16 core values framework operates substantial intersection with parental-alienation framework via formal cross-border-Commonwealth-children's-rights framework underlying Commonwealth common-law family-court tradition. The Commonwealth Heads of Government Meeting CHOGM + Commonwealth Secretariat + Commonwealth Secretary-General + Commonwealth Ministerial Action Group CMAG are the formal Commonwealth bodies; national-level apex courts operate as judicial bodies (Judicial Committee of the Privy Council JCPC as final court of appeal for 12 Commonwealth realms + states). The Commonwealth Charter is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Commonwealth Charter 2013",
+      "title": "Commonwealth Charter",
+      "year": 2013,
+      "url": "https://thecommonwealth.org/",
+      "relevance": "Charter of the Commonwealth signed 11 March 2013 in London by Queen Elizabeth II — formal foundational Commonwealth Charter framework operating non-treaty soft-law framework establishing 16 Commonwealth core values framework."
+    },
+    {
+      "citation": "1949 London Declaration",
+      "title": "London Declaration",
+      "year": 1949,
+      "url": "https://thecommonwealth.org/",
+      "relevance": "London Declaration adopted 28 April 1949 in London — formal foundational modern Commonwealth voluntary-association framework."
+    },
+    {
+      "citation": "1971 Singapore Declaration",
+      "title": "Singapore Declaration of Commonwealth Principles",
+      "year": 1971,
+      "url": "https://thecommonwealth.org/",
+      "relevance": "Singapore Declaration of Commonwealth Principles adopted 22 January 1971 by Commonwealth Prime Ministers' Conference in Singapore — first formal Commonwealth principles framework."
+    },
+    {
+      "citation": "1991 Harare Declaration",
+      "title": "Harare Commonwealth Declaration",
+      "year": 1991,
+      "url": "https://thecommonwealth.org/",
+      "relevance": "Harare Commonwealth Declaration adopted 20 October 1991 by Commonwealth Heads of Government Meeting in Harare Zimbabwe — formal Commonwealth-fundamental-political-values framework + precursor to Commonwealth Charter 16 core values framework."
+    },
+    {
+      "citation": "1995 Millbrook Commonwealth Action Programme",
+      "title": "Millbrook Commonwealth Action Programme",
+      "year": 1995,
+      "url": "https://thecommonwealth.org/",
+      "relevance": "Millbrook Commonwealth Action Programme adopted 12 November 1995 at Commonwealth Heads of Government Meeting in Auckland New Zealand establishing Commonwealth Ministerial Action Group CMAG — formal foundational Commonwealth membership-suspension framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Commonwealth Heads of Government Meeting (CHOGM)",
+      "seat": "London + biennial-rotating",
+      "url": "https://thecommonwealth.org/our-work/commonwealth-heads-government-meeting-chogm",
+      "role": "Formal supreme decision-making body for Commonwealth."
+    },
+    {
+      "name": "Commonwealth Secretariat",
+      "seat": "London (Marlborough House)",
+      "url": "https://thecommonwealth.org/",
+      "role": "Formal executive body for Commonwealth."
+    },
+    {
+      "name": "Commonwealth Secretary-General",
+      "seat": "London",
+      "url": "https://thecommonwealth.org/secretariat",
+      "role": "Formal administrative head body for Commonwealth."
+    },
+    {
+      "name": "Commonwealth Ministerial Action Group (CMAG)",
+      "seat": "London",
+      "url": "https://thecommonwealth.org/",
+      "role": "Formal Commonwealth membership-suspension framework body."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council (JCPC)",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final court of appeal for 12 Commonwealth realms + states framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Commonwealth Secretariat",
+      "url": "https://thecommonwealth.org/",
+      "role": "Commonwealth Charter implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Commonwealth-related communications operate via CHOGM + CMAG framework; individual communications not formally accepted under Commonwealth framework.",
+  "key_developments": [
+    {
+      "year": 1926,
+      "title": "Balfour Declaration",
+      "description": "Balfour Declaration adopted 19 November 1926 at Imperial Conference in London providing formal Commonwealth-of-Nations recognition framework — predecessor framework to modern Commonwealth Charter."
+    },
+    {
+      "year": 1931,
+      "title": "Statute of Westminster",
+      "description": "Statute of Westminster adopted 11 December 1931 in London providing formal Commonwealth-Dominions-independence framework — predecessor framework to modern Commonwealth Charter."
+    },
+    {
+      "year": 1949,
+      "title": "London Declaration",
+      "description": "London Declaration adopted 28 April 1949 in London providing formal abandonment of British Commonwealth framework + adoption of voluntary Commonwealth of Nations framework + acceptance of Republics-monarchies-mixed-membership framework — formal foundational modern Commonwealth voluntary-association framework."
+    },
+    {
+      "year": 1965,
+      "title": "Commonwealth Secretariat established",
+      "description": "Commonwealth Secretariat established 1 July 1965 at Marlborough House London — formal Commonwealth Secretariat framework operational."
+    },
+    {
+      "year": 1971,
+      "title": "Singapore Declaration of Commonwealth Principles",
+      "description": "Singapore Declaration of Commonwealth Principles adopted 22 January 1971 by Commonwealth Prime Ministers' Conference in Singapore — first formal Commonwealth principles framework."
+    },
+    {
+      "year": 1991,
+      "title": "Harare Declaration",
+      "description": "Harare Commonwealth Declaration adopted 20 October 1991 by Commonwealth Heads of Government Meeting in Harare Zimbabwe — formal Commonwealth-fundamental-political-values framework + precursor to Commonwealth Charter 16 core values framework."
+    },
+    {
+      "year": 1995,
+      "title": "CMAG established + Nigeria suspended",
+      "description": "Commonwealth Ministerial Action Group CMAG established 12 November 1995 at Auckland CHOGM + Nigeria suspended 1995-1999 + Mozambique joined 1995 as first non-British-Empire-link member — formal Commonwealth membership-suspension framework operational."
+    },
+    {
+      "year": 2009,
+      "title": "Rwanda joined Commonwealth",
+      "description": "Rwanda joined Commonwealth 29 November 2009 as second non-British-Empire-link member — formal Commonwealth expansion framework."
+    },
+    {
+      "year": 2013,
+      "title": "Commonwealth Charter signed",
+      "description": "Commonwealth Charter signed 11 March 2013 in London by Queen Elizabeth II — formal foundational Commonwealth Charter framework operational."
+    },
+    {
+      "year": 2020,
+      "title": "Maldives rejoined Commonwealth",
+      "description": "Maldives rejoined Commonwealth 1 February 2020 after 2016 withdrawal — formal Commonwealth re-membership framework."
+    },
+    {
+      "year": 2022,
+      "title": "Gabon + Togo joined Commonwealth",
+      "description": "Gabon + Togo joined Commonwealth 26 June 2022 at Kigali CHOGM as third + fourth non-British-Empire-link members + first French-speaking-only members — formal Commonwealth expansion framework."
+    }
+  ],
+  "structural_findings": [
+    "Commonwealth Charter operates a regional supranational non-treaty soft-law framework — places Commonwealth Charter in the regional supranational-meta-framework cluster.",
+    "Only modern voluntary association supranational framework operating on post-British-Empire framework with formal 16 Commonwealth core values framework via Commonwealth Charter framework is structurally distinctive globally — only modern voluntary-association supranational framework operating non-treaty soft-law framework + only post-British-Empire framework + only modern regional supranational framework granting Republics-monarchies-mixed-membership framework.",
+    "Central jurisdiction of formal Commonwealth Charter 16 Core Values framework is structurally distinctive globally — only modern voluntary-association supranational framework operating formal 16 Commonwealth core values framework.",
+    "Central jurisdiction of formal Commonwealth Ministerial Action Group CMAG framework is structurally distinctive globally — only modern voluntary-association supranational framework operating formal membership-suspension framework with operational suspension framework via Nigeria 1995-1999 + Pakistan 1999-2004 + 2007-2008 + Zimbabwe 2002-2003 + Fiji 2009-2014.",
+    "Central jurisdiction of formal Commonwealth of Nations 1949 London Declaration framework is structurally distinctive globally — only modern regional supranational framework operating formal post-British-Empire Republics-monarchies-mixed-membership framework.",
+    "56 Commonwealth member state framework with Maldives-rejoined-2020 + Gabon-Togo-joined-2022 framework is structurally distinctive globally — comprehensive post-British-Empire coverage framework.",
+    "1926 Balfour Declaration + 1931 Statute of Westminster + 1949 London Declaration + 1965 Commonwealth Secretariat + 1971 Singapore Declaration + 1991 Harare Declaration + 1995 CMAG established + 1995 Mozambique + 2009 Rwanda + 2013 Commonwealth Charter + 2020 Maldives rejoined + 2022 Gabon + Togo Commonwealth-framework-development sequence is structurally distinctive globally.",
+    "Commonwealth Charter 2013 + 1949 London Declaration + 1971 Singapore Declaration + 1991 Harare Declaration + 1995 Millbrook + JCPC formal sextet framework with formal Commonwealth common-law family-court tradition cross-border-Commonwealth-children's-rights PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:canada",
+    "jurisdiction:australia",
+    "jurisdiction:new-zealand",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "The Commonwealth",
+      "url": "https://thecommonwealth.org/",
+      "publisher": "The Commonwealth",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Commonwealth Charter jurisdiction sidecar — regional supranational post-British-Empire voluntary-association non-treaty soft-law meta-framework (Commonwealth Charter 2013 + 1949 London Declaration + 1971 Singapore Declaration + 1991 Harare Declaration + 1995 Millbrook CMAG + 16 Core Values + 1926 Balfour Declaration predecessor + 1931 Statute of Westminster + 1965 Commonwealth Secretariat + 2009 Rwanda + 2020 Maldives rejoined + 2022 Gabon + Togo). Only modern voluntary-association supranational framework operating on post-British-Empire framework globally + only modern voluntary-association supranational framework operating non-treaty soft-law framework + only modern regional supranational framework granting Republics-monarchies-mixed-membership framework + central jurisdiction of formal 16 Commonwealth core values framework + central jurisdiction of formal CMAG membership-suspension framework + 56 Commonwealth member states + 1926 Balfour + 1931 Statute of Westminster + 1949 London Declaration + 1965 Commonwealth Secretariat + 1971 Singapore Declaration + 1991 Harare Declaration + 1995 CMAG + Mozambique + 2009 Rwanda + 2013 Charter + 2020 Maldives rejoined + 2022 Gabon + Togo Commonwealth-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Commonwealth Charter 16 core values framework operates substantial intersection with parental-alienation framework via formal cross-border-Commonwealth-children's-rights framework underlying Commonwealth common-law family-court tradition + JCPC as final court of appeal for 12 Commonwealth realms + states framework.",
+    "Joins regional + supranational + post-British-Empire-voluntary-association-non-treaty-soft-law cluster + Commonwealth-Charter-only-modern-voluntary-association-supranational-non-treaty-soft-law-globally-distinctive + 16-Core-Values + CMAG-membership-suspension + 1949-London-Declaration-Republics-monarchies-mixed-membership + 1971-Singapore-Declaration + 1991-Harare-Declaration + 1995-Millbrook + 56-Commonwealth-member-states + 1926-Balfour-Declaration-predecessor + 1931-Statute-of-Westminster + 1995-Mozambique-first-non-British-Empire + 2009-Rwanda-second-non-British-Empire + 2022-Gabon-Togo-third-fourth-non-British-Empire-first-French-speaking-only + JCPC-12-Commonwealth-realms-final-court-of-appeal + Commonwealth-common-law-family-court-tradition-PA-intersection clusters within the corpus."
+  ]
+}

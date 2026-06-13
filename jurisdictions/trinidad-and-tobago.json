@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.0",
+  "id": "trinidad-and-tobago",
+  "name": "Trinidad and Tobago (Republic of Trinidad and Tobago)",
+  "jurisdiction_code": "TT",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Trinidad and Tobago is a Caribbean common-law republic whose family-law framework operates under the Children Act (Chap. 46:01, comprehensively revised by Act 12/2012), the Matrimonial Proceedings and Property Act (Chap. 45:51), the Family Law (Guardianship of Minors, Domicile and Maintenance) Act (Chap. 46:08), and the Family Law Act 2003. Parental responsibility and child custody are governed by Family Law Act Part III. The Court of Appeal of Trinidad and Tobago is the apex court for civil and criminal matters; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London for civil/criminal matters. Family-law matters are heard at first instance in the Family Court (established 2004) and High Court (Family Division). Psychology profession is regulated through the Council for Allied Health Practitioners under the Allied Health Professionals Act 2007. Trinidad and Tobago is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000 — earliest Caribbean accession in the corpus.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children Act Chap. 46:01 (as comprehensively revised by Act 12/2012)",
+      "title": "Children Act",
+      "year": 2012,
+      "url": "https://www.judiciary.gov.tt/",
+      "relevance": "Federal Children's Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Family Law (Guardianship of Minors, Domicile and Maintenance) Act Chap. 46:08",
+      "title": "Family Law (Guardianship of Minors, Domicile and Maintenance) Act",
+      "year": 1981,
+      "url": "https://www.judiciary.gov.tt/",
+      "relevance": "Federal statute on guardianship, domicile and maintenance."
+    },
+    {
+      "citation": "Family Law Act 2003",
+      "title": "Family Law Act",
+      "year": 2003,
+      "url": "https://www.judiciary.gov.tt/",
+      "relevance": "Federal Family Law Act establishing comprehensive family-law framework including Family Court."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Trinidad and Tobago",
+      "seat": "Port of Spain",
+      "url": "https://www.judiciary.gov.tt/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Trinidad and Tobago."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Council for Allied Health Practitioners, Trinidad and Tobago",
+      "url": "https://www.cahp.gov.tt/",
+      "role": "Federal regulator of allied health professionals including clinical psychology under Allied Health Professionals Act 2007."
+    }
+  ],
+  "anonymisation_convention": "Trinidadian family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1962,
+      "title": "Independence",
+      "description": "Trinidad and Tobago achieved independence from the United Kingdom; retained Judicial Committee of the Privy Council as final appellate court."
+    },
+    {
+      "year": 2000,
+      "title": "Hague Convention 1980 accession",
+      "description": "Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000 — earliest Caribbean accession."
+    },
+    {
+      "year": 2003,
+      "title": "Family Law Act 2003",
+      "description": "Federal Family Law Act enacted establishing comprehensive family-law framework including Family Court."
+    },
+    {
+      "year": 2004,
+      "title": "Family Court established",
+      "description": "Specialised Family Court established."
+    },
+    {
+      "year": 2007,
+      "title": "Allied Health Professionals Act",
+      "description": "Federal statute regulating allied health professionals including clinical psychology."
+    },
+    {
+      "year": 2012,
+      "title": "Children Act comprehensive revision (Act 12/2012)",
+      "description": "Comprehensive revision of Children Act codifying contemporary child-protection provisions."
+    }
+  ],
+  "structural_findings": [
+    "Trinidad and Tobago operates a common-law framework with specialised Family Court — places Trinidad and Tobago in the Caribbean common-law cluster with structured family-court infrastructure.",
+    "Hague Convention 1980 accession 2000 places Trinidad and Tobago as earliest Caribbean Hague accession within the corpus — structural distinctiveness.",
+    "Judicial Committee of the Privy Council retention as final appellate court is shared with Jamaica within the corpus Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:jamaica",
+    "jurisdiction:united-kingdom",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Trinidad and Tobago",
+      "url": "https://www.judiciary.gov.tt/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    },
+    {
+      "title": "Council for Allied Health Practitioners",
+      "url": "https://www.cahp.gov.tt/",
+      "publisher": "CAHP",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Trinidad and Tobago jurisdiction sidecar — common-law Caribbean (Children Act 2012 + Family Law Act 2003 + Family Court 2004 + JCPC final-appellate + Hague Convention 1980 accession 2000 earliest Caribbean).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Caribbean + common-law + JCPC-final-appellate + early-Hague Convention clusters within the corpus."
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "id": "colombia",
+  "name": "Colombia",
+  "jurisdiction_code": "CO",
+  "legal_system": "civil-law",
+  "language": ["es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Colombia carece de ley estatutaria que nombre el SAP/AP para reconocerlo (como Lei 12.318/2010 Brasil) o inadmitirlo (como Disp. ad. 17a LOPIVI España). El marco normativo de fondo es la Ley 1098 de 2006 (Código de la Infancia y la Adolescencia) bajo el principio del interés superior del niño. Los dos anclajes apex son COLPSIC Posición Gremial 16.11.2023 (pivote deliberado desde el Concepto Técnico 17.9.2017 recognition-leaning) y Corte Constitucional T-526/2023 (Sala Tercera, M.P. Diana Fajardo Rivera, 30.11.2023). Es la coalición institucional crítica más amplia de Latinoamérica — cinco autoridades estatales convergentes (COLPSIC + ICBF + MinSalud + Procuraduría General + Corte Constitucional) más sociedad civil (Sisma Mujer + Casa de la Mujer + Red Nacional de Mujeres + Volcánicas) y periodismo de investigación (Alexandra Correa).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "critique",
+    "professional_regulator_position": "position-statement-against"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitución Política de Colombia art. 44",
+      "title": "Constitución Política de Colombia art. 44 — derechos fundamentales de los niños",
+      "year": 1991,
+      "url": "https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf",
+      "relevance": "Derechos fundamentales de los niños con prevalencia sobre los derechos de los demás (art. 44 CP). Anclaje constitucional del interés superior del niño aplicado por la Corte Constitucional en T-526/2023 y predecesoras."
+    },
+    {
+      "citation": "Ley 1098 de 2006 — Código de la Infancia y la Adolescencia",
+      "title": "Código de la Infancia y la Adolescencia",
+      "year": 2006,
+      "url": "https://www.icbf.gov.co/cargues/avance/docs/ley_1098_2006.htm",
+      "relevance": "Marco normativo sustantivo colombiano de infancia y adolescencia. Principio del interés superior (art. 8), corresponsabilidad familiar (art. 10), Sistema Nacional de Bienestar Familiar (art. 205-211). Operacionaliza la prevalencia constitucional del art. 44 CP en derecho de familia y restablecimiento de derechos."
+    },
+    {
+      "citation": "Convención sobre los Derechos del Niño art. 3",
+      "title": "Convención CDN — interés superior del niño",
+      "year": 1989,
+      "url": "https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child",
+      "relevance": "Tratado ratificado por Colombia con incorporación al bloque de constitucionalidad (art. 93 CP). Estándar interamericano aplicado por la Corte Constitucional en su línea jurisprudencial de protección de NNA."
+    },
+    {
+      "citation": "Convención de Belém do Pará",
+      "title": "Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer",
+      "year": 1994,
+      "url": "https://www.oas.org/juridico/spanish/tratados/a-61.html",
+      "relevance": "Tratado interamericano que la Corte Constitucional invoca en T-526/2023 al construir el escrutinio de género del uso del SAP. Conecta la proscripción del constructo con el marco interamericano de violencia contra la mujer."
+    },
+    {
+      "citation": "Ley 21.430 de 2024",
+      "title": "Ley 21.430 — fortalecimiento de derechos de NNA (referencia)",
+      "year": 2024,
+      "url": "https://www.funcionpublica.gov.co/",
+      "relevance": "Actualización legislativa colombiana en derechos de NNA. Refuerza el marco bajo el cual la Corte Constitucional opera su línea jurisprudencial crítica del SAP."
+    },
+    {
+      "citation": "Decreto 2003 de 1949 (regulación del ejercicio de la psicología — precedente histórico)",
+      "title": "Marco histórico — Ley 1090 de 2006 (Código Deontológico y Bioético del Psicólogo)",
+      "year": 2006,
+      "url": "https://www.colpsic.org.co/",
+      "relevance": "Ley 1090 de 2006 reglamenta el ejercicio de la profesión de psicología y dicta el Código Deontológico. Cuerpo normativo bajo el cual COLPSIC opera como regulador deontológico voluntario; estructura la Posición Gremial 16.11.2023 que descalifica el SAP como categoría diagnóstica."
+    },
+    {
+      "citation": "Decreto 936 de 2013 (estructura ICBF) + Ley 7 de 1979",
+      "title": "Instituto Colombiano de Bienestar Familiar (ICBF) — autoridad administrativa de infancia",
+      "year": 1979,
+      "url": "https://www.icbf.gov.co/",
+      "relevance": "Ley 7 de 1979 crea el ICBF; Decreto 936/2013 actualiza su estructura. ICBF es la autoridad administrativa de protección de NNA y opera el sistema de restablecimiento de derechos. Emite Concepto Técnico citado expresamente por la Corte Constitucional en T-526/2023 como concepto técnico convergente."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Corte Constitucional de Colombia",
+      "url": "https://www.corteconstitucional.gov.co/",
+      "key_decisions": [
+        {
+          "caption": "Sentencia T-526/2023 — Sala Tercera de Revisión, M.P. Diana Fajardo Rivera, 30 noviembre 2023, expediente T-8.394.866. SENTENCIA APEX COLOMBIANA SOBRE SAP — proscribe el uso del SAP como instrumento diagnóstico en procesos administrativos y judiciales, citando conceptos técnicos convergentes de COLPSIC + ICBF + Procuraduría General + Ministerio de Salud. Declaró carencia actual de objeto por hecho superado pero realizó análisis sustantivo vinculante. Adopta perspectiva de género citando Informe A/HRC/53/36 Reem Alsalem (12.8.2022) y Declaración MESECVI-OEA 13.4.2023.",
+          "year": 2023,
+          "stance": "critique"
+        },
+        {
+          "caption": "Sentencia T-181/2023 — Sala Séptima de Revisión, M.P. Paola Andrea Meneses Mosquera, 29 mayo 2023. PRECEDENTE INMEDIATO de T-526/23: establece límites constitucionales al uso de AP como criterio en medidas de restablecimiento de derechos. Anticipa el viraje doctrinal estructural de 2023.",
+          "year": 2023,
+          "stance": "critique"
+        },
+        {
+          "caption": "Sentencia T-226/2024 — Sala de Revisión, ratifica la proscripción del SAP establecida en T-526/2023. Confirma la línea jurisprudencial consolidada post-viraje 2023.",
+          "year": 2024,
+          "stance": "critique"
+        },
+        {
+          "caption": "Línea jurisprudencial PRE-2023: T-115/2014, T-311/2017, T-033/2020, T-051/2022 — aceptaron o no cuestionaron el SAP en distintos grados. El viraje 2023 (T-181 + T-526) es estructural, no incremental.",
+          "year": 2022,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Corte Suprema de Justicia — Sala de Casación Civil y Sala de Casación Laboral",
+      "url": "https://cortesuprema.gov.co/",
+      "key_decisions": [
+        {
+          "caption": "Corte Suprema de Justicia — Sala de Casación Civil tiene competencia en casación de procesos civiles y de familia. No ha emitido sentencia apex específicamente sobre SAP; la doctrina apex sobre AP en Colombia corre por la vía constitucional (Corte Constitucional T-526/23) más que por casación civil.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Tribunales Superiores de Distrito Judicial — Salas de Familia",
+      "url": "https://www.ramajudicial.gov.co/",
+      "key_decisions": [
+        {
+          "caption": "Tribunales Superiores (Bogotá, Medellín, Cali, Barranquilla, etc.) son segunda instancia en derecho de familia. Primera instancia opera vía Jueces de Familia bajo la Ley 1098/2006 y Código Civil. Conflictos donde se invoca AP se litigan a este nivel con escrutinio bajo doctrina T-526/23.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Colegio Colombiano de Psicólogos (COLPSIC)",
+      "url": "https://www.colpsic.org.co/",
+      "position_statement": "Regulador deontológico voluntario de psicología en Colombia bajo la Ley 1090 de 2006. POSICIÓN GREMIAL 16.11.2023: 'COLPSIC no avala el concepto [de SAP] y no lo utiliza' como categoría diagnóstica y recomienda a los/as psicólogos/as evitar el uso del término 'alienación parental' como rótulo diagnóstico, describiendo en su lugar 'de la manera más completa y clara posible las dinámicas relacionales intrafamiliares'. PIVOTE DELIBERADO desde el Concepto Técnico 17.9.2017 (Unidad de Psicología Jurídica y Forense) que había sido leído como recognition-leaning. La distinción nominal entre 'SAP' (rechazada) y 'alienación parental' (fenómeno relacional describible) es expresamente reconocida por la Corte Constitucional en T-526/2023.",
+      "position_date": "2023-11-16"
+    },
+    {
+      "name": "Instituto Colombiano de Bienestar Familiar (ICBF)",
+      "url": "https://www.icbf.gov.co/",
+      "position_statement": "Autoridad administrativa de protección de NNA bajo la Ley 7/1979 + Decreto 936/2013. Emite Concepto Técnico expresamente citado por la Corte Constitucional en T-526/2023 como concepto técnico convergente con COLPSIC + Procuraduría + MinSalud. Componente clave de la coalición institucional crítica colombiana."
+    },
+    {
+      "name": "Ministerio de Salud y Protección Social",
+      "url": "https://www.minsalud.gov.co/",
+      "position_statement": "Regulador sanitario federal. Cita técnica convergente con COLPSIC + ICBF + Procuraduría en T-526/2023 como uno de los cinco anclajes institucionales convergentes que la Corte Constitucional invoca para descalificar el SAP como categoría diagnóstica."
+    },
+    {
+      "name": "Procuraduría General de la Nación — Procuraduría Delegada para la Defensa de los Derechos de la Infancia, la Adolescencia, la Familia y las Mujeres",
+      "url": "https://www.procuraduria.gov.co/",
+      "position_statement": "Ministerio Público con función disciplinaria y de defensa del orden jurídico. La Procuraduría Delegada para Infancia, Adolescencia, Familia y Mujeres emitió concepto técnico citado en T-526/2023 como concepto técnico convergente. Cuarto anclaje institucional de la coalición crítica."
+    },
+    {
+      "name": "Defensoría del Pueblo de Colombia",
+      "url": "https://www.defensoria.gov.co/",
+      "position_statement": "Órgano de control del Ministerio Público con función de promoción y protección de derechos humanos. Tiene voz institucional en materia de DDHH y NNA pero no emitió en T-526/23 concepto técnico independiente del grupo COLPSIC + ICBF + MinSalud + Procuraduría."
+    },
+    {
+      "name": "Sisma Mujer",
+      "url": "https://www.sismamujer.org/",
+      "position_statement": "Corporación feminista colombiana de DDHH y violencia contra la mujer. Petición ante la CIDH de 8.7.2024 documentando seis casos de mujeres víctimas del uso del SAP y la persecución contra la periodista Alexandra Correa. Anclaje principal sociedad civil de la coalición crítica colombiana."
+    },
+    {
+      "name": "Casa de la Mujer + Red Nacional de Mujeres + Volcánicas",
+      "url": "https://www.casmujer.com/",
+      "position_statement": "Organizaciones feministas colombianas. Casa de la Mujer (litigio en violencia de género), Red Nacional de Mujeres (red feminista nacional), Volcánicas (medio digital feminista — columnista Catalina Ruiz-Navarro en El Espectador). Componentes sociedad civil de la coalición crítica que respalda T-526/23."
+    }
+  ],
+  "anonymisation_convention": "Las sentencias de la Corte Constitucional en sede de tutela anonimizan a NNA mediante iniciales y a partes adultas vía iniciales o nombres ficticios. T-526/2023 sigue esta convención (expediente T-8.394.866). El uso de 'T-' antes del número denota sentencia de tutela (revisión); 'C-' denota sentencia de constitucionalidad. La Ley 1581 de 2012 de Protección de Datos Personales informa el tratamiento de datos en publicaciones jurisprudenciales. Los Tribunales Superiores y Jueces de Familia siguen prácticas similares en derecho de familia.",
+  "key_developments": [
+    {
+      "year": 1989,
+      "description": "Convención sobre los Derechos del Niño — ratificada por Colombia. Bloque de constitucionalidad art. 93 CP.",
+      "url": "https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child"
+    },
+    {
+      "year": 1991,
+      "description": "Constitución Política de Colombia — art. 44 derechos fundamentales de los niños con prevalencia.",
+      "url": "https://www.corteconstitucional.gov.co/inicio/Constitucion%20politica%20de%20Colombia.pdf"
+    },
+    {
+      "year": 2006,
+      "description": "Ley 1098 de 2006 — Código de la Infancia y la Adolescencia. Marco normativo sustantivo + Sistema Nacional de Bienestar Familiar.",
+      "url": "https://www.icbf.gov.co/cargues/avance/docs/ley_1098_2006.htm"
+    },
+    {
+      "year": 2006,
+      "description": "Ley 1090 de 2006 — Código Deontológico y Bioético del Psicólogo + COLPSIC como regulador deontológico voluntario.",
+      "url": "https://www.colpsic.org.co/"
+    },
+    {
+      "year": 2017,
+      "description": "17 septiembre 2017 — Concepto Técnico Unidad de Psicología Jurídica y Forense COLPSIC sobre SAP (recognition-leaning). Posición previa al pivote 2023.",
+      "url": "https://www.colpsic.org.co/"
+    },
+    {
+      "year": 2023,
+      "description": "29 mayo 2023 — Sentencia T-181/2023 (M.P. Paola Andrea Meneses Mosquera, Sala Séptima). Precedente inmediato de T-526/23.",
+      "url": "https://www.corteconstitucional.gov.co/"
+    },
+    {
+      "year": 2023,
+      "description": "16 noviembre 2023 — COLPSIC Posición Gremial: rechazo institucional explícito del SAP como categoría diagnóstica + pivote deliberado desde 2017.",
+      "url": "https://www.colpsic.org.co/"
+    },
+    {
+      "year": 2023,
+      "description": "30 noviembre 2023 — Sentencia T-526/2023 (M.P. Diana Fajardo Rivera, Sala Tercera, expediente T-8.394.866). SENTENCIA APEX COLOMBIANA — proscribe SAP como instrumento diagnóstico citando COLPSIC + ICBF + Procuraduría + MinSalud. Adopta perspectiva de género (Informe A/HRC/53/36 Alsalem + MESECVI-OEA).",
+      "url": "https://www.corteconstitucional.gov.co/"
+    },
+    {
+      "year": 2024,
+      "description": "Sentencia T-226/2024 — ratifica la proscripción del SAP. Línea jurisprudencial consolidada post-viraje 2023.",
+      "url": "https://www.corteconstitucional.gov.co/"
+    },
+    {
+      "year": 2024,
+      "description": "8 julio 2024 — Sisma Mujer presenta petición ante la CIDH documentando seis casos y la persecución a la periodista Alexandra Correa.",
+      "url": "https://www.sismamujer.org/"
+    },
+    {
+      "year": 2024,
+      "description": "Periodista Alexandra Correa — Premio Nacional de Periodismo López Michelsen 2024 por cobertura investigativa del uso del SAP en procesos de custodia.",
+      "url": "https://www.elespectador.com/"
+    }
+  ],
+  "structural_findings": [
+    "VIRAJE INSTITUCIONAL 2023 — COLPSIC POSICIÓN GREMIAL 16.11.2023: Pivote deliberado desde el Concepto Técnico 17.9.2017 recognition-leaning a posicionamiento explícito que descalifica el SAP como categoría diagnóstica. Tercer mayor anclaje institucional LATAM por colegio profesional (posterior al CFP brasileño NT 4/2022 y a FePRA argentina Pronunciamiento 14.12.2019). Distinción nominal SAP-rechazado / alienación-parental-fenómeno-relacional preservada y reconocida expresamente por la Corte Constitucional en T-526/23.",
+    "CORTE CONSTITUCIONAL T-526/2023 (Diana Fajardo Rivera, 30.11.2023) ES LA SENTENCIA APEX COLOMBIANA. Proscribe el uso del SAP como instrumento diagnóstico citando CINCO autoridades técnicas convergentes (COLPSIC + ICBF + Procuraduría General + Ministerio de Salud + análisis propio constitucional). Precedida por T-181/2023 (Meneses Mosquera, 29.5.2023) y seguida por T-226/2024 (consolidación).",
+    "COALICIÓN INSTITUCIONAL CRÍTICA MÁS AMPLIA DE LATINOAMÉRICA. Cinco autoridades estatales convergentes (COLPSIC regulador + ICBF autoridad administrativa de infancia + MinSalud regulador sanitario + Procuraduría General + Corte Constitucional apex) más sociedad civil (Sisma Mujer + Casa de la Mujer + Red Nacional de Mujeres + Volcánicas) y periodismo de investigación (Alexandra Correa Premio Nacional López Michelsen 2024). Coalición institucional sin paralelo en otra jurisdicción LATAM.",
+    "POSICIÓN INTERMEDIA DENTRO DEL POLO CRÍTICO: La distinción COLPSIC entre 'SAP' (rechazado nominalmente) y 'alienación parental' (fenómeno relacional describible) preservada y reconocida por la Corte Constitucional. Posición más matizada que Cassazione 9691/2022 (Italia, descalificación total del constructo) o BVerfG 1 BvR 1076/23 (Alemania 2023, SAP 'obsoleto y científicamente refutado').",
+    "PERSPECTIVA DE GÉNERO EN T-526/23: La Corte Constitucional construye el escrutinio del SAP desde marco interamericano e internacional de violencia contra la mujer — cita expresamente Informe A/HRC/53/36 de la Relatora Especial ONU Reem Alsalem (12.8.2022) y Declaración del MESECVI-OEA de 13.4.2023. Vincula la proscripción del SAP con el marco interamericano de derechos de la mujer (Convención de Belém do Pará).",
+    "AUSENCIA DE LEY ESTATUTARIA AP: Colombia NO TIENE ley estatutaria que nombre AP — ni para reconocer (como Lei 12.318/2010 Brasil) ni para inadmitir (como Disp. ad. 17a LOPIVI España). La proscripción opera vía jurisprudencia constitucional + posicionamiento gremial + concepto técnico administrativo. Estructura institucional distinta de los dos modelos legislativos opuestos en el corpus mundial.",
+    "POLO DE RECONOCIMIENTO ACADÉMICO DELGADO: La literatura colombiana pre-2023 mayoritariamente aceptaba el constructo sin desafiarlo (Tapias 2013 Diversitas, Balaguera 2018 Revista Iberoamericana de Psicología) pero ninguna obra constituye monografía-pivote del estilo Mizrahi 2023 (Argentina). Post-2023, la literatura colombiana es dominantemente crítica.",
+    "PERIODISMO DE INVESTIGACIÓN COMO COMPONENTE INSTITUCIONAL: La periodista Alexandra Correa (Premio Nacional López Michelsen 2024) es componente clave del anclaje crítico colombiano. Su cobertura investigativa del uso del SAP en procesos de custodia es documentada por Sisma Mujer en su petición ante la CIDH (8.7.2024). El periodismo investigativo opera como pieza institucional del entramado crítico junto con la academia, sociedad civil y autoridades estatales."
+  ],
+  "references": [
+    "case-study:sts-519-2017-spain",
+    "case-study:scjn-ai-11-2016-oaxaca-mexico",
+    "case-study:cassazione-13217-2021-italy",
+    "case-study:cassazione-9691-2022-italy",
+    "case-study:bverfg-1-bvr-1076-23-germany-2023",
+    "jurisdiction:spain",
+    "jurisdiction:brazil",
+    "jurisdiction:argentina",
+    "jurisdiction:mexico"
+  ],
+  "sources": [
+    {
+      "title": "Corte Constitucional de Colombia",
+      "url": "https://www.corteconstitucional.gov.co/",
+      "publisher": "Corte Constitucional de Colombia",
+      "language": "es"
+    },
+    {
+      "title": "Colegio Colombiano de Psicólogos (COLPSIC)",
+      "url": "https://www.colpsic.org.co/",
+      "publisher": "COLPSIC",
+      "language": "es"
+    },
+    {
+      "title": "Instituto Colombiano de Bienestar Familiar (ICBF)",
+      "url": "https://www.icbf.gov.co/",
+      "publisher": "ICBF",
+      "language": "es"
+    },
+    {
+      "title": "Ministerio de Salud y Protección Social",
+      "url": "https://www.minsalud.gov.co/",
+      "publisher": "Gobierno de Colombia",
+      "language": "es"
+    },
+    {
+      "title": "Procuraduría General de la Nación",
+      "url": "https://www.procuraduria.gov.co/",
+      "publisher": "Procuraduría General de la Nación",
+      "language": "es"
+    },
+    {
+      "title": "Sisma Mujer",
+      "url": "https://www.sismamujer.org/",
+      "publisher": "Sisma Mujer",
+      "language": "es"
+    },
+    {
+      "title": "Casa de la Mujer",
+      "url": "https://www.casmujer.com/",
+      "publisher": "Casa de la Mujer",
+      "language": "es"
+    },
+    {
+      "title": "Defensoría del Pueblo de Colombia",
+      "url": "https://www.defensoria.gov.co/",
+      "publisher": "Defensoría del Pueblo",
+      "language": "es"
+    },
+    {
+      "title": "Rama Judicial — Tribunales Superiores",
+      "url": "https://www.ramajudicial.gov.co/",
+      "publisher": "Consejo Superior de la Judicatura",
+      "language": "es"
+    }
+  ],
+  "editorial_notes": [
+    "Orden de fuente primaria: Corte Constitucional para sentencias apex (T-526/23 + T-181/23 + T-226/24); COLPSIC para Posición Gremial 16.11.2023; ICBF + MinSalud + Procuraduría para conceptos técnicos convergentes; Sisma Mujer + sociedad civil para anclaje crítico-civil.",
+    "Terminología colombiana preservada: 'NNA' (Niños, Niñas y Adolescentes); 'restablecimiento de derechos' (procedimiento administrativo bajo Ley 1098/06); 'sentencia de tutela' vs 'sentencia de constitucionalidad'; 'concepto técnico'.",
+    "Pivote COLPSIC 2017→2023 (recognition-leaning → critique) explícitamente trazado en structural_findings[0] como pivote deliberado.",
+    "Coalición institucional crítica más amplia LATAM (5 autoridades convergentes + sociedad civil + periodismo investigativo) reconocida en structural_findings[2] como signatura estructural colombiana.",
+    "Perspectiva de género T-526/23 vinculada a Informe A/HRC/53/36 Alsalem + Declaración MESECVI-OEA preservada en structural_findings[4]; conecta con marco interamericano Belém do Pará.",
+    "Ausencia de ley estatutaria AP en Colombia explícitamente contrastada con Brasil (Lei 12.318/2010 reconocimiento) y España (LOPIVI 2021 inadmisión nominal) en structural_findings[5]."
+  ]
+}

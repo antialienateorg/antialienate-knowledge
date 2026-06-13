@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "id": "efta-convention",
+  "name": "EFTA Convention 1960 (European Free Trade Association) + EEA Agreement 1992",
+  "jurisdiction_code": "EFT",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "de", "no", "is"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The Convention establishing the European Free Trade Association (EFTA Convention) is a regional supranational meta-framework EFTA-EEA framework adopted by the 7 founding non-EEC European states in Stockholm — structurally distinctive globally as the only modern European-non-EU regional supranational binding-treaty framework operating on formal EFTA-non-EU framework + only modern European framework formally connected to EU Single Market via EEA Agreement framework (EFTA Convention signed 4 January 1960 in Stockholm Sweden + effective 3 May 1960 by Austria + Denmark + Norway + Portugal + Sweden + Switzerland + UK as 'Outer Seven' alternative framework to EEC 'Inner Six' framework + EEA Agreement Agreement on the European Economic Area signed 2 May 1992 in Porto Portugal + effective 1 January 1994 — formal foundational EFTA + EEA treaty framework establishing comprehensive EFTA + EEA framework, distinct from rest-of-modern-regional-treaty frameworks which operate as EU-replacement frameworks, structurally distinctive globally as the only modern European-non-EU regional supranational binding-treaty framework + only modern European framework formally connected to EU Single Market via EEA Agreement framework + formed in 1960 as Outer Seven alternative framework to 1957 EEC Inner Six framework + EFTA-Court framework + EFTA-Surveillance-Authority framework), as the central jurisdiction of the formal EEA Agreement framework (Agreement on the European Economic Area EEA signed 2 May 1992 in Porto Portugal + effective 1 January 1994 between EU + Iceland + Liechtenstein + Norway providing formal EFTA-EU Single-Market access framework with formal four-freedoms framework: free movement of goods + persons + services + capital — formal foundational EEA framework, structurally distinctive globally as the only modern European framework formally connecting non-EU states to EU Single Market via EEA Agreement framework), as the central jurisdiction of the formal EFTA Court framework (EFTA Court established 1994 in Luxembourg providing formal EFTA-EEA judicial framework following CJEU jurisprudence framework via Article 6 EEA Agreement homogeneity framework — formal foundational EFTA-EEA judicial framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal CJEU-jurisprudence-following framework via homogeneity-principle framework), and as the central jurisdiction of the formal EFTA Massive Membership Reduction framework (EFTA founded 1960 with 7 founding members + UK + Denmark left 1973 to join EEC + Portugal left 1986 to join EEC + Austria + Sweden + Finland left 1995 to join EU + Liechtenstein joined 1991 + reducing EFTA from 7 founding to 4 current members Iceland + Liechtenstein + Norway + Switzerland framework — formal foundational EFTA massive-membership-reduction framework, structurally distinctive globally as the only modern regional supranational binding-treaty framework operating formal massive-membership-reduction-via-defection-to-larger-bloc framework). The EFTA Convention is binding upon 4 EFTA member states as of 2026 + 3 of these 4 also EEA member states (all except Switzerland which rejected EEA 6 December 1992 referendum framework) — Iceland + Liechtenstein + Norway + Switzerland — substantial European-non-EU coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal EFTA Court + EEA Agreement free-movement-of-persons frameworks operate substantial intersection with parental-alienation framework via formal EFTA-EEA-EU cross-border-family-law framework. The EFTA Council + EFTA Secretariat + EFTA Court + EFTA Surveillance Authority + EEA Council + EEA Joint Committee are the formal EFTA + EEA bodies; national-level apex courts operate as judicial bodies. The EFTA Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "EFTA Convention 1960",
+      "title": "EFTA Convention (Stockholm Convention)",
+      "year": 1960,
+      "url": "https://www.efta.int/",
+      "relevance": "Convention establishing the European Free Trade Association signed 4 January 1960 in Stockholm Sweden + effective 3 May 1960 — formal foundational EFTA treaty framework establishing comprehensive EFTA organisation framework."
+    },
+    {
+      "citation": "Vaduz Convention 2001 (Revised EFTA Convention)",
+      "title": "Vaduz Convention",
+      "year": 2002,
+      "url": "https://www.efta.int/",
+      "relevance": "Vaduz Convention adopted 21 June 2001 + effective 1 June 2002 — formal foundational revised EFTA Convention framework expanding EFTA framework beyond goods to services + capital + persons + intellectual property + government procurement framework."
+    },
+    {
+      "citation": "EEA Agreement 1992",
+      "title": "EEA Agreement",
+      "year": 1994,
+      "url": "https://www.efta.int/eea",
+      "relevance": "Agreement on the European Economic Area signed 2 May 1992 in Porto Portugal + effective 1 January 1994 — formal foundational EEA framework between EU + Iceland + Liechtenstein + Norway providing formal four-freedoms framework: free movement of goods + persons + services + capital."
+    },
+    {
+      "citation": "EFTA Court Statute 1992",
+      "title": "EFTA Court Statute",
+      "year": 1994,
+      "url": "https://www.eftacourt.int/",
+      "relevance": "EFTA Court established 1992 + operational 1994 in Luxembourg — formal foundational EFTA-EEA judicial framework."
+    },
+    {
+      "citation": "EFTA Surveillance Authority Agreement 1992",
+      "title": "EFTA Surveillance Authority Agreement",
+      "year": 1994,
+      "url": "https://www.eftasurv.int/",
+      "relevance": "Agreement between the EFTA States on the Establishment of a Surveillance Authority and a Court of Justice signed 2 May 1992 + effective 1 January 1994 establishing EFTA Surveillance Authority ESA in Brussels — formal foundational EFTA-EEA-monitoring framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "EFTA Council",
+      "seat": "Geneva",
+      "url": "https://www.efta.int/",
+      "role": "Formal supreme decision-making body for EFTA."
+    },
+    {
+      "name": "EFTA Secretariat",
+      "seat": "Geneva + Brussels",
+      "url": "https://www.efta.int/",
+      "role": "Formal administrative body for EFTA."
+    },
+    {
+      "name": "EFTA Court",
+      "seat": "Luxembourg",
+      "url": "https://www.eftacourt.int/",
+      "role": "Apex judicial body for EFTA-EEA framework following CJEU jurisprudence framework via Article 6 EEA Agreement homogeneity framework."
+    },
+    {
+      "name": "EFTA Surveillance Authority (ESA)",
+      "seat": "Brussels",
+      "url": "https://www.eftasurv.int/",
+      "role": "Formal EFTA-EEA-monitoring framework body."
+    },
+    {
+      "name": "EEA Joint Committee",
+      "seat": "Brussels",
+      "url": "https://www.efta.int/eea",
+      "role": "Formal EEA Agreement implementation framework body."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "EFTA Secretariat",
+      "url": "https://www.efta.int/",
+      "role": "EFTA Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "EFTA-related communications via EFTA Court framework operate formal anonymisation convention per EFTA Court Rules of Procedure following CJEU practice.",
+  "key_developments": [
+    {
+      "year": 1957,
+      "title": "Treaty of Rome establishes EEC Inner Six",
+      "description": "Treaty of Rome signed 25 March 1957 establishing European Economic Community EEC Inner Six framework — predecessor framework triggering EFTA Outer Seven alternative framework."
+    },
+    {
+      "year": 1960,
+      "title": "EFTA Convention adopted",
+      "description": "Convention establishing the European Free Trade Association signed 4 January 1960 in Stockholm Sweden + effective 3 May 1960 — formal foundational EFTA Outer Seven alternative framework adopted."
+    },
+    {
+      "year": 1973,
+      "title": "UK + Denmark leave EFTA to join EEC",
+      "description": "UK + Denmark left EFTA 1 January 1973 to join EEC — formal first EFTA departures framework."
+    },
+    {
+      "year": 1986,
+      "title": "Portugal leaves EFTA to join EEC",
+      "description": "Portugal left EFTA 1 January 1986 to join EEC — formal second EFTA departure framework."
+    },
+    {
+      "year": 1991,
+      "title": "Liechtenstein joins EFTA",
+      "description": "Liechtenstein joined EFTA 1 September 1991 — formal EFTA expansion framework."
+    },
+    {
+      "year": 1992,
+      "title": "EEA Agreement signed + Swiss EEA referendum rejection",
+      "description": "Agreement on the European Economic Area signed 2 May 1992 in Porto Portugal + Swiss referendum 6 December 1992 rejected EEA membership — formal EEA framework adopted + Switzerland-not-EEA-member framework operational."
+    },
+    {
+      "year": 1994,
+      "title": "EEA Agreement enters force + EFTA Court operational",
+      "description": "EEA Agreement entered force 1 January 1994 + EFTA Court operational 1994 in Luxembourg + EFTA Surveillance Authority ESA operational 1994 in Brussels — formal EEA + EFTA-Court + ESA frameworks operational."
+    },
+    {
+      "year": 1995,
+      "title": "Austria + Sweden + Finland leave EFTA to join EU",
+      "description": "Austria + Sweden + Finland left EFTA 1 January 1995 to join EU — formal third EFTA departures framework reducing EFTA from 7 founding to 4 current members."
+    },
+    {
+      "year": 2001,
+      "title": "Vaduz Convention",
+      "description": "Vaduz Convention adopted 21 June 2001 — formal foundational revised EFTA Convention framework."
+    }
+  ],
+  "structural_findings": [
+    "EFTA Convention operates a regional supranational binding-treaty framework — places EFTA Convention in the regional supranational-meta-framework cluster.",
+    "Only modern European-non-EU regional supranational binding-treaty framework operating on formal EFTA-non-EU framework is structurally distinctive globally — only modern European framework formally connected to EU Single Market via EEA Agreement framework + formed in 1960 as Outer Seven alternative framework to 1957 EEC Inner Six framework.",
+    "Central jurisdiction of formal EEA Agreement framework is structurally distinctive globally — only modern European framework formally connecting non-EU states to EU Single Market via EEA Agreement framework with formal four-freedoms framework.",
+    "Central jurisdiction of formal EFTA Court framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal CJEU-jurisprudence-following framework via homogeneity-principle framework.",
+    "Central jurisdiction of formal EFTA Massive Membership Reduction framework is structurally distinctive globally — only modern regional supranational binding-treaty framework operating formal massive-membership-reduction-via-defection-to-larger-bloc framework reducing from 7 founding to 4 current.",
+    "4 EFTA member state + 3 of these 4 also EEA member state ratification framework is structurally distinctive globally — substantial European-non-EU coverage framework.",
+    "1957 Treaty of Rome + 1960 EFTA Convention + 1973 UK + Denmark leave + 1986 Portugal leaves + 1991 Liechtenstein joins + 1992 EEA Agreement + Swiss EEA referendum rejection + 1994 EEA + EFTA Court + ESA operational + 1995 Austria + Sweden + Finland leave + 2001 Vaduz Convention EFTA-framework-development sequence is structurally distinctive globally.",
+    "EFTA Convention + Vaduz Convention + EEA Agreement + EFTA Court Statute + ESA Agreement formal quintet framework with formal EFTA-EEA-EU cross-border-family-law PA-intersection framework via EFTA Court + EEA Agreement free-movement-of-persons frameworks is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:european-union",
+    "jurisdiction:norway",
+    "jurisdiction:switzerland",
+    "jurisdiction:iceland",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "EFTA",
+      "url": "https://www.efta.int/",
+      "publisher": "EFTA Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "EFTA Convention jurisdiction sidecar — regional supranational European-non-EU EFTA-EEA meta-framework (EFTA Convention 1960 + Vaduz Convention 2001/2002 + EEA Agreement 1992/1994 + EFTA Court 1994 + EFTA Surveillance Authority 1994 + 1957 Treaty of Rome predecessor + 1973 UK + Denmark depart + 1986 Portugal depart + 1991 Liechtenstein joins + 1992 Swiss EEA referendum rejection + 1995 Austria + Sweden + Finland depart). Only modern European-non-EU regional supranational binding-treaty framework globally + only modern European framework formally connected to EU Single Market via EEA Agreement framework + central jurisdiction of formal EEA Agreement framework with four-freedoms + central jurisdiction of formal EFTA Court CJEU-jurisprudence-following framework via homogeneity-principle + central jurisdiction of formal EFTA Massive Membership Reduction framework + 4 EFTA member states (Iceland + Liechtenstein + Norway + Switzerland) + 3 also EEA member states except Switzerland + 1957 EEC Inner Six + 1960 EFTA Outer Seven + 1973 UK + Denmark depart + 1986 Portugal depart + 1991 Liechtenstein joins + 1992 EEA Agreement + Swiss rejection + 1994 EEA + EFTA Court + ESA operational + 1995 Austria + Sweden + Finland depart + 2001 Vaduz Convention EFTA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: EFTA Court + EEA Agreement free-movement-of-persons frameworks operate substantial intersection with parental-alienation framework via formal EFTA-EEA-EU cross-border-family-law framework.",
+    "Joins regional + supranational + European-non-EU-EFTA-EEA cluster + EFTA-Convention-only-European-non-EU-regional-supranational-binding-treaty-globally-distinctive + EEA-Agreement-only-non-EU-states-to-EU-Single-Market-connection + EFTA-Court-Luxembourg-CJEU-jurisprudence-following-homogeneity-principle + EFTA-Surveillance-Authority-Brussels + 4-EFTA-member-states-Iceland-Liechtenstein-Norway-Switzerland + 3-EEA-member-states-Iceland-Liechtenstein-Norway-Switzerland-rejected-1992-referendum + 1957-EEC-Inner-Six-predecessor + 1960-EFTA-Outer-Seven + 1973-UK-Denmark-depart + 1986-Portugal-depart + 1991-Liechtenstein-joins + 1995-Austria-Sweden-Finland-depart + 2001-Vaduz-Convention + EFTA-massive-membership-reduction-via-defection-to-EU + four-freedoms-goods-persons-services-capital + EFTA-EEA-EU-cross-border-family-law-PA-intersection clusters within the corpus."
+  ]
+}

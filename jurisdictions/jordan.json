@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0",
+  "id": "jordan",
+  "name": "Jordan (Hashemite Kingdom of Jordan / المملكة الأردنية الهاشمية)",
+  "jurisdiction_code": "JO",
+  "legal_system": "mixed",
+  "language": ["ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Jordan is a MENA mixed-legal-system constitutional monarchy combining French civil-law substantive heritage (via Egyptian Civil Code transplant) with Hanafi-school Islamic-law personal-status jurisdiction operating through dedicated Sharia Courts for Muslim parties and ecclesiastical courts for Christian communities. Family-law framework operates under the Personal Status Law 36/2010 (Qanun al-Ahwal al-Shakhsiyya, replacing 1976 Personal Status Law) governing marriage, custody (hadana) and guardianship (wilaya) for Muslims at arts. 170-193, and the Council of Church Heads Law for Christian communities. The Court of Cassation (محكمة التمييز) is the apex court for civil and criminal matters; the Constitutional Court (المحكمة الدستورية, established 2012) operates constitutional review. The Sharia Court of Cassation (محكمة الاستئناف الشرعية) is apex over Muslim personal-status matters. Psychology profession is regulated under the Jordanian Psychological Association framework with Ministry of Health licensing. Jordan is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard codified in Personal Status Law art. 170. Jordan is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Personal Status Law 36/2010 arts. 170-193",
+      "title": "Personal Status Law — Custody and guardianship",
+      "year": 2010,
+      "url": "https://www.moj.gov.jo/",
+      "relevance": "Federal Personal Status Law drawing primarily on Hanafi jurisprudence with codified modernisation reforms replacing 1976 Personal Status Law. Arts. 170-193 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Civil Code 43/1976",
+      "title": "Civil Code",
+      "year": 1976,
+      "url": "https://www.moj.gov.jo/",
+      "relevance": "Federal Civil Code drawing on French civil-law substantive heritage via Egyptian Civil Code transplant."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (محكمة التمييز)",
+      "seat": "Amman",
+      "url": "https://www.jc.jo/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Sharia Court of Cassation (محكمة الاستئناف الشرعية)",
+      "seat": "Amman",
+      "url": "https://www.shc.gov.jo/",
+      "role": "Apex Sharia jurisdiction over Muslim personal-status matters."
+    },
+    {
+      "name": "Constitutional Court (المحكمة الدستورية)",
+      "seat": "Amman",
+      "url": "https://www.cco.gov.jo/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review (established 2012)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Jordanian Psychological Association",
+      "url": "https://www.jpa.org.jo/",
+      "role": "Peak professional association for psychologists in Jordan operating under Ministry of Health licensing framework."
+    }
+  ],
+  "anonymisation_convention": "Jordanian family-court decisions are anonymised per Court of Cassation and Sharia Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 1976,
+      "title": "Civil Code and Personal Status Law 1976",
+      "description": "Federal Civil Code (Egyptian-influenced) and Personal Status Law enacted."
+    },
+    {
+      "year": 2010,
+      "title": "Personal Status Law 36/2010",
+      "description": "Federal Personal Status Law enacted replacing 1976 statute with codified modernisation reforms."
+    },
+    {
+      "year": 2012,
+      "title": "Constitutional Court established",
+      "description": "Constitutional Court established with original jurisdiction over constitutional review."
+    }
+  ],
+  "structural_findings": [
+    "Jordan operates a structurally distinctive mixed-legal-system framework — French civil-law substantive (via Egyptian Civil Code transplant) + Hanafi Islamic-law personal-status (via Sharia Courts) + ecclesiastical-court framework for Christian communities. Within the MENA mixed-legal-system cluster.",
+    "Sharia Court of Cassation apex jurisdiction over Muslim personal-status matters is structurally distinctive — separate apex track parallel to civil Court of Cassation.",
+    "Non-Hague Convention status places Jordan in the non-Hague MENA cluster."
+  ],
+  "references": [
+    "jurisdiction:egypt",
+    "jurisdiction:saudi-arabia",
+    "jurisdiction:lebanon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Council of Jordan",
+      "url": "https://www.jc.jo/",
+      "publisher": "Judicial Council",
+      "language": "ar,en"
+    },
+    {
+      "title": "Sharia Court of Cassation",
+      "url": "https://www.shc.gov.jo/",
+      "publisher": "Sharia Court of Cassation",
+      "language": "ar"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.cco.gov.jo/",
+      "publisher": "Constitutional Court",
+      "language": "ar,en"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.moj.gov.jo/",
+      "publisher": "Ministry of Justice",
+      "language": "ar,en"
+    }
+  ],
+  "editorial_notes": [
+    "Jordan jurisdiction sidecar — mixed-legal-system MENA (French civil-law substantive via Egyptian transplant + Hanafi Islamic-law personal-status via Sharia Courts + Christian ecclesiastical courts). Personal Status Law 36/2010 + Civil Code 43/1976 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins MENA + mixed-legal-system + dual-apex-Sharia-civil + non-Hague Convention clusters within the corpus."
+  ]
+}

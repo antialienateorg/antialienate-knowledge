@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "id": "graubunden",
+  "name": "Graubünden / Grisons / Grigioni / Grischun (Three Leagues)",
+  "jurisdiction_code": "CH-GR",
+  "legal_system": "civil-law",
+  "language": ["de", "it", "rm"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Graubünden (German: Graubünden / French: Grisons / Italian: Grigioni / Romansh: Grischun) is an Eastern Swiss civil-law constituent canton of the Swiss Confederation — structurally distinctive globally as the only modern jurisdiction formally operating Romansh language in formal-administrative usage (Romansh recognised as official cantonal language alongside German + Italian via Cantonal Constitution 2003 Article 3, with Romansh recognised as Swiss Federal national language under Federal Constitution 1996 Article 4 + Federal Languages Act 2007 — Graubünden is the only modern jurisdiction globally where Romansh operates as official cantonal language, distinct from rest-of-Swiss-Confederation where Romansh has Federal-but-not-cantonal status), as the only trilingual Swiss canton (German ~74% + Romansh ~14% + Italian ~12% — distinct from rest-of-Swiss-cantons which operate monolingual or bilingual frameworks), as the largest Swiss canton by area (~7,105 km² — ~17% of Swiss land area, larger than any other Swiss canton including Bern + Valais), as the only modern Swiss canton with continuous pre-Confederation Three Leagues (Drei Bünde / Tres Lias) framework predating Swiss Confederation incorporation (Three Leagues 1395-1803 — Lega Caddea Grey League 1395 + Lega da la Chadè God's House League 1367 + Lega da las Dieschdretgiras Ten Jurisdictions League 1436, formally pre-Swiss-Confederation independent confederation framework, only joined Swiss Confederation via Napoleonic Act of Mediation 19 February 1803 — distinct from rest-of-Swiss-Confederation framework where most cantons joined 1291-1513), and as the central jurisdiction of pre-Confederation Rhaeto-Romanic continuous historical-cultural-political-linguistic framework (Romansh language descended from Vulgar Latin Rhaeto-Romanic Roman framework continuous since 15 BCE Roman conquest of Raetia — only modern Western European language with continuous Vulgar Latin lineage outside Romance-language-mainstream). Graubünden was historically the central Roman Raetia + the Three Leagues 1395-1803 + Napoleonic Helvetic Republic 1798-1803 + Swiss Confederation incorporation 19 February 1803 framework. Graubünden comprises ~7,105 km² with a population of ~200,000. Family-law framework operates under the federal Swiss civil-law framework (Swiss Civil Code 1907 + Swiss Civil Procedure Code 2008 + Swiss Same-Sex Marriage Reform 2022) applied uniformly across Swiss cantons. The Cantonal Court of Graubünden is the apex regional court; final appellate jurisdiction lies with the Swiss Federal Supreme Court. Graubünden is silent on 'parental alienation' as a statutory label. Switzerland is a Hague Convention 1980 signatory and party (acceded 11 October 1983 effective 1 January 1984) — Graubünden is governed by Swiss Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Cantonal Constitution of Graubünden 2003 (Article 3 — Romansh as official language)",
+      "title": "Cantonal Constitution of Graubünden 2003",
+      "year": 2003,
+      "url": "https://www.gr.ch/",
+      "relevance": "Cantonal Constitution of Graubünden of 14 September 2003 effective 1 January 2004 — formal recognition of Romansh as official cantonal language alongside German + Italian."
+    },
+    {
+      "citation": "Swiss Federal Constitution 1999 Article 4 (Romansh national language)",
+      "title": "Swiss Federal Constitution Article 4",
+      "year": 1999,
+      "url": "https://www.admin.ch/",
+      "relevance": "Swiss Federal Constitutional Article 4 recognising Romansh as national language of Switzerland — applicable to Graubünden."
+    },
+    {
+      "citation": "Swiss Federal Languages Act 2007",
+      "title": "Swiss Federal Languages Act",
+      "year": 2007,
+      "url": "https://www.admin.ch/",
+      "relevance": "Swiss Federal Languages Act of 5 October 2007 — federal language framework applicable to Graubünden."
+    },
+    {
+      "citation": "Napoleonic Act of Mediation 1803",
+      "title": "Napoleonic Act of Mediation",
+      "year": 1803,
+      "url": "https://www.admin.ch/",
+      "relevance": "Napoleonic Act of Mediation of 19 February 1803 — formal incorporation of Three Leagues into Swiss Confederation as canton of Graubünden."
+    },
+    {
+      "citation": "Swiss Civil Code 1907 + Swiss Same-Sex Marriage Reform 2022",
+      "title": "Swiss Civil Code + Same-Sex Marriage Reform",
+      "year": 2022,
+      "url": "https://www.admin.ch/",
+      "relevance": "Swiss Federal Civil Code 1907 Family Law portion applicable uniformly across Graubünden + 2022 Same-Sex Marriage Reform framework."
+    },
+    {
+      "citation": "Hague Convention 1980 — Swiss accession 11 October 1983",
+      "title": "Hague Convention 1980 — Switzerland",
+      "year": 1983,
+      "url": "https://www.hcch.net/",
+      "relevance": "Swiss Hague Convention 1980 accession 11 October 1983 effective 1 January 1984 — applicable to Graubünden."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Cantonal Court of Graubünden (Kantonsgericht Graubünden)",
+      "seat": "Chur",
+      "url": "https://www.gerichte-gr.ch/",
+      "role": "Apex regional appellate court for civil and criminal matters from Graubünden."
+    },
+    {
+      "name": "Swiss Federal Supreme Court (Bundesgericht)",
+      "seat": "Lausanne",
+      "url": "https://www.bger.ch/",
+      "role": "Final appellate court for civil and criminal matters from Graubünden."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Swiss Federal Office of Public Health (Bundesamt für Gesundheit BAG)",
+      "url": "https://www.bag.admin.ch/",
+      "role": "Swiss Federal professional regulatory framework applicable in Graubünden."
+    }
+  ],
+  "anonymisation_convention": "Graubünden family-court decisions are anonymised per Swiss court practice using initials.",
+  "key_developments": [
+    {
+      "year": -15,
+      "title": "Roman conquest of Raetia",
+      "description": "Roman conquest of Raetia 15 BCE — beginning of Vulgar Latin Rhaeto-Romanic linguistic framework continuous through modern Romansh."
+    },
+    {
+      "year": 1367,
+      "title": "God's House League founded",
+      "description": "Lega da la Chadè God's House League founded 1367 — first of three Leagues constituting pre-Confederation Three Leagues framework."
+    },
+    {
+      "year": 1395,
+      "title": "Grey League founded",
+      "description": "Lega Caddea Grey League founded 1395 — second of three Leagues, source of name 'Graubünden' (Grey League)."
+    },
+    {
+      "year": 1436,
+      "title": "Ten Jurisdictions League founded",
+      "description": "Lega da las Dieschdretgiras Ten Jurisdictions League founded 1436 — third of three Leagues."
+    },
+    {
+      "year": 1471,
+      "title": "Three Leagues alliance formalised",
+      "description": "Three Leagues alliance formalised 1471 — formal pre-Swiss-Confederation independent confederation framework."
+    },
+    {
+      "year": 1803,
+      "title": "Swiss Confederation incorporation",
+      "description": "Three Leagues formally incorporated into Swiss Confederation as canton of Graubünden via Napoleonic Act of Mediation 19 February 1803."
+    },
+    {
+      "year": 1938,
+      "title": "Romansh recognised as Swiss national language",
+      "description": "Romansh recognised as Swiss Federal national language via Federal referendum 20 February 1938."
+    },
+    {
+      "year": 1996,
+      "title": "Romansh recognised as Swiss official language",
+      "description": "Romansh recognised as Swiss Federal official language for communication with Romansh speakers via Federal referendum 10 March 1996."
+    },
+    {
+      "year": 2003,
+      "title": "Cantonal Constitution of Graubünden",
+      "description": "Cantonal Constitution of Graubünden 14 September 2003 effective 1 January 2004 — formal recognition of Romansh as official cantonal language alongside German + Italian."
+    }
+  ],
+  "structural_findings": [
+    "Graubünden operates a federal Swiss civil-law constituent canton framework — places Graubünden in the Eastern Swiss canton cluster.",
+    "Only modern jurisdiction formally operating Romansh language in formal-administrative usage is structurally distinctive globally — only modern jurisdiction where Romansh operates as official cantonal language.",
+    "Only trilingual Swiss canton (German + Romansh + Italian) is structurally distinctive within Swiss canton cluster — distinct from rest-of-Swiss-cantons monolingual or bilingual frameworks.",
+    "Largest Swiss canton by area (~7,105 km² / ~17% of Swiss land area) is structurally distinctive within Swiss canton cluster — larger than any other Swiss canton.",
+    "Only modern Swiss canton with continuous pre-Confederation Three Leagues (Drei Bünde / Tres Lias) framework predating Swiss Confederation incorporation is structurally distinctive globally — 1395-1803 Three Leagues framework + 1803 Napoleonic Act of Mediation incorporation.",
+    "Central jurisdiction of pre-Confederation Rhaeto-Romanic continuous historical-cultural-political-linguistic framework is structurally distinctive globally — only modern Western European language with continuous Vulgar Latin lineage outside Romance-language-mainstream.",
+    "Three-League historical federal-confederation framework (Grey League 1395 + God's House League 1367 + Ten Jurisdictions League 1436) is structurally distinctive globally.",
+    "Swiss Hague-Convention-1980-accession-1983 framework applies."
+  ],
+  "references": [
+    "jurisdiction:switzerland",
+    "jurisdiction:italy",
+    "jurisdiction:austria",
+    "jurisdiction:liechtenstein",
+    "jurisdiction:germany",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of Graubünden (Regierung Graubünden)",
+      "url": "https://www.gr.ch/",
+      "publisher": "Cantonal Government of Graubünden",
+      "language": "de"
+    },
+    {
+      "title": "Swiss Federal Council (Bundesrat)",
+      "url": "https://www.admin.ch/",
+      "publisher": "Swiss Federal Government",
+      "language": "de"
+    }
+  ],
+  "editorial_notes": [
+    "Graubünden jurisdiction sidecar — civil-law Eastern Swiss constituent canton (Cantonal Constitution of Graubünden 2003 Article 3 + Swiss Federal Constitution 1999 Article 4 + Swiss Federal Languages Act 2007 + Napoleonic Act of Mediation 1803 + Swiss Civil Code 1907 + Same-Sex Marriage Reform 2022 + Three Leagues 1395-1803 + Roman Raetia 15 BCE + Romansh national language 1938 + Romansh official language 1996 + Swiss Hague-1980). Only modern jurisdiction formally operating Romansh language in formal-administrative usage globally + only trilingual Swiss canton + largest Swiss canton by area + only modern Swiss canton with continuous pre-Confederation Three Leagues framework predating Swiss Confederation incorporation + central jurisdiction of pre-Confederation Rhaeto-Romanic continuous historical-cultural-political-linguistic framework + Vulgar Latin continuous linguistic lineage.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Eastern-Swiss + civil-law + Swiss-canton cluster + Romansh-formal-cantonal-language-globally-distinctive + trilingual-German-Romansh-Italian + largest-Swiss-canton-by-area + Three-Leagues-1395-1803-pre-Confederation-framework + Roman-Raetia-15-BCE-Vulgar-Latin-continuous-linguistic-lineage + Napoleonic-Act-of-Mediation-1803-incorporation + Swiss-Hague-1980-1983 clusters within the corpus."
+  ]
+}

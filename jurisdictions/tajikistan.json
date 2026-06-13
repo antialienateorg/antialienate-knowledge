@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "id": "tajikistan",
+  "name": "Tajikistan (Republic of Tajikistan / Ҷумҳурии Тоҷикистон)",
+  "jurisdiction_code": "TJ",
+  "legal_system": "civil-law",
+  "language": ["tg"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Tajikistan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code of the Republic of Tajikistan 1998 (Кодекси оила) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Family Code arts. 61-87. The Supreme Court (Суди Олӣ) is the apex court for civil and criminal matters; the Constitutional Court (Суди конститутсионӣ) operates separate constitutional review. Family-law matters are heard at first instance in the District/City Courts. Psychology profession is regulated through the Ministry of Health and Social Protection framework. Tajikistan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 61. Tajikistan is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1998 arts. 61-87",
+      "title": "Family Code — Parental rights and custody",
+      "year": 1998,
+      "url": "https://www.mmk.tj/",
+      "relevance": "Federal Family Code enacted post-Soviet. Arts. 61-87 govern parental rights and child custody."
+    },
+    {
+      "citation": "Law on the Protection of the Rights of the Child 2015",
+      "title": "Law on the Protection of the Rights of the Child",
+      "year": 2015,
+      "url": "https://www.mmk.tj/",
+      "relevance": "Federal children's rights statute aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Суди Олӣ)",
+      "seat": "Dushanbe",
+      "url": "https://www.sud.tj/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Суди конститутсионӣ)",
+      "seat": "Dushanbe",
+      "url": "https://www.constcourt.tj/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Social Protection, Tajikistan",
+      "url": "https://www.moh.tj/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Tajik family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1998,
+      "title": "Family Code 1998",
+      "description": "Federal Family Code enacted post-Soviet codifying marriage, parental rights and child custody."
+    },
+    {
+      "year": 2015,
+      "title": "Law on the Protection of the Rights of the Child",
+      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+    }
+  ],
+  "structural_findings": [
+    "Tajikistan operates a post-Soviet civil-law framework — Family Code 1998 follows post-Soviet codification trajectory shared with Uzbekistan, Kazakhstan, Russia within the corpus.",
+    "Non-Hague Convention status places Tajikistan in the non-Hague Central Asian cluster — structural distinction from Hague-acceding Kazakhstan and Uzbekistan.",
+    "Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Tajikistan from MENA religious-law cluster despite Muslim-majority demography."
+  ],
+  "references": [
+    "jurisdiction:uzbekistan",
+    "jurisdiction:kazakhstan",
+    "jurisdiction:kyrgyzstan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Tajikistan",
+      "url": "https://www.sud.tj/",
+      "publisher": "Supreme Court",
+      "language": "tg,ru"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.constcourt.tj/",
+      "publisher": "Constitutional Court",
+      "language": "tg,ru"
+    },
+    {
+      "title": "Centralised Database of Legal Information",
+      "url": "https://www.mmk.tj/",
+      "publisher": "Ministry of Justice",
+      "language": "tg,ru"
+    }
+  ],
+  "editorial_notes": [
+    "Tajikistan jurisdiction sidecar — civil-law post-Soviet Central Asia. Family Code 1998 + Law on Protection of Rights of the Child 2015 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Central Asian + civil-law + post-Soviet + non-Hague Convention clusters within the corpus."
+  ]
+}

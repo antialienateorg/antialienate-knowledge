@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0",
+  "id": "cabo-verde",
+  "name": "Cabo Verde (Republic of Cabo Verde / República de Cabo Verde)",
+  "jurisdiction_code": "CV",
+  "legal_system": "civil-law",
+  "language": ["pt"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Cabo Verde is an Atlantic African civil-law republic whose family-law framework operates under the Civil Code (Código Civil) drawing on Portuguese civil-law substantive heritage, substantially supplemented by Law 50/V/98 (Family Code) and Law 86/IV/2009 (Code of Children and Adolescents). Parental responsibility (responsabilidade parental) and child custody are governed by Family Code arts. 125-148. The Supreme Court of Justice (Tribunal Supremo de Justiça) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family and Minors' Court (Tribunal de Família e dos Menores). Psychology profession is regulated through the Cape Verdean Order of Psychologists. Cabo Verde is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Code of Children and Adolescents art. 4. Cabo Verde acceded to the Hague Convention 1980 effective 1 January 2018.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code Law 50/V/98 arts. 125-148",
+      "title": "Family Code — Parental responsibility and custody",
+      "year": 1998,
+      "url": "https://www.tribunalsupremo.cv/",
+      "relevance": "Federal Family Code drawing on Portuguese civil-law substantive heritage. Arts. 125-148 govern responsabilidade parental and child custody."
+    },
+    {
+      "citation": "Code of Children and Adolescents Law 86/IV/2009",
+      "title": "Code of Children and Adolescents",
+      "year": 2009,
+      "url": "https://www.tribunalsupremo.cv/",
+      "relevance": "Federal Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Justice (Tribunal Supremo de Justiça)",
+      "seat": "Praia",
+      "url": "https://www.tribunalsupremo.cv/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Tribunal Constitucional)",
+      "seat": "Praia",
+      "url": "https://www.tribunalconstitucional.cv/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Order of Psychologists of Cabo Verde",
+      "url": "https://www.opcv.cv/",
+      "role": "Federal professional order for psychologists in Cabo Verde."
+    }
+  ],
+  "anonymisation_convention": "Cape Verdean family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1998,
+      "title": "Family Code Law 50/V/98",
+      "description": "Federal Family Code enacted drawing on Portuguese civil-law substantive heritage."
+    },
+    {
+      "year": 2009,
+      "title": "Code of Children and Adolescents Law 86/IV/2009",
+      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+    },
+    {
+      "year": 2018,
+      "title": "Hague Convention 1980 accession",
+      "description": "Cabo Verde acceded to the Hague Convention 1980 effective 1 January 2018."
+    }
+  ],
+  "structural_findings": [
+    "Cabo Verde operates a Portuguese-civil-law family-law framework — places Cabo Verde in the Lusophone African cluster with Mozambique, Angola, São Tomé, Portugal, Brazil, East Timor within the corpus.",
+    "Hague Convention 1980 accession 2018 places Cabo Verde in the Hague Atlantic African cluster alongside Mozambique."
+  ],
+  "references": [
+    "jurisdiction:portugal",
+    "jurisdiction:mozambique",
+    "jurisdiction:angola",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Justice",
+      "url": "https://www.tribunalsupremo.cv/",
+      "publisher": "Supreme Court",
+      "language": "pt"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.tribunalconstitucional.cv/",
+      "publisher": "Constitutional Court",
+      "language": "pt"
+    },
+    {
+      "title": "Order of Psychologists of Cabo Verde",
+      "url": "https://www.opcv.cv/",
+      "publisher": "Order of Psychologists",
+      "language": "pt"
+    }
+  ],
+  "editorial_notes": [
+    "Cabo Verde jurisdiction sidecar — civil-law Lusophone Atlantic African (Family Code 1998 + Code of Children and Adolescents 2009 + Hague Convention 1980 accession 2018).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Atlantic African + Lusophone + civil-law + Hague Convention clusters within the corpus."
+  ]
+}

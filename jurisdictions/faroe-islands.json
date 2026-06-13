@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "id": "faroe-islands",
+  "name": "Faroe Islands (Føroyar / Færøerne)",
+  "jurisdiction_code": "FO",
+  "legal_system": "civil-law",
+  "language": ["fo", "da"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Faroe Islands is a North Atlantic civil-law autonomous territory of the Kingdom of Denmark operating under the Home Rule Act 1948 (Lov om Færøernes Hjemmestyre) and Takeover Act 2005 (Lov om de færøske myndigheders overtagelse af sager og sagsområder). Family-law framework operates under Faroese family-law statutes (with substantial Danish family-law residual application) and the Faroese Children's Code (Lov um børn og foreldur). Parental responsibility (foreldraábyrgd) and child custody are governed by the Faroese family-law framework adapted to Faroese conditions. The High Court of the Faroe Islands (Føroya Eystrasta Útgardur) is the apex domestic court; final appellate jurisdiction was retained with the Danish Supreme Court (Højesteret). Family-law matters are heard at first instance in the Court of the Faroe Islands. Psychology profession is regulated through the Faroese Healthcare Authority framework. Faroe Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. Faroe Islands is a Hague Convention 1980 party via Danish territorial extension effective 1 July 1991.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Home Rule Act 1948 (Lov om Færøernes Hjemmestyre)",
+      "title": "Home Rule Act",
+      "year": 1948,
+      "url": "https://www.logir.fo/",
+      "relevance": "Federal Home Rule Act establishing Faroe Islands' autonomous-territory framework within Kingdom of Denmark."
+    },
+    {
+      "citation": "Takeover Act 2005 (Lov om de færøske myndigheders overtagelse af sager og sagsområder)",
+      "title": "Takeover Act",
+      "year": 2005,
+      "url": "https://www.logir.fo/",
+      "relevance": "Federal Takeover Act expanding Faroese legislative competence over additional subject-matters including substantial family-law areas."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of the Faroe Islands (Føroya Eystrasta Útgardur)",
+      "seat": "Tórshavn",
+      "url": "https://www.eystaratu.fo/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "Danish Supreme Court (Højesteret)",
+      "seat": "Copenhagen",
+      "url": "https://www.hoejesteret.dk/",
+      "role": "Final appellate court for civil and criminal matters from Faroe Islands."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Faroese Healthcare Authority",
+      "url": "https://www.heilsumalaraad.fo/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Faroese family-court decisions are anonymised per Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "Home Rule Act",
+      "description": "Federal Home Rule Act establishing Faroe Islands' autonomous-territory framework within Kingdom of Denmark."
+    },
+    {
+      "year": 1991,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by Denmark to Faroe Islands effective 1 July 1991."
+    },
+    {
+      "year": 2005,
+      "title": "Takeover Act",
+      "description": "Federal Takeover Act expanding Faroese legislative competence over additional subject-matters including substantial family-law areas."
+    }
+  ],
+  "structural_findings": [
+    "Faroe Islands operates a Danish-derivative civil-law autonomous-territory framework — places Faroe Islands in the Nordic civil-law cluster with Denmark, Iceland, Greenland.",
+    "Autonomous-territory status with Takeover Act expansion of legislative competence is structurally distinctive within Nordic framework.",
+    "Hague Convention 1980 applicability via Danish territorial extension reflects autonomous-territory Hague jurisdiction status shared with Greenland.",
+    "Bilingual official-language framework (Faroese + Danish) reflects autonomous-territory linguistic heritage."
+  ],
+  "references": [
+    "jurisdiction:denmark",
+    "jurisdiction:iceland",
+    "jurisdiction:greenland",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Court of the Faroe Islands",
+      "url": "https://www.eystaratu.fo/",
+      "publisher": "Court",
+      "language": "fo,da"
+    },
+    {
+      "title": "Faroese Healthcare Authority",
+      "url": "https://www.heilsumalaraad.fo/",
+      "publisher": "Healthcare Authority",
+      "language": "fo,da"
+    },
+    {
+      "title": "Faroese Legal Database (Lógir)",
+      "url": "https://www.logir.fo/",
+      "publisher": "Government of the Faroe Islands",
+      "language": "fo,da"
+    }
+  ],
+  "editorial_notes": [
+    "Faroe Islands jurisdiction sidecar — civil-law autonomous-territory Nordic (Home Rule Act 1948 + Takeover Act 2005 + bilingual Faroese-Danish + Hague Convention via Danish territorial extension 1991).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Nordic + civil-law + autonomous-territory cluster (with Greenland) + Hague-via-Danish-territorial-extension clusters within the corpus."
+  ]
+}

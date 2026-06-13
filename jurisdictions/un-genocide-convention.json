@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "id": "un-genocide-convention",
+  "name": "UN Convention on the Prevention and Punishment of the Crime of Genocide 1948 (Genocide Convention)",
+  "jurisdiction_code": "GCV",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Convention on the Prevention and Punishment of the Crime of Genocide 1948 (popularly the Genocide Convention) is a global supranational meta-framework genocide-prevention binding-treaty instrument adopted by the UN General Assembly — structurally distinctive globally as the only modern universal multilateral binding-treaty framework operating specifically on genocide-prevention framework (Genocide Convention adopted 9 December 1948 by UN General Assembly Resolution 260 (III) + effective 12 January 1951 — formal universal multilateral binding-treaty framework establishing comprehensive genocide-prevention framework, distinct from rest-of-modern-international-criminal-law frameworks which operate on broader war-crimes + crimes-against-humanity frameworks, structurally distinctive globally as the only modern universal binding-treaty framework operating on formal-genocide-prevention-specific framework + first international human-rights treaty in human history adopted before UDHR 1948 by 1 day), as the central jurisdiction of the formal Article II genocide-definition framework (Genocide Convention Article II framework providing 'genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such: (a) Killing members of the group; (b) Causing serious bodily or mental harm to members of the group; (c) Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part; (d) Imposing measures intended to prevent births within the group; (e) Forcibly transferring children of the group to another group' — formal foundational genocide-definition framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal genocide-definition framework with formal Article II(e) forcibly-transferring-children-of-the-group-to-another-group framework with substantial relevance to PA framework via formal cross-border-genocide-against-children framework + cross-border-deportation-of-children-of-genocide-target-groups framework), as the central jurisdiction of the formal Article VI international-tribunal-jurisdiction framework (Genocide Convention Article VI framework providing 'Persons charged with genocide or any of the other acts enumerated in article III shall be tried by a competent tribunal of the State in the territory of which the act was committed, or by such international penal tribunal as may have jurisdiction with respect to those Contracting Parties which shall have accepted its jurisdiction' — formal foundational international-tribunal-jurisdiction framework, structurally distinctive globally as the only modern universal binding-treaty framework operating formal international-tribunal-jurisdiction framework underlying ICTY + ICTR + ICC frameworks), and as the central jurisdiction of the formal ICJ Genocide Convention case-law framework (ICJ Bosnia and Herzegovina v Serbia and Montenegro Genocide Application Judgment 26 February 2007 + Croatia v Serbia Genocide Application Judgment 3 February 2015 + The Gambia v Myanmar Rohingya Genocide Application order 23 January 2020 + South Africa v Israel Gaza Genocide Application order 26 January 2024 + Nicaragua-Germany Israel-Gaza Genocide Application 2024 — formal foundational ICJ Genocide Convention case-law framework, structurally distinctive globally as the most-developed modern ICJ-genocide-case-law framework). The Genocide Convention is binding upon 153 state parties as of 2026 — substantial state-party coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal Article II genocide-definition + Article II(e) forcibly-transferring-children + Article VI international-tribunal-jurisdiction frameworks operate substantial intersection with parental-alienation framework via formal cross-border-genocide-against-children framework + cross-border-deportation-of-children-of-genocide-target-groups framework + cross-border-forcibly-transferring-children framework. The International Court of Justice ICJ is the apex judicial body framework for state-state disputes + national-level apex courts operate as judicial bodies via formal Article VI framework + the International Criminal Court ICC is the formal international-criminal-tribunal body. The Genocide Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN Convention on the Prevention and Punishment of the Crime of Genocide 1948",
+      "title": "Genocide Convention",
+      "year": 1951,
+      "url": "https://www.un.org/",
+      "relevance": "UN Convention on the Prevention and Punishment of the Crime of Genocide adopted 9 December 1948 by UN General Assembly Resolution 260 (III) + effective 12 January 1951 — formal universal multilateral binding-treaty framework establishing comprehensive genocide-prevention framework."
+    },
+    {
+      "citation": "Genocide Convention Article II (Genocide Definition Framework)",
+      "title": "Genocide Convention Article II",
+      "year": 1951,
+      "url": "https://www.un.org/",
+      "relevance": "Genocide Convention Article II framework on genocide-definition — formal foundational genocide-definition framework including Article II(e) forcibly-transferring-children-of-the-group-to-another-group framework."
+    },
+    {
+      "citation": "Genocide Convention Article VI (International-Tribunal-Jurisdiction Framework)",
+      "title": "Genocide Convention Article VI",
+      "year": 1951,
+      "url": "https://www.un.org/",
+      "relevance": "Genocide Convention Article VI framework on international-tribunal-jurisdiction — formal foundational international-tribunal-jurisdiction framework underlying ICTY + ICTR + ICC frameworks."
+    },
+    {
+      "citation": "ICJ Genocide Convention Case-Law Framework (Bosnia 2007 + Croatia 2015 + Myanmar 2020 + Israel-Gaza 2024)",
+      "title": "ICJ Genocide Convention Case-Law Framework",
+      "year": 2024,
+      "url": "https://www.icj-cij.org/",
+      "relevance": "ICJ Bosnia and Herzegovina v Serbia and Montenegro Genocide Application Judgment 26 February 2007 + Croatia v Serbia Genocide Application Judgment 3 February 2015 + The Gambia v Myanmar Rohingya Genocide Application order 23 January 2020 + South Africa v Israel Gaza Genocide Application order 26 January 2024 — formal foundational ICJ Genocide Convention case-law framework."
+    },
+    {
+      "citation": "Raphael Lemkin Coined Term 'Genocide' 1944",
+      "title": "Raphael Lemkin Coined 'Genocide'",
+      "year": 1944,
+      "url": "https://www.un.org/",
+      "relevance": "Raphael Lemkin coined term 'genocide' 1944 in Axis Rule in Occupied Europe — predecessor framework to Genocide Convention."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "International Court of Justice (ICJ)",
+      "seat": "The Hague",
+      "url": "https://www.icj-cij.org/",
+      "role": "Apex judicial body framework for state-state disputes under Genocide Convention."
+    },
+    {
+      "name": "International Criminal Court (ICC)",
+      "seat": "The Hague",
+      "url": "https://www.icc-cpi.int/",
+      "role": "Formal international-criminal-tribunal body for Genocide Convention via Rome Statute Article 6 framework."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN Office of Legal Affairs",
+      "url": "https://legal.un.org/",
+      "role": "Genocide Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "Genocide Convention-related individual communications operate via state-state framework; individual communications not formally accepted under Genocide Convention framework.",
+  "key_developments": [
+    {
+      "year": 1944,
+      "title": "Raphael Lemkin Coined Term 'Genocide'",
+      "description": "Raphael Lemkin coined term 'genocide' 1944 in Axis Rule in Occupied Europe — predecessor framework to Genocide Convention."
+    },
+    {
+      "year": 1948,
+      "title": "Genocide Convention adopted",
+      "description": "UN Convention on the Prevention and Punishment of the Crime of Genocide adopted 9 December 1948 by UN General Assembly Resolution 260 (III) — formal universal multilateral binding-treaty framework adopted 1 day before UDHR."
+    },
+    {
+      "year": 1951,
+      "title": "Genocide Convention enters force",
+      "description": "UN Convention on the Prevention and Punishment of the Crime of Genocide entered force 12 January 1951 — formal universal multilateral binding-treaty framework operational."
+    },
+    {
+      "year": 2007,
+      "title": "ICJ Bosnia v Serbia Genocide Judgment",
+      "description": "ICJ Bosnia and Herzegovina v Serbia and Montenegro Genocide Application Judgment 26 February 2007 — landmark ICJ Genocide Convention case-law framework, first formal ICJ judgment on Genocide Convention framework."
+    },
+    {
+      "year": 2020,
+      "title": "ICJ Gambia v Myanmar Rohingya Genocide Application order",
+      "description": "ICJ The Gambia v Myanmar Rohingya Genocide Application order 23 January 2020 — landmark ICJ Genocide Convention case-law framework on Rohingya genocide framework."
+    },
+    {
+      "year": 2024,
+      "title": "ICJ South Africa v Israel Gaza Genocide Application order",
+      "description": "ICJ South Africa v Israel Gaza Genocide Application order 26 January 2024 — formal ICJ Genocide Convention case-law framework on cross-border-genocide-against-children-of-Gaza framework."
+    }
+  ],
+  "structural_findings": [
+    "Genocide Convention operates a supranational universal multilateral binding-treaty framework — places Genocide Convention in the global supranational-meta-framework cluster.",
+    "Only modern universal multilateral binding-treaty framework operating specifically on genocide-prevention framework is structurally distinctive globally — formal-genocide-prevention-specific framework + first international human-rights treaty in human history adopted before UDHR 1948 by 1 day.",
+    "Central jurisdiction of formal Article II genocide-definition framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal genocide-definition framework with formal Article II(e) forcibly-transferring-children-of-the-group-to-another-group framework.",
+    "Central jurisdiction of formal Article VI international-tribunal-jurisdiction framework is structurally distinctive globally — only modern universal binding-treaty framework operating formal international-tribunal-jurisdiction framework underlying ICTY + ICTR + ICC frameworks.",
+    "Central jurisdiction of formal ICJ Genocide Convention case-law framework is structurally distinctive globally — most-developed modern ICJ-genocide-case-law framework.",
+    "153 state party ratification framework is structurally distinctive globally — substantial state-party coverage framework.",
+    "1944 Lemkin + 1948 Genocide Convention + 1951 entry into force + 2007 Bosnia ICJ Judgment + 2020 Gambia v Myanmar + 2024 South Africa v Israel Genocide-Convention-framework-development sequence is structurally distinctive globally.",
+    "Article II genocide-definition + Article II(e) forcibly-transferring-children + Article VI international-tribunal-jurisdiction formal triad framework with formal cross-border-genocide-against-children + cross-border-deportation-of-children-of-genocide-target-groups + cross-border-forcibly-transferring-children PA-intersection framework is structurally distinctive globally."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:icj",
+    "jurisdiction:rome-statute-icc",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "UN — Genocide Convention",
+      "url": "https://www.un.org/en/genocideprevention/genocide-convention.shtml",
+      "publisher": "UN",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Genocide Convention jurisdiction sidecar — supranational global genocide-prevention universal multilateral binding-treaty meta-framework (Genocide Convention 1948/1951 + Article II Genocide Definition Framework + Article VI International-Tribunal-Jurisdiction Framework + ICJ Genocide Convention Case-Law Framework via Bosnia 2007 + Croatia 2015 + Myanmar 2020 + South Africa v Israel 2024 + Raphael Lemkin Coined Term 'Genocide' 1944 + ICTY + ICTR + ICC). Only modern universal multilateral binding-treaty framework operating specifically on genocide-prevention framework globally + first international human-rights treaty in human history adopted before UDHR 1948 by 1 day + central jurisdiction of formal Article II genocide-definition framework + central jurisdiction of formal Article VI international-tribunal-jurisdiction framework + central jurisdiction of formal ICJ Genocide Convention case-law framework + 153 state party ratification framework + 1944 Lemkin + 1948 Genocide Convention + 1951 entry into force + 2007 Bosnia ICJ Judgment + 2020 Gambia v Myanmar + 2024 South Africa v Israel Genocide-Convention-framework-development sequence + Article II genocide-definition + Article II(e) forcibly-transferring-children + Article VI international-tribunal-jurisdiction formal triad framework with formal cross-border-genocide-against-children + cross-border-deportation-of-children-of-genocide-target-groups + cross-border-forcibly-transferring-children PA-intersection framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: Article II(e) framework on 'Forcibly transferring children of the group to another group' as one of five enumerated genocide-act-categories operates direct intersection with parental-alienation framework via formal cross-border-forcibly-transferring-children framework — most-directly-PA-relevant UN human-rights treaty framework alongside ICRMW Article 44.",
+    "Joins global + supranational + universal-multilateral-genocide-prevention-binding-treaty cluster + Genocide-Convention-only-universal-genocide-prevention-binding-treaty-globally-distinctive + first-international-human-rights-treaty-in-human-history-1948 + Article-II-Genocide-Definition + Article-II-e-Forcibly-Transferring-Children + Article-VI-International-Tribunal-Jurisdiction + ICJ-Bosnia-2007 + ICJ-Croatia-2015 + ICJ-Gambia-v-Myanmar-Rohingya-2020 + ICJ-South-Africa-v-Israel-2024 + 153-state-party-substantial-coverage + Raphael-Lemkin-1944 + ICTY-ICTR-ICC-framework + cross-border-forcibly-transferring-children-PA-intersection clusters within the corpus."
+  ]
+}

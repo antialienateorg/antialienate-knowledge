@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "id": "isle-of-man",
+  "name": "Isle of Man (Ellan Vannin)",
+  "jurisdiction_code": "IM",
+  "legal_system": "common-law",
+  "language": ["en", "gv"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Isle of Man (Ellan Vannin) is a Western European common-law Crown Dependency — structurally distinctive globally as the home of Tynwald, claimed to be the world's oldest continuously-functioning parliament (traditionally dated to 979 CE). Isle of Man is not part of the United Kingdom but a self-governing British Crown Dependency with the British Crown as Head of State, represented by the Lieutenant Governor. Family-law framework operates under the Family Law Act 2024 (replacing prior Matrimonial Proceedings Act 2003 framework), the Children and Young Persons Act 2001, and the Married Women's Property Act. Parental responsibility and child custody are governed by Family Law Act 2024 Part IV. The High Court of Justice of the Isle of Man is the apex domestic court for civil and criminal matters; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the High Court (Family Division) and Court of General Gaol Delivery. Psychology profession is regulated through the Manx Department of Health and Social Care framework. Isle of Man is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Isle of Man is a Hague Convention 1980 party via UK territorial extension effective 1 September 1991.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law Act 2024",
+      "title": "Family Law Act",
+      "year": 2024,
+      "url": "https://www.legislation.gov.im/",
+      "relevance": "Federal comprehensive Family Law Act replacing prior Matrimonial Proceedings Act 2003 framework. Part IV governs parental responsibility and child custody."
+    },
+    {
+      "citation": "Children and Young Persons Act 2001",
+      "title": "Children and Young Persons Act",
+      "year": 2001,
+      "url": "https://www.legislation.gov.im/",
+      "relevance": "Federal Children and Young Persons Act codifying welfare-of-the-child principle and child-protection provisions."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Justice of the Isle of Man",
+      "seat": "Douglas",
+      "url": "https://www.judiciary.im/",
+      "role": "Apex domestic court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from the Isle of Man."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Manx Department of Health and Social Care",
+      "url": "https://www.gov.im/dhsc/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Manx family-court decisions are anonymised per High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 979,
+      "title": "Tynwald — traditional founding",
+      "description": "Tynwald (Manx parliament) traditionally dated to 979 CE — claimed as the world's oldest continuously-functioning parliament."
+    },
+    {
+      "year": 1991,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Isle of Man effective 1 September 1991."
+    },
+    {
+      "year": 2001,
+      "title": "Children and Young Persons Act 2001",
+      "description": "Federal Children and Young Persons Act enacted codifying welfare-of-the-child principle and child-protection provisions."
+    },
+    {
+      "year": 2024,
+      "title": "Family Law Act 2024",
+      "description": "Federal comprehensive Family Law Act enacted replacing prior Matrimonial Proceedings Act 2003 framework."
+    }
+  ],
+  "structural_findings": [
+    "Isle of Man operates a common-law framework drawing on English-law model with Crown Dependency status — places Isle of Man in the Crown Dependency cluster alongside Jersey and Guernsey.",
+    "Tynwald as world's oldest continuously-functioning parliament (claimed 979 CE) is structurally distinctive globally — most-long-standing legislative institution in the corpus.",
+    "Crown Dependency status (not part of UK) is structurally distinctive — Isle of Man has its own treaty-extension capability via UK assistance.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:united-kingdom",
+    "jurisdiction:england-and-wales",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Isle of Man Judiciary",
+      "url": "https://www.judiciary.im/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Manx Legislation",
+      "url": "https://www.legislation.gov.im/",
+      "publisher": "Government of the Isle of Man",
+      "language": "en"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Isle of Man jurisdiction sidecar — common-law Western European Crown Dependency (Family Law Act 2024 + Children and Young Persons Act 2001 + Tynwald + JCPC final-appellate + Hague via UK territorial extension 1991). World's oldest continuously-functioning parliament (Tynwald 979 CE).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western European + common-law + Crown Dependency cluster + Tynwald-oldest-parliament-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

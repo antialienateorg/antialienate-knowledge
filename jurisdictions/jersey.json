@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "id": "jersey",
+  "name": "Jersey (Bailiwick of Jersey / Bailliage de Jersey)",
+  "jurisdiction_code": "JE",
+  "legal_system": "mixed",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Jersey is a Western European mixed-legal-system Crown Dependency — structurally distinctive globally as a Bailiwick combining Norman customary-law substantive heritage (via 1204 retention by King John when Normandy lost to France) with English common-law procedural inheritance. Jersey law retains substantial Norman customary-law foundations and Latin/Old French legal terminology. Family-law framework operates under the Matrimonial Causes (Jersey) Law 1949, the Children (Jersey) Law 2002 (drawing on English Children Act 1989 model), and customary-law inheritance via the Royal Court of Jersey. Parental responsibility and child custody are governed by Children Law 2002 Part II. The Court of Appeal of Jersey is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Royal Court of Jersey (Family Division) and the Petty Debts Court. Psychology profession is regulated through the Jersey Health and Social Care framework. Jersey is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Law 2002 art. 2. Jersey is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children (Jersey) Law 2002",
+      "title": "Children (Jersey) Law",
+      "year": 2002,
+      "url": "https://www.jerseylaw.je/",
+      "relevance": "Federal Children Law drawing on English Children Act 1989 model codifying welfare-of-the-child principle (art. 2), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Matrimonial Causes (Jersey) Law 1949",
+      "title": "Matrimonial Causes (Jersey) Law",
+      "year": 1949,
+      "url": "https://www.jerseylaw.je/",
+      "relevance": "Federal matrimonial-causes statute."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Jersey",
+      "seat": "Saint Helier",
+      "url": "https://www.jerseyjudiciary.je/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Jersey."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Jersey Health and Social Care",
+      "url": "https://www.gov.je/health/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Jersey family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1204,
+      "title": "Retention by King John + Norman customary-law foundation",
+      "description": "Jersey retained by King John of England when Normandy lost to France in 1204 — Norman customary-law substantive heritage retained alongside English common-law procedural inheritance."
+    },
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Jersey effective 1 August 1986."
+    },
+    {
+      "year": 2002,
+      "title": "Children (Jersey) Law 2002",
+      "description": "Federal Children Law enacted drawing on English Children Act 1989 model."
+    }
+  ],
+  "structural_findings": [
+    "Jersey operates a structurally distinctive mixed-legal-system framework — Norman customary-law substantive heritage (via 1204 retention by King John) + English common-law procedural inheritance. Within the Crown Dependency cluster (Jersey + Guernsey + Isle of Man) with structurally distinctive Norman customary-law substantive heritage shared with Guernsey.",
+    "Bailiwick status (with Bailiff as head of judiciary and presiding officer of legislature) is structurally distinctive — Jersey and Guernsey are the only Bailiwicks in the corpus.",
+    "Crown Dependency status (not part of UK) is structurally distinctive.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:guernsey",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:isle-of-man",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Jersey Judiciary",
+      "url": "https://www.jerseyjudiciary.je/",
+      "publisher": "Judiciary",
+      "language": "en,fr"
+    },
+    {
+      "title": "Jersey Law",
+      "url": "https://www.jerseylaw.je/",
+      "publisher": "Government of Jersey",
+      "language": "en,fr"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Jersey jurisdiction sidecar — mixed-legal-system Western European Crown Dependency Bailiwick (Norman customary-law substantive + English common-law procedural + Children Law 2002 + JCPC final-appellate + Hague via UK territorial extension 1986). Norman customary heritage via 1204 retention by King John.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Western European + mixed-legal-system + Crown Dependency Bailiwick cluster + Norman-customary-law-substantive-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

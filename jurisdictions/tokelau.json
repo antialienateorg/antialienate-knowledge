@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "id": "tokelau",
+  "name": "Tokelau",
+  "jurisdiction_code": "TK",
+  "legal_system": "common-law",
+  "language": ["en", "tkl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Tokelau is a Pacific Island common-law non-self-governing territory of New Zealand — structurally distinctive globally as the only state-level entity with three traditional village councils (Atafu, Nukunonu, Fakaofo) operating as constitutional units under the Tokelau Act 1948 (NZ). Unlike Cook Islands and Niue (NZ free-association states), Tokelau remains a non-self-governing territory administered by NZ — two independence referendums (2006, 2007) failed to reach required two-thirds majority. Family-law framework operates under the Tokelau Act 1948 (NZ) provisions applying NZ family-law with customary-law adaptations and three-village-council governance. Parental responsibility and child custody are governed by NZ family-law principles adapted to Tokelauan customary-status framework. The High Court of New Zealand has jurisdiction over Tokelau matters; the General Fono (Tokelauan parliament) operates as legislature. Family-law matters are heard at first instance via NZ judicial framework with customary input from village councils. Psychology profession is regulated through NZ administrative arrangements. Tokelau is silent on 'parental alienation' as a statutory label; courts operate substantively under NZ welfare-of-the-child principles adapted to Tokelauan context. Tokelau is non-Hague Convention — Hague Convention 1980 does not apply via NZ territorial extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Tokelau Act 1948 (NZ)",
+      "title": "Tokelau Act",
+      "year": 1948,
+      "url": "https://www.tokelau.org.nz/",
+      "relevance": "Federal Tokelau Act enacted by NZ establishing administrative and legal-system framework — applies NZ family-law with customary-law adaptations."
+    },
+    {
+      "citation": "Modern House of Tokelau Constitution 2006 (draft)",
+      "title": "Modern House of Tokelau Constitution (draft)",
+      "year": 2006,
+      "url": "https://www.tokelau.org.nz/",
+      "relevance": "Draft Constitution prepared as basis for proposed self-government — rejected in 2006 and 2007 referendums."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of New Zealand (jurisdiction over Tokelau)",
+      "seat": "Wellington",
+      "url": "https://www.courtsofnz.govt.nz/",
+      "role": "Apex court for civil and criminal matters from Tokelau."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "New Zealand administrative arrangements",
+      "url": "https://www.health.govt.nz/",
+      "role": "Federal regulator of health and allied health professionals via NZ administrative arrangements."
+    }
+  ],
+  "anonymisation_convention": "Tokelauan family-court decisions are anonymised per NZ High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1948,
+      "title": "Tokelau Act 1948 (NZ)",
+      "description": "Tokelau Act enacted by NZ establishing administrative and legal-system framework."
+    },
+    {
+      "year": 2006,
+      "title": "First self-determination referendum — rejected",
+      "description": "First UN-supervised self-determination referendum failed to reach required two-thirds majority for free-association status."
+    },
+    {
+      "year": 2007,
+      "title": "Second self-determination referendum — rejected",
+      "description": "Second UN-supervised self-determination referendum also failed to reach required two-thirds majority."
+    }
+  ],
+  "structural_findings": [
+    "Tokelau operates a common-law framework applying NZ family-law — places Tokelau in the Pacific NZ-administered territory cluster.",
+    "Non-self-governing territory status (vs Cook Islands/Niue free-association status) is structurally distinctive — only remaining NZ-administered non-self-governing territory in the corpus.",
+    "Three-village-council (Atafu, Nukunonu, Fakaofo) constitutional structure with General Fono parliament is structurally distinctive globally — most-customary-village-council-governance state-level entity.",
+    "Two failed self-determination referendums (2006, 2007) are structurally distinctive — only state with multiple UN-supervised self-determination referendum failures in the corpus.",
+    "Non-Hague Convention status reflects non-self-governing-territory status."
+  ],
+  "references": [
+    "jurisdiction:cook-islands",
+    "jurisdiction:niue",
+    "jurisdiction:new-zealand",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Tokelau Government Information",
+      "url": "https://www.tokelau.org.nz/",
+      "publisher": "Tokelau Government / NZ Ministry of Foreign Affairs",
+      "language": "en,tkl"
+    },
+    {
+      "title": "Courts of New Zealand",
+      "url": "https://www.courtsofnz.govt.nz/",
+      "publisher": "NZ Judiciary",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Tokelau jurisdiction sidecar — common-law Pacific NZ-administered non-self-governing territory (Tokelau Act 1948 + three-village-council Atafu/Nukunonu/Fakaofo + General Fono + two failed self-determination referendums 2006/2007 + NZ family-law adapted to Tokelauan customary + non-Hague). Only remaining NZ-administered non-self-governing territory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Pacific Island + common-law + NZ-administered-non-self-governing-territory-distinctive cluster + three-village-council-governance + non-Hague Convention clusters within the corpus."
+  ]
+}

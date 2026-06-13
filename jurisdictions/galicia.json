@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "id": "galicia",
+  "name": "Galicia (Galicia / Galiza)",
+  "jurisdiction_code": "ES-GA",
+  "legal_system": "civil-law",
+  "language": ["gl", "es"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Galicia (Galicia in Spanish / Galiza in Galician) is a North-western Iberian Atlantic-coastal civil-law autonomous community of the Kingdom of Spain — structurally distinctive globally as the only EU member-state subnational jurisdiction with a Celtic-heritage-recognised constitutional identity (Galician one of the seven recognised Celtic nations per the Celtic League framework) operating its own Foral Civil Law tradition, and as the only EU subnational with Atlantic-rural-economy-derived distinctive civil-law institutions (compañía familiar gallega 'Galician family company' framework, vitalicio life-tenancy framework, derecho de troncalidad rural-land-succession framework distinctive to Galician rural-economic-tradition). Galicia's distinct civil-law tradition (Dereito Civil de Galicia) derives from the medieval Foros de Galicia (~13th-15th centuries), was preserved through the 1880 Royal Order (despite abolition of fueros politically), formally compiled in the 1963 Compilation of Special Civil Law of Galicia (Compilación del Derecho Civil Especial de Galicia), comprehensively recodified as the Lei 2/2006 de dereito civil de Galicia (Galician Civil Law Act 2006) effective 19 July 2006. Family-law framework operates under Lei 2/2006 Title IV (Family Law) covering parental authority (patria potestade), child custody (garda e custodia), and family-property regime — including the distinctive sociedade de gananciais galega framework (Galician community-property variant). Galicia operates the Concierto Económico framework via the unified Spanish federal taxation system (unlike Basque Country and Navarre fiscal-autonomy framework) — making Galicia the largest civil-foral-law autonomous community without full fiscal autonomy. The Tribunal Superior de Xustiza de Galicia (TSXG) is the apex appellate court for Galician-civil-law matters; final appellate jurisdiction on Spanish constitutional questions lies with the Spanish Constitutional Court. Galicia is silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 party (acceded 16 June 1987) — Galician Hague applicability via Spanish federal extension subject to Galician Foral Civil Law application framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Lei 2/2006 de dereito civil de Galicia (Galician Civil Law Act 2006)",
+      "title": "Galician Civil Law Act",
+      "year": 2006,
+      "url": "https://www.parlamentodegalicia.es/",
+      "relevance": "Galician Civil Law Act effective 19 July 2006 — comprehensive recodification of Galician foral civil law. Title IV (Family Law) covers parental authority, child custody, and family-property regime including sociedade de gananciais galega."
+    },
+    {
+      "citation": "Statute of Autonomy of Galicia 1981",
+      "title": "Statute of Autonomy of Galicia",
+      "year": 1981,
+      "url": "https://www.parlamentodegalicia.es/",
+      "relevance": "Spanish Organic Law establishing Galician autonomous-community governance framework with distinct civil-law jurisdiction preservation."
+    },
+    {
+      "citation": "Compilación del Derecho Civil Especial de Galicia 1963 (replaced by Lei 2/2006)",
+      "title": "Compilation of Special Civil Law of Galicia 1963",
+      "year": 1963,
+      "url": "https://www.boe.es/",
+      "relevance": "Predecessor compilation of Galician civil law adopted 2 December 1963 — replaced by Lei 2/2006 de dereito civil de Galicia."
+    },
+    {
+      "citation": "Spanish Constitution 1978 Article 149.1.8",
+      "title": "Spanish Constitution Article 149.1.8",
+      "year": 1978,
+      "url": "https://www.boe.es/",
+      "relevance": "Spanish Constitution providing for federal-level competence over civil legislation except in autonomous communities with preserved foral or special civil law — constitutional foundation for Galician civil-law jurisdiction."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tribunal Superior de Xustiza de Galicia (TSXG)",
+      "seat": "A Coruña",
+      "url": "https://www.poderjudicial.es/",
+      "role": "Apex appellate court for Galician-foral-civil-law matters from Galicia."
+    },
+    {
+      "name": "Tribunal Constitucional de España",
+      "seat": "Madrid",
+      "url": "https://www.tribunalconstitucional.es/",
+      "role": "Apex Spanish constitutional court for federal constitutional questions from Galicia."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Colexio Oficial de Psicoloxía de Galicia",
+      "url": "https://copgalicia.gal/",
+      "role": "Galician autonomous-community professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Galician family-court decisions are anonymised per Galician court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1287,
+      "title": "Foro Real granted to Galicia",
+      "description": "Foro Real granted to Galicia ~13th century — foundational framework of Galician customary law."
+    },
+    {
+      "year": 1880,
+      "title": "Royal Order preserving Galician foral civil law",
+      "description": "Spanish Royal Order of 1880 preserving Galician foral civil law despite abolition of political fueros."
+    },
+    {
+      "year": 1963,
+      "title": "Compilación del Derecho Civil Especial de Galicia",
+      "description": "Compilation of Special Civil Law of Galicia adopted 2 December 1963 — first modern formal codification of Galician civil law."
+    },
+    {
+      "year": 1981,
+      "title": "Statute of Autonomy of Galicia",
+      "description": "Spanish Organic Law of 6 April 1981 establishing Galician autonomous-community governance framework with distinct civil-law jurisdiction preservation."
+    },
+    {
+      "year": 2006,
+      "title": "Lei 2/2006 de dereito civil de Galicia",
+      "description": "Galician Civil Law Act effective 19 July 2006 — comprehensive recodification of Galician foral civil law replacing 1963 Compilation."
+    }
+  ],
+  "structural_findings": [
+    "Galicia operates a civil-law framework with own Galician foral civil-law jurisdiction — places Galicia in the EU subnational civil-law-with-own-code cluster.",
+    "Only EU member-state subnational jurisdiction with Celtic-heritage-recognised constitutional identity operating its own Foral Civil Law tradition is structurally distinctive globally.",
+    "Only EU subnational with Atlantic-rural-economy-derived distinctive civil-law institutions (compañía familiar gallega, vitalicio, derecho de troncalidad rural-land-succession) is structurally distinctive globally.",
+    "Lei 2/2006 de dereito civil de Galicia is structurally distinctive within European subnational civil-code recodification cluster.",
+    "Largest civil-foral-law Spanish autonomous community without full fiscal autonomy is structurally distinctive within Iberian foral cluster — distinct from Basque Concierto Económico and Navarrese Convenio Económico.",
+    "Sociedade de gananciais galega (Galician community-property variant) is structurally distinctive within European community-property cluster.",
+    "Spanish Constitution Article 149.1.8 (foral civil law preservation) applies via the Galician-civil-law framework.",
+    "Spanish Hague Convention 1980 accession 1987 + Galician Foral Civil Law application framework is structurally distinctive."
+  ],
+  "references": [
+    "jurisdiction:spain",
+    "jurisdiction:portugal",
+    "jurisdiction:catalonia",
+    "jurisdiction:basque-country",
+    "jurisdiction:navarre",
+    "jurisdiction:aragon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Parlamento de Galicia",
+      "url": "https://www.parlamentodegalicia.es/",
+      "publisher": "Galician Government",
+      "language": "gl"
+    },
+    {
+      "title": "Tribunal Superior de Xustiza de Galicia",
+      "url": "https://www.poderjudicial.es/",
+      "publisher": "Spanish Government",
+      "language": "gl"
+    }
+  ],
+  "editorial_notes": [
+    "Galicia jurisdiction sidecar — civil-law North-western Iberian Atlantic-coastal Spanish autonomous community with own Galician foral civil-law jurisdiction (Lei 2/2006 de dereito civil de Galicia + Statute of Autonomy 1981 + Compilación del Derecho Civil Especial de Galicia 1963 + Spanish Constitution Article 149.1.8 + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with Celtic-heritage-recognised constitutional identity operating own Foral Civil Law tradition + only EU subnational with Atlantic-rural-economy-derived distinctive civil-law institutions (compañía familiar gallega / vitalicio / derecho de troncalidad) + largest civil-foral-law Spanish autonomous community without full fiscal autonomy + sociedade de gananciais galega community-property variant. Completes Iberian foral civil-law quintet (Galicia + Aragon + Catalonia + Basque + Navarre).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins North-western-Iberian + Atlantic-coastal + civil-law + EU-subnational-civil-law-with-own-code cluster + Celtic-heritage-constitutional-identity-globally-distinctive + Atlantic-rural-economy-distinctive-civil-law-institutions + compañía-familiar-gallega + vitalicio + derecho-de-troncalidad-rural-succession + sociedade-de-gananciais-galega + Iberian-foral-civil-law-quintet clusters within the corpus."
+  ]
+}

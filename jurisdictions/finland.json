@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0",
+  "id": "finland",
+  "name": "Finland (Suomi / Finland)",
+  "jurisdiction_code": "FI",
+  "legal_system": "civil-law",
+  "language": ["fi", "sv"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Finland is a Nordic civil-law unitary republic whose family-court framework operates under the Laki lapsen huollosta ja tapaamisoikeudesta (Act on Child Custody and Right of Access) 1983, substantially amended by Lain muutos 190/2019 in force 1 December 2019. Custody (huolto) is jointly held by default; the 2019 reform strengthened the focus on the child's right to maintain contact with both parents and introduced explicit provisions on supervised contact (valvotut tapaamiset). The Korkein oikeus (Supreme Court of Finland, Helsinki) is the apex court for civil matters; family-law decisions reach Korkein oikeus via the Hovioikeus (Court of Appeal) following first-instance Käräjäoikeus (District Court) determinations. Psychology profession is regulated under the Laki terveydenhuollon ammattihenkilöistä 1994 (Health Care Professionals Act) operated by Valvira (National Supervisory Authority for Welfare and Health). Finland is silent on 'parental alienation' as a statutory label; courts operate substantively under the lapsen etu (best-interests-of-the-child) welfare standard.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Laki lapsen huollosta ja tapaamisoikeudesta 1983/361",
+      "title": "Act on Child Custody and Right of Access",
+      "year": 1983,
+      "url": "https://www.finlex.fi/fi/laki/ajantasa/1983/19830361",
+      "relevance": "Federal statute governing child custody (huolto) and right of access (tapaamisoikeus). § 1 codifies the lapsen etu welfare standard. § 6 establishes joint custody as the default. Substantially amended by Lain muutos 190/2019 in force 1 December 2019 to strengthen contact provisions and introduce supervised-contact framework."
+    },
+    {
+      "citation": "Laki terveydenhuollon ammattihenkilöistä 1994/559",
+      "title": "Health Care Professionals Act 1994",
+      "year": 1994,
+      "url": "https://www.finlex.fi/fi/laki/ajantasa/1994/19940559",
+      "relevance": "Federal statute regulating health care professionals including psychologists. Statutorily protected title 'psykologi' requires registration with Valvira. Statutory anchor for evaluator-quality."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Korkein oikeus (Supreme Court of Finland)",
+      "seat": "Helsinki",
+      "url": "https://www.korkeinoikeus.fi/",
+      "role": "Apex court for civil and criminal matters. Family-law decisions reach Korkein oikeus via the Hovioikeus (Court of Appeal) following Käräjäoikeus (District Court) determinations. Korkein oikeus operates a strict leave-to-appeal regime."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Valvira (National Supervisory Authority for Welfare and Health)",
+      "url": "https://www.valvira.fi/",
+      "role": "Federal supervisory authority operating professional registration for psychologists and other health professionals under Laki terveydenhuollon ammattihenkilöistä 1994."
+    },
+    {
+      "name": "Suomen Psykologiliitto (Finnish Psychological Association)",
+      "url": "https://www.psyli.fi/",
+      "role": "Peak professional association for psychologists in Finland. Operates ethics code and complaints procedure alongside the statutory Valvira regime."
+    }
+  ],
+  "anonymisation_convention": "Finnish family-law decisions are anonymised per Korkein oikeus practice using initials. Published decisions on Finlex.fi strip identifying details.",
+  "key_developments": [
+    {
+      "year": 1983,
+      "title": "Laki lapsen huollosta ja tapaamisoikeudesta",
+      "description": "Child Custody and Right of Access Act 1983/361 enacted; joint-custody default."
+    },
+    {
+      "year": 1994,
+      "title": "Laki terveydenhuollon ammattihenkilöistä",
+      "description": "Health Care Professionals Act 1994/559 enacted; statutorily protected title 'psykologi' under Valvira."
+    },
+    {
+      "year": 2019,
+      "title": "Lain muutos 190/2019 in force",
+      "description": "Substantial amendment to Laki lapsen huollosta ja tapaamisoikeudesta in force 1 December 2019 — strengthened contact provisions and introduced supervised-contact framework."
+    }
+  ],
+  "structural_findings": [
+    "Finland sits structurally within the Nordic civil-law cluster alongside Sweden + Norway + Denmark + Iceland — joint-custody default + lapsen etu welfare standard + Valvira statutory psychology regulator.",
+    "Valvira statutory-registration regime places Finland among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psykolognævnet DK + Helsedirektoratet NO.",
+    "2019 contact-provisions reform structurally similar to the Swedish 2006 vårdnadsreform — strengthening the close-and-good-contact framework while introducing safeguarding mechanisms (supervised-contact framework). Distinct from the Australian 2023 reform's safety-primary re-balancing."
+  ],
+  "references": [
+    "jurisdiction:sweden",
+    "jurisdiction:norway",
+    "jurisdiction:denmark",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Korkein oikeus (Supreme Court of Finland)",
+      "url": "https://www.korkeinoikeus.fi/",
+      "publisher": "Korkein oikeus",
+      "language": "fi,sv,en"
+    },
+    {
+      "title": "Finlex — Finnish legal database",
+      "url": "https://www.finlex.fi/",
+      "publisher": "Edita Publishing",
+      "language": "fi,sv,en"
+    },
+    {
+      "title": "Valvira",
+      "url": "https://www.valvira.fi/",
+      "publisher": "Valvira",
+      "language": "fi,sv,en"
+    },
+    {
+      "title": "Suomen Psykologiliitto",
+      "url": "https://www.psyli.fi/",
+      "publisher": "Suomen Psykologiliitto",
+      "language": "fi,sv"
+    }
+  ],
+  "editorial_notes": [
+    "Finland jurisdiction sidecar — Nordic civil-law framework. Laki lapsen huollosta 1983 + 2019 reform + Valvira statutory psychology regulator.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Nordic + federal-statutory psychology regulator clusters."
+  ]
+}

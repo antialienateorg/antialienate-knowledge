@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0",
+  "id": "ocha-mandate",
+  "name": "OCHA Mandate 1991 (UN Office for the Coordination of Humanitarian Affairs)",
+  "jurisdiction_code": "OCH",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-07",
+  "summary": "The UN Office for the Coordination of Humanitarian Affairs (OCHA) is a global supranational meta-framework foundational-OCHA framework established by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal international-humanitarian-coordination framework + UN-System-wide humanitarian coordination framework (OCHA established 19 December 1991 by UN General Assembly Resolution 46/182 as Department of Humanitarian Affairs DHA + reformed 1998 to UN Office for the Coordination of Humanitarian Affairs OCHA framework — formal foundational OCHA framework establishing comprehensive OCHA organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-humanitarian-coordination framework + UN-System-wide humanitarian coordination framework + only modern global supranational framework operating formal Inter-Agency Standing Committee IASC framework + only modern global supranational framework operating formal Cluster Approach 2005 framework via 11-clusters framework + only modern global supranational framework operating formal CERF Central Emergency Response Fund 2006 framework + only modern global supranational framework operating formal Pooled Funds Country-Based Pooled Funds CBPFs framework + only modern global supranational framework operating formal Humanitarian Needs Overview HNO + Humanitarian Response Plan HRP framework + only modern global supranational framework operating formal Global Humanitarian Overview GHO 2026 framework + only modern global supranational framework operating formal Russia-invasion-of-Ukraine-2022 humanitarian-response framework + only modern global supranational framework operating formal Gaza-2023-2024 humanitarian-response framework + only modern global supranational framework operating formal Sudan-civil-war-2023 humanitarian-response framework + only modern global supranational framework operating formal record-breaking-humanitarian-needs-2024-307-million-people-need-humanitarian-assistance framework + only modern global supranational framework operating formal record-breaking-humanitarian-funding-shortfall-2025 framework via Trump-USAID-cuts framework), as the central jurisdiction of the formal IASC Inter-Agency Standing Committee framework (Inter-Agency Standing Committee IASC established June 1992 by UN General Assembly Resolution 46/182 providing formal humanitarian-coordination framework via UN + NGO partnership framework — formal foundational IASC framework, structurally distinctive globally as the only modern global supranational framework operating formal Inter-Agency Standing Committee framework + only modern global supranational framework operating formal UN + NGO humanitarian-coordination partnership framework), as the central jurisdiction of the formal Cluster Approach 2005 framework (Cluster Approach adopted 2005 via Humanitarian Reform 2005 providing formal 11-clusters framework: Camp Coordination + Camp Management + Early Recovery + Education + Emergency Telecommunications + Food Security + Health + Logistics + Nutrition + Protection + Shelter + WASH framework — formal foundational Cluster Approach framework, structurally distinctive globally as the only modern global supranational framework operating formal Cluster Approach 11-clusters framework), and as the central jurisdiction of the formal CERF Central Emergency Response Fund 2006 framework (Central Emergency Response Fund CERF established 15 December 2005 by UN General Assembly Resolution 60/124 + CERF operations began 9 March 2006 providing formal USD 1 billion target rapid-response humanitarian-financing framework — formal foundational CERF framework, structurally distinctive globally as the only modern global supranational framework operating formal CERF rapid-response humanitarian-financing framework). The OCHA Mandate is operating upon 50+ countries field operations + 6 OCHA Regional Offices + global coverage framework — comprehensive humanitarian coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal OCHA Protection Cluster framework operates limited intersection with parental-alienation framework via formal humanitarian-protection cross-border-family-separation framework. The UN Emergency Relief Coordinator + OCHA Under-Secretary-General for Humanitarian Affairs + OCHA Secretariat + OCHA Country Offices are the formal OCHA bodies; national-level apex courts operate as judicial bodies. The OCHA Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "OCHA Founding Resolution 1991 (UN General Assembly Resolution 46/182)",
+      "title": "OCHA Founding Resolution",
+      "year": 1991,
+      "url": "https://www.unocha.org/",
+      "relevance": "OCHA established 19 December 1991 by UN General Assembly Resolution 46/182 as Department of Humanitarian Affairs DHA — formal foundational OCHA framework establishing comprehensive OCHA organisation framework."
+    },
+    {
+      "citation": "Cluster Approach 2005 (Humanitarian Reform)",
+      "title": "Cluster Approach",
+      "year": 2005,
+      "url": "https://www.unocha.org/",
+      "relevance": "Cluster Approach adopted 2005 via Humanitarian Reform 2005 — formal foundational Cluster Approach 11-clusters framework."
+    },
+    {
+      "citation": "CERF Central Emergency Response Fund 2005 (UN General Assembly Resolution 60/124)",
+      "title": "CERF",
+      "year": 2006,
+      "url": "https://cerf.un.org/",
+      "relevance": "Central Emergency Response Fund CERF established 15 December 2005 by UN General Assembly Resolution 60/124 + CERF operations began 9 March 2006 — formal foundational CERF rapid-response humanitarian-financing framework."
+    },
+    {
+      "citation": "OCHA Global Humanitarian Overview GHO 2026",
+      "title": "GHO 2026",
+      "year": 2025,
+      "url": "https://gho.unocha.org/",
+      "relevance": "OCHA Global Humanitarian Overview GHO 2026 released 4 December 2025 — formal annual OCHA Global Humanitarian Overview framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN Emergency Relief Coordinator",
+      "seat": "New York",
+      "url": "https://www.unocha.org/",
+      "role": "Formal supreme coordinator body for OCHA + IASC framework."
+    },
+    {
+      "name": "OCHA Under-Secretary-General for Humanitarian Affairs",
+      "seat": "New York",
+      "url": "https://www.unocha.org/",
+      "role": "Formal administrative head body for OCHA — currently Tom Fletcher 2024-2025+."
+    },
+    {
+      "name": "OCHA Secretariat",
+      "seat": "New York + Geneva",
+      "url": "https://www.unocha.org/",
+      "role": "Formal administrative body for OCHA."
+    },
+    {
+      "name": "OCHA Country Offices (50+ countries)",
+      "seat": "50+ countries",
+      "url": "https://www.unocha.org/",
+      "role": "Formal OCHA country-level operations body."
+    },
+    {
+      "name": "OCHA Regional Offices (6 Regional Offices)",
+      "seat": "6 Regional Offices",
+      "url": "https://www.unocha.org/",
+      "role": "Formal OCHA Regional Offices body: Asia-Pacific + Latin America + Middle East and North Africa + Southern and Eastern Africa + West and Central Africa + Pacific."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "OCHA Secretariat",
+      "url": "https://www.unocha.org/",
+      "role": "OCHA Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "OCHA-related communications operate via state-state framework via UN General Assembly + IASC; individual communications not formally accepted under OCHA framework.",
+  "key_developments": [
+    {
+      "year": 1991,
+      "title": "OCHA established as DHA",
+      "description": "OCHA established 19 December 1991 by UN General Assembly Resolution 46/182 as Department of Humanitarian Affairs DHA + UN Emergency Relief Coordinator established + IASC established — formal foundational DHA + IASC + ERC framework operational."
+    },
+    {
+      "year": 1998,
+      "title": "DHA reformed to OCHA",
+      "description": "DHA reformed 1998 to UN Office for the Coordination of Humanitarian Affairs OCHA — formal OCHA reform framework operational."
+    },
+    {
+      "year": 2005,
+      "title": "Humanitarian Reform + Cluster Approach + CERF",
+      "description": "Humanitarian Reform 2005 + Cluster Approach adopted 2005 + CERF Central Emergency Response Fund established 15 December 2005 by UN General Assembly Resolution 60/124 — formal foundational Humanitarian Reform + Cluster Approach + CERF framework operational."
+    },
+    {
+      "year": 2006,
+      "title": "CERF operations begin",
+      "description": "CERF operations began 9 March 2006 — formal foundational CERF rapid-response humanitarian-financing framework operational."
+    },
+    {
+      "year": 2010,
+      "title": "Haiti earthquake + IASC Transformative Agenda",
+      "description": "Haiti earthquake 12 January 2010 + IASC Transformative Agenda 2011-2012 reform framework — formal IASC Transformative Agenda framework operational."
+    },
+    {
+      "year": 2016,
+      "title": "World Humanitarian Summit + Grand Bargain",
+      "description": "World Humanitarian Summit held 23-24 May 2016 in Istanbul Turkey + Grand Bargain adopted 23 May 2016 — formal foundational World Humanitarian Summit + Grand Bargain framework operational."
+    },
+    {
+      "year": 2022,
+      "title": "Russia-Ukraine humanitarian response",
+      "description": "Russia invaded Ukraine 24 February 2022 + OCHA Ukraine humanitarian-response framework — formal OCHA Ukraine humanitarian-response framework operational."
+    },
+    {
+      "year": 2023,
+      "title": "Sudan + Gaza humanitarian responses",
+      "description": "Sudan civil war began 15 April 2023 + Israel-Hamas-Gaza war 7 October 2023 onwards + OCHA Sudan + Gaza humanitarian-response framework — formal OCHA Sudan + Gaza humanitarian-response framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "GHO 2024 USD 47 billion record + 307 million people need humanitarian assistance",
+      "description": "GHO 2024 USD 47 billion record appeal + 307 million people need humanitarian assistance 2024 record-breaking framework — formal OCHA record-breaking humanitarian-needs framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-USAID cuts + OCHA budget-crisis + Tom Fletcher",
+      "description": "Trump-administration-USAID-cuts-2025 + OCHA budget-crisis framework operational + Tom Fletcher became UN Under-Secretary-General for Humanitarian Affairs 18 November 2024 — formal OCHA Trump-USAID-cuts budget-crisis framework operational."
+    }
+  ],
+  "structural_findings": [
+    "OCHA Mandate operates a supranational global framework — places OCHA Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-humanitarian-coordination framework + UN-System-wide humanitarian coordination framework is structurally distinctive globally — only modern global supranational framework operating on formal international-humanitarian-coordination framework + UN-System-wide humanitarian coordination framework + only modern global supranational framework operating formal Inter-Agency Standing Committee IASC framework + only modern global supranational framework operating formal Cluster Approach 2005 framework via 11-clusters framework + only modern global supranational framework operating formal CERF Central Emergency Response Fund 2006 framework + only modern global supranational framework operating formal Pooled Funds Country-Based Pooled Funds CBPFs framework + only modern global supranational framework operating formal Humanitarian Needs Overview HNO + Humanitarian Response Plan HRP framework + only modern global supranational framework operating formal Global Humanitarian Overview GHO 2026 framework + only modern global supranational framework operating formal Russia-invasion-of-Ukraine-2022 humanitarian-response framework + only modern global supranational framework operating formal Gaza-2023-2024 humanitarian-response framework + only modern global supranational framework operating formal Sudan-civil-war-2023 humanitarian-response framework + only modern global supranational framework operating formal record-breaking-humanitarian-needs-2024-307-million-people-need-humanitarian-assistance framework + only modern global supranational framework operating formal record-breaking-humanitarian-funding-shortfall-2025 framework.",
+    "Central jurisdiction of formal IASC Inter-Agency Standing Committee framework is structurally distinctive globally — only modern global supranational framework operating formal Inter-Agency Standing Committee framework + only modern global supranational framework operating formal UN + NGO humanitarian-coordination partnership framework.",
+    "Central jurisdiction of formal Cluster Approach 2005 framework is structurally distinctive globally — only modern global supranational framework operating formal Cluster Approach 11-clusters framework.",
+    "Central jurisdiction of formal CERF Central Emergency Response Fund 2006 framework is structurally distinctive globally — only modern global supranational framework operating formal CERF rapid-response humanitarian-financing framework.",
+    "50+ countries field operations + 6 OCHA Regional Offices + global coverage framework is structurally distinctive globally — comprehensive humanitarian coverage framework.",
+    "1991 DHA + IASC + ERC + 1998 OCHA + 2005 Cluster + CERF + 2006 CERF operations + 2010 Haiti + IASC Transformative + 2016 World Humanitarian Summit + Grand Bargain + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2024 GHO 307M + 2025 Trump-USAID + Tom Fletcher OCHA-framework-development sequence is structurally distinctive globally.",
+    "OCHA Mandate + Founding Resolution + IASC + Cluster Approach + CERF + Pooled Funds + HNO + HRP + GHO formal nonet framework with limited PA-intersection framework via formal humanitarian-protection cross-border-family-separation framework — distinctive in operating limited PA-intersection framework via Protection Cluster framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:wfp-mandate",
+    "jurisdiction:unhcr-statute",
+    "jurisdiction:unicef-constitution",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "OCHA",
+      "url": "https://www.unocha.org/",
+      "publisher": "OCHA Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "OCHA Mandate jurisdiction sidecar — supranational global international-humanitarian-coordination foundational-OCHA meta-framework (OCHA Founding Resolution 1991 + IASC 1992 + Cluster Approach 2005 + CERF 2005/2006 + HNO + HRP + GHO 2026 + Pooled Funds + 1998 DHA-to-OCHA reform + 2010 Haiti + IASC Transformative + 2016 World Humanitarian Summit + Grand Bargain + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2024 GHO 307M + 2025 Trump-USAID + Tom Fletcher). Only modern global supranational framework operating on formal international-humanitarian-coordination framework + UN-System-wide humanitarian coordination + only modern global supranational framework operating formal IASC + only modern global supranational framework operating formal Cluster Approach 2005 11-clusters + only modern global supranational framework operating formal CERF 2006 rapid-response humanitarian-financing + only modern global supranational framework operating formal Pooled Funds CBPFs + only modern global supranational framework operating formal HNO + HRP + only modern global supranational framework operating formal GHO 2026 + only modern global supranational framework operating formal Russia-Ukraine 2022 + Gaza 2023-2024 + Sudan 2023 humanitarian-responses + only modern global supranational framework operating formal record-breaking-humanitarian-needs-2024-307-million + only modern global supranational framework operating formal record-breaking-humanitarian-funding-shortfall-2025 + central jurisdiction of formal IASC UN + NGO humanitarian-coordination partnership + central jurisdiction of formal Cluster Approach 11-clusters: CCCM + Early Recovery + Education + ETC + Food Security + Health + Logistics + Nutrition + Protection + Shelter + WASH + central jurisdiction of formal CERF rapid-response humanitarian-financing + 50+ countries field operations + 6 OCHA Regional Offices + UN Emergency Relief Coordinator + OCHA Headquartered New York + Geneva + OCHA USG Tom Fletcher 2024-2025+ + 1991 DHA + IASC + ERC + 1998 OCHA + 2005 Cluster + CERF + 2006 CERF operations + 2010 Haiti + IASC Transformative + 2016 World Humanitarian Summit + Grand Bargain + 2022 Russia-Ukraine + 2023 Sudan + Gaza + 2024 GHO 307M + 2025 Trump-USAID + Tom Fletcher OCHA-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: OCHA Protection Cluster framework operates limited intersection with parental-alienation framework via formal humanitarian-protection cross-border-family-separation framework.",
+    "Joins global + supranational + international-humanitarian-coordination-foundational-OCHA cluster + OCHA-only-global-supranational-framework-on-international-humanitarian-coordination-globally-distinctive + UN-System-wide-humanitarian-coordination + IASC-Inter-Agency-Standing-Committee-UN-NGO-partnership + Cluster-Approach-2005-11-clusters + CERF-Central-Emergency-Response-Fund-2006-USD-1-billion-target + Pooled-Funds-Country-Based-Pooled-Funds-CBPFs + HNO-Humanitarian-Needs-Overview + HRP-Humanitarian-Response-Plan + GHO-Global-Humanitarian-Overview-2026 + 50+-countries-field-operations + 6-OCHA-Regional-Offices + UN-Emergency-Relief-Coordinator + OCHA-Headquartered-New-York-Geneva + OCHA-USG-Tom-Fletcher-2024-2025 + DHA-1991-renamed-OCHA-1998 + 2010-Haiti-earthquake + 2011-2012-IASC-Transformative-Agenda + 2016-World-Humanitarian-Summit-Istanbul-Grand-Bargain + 2022-Russia-Ukraine + 2023-Sudan-Gaza + 2024-GHO-USD-47-billion-record-307-million-people + 2025-Trump-USAID-cuts-OCHA-budget-crisis + humanitarian-protection-cross-border-family-separation-PA-intersection clusters within the corpus."
+  ]
+}

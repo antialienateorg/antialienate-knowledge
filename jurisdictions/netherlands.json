@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "id": "netherlands",
+  "name": "Netherlands",
+  "jurisdiction_code": "NL",
+  "legal_system": "civil-law",
+  "language": ["nl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "The Netherlands is a civil-law jurisdiction whose PA landscape is shaped by three overlapping frames: Burgerlijk Wetboek Boek 1 (art. 1:247 ouderlijk gezag and the duty to promote the child's bond with the other parent, art. 1:253a parental-authority disputes, art. 1:377a omgangsregeling), the Jeugdwet 2015 decentralisation of youth-protection to gemeenten, and the Raad voor de Kinderbescherming (RvdK) court-instructed reporting role. The Hoge Raad has issued no PAS-specific apex ruling; positional weight resides in three documents — NJI Richtlijn 'Scheiding en problemen van jeugdigen' (2020), the Adviesrapport Expertteam Ouderverstoting/Complexe Omgangsproblematiek (January 2021, chair prof. dr. C. Finkenauer, UU), and the Kinderombudsman advisory KOM003/2014 'Vechtende ouders, het kind in de knel' (ombudsman Marc Dullaert). Professional associations (NIP, NVvP) have issued no public PA / PAS position statement.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Burgerlijk Wetboek Boek 1, art. 1:247 BW",
+      "title": "Ouderlijk gezag — verplichting tot bevordering van de ontwikkeling van de banden van het kind met de andere ouder",
+      "year": 1995,
+      "url": "https://wetten.overheid.nl/BWBR0002656/2024-01-01/0/Boek1/Titeldeel14/Afdeling1/Artikel247",
+      "relevance": "Primary statutory basis for the Dutch positive-duty framing of co-parental cooperation. Art. 1:247(3) BW imposes on the parent exercising authority the obligation to promote the development of the child's bonds with the other parent. This is the substantive Dutch hook through which PA-adjacent fact-patterns are litigated at Rechtbank (district court) and Gerechtshof (court of appeal) family-chamber level."
+    },
+    {
+      "citation": "Burgerlijk Wetboek Boek 1, art. 1:253a BW",
+      "title": "Geschillen omtrent gezamenlijke uitoefening van gezag",
+      "year": 1998,
+      "url": "https://wetten.overheid.nl/BWBR0002656/2024-01-01/0/Boek1/Titeldeel14/Afdeling2/Paragraaf3/Artikel253a",
+      "relevance": "Procedural route by which a parent with joint authority can ask the Rechtbank to resolve disputes including contact, residence and major-decision questions. The dominant procedural anchor for Dutch contact disputes."
+    },
+    {
+      "citation": "Burgerlijk Wetboek Boek 1, art. 1:377a BW",
+      "title": "Recht op omgang — omgangsregeling",
+      "year": 1995,
+      "url": "https://wetten.overheid.nl/BWBR0002656/2024-01-01/0/Boek1/Titeldeel15/Artikel377a",
+      "relevance": "Statutory right of contact between child and non-resident parent; grounds for denial limited to (a) serious detriment to child; (b) unfit parent; (c) under-12 child's express objection; (d) otherwise contrary to child's interests. The substantive standard against which PA-adjacent contact disputes are decided."
+    },
+    {
+      "citation": "Jeugdwet 2015",
+      "title": "Jeugdwet — decentralisatie van de jeugdhulp",
+      "year": 2015,
+      "url": "https://wetten.overheid.nl/BWBR0034925/2024-01-01",
+      "relevance": "Decentralises youth-help (jeugdhulp) and youth-protection (jeugdbescherming) to gemeenten (municipalities). Complex divorce / contact problems are referred via municipal Sociale Wijkteams, Veilig Thuis (DV safety reporting) and specialist providers (Kenter Jeugdhulp Haarlem, De Viersprong, Kinder- en Jeugd Traumacentrum). PA-related practice clusters at Lorentzhuis Haarlem (van Lawick + Visser, Kinderen uit de Knel programme) under Jeugdwet-funded family-systems-therapy delivery."
+    },
+    {
+      "citation": "Wet op de jeugdzorg (predecessor) / Jeugdwet",
+      "title": "Raad voor de Kinderbescherming (Ministerie van Justitie en Veiligheid)",
+      "year": 1995,
+      "url": "https://www.kinderbescherming.nl/",
+      "relevance": "RvdK is the federal child-protection investigative body. On court instruction RvdK conducts beschermings- en gezagsrapportages used as expert evidence in BW art. 1:253a and 1:377a contact disputes. The Expertteam Ouderverstoting (2021) recommended strengthening RvdK feitenonderzoek capability."
+    },
+    {
+      "citation": "Wet op de beroepen in de individuele gezondheidszorg (Wet BIG)",
+      "title": "Wet BIG — BIG-register and statutory professional regulation",
+      "year": 1993,
+      "url": "https://wetten.overheid.nl/BWBR0006251/2024-01-01",
+      "relevance": "Statutory regulation of clinical psychologists, GZ-psychologen, psychotherapists and psychiatrists through the BIG-register (Ministerie van VWS). The closest Dutch analogue to HCPC (UK) and RCI (India) practitioner regulation. BIG has issued no PA-specific tuchtrecht standard or guidance."
+    },
+    {
+      "citation": "Wetboek van Strafrecht art. 279",
+      "title": "Onttrekking aan het wettig gezag",
+      "year": 1881,
+      "url": "https://wetten.overheid.nl/BWBR0001854/2024-01-01/0/BoekTweede/TitelXVIII/Artikel279",
+      "relevance": "Criminal-law provision criminalising the withdrawal of a minor from lawful authority. The Hoge Raad decision of 15 February 2005 (ECLI:NL:HR:2005:AR8250, Strafkamer) addressed the application of art. 279 Sr in a family-law context where a father with joint authority kept the child from the mother — the cross-statute hook between the criminal and family-law Dutch architecture."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Hoge Raad der Nederlanden",
+      "url": "https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Hoge-Raad-der-Nederlanden",
+      "key_decisions": [
+        {
+          "caption": "Hoge Raad 15 februari 2005, ECLI:NL:HR:2005:AR8250 (Strafkamer) — addressed the application of Wetboek van Strafrecht art. 279 (onttrekking aan het wettig gezag) in a family-law context. NOT a PA-construct-engaging decision but the principal Hoge Raad authority cited in the Dutch family-criminal cross-statute literature on contact-frustration cases.",
+          "case_study_ref": "hoge-raad-2005-ar8250-netherlands",
+          "year": 2005,
+          "stance": "middle"
+        },
+        {
+          "caption": "No Hoge Raad PAS-construct-specific apex ruling has been issued. Unlike Italy (Cass. 9691/2022) or Spain (STS 519/2017), no Dutch apex decision directly assesses or disqualifies the PAS construct in CTU / forensic-evidence context. PA appears at Rechtbank and Gerechtshof level under BW art. 1:247 and 1:377a without direct apex-court engagement.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Gerechtshof — family-law chambers (Hof Den Haag, Hof Amsterdam, Hof Arnhem-Leeuwarden, Hof 's-Hertogenbosch)",
+      "url": "https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Gerechtshoven",
+      "key_decisions": [
+        {
+          "caption": "Gerechtshof family-chamber jurisprudence on omgangsregeling (BW art. 1:377a) under appellate review of Rechtbank district-court decisions. PA-adjacent fact-patterns are typically decided here under the welfare standard without direct PAS-construct adjudication.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Rechtbank — family-law chambers (Rechtbank Amsterdam / Den Haag / Rotterdam / Utrecht / etc.)",
+      "url": "https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken",
+      "key_decisions": [
+        {
+          "caption": "District court first-instance forum for contact and authority disputes under BW art. 1:253a and 1:377a. RvdK rapportages and (less frequently) external forensic experts inform PA-adjacent fact-finding.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "BIG-register (Wet BIG, Ministerie van VWS)",
+      "url": "https://www.bigregister.nl/",
+      "position_statement": "Statutory professional register for clinical psychologists, GZ-psychologen, psychotherapists, psychiatrists and other regulated health professionals. BIG-register / Tuchtcollege has issued no PA-specific tuchtrecht standard or guidance. BIG silence on the PA construct is part of the broader Dutch institutional-silence pattern."
+    },
+    {
+      "name": "Nederlands Instituut van Psychologen (NIP)",
+      "url": "https://www.psynip.nl/",
+      "position_statement": "Voluntary professional association of psychologists. NIP has issued NO public PA / PAS position statement, position paper, or clinical-practice guideline. NIP silence is structurally distinctive: unlike CFP Brazil, FePRA Argentina or Colpsic Colombia, the Dutch psychology professional association has not articulated either a recognition or a critique position on the parental-alienation construct."
+    },
+    {
+      "name": "Nederlandse Vereniging voor Psychiatrie (NVvP)",
+      "url": "https://www.nvvp.net/",
+      "position_statement": "Voluntary professional association of psychiatrists. NVvP has issued no PA-specific position statement, no clinical-practice guideline, and no public engagement with the parental-alienation construct. NVvP silence parallels NIP silence and forms part of the Dutch double-silence finding."
+    },
+    {
+      "name": "Federatie van Gezondheidszorgpsychologen en Psychotherapeuten (FGzPt)",
+      "url": "https://www.fgzpt.nl/",
+      "position_statement": "Federation responsible for the post-academic specialist registers (klinisch psycholoog, klinisch neuropsycholoog, psychotherapeut). FGzPt has issued no PA-specific position. PA-related practice expertise is concentrated at programmes (Lorentzhuis Kinderen uit de Knel) rather than at federation-register level."
+    },
+    {
+      "name": "Nederlands Jeugdinstituut (NJI) — guideline-issuing body",
+      "url": "https://www.nji.nl/",
+      "position_statement": "NJI is not a regulator but the load-bearing Dutch guideline-issuing institute. The NJI Richtlijn 'Scheiding en problemen van jeugdigen' (revised 2020, projectleider dr. Inge van der Valk UU) is the most-authoritative Dutch multidisciplinary clinical guideline on divorce-related child problems. It prefers the terms 'contactverlies' and 'geblokkeerde ouder-kindrelaties' over 'ouderverstoting' — a deliberate middle-stance terminological choice."
+    },
+    {
+      "name": "Raad voor de Kinderbescherming (RvdK)",
+      "url": "https://www.kinderbescherming.nl/",
+      "position_statement": "Federal child-protection investigative body under the Ministerie van Justitie en Veiligheid. RvdK rapportages have engaged the terms 'parental alienation' and 'ouderverstoting' since the Expertteam Ouderverstoting Adviesrapport (January 2021), framed by methodological caveats and a recommendation to strengthen feitenonderzoek capability."
+    },
+    {
+      "name": "Kinderombudsman",
+      "url": "https://www.dekinderombudsman.nl/",
+      "position_statement": "Adviesrapport KOM003/2014 'Vechtende ouders, het kind in de knel' (ombudsman Marc Dullaert, 2014) characterised ouderverstoting as a 'severe form of child maltreatment' — the earliest Dutch institutional engagement with the PA construct. The 2014 report is one of the three documents (with NJI 2020 + Expertteam 2021) that anchor the Dutch positional weight."
+    }
+  ],
+  "anonymisation_convention": "Hoge Raad and Gerechtshof family-chamber judgments anonymise minor children consistently; adult parties may be named in published arrests but more frequently are anonymised by initial or generic descriptor (verdachte / verzoeker / verweerder). Rechtspraak.nl uses ECLI-codes as the citation primitive. POCSO-equivalent confidentiality applies analogically; reporting restrictions under the Beginselenwet Justitiële Jeugdinrichtingen and Jeugdwet apply where minors are involved.",
+  "key_developments": [
+    {
+      "year": 1881,
+      "description": "Wetboek van Strafrecht art. 279 — onttrekking aan het wettig gezag — criminal-law hook for contact-frustration cases that subsequently informed the Hoge Raad 15.2.2005 cross-statute jurisprudence.",
+      "url": "https://wetten.overheid.nl/BWBR0001854/2024-01-01"
+    },
+    {
+      "year": 1993,
+      "description": "Wet op de beroepen in de individuele gezondheidszorg (Wet BIG) — establishes statutory professional regulation for clinical psychologists, GZ-psychologen, psychotherapists and psychiatrists.",
+      "url": "https://wetten.overheid.nl/BWBR0006251/2024-01-01"
+    },
+    {
+      "year": 1995,
+      "description": "Burgerlijk Wetboek Boek 1 (Boek 1 BW familie- en jeugdrecht) — art. 1:247 ouderlijk gezag (positive duty to promote the child's bond with the other parent) + art. 1:377a omgangsregeling — substantive Dutch hooks for PA-adjacent litigation.",
+      "url": "https://wetten.overheid.nl/BWBR0002656/2024-01-01/0/Boek1"
+    },
+    {
+      "year": 2005,
+      "description": "15.2.2005 — Hoge Raad ECLI:NL:HR:2005:AR8250 (Strafkamer) — applies WvSr art. 279 in family-law cross-statute context (father with joint authority retaining child from mother).",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3AHR%3A2005%3AAR8250"
+    },
+    {
+      "year": 2014,
+      "description": "Kinderombudsman KOM003/2014 'Vechtende ouders, het kind in de knel' (Marc Dullaert): characterises ouderverstoting as 'ernstige vorm van kindermishandeling'. Earliest Dutch institutional engagement with the PA construct.",
+      "url": "https://www.dekinderombudsman.nl/"
+    },
+    {
+      "year": 2015,
+      "description": "Jeugdwet 2015 — decentralisation of jeugdhulp to gemeenten. Re-routes PA-related practice through municipal Sociale Wijkteams + Veilig Thuis + specialist providers (Kenter Jeugdhulp / De Viersprong).",
+      "url": "https://wetten.overheid.nl/BWBR0034925/2024-01-01"
+    },
+    {
+      "year": 2017,
+      "description": "Programma Aanpak Vechtscheidingen (2017) — Ministerie van VWS + Ministerie van JenV joint policy programme on conflict-divorce.",
+      "url": "https://www.rijksoverheid.nl/onderwerpen/scheiding"
+    },
+    {
+      "year": 2018,
+      "description": "Februari 2018 — Platform Rouvoet (chair André Rouvoet) report 'Scheiden... en de kinderen dan?' — leads to Scheiden zonder Schade programme.",
+      "url": "https://www.rijksoverheid.nl/"
+    },
+    {
+      "year": 2020,
+      "description": "NJI Richtlijn 'Scheiding en problemen van jeugdigen' (revised 2020, projectleider dr. Inge van der Valk UU) — most-authoritative Dutch multidisciplinary clinical guideline; prefers 'contactverlies' and 'geblokkeerde ouder-kindrelaties' terminology.",
+      "url": "https://richtlijnenjeugdhulp.nl/scheiding/"
+    },
+    {
+      "year": 2021,
+      "description": "Januari 2021 — Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek (chair prof. dr. C. Finkenauer UU): institutional engagement with the PA construct framed by methodological caveats; recommends Methode Scheidings Advies Team (SAT) and RvdK feitenonderzoek strengthening. Beleidsreactie minister Dekker (februari 2021) accepts the report as policy framework.",
+      "url": "https://www.rijksoverheid.nl/"
+    }
+  ],
+  "structural_findings": [
+    "Dutch positional weight resides in DOCUMENTS, not associations. Unlike CFP Brazil, FePRA Argentina or Colpsic Colombia, neither NIP nor NVvP has issued a public PA / PAS position statement. The load-bearing Dutch positional anchors are (i) the NJI Richtlijn Scheiding (2020, projectleider Inge van der Valk UU), (ii) the Expertteam Ouderverstoting Adviesrapport (January 2021, chair Catrin Finkenauer UU), and (iii) the Kinderombudsman advisory KOM003/2014 'Vechtende ouders' (ombudsman Marc Dullaert). This three-document positional architecture is structurally distinctive within the EU6 bloc and globally.",
+    "The Lorentzhuis / Kinderen uit de Knel methodology (Justine van Lawick + Margreet Visser, Kenter Jeugdhulp Haarlem) explicitly rejects the terms 'ouderverstoting' and 'parental alienation' as suggestive of 'a conscious and aggressive process' and prefers 'contactverlies' (contact loss) and 'geblokkeerde ouder-kindrelaties' (blocked parent-child relationships). Classified middle, not recognition. The programme has been internationally adopted (No Kids in the Middle) and is the Dutch flagship system-therapy intervention for high-conflict divorce.",
+    "The Expertteam Ouderverstoting Adviesrapport (2021) is the institutional bridge between the political-policy framework (Scheiden zonder Schade) and clinical practice. It recommends RvdK feitenonderzoek strengthening and the Methode Scheidings Advies Team (SAT). The beleidsreactie of minister Dekker for Rechtsbescherming (February 2021) accepts the report as policy framework.",
+    "Atria-Movisie-Augeo form a trilateral knowledge-infrastructure where domestic-abuse, coercive-control and complex-divorce are studied. Atria (where prof. dr. Renée Römkens was director 2012-2022 and where dr. Sietske Dijkstra is affiliated researcher) and Movisie deploy a coercive-control frame that problematises PA as a potential instrument of control. Augeo Foundation is more ambivalent and publishes both recognition-clinician interviews (Erna Janssen 2022) and DV-cautioning pieces.",
+    "Strong university-research clusters on complex divorce: Universiteit Utrecht (Finkenauer, van der Valk, Kluwer — Youth & Family research group), Maastricht University (Corine de Ruiter + Henry Otgaar — forensic psychology), VU Amsterdam (Lamers-Winkelman, Forder — children's rights), Universiteit Leiden (Mariëlle Bruning — youth law). The empirical research centre of gravity on conflict-divorce outcomes is the UU axis Finkenauer-Kluwer-van der Valk; the forensic-critical axis sits at Maastricht (de Ruiter + Otgaar).",
+    "Cross-border NL+BE (Flemish) overlap is structural: the Lorentzhuis work is broadly adopted in Flanders, and the Handboek Familiaal Geweld (Opgroeien Vlaanderen) contains PAS-critical chapters that cite Dutch referents. The Dutch and Flemish circuits constitute a shared Nederlandstalige knowledge-space; future Belgium deepening must take account of this.",
+    "No Hoge Raad PAS-construct apex jurisprudence: unlike Italy (Cass. 9691/2022) and Spain (STS 519/2017), the Netherlands lacks an apex decision that disqualifies PAS in CTU / forensic-evidence context. PA appears at Rechtbank and Gerechtshof level under BW art. 1:247 and 1:377a without direct apex-court engagement with the scientific validity of the construct.",
+    "Father-rights advocacy (Joep Zander / Vaderkenniscentrum / herverbinden.nl / ouderverstoting.nl) is broadly present online but is NOT embedded in mainstream care institutions. This advocacy layer is recognised as context (cf. excluded[] in nl.json) but not registered as clinical-practitioner-of-record."
+  ],
+  "references": [
+    "case-study:hoge-raad-2005-ar8250-netherlands",
+    "practitioner:nl.van-lawick-justine",
+    "practitioner:nl.visser-margreet",
+    "practitioner:nl.finkenauer-catrin",
+    "practitioner:nl.van-der-valk-inge",
+    "practitioner:nl.de-ruiter-corine",
+    "practitioner:nl.otgaar-henry",
+    "practitioner:nl.dijkstra-sietske",
+    "practitioner:nl.romkens-renee",
+    "jurisdiction:belgium",
+    "jurisdiction:germany"
+  ],
+  "sources": [
+    {
+      "title": "Rechtspraak.nl — Hoge Raad, Gerechtshoven, Rechtbanken",
+      "url": "https://www.rechtspraak.nl/",
+      "publisher": "De Rechtspraak / Raad voor de Rechtspraak",
+      "language": "nl"
+    },
+    {
+      "title": "Wetten.overheid.nl — Burgerlijk Wetboek Boek 1 + Jeugdwet + Wet BIG",
+      "url": "https://wetten.overheid.nl/",
+      "publisher": "Ministerie van Justitie en Veiligheid / Overheid.nl",
+      "language": "nl"
+    },
+    {
+      "title": "NJI Richtlijn Scheiding en problemen van jeugdigen (2020)",
+      "url": "https://richtlijnenjeugdhulp.nl/scheiding/",
+      "publisher": "Nederlands Jeugdinstituut (NJI)",
+      "language": "nl"
+    },
+    {
+      "title": "Kinderombudsman KOM003/2014 — Vechtende ouders, het kind in de knel",
+      "url": "https://www.dekinderombudsman.nl/",
+      "publisher": "Kinderombudsman",
+      "language": "nl"
+    },
+    {
+      "title": "Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek (januari 2021)",
+      "url": "https://www.rijksoverheid.nl/",
+      "publisher": "Ministerie van Justitie en Veiligheid",
+      "language": "nl"
+    },
+    {
+      "title": "Raad voor de Kinderbescherming",
+      "url": "https://www.kinderbescherming.nl/",
+      "publisher": "Ministerie van Justitie en Veiligheid",
+      "language": "nl"
+    },
+    {
+      "title": "BIG-register",
+      "url": "https://www.bigregister.nl/",
+      "publisher": "Ministerie van VWS / CIBG",
+      "language": "nl"
+    },
+    {
+      "title": "Nederlands Instituut van Psychologen (NIP)",
+      "url": "https://www.psynip.nl/",
+      "publisher": "NIP",
+      "language": "nl"
+    },
+    {
+      "title": "Nederlandse Vereniging voor Psychiatrie (NVvP)",
+      "url": "https://www.nvvp.net/",
+      "publisher": "NVvP",
+      "language": "nl"
+    },
+    {
+      "title": "Lorentzhuis Haarlem — Kinderen uit de Knel programme",
+      "url": "https://www.lorentzhuis.nl/",
+      "publisher": "Lorentzhuis",
+      "language": "nl"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: Rechtspraak.nl and wetten.overheid.nl are cited first; NJI / Kinderombudsman / Expertteam follow as the institutional positional anchors; professional bodies (NIP / NVvP / BIG-register) follow.",
+    "Dutch terminology preserved throughout: 'ouderverstoting', 'omgangsregeling', 'gezamenlijk gezag', 'beschermingsrapport', 'feitenonderzoek'. The NJI / Lorentzhuis preferred terms 'contactverlies' and 'geblokkeerde ouder-kindrelaties' are used in middle-stance characterisation.",
+    "Three-document positional architecture (NJI 2020 + Expertteam 2021 + Kinderombudsman KOM003/2014) is the principal Dutch institutional structure and is identified in structural_findings[0].",
+    "Cross-border NL+BE Nederlandstalige knowledge-space overlap is real and recognised; Belgium jurisdiction deepening will need to address this shared Dutch-language circuit.",
+    "The Netherlands is treated as a single jurisdiction at federal level; Caribbean Netherlands (BES, Aruba/Curaçao/Sint Maarten) family-law variation is out of scope for this v1.0 entry."
+  ]
+}

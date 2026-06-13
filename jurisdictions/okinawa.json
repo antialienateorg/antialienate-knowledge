@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0",
+  "id": "okinawa",
+  "name": "Okinawa Prefecture (沖縄県 / 琉球 Ryukyu)",
+  "jurisdiction_code": "JP-OKI",
+  "legal_system": "civil-law",
+  "language": ["ja", "ryu", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "Okinawa Prefecture (沖縄県 Okinawa-ken in Japanese, also encompassing the Ryukyu 琉球 cultural identity) is a Southwestern Japanese civil-law Japanese prefecture comprising the Ryukyu Archipelago — structurally distinctive globally as the only Japanese prefecture with a continuous independent-kingdom framework predating Japanese incorporation (Ryukyu Kingdom 1429-1879 under the Sho Dynasty — independent maritime trading kingdom with tributary relationships with both Ming/Qing China and Tokugawa Japan via Satsuma Domain 1609-1879, distinct from rest-of-Japan's pre-Meiji feudal-domain framework), as the only Japanese prefecture subject to extended post-WWII US military administration (US Civil Administration of the Ryukyu Islands 1945-1972 — 27-year US administration following Battle of Okinawa April-June 1945 with ~150,000 civilian deaths, reverted to Japan 15 May 1972 under the Okinawa Reversion Agreement 1971), as the central jurisdiction for the US-Japan Status of Forces Agreement (SOFA) framework concentration (~70% of all US military base footprint in Japan concentrated in Okinawa Prefecture despite Okinawa comprising only ~0.6% of Japanese land area — Kadena Air Base + Marine Corps Air Station Futenma + Camp Schwab + Henoko relocation framework), and as a distinctive jurisdiction within Japan for Ryukyuan-cultural-identity-vs-Japanese-cultural-assimilation tension (Ryukyuan languages 沖縄口 Uchinaaguchi recognised by UNESCO as endangered languages 2009 — distinct from Japanese language but historically suppressed under Meiji-era assimilation policies 1879-1945). Okinawa was annexed by Meiji Japan via the Ryukyu Disposition framework 1872-1879 (abolishing the Ryukyu Kingdom and establishing Okinawa Prefecture 27 March 1879), suffered the Battle of Okinawa April-June 1945 (deadliest WWII Pacific battle on Japanese soil), was administered by the US Civil Administration of the Ryukyu Islands 1950-1972, and reverted to Japan on 15 May 1972. Okinawa Prefecture comprises ~2,281 km² (160+ islands across Ryukyu Archipelago) with a population of ~1.47 million. Family-law framework operates under the federal Japanese civil-law framework (Japanese Civil Code 1898 Family Law portion + Family Law Reform Act 2024 reintroducing joint parental authority post-divorce effective 2026) applied uniformly across Japanese prefectures. Parental authority (親権 shinken) and child custody operate under Japanese Civil Code framework — historically sole-custody framework until 2024 reform. The Naha District Court is the primary trial court; the Fukuoka High Court Naha Branch is the apex appellate court; final appellate jurisdiction lies with the Supreme Court of Japan. Okinawa is silent on 'parental alienation' as a statutory label. Japan is a Hague Convention 1980 signatory and party (acceded 24 January 2014 effective 1 April 2014).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Japanese Civil Code 1898 Family Law portion (民法 Minpo Articles 725-881)",
+      "title": "Japanese Civil Code Family Law",
+      "year": 1898,
+      "url": "https://www.japaneselawtranslation.go.jp/",
+      "relevance": "Japanese Federal Civil Code 1898 Family Law portion applicable uniformly across Okinawa Prefecture."
+    },
+    {
+      "citation": "Japanese Family Law Reform Act 2024 (joint parental authority post-divorce)",
+      "title": "Japanese Family Law Reform Act 2024",
+      "year": 2024,
+      "url": "https://www.moj.go.jp/",
+      "relevance": "Japanese Federal Act of 17 May 2024 reintroducing joint parental authority post-divorce — effective 2026 — applicable uniformly across Okinawa Prefecture."
+    },
+    {
+      "citation": "Okinawa Reversion Agreement 1971 (effective 15 May 1972)",
+      "title": "Okinawa Reversion Agreement",
+      "year": 1972,
+      "url": "https://www.mofa.go.jp/",
+      "relevance": "US-Japan bilateral agreement of 17 June 1971 effective 15 May 1972 reverting administration of Ryukyu Islands from US Civil Administration to Japan."
+    },
+    {
+      "citation": "US-Japan Status of Forces Agreement (SOFA) 1960",
+      "title": "US-Japan SOFA",
+      "year": 1960,
+      "url": "https://www.mofa.go.jp/",
+      "relevance": "US-Japan bilateral Status of Forces Agreement of 19 January 1960 applicable to US military bases in Okinawa post-1972 reversion — substantial Okinawa-prefecture-level political contestation."
+    },
+    {
+      "citation": "Hague Convention 1980 — Japanese accession 24 January 2014",
+      "title": "Hague Convention 1980 — Japan",
+      "year": 2014,
+      "url": "https://www.hcch.net/",
+      "relevance": "Japanese Hague Convention 1980 accession 24 January 2014 effective 1 April 2014 — applicable uniformly across Okinawa Prefecture."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Fukuoka High Court Naha Branch",
+      "seat": "Naha",
+      "url": "https://www.courts.go.jp/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Okinawa Prefecture."
+    },
+    {
+      "name": "Supreme Court of Japan",
+      "seat": "Tokyo",
+      "url": "https://www.courts.go.jp/",
+      "role": "Final appellate court for civil and criminal matters from Okinawa Prefecture."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Japanese Ministry of Health, Labour and Welfare (厚生労働省)",
+      "url": "https://www.mhlw.go.jp/",
+      "role": "Japanese Federal professional regulatory framework applicable in Okinawa Prefecture."
+    }
+  ],
+  "anonymisation_convention": "Okinawa family-court decisions are anonymised per Japanese court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1429,
+      "title": "Ryukyu Kingdom unified",
+      "description": "Ryukyu Kingdom unified 1429 under King Sho Hashi — beginning of Sho Dynasty independent maritime trading kingdom framework 1429-1879."
+    },
+    {
+      "year": 1609,
+      "title": "Satsuma invasion",
+      "description": "Satsuma Domain invasion of Ryukyu Kingdom 1609 — beginning of dual-tributary framework (Ming/Qing China + Tokugawa Japan via Satsuma) 1609-1879."
+    },
+    {
+      "year": 1879,
+      "title": "Ryukyu Disposition + Okinawa Prefecture established",
+      "description": "Meiji Japan Ryukyu Disposition framework 1872-1879 abolishing Ryukyu Kingdom — Okinawa Prefecture established 27 March 1879."
+    },
+    {
+      "year": 1945,
+      "title": "Battle of Okinawa",
+      "description": "Battle of Okinawa April-June 1945 — deadliest WWII Pacific battle on Japanese soil with ~150,000 civilian deaths + US military occupation following 23 June 1945 surrender."
+    },
+    {
+      "year": 1950,
+      "title": "US Civil Administration of the Ryukyu Islands",
+      "description": "US Civil Administration of the Ryukyu Islands established 1950 — 22-year US administration 1950-1972."
+    },
+    {
+      "year": 1972,
+      "title": "Okinawa Reversion to Japan",
+      "description": "Okinawa Reversion to Japan effective 15 May 1972 under Okinawa Reversion Agreement 1971."
+    },
+    {
+      "year": 2009,
+      "title": "UNESCO endangered-language recognition",
+      "description": "UNESCO Atlas of the World's Languages in Danger 2009 recognising Ryukyuan languages 沖縄口 as endangered."
+    },
+    {
+      "year": 2014,
+      "title": "Japan Hague Convention 1980 accession",
+      "description": "Japanese Hague Convention 1980 accession 24 January 2014 effective 1 April 2014 — applicable uniformly across Okinawa Prefecture."
+    },
+    {
+      "year": 2024,
+      "title": "Joint parental authority reform",
+      "description": "Japanese Family Law Reform Act 2024 reintroducing joint parental authority post-divorce effective 2026 — applicable uniformly across Okinawa Prefecture."
+    }
+  ],
+  "structural_findings": [
+    "Okinawa operates a federal Japanese civil-law prefecture framework — places Okinawa in the Southwestern Japanese Ryukyu-Archipelago cluster.",
+    "Only Japanese prefecture with continuous independent-kingdom framework predating Japanese incorporation (Ryukyu Kingdom 1429-1879) is structurally distinctive globally — distinct from rest-of-Japan's pre-Meiji feudal-domain framework.",
+    "Only Japanese prefecture subject to extended post-WWII US military administration (1945-1972 27-year US administration) is structurally distinctive globally.",
+    "Central jurisdiction for US-Japan SOFA framework concentration (~70% of US military base footprint in Japan on ~0.6% of Japanese land area) is structurally distinctive globally.",
+    "Ryukyuan-cultural-identity-vs-Japanese-cultural-assimilation tension is structurally distinctive within Japanese prefecture cluster — UNESCO-recognised endangered Ryukyuan languages 2009 framework.",
+    "Battle of Okinawa April-June 1945 framework is structurally distinctive globally — deadliest WWII Pacific battle on Japanese soil.",
+    "1609-1879 dual-tributary Ming/Qing-China-and-Tokugawa-Japan-via-Satsuma framework is structurally distinctive globally — only modern East-Asian jurisdiction with dual-tributary historical framework.",
+    "Japanese Hague-Convention-1980-accession-2014 status applies — late accession framework."
+  ],
+  "references": [
+    "jurisdiction:japan",
+    "jurisdiction:china",
+    "jurisdiction:taiwan",
+    "jurisdiction:south-korea",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Okinawa Prefectural Government",
+      "url": "https://www.pref.okinawa.jp/",
+      "publisher": "Okinawa Prefecture",
+      "language": "ja"
+    },
+    {
+      "title": "Japanese Ministry of Foreign Affairs",
+      "url": "https://www.mofa.go.jp/",
+      "publisher": "Japanese Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Okinawa Prefecture jurisdiction sidecar — civil-law Southwestern Japanese Ryukyu-Archipelago Japanese-prefecture (Japanese Civil Code 1898 + Japanese Family Law Reform Act 2024 + Okinawa Reversion Agreement 1971/1972 + US-Japan SOFA 1960 + Ryukyu Kingdom 1429-1879 + Satsuma invasion 1609 + Ryukyu Disposition 1879 + Battle of Okinawa 1945 + US Civil Administration 1950-1972 + UNESCO endangered Ryukyuan languages 2009 + Japan Hague-1980-2014). Only Japanese prefecture with continuous independent-kingdom framework predating Japanese incorporation globally + only Japanese prefecture subject to extended post-WWII US military administration + central jurisdiction for US-Japan SOFA framework concentration + Ryukyuan-cultural-identity-vs-Japanese-cultural-assimilation tension + Battle of Okinawa 1945 framework + 1609-1879 dual-tributary framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Southwestern-Japanese + civil-law + Japanese-prefecture cluster + Ryukyu-Kingdom-1429-1879-independent-kingdom-globally-distinctive + US-Civil-Administration-1945-1972 + Okinawa-Reversion-1972 + US-Japan-SOFA-base-concentration + Ryukyuan-languages-UNESCO-endangered + Satsuma-1609-dual-tributary + Battle-of-Okinawa-1945 + Japan-Hague-1980-2014 clusters within the corpus."
+  ]
+}

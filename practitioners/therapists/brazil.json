@@ -1,0 +1,426 @@
+{
+  "schema_version": "1.0",
+  "country": "Brazil",
+  "country_code": "BR",
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "source_file": "practitioners-brazil-therapists.md",
+  "jurisdictional_context": "Brazil's Lei nº 12.318/2010 (Lei da Alienação Parental, LAP) is the world's most explicit PA-recognition statute. Drafted by Elizio Luiz Perez (juiz TRT-2/SP), introduced as PL 4.053/2008 by dep. Régis de Oliveira (PSC-SP), rapporteur Sen. Paulo Paim (PT-RS), sanctioned 26 Aug 2010 (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm). Amended by Lei 14.340/2022 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14340.htm) which removed automatic suspensão do poder familiar and made escuta especializada (Lei 13.431/2017) mandatory. CFP Nota Técnica 4/2022/GTEC/CG (https://site.cfp.org.br/wp-content/uploads/2022/08/SEI_CFP-0698871-Nota-Tecnica.pdf) instructs psicólogos not to ground analyses on Lei 12.318 and recognises gender bias. CFESS joint nota Dec 2022 (https://www.cfess.org.br/arquivos/nota-tecnica-LAP-2022-dez.pdf) extended critique to assistentes sociais. PL 1.372/2023 (full revocation) passed CCJ 37-28 on 3 Dec 2025; pendente Plenário. Psicólogos register with one of 24 CRPs under CFP (https://site.cfp.org.br/).",
+  "stance_codes": {
+    "recognition": "Treats AP as real, assessable; uses Lei 12.318/2010 framing; IBDFAM / PASG / GARI-PA aligned.",
+    "critique": "Argues Lei 12.318/2010 scientifically weak (Gardner-derived SAP), gender-biased, weaponised against DV-survivor mothers / CSA-disclosing children; supports CFP NT 4/2022 and/or revocation.",
+    "middle": "Recognises conflict dynamics exist but rejects AP/SAP as diagnostic; emphasises procedural safeguards (Resolução CFP 11/2018 depoimento especial).",
+    "institutional": "Federal/regional regulators or conselhos with binding professional doctrine."
+  },
+  "entries": [
+    {
+      "id": "br-calcada-andreia",
+      "name": "Dra Andreia Soares Calçada",
+      "credentials": "Psicóloga clínica e jurídica; perita TJRJ; membro IBDFAM; Comissão Científica Revista Alienação Parental",
+      "crp_number": "CRP 05/18785",
+      "city": "Rio de Janeiro, RJ",
+      "stance": "recognition",
+      "specialty": "Perícia psicológica forense em Varas de Família; alienação parental; falsas alegações de abuso sexual em disputas de guarda; psicodiagnóstico; neuropsicologia",
+      "publications": [
+        "Perdas Irreparáveis: Alienação Parental e Falsas Acusações de Abuso Sexual (Equilíbrio Editora, 2008 e reedições)",
+        "A Psicodinâmica da Alienação Parental (monograph)",
+        "Calçada et al., Perícia psicológica forense em processos que envolvem acusações de alienação parental, Revista Científica IBDFAM ed. 45"
+      ],
+      "urls": [
+        "https://andreiacalcada.com.br/",
+        "http://clinicaexpansao.com.br/",
+        "https://www.migalhas.com.br/autor/andreia-soares-calcada",
+        "https://escuelamunduna.edu.ar/sites/default/files/A%20Psicodin%C3%A2mica%20da%20Aliena%C3%A7%C3%A3o%20Parental%20%20Andreia%20Cal%C3%A7ada_0.pdf",
+        "https://ibdfam.org.br/noticias/9049",
+        "https://revistaalienacaoparental.webnode.pt/comissao-cientifica/"
+      ],
+      "contact": "Clínica Barra: Av. das Américas 2901, sala 404, Barra da Tijuca, Rio de Janeiro/RJ; Clínica Tijuca: Av. Maracanã 987, sala 1102, Shopping Tijuca; WhatsApp +55 (21) 99797-6311; https://andreiacalcada.com.br/contato",
+      "verification_notes": "CRP 05/18785 publicly displayed in A Psicodinâmica da Alienação Parental author byline. Team CRP numbers (Coutinho Kuczny CRP 08/33462, Amin CRP 05/68002, Cardoso CRP 05/54838) also publicly displayed."
+    },
+    {
+      "id": "br-brazil-glicia",
+      "name": "Glicia Barbosa de Mattos Brazil",
+      "credentials": "Psicóloga TJRJ (27+ anos); bacharel em Direito; Coordenadora Curso Ext. Alienação Parental PUC-Rio; VP Comissão Infância e Juventude IBDFAM; Tutora ENFAM; Professora FMP-RS",
+      "crp_number": "not publicly displayed (CRP-05 RJ, confirmed via TJRJ/FMP-RS institutional employment)",
+      "city": "Rio de Janeiro, RJ",
+      "stance": "recognition",
+      "specialty": "Psicologia jurídica; perícia forense em Varas de Família; AP; neurociência da memória aplicada à perícia; depoimento especial",
+      "publications": [
+        "Trilogia JusPodivm sobre a criança no Sistema de Justiça",
+        "A Alienação Parental sob a Ótica da Neurociência (IBDFAM PDF)",
+        "SciELO co-author: Perícias Psicológicas em Processos Judiciais Envolvendo Suspeita de Alienação Parental"
+      ],
+      "urls": [
+        "https://gliciabrazil.com.br/",
+        "https://www.fmp.edu.br/corpo-docente/glicia-brazil/",
+        "https://www.editorajuspodivm.com.br/authors/page/view/id/4760/",
+        "https://www.youtube.com/@gliciabrazil5875",
+        "https://ibdfam.org.br/assets/img/upload/files/Artigo%20IBDFAM%20glicia.pdf",
+        "https://www.scielo.br/j/pcp/a/yN8FTYKPbLNQsR5WDp9b3jq",
+        "https://blog.grupogen.com.br/juridico/areas-de-interesse/civil/live-alienacao-parental/",
+        "https://ibdfam.org.br/noticias/10711",
+        "https://www.intercept.com.br/2023/05/18/abuso-glicia-brazil-psicologa-fortalece-defesa-de-acusados/"
+      ],
+      "contact": "Contact form at https://gliciabrazil.com.br/ ; TJRJ institutional channel; FMP-RS https://www.fmp.edu.br/corpo-docente/glicia-brazil/",
+      "verification_notes": "CRP-05 institutional registration confirmed via TJRJ servidora + FMP-RS docente + PUC-Rio Coordenadora; specific number not publicly displayed. Intercept (May 2023) investigative profile is the principal critical media flashpoint; high media sensitivity."
+    },
+    {
+      "id": "br-perissini-denise",
+      "name": "Dra Denise Maria Perissini da Silva",
+      "credentials": "Mestre em Ciências Humanas Interdisciplinares (UNISA); especialista em Psicologia Forense; intérprete judicial de Libras TJSP; owner Perissini Psicologia Clínica e Forense, Cursos e Treinamentos",
+      "crp_number": "not publicly displayed (CRP-06 SP)",
+      "city": "São Paulo, SP",
+      "stance": "recognition",
+      "specialty": "Psicologia jurídica; Varas de Família; depoimento especial (Resolução CFP 11/2018); avaliação psicológica em processos de guarda; AP sob Lei 12.318 + Lei 14.340",
+      "publications": [
+        "Psicologia Jurídica e os Litígios em Varas de Família (Juruá, 6ª ed., atualizada com Lei 14.340/2022)",
+        "Psicologia Jurídica no Processo Civil Brasileiro (Casa do Psicólogo / Forense, 2ª ed. 2012, 449pp)",
+        "Guarda Compartilhada e Síndrome de Alienação Parental – o que é isso? (Equilíbrio)",
+        "Migalhas columnist on perícia"
+      ],
+      "urls": [
+        "https://www.migalhas.com.br/autor/denise-maria-perissini-da-silva",
+        "https://dmperissini.jusbrasil.com.br/",
+        "https://www.escavador.com/sobre/478524/denise-maria-perissini-da-silva",
+        "https://www.jurua.com.br/shop_item.asp?id=30631",
+        "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:2019;001162293",
+        "https://www.migalhas.com.br/depeso/435714/pericia-psicologica-importante-em-disputas-judiciais"
+      ],
+      "contact": "São Paulo/SP (practice address not publicly displayed); via Migalhas or Escavador",
+      "verification_notes": "CRP-06 SP regional registration consistent with São Paulo practice + TJSP intérprete judicial role; specific CRP number not publicly displayed."
+    },
+    {
+      "id": "br-trindade-jorge",
+      "name": "Prof. Dr. Jorge Trindade",
+      "credentials": "Livre-docente em Psicologia Forense ULBRA (Professor Titular 1989-2019); criador (com colaboradores) da Escala de Indicadores de Alienação Parental; ex-Promotor de Justiça MP-RS aposentado; cofounder INPSI Porto Alegre",
+      "crp_number": "not publicly displayed (CRP-07 RS)",
+      "city": "Porto Alegre, RS",
+      "stance": "recognition",
+      "specialty": "Psicologia jurídica forense; psicopatologia forense; AP e Lei 12.318/2010; instrumentos de detecção",
+      "publications": [
+        "Manual de Psicologia Jurídica para Operadores do Direito (Livraria do Advogado, Porto Alegre, 9ª ed.)",
+        "Cap. Síndrome de Alienação in M. B. Dias (org.) Incesto e Alienação Parental (RT, 3ª ed. 2014)",
+        "Cartilha de Alienação Parental (ALERS / Associação Brasileira Criança Feliz, 2014)",
+        "Escala de Indicadores de Alienação Parental (instrumento online)"
+      ],
+      "urls": [
+        "https://www.inpsi.com.br/jorge-trindade/",
+        "https://pt.wikipedia.org/wiki/Jorge_Trindade",
+        "https://www.academia-de-filosofia.org.br/jorge-trindade",
+        "https://pt.scribd.com/document/798844234/manual-psicologia-juridica-trindade-9-ed",
+        "https://revistaalienacaoparental.webnode.pt/products/manual-de-psicologia-juridica-para-operadores-do-direito-6%C2%AA-edi%C3%A7%C3%A3o-/",
+        "https://repositorio.pucrs.br/dspace/handle/10923/7834"
+      ],
+      "contact": "Via INPSI Porto Alegre — https://www.inpsi.com.br/jorge-trindade/",
+      "verification_notes": "CRP-07 RS registration consistent with ULBRA Livre-docente + INPSI; OAB-RS also (ex-promotor MP-RS). His Escala is the only BR-developed PA detection instrument in routine forense use."
+    },
+    {
+      "id": "br-molinari-fernanda",
+      "name": "Dra Fernanda Molinari",
+      "credentials": "Pós-Doutora em Psicologia Forense e do Testemunho (Univ. Fernando Pessoa, Portugal); Psicanalista; advogada PUCRS (laureada); Presidente da SBPJ; Diretora IBDFAM-RS; docente FMP-RS e CLIP",
+      "crp_number": "not publicly displayed (CRP-07 RS) + OAB-RS",
+      "city": "Porto Alegre, RS",
+      "stance": "recognition",
+      "specialty": "Psicologia forense e do testemunho; mediação familiar; AP; psicologia judiciária para magistratura",
+      "publications": [
+        "Mediação de Conflitos e Alienação Parental: fundamentos teóricos e práticos (Imprensa Livre, Porto Alegre, 2016)",
+        "Psicologia Judiciária para a Carreira da Magistratura",
+        "Co-edits Revista Alienação Parental (Issuu)"
+      ],
+      "urls": [
+        "https://www.inpsi.com.br/fernanda-molinari/",
+        "https://fmp.edu.br/corpo-docente/fernanda-molinari/",
+        "https://www.escavador.com/sobre/1721013/fernanda-molinari",
+        "https://revistaalienacaoparental.webnode.pt/comissao-cientifica/",
+        "https://issuu.com/obgcbrasil/docs/2._edi_o_2014_1_/s/17162674"
+      ],
+      "contact": "Via INPSI Porto Alegre https://www.inpsi.com.br/fernanda-molinari/ ; FMP-RS institutional channel",
+      "verification_notes": "SBPJ presidency + FMP-RS docente confirms CRP-07 + OAB-RS dual registration; specific numbers not publicly displayed."
+    },
+    {
+      "id": "br-baccara-sandra",
+      "name": "Dra Sandra Baccara Araújo",
+      "credentials": "PhD em Psicologia UnB (2006); Mestre Psicologia Clínica PUC-Rio (1982); Graduação Psicologia CES Juiz de Fora (1978); VP Comissão Interdisciplinar IBDFAM-DF",
+      "crp_number": "not publicly displayed (CRP-01 DF)",
+      "city": "Brasília, DF",
+      "stance": "recognition",
+      "specialty": "Psicologia clínica; psicoterapia infantil/adolescente/familiar; função paterna; AP e normativas",
+      "publications": [
+        "Baccara & Fetter (org.), Alienação Parental — Interlocuções entre o Direito e a Psicologia (Maresfield Gardens, 2014)",
+        "Cap. Alienação Parental e Normativas in Debatendo sobre Alienação Parental: diferentes perspectivas (CFP 2019)",
+        "Contributor, Alienação Parental: Da Interdisciplinaridade aos Tribunais (JusPodivm, 6ª ed. 2024)"
+      ],
+      "urls": [
+        "https://www.crp-01.org.br/notices/7572",
+        "http://ongpaisporjustica.blogspot.com/2011/05/sandra-baccara-defende-pericias-em.html",
+        "https://site.cfp.org.br/wp-content/uploads/2019/11/Livro-Debatendo-sobre-Alienacao-Parental-Diferentes-Perspectivas.pdf",
+        "https://www.editorajuspodivm.com.br/alienacao-parentalda-interdisciplinaridade-aos-tribunais-2024-6ed"
+      ],
+      "contact": "Via IBDFAM-DF and CRP-01 channels",
+      "verification_notes": "CRP-01 DF interview at https://www.crp-01.org.br/notices/7572 confirms regional registration. Structural anomaly: a recognition voice published *inside* the CFP 2019 Debatendo volume — useful for documenting the dialogic period before NT 4/2022 closed it."
+    },
+    {
+      "id": "br-duarte-lenita",
+      "name": "Lenita Pacheco Lemos Duarte",
+      "credentials": "Psicanalista clínica; Mestre em Psicanálise Clínica e de Pesquisa; especialista em Mediação de Conflitos Familiares; Escola de Psicanálise dos Fóruns do Campo Lacaniano - Brasil; IBDFAM nacional, RJ e Niterói",
+      "crp_number": "not publicly displayed (CRP-05 RJ)",
+      "city": "Rio de Janeiro, RJ",
+      "stance": "recognition",
+      "specialty": "Psicanálise lacaniana aplicada a guarda em litígio; mediação familiar; danos da AP no psiquismo infantil",
+      "publications": [
+        "A Guarda dos Filhos na Família em Litígio — Uma Interlocução da Psicanálise com o Direito (Lumen Juris, 4ª ed. 2012)",
+        "A Angústia das Crianças diante dos Desenlaces Parentais (Lumen Juris, 2ª ed. 2018)",
+        "Mediação na Alienação Parental",
+        "Efeitos da alienação parental na criança – a visão da psicanálise lacaniana (IBDFAM artigo 1993)"
+      ],
+      "urls": [
+        "https://www.editorajuspodivm.com.br/authors/page/view/id/5219",
+        "https://www.escavador.com/sobre/3244089/lenita-pacheco-lemos-duarte",
+        "https://ibdfam.org.br/publicacoes/livros/detalhes/201/A%20Guarda%20dos%20Filhos%20na%20Fam%C3%ADlia%20em%20Lit%C3%ADgio%20-%20Uma%20Interlocu%C3%A7%C3%A3o%20da%20Psican%C3%A1lise%20com%20o%20Direito",
+        "https://ibdfam.org.br/noticias/8872",
+        "https://ibdfam.org.br/artigos/1993"
+      ],
+      "contact": "Via JusPodivm author page; IBDFAM-RJ channel",
+      "verification_notes": "CRP-05 RJ registration consistent with IBDFAM-RJ membership + Rio practice; specific number not publicly displayed. The psychoanalytic-Lacanian recognition voice (distinct from the cognitive-forense majority)."
+    },
+    {
+      "id": "br-madaleno-carpes-ana",
+      "name": "Ana Carolina Carpes Madaleno",
+      "credentials": "Advogada PUCRS; formação em Psicologia Transpessoal e Constelações Familiares; sócia Escritório Madaleno (Porto Alegre)",
+      "crp_number": "not applicable - not CRP-registered psicóloga (OAB-RS, advogada)",
+      "city": "Porto Alegre, RS",
+      "stance": "recognition",
+      "specialty": "Direito de família e sucessões; constelações familiares; AP; mediação sistêmica",
+      "publications": [
+        "Madaleno & Madaleno, Alienação Parental — Importância da Detecção, Aspectos Legais e Processuais (Forense / GEN, 9ª ed. 2024)",
+        "Síndrome da Alienação Parental (Forense)",
+        "Direito Sistêmico e Alienação Parental (Rolf Madaleno artigo)",
+        "Constelações Sistêmicas Familiares e Alienação Parental (OAB-RS, 2018)"
+      ],
+      "urls": [
+        "https://carpesmadaleno.com.br/",
+        "https://rolfmadaleno.com.br/web/artigo/direito-sistemico-e-alienacao-parental-ana-carolina-carpes-madaleno",
+        "http://s.oab.org.br/arquivos/2018/05/ana-carolina-carpes.pdf",
+        "https://www.grupogen.com.br/livro-alienacao-parental-ana-carolina-carpes-madaleno-e-rolf-madaleno-editora-forense-9786559648900",
+        "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:2018;001107441"
+      ],
+      "contact": "Escritório Madaleno, Porto Alegre — https://carpesmadaleno.com.br/",
+      "verification_notes": "LISTED WITH CAVEAT — not a CRP-registered psicóloga clínica (advogada OAB-RS with constelações-familiar training). Included because co-author of the most-reprinted BR recognition-camp interdisciplinary AP volume; should be cross-listed in /practitioners-latam-lawyers.md for primary fit."
+    },
+    {
+      "id": "br-vida-mental-sp",
+      "name": "Dr Hewdy Lobo Ribeiro + Elise Karam Trindade (Vida Mental Perícias)",
+      "credentials": "Hewdy: psiquiatra forense, diretor Vida Mental Perícias. Elise: psicóloga, coordenadora Psicologia Jurídica, especialista em Psicologia Jurídica + Neuropsicologia",
+      "crp_number": "Hewdy: CREMESP 114681; Elise: CRP 06/205826",
+      "city": "São Paulo, SP",
+      "stance": "recognition",
+      "specialty": "Psiquiatria forense; psicologia jurídica; neuropsicologia; avaliações em processos cível, trabalhista, criminal, família e saúde; assistência técnica em AP com explícita análise da assimetria de gênero",
+      "publications": [
+        "Lobo Ribeiro, Karam Trindade & Schmidt de Oliveira (Dec 2024) — Por que a alienação parental é frequentemente imputado às mães? (CNB-SP + Migalhas)",
+        "Lobo Ribeiro et al. (Dec 2024) — A perspectiva da paternidade socioafetiva (CNB-SP)",
+        "Multiple peer-reviewed psiquiatria forense articles on parental assessment"
+      ],
+      "urls": [
+        "https://www.catalogo.med.br/doutor/hewdy-lobo-ribeiro-1987720.htm",
+        "https://www.migalhas.com.br/autor/hewdy-lobo",
+        "https://www.escavador.com/sobre/2369911/hewdy-lobo-ribeiro",
+        "https://www.linkedin.com/in/drhewdyloboespecialistapsiquiatra/",
+        "https://cnbsp.org.br/2024/12/09/artigo-por-que-a-alienacao-parental-e-frequentemente-imputado-as-maes/",
+        "https://www.migalhas.com.br/depeso/421078/por-que-a-alienacao-parental-e-frequentemente-imputado-as-maes",
+        "https://cnbsp.org.br/2024/12/09/artigo-a-perspectiva-da-paternidade-socioafetiva-por-hewdy-lobo-ribeiro-ana-carolina-schmidt-de-oliveira-elise-karam-trindade-e-thaiele-teixeira/"
+      ],
+      "contact": "Vida Mental Serviços Médicos Ltda, São Paulo (LinkedIn channel); Migalhas author page",
+      "verification_notes": "Both registration numbers publicly displayed (CREMESP 114681 via CatalogoMed; CRP 06/205826 via CNB-SP article). The rare recognition-camp team that explicitly engages the gender-asymmetry critique on its own terms (70.73% / 75.6% accuser/accused split data) while maintaining AP can still be assessed."
+    },
+    {
+      "id": "br-arantes-esther",
+      "name": "Profa Esther Maria de Magalhães Arantes, PhD",
+      "credentials": "PhD Educação Boston University (1981); Professora aposentada Depto. Psicologia PUC-Rio; Professora PPFH/UERJ; contribuidora histórica da Cartilha de Direitos Humanos do CFP",
+      "crp_number": "not publicly displayed (CRP-05 RJ)",
+      "city": "Rio de Janeiro, RJ",
+      "stance": "critique",
+      "specialty": "História da assistência à infância no Brasil; políticas públicas para crianças; psicologia e direitos humanos; crítica à instrumentalização forense da psicologia em Varas de Família",
+      "publications": [
+        "Transtornos do Amor Parental (POLÊM!CA / UERJ)",
+        "Co-organisadora Debatendo sobre Alienação Parental: diferentes perspectivas (CFP 2019)",
+        "Contribuidora Os Direitos Humanos na Prática Profissional dos Psicólogos (CFP)"
+      ],
+      "urls": [
+        "https://www.escavador.com/sobre/9775671/esther-maria-de-magalhaes-arantes",
+        "https://site.cfp.org.br/wp-content/uploads/2004/05/cartilha_dh.pdf",
+        "https://www.e-publicacoes.uerj.br/index.php/polemica/article/view/2817",
+        "https://site.cfp.org.br/wp-content/uploads/2019/11/Livro-Debatendo-sobre-Alienacao-Parental-Diferentes-Perspectivas.pdf",
+        "https://site.cfp.org.br/cfp-divulga-orientacoes-sobre-a-atuacao-profissional-em-relacao-a-alienacao-parental/"
+      ],
+      "contact": "UERJ PPFH institutional channel; PUC-Rio Departamento de Psicologia (retired faculty channel)",
+      "verification_notes": "CRP-05 RJ registration consistent with PUC-Rio + UERJ employment; specific number not publicly displayed. Senior intellectual / doctoral-supervisor anchor of the BR critique camp inside the CFP system."
+    },
+    {
+      "id": "br-torraca-leila",
+      "name": "Profa Leila Maria Torraca de Brito, PhD",
+      "credentials": "PhD Psicologia Clínica PUC-Rio (1999); pós-doc UFPR (2007) + PUC-MG (2012); Profa Titular aposentada Instituto Psicologia UERJ; ex-coordenadora Curso Especialização Psicologia Jurídica UERJ",
+      "crp_number": "not publicly displayed (CRP-05 RJ)",
+      "city": "Rio de Janeiro, RJ",
+      "stance": "critique",
+      "specialty": "Psicologia jurídica; guarda de filhos; escuta de crianças no sistema de justiça; crítica acadêmica à transposição da SAP de Gardner para a Lei 12.318/2010",
+      "publications": [
+        "Sousa & Torraca de Brito (2010) Síndrome de Alienação Parental: da teoria norte-americana à nova lei brasileira (Psicologia: Ciência e Profissão / SciELO) — canonical BR critique paper",
+        "Anotações sobre a Psicologia Jurídica (SciELO)",
+        "A escuta de crianças no sistema de Justiça no Brasil (DESidades/UFRJ)",
+        "Temas de Psicologia Jurídica (Relume-Dumará, 2002, 2ª ed.)",
+        "Se-pa-ran-do: um estudo sobre a atuação do psicólogo nas Varas de Família (Relume-Dumará / UERJ, 1993)"
+      ],
+      "urls": [
+        "https://scholar.google.com/citations?user=pyf8_N0AAAAJ&hl=pt-BR",
+        "https://www.escavador.com/sobre/7720071/leila-maria-torraca-de-brito",
+        "https://www.researchgate.net/scientific-contributions/Leila-Maria-Torraca-de-Brito-2048493816",
+        "http://www.scielo.br/j/pcp/a/H7w9kPHrY86XM9DXZLKvJtF/?lang=pt",
+        "https://www.scielo.br/j/pcp/a/654BBJ4bMsrqKPsDCQShJZC/?lang=pt",
+        "https://desidades.ufrj.br/open_space/a-escuta-de-criancas-no-sistema-de-justica-no-brasil-acoes-e-indagacoes/",
+        "https://www.amazon.com.br/Temas-de-psicologia-juridica/dp/8573161795"
+      ],
+      "contact": "UERJ Instituto de Psicologia (retired faculty channel); via Escavador / Google Scholar",
+      "verification_notes": "CRP-05 RJ consistent with UERJ + PUC-Rio history; specific number not publicly displayed. 1,700+ Google Scholar citations. The single most-cited BR psicóloga jurídica academic on the critique side."
+    },
+    {
+      "id": "br-martins-de-sousa-analicia",
+      "name": "Dra Analicia Martins de Sousa, PhD",
+      "credentials": "Psicóloga; Doutora em Psicologia Social UERJ (orientada por Torraca de Brito); pesquisadora em psicologia jurídica",
+      "crp_number": "not publicly displayed (CRP-05 RJ)",
+      "city": "Rio de Janeiro, RJ",
+      "stance": "critique",
+      "specialty": "Psicologia social; psicologia jurídica; novos dispositivos de controle social (AP, bullying, assédio moral)",
+      "publications": [
+        "Síndrome da Alienação Parental: um novo tema nos juízos de família (Cortez, 2010, ISBN 9788524916250) — first BR book-length critique",
+        "Sousa & Torraca de Brito (2010) SciELO peer-reviewed paper",
+        "Doctoral thesis (UERJ Psicologia Social) on social-control function of the PA construct"
+      ],
+      "urls": [
+        "https://analiciamartins.com.br/",
+        "https://www.scielo.br/j/pcp/a/H7w9kPHrY86XM9DXZLKvJtF/?lang=pt",
+        "https://www.amazon.com.br/S%C3%ADndrome-aliena%C3%A7%C3%A3o-parental-ju%C3%ADzos-fam%C3%ADlia/dp/8524916257",
+        "https://www.lexml.gov.br/urn/urn:lex:br:rede.virtual.bibliotecas:livro:2010;000890710",
+        "https://www.tjce.jus.br/noticias/uma-teoria-de-escasso-valor-cientifico-virou-lei-no-brasil/"
+      ],
+      "contact": "https://analiciamartins.com.br/ ; UERJ Programa de Pós-Graduação em Psicologia Social institutional channel",
+      "verification_notes": "CRP-05 RJ consistent with UERJ Doutoramento; specific number not publicly displayed."
+    },
+    {
+      "id": "br-pisano-motta-maria-antonieta",
+      "name": "Profa Maria Antonieta Pisano Motta",
+      "credentials": "Psicanalista; docente Departamento de Psicanálise Instituto Sedes Sapientiae (São Paulo); psicóloga clínica e jurídica",
+      "crp_number": "not publicly displayed (CRP-06 SP)",
+      "city": "São Paulo, SP",
+      "stance": "middle",
+      "specialty": "Psicanálise; psicologia jurídica; crítica psicanalítica à instrumentalização da SAP em Varas de Família",
+      "publications": [
+        "Além dos fatos e dos relatos: uma visão psicanalítica do direito de família",
+        "Co-author Síndrome da Alienação Parental e a Tirania do Guardião (with Maria Berenice Dias e Rosana Barbosa Cipriano Simão, Equilíbrio, 2012)",
+        "Various Sedes Sapientiae seminars on family law / psychoanalysis"
+      ],
+      "urls": [
+        "https://scholar.google.com/citations?user=JPocEIcAAAAJ&hl=pt-BR",
+        "https://www.migalhas.com.br/tudo-sobre/maria-antonieta-pisano",
+        "https://teses.usp.br/teses/disponiveis/47/47133/tde-16042012-162324/pt-br.php"
+      ],
+      "contact": "Instituto Sedes Sapientiae, R. Ministro de Godói 1484, Perdizes, São Paulo/SP",
+      "verification_notes": "CRP-06 SP consistent with Sedes Sapientiae docente role; specific number not publicly displayed. Coded MIDDLE because she co-authored the M. B. Dias volume (recognition-camp publisher) yet her own analytic critique resists SAP as diagnostic; she occupies the rare procedural-psychoanalytic-middle position."
+    },
+    {
+      "id": "br-cfp-institutional",
+      "name": "Conselho Federal de Psicologia (CFP)",
+      "credentials": "Autarquia federal; regulador profissional de todos os psicólogos brasileiros; 24 CRPs regionais",
+      "crp_number": "n/a (self - federal regulator)",
+      "city": "Brasília, DF (sede federal)",
+      "stance": "institutional",
+      "specialty": "Federal regulation of psychological practice in Brazil; PA-specific institutional doctrine for psicólogos via NT 4/2022",
+      "publications": [
+        "Nota Técnica nº 4/2022/GTEC/CG (Sep 2022) — process 576600003.000068/2022-53 — doctrinal anchor for institutional critique camp",
+        "Debatendo sobre Alienação Parental: diferentes perspectivas (CFP 2019 caderno de textos)",
+        "CRP-09 Relatório sobre Alienação Parental (2023)",
+        "Joint Nota Técnica with CFESS (Dec 2022)",
+        "Nota Técnica nº 25/2025 — atuação profissional com mulheres em situação de violência (gênero)"
+      ],
+      "urls": [
+        "https://site.cfp.org.br/",
+        "https://site.cfp.org.br/wp-content/uploads/2022/08/SEI_CFP-0698871-Nota-Tecnica.pdf",
+        "https://site.cfp.org.br/cfp-divulga-orientacoes-sobre-a-atuacao-profissional-em-relacao-a-alienacao-parental/",
+        "https://site.cfp.org.br/alienacao-parental-sera-tema-de-dialogo-digital-do-cfp/",
+        "https://site.cfp.org.br/wp-content/uploads/2019/11/Livro-Debatendo-sobre-Alienacao-Parental-Diferentes-Perspectivas.pdf",
+        "https://transparencia.cfp.org.br/crp09/wp-content/uploads/sites/21/2023/07/Relatorio-do-CRP-09-sobre-Alienacao-Parental.pdf",
+        "https://www.cfess.org.br/arquivos/nota-tecnica-LAP-2022-dez.pdf",
+        "https://site.cfp.org.br/wp-content/uploads/2025/08/nota_tecnica_violencia_genero.pdf",
+        "https://ibdfam.org.br/artigos/1916/",
+        "https://www.migalhas.com.br/depeso/386493/a-infame-nota-tecnica-4-22-do-conselho-federal-de-psicologia"
+      ],
+      "contact": "CFP, SAUS Quadra 03 Lote 5/6, Bloco L, Edifício CFP, Brasília/DF — https://site.cfp.org.br/ contact form",
+      "verification_notes": "NT 4/2022 origin traces to IX CNP 2016 Proposal 38. IBDFAM published constitutional/ethical rebuttal (artigos/1916/) and Migalhas published 'A infame nota técnica 4/22' as recognition-camp rebuttal anchors — both retrievable for balanced citation."
+    },
+    {
+      "id": "br-cfess-institutional",
+      "name": "Conselho Federal de Serviço Social (CFESS)",
+      "credentials": "Autarquia federal; regulador profissional dos assistentes sociais; 27 CRESS regionais; partner-authority to CFP on family-court multidisciplinary work",
+      "crp_number": "n/a (federal regulator for serviço social, not psicologia)",
+      "city": "Brasília, DF (sede federal)",
+      "stance": "institutional",
+      "specialty": "Federal regulation of social work; multidisciplinary critique of Lei 12.318/2010 from social-service perspective",
+      "publications": [
+        "Joint Nota Técnica CFESS-CFP (Dec 2022) — O trabalho de assistentes sociais e a Lei de Alienação Parental",
+        "CFESS national position statement framing LAP as 'alternativa punitiva legal e regulatória do Estado sobre mulheres'"
+      ],
+      "urls": [
+        "https://www.cfess.org.br/",
+        "https://www.cfess.org.br/arquivos/nota-tecnica-LAP-2022-dez.pdf",
+        "https://www.cfess.org.br/visualizar/noticia/cod/1876"
+      ],
+      "contact": "CFESS, SCS Quadra 02, Bloco C, Edifício Serra Dourada, Brasília/DF — https://www.cfess.org.br/",
+      "verification_notes": "The multidisciplinary partner of CFP NT 4/2022. Lei 12.318/2010 art. 5º mandates biopsicossocial perícia, making CFESS institutional critique structurally as binding as CFP's for the social-worker leg of forense teams."
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Maria Berenice Dias",
+      "reason": "Desembargadora aposentada / advogada, not psicóloga. Listed in /practitioners-latam-lawyers.md for category fit."
+    },
+    {
+      "name": "Rolf Madaleno",
+      "reason": "Advogado, not psicólogo. Listed in /practitioners-latam-lawyers.md."
+    },
+    {
+      "name": "Ivone Maria Cândido Coelho de Souza",
+      "reason": "Confirmed organizer of interdisciplinary AP volumes but primary professional category leans direito de família / interdisciplinar editor; not verified-clinician for therapists' directory."
+    },
+    {
+      "name": "Priscila Faria de Freitas",
+      "reason": "No primary source confirms a psicóloga by this name working on PA. Retrievable hit is Priscila Maria Pereira Corrêa da Fonseca (USP Direito), not psicóloga. Not publicly confirmed."
+    },
+    {
+      "name": "Ana Paula da Costa",
+      "reason": "Multiple BR psicólogas with that name; no primary source uniquely identifies a single PA-clinical figure. Not publicly confirmed."
+    },
+    {
+      "name": "Marília Lobão Ribeiro / Liane Maria Busnello Thomé",
+      "reason": "Academic-juridical contributors; PA work surfaces in legal periodicals more than psicologia clínica venues; relevance to therapists' directory is marginal. Consider for jurists / interdisciplinarity file."
+    },
+    {
+      "name": "Elizio Luiz Perez",
+      "reason": "Primary author of the PL that became Lei 12.318/2010, juiz do trabalho TRT-2/SP; not a clinician. Critical to jurisdictional context but excluded from therapists' directory."
+    }
+  ],
+  "structural_findings": [
+    "Brazil is the only LATAM jurisdiction where institutional critique camp (CFP NT 4/2022 + CFESS) and clinical recognition camp (Calçada / G. Brazil / Trindade / Molinari / Lobo Ribeiro / Karam) are roughly equal in institutional weight.",
+    "The 2017-2019 CFP debate was substantively dialogic — Sandra Baccara's recognition chapter inside CFP 2019 Debatendo documents this. Closure happened with NT 4/2022, not earlier.",
+    "Lei 14.340/2022 is genuinely ambiguous — recognition camp reads as procedural fine-tuning preserving LAP; critique camp reads as partial concession to femicide/DV-silencing critique. Both readings have textual support.",
+    "A small but important 'recognition-with-gender-asymmetry-concession' sub-camp exists (Lobo Ribeiro / Karam Trindade, Vida Mental SP) — they engage the 70.73%/75.6% accuser/accused gender split data on its own terms while maintaining AP can still be assessed.",
+    "Critique camp clinical roster is narrower than recognition camp, concentrated at UERJ + PUC-Rio (Arantes, Torraca de Brito, Martins de Sousa) plus Sedes Sapientiae SP (Pisano Motta). Without CFP + CFESS the practitioner critique camp would be visibly thinner.",
+    "CRP numbers are systematically under-published in BR. Only Calçada (CRP 05/18785), Lobo Ribeiro (CREMESP 114681) and Karam Trindade (CRP 06/205826) display registry numbers publicly. Direct CRP regional lookup will be needed for outreach verification on the other 11 entries.",
+    "PL 1.372/2023 (full revocation) passed CCJ 37-28 on 3 Dec 2025; pendente Plenário. Recognition camp is now openly fighting to preserve LAP — directory should expect significant churn through 2026."
+  ],
+  "stance_counts": {
+    "recognition": 9,
+    "critique": 3,
+    "middle": 1,
+    "institutional": 2,
+    "total": 15
+  }
+}

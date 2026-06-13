@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0",
+  "id": "singapore",
+  "name": "Singapore",
+  "jurisdiction_code": "SG",
+  "legal_system": "common-law",
+  "language": ["en", "ms", "zh", "ta"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "summary": "Singapore is a common-law jurisdiction whose family-law architecture is the Women's Charter 1961 (substantive marriage / divorce / custody statute, especially Parts VII Custody and Maintenance + s.68 maintenance duty), the Family Justice Act 2014 (FJA — constitutes the Family Justice Courts), the Family Justice Rules 2014 (procedural) and the Children and Young Persons Act 1949 (care and protection). TEN v TEO and another appeal [2020] SGHCF 20 (Debbie Ong J, then Presiding Judge FJC) is the LEADING SINGAPORE AUTHORITY on alienating behaviour and excessive gatekeeping. The Family Justice Courts operate the Counselling and Psychological Service (CAPS) as the in-court family-conference and reunification-support arm. Cross-jurisdictional dialogue with Hong Kong (H v W 2021 HKCA 733) and India (Vivek Singh v Romani Singh 2017) places Singapore in the principal Asian recognition cluster.",
+  "pa_recognition_status": {
+    "statutory": "indirect-hook",
+    "apex_court_position": "recognition",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Women's Charter 1961 Part VII (Custody and Maintenance of Children)",
+      "title": "Women's Charter — substantive marriage and divorce statute",
+      "year": 1961,
+      "url": "https://sso.agc.gov.sg/Act/WC1961",
+      "relevance": "Substantive Singapore family-law statute. Part VII governs custody, care and control and maintenance of children. ss.124-125 welfare jurisdiction; s.126 court powers; s.127 access; s.68 statutory duty of maintenance (independent of access or personal relationship). The substantive hook through which TEN v TEO and other PA-adjacent disputes are decided."
+    },
+    {
+      "citation": "Women's Charter 1961 s.68",
+      "title": "Women's Charter s.68 — duty to maintain children",
+      "year": 1961,
+      "url": "https://sso.agc.gov.sg/Act/WC1961",
+      "relevance": "s.68 establishes the statutory duty of a parent to maintain children that does NOT vary based on access or personal relationship. Expressly engaged in TEN v TEO [2020] SGHCF 20 — the duty exists independent of whether the alienated parent has actual contact with the children."
+    },
+    {
+      "citation": "Family Justice Act 2014 (FJA)",
+      "title": "Family Justice Act — constitutes the Family Justice Courts",
+      "year": 2014,
+      "url": "https://sso.agc.gov.sg/Act/FJA2014",
+      "relevance": "Constitutes the Family Justice Courts (Family Court + Youth Court + Family Division of the High Court). FJC operates with specialist family-law judges and an integrated CAPS counselling-and-psychological-service arm. Substantive architectural shift in Singapore family-law administration."
+    },
+    {
+      "citation": "Family Justice Rules 2014",
+      "title": "Family Justice Rules — procedural rules",
+      "year": 2014,
+      "url": "https://sso.agc.gov.sg/SL/FJA2014-S813-2014",
+      "relevance": "Procedural rules operating under the FJA 2014. Family Justice Courts' CAPS team is integrated into the procedural architecture; court-directed family conferences and reunification-support sessions operate under these rules."
+    },
+    {
+      "citation": "Children and Young Persons Act 1949 (CYPA)",
+      "title": "Children and Young Persons Act — care and protection statute",
+      "year": 1949,
+      "url": "https://sso.agc.gov.sg/Act/CYPA1993",
+      "relevance": "Care-and-protection statute under which the Child Protective Service (CPS) operates. CYPA proceedings can intersect with FJC custody disputes — TEN v TEO arose partly out of a 2016 CYPA care-and-protection proceeding subsequently set aside in UNB v Child Protector [2018] 5 SLR 1018."
+    },
+    {
+      "citation": "Administration of Muslim Law Act 1966 (AMLA)",
+      "title": "Administration of Muslim Law Act — Syariah Court jurisdiction",
+      "year": 1966,
+      "url": "https://sso.agc.gov.sg/Act/AMLA1966",
+      "relevance": "Establishes the Syariah Court of Singapore with concurrent jurisdiction over Muslim divorce and child custody (hadhanah). Muslim family disputes operate under AMLA and the Syariah Court rather than Women's Charter; PA-adjacent fact-patterns in Muslim families may engage Syariah Court hadhanah reasoning."
+    },
+    {
+      "citation": "Allied Health Professions Act 2011",
+      "title": "Allied Health Professions Act — regulator of psychologists and allied professions",
+      "year": 2011,
+      "url": "https://sso.agc.gov.sg/Act/AHPA2011",
+      "relevance": "Statutory framework regulating allied health professions in Singapore. Provides statutory underpinning for the Singapore Register of Allied Health Professionals and the Allied Health Professions Council (AHPC). Psychologists are voluntarily registered with the Singapore Register of Psychologists (SRP) rather than statutorily registered."
+    },
+    {
+      "citation": "Medical Registration Act 1997",
+      "title": "Medical Registration Act — psychiatrists statutory registration",
+      "year": 1997,
+      "url": "https://sso.agc.gov.sg/Act/MRA1997",
+      "relevance": "Statutory framework for medical practitioners including psychiatrists. Singapore Medical Council operates under MRA. Psychiatrists engaging PA-adjacent practice operate under SMC registration; psychologists operate under SRP voluntary registration."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Singapore",
+      "url": "https://www.judiciary.gov.sg/",
+      "key_decisions": [
+        {
+          "caption": "Court of Appeal of Singapore is the apex appellate court. CX v CY [2005] 3 SLR(R) 690 established the substantive sole-custody reservation principle that TEN v TEO subsequently applied. No CofA decision has directly engaged the parental-alienation construct as a nosological category, but the welfare-and-care doctrine includes alienating-behaviour reasoning.",
+          "year": 2005,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Appellate Division of the High Court (since 2021 restructure)",
+      "url": "https://www.judiciary.gov.sg/",
+      "key_decisions": [
+        {
+          "caption": "Singapore courts were restructured in 2021 to create an Appellate Division of the High Court (between High Court and Court of Appeal). Family-law appeals from the FJC pass through the Appellate Division. Debbie Ong J subsequently elevated to the Appellate Division.",
+          "year": 2021,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Family Division of the High Court (within Family Justice Courts)",
+      "url": "https://www.judiciary.gov.sg/family/family-justice-courts",
+      "key_decisions": [
+        {
+          "caption": "TEN v TEO and another appeal [2020] SGHCF 20 — Debbie Ong J (then Presiding Judge FJC) 23 November 2020. LEADING SINGAPORE AUTHORITY on 'alienating behaviour' and 'excessive gatekeeping' by a custodial parent. Two-limb distinction: court cannot force children to love a parent BUT expects custodial parent to cease alienating behaviour and support reunification. s.68 maintenance duty independent of access.",
+          "case_study_ref": "ten-v-teo-2020-sghcf-20-singapore",
+          "year": 2020,
+          "stance": "recognition"
+        },
+        {
+          "caption": "UNB v Child Protector [2018] 5 SLR 1018 — High Court (Family Division) set aside CYPA care-and-protection orders finding children not suffering 'emotional injury' threshold required to justify state intervention; directed CAPS and DSSA reunification support. Predecessor decision to TEN v TEO.",
+          "year": 2018,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Family Court / Youth Court (within Family Justice Courts)",
+      "url": "https://www.judiciary.gov.sg/family/family-justice-courts",
+      "key_decisions": [
+        {
+          "caption": "First-instance family-law forum under FJA 2014. The bulk of Singapore PA-adjacent fact-patterns are decided here under Women's Charter Part VII and informed by CAPS counsellor reports.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    },
+    {
+      "name": "Syariah Court of Singapore (Muslim family law)",
+      "url": "https://www.syariahcourt.gov.sg/",
+      "key_decisions": [
+        {
+          "caption": "Syariah Court has concurrent jurisdiction over Muslim divorce and hadhanah (child custody) under AMLA 1966. Muslim family disputes operate under Syariah reasoning rather than Women's Charter; PA-adjacent fact-patterns in Muslim families may engage hadhanah analysis distinct from common-law welfare standard.",
+          "year": 2026,
+          "stance": "middle"
+        }
+      ]
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Singapore Register of Psychologists (SRP) — Singapore Psychological Society (SPS)",
+      "url": "https://singaporepsychologicalsociety.org/",
+      "position_statement": "Voluntary register administered by the Singapore Psychological Society. Psychologists in Singapore are NOT statutorily registered (unlike psychiatrists under SMC + MRA). No SRP/SPS PA-specific position statement issued. Voluntary-registration architecture parallels NZAC counsellor pattern in New Zealand."
+    },
+    {
+      "name": "Singapore Medical Council (SMC) — psychiatrists statutory register",
+      "url": "https://www.healthprofessionals.gov.sg/smc",
+      "position_statement": "Statutory regulator for medical practitioners including psychiatrists under MRA 1997. No PA-specific SMC position. SMC has not engaged the parental-alienation construct directly."
+    },
+    {
+      "name": "Allied Health Professions Council (AHPC)",
+      "url": "https://www.healthprofessionals.gov.sg/ahpc",
+      "position_statement": "Statutory regulator for allied health professions under Allied Health Professions Act 2011. AHPC covers some non-medical practitioner categories. No PA-specific AHPC position."
+    },
+    {
+      "name": "Family Justice Courts — Counselling and Psychological Service (CAPS)",
+      "url": "https://www.judiciary.gov.sg/family/family-justice-courts",
+      "position_statement": "In-court counselling and psychological service arm of the Family Justice Courts. CAPS team conducts court-directed family conferences and reunification-support sessions; expressly engaged in TEN v TEO [2020] SGHCF 20 (court directed CAPS family conferences during appeals). LOAD-BEARING SINGAPORE INSTITUTIONAL ANCHOR — operationalises the FJA 2014 integration of counselling into the family-court process."
+    },
+    {
+      "name": "Child Guidance Clinic, Institute of Mental Health (IMH)",
+      "url": "https://www.imh.com.sg/",
+      "position_statement": "Child and adolescent psychiatry / psychology service at IMH (Singapore's principal mental-health institution). Court-referral institutional provider for PA-adjacent cases. Engaged in TEN v TEO."
+    },
+    {
+      "name": "Division of Social Service Agencies (DSSA) — Ministry of Social and Family Development (MSF)",
+      "url": "https://www.msf.gov.sg/",
+      "position_statement": "Division administering family-service agencies under MSF. Operates therapeutic and family-conference support referred from FJC. Engaged in TEN v TEO following UNB v Child Protector [2018] 5 SLR 1018."
+    },
+    {
+      "name": "Child Protective Service (CPS) — Ministry of Social and Family Development",
+      "url": "https://www.msf.gov.sg/",
+      "position_statement": "Statutory child-protection agency under CYPA 1949. CPS investigations can intersect with FJC custody disputes. UNB v Child Protector [2018] 5 SLR 1018 set the threshold for CYPA state intervention in PA-adjacent fact-patterns."
+    }
+  ],
+  "anonymisation_convention": "Singapore Family Justice Courts impose STRICT anonymisation: all parties in divorce and child proceedings are pseudonymised using initials (e.g., TEN v TEO; UNB v Child Protector; CX v CY). The Family Justice Rules 2014 codify this convention. Children are referred to as 'Elder daughter / Younger daughter' or by neutral descriptor. The anonymisation regime is more strict than US / UK adult-naming and approaches Australia's FLA s.121 in protective intent without being statutorily identical. Singapore Statute Online (sso.agc.gov.sg) publishes consolidated statutes; eLitigation publishes judgments.",
+  "key_developments": [
+    {
+      "year": 1949,
+      "description": "Children and Young Persons Act 1949 — care-and-protection statute (subsequently revised 1993).",
+      "url": "https://sso.agc.gov.sg/Act/CYPA1993"
+    },
+    {
+      "year": 1961,
+      "description": "Women's Charter 1961 — substantive Singapore marriage and divorce statute including Part VII Custody and Maintenance.",
+      "url": "https://sso.agc.gov.sg/Act/WC1961"
+    },
+    {
+      "year": 1966,
+      "description": "Administration of Muslim Law Act 1966 (AMLA) — establishes Syariah Court of Singapore.",
+      "url": "https://sso.agc.gov.sg/Act/AMLA1966"
+    },
+    {
+      "year": 2005,
+      "description": "CX v CY [2005] 3 SLR(R) 690 — Court of Appeal — establishes the sole-custody reservation principle subsequently applied in TEN v TEO.",
+      "url": "https://www.judiciary.gov.sg/"
+    },
+    {
+      "year": 2014,
+      "description": "Family Justice Act 2014 (FJA) + Family Justice Rules 2014 — constitutes the Family Justice Courts with integrated CAPS counselling-and-psychological-service arm.",
+      "url": "https://sso.agc.gov.sg/Act/FJA2014"
+    },
+    {
+      "year": 2018,
+      "description": "UNB v Child Protector [2018] 5 SLR 1018 — High Court (Family Division) sets aside CYPA care-and-protection orders; threshold-setting decision for state intervention in PA-adjacent fact-patterns.",
+      "url": "https://www.judiciary.gov.sg/"
+    },
+    {
+      "year": 2020,
+      "description": "23 November 2020 — TEN v TEO and another appeal [2020] SGHCF 20 (Debbie Ong J, then Presiding Judge FJC). LEADING SINGAPORE AUTHORITY on alienating behaviour and excessive gatekeeping.",
+      "url": "https://www.judiciary.gov.sg/"
+    },
+    {
+      "year": 2021,
+      "description": "Singapore courts restructure 2021 — Appellate Division of the High Court created between High Court and Court of Appeal. Debbie Ong J subsequently elevated to Appellate Division.",
+      "url": "https://www.judiciary.gov.sg/"
+    }
+  ],
+  "structural_findings": [
+    "TEN v TEO [2020] SGHCF 20 (Debbie Ong J) IS THE LEADING SINGAPORE AUTHORITY ON ALIENATING BEHAVIOUR. Two-limb doctrine: (a) the law cannot force children to love a parent; (b) the law expects a parent with care-and-control to cease alienating behaviour and to support reunification. s.68 Women's Charter maintenance duty operates independently of access or personal relationship. Recognition-camp anchor for Singapore.",
+    "FAMILY JUSTICE COURTS + CAPS INTEGRATED INSTITUTIONAL ARCHITECTURE: The FJA 2014 institutionally integrated counselling into the family-court process via the Counselling and Psychological Service (CAPS). CAPS is the LOAD-BEARING SINGAPORE INSTITUTIONAL ANCHOR — court-directed family conferences and reunification-support sessions are administratively embedded in FJC. Singapore institutional analogue to Ontario OCL / England Cafcass / Australian FRW pool / South Africa Family Advocate.",
+    "REGULATOR ARCHITECTURE — DUAL TRACK: Psychiatrists statutorily registered under SMC + MRA 1997; psychologists VOLUNTARILY registered under SRP/SPS (no equivalent statutory register). Asymmetric regulatory architecture means psychologist credentialing for PA-construct deployment is weaker than psychiatry credentialing — parallels NZ HPCAA-psychologists vs NZAC-counsellors split.",
+    "CROSS-JURISDICTIONAL ASIAN APEX CLUSTER: TEN v TEO sits in parallel with H v W [2021] HKCA 733 (Hong Kong, recognition stance) and Vivek Singh v Romani Singh (2017) 3 SCC 231 (India, apex PAS-defining). The three constitute the principal common-law Asian apex authorities recognising one-parent obstructive conduct as a family-law wrong. Cross-jurisdictional Asian apex coherence on PA recognition.",
+    "PARALLEL CYPA + WOMEN'S CHARTER ARCHITECTURE: PA-adjacent fact-patterns can engage BOTH the Children and Young Persons Act 1949 (care-and-protection / state intervention) AND the Women's Charter Part VII (custody / care-and-control). UNB v Child Protector [2018] 5 SLR 1018 set the threshold for CYPA state intervention; TEN v TEO operates the Women's Charter welfare track.",
+    "MULTI-RELIGIOUS DUAL-COURT STRUCTURE: Singapore operates parallel jurisdictions — Family Justice Courts (Women's Charter) for non-Muslim families; Syariah Court (AMLA) for Muslim families. Muslim family-law PA-adjacent reasoning engages hadhanah (custody) analysis distinct from common-law welfare standard. Structurally distinctive vs other v2 jurisdictions.",
+    "DEBBIE ONG J AS LOAD-BEARING JUDICIAL FIGURE: As then-Presiding Judge of the Family Justice Courts, Debbie Ong J authored TEN v TEO and operationalised the FJC architecture. Subsequently elevated to Appellate Division of the High Court. Institutionally analogous to Sir Andrew McFarlane P (England) as the judicial author of a jurisdiction's apex PA-engaging decision.",
+    "STRICT ANONYMISATION REGIME: Family Justice Rules 2014 codify strict anonymisation (parties by initials TEN/TEO/UNB/CX-CY; children by descriptor). More restrictive than US / UK adult-naming convention; approaches Australia FLA s.121 in protective intent without being statutorily identical."
+  ],
+  "references": [
+    "case-study:ten-v-teo-2020-sghcf-20-singapore",
+    "case-study:vivek-singh-v-romani-singh-2017-india",
+    "practitioner:sg.ong-debbie",
+    "practitioner:sg.caps-fjc",
+    "jurisdiction:hong-kong",
+    "jurisdiction:india",
+    "jurisdiction:australia"
+  ],
+  "sources": [
+    {
+      "title": "Singapore Statutes Online (sso.agc.gov.sg)",
+      "url": "https://sso.agc.gov.sg/",
+      "publisher": "Attorney-General's Chambers, Singapore",
+      "language": "en"
+    },
+    {
+      "title": "Supreme Court of Singapore / Judiciary",
+      "url": "https://www.judiciary.gov.sg/",
+      "publisher": "Singapore Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Family Justice Courts of Singapore",
+      "url": "https://www.judiciary.gov.sg/family/family-justice-courts",
+      "publisher": "Singapore Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Syariah Court of Singapore",
+      "url": "https://www.syariahcourt.gov.sg/",
+      "publisher": "Syariah Court",
+      "language": "en"
+    },
+    {
+      "title": "Singapore Psychological Society (SPS) / Singapore Register of Psychologists (SRP)",
+      "url": "https://singaporepsychologicalsociety.org/",
+      "publisher": "SPS",
+      "language": "en"
+    },
+    {
+      "title": "Singapore Medical Council (SMC)",
+      "url": "https://www.healthprofessionals.gov.sg/smc",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    },
+    {
+      "title": "Institute of Mental Health (IMH) — Child Guidance Clinic",
+      "url": "https://www.imh.com.sg/",
+      "publisher": "IMH",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Social and Family Development (MSF)",
+      "url": "https://www.msf.gov.sg/",
+      "publisher": "Government of Singapore",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Primary-source order: sso.agc.gov.sg for statutes; judiciary.gov.sg for case-law (TEN v TEO + CX v CY + UNB v Child Protector); MSF + IMH + SPS for institutional/regulatory.",
+    "Singapore terminology preserved: 'care and control' (not custody alone); 'access' (not contact); 'hadhanah' (Syariah Muslim custody); 'Family Justice Courts' (FJC); 'Counselling and Psychological Service' (CAPS).",
+    "Anonymisation convention strict — parties cited by initials throughout (TEN v TEO; UNB v Child Protector; CX v CY); structural_findings[7] preserves this regime.",
+    "Cross-jurisdictional Asian apex cluster (Singapore TEN v TEO + Hong Kong H v W 2021 HKCA 733 + India Vivek Singh 2017) recognised in structural_findings[3] — Singapore deepening informs subsequent Hong Kong jurisdiction sidecar.",
+    "Singapore is treated as a unitary common-law jurisdiction with parallel Muslim (Syariah Court) family-law track preserved in structural_findings[5]."
+  ]
+}

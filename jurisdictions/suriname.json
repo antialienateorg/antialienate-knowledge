@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "id": "suriname",
+  "name": "Suriname (Republic of Suriname / Republiek Suriname)",
+  "jurisdiction_code": "SR",
+  "legal_system": "civil-law",
+  "language": ["nl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Suriname is a South American civil-law republic whose family-law framework operates under the Civil Code (Burgerlijk Wetboek) drawing on Dutch civil-law substantive heritage via Dutch colonial inheritance (1667-1975). Suriname is structurally distinctive within South America as the only Dutch-civil-law-tradition jurisdiction in the corpus. Parental authority (ouderlijk gezag) and child custody are governed by Civil Code Book 1 arts. 245-298 and Family Code 1973. The Court of Justice (Hof van Justitie) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Cantonal Courts (Kantongerechten). Psychology profession is regulated through the Ministry of Health and the Surinamese Psychology Association. Suriname is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Suriname is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code (Burgerlijk Wetboek) Book 1 arts. 245-298",
+      "title": "Civil Code Book 1 — Family Law",
+      "year": 1859,
+      "url": "https://www.rechtspraak.sr/",
+      "relevance": "Federal Civil Code drawing on Dutch civil-law substantive heritage via Dutch colonial inheritance. Book 1 governs persons and family-law including parental authority."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Justice (Hof van Justitie)",
+      "seat": "Paramaribo",
+      "url": "https://www.rechtspraak.sr/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Suriname",
+      "url": "https://www.gov.sr/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Surinamese family-court decisions are anonymised per Court of Justice practice using initials.",
+  "key_developments": [
+    {
+      "year": 1667,
+      "title": "Dutch colonial administration begins",
+      "description": "Dutch colonial administration of Suriname begins; Dutch civil-law substantive heritage established."
+    },
+    {
+      "year": 1859,
+      "title": "Civil Code adoption (Dutch-derivative)",
+      "description": "Federal Civil Code adopted drawing on Dutch civil-law substantive heritage."
+    },
+    {
+      "year": 1975,
+      "title": "Independence",
+      "description": "Suriname achieved independence from the Netherlands; retained Dutch-derivative civil-law tradition."
+    }
+  ],
+  "structural_findings": [
+    "Suriname operates a structurally distinctive Dutch-civil-law family-law framework — only Dutch-civil-law-tradition jurisdiction in South America within the corpus. Structurally aligned with Netherlands within the Dutch-civil-law tradition cluster in the corpus.",
+    "Dutch official-language framework is structurally distinctive within South America in the corpus.",
+    "Non-Hague Convention status places Suriname in the non-Hague South American cluster."
+  ],
+  "references": [
+    "jurisdiction:netherlands",
+    "jurisdiction:guyana",
+    "jurisdiction:brazil",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Suriname",
+      "url": "https://www.rechtspraak.sr/",
+      "publisher": "Judiciary",
+      "language": "nl"
+    },
+    {
+      "title": "Government of Suriname",
+      "url": "https://www.gov.sr/",
+      "publisher": "Government of Suriname",
+      "language": "nl"
+    }
+  ],
+  "editorial_notes": [
+    "Suriname jurisdiction sidecar — Dutch-civil-law South America (Civil Code 1859 Dutch-derivative + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins South American + Dutch-civil-law-only-in-South-America-distinctive cluster + Dutch-official-language + non-Hague Convention clusters within the corpus."
+  ]
+}

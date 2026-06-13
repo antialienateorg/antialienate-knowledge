@@ -1,0 +1,550 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-27",
+  "region": "EU",
+  "type": "therapists",
+  "license": "CC BY 4.0",
+  "intended_repo": "github.com/AntiAlienate/antialienate-knowledge",
+  "stance_taxonomy": {
+    "recognition": "treats PA / Eltern-Kind-Entfremdung / aliénation parentale / alienazione genitoriale / ouderverstoting as a real, assessable phenomenon; operates or endorses PA-specific assessment, expert-witness or reunification work; typically PASG-aligned",
+    "critique": "argues the PA construct (especially Gardner's SAP) is operationalised against DV / coercive-control survivors; advocates DV/trauma-informed alternatives and tighter regulation",
+    "middle": "engages both alienating-behaviour and family-violence frames; differential-diagnosis or systemic / multi-family approach; not aligned with PASG and not in the abolitionist critique camp"
+  },
+  "eu_context_notes": {
+    "DE": "Approbation issued by Land authority; psychotherapists listed by Land Psychotherapeutenkammer (e.g. https://www.lpk-bw.de/). BVerfG 1 BvR 1076/23 (2023) caps PA-driven custody transfers (see /case-studies/).",
+    "FR": "Ordre national des médecins (RPPS https://annuaire.sante.fr); ADELI / RPS for psychologists; court-appointed experts on Cour d'appel lists. Cass. 1re Civ. 12-14.392 (2013) caution against routine SAP findings (see /case-studies/).",
+    "ES": "Colegio Oficial de Psicólogos (COP) regional; OMC for psychiatrists. 2020 Ministry of Equality informe institutionally rejects SAP. STS 519/2017 leading critical Supreme Court ruling.",
+    "IT": "Ordine degli Psicologi regional (e.g. Lazio https://ordinepsicologilazio.it/); FNOMCeO for physicians. Cass. ord. 9691/2022 (Massaro) and ord. 4595/2025 hold PA is not a clinically validated construct binding judges.",
+    "NL": "BIG-register (Wet BIG https://www.bigregister.nl/) for Klinisch psycholoog / Psychotherapeut. HR 15 Feb 2005 ECLI:NL:HR:2005:AR8250 leading SC ruling on contact-withholding.",
+    "BE": "Commission des psychologues / Psychologencommissie https://www.compsy.be/. No Belgian appellate ruling has fully endorsed SAP; mixed clinical doctrine."
+  },
+  "cross_references": {
+    "influencers": ["wilfrid-von-boch-galhau (DE) — full entry in /influencers/", "asuncion-tejedor (ES) — full entry in /influencers/", "sietske-dijkstra (NL) — full entry in /influencers/"],
+    "ca_therapists": ["Hubert Van Gijseghem PhD — Belgian-born Quebec-based; full entry in /practitioners-ca-therapists.md; cross-listed under FR section here"],
+    "us_therapists": ["William Bernet, Amy Baker, Richard Warshak, Linda Gottlieb — full entries in /practitioners-us-therapists.md; Verrocchio (IT) and Tejedor (ES) are principal European co-authors with Baker / Bernet"]
+  },
+  "practitioners": [
+    {
+      "country_code": "DE",
+      "name": "Dr Wilfrid von Boch-Galhau, MD",
+      "city": "Würzburg",
+      "region": "Bavaria",
+      "practice": "Independent psychiatric / psychotherapeutic practice, Oberer Dallenbergweg 15, 97082 Würzburg; co-founder PAS-Arbeitsgemeinschaft; founding member Parental Alienation Study Group (PASG)",
+      "practice_url": "http://www.drvboch.de/",
+      "regulatory_body": "Approbation as Facharzt für Psychiatrie, Psychosomatische Medizin und Psychotherapie (Bayerische Landesärztekammer https://www.blaek.de/)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Psychiatry / psychosomatic medicine / psychotherapy; long-term mental-health sequelae of parent-child alienation in adult children of high-conflict divorce; PA as psychological child abuse",
+      "stance": "recognition",
+      "stance_source": "Boch-Galhau (2018) Parental Alienation – A serious form of psychological child abuse, Mental Health and Family Medicine 13:725-739 https://www.gavinpublishers.com/article/view/parental-alienation-a-serious-form-of-child-psychological-abuse-a-worldwide-health-problem ; Boch-Galhau (2013) German-language monograph (VWB) https://www.amazon.de/Parental-Alienation-Syndrome-Disorder-Kindesmisshandlung/dp/3861351781 ; co-translator/editor of Gardner (2002) into German; co-organiser International PAS Conference Frankfurt 2002; founding member PASG https://www.pasg.info/",
+      "programs_or_publications": [
+        "Boch-Galhau & Kodjoe (2006) chapter in International Handbook of PAS (Charles C Thomas)",
+        "Boch-Galhau (2013) German-language monograph Parental Alienation und Parental Alienation Syndrome/Disorder (VWB, ISBN 978-3-86135-178-2)",
+        "Boch-Galhau (2018) peer-reviewed PA-as-child-abuse paper",
+        "Founding member PASG"
+      ],
+      "primary_contact": "Practice tel +49 931 359 2133, Oberer Dallenbergweg 15, 97082 Würzburg — verify current activity; ResearchGate https://www.researchgate.net/scientific-contributions/Wilfrid-von-Boch-Galhau-2021148597",
+      "tier": 1,
+      "hook": "German-speaking world's most prolific PA clinician-author; the standard German monograph is his. Cross-listed in /influencers/wilfrid-von-boch-galhau.md.",
+      "notes": "Older practice site (drvboch.de) intermittent; activity status (active/semi-retired) not publicly confirmed in 2024-2026."
+    },
+    {
+      "country_code": "DE",
+      "name": "Dipl-Psych Ursula Kodjoe",
+      "city": "Emmendingen",
+      "region": "Baden-Württemberg",
+      "practice": "Independent practice in mediation, systemic family therapy and PA-related expert consulting, Emmendingen; long-standing freelance consultant (until 2005) to Bundesministerium der Justiz and French Ministère de la Justice on international child-custody disputes",
+      "practice_url": "https://de.linkedin.com/in/ursula-kodjoe-b2815340",
+      "regulatory_body": "Diplom-Psychologin + Diplom-Sozialpädagogin (pre-2020 PsychThG); systemic family therapist and mediator; Land Approbation/chamber not publicly displayed",
+      "registration_number": "not publicly displayed",
+      "specialty": "PA / Eltern-Kind-Entfremdung; international child-abduction mediation; expert testimony; consensus model for early intervention",
+      "stance": "recognition",
+      "stance_source": "PASG Nordic Conference Stockholm 2018 presentation Consensus Model in Germany; co-author 2011 PA/PAS Update with Boch-Galhau, Andritzky, Koeppel https://oudervervreemding.wordpress.com/2011/11/01/27/ ; Jugendamtwatch interview http://jugendamtwatch.blogspot.com/2014/04/pas-ursula-kodjoe-dipl-psychologin-zu.html ; Vaeternotruf https://www.vaeternotruf.de/ursula-kodjoe.htm ; NZZ profile https://www.nzz.ch/gesellschaft/eltern-kind-entfremdung-wie-ein-vater-um-seine-tochter-kaempft-ld.1776632",
+      "programs_or_publications": [
+        "Co-author 2011 PA/PAS Update with Boch-Galhau, Andritzky, Koeppel",
+        "Co-author 2006 chapter (with Boch-Galhau) in International Handbook of PAS",
+        "PASG Stockholm 2018 and Brussels 2021 presenter on the Cochemer Praxis consensus model"
+      ],
+      "primary_contact": "LinkedIn DM https://de.linkedin.com/in/ursula-kodjoe-b2815340 ; Emmendingen practice — street address not publicly confirmed",
+      "tier": 1,
+      "hook": "German-language clinical bridge between recognition camp and inter-ministerial mediation work; natural German pairing with Boch-Galhau.",
+      "notes": "PASG board membership claim in brief is unverified from PASG's public board page; she is a recurring speaker / contributing expert — treat as PASG-aligned senior expert."
+    },
+    {
+      "country_code": "DE",
+      "name": "Prof Dr Ursula Gresser",
+      "city": "Munich",
+      "region": "Bavaria",
+      "practice": "Private practice for medical-scientific expert assessments, Munich (since 2009); formerly LMU München Medizinische Poliklinik 1984-1996; Springer Heidelberg medical director 1996-1998; academic supervisor LMU",
+      "practice_url": "https://www.ursula-gresser.de/",
+      "regulatory_body": "Approbation as Fachärztin für Innere Medizin und Rheumatologie (Bayerische Landesärztekammer); academic title Prof. via LMU; NOT a psychiatrist/psychotherapist",
+      "registration_number": "not publicly displayed",
+      "specialty": "Internal medicine / rheumatology; medical-scientific expert reports; secondary research focus on somatic and psychiatric long-term health consequences of Kontaktabbruch — PA framed as public-health problem",
+      "stance": "recognition",
+      "stance_source": "Gresser (2015) Macht Kontaktabbruch zu den leiblichen Eltern Kinder krank? Eine Literaturanalyse, NZFam 989 ff. — discussion https://www.buerokratischer-kindes-missbrauch.de/home/wissenschaftliche-basis-bkm-drei-mal-schlimmer-als-der-tod/gresser-studie/ ; Archeviva interview http://www.archeviva.com/kooperationen/offener-bereich/gresser-prof-dr-ursula/weltweite-studien-ueber-gesundheitliche-folgen-fuer-kid-eke-pas-kinder/ ; Vaeternotruf summary https://www.vaeternotruf.de/kontaktabbruch.htm",
+      "programs_or_publications": [
+        "Gresser (2015) NZFam 989 ff. literature analysis of health consequences",
+        "Publications page https://www.ursula-gresser.de/publikationen.html",
+        "Numerous Gutachten in German family-court proceedings on health consequences of contact-rupture"
+      ],
+      "primary_contact": "Contact form via https://www.ursula-gresser.de/ (Munich)",
+      "tier": 2,
+      "hook": "German PA-recognition camp's principal public-health-evidence voice; not a psychiatrist, frames PA in somatic morbidity/mortality data. Cite against 'PA is not a real diagnosis' lines.",
+      "notes": "Gresser's work contested by mainstream German psychiatry; use as evidence of somatic risk not as a forensic diagnosis. Read against BVerfG 1 BvR 1076/23 (2023)."
+    },
+    {
+      "country_code": "DE",
+      "name": "Dr phil Walter Andritzky",
+      "city": "Düsseldorf",
+      "region": "NRW",
+      "practice": "Independent psychologist / sociologist; long-time author on psychosocial diagnostics of alienating parents and Jugendamt role in custody assessment",
+      "practice_url": "https://familiefamilienrecht.wordpress.com/tag/walter-andritzky/",
+      "regulatory_body": "Diplom-Psychologe (German diploma psychologist) + sociologist (PhD); regulatory chamber not publicly confirmed (independent author)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Personality-structure and behavioural patterns of alienating parents; Jugendamt role; ethnopsychology",
+      "stance": "recognition",
+      "stance_source": "Andritzky (2002) Verhaltensmuster und Persönlichkeitsstruktur entfremdender Eltern, Psychotherapie 7(2):166-182 https://eltern-kind-entfremdung.eu/wp-content/uploads/Artikel-Jugendamt-PSYCHIATRIEZTSCHR.pdf ; Andritzky (2002) Nicht instrumentalisieren, Deutsches Ärzteblatt; Wikipedia https://de.wikipedia.org/wiki/Eltern-Kind-Entfremdung",
+      "programs_or_publications": [
+        "Andritzky (2002) Psychotherapie article on alienating parents' personality structure",
+        "Andritzky (2002) Deutsches Ärzteblatt warning against professional instrumentalisation",
+        "Co-author 2011 PA/PAS Update with Boch-Galhau, Kodjoe, Koeppel"
+      ],
+      "primary_contact": "No public practice URL or current address found — outreach via Familie & Familienrecht archive or PAS-AG channels",
+      "tier": 3,
+      "hook": "Cite his 2002 Ärzteblatt warning to show the recognition camp itself warned against professional capture.",
+      "notes": "Current activity / retirement status not publicly confirmed. Historical-literature contributor."
+    },
+    {
+      "country_code": "FR",
+      "name": "Dr Maurice Berger",
+      "city": "Saint-Étienne / Lyon",
+      "region": "Loire / Rhône",
+      "practice": "Pédopsychiatre; active in psychiatric practice (consultant centre éducatif renforcé + Centre Médical de l'Argentière since 2014); former chef de service psychiatrie de l'enfant CHU Saint-Étienne 1989-2014; former professeur associé Université Lyon II 1992-2003; psychanalyste; creator of DIU Expertise judiciaire en psychiatrie de l'enfant Paris-Cité",
+      "practice_url": "https://www.mauriceberger.net/",
+      "regulatory_body": "Ordre national des médecins — spécialité psychiatrie / pédopsychiatrie (RPPS searchable at https://annuaire.sante.fr)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Pédopsychiatrie; visites médiatisées (coined the term); placement of extremely violent children; expert testimony in custody/family-violence cases; critique of SAP / aliénation parentale framings as dangerous in family-violence contexts",
+      "stance": "critique",
+      "stance_source": "Berger (2017) Le syndrome d'aliénation parentale : un concept dangereux http://mauriceberger.net/wpmaurice/wp-content/uploads/2017/09/Le-syndrome-dalie%CC%81nation-parentale-06-2017.pdf and https://www.mauriceberger.net/le-syndrome-dalienation-parentale-un-concept-dangereux/ ; YouTube https://www.youtube.com/watch?v=4khrxcg6Xqs ; Berger in Séparation conflictuelle des parents (synthesis https://www.village-justice.com/articles/separation-conflictuelle-des-parents-quel-mode-garde-pour-enfant-synthese-livre,46396.html); Empan (2009) https://shs.cairn.info/revue-empan-2009-1-page-31 ; CERE synthesis https://www.cere-asbl.be/wp-content/uploads/2021/11/9_alie_nation-parentale_sap_ok.pdf",
+      "programs_or_publications": [
+        "19 books, 107 peer-reviewed articles, 332+ international conferences (per CV)",
+        "Le syndrome d'aliénation parentale : un concept dangereux (2017)",
+        "Séparation conflictuelle des parents. Quel mode de garde pour l'enfant ?",
+        "Architect of visite médiatisée concept used in French family-court practice",
+        "DIU Expertise judiciaire en psychiatrie de l'enfant (Paris-Cité)"
+      ],
+      "primary_contact": "Contact form via https://www.mauriceberger.net/ ; Centre Médical de l'Argentière (Lyon); no direct email/phone on CV",
+      "tier": 1,
+      "hook": "France's most prolific senior pédopsychiatre on the critique side of the SAP debate; natural French counterpart to Joan Meier (US) or Adrienne Barnett (UK).",
+      "notes": "Critique anchored in DV-protective and child-violence work, not in abolitionist tradition — clinically rather than ideologically motivated."
+    },
+    {
+      "country_code": "FR",
+      "name": "Dr Paul Bensussan",
+      "city": "Versailles",
+      "region": "Yvelines",
+      "practice": "Psychiatre; expert agréé par la Cour de cassation (since 2007); expert près la Cour d'appel de Versailles (since 1996); expert auprès de la CPI/ICC La Haye (since 2011); private practice Versailles",
+      "practice_url": "https://www.paulbensussan.fr/",
+      "regulatory_body": "Ordre national des médecins — spécialité psychiatrie (RPPS searchable at https://annuaire.sante.fr); liste nationale des experts agréés par la Cour de cassation",
+      "registration_number": "not publicly displayed",
+      "specialty": "Forensic psychiatry; sexual-offender assessment (notably Outreau); criminal responsibility of mentally-ill offenders; expert-witness work in aliénation parentale cases including disputed CSA allegations in custody disputes",
+      "stance": "recognition",
+      "stance_source": "Personal practice site frames PA expertise https://www.paulbensussan.fr/biographie-cv ; April 2022 complaint by four French child-protection associations to the Conseil de l'Ordre des médecins alleging invariable SAP conclusions — Causette https://www.causette.fr/societe/en-france/syndrome-dalienation-parentale-les-expertises-judiciaires-du-psychiatre-paul-bensussan-dans-le-viseur-dassociations and Enfance & Jeunesse Infos https://www.enfancejeunesseinfos.fr/quatre-associations-deposent-un-recours-contre-lexpert-psychiatre-paul-bensussan-partisan-du-syndrome-dalienation-parentale/ ; Wikipédia https://fr.wikipedia.org/wiki/Paul_Bensussan",
+      "programs_or_publications": [
+        "La Dictature de l'émotion (co-author)",
+        "Numerous expert reports cited in French press in CSA / custody-overlap cases",
+        "Active public campaign (unsuccessful) for SAP/PAD recognition in DSM-5"
+      ],
+      "primary_contact": "Contact via https://www.paulbensussan.fr/ ; practice in Versailles — specific street address/phone not publicly displayed",
+      "tier": 1,
+      "hook": "France's most visible PA-recognition expert witness, centre of ongoing professional-conduct complaint — flashpoint figure.",
+      "notes": "Active Conseil de l'Ordre disciplinary complaint (2022→) is the principal current news item. Use cautiously for outreach."
+    },
+    {
+      "country_code": "FR",
+      "name": "Dr Roland Broca",
+      "city": "Paris (7e arrondissement)",
+      "region": "Île-de-France",
+      "practice": "Psychiatre honoraire des hôpitaux; former chef de service et d'intersecteur de psychiatrie générale et de psychiatrie de l'enfant et de l'adolescent; psychoanalyst; private practice 29 Avenue Rapp, 75007 Paris",
+      "practice_url": "http://www.roland-broca.com/",
+      "regulatory_body": "Ordre national des médecins — spécialité psychiatrie (RPPS searchable at https://annuaire.sante.fr)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Psychiatrie générale; psychanalyse; parental guidance in high-conflict separations; clinical analysis of parental alienation in conflictual separations",
+      "stance": "recognition",
+      "stance_source": "Broca & Odinetz, Séparations conflictuelles et aliénation parentale : Enfants en danger (Chronique Sociale, 3rd ed. 2023) https://www.lgdj.fr/separations-conflictuelles-et-alienation-parentale-9782367177724.html ; co-author Olga Odinetz is founding president of ACALPA https://www.acalpa.info/ ; practice site PA section http://www.roland-broca.com/alienation-parentale",
+      "programs_or_publications": [
+        "Broca & Odinetz (2023, 3rd ed.) Séparations conflictuelles et aliénation parentale — standard French recognition-camp clinician handbook",
+        "Blog Articles archive http://www.roland-broca.com/blog",
+        "ACALPA partnership"
+      ],
+      "primary_contact": "29 Avenue Rapp, 75007 Paris ; contact form on http://www.roland-broca.com/ ; Keskeces listing https://www.keskeces.com/medecin/roland-broca-75007-paris.html",
+      "tier": 1,
+      "hook": "Principal French psychiatrist on recognition side actively in private practice in Paris; natural recognition counterpart to Berger.",
+      "notes": "Civil-society linkage through Odinetz/ACALPA gives clean outreach pathway via association rather than direct practice."
+    },
+    {
+      "country_code": "FR",
+      "name": "Dr Marie-France Hirigoyen",
+      "city": "Paris (5e arrondissement)",
+      "region": "Île-de-France",
+      "practice": "Psychiatre, psychanalyste, thérapeute familiale, victimologue; chercheuse associée Université Paris V; private practice Paris 5e (45+ years); originator of French harcèlement moral legal concept (loi du 17 janvier 2002)",
+      "practice_url": "https://www.puf.com/marie-france-hirigoyen",
+      "regulatory_body": "Ordre national des médecins — spécialité psychiatrie (RPPS searchable at https://annuaire.sante.fr)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Psychiatrie, psychanalyse; violence perverse, harcèlement moral, emprise; family-systems therapy; victimologie; recent work on séparations avec enfants (PA-adjacent)",
+      "stance": "middle",
+      "stance_source": "Hirigoyen (2022/2023) Séparations avec enfants (La Découverte); Le Harcèlement moral (La Découverte 1998) https://www.editionsladecouverte.fr/le_harcelement_moral-9782707141675 ; Wikipédia https://en.wikipedia.org/wiki/Marie-France_Hirigoyen ; Cairn https://shs.cairn.info/publications-de-marie-france-hirigoyen--40102?lang=fr ; Médias Citoyens Diois profile https://mediascitoyens-diois.info/2024/04/marie-france-hirigoyen-une-psy-a-lecoute-des-blessures-invisibles/",
+      "programs_or_publications": [
+        "Le Harcèlement moral (1998) — source-book of French harcèlement moral law (450k copies, 24 translations)",
+        "Séparations avec enfants (2022/2023) — PA-adjacent without endorsing Gardner",
+        "25+ years private psychiatric practice Paris 5e"
+      ],
+      "primary_contact": "Via PUF / La Découverte editorial channels; private practice Paris 5e — specific address/phone not publicly displayed",
+      "tier": 2,
+      "hook": "French emprise / coercive-control bridge figure — engages PA dynamics without entering the Gardner camp.",
+      "notes": "Does not endorse SAP; works in coercive-control register closer to Stark/Dijkstra than to Gardner."
+    },
+    {
+      "country_code": "FR",
+      "name": "Dr Jean-François Le Goff",
+      "city": "Paris region (former Ville-Évrard, Seine-Saint-Denis)",
+      "region": "Île-de-France",
+      "practice": "Hospital psychiatrist (ret.); former chef de service EPS de Ville-Évrard (La Courneuve/Dugny/Stains sectors); family therapist since 1974 (Buber/Bakhtin tradition); AFTA and IFTA member",
+      "practice_url": "https://www.editions-eres.com/nos-auteurs/63107/le-goff-jean-francois-1",
+      "regulatory_body": "Ordre national des médecins — spécialité psychiatrie (RPPS searchable at https://annuaire.sante.fr); current registration status not publicly confirmed",
+      "registration_number": "not publicly displayed",
+      "specialty": "Family therapy; parentification (Boszormenyi-Nagy tradition); contextual therapy; intergenerational dynamics",
+      "stance": "middle",
+      "stance_source": "Le Goff, L'enfant, parent de ses parents : Parentification et thérapie familiale (L'Harmattan) https://www.amazon.fr/Lenfant-parent-ses-parents-parentification/dp/2738484786 ; cited in PMC review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9568140/ ; no PA-specific peer-reviewed paper in French confirmed",
+      "programs_or_publications": [
+        "L'enfant, parent de ses parents — French standard on parentification (PA-adjacent)",
+        "Member AFTA and IFTA"
+      ],
+      "primary_contact": "Via Érès / L'Harmattan editorial channels — no direct practice contact publicly listed",
+      "tier": 3,
+      "hook": "Useful when an article needs a non-PA clinical frame (parentification) describing the same triangulation dynamic.",
+      "notes": "Current activity / retirement status not publicly confirmed. Parentification is the most-used French clinical alternative to SAP framing."
+    },
+    {
+      "country_code": "ES",
+      "name": "Dr Asunción Tejedor Huerta, PhD",
+      "city": "Oviedo",
+      "region": "Principado de Asturias",
+      "practice": "Independent forensic / clinical psychologist (since 1993) and judicial expert; Presidenta AIPJE https://www.aipje.com/directiva/ ; long-term collaborator with SEPJF http://sepjf.org/ ; private practice Diálogo Gabinete Psicológico Oviedo https://www.dialogogabinetepsicologico.com/",
+      "practice_url": "https://www.dialogogabinetepsicologico.com/",
+      "regulatory_body": "Colegio Oficial de Psicólogos del Principado de Asturias (COP-Asturias); Mediación familiar via Universidad de Oviedo (2009); psychology licence Universidad de Granada (1986)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Psicología jurídica y forense; SAP / interferencias parentales; perital reports for Spanish courts; mediación familiar",
+      "stance": "recognition",
+      "stance_source": "Tejedor, El Síndrome de Alienación Parental — una forma de maltrato (EOS, re-edition https://www.dialogogabinetepsicologico.com/publicaciones/) ; PIVIP — Programa de Intervención para Víctimas de Interferencias Parentales (EOS Colección Psicología Jurídica 15, ISBN 978-84-9727-497-5) https://www.agapea.com/Asuncion-Tejedor-Huerta/Programa-de-Intervencion-para-Victimas-de-Interferencias-Parentales-PIVIP--9788497274975-i.htm ; AIPJE presidency https://www.aipje.com/directiva/ ; SEPJF programme http://sepjf.org/avance-de-programa-2/",
+      "programs_or_publications": [
+        "PIVIP — one of the few structured European intervention protocols for parental-interference cases",
+        "El Síndrome de Alienación Parental — una forma de maltrato (EOS, multiple editions)",
+        "Presidenta AIPJE; long-time SEPJF collaborator",
+        "Recurring expert witness in Spanish family-court cases"
+      ],
+      "primary_contact": "Diálogo Gabinete Psicológico, Oviedo — contact form https://www.dialogogabinetepsicologico.com/ ; AIPJE board page https://www.aipje.com/directiva/",
+      "tier": 1,
+      "hook": "Spanish-speaking world's leading PA-recognition clinician and author of PIVIP protocol. Cross-listed in /influencers/asuncion-tejedor.md.",
+      "notes": "Operates in jurisdiction where Ministry of Equality 2020 informe rejects SAP but Tribunal Supremo case-law (STS 519/2017) leaves clinical use of interferencias parentales possible with independent evidence — PIVIP positioned in that gap."
+    },
+    {
+      "country_code": "ES",
+      "name": "José Manuel Aguilar Cuenca",
+      "city": "Madrid / Andalucía",
+      "region": "Madrid / Andalucía",
+      "practice": "Clinical and forensic psychologist; university teacher of forensic psychology; research director in Andalucía for international consulting on family/custody; private forensic-psychology practice",
+      "practice_url": "https://jmaguilar.com/",
+      "regulatory_body": "Colegio Oficial de Psicólogos — provincial Colegio of registration not publicly confirmed (likely Madrid or Andalucía)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Clinical and forensic psychology; Síndrome de Alienación Parental (SAP); custodia compartida; abuso de influencia",
+      "stance": "recognition",
+      "stance_source": "Aguilar, S.A.P. Síndrome de Alienación Parental — Hijos manipulados por un cónyuge para odiar al otro (Almuzara 2004, 6th edition) https://jmaguilar.com/sindrome-alienacion-parental-6-edicion/ ; Guía para la evaluación del SAP (Síntesis, for Defensor del Menor de la Comunidad de Madrid) ; APFS interview https://apfs.es/jose-manuel-aguilar-psicologo-forense-los-hijos-no-son-propiedad-de-nadie/",
+      "programs_or_publications": [
+        "S.A.P. Síndrome de Alienación Parental (2004, 6 editions) — first and most-cited Spanish-language book on SAP",
+        "Guía para la evaluación del SAP (Síntesis) for Defensor del Menor de la Comunidad de Madrid",
+        "Con mamá y con papá; Abuso de Influencia (Almuzara)"
+      ],
+      "primary_contact": "Via https://jmaguilar.com/ contact form",
+      "tier": 1,
+      "hook": "Author whose 2004 book made SAP a household phrase in Spanish; primary citation in any Spanish family-court PA argument.",
+      "notes": "Operates against the 2020 Ministry of Equality informe rejection; politically contested. Public-facing site is cleanest verification source."
+    },
+    {
+      "country_code": "ES",
+      "name": "Dr Adolfo Jarne Esparcia",
+      "city": "Barcelona",
+      "region": "Cataluña",
+      "practice": "Doctor en psicología (UB); professor of Psicopatología, Dept Psicología Clínica i Psicobiologia, Facultad de Psicología UB; forensic psychologist; private practice Gabinete de Psicología Granollers https://gabinetepsicologiagranollers.com/quienes-somos-3/adolfo-jarne-esparcia/",
+      "practice_url": "https://gabinetepsicologiagranollers.com/quienes-somos-3/adolfo-jarne-esparcia/",
+      "regulatory_body": "Col·legi Oficial de Psicologia de Catalunya (COPC) https://www.copc.cat/",
+      "registration_number": "not publicly displayed",
+      "specialty": "Clinical and forensic psychology; psicopatología; daño psicológico y sus secuelas; critical/methodological assessment of the SAP construct in forensic settings",
+      "stance": "middle",
+      "stance_source": "Arch, Molina & Jarne (2008) Aceptación y controversia del SAP, Revista del Col·legi Oficial de Psicòlegs de Catalunya ; Jarne & Arch (2009) DSM, salud mental y SAP, Papeles del Psicólogo — both summarised https://dialnet.unirioja.es/servlet/articulo?codigo=8757955 and https://psykebase.es/servlet/articulo?codigo=3317394 ; UB Anuario article https://revistes.ub.edu/index.php/Anuario-psicologia/article/view/anpsic2021.51.1",
+      "programs_or_publications": [
+        "Jarne & Arch (2009) Papeles del Psicólogo on DSM and SAP — cautious forensic use only with corroborating evidence",
+        "Arch, Molina & Jarne (2008) acceptance and controversy of SAP in COPC journal",
+        "UB Anuario article on minors' autonomy in divorce"
+      ],
+      "primary_contact": "UB institutional email via https://www.ub.edu/ ; Gabinete Granollers https://gabinetepsicologiagranollers.com/",
+      "tier": 2,
+      "hook": "Spanish-language academic middle-camp voice; useful when neither full recognition (Tejedor/Aguilar) nor full critique (Escudero) is wanted.",
+      "notes": "Position is methodological rather than ideological; cite as a corrective when recognition camp over-claims diagnostic certainty."
+    },
+    {
+      "country_code": "ES",
+      "name": "Dr Antonio Escudero Nafs",
+      "city": "Majadahonda (Madrid)",
+      "region": "Comunidad de Madrid",
+      "practice": "Psiquiatra infanto-juvenil; coordinator Child and Adolescent Programme, Centro de Salud Mental de Majadahonda (since 2005), Hospital Universitario Puerta de Hierro-Majadahonda public system; ResearchGate https://www.researchgate.net/profile/Antonio-Escudero-Nafs-3",
+      "practice_url": "https://www.researchgate.net/profile/Antonio-Escudero-Nafs-3",
+      "regulatory_body": "Colegio Oficial de Médicos de Madrid (OMC) — spécialité psiquiatría / psiquiatría infantil",
+      "registration_number": "not publicly displayed",
+      "specialty": "Child and adolescent psychiatry; critique of SAP as pseudoscientific construct dangerous to children in family-violence contexts",
+      "stance": "critique",
+      "stance_source": "Escudero, Aguilar Redo & de la Cruz (2008) La lógica del SAP de Gardner: 'terapia de la amenaza', Revista AEN 28(2) https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200004 ; same-issue editorial https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200001 ; AEN public statement of support after 2019 Infancia Libre controversy https://www.elsaltodiario.com/infancia/asociacion-espanola-neuropsiquiatria-sap-antonio-escudero-nafs-infancia-libre ; Ministry of Equality 2020 informe reproduces framework https://violenciagenero.igualdad.gob.es/wp-content/uploads/ALIENACIONPARENTAL_cap2_lib7.pdf",
+      "programs_or_publications": [
+        "Escudero, Aguilar Redo & de la Cruz (2008) — seminal Spanish-language SAP critique",
+        "Co-architect of Spanish Ministry of Equality 2020 SAP working-group framework",
+        "Coordinator Programa Infanto-Juvenil CSM Majadahonda (public mental-health service)"
+      ],
+      "primary_contact": "Via Hospital Universitario Puerta de Hierro-Majadahonda https://www.comunidad.madrid/hospital/puertadehierromajadahonda/ ; CSM Majadahonda",
+      "tier": 1,
+      "hook": "Single most-cited Spanish-language critical-camp clinical voice; architect of Spanish government's institutional rejection of SAP; centre of the high-profile Infancia Libre controversy.",
+      "notes": "Politically charged in Spanish context; AEN 2019 statement of support is cleanest institutional anchor."
+    },
+    {
+      "country_code": "IT",
+      "name": "Prof Giovanni Battista Camerini, MD",
+      "city": "Bologna",
+      "region": "Emilia-Romagna",
+      "practice": "Neuropsichiatra infantile, psichiatra, psicoterapeuta; private practice Bologna; former lecturer Università di Padova and Sapienza Roma; teacher in Scuole di Specializzazione (Modena/Bologna) and master programmes (Padova/Sapienza/Pontificia Salesiana)",
+      "practice_url": "https://giovannibattistacamerini.it/",
+      "regulatory_body": "Ordine dei Medici Chirurghi e Odontoiatri (FNOMCeO) — specialità neuropsichiatria infantile / psichiatria",
+      "registration_number": "not publicly displayed",
+      "specialty": "Child neuropsychiatry; forensic psychiatry of developmental age; assessment of parental skills (APS-I); alienazione parentale",
+      "stance": "recognition",
+      "stance_source": "Camerini, Pingitore & Lopez (2016) Alienazione parentale: innovazioni cliniche e giuridiche (Franco Angeli) http://www.alienazione.genitoriale.com/libro-alienazione-parentale-innovazioni-cliniche-e-giuridiche-camerini-pingitore-lopez-2016/ ; Camerini & Pingitore (2015) https://genitorisottratti.it/2015/06/03/alienazione-parentale-camerini-pingitore/ ; Manuale per la valutazione delle competenze genitoriali APS-I (Maggioli 2019) ; Panorama interview Orfani d'amore 17 Sep 2025 https://www.alienazione.genitoriale.com/orfani-damore-terry-marocco-panorama-17-9-2025/",
+      "programs_or_publications": [
+        "APS-I Italian-language structured interview for parental-skills assessment (Maggioli 2019)",
+        "Camerini, Pingitore & Lopez (2016) Alienazione parentale: innovazioni cliniche e giuridiche (Franco Angeli)",
+        "Teaching role in master programmes at Sapienza/Padova/Salesiana"
+      ],
+      "primary_contact": "https://giovannibattistacamerini.it/ contact channel ; Psicologia.io profile https://www.psicologia.io/user/49827",
+      "tier": 1,
+      "hook": "Senior Italian neuropsichiatra infantile on the recognition side; APS-I and Franco Angeli volume are load-bearing Italian clinical references. Must be read against Cass. ord. 9691/2022 Massaro and ord. 4595/2025.",
+      "notes": "Operates in jurisdiction where Cassazione has twice (2022, 2025) ruled PA is not a clinically validated construct binding judges — current Italian use of framework must be evidentially anchored independently."
+    },
+    {
+      "country_code": "IT",
+      "name": "Prof Maria Cristina Verrocchio, PhD",
+      "city": "Chieti-Pescara",
+      "region": "Abruzzo",
+      "practice": "Professore Ordinario of Clinical Psychology, Università G. d'Annunzio Chieti-Pescara; psicologa e psicoterapeuta; PASG member",
+      "practice_url": "https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/",
+      "regulatory_body": "Ordine degli Psicologi della Regione Abruzzo (Sez. A psicologa-psicoterapeuta)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Clinical psychology; forensic clinical psychology; parental alienation as psychological child abuse in Baker/Bernet framework; long-term mental-health outcomes of PA",
+      "stance": "recognition",
+      "stance_source": "Baker & Verrocchio (2013) Italian college students' recollections of parental alienation, Children and Youth Services Review — Italian summary http://www.alienazione.genitoriale.com/studi-empirici-sullalienazione-parentale-in-italia-maria-cristina-verrocchio-universita-di-chieti/ ; Verrocchio & Marchetti L'intervento nei casi di alienazione genitoriale https://www.alienazione.genitoriale.com/lintervento-nei-casi-di-alienazione-genitoriale-maria-cristina-verrocchio-daniela-marchetti/ ; AIPG profile https://aipgitalia.org/teams/maria-cristina-verrocchio/",
+      "programs_or_publications": [
+        "Baker & Verrocchio (2013) first peer-reviewed Italian-sample PA mental-health study (n=257 Chieti)",
+        "Verrocchio & Marchetti Italian-language intervention guidance",
+        "Verrocchio / Baker / Bernet collaborative outputs across 2010s"
+      ],
+      "primary_contact": "UniCh institutional email via https://www.unich.it/ ; LinkedIn DM",
+      "tier": 1,
+      "hook": "Principal Italian academic-clinician operating inside PASG (Baker/Bernet) recognition framework; Chieti-sample data is the Italian recognition camp's most-cited empirical study.",
+      "notes": "Italian recognition-camp work is now read in the shadow of Cass. ord. 9691/2022 and ord. 4595/2025."
+    },
+    {
+      "country_code": "IT",
+      "name": "Prof Marisa Malagoli Togliatti",
+      "city": "Rome",
+      "region": "Lazio",
+      "practice": "Professore Ordinario di Psicodinamica dello Sviluppo e delle Relazioni Familiari, Facoltà di Medicina e Psicologia, Sapienza Università di Roma (since 1996); Director Centro di Ricerca in Psicologia Clinica Sapienza; psicologa e psicoterapeuta",
+      "practice_url": "https://www.raffaellocortina.it/autore-marisa-malagoli-togliatti-2007.html",
+      "regulatory_body": "Ordine degli Psicologi del Lazio (Sez. A) https://ordinepsicologilazio.it/",
+      "registration_number": "not publicly displayed",
+      "specialty": "Family psychology; psychodynamics of family relationships; alienazione genitoriale (empirical research, diagnosis, psychological treatment); psychology-and-law",
+      "stance": "recognition",
+      "stance_source": "Malagoli Togliatti & Lavadera, Alienazione genitoriale: ricerca empirica, diagnosi e trattamento psicologico (Raffaello Cortina) https://www.raffaellocortina.it/autore-marisa-malagoli-togliatti-2007.html ; Lavadera, Ferracuti & Togliatti La PAS nelle sentenze italiane http://www.alienazione.genitoriale.com/pas-italia/ ; Treccani interview https://www.treccani.it/magazine/atlante/societa/la-psicologia-che-entra-nel-diritto-intervista-a-marisa-malagoli-togliatti/",
+      "programs_or_publications": [
+        "Alienazione genitoriale: ricerca empirica, diagnosi e trattamento psicologico (Raffaello Cortina, with Lavadera)",
+        "La PAS nelle sentenze italiane (with Lavadera & Ferracuti) — content analysis of Italian PAS case-law",
+        "Direction Centro di Ricerca in Psicologia Clinica Sapienza"
+      ],
+      "primary_contact": "Sapienza institutional email via https://www.uniroma1.it/ ; Raffaello Cortina editorial channel",
+      "tier": 1,
+      "hook": "Sapienza academic anchor of Italian recognition camp; Raffaello Cortina volume + PAS-in-judgments content analysis are principal Italian-language academic references.",
+      "notes": "Co-authoring relationship with Lubrano Lavadera makes them a Sapienza pair on this topic."
+    },
+    {
+      "country_code": "IT",
+      "name": "Dr Anna Lubrano Lavadera, PhD",
+      "city": "Rome",
+      "region": "Lazio",
+      "practice": "Psicologa e psicoterapeuta; consulente del Tribunale Ordinario di Roma; contract lecturer LUMSA Università di Roma Dip. Scienze Umane (Psicologia Sociale, Forense e Organizzativa); affiliated researcher Dip. Psicologia Dinamica e Clinica Sapienza; Centro Psicologia ERA",
+      "practice_url": "https://ordinepsicologilazio.it/albo/annalubranolavadera",
+      "regulatory_body": "Ordine degli Psicologi del Lazio (Sez. A) — registered since 11 October 2001 per official Albo page",
+      "registration_number": "Searchable on Ordine Psicologi Lazio Albo (specific number on registry page)",
+      "specialty": "Forensic and clinical psychology; rifiuto genitoriale / rottura delle relazioni genitore-figlio in situazioni ad alta conflittualità; coalizioni genitoriali; perital reports for Tribunale di Roma",
+      "stance": "recognition",
+      "stance_source": "Lubrano Lavadera, Curare la rottura delle relazioni genitore-figlio (2017) and Prevenire e curare la rottura delle relazioni genitore-figli (ed.) — Raffaello Cortina https://www.raffaellocortina.it/autore-anna-lubrano-lavadera-2023.html ; Caratteristiche individuali e dinamiche relazionali nel rifiuto genitoriale (2016) https://www.researchgate.net/publication/279514552 ; Lavadera, Ferracuti & Togliatti La PAS nelle sentenze italiane http://www.alienazione.genitoriale.com/pas-italia/ ; LUMSA https://lumsa.it/it/docenti/anna-lubrano-lavadera",
+      "programs_or_publications": [
+        "Curare la rottura delle relazioni genitore-figlio nelle situazioni ad alta conflittualità (2017)",
+        "Prevenire e curare la rottura delle relazioni genitore-figli in situazioni di separazione o divorzio (ed.)",
+        "La PAS nelle sentenze italiane (with Togliatti & Ferracuti)",
+        "Permanent CTU role Tribunale di Roma"
+      ],
+      "primary_contact": "LUMSA institutional email via https://lumsa.it/it/docenti/anna-lubrano-lavadera ; Centro Psicologia ERA https://www.centropsicologiaera.it/team/anna-lubrano-lavadera/",
+      "tier": 1,
+      "hook": "Rome forensic-academic anchor — combines Sapienza research lineage with active CTU practice at Tribunale di Roma. Italian counterpart to UK's Karen Woodall.",
+      "notes": "Brief listed her as 'Lavadera Anna Laura' — correct full name verified as Anna Lubrano Lavadera per Ordine Psicologi Lazio Albo and LUMSA."
+    },
+    {
+      "country_code": "NL",
+      "name": "Dr Justine van Lawick",
+      "city": "Haarlem",
+      "region": "Noord-Holland",
+      "practice": "Clinical psychologist, family therapist, director of training at LORENTZHUIS (Haarlem, co-founded 1984) https://www.lorentzhuis.nl/ ; Taos Institute Associate; co-developer of Kinderen uit de Knel / No Kids in the Middle",
+      "practice_url": "https://www.lorentzhuis.nl/",
+      "regulatory_body": "BIG-register (Wet BIG) as Klinisch psycholoog / Psychotherapeut https://www.bigregister.nl/ ; NVRG-erkend systeemtherapeut / opleider (Nederlandse Vereniging voor Relatie- en Gezinstherapie)",
+      "registration_number": "not publicly displayed",
+      "specialty": "Systemic family therapy; vechtscheiding (high-conflict divorce); multi-family group therapy; demonisation patterns in couples and families",
+      "stance": "middle",
+      "stance_source": "Van Lawick & Visser (2015) No Kids in the Middle: Dialogical and Creative Work with Parents and Children in the Context of High Conflict Divorces, ANZJFT https://www.researchgate.net/publication/273477415 ; Visser et al. (2021) Group Therapy for High-Conflict Divorce: The 'No Kids in the Middle' Intervention Programme https://www.researchgate.net/publication/348979513 ; Kinderen uit de Knel https://www.researchgate.net/publication/286921968 ; Routledge https://www.routledge.com/Group-Therapy-for-High-Conflict-Divorce-The-No-Kids-in-the-Middle-Intervention-Programme/Visser-vanLawick/p/book/9780367109233",
+      "programs_or_publications": [
+        "Kinderen uit de Knel / No Kids in the Middle — flagship Dutch multi-family group intervention for high-conflict divorce; delivered across NL, licensed internationally",
+        "Visser & van Lawick (Routledge 2019) Group Therapy for High-Conflict Divorce",
+        "Multiple Karnac/Routledge monographs on systemic violence work",
+        "Co-founder Lorentzhuis (1984)"
+      ],
+      "primary_contact": "Lorentzhuis https://www.lorentzhuis.nl/ (Haarlem) ; Taos Institute profile https://www.taosinstitute.net/about-us/people/institute-associates/europe/netherlands/m-j-van-lawick",
+      "tier": 1,
+      "hook": "Single most operationally significant Dutch contribution to PA / high-conflict-divorce field. Not PASG-aligned; explicitly avoids alienator/alienated labelling.",
+      "notes": "Recommended bridge clinician — engages PA dynamics inside multi-family-group, non-blame frame; adopted by Dutch youth-care services (De Viersprong evaluation)."
+    },
+    {
+      "country_code": "NL",
+      "name": "Dr Sietske Dijkstra, PhD",
+      "city": "Utrecht",
+      "region": "Utrecht",
+      "practice": "Founder/director Bureau Dijkstra (since 1998) — practice-oriented research, training, advice and (since 2019) coaching for alienated parents and youth, Utrecht; former Professor of Domestic Violence & Interagency Work Avans UAS (until 2014); commission member Schadefonds Geweldsmisdrijven since September 2021",
+      "practice_url": "https://sietske-dijkstra.nl/",
+      "regulatory_body": "PhD social sciences; works as practice-oriented researcher/trainer/coach rather than BIG-registered clinical psychologist — regulatory status outside BIG psychotherapy track",
+      "registration_number": "not applicable (non-BIG)",
+      "specialty": "Coercive control; domestic violence; ouderverstoting framed as outcome of coercive-control patterns by one parent; multidisciplinary professional training",
+      "stance": "middle",
+      "stance_source": "Dijkstra (2022) 'I see a wall and then I cannot reach my son': Coercive control tactics by one parent alienate the child from the other, Journal of Gender-Based Violence ; Hoe herken en doorzie je een instrumenteel geweldspatroon? (2020) https://www.researchgate.net/publication/342355672 ; Sozio (2020) special issue https://www.sozio.nl/literatuurlijst---sozio-special-hg-2020---ouderverstoting-sietske-dijkstra/1029446 ; RINO-Groep interview https://www.rinogroep.nl/interview/331/meer-zicht-op-geweldspatronen-verbetert-de-hulp-bij-complexe-scheidingen.html",
+      "programs_or_publications": [
+        "Coercive control tactics by one parent alienate the child from the other (JGBV 2022) — rare European study applying coercive-control theory to alienation outcomes symmetrically",
+        "Bureau Dijkstra coaching offer for alienated parents and youth (since 2019)",
+        "Sozio special issue editor/contributor on huiselijk geweld en ouderverstoting (2020)",
+        "Schadefonds Geweldsmisdrijven commission member"
+      ],
+      "primary_contact": "Contact form https://sietske-dijkstra.nl/ ; Bureau Dijkstra Utrecht",
+      "tier": 1,
+      "hook": "European coercive-control bridge clinician; what serious PA-recognition advocates have to answer to be credible on family-violence intersections. Cross-listed in /influencers/sietske-dijkstra.md.",
+      "notes": "Not BIG-registered as clinical psychologist — operates as researcher/trainer/coach; that positioning is part of why she is treated as middle-camp bridge rather than treating clinician."
+    },
+    {
+      "country_code": "NL",
+      "name": "Drs Joep Choy",
+      "city": "Alkmaar / Haarlem",
+      "region": "Noord-Holland",
+      "practice": "Psychologist (since 1976), psychotherapist, relationship/family therapist, divorce mediator; partner/director Choy Consultants https://www.choyconsultants.nl/ ; former head MOB Haarlem (1978-1983); former Chairman Triversum (child/adolescent psychiatric hospital Alkmaar 1983-1998); active educator in postdoctoral/masterclass training",
+      "practice_url": "https://www.choyconsultants.nl/",
+      "regulatory_body": "BIG-register (Wet BIG) as Psychotherapeut — verify https://www.bigregister.nl/ ; educator role under NVRG/NVO postdoctoral training",
+      "registration_number": "not publicly displayed",
+      "specialty": "Systems thinking applied to families, organisations and echtscheidingsbemiddeling; relationship and family therapy; systeemtherapie education",
+      "stance": "middle",
+      "stance_source": "Choy DVD Interventies in echtscheidingsbemiddeling (demonstration DVD listed at https://www.choyconsultants.nl/boeken/ik-wil-systeem-denken/) ; 80+ articles and 8 books on systems work; Masterclass Familie en Familiebedrijf https://masterclass-psychologie.nl/cursus/masterclass-familie-en-familiebedrijf-met-joep-choy/ ; consistently frames ouderverstoting as downstream result of disturbed parent-couple relating rather than as Gardnerian syndrome",
+      "programs_or_publications": [
+        "80+ articles, 8 books; De Vraag op het Antwoord nominated book of the year 2005 (Order of Organizational Advisors)",
+        "Postdoctoral masterclasses on systems therapy in family/divorce mediation",
+        "Former chair Triversum (Alkmaar)"
+      ],
+      "primary_contact": "Choy Consultants https://www.choyconsultants.nl/",
+      "tier": 2,
+      "hook": "Senior Dutch systems-therapy voice; useful for non-PASG Dutch clinical authority on high-conflict divorce outranking van Lawick on seniority but not on programme reach.",
+      "notes": "Long career; PA-specific peer-reviewed publication record thinner than van Lawick's — Tier 2 reflects that."
+    },
+    {
+      "country_code": "NL",
+      "name": "Prof Dr Catrin Finkenauer",
+      "city": "Utrecht",
+      "region": "Utrecht",
+      "practice": "Hoogleraar Jeugdstudies (Professor of Youth Studies), Dept Interdisciplinary Social Science, Universiteit Utrecht; lead UU divorce-and-family dossier",
+      "practice_url": "https://www.uu.nl/staff/CFinkenauer",
+      "regulatory_body": "Academic (social-psychology PhD); not BIG-registered as clinician",
+      "registration_number": "not applicable (academic)",
+      "specialty": "Interpersonal relationships; youth studies; divorce dynamics, parent-child relationships, coparenting and ouderverstoting; impact of bitter divorces on children",
+      "stance": "middle",
+      "stance_source": "Finkenauer De knel van ouderverstoting – over de complexe dynamiek van geblokkeerde ouder-kind relaties, Systeemtherapie 35(1) https://www.tijdschriftsysteemtherapie.nl/inhoud/tijdschrift_artikel/ST-35-1-08/ ; UU press release Bitter divorces have limited influence on quality of children's lives https://www.uu.nl/en/news/bitter-divorces-have-limited-influence-on-quality-of-childrens-lives ; collaborative work with Margreet Visser & Esther Kluwer on Kinderen uit de Knel follow-up (De Viersprong https://deviersprong.nl/over-de-viersprong/over-de-viersprong-onderzoek/vechtscheidingsbehandeling-kinderen-uit-de-knel)",
+      "programs_or_publications": [
+        "De knel van ouderverstoting (Systeemtherapie 2023/2024)",
+        "UU divorce-and-family research dossier (multi-year)",
+        "Collaborator on De Viersprong evaluation of Kinderen uit de Knel"
+      ],
+      "primary_contact": "C.Finkenauer@uu.nl (UU staff page https://www.uu.nl/staff/CFinkenauer)",
+      "tier": 2,
+      "hook": "Senior Dutch academic voice on divorce-and-family research; useful for 'research evidence base' line in any Dutch PA conversation and for tempering recognition-camp claims about scale of harm.",
+      "notes": "UU press line 'bitter divorces have limited influence on quality of children's lives' is clean counterpoint to PA-catastrophising; cite carefully."
+    },
+    {
+      "country_code": "BE",
+      "name": "Benoît Van Dieren",
+      "city": "Brussels region / Luxembourg",
+      "region": "Brussels / Luxembourg",
+      "practice": "Psychologist, psychotherapist and family mediator; teaching/training role on parental alienation and parent-child collaboration expertise at Université Catholique de Louvain (UCLouvain); 10+ years of psycho-legal expertise practice on severe separation conflicts, especially rupture/risk of rupture of parent-child bond",
+      "practice_url": "https://sites.google.com/site/lamouettebelgique/conferences/prevention-de-l-alienation-parentale---par-benoit-van-dieren---mars-2005",
+      "regulatory_body": "Commission des psychologues / Psychologencommissie de Belgique https://www.compsy.be/ — searchable register",
+      "registration_number": "not publicly displayed",
+      "specialty": "Psycho-legal expertise in child-custody disputes; family mediation; parental-collaboration expertise model; PA in severe separation conflicts",
+      "stance": "recognition",
+      "stance_source": "Van Dieren, M. de Hemptinne & J.-L. Renchon, Le risque de rupture du lien parent-enfant et l'expertise centrée sur la collaboration parentale, Revue trimestrielle de droit familial (PFWB catalogue https://documentation.pfwb.be/index.php?lvl=notice_display&id=171078) ; La Mouette Belgique conference Prévention de l'aliénation parentale March 2005 https://sites.google.com/site/lamouettebelgique/conferences/prevention-de-l-alienation-parentale---par-benoit-van-dieren---mars-2005 ; CNQ Quebec carrefour PA (Belgian-Quebec collaboration) https://www.cnq.org/wp-content/uploads/2022/12/127817-6_Carrefour-Alienation-Parentale.pdf",
+      "programs_or_publications": [
+        "Van Dieren, de Hemptinne & Renchon — Le risque de rupture du lien parent-enfant et l'expertise centrée sur la collaboration parentale",
+        "2005 conférence Prévention de l'aliénation parentale (La Mouette Belgique)",
+        "Long-term teaching contribution at UCLouvain in psycho-legal expertise"
+      ],
+      "primary_contact": "Via UCLouvain Faculty of Psychology https://uclouvain.be/fr/facultes/psp ; via ACALPA partnership https://www.acalpa.info/",
+      "tier": 2,
+      "hook": "Principal Belgian francophone PA-recognition expert; brings parental-collaboration expertise model that Belgian Justice Ministry has at least gestured toward (Brussels Times https://www.brusselstimes.com/all-news/belgium-all-news/108061/).",
+      "notes": "Brief flagged as unverified — now verified via PFWB documentation catalogue (peer-reviewed journal entry), La Mouette Belgique conference archive and CNQ Quebec collaboration. Independent practice URL still not publicly confirmed; outreach via UCLouvain or ACALPA."
+    }
+  ],
+  "summary": {
+    "stance_distribution_by_country": {
+      "DE": {"recognition": 4, "middle": 0, "critique": 0, "total": 4},
+      "FR": {"recognition": 2, "middle": 2, "critique": 1, "total": 5},
+      "ES": {"recognition": 2, "middle": 1, "critique": 1, "total": 4},
+      "IT": {"recognition": 4, "middle": 0, "critique": 0, "total": 4},
+      "NL": {"recognition": 0, "middle": 4, "critique": 0, "total": 4},
+      "BE": {"recognition": 1, "middle": 0, "critique": 0, "total": 1}
+    },
+    "total_verified_entries": 22,
+    "tier_distribution_by_country": {
+      "DE": {"tier_1": 2, "tier_2": 1, "tier_3": 1},
+      "FR": {"tier_1": 3, "tier_2": 1, "tier_3": 1},
+      "ES": {"tier_1": 3, "tier_2": 1, "tier_3": 0},
+      "IT": {"tier_1": 4, "tier_2": 0, "tier_3": 0},
+      "NL": {"tier_1": 2, "tier_2": 2, "tier_3": 0},
+      "BE": {"tier_1": 0, "tier_2": 1, "tier_3": 0}
+    },
+    "honest_gaps": [
+      "DE: no critique-camp practising clinician at directory standard — German critique runs through legal academics and feminist NGOs rather than named clinicians",
+      "FR: Berger is the sole verified critique-camp clinician at Tier 1; FENAMEF / Fondation pour l'Enfance pool needs follow-up",
+      "IT: zero critique-camp clinicians at directory standard — Italian critique runs through Cassazione case-law (ord. 9691/2022, ord. 4595/2025) and legal scholarship",
+      "BE: only one entry at directory standard; Yapaka, Femmes de Droit and Code analyses need follow-up pass",
+      "NL: no critique-camp clinician at directory standard — closest is Dijkstra in middle-camp; Dutch critique runs through Schadefonds compensation case-law"
+    ],
+    "excluded_practitioners": [
+      {"name": "Werner Bartens", "country_code": "DE", "reason": "Qualified MD but practising as Süddeutsche Zeitung science editor, not as psychiatrist/psychotherapist; belongs in journalists list", "regulatory_disclosure": "https://werner-bartens.de/lebenslauf/ confirms journalism career"},
+      {"name": "Antonella Boschi", "country_code": "IT", "reason": "No Italian Ordine entry or PA publication found under that exact spelling; possibly confused with unrelated 'famiglia del bosco' psychologist controversy (https://www.quotidiano.net/cronaca/famiglia-del-bosco-news-oggi-w5bns32y)", "regulatory_disclosure": "Ordine degli Psicologi search returns no PA-active practitioner matching name"},
+      {"name": "Liesbet Nieuwenhuys", "country_code": "BE", "reason": "No Belgian Commission des psychologues entry or PA-relevant professional profile found under that exact spelling; several similar-named Belgian psychologists exist (Nijssens, Goubert, De Kock, Smedts, Plissart) — none with PA/family-court specialty", "regulatory_disclosure": "Commission des psychologues search inconclusive; request more specific identifier"},
+      {"name": "Marc Lormans", "country_code": "BE", "reason": "No Belgian register entry, publication or named press coverage found connecting a 'Marc Lormans' to parental alienation or family-court practice", "regulatory_disclosure": "Commission des psychologues search inconclusive; request more specific identifier"}
+    ]
+  }
+}

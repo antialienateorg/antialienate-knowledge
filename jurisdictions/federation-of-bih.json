@@ -1,0 +1,146 @@
+{
+  "schema_version": "1.0",
+  "id": "federation-of-bih",
+  "name": "Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine / FBiH)",
+  "jurisdiction_code": "BA-BIH",
+  "legal_system": "civil-law",
+  "language": ["bs", "hr", "sr", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-06",
+  "summary": "The Federation of Bosnia and Herzegovina (Bosnian/Croatian: Federacija Bosne i Hercegovine / FBiH) is a Balkan civil-law constitutionally-recognised entity of Bosnia and Herzegovina (one of two constitutionally-recognised entities under the Dayton Accord 1995 framework: Federation of Bosnia and Herzegovina + Republika Srpska, with Brčko District operating as condominium third entity) — structurally distinctive globally as the only sub-state-level entity constituted via formal pre-Dayton-Accord-1995 Washington Agreement framework (Washington Agreement 18 March 1994 — formal peace agreement between Bosnia and Herzegovina + Republic of Croatia + Bosnian Croats ending Croat-Bosniak War 1992-1994 within Bosnian War 1992-1995 + establishing Bosniak-Croat federation framework, distinct from rest-of-Bosnia-and-Herzegovina entities where Dayton Accord 1995 is sole establishing framework), as the only sub-state-level entity operating formal dual-ethnic-constituent-peoples governance framework (formal constitutional framework requiring Bosniak + Croat + Other constituent-peoples representation at executive + legislative + judicial branches — distinct from rest-of-sub-state-level entities operating mono-ethnic governance frameworks), as the only sub-state-level entity operating formal 10-cantons sub-sub-territorial framework (Federation comprises 10 cantons each with own constitution + government + parliament + judiciary — Una-Sana + Posavina + Tuzla + Zenica-Doboj + Bosnian Podrinje + Central Bosnia + Herzegovina-Neretva + West Herzegovina + Sarajevo + Canton 10, distinct from rest-of-sub-state-level entities operating unitary or simple sub-territorial frameworks), and as the central jurisdiction of one of the most distinctive modern post-Cold-War European federalisation frameworks (1994-1995 Bosniak-Croat federation framework + 1995 Dayton Accord federalisation framework + 2002 Constituent Peoples Decision Constitutional Court of Bosnia and Herzegovina Article U-5/98 — formalising Bosniak + Croat + Serb constituent-peoples framework across Federation + Republika Srpska entities). The Federation of Bosnia and Herzegovina territory historically operated under Ottoman 1463-1878 + Austro-Hungarian 1878-1918 + Kingdom of Yugoslavia 1918-1941 + WWII Independent State of Croatia 1941-1945 + Socialist Federal Republic of Yugoslavia 1945-1992 + Bosnian War period 1992-1995 + Washington Agreement 1994+ frameworks. Federation of Bosnia and Herzegovina comprises ~26,110 km² with a population of ~2.2 million. Family-law framework operates under a dual federal Bosnia and Herzegovina civil-law framework + Federation-specific Family Law of the Federation of Bosnia and Herzegovina 2005 framework. The Supreme Court of the Federation of Bosnia and Herzegovina is the apex regional court; final appellate jurisdiction lies with the Constitutional Court of Bosnia and Herzegovina. Federation of Bosnia and Herzegovina is silent on 'parental alienation' as a statutory label. Bosnia and Herzegovina is a Hague Convention 1980 signatory and party (acceded 23 August 1991 effective 1 December 1991 via succession from SFRY) — Federation of Bosnia and Herzegovina is governed by Bosnia and Herzegovina Hague-Convention-1980 framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Washington Agreement 1994",
+      "title": "Washington Agreement",
+      "year": 1994,
+      "url": "https://www.osce.org/",
+      "relevance": "Washington Agreement signed 18 March 1994 — formal peace agreement between Bosnia and Herzegovina + Republic of Croatia + Bosnian Croats ending Croat-Bosniak War 1992-1994 + establishing Bosniak-Croat federation framework."
+    },
+    {
+      "citation": "Dayton Accord 1995 (Annex IV: Bosnia and Herzegovina Constitution)",
+      "title": "Dayton Accord Annex IV — BiH Constitution",
+      "year": 1995,
+      "url": "https://www.osce.org/",
+      "relevance": "Dayton Accord signed Paris 14 December 1995 (formally General Framework Agreement for Peace in Bosnia and Herzegovina) — Annex IV containing Bosnia and Herzegovina Constitution establishing Federation of Bosnia and Herzegovina + Republika Srpska entity framework."
+    },
+    {
+      "citation": "Constitution of the Federation of Bosnia and Herzegovina 1994 (amended)",
+      "title": "Constitution of the Federation of BiH",
+      "year": 1994,
+      "url": "https://www.fbihvlada.gov.ba/",
+      "relevance": "Federation of Bosnia and Herzegovina Constitution adopted 30 March 1994 + multiple amendments post-Dayton Accord 1995 — entity-level constitutional framework."
+    },
+    {
+      "citation": "Family Law of the Federation of Bosnia and Herzegovina 2005",
+      "title": "Family Law of Federation BiH",
+      "year": 2005,
+      "url": "https://www.fbihvlada.gov.ba/",
+      "relevance": "Federation of Bosnia and Herzegovina-specific Family Law of 2005 — entity-level family-law framework."
+    },
+    {
+      "citation": "Constituent Peoples Decision U-5/98 (Constitutional Court of BiH)",
+      "title": "Constituent Peoples Decision U-5/98",
+      "year": 2000,
+      "url": "https://www.ustavnisud.ba/",
+      "relevance": "Constitutional Court of Bosnia and Herzegovina U-5/98 Partial Decision of 1 July 2000 — formalising Bosniak + Croat + Serb constituent-peoples framework across Federation + Republika Srpska entities."
+    },
+    {
+      "citation": "Hague Convention 1980 — Bosnia and Herzegovina accession 23 August 1991 via SFRY succession",
+      "title": "Hague Convention 1980 — Bosnia and Herzegovina",
+      "year": 1991,
+      "url": "https://www.hcch.net/",
+      "relevance": "Bosnia and Herzegovina Hague Convention 1980 accession 23 August 1991 effective 1 December 1991 via succession from SFRY — applicable to Federation of Bosnia and Herzegovina."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of the Federation of Bosnia and Herzegovina (Vrhovni sud Federacije Bosne i Hercegovine)",
+      "seat": "Sarajevo",
+      "url": "https://www.vsudfbih.gov.ba/",
+      "role": "Apex regional appellate court for civil and criminal matters from Federation of Bosnia and Herzegovina."
+    },
+    {
+      "name": "Constitutional Court of Bosnia and Herzegovina",
+      "seat": "Sarajevo",
+      "url": "https://www.ustavnisud.ba/",
+      "role": "Constitutional Court of Bosnia and Herzegovina — final constitutional jurisdiction over Federation of Bosnia and Herzegovina matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health of the Federation of Bosnia and Herzegovina",
+      "url": "https://www.fmoh.gov.ba/",
+      "role": "Federation of Bosnia and Herzegovina entity-level professional regulatory framework."
+    }
+  ],
+  "anonymisation_convention": "Federation of Bosnia and Herzegovina family-court decisions are anonymised per Bosnia and Herzegovina court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1992,
+      "title": "Bosnian War begins + Croat-Bosniak War",
+      "description": "Bosnian War 6 April 1992 - 14 December 1995 + Croat-Bosniak War 19 June 1992 - 23 February 1994 — armed-conflict-period framework."
+    },
+    {
+      "year": 1994,
+      "title": "Washington Agreement + Federation established",
+      "description": "Washington Agreement signed 18 March 1994 — formal peace agreement between Bosnia and Herzegovina + Republic of Croatia + Bosnian Croats ending Croat-Bosniak War + establishing Bosniak-Croat federation framework + Federation of Bosnia and Herzegovina Constitution adopted 30 March 1994."
+    },
+    {
+      "year": 1995,
+      "title": "Dayton Accord + Federation formalisation",
+      "description": "Dayton Accord signed Paris 14 December 1995 — formal peace agreement ending Bosnian War + formal constitutional recognition of Federation of Bosnia and Herzegovina + Republika Srpska entity framework."
+    },
+    {
+      "year": 2000,
+      "title": "Constituent Peoples Decision U-5/98",
+      "description": "Constitutional Court of Bosnia and Herzegovina U-5/98 Partial Decision of 1 July 2000 — formalising Bosniak + Croat + Serb constituent-peoples framework across Federation + Republika Srpska entities."
+    },
+    {
+      "year": 2005,
+      "title": "Family Law of Federation BiH",
+      "description": "Federation of Bosnia and Herzegovina-specific Family Law of 2005 — entity-level family-law framework."
+    }
+  ],
+  "structural_findings": [
+    "Federation of Bosnia and Herzegovina operates a civil-law constitutionally-recognised entity framework — places Federation of BiH in the Balkan Bosnia and Herzegovina entity cluster.",
+    "Only sub-state-level entity constituted via formal pre-Dayton-Accord-1995 Washington Agreement framework is structurally distinctive globally — Washington Agreement 18 March 1994 ending Croat-Bosniak War 1992-1994 + establishing Bosniak-Croat federation framework.",
+    "Only sub-state-level entity operating formal dual-ethnic-constituent-peoples governance framework is structurally distinctive globally — formal constitutional Bosniak + Croat + Other representation at executive + legislative + judicial branches.",
+    "Only sub-state-level entity operating formal 10-cantons sub-sub-territorial framework is structurally distinctive globally — 10 cantons each with own constitution + government + parliament + judiciary.",
+    "Central jurisdiction of one of most distinctive modern post-Cold-War European federalisation frameworks is structurally distinctive globally — 1994-1995 federation establishment + 2002 Constituent Peoples Decision framework.",
+    "Washington Agreement 1994 + Dayton Accord 1995 + Constituent Peoples Decision 2000 federalisation trajectory is structurally distinctive globally.",
+    "10-cantons sub-sub-territorial framework with own constitutional frameworks is structurally distinctive within Balkan cluster.",
+    "Bosnia and Herzegovina Hague-Convention-1980-accession-1991 framework applies via SFRY succession."
+  ],
+  "references": [
+    "jurisdiction:bosnia-and-herzegovina",
+    "jurisdiction:republika-srpska",
+    "jurisdiction:croatia",
+    "jurisdiction:serbia",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Government of the Federation of Bosnia and Herzegovina (Vlada Federacije BiH)",
+      "url": "https://www.fbihvlada.gov.ba/",
+      "publisher": "Federation of Bosnia and Herzegovina Government",
+      "language": "bs"
+    },
+    {
+      "title": "OSCE Mission to Bosnia and Herzegovina",
+      "url": "https://www.osce.org/mission-to-bosnia-and-herzegovina",
+      "publisher": "OSCE",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Federation of Bosnia and Herzegovina jurisdiction sidecar — civil-law Balkan Bosnia and Herzegovina constitutionally-recognised entity (Washington Agreement 1994 + Dayton Accord 1995 Annex IV BiH Constitution + Constitution of the Federation of Bosnia and Herzegovina 1994 + Family Law of Federation BiH 2005 + Constituent Peoples Decision U-5/98 + 10 cantons sub-sub-territorial framework + Bosnia and Herzegovina Hague-1980 via SFRY succession). Only sub-state-level entity constituted via formal pre-Dayton-Accord-1995 Washington Agreement framework globally + only sub-state-level entity operating formal dual-ethnic-constituent-peoples governance framework globally + only sub-state-level entity operating formal 10-cantons sub-sub-territorial framework globally + central jurisdiction of one of most distinctive modern post-Cold-War European federalisation frameworks + Washington-Dayton-Constituent-Peoples federalisation trajectory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Joins Balkan + civil-law + Bosnia-and-Herzegovina-entity cluster + Washington-Agreement-1994-globally-distinctive + Dayton-Accord-1995-Annex-IV-BiH-Constitution + Bosniak-Croat-dual-ethnic-constituent-peoples-governance + 10-cantons-sub-sub-territorial-framework + Constituent-Peoples-Decision-U-5-98-2000 + Bosnia-and-Herzegovina-Hague-1980-1991 clusters within the corpus."
+  ]
+}
