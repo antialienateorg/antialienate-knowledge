@@ -1,8 +1,8 @@
 {
   "manifest_version": "1.0",
-  "repository": "AntiAlienate/antialienate-knowledge",
+  "repository": "antialienateorg/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-13T21:41:03Z",
+  "generated": "2026-06-13T22:01:40Z",
   "schemas": {
     "practitioner": "https://knowledge.antialienate.com/schemas/practitioner.schema.json",
     "case-study": "https://knowledge.antialienate.com/schemas/case-study.schema.json",

@@ -53,7 +53,7 @@ EVIDENCE = REPO_ROOT / "evidence"
 
 LICENSE_FOOTER = (
     "\n\n---\n\n"
-    "*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). "
+    "*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/antialienateorg/antialienate-knowledge). "
     "Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*\n"
 )
 
@@ -597,7 +597,7 @@ def cmd_index(args) -> int:
         for country, stem, n, x in rows:
             out.append(f"| {country} | [{stem}.md]({stem}.md) | [{stem}.json]({stem}.json) | {n} | {x} |")
         out.append("")
-        out.append("*Canonical JSON: `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/" + kind + "/<country>.json`*")
+        out.append("*Canonical JSON: `https://knowledge.antialienate.com/practitioners/" + kind + "/<country>.json`*")
         (d / "README.md").write_text("\n".join(out) + LICENSE_FOOTER)
     print("index: practitioner READMEs rebuilt")
     return 0
@@ -778,7 +778,7 @@ def cmd_manifest(args) -> int:
 
     manifest = {
         "manifest_version": "1.0",
-        "repository": "AntiAlienate/antialienate-knowledge",
+        "repository": "antialienateorg/antialienate-knowledge",
         "license": "CC-BY-4.0",
         "generated": now,
         "schemas": dict(schemas, jurisdiction=f"{RAW_BASE}/schemas/jurisdiction.schema.json"),
