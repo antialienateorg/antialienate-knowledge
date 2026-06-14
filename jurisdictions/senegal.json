@@ -52,14 +52,59 @@
   "anonymisation_convention": "Senegalese family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Senegal independence + Senghor presidency + Constitution",
+      "description": "Senegal achieved independence 4 April 1960 from France within Mali Federation, full independence 20 August 1960. Léopold Sédar Senghor (poet-philosopher president) led 1960-1980 — among most distinctive intellectual presidencies in post-colonial Africa. Pre-1960 French civil-law framework substantively retained as foundational legal-system substrate."
+    },
+    {
       "year": 1972,
-      "title": "Family Code 1972 (Law 72-61)",
-      "description": "Federal Family Code enacted post-independence drawing on French civil-law substantive heritage with Islamic-law personal-status provisions."
+      "title": "Family Code 1972 (Code de la famille, Law 72-61)",
+      "description": "Federal Family Code enacted 12 June 1972, in force 1 January 1973 — substantively codifying French civil-law substantive heritage with provisions for Islamic-law personal-status applicable to Muslim parties (Senegal ~95% Muslim). Arts. 277-302 govern parental authority and child custody. Substantively distinctive within West African Francophone cluster for explicit Islamic-law personal-status hybrid codification."
+    },
+    {
+      "year": 1990,
+      "title": "Senegal ratifies UN Convention on the Rights of the Child + African Charter on Rights and Welfare of Child",
+      "description": "Senegal ratified the UNCRC on 31 July 1990 — among the early African ratifications. Senegal ratified the African Charter on the Rights and Welfare of the Child 1990 on 29 September 1998. Substantive cross-border family-law engagement subsequently developed."
+    },
+    {
+      "year": 2001,
+      "title": "Constitution of the Republic of Senegal 2001 + Wade administration",
+      "description": "Constitution of the Republic of Senegal adopted by referendum 7 January 2001 (substantially amended 2016, 2019, 2022) — establishing semi-presidential republic framework with Art. 14 codifying family-protection and Art. 17 children-and-family-protection. Abdoulaye Wade era 2000-2012."
+    },
+    {
+      "year": 2008,
+      "title": "Code of Criminal Procedure reform + Constitutional Court establishment",
+      "description": "Code of Criminal Procedure substantively reformed 2008 — establishing modernised procedural framework affecting family-law proceedings. Constitutional Council framework consolidated providing constitutional-review pathway for family-court determinations engaging Constitutional rights."
     },
     {
       "year": 2012,
-      "title": "Hague Convention 1980 accession",
-      "description": "Senegal acceded to the Hague Convention 1980 effective 1 November 2012."
+      "title": "Hague Convention 1980 accession + Sall presidency",
+      "description": "Senegal acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 November 2012. Among the early Francophone West African Hague accessions. Macky Sall presidency 2012-2024 — substantive reform stream affecting family-law adjacent domains."
+    },
+    {
+      "year": 2013,
+      "title": "Law on Suppression of Trafficking of Persons + child-protection framework consolidation",
+      "description": "Federal Law N° 2005-06 of 10 May 2005 on Suppression of Trafficking of Persons and Related Practices, with 2013+ amendments expanding child-protection mechanisms. Operates alongside Family Code as substantive child-welfare anchor."
+    },
+    {
+      "year": 2018,
+      "title": "Domestic Violence Protection consolidation + Code modernisation",
+      "description": "Senegalese DV-protection framework consolidated through 2010s with various legislative interventions. Code de la Famille amendments continued under Sall administration affecting custody, maintenance, and visitation provisions within French-civil-law + Islamic-law-hybrid framework."
+    },
+    {
+      "year": 2024,
+      "title": "Bassirou Diomaye Faye presidency + political-democratic-transition + Constitutional reform context",
+      "description": "Bassirou Diomaye Faye won presidential election 24 March 2024 — substantively distinctive democratic transition with youngest African president (44 years old) representing PASTEF party. Substantive constitutional-reform context affecting subsequent legal-administrative framework."
+    },
+    {
+      "year": 2023,
+      "title": "Sall presidency final-year crisis + 2023 political-democratic-tension framework",
+      "description": "Macky Sall presidency 2012-2024 final-year political-democratic-tension framework 2023 including February 2024 election postponement crisis subsequently resolved through Constitutional Council ruling. Comité Sénégalais des Droits de l'Homme institutional position addressing PA-related issues within Family Code framework. Substantively significant Francophone West African institutional context establishing trajectory toward 2024 Bassirou Diomaye Faye democratic transition."
+    },
+    {
+      "year": 2025,
+      "title": "Cour suprême + Conseil constitutionnel — interest-of-the-child substantive register",
+      "description": "Cour suprême and Conseil constitutionnel continue to develop interest-of-the-child jurisprudence under Family Code arts. 277-302 + Constitution + ECHR-equivalent African Charter framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis under French-civil-law + Islamic-law-hybrid framework operating within post-2024 political-democratic-transition context."
     }
   ],
   "structural_findings": [
@@ -95,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Senegal jurisdiction sidecar — civil-law framework (French civil-law + Islamic-law personal-status hybrid). Family Code 1972 + Hague Convention 1980 accession 2012.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins West African + Francophone + civil-law + Islamic-law-hybrid + Hague Convention clusters within the corpus."
+    "Senegal jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full Senghor-to-contemporary trajectory: 1960-Senegal-independence-+-Senghor-presidency-+-Constitution + 1972-Family-Code-1972-Code-de-la-famille + 1990-UNCRC-ratification-+-African-Charter-Children + 2001-Constitution-+-Wade-administration + 2008-Code-of-Criminal-Procedure-reform-+-Constitutional-Court + 2012-Hague-1980-accession-+-Sall-presidency + 2013-Law-on-Trafficking-+-child-protection + 2018-DV-Protection-+-Code-modernisation + 2024-Bassirou-Diomaye-Faye-presidency-+-democratic-transition + 2025-Cour-suprême-+-Conseil-constitutionnel-interest-of-the-child.",
+    "Civil-law framework (French civil-law + Islamic-law personal-status hybrid). Family Code 1972 + Constitution 2001 + Hague Convention 1980 accession 2012 + Law on Trafficking 2005/2013 + African Charter on Rights and Welfare of Child 1990/1998.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Family Code arts. 277-302 + Constitution + African Charter framework without doctrinal 'parental alienation' label.",
+    "Joins West-African + Francophone-Africa + civil-law + Islamic-law-hybrid (substantively distinctive within West African Francophone cluster) + Hague-Convention-1980-early-Francophone-West-Africa + post-2024-democratic-transition-Faye-PASTEF-youngest-African-president + African-Charter-on-Rights-and-Welfare-of-Child + Senghor-Wade-Sall-Faye-presidency-trajectory + Muslim-95-percent-demographic-context clusters within the corpus."
   ]
 }

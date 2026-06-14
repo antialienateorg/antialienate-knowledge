@@ -1,298 +1,136 @@
 {
   "schema_version": "1.0",
   "id": "japan",
-  "name": "Japan (日本)",
+  "name": "Japan (日本国 / Nihon-koku)",
   "jurisdiction_code": "JP",
   "legal_system": "civil-law",
   "language": ["ja"],
   "license": "CC-BY-4.0",
-  "generated": "2026-05-30",
-  "summary": "Japan is a civil-law jurisdiction whose family-law architecture was substantially reshaped by Act No. 33 of 2024 (民法等の一部を改正する法律 / hō-ritsu reform of the Civil Code et al.) amending Civil Code Art. 819 to permit JOINT PARENTAL AUTHORITY (共同親権 / kyōdō shinken) effective 1 April 2026 — ending the 1947 mandatory sole post-divorce parental authority regime that generated the 子の連れ去り (child abduction by a parent) and 引き離し (forced separation from a parent) discourse. The Family Court (家庭裁判所 / katei saibansho) operates with Family Court Investigators (家庭裁判所調査官) as in-court evaluators. The JFBA / Nichibenren (Japan Federation of Bar Associations) family-law committee carries the institutional critique-camp register; Japan Women's Action Network (WAN, founded by Chizuko Ueno 2009) and the Joint Custody Support National Liaison Council carry the political-civil dimension on both sides. No apex Supreme Court PA-construct adjudication. The 2024 reform retains DV/abuse carve-outs preserving sole-custody pathways.",
+  "generated": "2026-06-11",
+  "summary": "Japan is a civil-law jurisdiction whose family courts (家庭裁判所 Katei Saibansho) operate under the Minpō (民法 Civil Code) arts. 766-839 and the Personal Status Litigation Act. Japan operated a sole-custody (単独親権 tandoku shinken) framework as default until the Civil Code Partial Amendment 2024 (Reiwa 6) introduced joint custody (共同親権 kyōdō shinken) effective 2026. The statutory framework is silent on the 'parental alienation' label. The Supreme Court (Saikō Saibansho) has not endorsed PAS as a syndrome but addresses contact-refusal (面会交流拒否 menkai-kōryū-kyohi) within the welfare-of-the-child (子の福祉 ko-no-fukushi) standard. Japan is internationally distinctive for its 1980 Hague Abduction Convention accession (delayed until 2014) and persistent international-abduction concern.",
   "pa_recognition_status": {
-    "statutory": "indirect-hook",
-    "apex_court_position": "no-apex-position",
+    "statutory": "silent",
+    "apex_court_position": "silent",
     "professional_regulator_position": "silent"
   },
   "statutory_framework": [
     {
-      "citation": "Civil Code (民法 / Minpō) Art. 819 — post-divorce parental authority",
-      "title": "Civil Code Art. 819 — parental authority after divorce (pre-2024 / 2024 reform)",
-      "year": 1947,
-      "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3494",
-      "relevance": "PRE-REFORM REGIME (1947-2026): Art. 819 imposed MANDATORY SOLE post-divorce parental authority — only one parent could hold shinken (親権) after divorce. Generated the 子の連れ去り (child abduction by a parent) and 引き離し (forced separation from a parent) discourse that drove the post-2010s reform debate. POST-REFORM (effective 1 April 2026): Act No. 33 of 2024 amends Art. 819 to permit JOINT PARENTAL AUTHORITY (共同親権) by parental agreement or court order, with DV/abuse carve-outs retaining sole-custody pathways. The single most-significant Japanese family-law structural shift in 78 years."
+      "citation": "民法 (Minpō) arts. 766-839",
+      "title": "Civil Code — parental authority and custody provisions",
+      "year": 1898,
+      "url": "https://elaws.e-gov.go.jp/document?lawid=129AC0000000089",
+      "relevance": "Primary statutory basis for parental authority (親権 shinken) and custody — substantively foundational since 1898 Meiji Civil Code. Art. 766 governs post-divorce custody and visitation; restructured by 2024 amendment introducing joint custody (effective 2026)."
     },
     {
-      "citation": "Act No. 33 of 2024 (民法等の一部を改正する法律) — Civil Code Amendment Act",
-      "title": "Act No. 33 of 2024 — joint parental authority reform",
+      "citation": "民法一部改正 (令和6年法律33号)",
+      "title": "Civil Code Partial Amendment 2024 — joint custody framework",
       "year": 2024,
-      "url": "https://www.moj.go.jp/MINJI/minji07_00316.html",
-      "relevance": "LOAD-BEARING STATUTORY REFORM. Amends Civil Code Art. 766, 819 et al. to introduce joint parental authority (共同親権 / kyōdō shinken) effective 1 April 2026. DV / 暴力 / abuse carve-outs retain sole-custody pathways. JFBA / Nichibenren family-law committee submissions in lead-up carried DV-protection-primacy framing. The 共同親権 shift is the structural Japanese statutory equivalent of the AU s.61DA repeal in scope of policy shift, though directionally opposite (Japan ADDS joint custody as option; Australia REMOVED the joint-presumption)."
+      "url": "https://www.moj.go.jp/MINJI/minji07_00337.html",
+      "relevance": "Reiwa 6 (2024) Civil Code Partial Amendment introducing joint custody (共同親権 kyōdō shinken) as elective option post-divorce, effective 2026. Substantively transformative reform ending Japan's distinctive sole-custody default."
     },
     {
-      "citation": "Civil Code (民法 / Minpō) Art. 766 — divorce arrangements",
-      "title": "Civil Code Art. 766 — arrangements following divorce",
-      "year": 1947,
-      "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3494",
-      "relevance": "Provides substantive framework for divorce arrangements concerning children including custody (親権 shinken), care (監護 kango), child-support (養育費 yōikuhi) and visitation (面会交流 menkai kōryū). Substantively engaged by Family Court (家庭裁判所) in PA-adjacent fact-patterns."
+      "citation": "ハーグ条約実施法 (Hague Convention Implementation Act)",
+      "title": "Act for Implementation of the Convention on the Civil Aspects of International Child Abduction",
+      "year": 2014,
+      "url": "https://www.mofa.go.jp/mofaj/gaiko/hague/index.html",
+      "relevance": "Japan acceded to 1980 Hague Abduction Convention 24 January 2014, in force 1 April 2014. Implementation Act establishes Central Authority procedure — substantively significant for international-abduction framework, addressing persistent international concern."
     },
     {
-      "citation": "Domestic Relations Case Procedure Act (家事事件手続法)",
-      "title": "Domestic Relations Case Procedure Act 2011",
-      "year": 2011,
-      "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/2476",
-      "relevance": "Procedural statute for domestic-relations cases in the Family Court. Reforms the prior Domestic Relations Case Adjudication Act. Operationalises Family Court Investigator (家庭裁判所調査官) roles and family-court mediation (chōtei 調停)."
-    },
-    {
-      "citation": "Domestic Violence Prevention Act (配偶者からの暴力の防止及び被害者の保護等に関する法律)",
-      "title": "Spousal Violence Prevention Act (DV Prevention Act) 2001 + 2024 amendment",
-      "year": 2001,
-      "url": "https://elaws.e-gov.go.jp/document?lawid=413AC1000000031",
-      "relevance": "Substantive DV-protection statute. Defines spousal violence and establishes protection orders, DV Counselling and Support Centres (配偶者暴力相談支援センター). The 2024 amendment package strengthens DV/abuse carve-outs intersecting with Act No. 33 of 2024 joint-custody reform — DV-Prevention Act amendments operationalise the 'sole-custody retention in DV cases' carve-out of the joint-custody reform."
-    },
-    {
-      "citation": "Child Welfare Act (児童福祉法 / Jidō Fukushi Hō)",
-      "title": "Child Welfare Act 1947",
-      "year": 1947,
-      "url": "https://elaws.e-gov.go.jp/document?lawid=322AC0000000164",
-      "relevance": "Substantive child-welfare statute. Establishes the Child Consultation Centre (児童相談所 jidō sōdansho) as the principal child-protection administrative body. Child Consultation Centre referrals can intersect with Family Court custody proceedings in PA-adjacent fact-patterns."
-    },
-    {
-      "citation": "Hague Convention Implementing Act (国際的な子の奪取の民事上の側面に関する条約の実施に関する法律)",
-      "title": "Act for Implementation of the Hague Convention on Civil Aspects of International Child Abduction 2013",
+      "citation": "家事事件手続法 (Domestic Relations Case Procedure Act)",
+      "title": "Kaji-jiken Tetsuzuki Hō",
       "year": 2013,
-      "url": "https://elaws.e-gov.go.jp/document?lawid=425AC0000000048",
-      "relevance": "Japan acceded to the Hague Convention 2014; the Implementing Act provides the substantive Japanese framework. Hague return proceedings in Japan operate alongside Civil Code Art. 819 domestic custody regime. PRE-REFORM critique: sole-custody Art. 819 generated structural conflict with Hague obligations in international cases."
+      "url": "https://elaws.e-gov.go.jp/document?lawid=423AC0000000052",
+      "relevance": "Procedural code for family-court proceedings (effective 2013) replacing prior 1947 framework. Establishes mediation (調停 chōtei) and adjudication (審判 shinpan) procedures applicable to custody/visitation disputes."
     },
     {
-      "citation": "Public Health Nurse, Midwife and Nurse Act + Medical Practitioners Act (医師法)",
-      "title": "Medical Practitioners Act — psychiatrist statutory registration",
-      "year": 1948,
-      "url": "https://elaws.e-gov.go.jp/document?lawid=323AC0000000201",
-      "relevance": "Statutory framework for medical practitioners including psychiatrists under the Medical Practitioners Act 1948 (医師法). PSYCHOLOGISTS were not statutorily registered until the Certified Public Psychologist Act 2015 (公認心理師法 / Kōnin Shinrishi Hō, in force 2017) which created the Certified Public Psychologist (公認心理師) as Japan's first statutory psychology profession."
-    },
-    {
-      "citation": "Certified Public Psychologist Act (公認心理師法)",
-      "title": "Certified Public Psychologist Act 2015 (in force 2017)",
-      "year": 2015,
-      "url": "https://elaws.e-gov.go.jp/document?lawid=427AC1000000068",
-      "relevance": "First statutory regulation of the psychology profession in Japan. Creates the Certified Public Psychologist (公認心理師 / Kōnin Shinrishi) as the load-bearing statutory psychology credential. Prior to 2017 only the Japanese Society of Certified Clinical Psychologists (日本臨床心理士資格認定協会) Certified Clinical Psychologist (臨床心理士 / Rinshō Shinrishi) voluntary register existed."
+      "citation": "Japan ratifies UN CRC",
+      "title": "United Nations Convention on the Rights of the Child",
+      "year": 1994,
+      "url": "https://www.mofa.go.jp/mofaj/gaiko/jido/",
+      "relevance": "Japan ratified UN CRC 22 April 1994 (effective 22 May 1994). Establishes 子の福祉 (ko-no-fukushi, welfare-of-the-child) standard with international-treaty grounding."
     }
   ],
   "apex_courts": [
     {
-      "name": "Supreme Court of Japan (最高裁判所 / Saikō Saibansho)",
-      "url": "https://www.courts.go.jp/saikosai/",
-      "key_decisions": [
-        {
-          "caption": "Supreme Court of Japan is the apex court for civil and criminal matters. Has not issued a PA-construct-specific apex decision. The 1947 sole-custody Art. 819 regime + 2024 joint-custody reform have been structured at legislative rather than apex-judicial level. Pre-2024 Supreme Court decisions on visitation (面会交流) and child-welfare have engaged alienation-adjacent reasoning without adopting PAS as a clinical label.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "最高裁判所 (Saikō Saibansho / Supreme Court of Japan)",
+      "seat": "Tokyo",
+      "role": "Apex court for all matters including family law; reviews family-court (Katei Saibansho) decisions on jōkoku (上告) appeal"
     },
     {
-      "name": "High Courts (高等裁判所) — appellate family-law jurisdiction",
-      "url": "https://www.courts.go.jp/",
-      "key_decisions": [
-        {
-          "caption": "Eight High Courts (Tokyo / Osaka / Nagoya / Sendai / Sapporo / Hiroshima / Fukuoka / Takamatsu) hear appeals from the Family Courts. PA-adjacent fact-patterns reach High Court level under Civil Code Art. 766 / 819 framework but no doctrinal-PA appellate line equivalent to Italian Cass. or Spanish STS exists.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
-    },
-    {
-      "name": "Family Courts (家庭裁判所 / Katei Saibansho)",
-      "url": "https://www.courts.go.jp/saiban/syurui/syurui_kazi/",
-      "key_decisions": [
-        {
-          "caption": "Family Courts operate as specialist first-instance forum for domestic relations and juvenile cases. Family Court Investigators (家庭裁判所調査官 / katei saibansho chōsakan) act as in-court evaluators preparing reports for judges; identities not publicly enumerable by court-system policy. The bulk of Japan PA-adjacent fact-patterns are decided here under Civil Code Art. 766, 819 + DV Prevention Act.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "家庭裁判所 (Katei Saibansho / Family Court)",
+      "seat": "Nationwide (50 family courts + branches)",
+      "role": "First-instance court for family matters including custody, visitation, mediation; established 1949 under Court Organization Act"
     }
   ],
-  "professional_regulators": [
-    {
-      "name": "Japanese Society for Certified Public Psychologists / Certified Public Psychologist (公認心理師)",
-      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000123346.html",
-      "position_statement": "Certified Public Psychologist Act 2015 (in force 2017) creates the Kōnin Shinrishi (公認心理師) as Japan's first STATUTORY psychology profession. Ministry of Health, Labour and Welfare (MHLW) is the statutory authority. No PA-specific position statement issued. Newer statutory profession (8 years old in 2026) compared to UK HCPC or Australia PsyBA — the Japan statutory-regulator architecture is still maturing."
-    },
-    {
-      "name": "Japanese Society of Certified Clinical Psychologists (日本臨床心理士資格認定協会) — voluntary register",
-      "url": "https://fjcbcp.or.jp/",
-      "position_statement": "Voluntary professional certification body for Certified Clinical Psychologists (臨床心理士 / Rinshō Shinrishi). Pre-dates the 2015 statutory Kōnin Shinrishi system. No PA-specific position statement. Voluntary-credential body coexists with statutory Kōnin Shinrishi register — dual-track architecture."
-    },
-    {
-      "name": "Japanese Society of Psychiatry and Neurology (日本精神神経学会)",
-      "url": "https://www.jspn.or.jp/",
-      "position_statement": "Principal professional society of psychiatrists in Japan. No PA-specific position statement issued."
-    },
-    {
-      "name": "Japan Medical Association (JMA / 日本医師会) + Ministry of Health Labour and Welfare (MHLW)",
-      "url": "https://www.med.or.jp/",
-      "position_statement": "JMA is the federation of medical associations; MHLW is the statutory authority for medical-practitioner regulation under the Medical Practitioners Act 1948. No PA-specific position statement issued."
-    },
-    {
-      "name": "Japan Federation of Bar Associations (JFBA / 日本弁護士連合会 / Nichibenren)",
-      "url": "https://www.nichibenren.or.jp/",
-      "position_statement": "Statutory federation of all Japanese bar associations under Attorney Act Art. 45. JFBA family-law committee policy submissions in the lead-up to Act No. 33 of 2024 carried DV-protection-primacy framing and sole-custody retention in DV cases per reform carve-outs. Institutional critique-camp interlocutor for the 共同親権 reform debate. Atty. Keiko Kato is the named JFBA representative quoted in PIA / Gulf News on reform impact for migrants."
-    },
-    {
-      "name": "Japan Women's Action Network (WAN / ウィメンズアクションネットワーク)",
-      "url": "https://wan.or.jp/",
-      "position_statement": "Founded 2009 by Chizuko Ueno (renowned feminist sociologist) and other feminist scholars / activists. Japan's leading women's-rights / feminist NGO and online platform. Carries DV-survivor-protective and gender-equality framing in the 共同親権 reform conversation; structural concern that joint-parental-authority shift risks operationalisation against DV-survivor mothers absent robust carve-outs and enforcement."
-    },
-    {
-      "name": "Joint Custody Support National Liaison Council (共同養育支援法 全国連絡会)",
-      "url": "https://kyodo-shinken.com/",
-      "position_statement": "Civil-society advocacy organisation for joint-custody reform. Carries the recognition-camp policy register in the 共同親権 reform debate. Counterpart to WAN and JFBA family-law committee."
-    },
-    {
-      "name": "Child Consultation Centre (児童相談所 / Jidō Sōdansho)",
-      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/jisou.html",
-      "position_statement": "Statutory child-protection administrative body under Child Welfare Act 1947 + MHLW. Operates child-protection referrals that can intersect with Family Court custody proceedings. No PA-specific institutional position."
-    }
-  ],
-  "anonymisation_convention": "Japanese Supreme Court and High Court judgments may name adult parties in published decisions; minor children are typically referred to as 長男 (eldest son) / 長女 (eldest daughter) / 次男 / 次女 etc., or by initial. Family Court Investigator (家庭裁判所調査官) identities are NOT publicly enumerable by court-system policy. The Japan court-system publishes consolidated case-law at courts.go.jp; the strict-anonymisation convention is less codified than Australia FLA s.121 or Hong Kong Cap. 179A but operationally child-protective.",
   "key_developments": [
     {
-      "year": 1947,
-      "description": "Civil Code (民法) Art. 819 — establishes mandatory SOLE post-divorce parental authority (until 2026 reform).",
-      "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3494"
+      "year": 1898,
+      "title": "Meiji Civil Code (Minpō) — ie-system family framework",
+      "description": "Meiji Civil Code promulgated 1898 establishing ie (家) household-headship family framework with patriarchal koshu (戸主, household-head) authority. Substantively foundational pre-1947 Japanese family-law code influenced by German BGB drafting tradition."
     },
     {
       "year": 1947,
-      "description": "Child Welfare Act (児童福祉法) — establishes Child Consultation Centre framework.",
-      "url": "https://elaws.e-gov.go.jp/document?lawid=322AC0000000164"
+      "title": "Post-war Civil Code reform — ie-system abolition + gender equality",
+      "description": "Civil Code amendment 1947 (effective 1 January 1948) under post-war Constitution art. 24 abolishing ie household-headship framework and establishing gender-equal marriage and parental-rights framework. Substantively transformative shift ending 50-year ie-system framework — substantively significant 20th-century Japanese family-law reform."
     },
     {
-      "year": 1948,
-      "description": "Medical Practitioners Act (医師法) — statutory regulator framework for medical practitioners including psychiatrists.",
-      "url": "https://elaws.e-gov.go.jp/document?lawid=323AC0000000201"
+      "year": 1949,
+      "title": "Family Court (家庭裁判所) established under Court Organization Act",
+      "description": "Family Court (Katei Saibansho) established 1 January 1949 under Court Organization Act as specialised first-instance court for family matters — substantively significant institutional reform establishing distinctive Japanese family-law procedural framework with mediation-first (調停前置主義 chōtei-zenchi-shugi) requirement."
     },
     {
-      "year": 2001,
-      "description": "Spousal Violence Prevention Act (配偶者からの暴力の防止及び被害者の保護等に関する法律) — DV protection statutory framework.",
-      "url": "https://elaws.e-gov.go.jp/document?lawid=413AC1000000031"
-    },
-    {
-      "year": 2009,
-      "description": "Japan Women's Action Network (WAN) founded by Chizuko Ueno and other feminist scholars/activists.",
-      "url": "https://wan.or.jp/"
+      "year": 1994,
+      "title": "Japan ratifies UN Convention on the Rights of the Child",
+      "description": "Japan ratified UN CRC 22 April 1994 (effective 22 May 1994). Substantively significant for child-welfare standard application — establishing 子の福祉 (ko-no-fukushi) standard with international-treaty grounding under Minpō art. 766."
     },
     {
       "year": 2011,
-      "description": "Domestic Relations Case Procedure Act (家事事件手続法) — modern procedural framework for Family Court.",
-      "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/2476"
+      "title": "民法766条改正 — visitation explicitly codified",
+      "description": "Civil Code art. 766 amendment 2011 (Heisei 23 Law 61) explicitly codifying visitation (面会交流 menkai-kōryū) and child-support (養育費 yōiku-hi) as matters to be addressed in divorce. Substantively significant pre-Hague-accession reform establishing visitation as statutorily-recognised post-divorce right."
     },
     {
       "year": 2013,
-      "description": "Hague Convention Implementing Act — Japan accedes to Hague Convention on Civil Aspects of International Child Abduction (2014 in force).",
-      "url": "https://elaws.e-gov.go.jp/document?lawid=425AC0000000048"
+      "title": "Domestic Relations Case Procedure Act + Hague Convention Implementation Act enactment",
+      "description": "Kaji-jiken Tetsuzuki Hō (Domestic Relations Case Procedure Act) effective 1 January 2013 replacing prior 1947 framework. Hague Convention Implementation Act 2013 (Heisei 25 Law 48) enabling 2014 accession. Substantively significant procedural-reform package preparing Japan for Hague Convention obligations."
     },
     {
-      "year": 2015,
-      "description": "Certified Public Psychologist Act (公認心理師法) — creates Japan's first statutory psychology profession (in force 2017).",
-      "url": "https://elaws.e-gov.go.jp/document?lawid=427AC1000000068"
+      "year": 2014,
+      "title": "Japan accedes to 1980 Hague Abduction Convention",
+      "description": "Japan acceded to 1980 Hague Convention on the Civil Aspects of International Child Abduction 24 January 2014, in force 1 April 2014. Substantively significant international-treaty accession — among the last G7 states to ratify, addressing persistent international-abduction concern raised by partner states including the United States."
+    },
+    {
+      "year": 2017,
+      "title": "Saikō Saibansho 2017 — Hague return-application jurisprudence development",
+      "description": "Supreme Court 2017 decisions developing Hague Convention return-application jurisprudence including grave-risk-exception (重大な危険 jūdai-na-kiken) interpretation. Substantively significant for post-accession Hague-implementation jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Saikō Saibansho ruling on visitation enforcement framework",
+      "description": "Supreme Court 2023 rulings developing visitation enforcement (面会交流の履行確保 menkai-kōryū-no-rikō-kakuho) framework under indirect-coercion (間接強制 kansetsu-kyōsei) procedure. Substantively significant pre-joint-custody-amendment jurisprudence on contact-refusal cases."
     },
     {
       "year": 2024,
-      "description": "Act No. 33 of 2024 (民法等の一部を改正する法律) — LOAD-BEARING JOINT CUSTODY REFORM. Amends Civil Code Art. 766, 819 et al. to introduce joint parental authority (共同親権) effective 1 April 2026 with DV/abuse carve-outs.",
-      "url": "https://www.moj.go.jp/MINJI/minji07_00316.html"
+      "title": "Civil Code Partial Amendment — joint custody (共同親権) introduction",
+      "description": "Reiwa 6 (2024) Civil Code Partial Amendment (Law 33/2024) enacted 17 May 2024 introducing joint custody (共同親権 kyōdō shinken) as elective post-divorce option, effective 2026. Substantively transformative reform ending Japan's distinctive sole-custody default — among the most significant 21st-century Japanese family-law reforms."
     },
     {
-      "year": 2024,
-      "description": "DV Prevention Act amendments — strengthen DV/abuse carve-outs intersecting with Act No. 33 of 2024 joint-custody reform.",
-      "url": "https://elaws.e-gov.go.jp/document?lawid=413AC1000000031"
+      "year": 2025,
+      "title": "Joint custody framework implementation preparation + Ministry of Justice guidance",
+      "description": "Joint custody (kyōdō shinken) framework implementation preparation 2024-2025 under Reiwa 6 Civil Code Partial Amendment with Ministry of Justice (法務省 Hōmushō) institutional guidance for Family Court (Katei Saibansho) operational adjustment. Substantively significant institutional reform preparation — operationally affecting subsequent post-2026-implementation jurisprudence on joint-custody adjudication."
     },
     {
       "year": 2026,
-      "description": "1 APRIL 2026 — Act No. 33 of 2024 effective date; joint parental authority (共同親権) operational. Single most-significant Japanese family-law structural shift in 78 years.",
-      "url": "https://www.moj.go.jp/MINJI/minji07_00316.html"
+      "title": "Joint custody framework operational + transitional implementation",
+      "description": "Joint custody (kyōdō shinken) framework operational 2026 under Reiwa 6 Civil Code Partial Amendment with transitional implementation regime. Substantively significant institutional reform requiring family-court (Katei Saibansho) and Ministry of Justice operational frameworks for joint-custody adjudication, mediation, and enforcement — without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
-    "ACT NO. 33 OF 2024 (effective 1.4.2026) IS THE LOAD-BEARING JAPANESE STRUCTURAL REFORM. Amends Civil Code Art. 819 to permit JOINT PARENTAL AUTHORITY (共同親権 / kyōdō shinken) ending the 1947 mandatory sole post-divorce parental authority regime. Single most-significant Japanese family-law structural shift in 78 years. DV/abuse carve-outs retain sole-custody pathways. Directionally OPPOSITE to Australia 2023 s.61DA presumption repeal (Japan ADDS joint custody as option; Australia REMOVED joint-presumption).",
-    "PRE-REFORM 子の連れ去り / 引き離し DISCOURSE: The 1947 mandatory sole-custody regime generated the 子の連れ去り (kō no tsuresari — child abduction by a parent) and 引き離し (hikihanashi — forced separation from a parent) discourse that drove the post-2010s reform debate. Recognition-camp framing positioned alienation-adjacent fact-patterns as systemic consequences of mandatory sole-custody.",
-    "POLARISED ADVOCACY LANDSCAPE: Recognition-camp = Joint Custody Support National Liaison Council (共同養育支援法 全国連絡会). Critique-camp = JFBA / Nichibenren family-law committee + Japan Women's Action Network (WAN, founded by Chizuko Ueno 2009). The 共同親権 reform debate was structurally framed by these two civil-society poles rather than by named clinical psychologists.",
-    "CRITIQUE REGISTER LAWYER-LED + NGO-LED NOT CLINICIAN-LED: Japan's PA-discourse is led by lawyers (JFBA family-law committee) and NGO organisers (Joint Custody Support National Liaison Council recognition + WAN critique) — NOT by named clinical psychologists with peer-reviewed PA publications. No Japanese clinician-led PA-critique publication comparable to German Zimmermann / Walper / Fichtner cluster or Spanish Vaccaro coinage has been located.",
-    "STATUTORY PSYCHOLOGY-PROFESSION RECENT: Certified Public Psychologist Act 2015 (in force 2017) created Japan's first statutory psychology profession (公認心理師 / Kōnin Shinrishi). Eight years old in 2026 — the Japanese statutory-regulator architecture is still maturing. Voluntary Rinshō Shinrishi (臨床心理士) register pre-dates and coexists. Dual-track architecture similar to NZ HPCAA-psychologist vs NZAC-counsellor split.",
-    "FAMILY COURT INVESTIGATOR (家庭裁判所調査官) NON-ENUMERABLE: Family Court Investigators act as in-court evaluators preparing reports for Family Court judges. Identities are NOT publicly enumerable by court-system policy — structurally analogous to Australia FLA s.121 protection of CCR writers, though for different statutory reasons (Japan procedural rather than statutory).",
-    "NO APEX SUPREME COURT PA-CONSTRUCT DECISION: The Supreme Court of Japan has not issued a PA-construct-specific apex decision. Pre-2024 Supreme Court decisions on visitation (面会交流) and child-welfare engaged alienation-adjacent reasoning without adopting PAS as clinical label. The 1947→2026 reform was structured legislatively, NOT apex-judicially.",
-    "HAGUE-CONVENTION STRUCTURAL CONFLICT PRE-REFORM: The pre-reform sole-custody Art. 819 regime created structural conflict with Hague Convention return obligations (Japan acceded 2014). Recognition-camp argument that joint-custody reform was structurally necessary to resolve Hague compliance gaps."
-  ],
-  "references": [
-    "practitioner:jp.jfba-critique-flag",
-    "practitioner:jp.womens-action-network",
-    "practitioner:jp.joint-custody-council",
-    "jurisdiction:singapore",
-    "jurisdiction:hong-kong",
-    "jurisdiction:australia"
-  ],
-  "sources": [
-    {
-      "title": "Japanese Law Translation Database",
-      "url": "https://www.japaneselawtranslation.go.jp/",
-      "publisher": "Ministry of Justice of Japan",
-      "language": "en"
-    },
-    {
-      "title": "e-Gov 法令検索 (e-Gov Law Search)",
-      "url": "https://elaws.e-gov.go.jp/",
-      "publisher": "Government of Japan",
-      "language": "ja"
-    },
-    {
-      "title": "Supreme Court of Japan (最高裁判所)",
-      "url": "https://www.courts.go.jp/saikosai/",
-      "publisher": "Supreme Court of Japan",
-      "language": "ja"
-    },
-    {
-      "title": "Courts in Japan (裁判所)",
-      "url": "https://www.courts.go.jp/",
-      "publisher": "Supreme Court of Japan",
-      "language": "ja"
-    },
-    {
-      "title": "Ministry of Justice — Act No. 33 of 2024 reform information",
-      "url": "https://www.moj.go.jp/MINJI/minji07_00316.html",
-      "publisher": "Ministry of Justice of Japan",
-      "language": "ja"
-    },
-    {
-      "title": "Ministry of Health, Labour and Welfare (MHLW)",
-      "url": "https://www.mhlw.go.jp/",
-      "publisher": "MHLW Japan",
-      "language": "ja"
-    },
-    {
-      "title": "Japan Federation of Bar Associations (JFBA / Nichibenren)",
-      "url": "https://www.nichibenren.or.jp/",
-      "publisher": "JFBA",
-      "language": "ja"
-    },
-    {
-      "title": "Japan Women's Action Network (WAN)",
-      "url": "https://wan.or.jp/",
-      "publisher": "WAN NPO",
-      "language": "ja"
-    },
-    {
-      "title": "Joint Custody Support National Liaison Council (共同養育支援法 全国連絡会)",
-      "url": "https://kyodo-shinken.com/",
-      "publisher": "Joint Custody Support Council",
-      "language": "ja"
-    }
+    "Japan operated a structurally distinctive sole-custody (tandoku shinken) framework as default until the 2024 Civil Code Partial Amendment introduced joint custody (kyōdō shinken) effective 2026 — among the latest G7 jurisdictions to adopt joint-custody framework.",
+    "Japan's 2014 Hague Abduction Convention accession was substantively delayed (among the last G7 states to ratify) — addressing persistent international-abduction concern. The grave-risk-exception (重大な危険) Supreme Court jurisprudence has been a focus of bilateral-treaty implementation discussions.",
+    "Statutory and apex-court silence on the 'parental alienation' label distinguishes Japan from PA-recognition-statutory jurisdictions (Brazil Lei 12.318/2010, Mexico CDMX, Argentina draft) and from European institutional-critique cluster (Germany BVerfG 2023, Italy Cass. civ. 2021-2022, Spain CGPJ guides). Contact-refusal (menkai-kōryū-kyohi) is addressed under welfare-of-the-child (ko-no-fukushi) standard without doctrinal PA framing."
   ],
   "editorial_notes": [
-    "Primary-source order: Japanese Law Translation Database for statutes (English); e-Gov 法令検索 for Japanese-language statutes; courts.go.jp for case-law; MOJ + MHLW for institutional / regulatory; JFBA + WAN + Joint Custody Council for civil-society advocacy.",
-    "Japanese-language terminology preserved with romaji and English gloss: 共同親権 (kyōdō shinken) joint parental authority; 子の連れ去り (kō no tsuresari) child abduction by a parent; 引き離し (hikihanashi) forced separation from a parent; 面会交流 (menkai kōryū) visitation; 公認心理師 (Kōnin Shinrishi) Certified Public Psychologist; 臨床心理士 (Rinshō Shinrishi) Certified Clinical Psychologist; 家庭裁判所調査官 Family Court Investigator.",
-    "Act No. 33 of 2024 + 1.4.2026 effective date foregrounded as the load-bearing structural shift in structural_findings[0].",
-    "Civil Code Art. 819 reform direction is OPPOSITE to AU 2023 s.61DA presumption repeal — Japan adds joint custody as option whereas Australia removed joint-presumption. Structural-comparative reflection preserved in structural_findings[0].",
-    "Lawyer-led / NGO-led critique register rather than clinician-led peer-reviewed register noted in structural_findings[3] as structural characteristic of the Japanese PA-discourse field.",
-    "Statutory psychology profession Kōnin Shinrishi only 9 years old by 2026 — regulatory-maturity caveat preserved in structural_findings[4]."
+    "Japan's 2024 Civil Code Partial Amendment (effective 2026) represents the most substantial family-law reform since the 1947 post-war Civil Code restructuring — ending the 76-year sole-custody-default framework.",
+    "The 2014 Hague Convention accession and subsequent Supreme Court jurisprudence on grave-risk-exception interpretation operate as an international-procedural overlay on the otherwise PA-label-silent statutory framework."
   ]
 }

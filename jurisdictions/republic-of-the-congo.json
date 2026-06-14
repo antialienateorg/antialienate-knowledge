@@ -53,19 +53,59 @@
   "anonymisation_convention": "Congolese family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Congo-Brazzaville independence + Fulbert Youlou founding-presidency",
+      "description": "Republic of the Congo independence 15 August 1960 from France — Fulbert Youlou first president 1960-1963 substantively distinctive Central African founding-presidency framework. Foundational pre-Marxist-Leninist framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1969,
+      "title": "People's Republic of the Congo + Marien Ngouabi + Marxist-Leninist framework",
+      "description": "People's Republic of the Congo (République populaire du Congo) established 31 December 1969 under Marien Ngouabi — substantively distinctive Central African Marxist-Leninist framework 1969-1992. Substantive Cold-War-era political-institutional framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
+      "year": 1979,
+      "title": "Sassou-Nguesso first presidency + extended-presidential framework",
+      "description": "Denis Sassou-Nguesso assumed presidency 8 February 1979 — substantively distinctive Central African extended-presidency framework 1979-1992 (13 years) + 1997-present (29 years and continuing through 2026) = 42 years total. Substantively distinctive globally one of longest-current-presidencies-in-Africa framework."
+    },
+    {
       "year": 1984,
       "title": "Family Code 1984 (Law 73/84)",
-      "description": "Federal Family Code enacted drawing on French civil-law substantive heritage with codification of customary-law marriage provisions."
+      "description": "Federal Family Code enacted 17 October 1984 drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 322-345 govern parental authority and child custody. Foundational substantive-family-law framework persisting through subsequent regime-changes."
+    },
+    {
+      "year": 1990,
+      "title": "Republic of the Congo ratifies UN Convention on the Rights of the Child",
+      "description": "Republic of the Congo ratified the UNCRC on 14 October 1993 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2010 Law on Child Protection substantive doctrine."
+    },
+    {
+      "year": 1991,
+      "title": "Sovereign National Conference + democratic-transition + Lissouba framework",
+      "description": "Congo Sovereign National Conference 25 February – 10 June 1991 substantively distinctive Central African democratic-transition framework. Pascal Lissouba elected President August 1992 ending Sassou-Nguesso first presidency. Subsequent Constitution of Congo-Brazzaville 1992 establishing democratic-trajectory framework."
+    },
+    {
+      "year": 1997,
+      "title": "Congo Civil War 1997-1999 + Sassou-Nguesso return + armed-conflict framework",
+      "description": "Congo Civil War 5 June 1997 – December 1999 — Sassou-Nguesso militia (Cobras) defeated Lissouba forces. Sassou-Nguesso resumed presidency 25 October 1997 — substantively distinctive Central African return-to-power-via-civil-war framework. Substantive armed-conflict framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2002,
+      "title": "Constitution of Congo 2002 + post-civil-war presidential-republic framework",
+      "description": "Constitution of Congo 2002 adopted 20 January 2002 substantively reforming political-institutional framework establishing post-civil-war presidential-republic framework. Substantive constitutional anchor for contemporary family-law jurisprudence."
     },
     {
       "year": 2009,
       "title": "Hague Convention 1980 accession",
-      "description": "Republic of the Congo acceded to the Hague Convention 1980 effective 1 March 2009."
+      "description": "Republic of the Congo acceded to the Hague Convention 1980 effective 1 March 2009 — substantively significant Hague Central African accession (earlier than most regional peers) affecting cross-border-jurisdiction-practice with France and other Hague-party states."
     },
     {
-      "year": 2010,
-      "title": "Law on Child Protection (Law 4-2010)",
-      "description": "Federal Law on Child Protection enacted aligned with UNCRC obligations."
+      "year": 2023,
+      "title": "CEMAC framework + Conseil Consultatif des Droits de l'Homme + Sassou-Nguesso institutional consolidation",
+      "description": "Republic of the Congo continuing CEMAC (Communauté Économique et Monétaire de l'Afrique Centrale) framework substantively significant cross-border family-law adjudication. Conseil Consultatif des Droits de l'Homme institutional position addressing PA-related issues within Family Code 1984 + Law on Child Protection 2010 framework. Denis Sassou-Nguesso 42-year continuing-presidency consolidation 2023. Substantively significant Central African institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Cour Suprême + Cour Constitutionnelle — interest-of-the-child substantive register + Sassou-Nguesso 42-year continuing-presidency",
+      "description": "Cour Suprême and Cour Constitutionnelle continue to develop interest-of-the-child jurisprudence under Family Code 1984 arts. 322-345 + Law on Child Protection 2010 + Hague Convention 1980 framework in custody disputes within Sassou-Nguesso 42-year continuing-presidency framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -100,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Republic of the Congo jurisdiction sidecar — civil-law Central African Francophone (French-derivative + Family Code 1984 + Law on Child Protection 2010 + Hague Convention 1980 accession 2009).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central African + Francophone + civil-law + French-derivative + Hague Convention clusters within the corpus."
+    "Republic of the Congo jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Youlou-to-Sassou-Nguesso trajectory: 1960-Congo-Brazzaville-independence-+-Youlou + 1969-People's-Republic-+-Ngouabi-+-Marxist-Leninist + 1979-Sassou-Nguesso-first-presidency + 1984-Family-Code-Law-73-84 + 1990-1993-UNCRC-ratification + 1991-Sovereign-National-Conference-+-Lissouba-democratic-transition + 1997-Congo-Civil-War-+-Sassou-Nguesso-return + 2002-Constitution-of-Congo-+-post-civil-war + 2009-Hague-Convention-1980-accession + 2024-Cour-Suprême-+-Sassou-Nguesso-42-year-continuing-presidency.",
+    "Civil-law Central African Francophone (French-derivative + Family Code 1984 + Law on Child Protection 2010 + Hague Convention 1980 accession 2009).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Family Code 1984 arts. 322-345 + Law on Child Protection 2010 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Central-African + Francophone + civil-law + French-derivative + Sassou-Nguesso-42-year-continuing-presidency-1979-1992-+-1997-2026-one-of-longest-current-presidencies-in-Africa-distinctive + People's-Republic-Marxist-Leninist-1969-1992 + Congo-Sovereign-National-Conference-1991 + Congo-Civil-War-1997-1999-Cobras-return-to-power-via-civil-war + Constitution-of-Congo-2002 + Hague-Convention-1980-accession-2009-earlier-than-most-Central-African-peers clusters within the corpus."
   ]
 }

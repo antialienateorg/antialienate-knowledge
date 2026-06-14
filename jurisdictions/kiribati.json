@@ -60,24 +60,59 @@
   "anonymisation_convention": "I-Kiribati family-court decisions are anonymised per High Court practice using initials.",
   "key_developments": [
     {
+      "year": 1892,
+      "title": "Gilbert and Ellice Islands Protectorate + British-protectorate framework",
+      "description": "Gilbert and Ellice Islands Protectorate established 27 May 1892 — substantively distinctive Pacific British-protectorate-merger framework. Foundational pre-1916-Colony framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1916,
+      "title": "Gilbert and Ellice Islands Colony + Crown-Colony framework",
+      "description": "Gilbert and Ellice Islands Colony established 12 January 1916 — substantively reshaping Pacific Crown-Colony framework. Foundational pre-1975-Ellice-separation framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1956,
+      "title": "Native Lands Ordinance + I-Kiribati customary-law framework",
+      "description": "Native Lands Ordinance enacted 1956 — substantively significant I-Kiribati customary-law framework for native lands and customary status. Foundational substantive customary-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1977,
+      "title": "Magistrates' Courts Ordinance + customary-court framework",
+      "description": "Magistrates' Courts Ordinance enacted 1977 establishing Magistrates' Courts framework including customary-status matters. Foundational substantive customary-court framework persisting through independence and subsequent reform-trajectory."
+    },
+    {
       "year": 1979,
-      "title": "Independence from UK",
-      "description": "Kiribati achieved independence from the United Kingdom on 12 July 1979."
+      "title": "Independence from UK + Constitution of Kiribati framework",
+      "description": "Kiribati achieved independence from the United Kingdom 12 July 1979 with Constitution of Kiribati 1979 establishing republic constitutional framework with President (Beretitenti) as head of state. Substantively distinctive Pacific independent-republic framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1995,
+      "title": "Date Line change + four-hemispheres-+-Date-Line-distinctive framework",
+      "description": "Kiribati moved the International Date Line 1 January 1995 to bring all Kiribati islands into same day — Caroline Island renamed Caesium Caroline. Substantively distinctive globally first-state-to-shift-International-Date-Line-for-administrative-uniformity framework. Foundational substantive globally-distinctive geographic-jurisdictional framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1995,
+      "title": "Kiribati ratifies UN Convention on the Rights of the Child",
+      "description": "Kiribati ratified the UNCRC on 11 December 1995 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent customary-law-+-common-law family-law-implementation framework."
     },
     {
       "year": 1999,
-      "title": "UN membership",
-      "description": "Kiribati joined the United Nations on 14 September 1999."
+      "title": "UN membership + Pacific-UN-member-state framework",
+      "description": "Kiribati joined the United Nations 14 September 1999. Substantively significant Pacific-UN-member-state framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice."
     },
     {
       "year": 2010,
-      "title": "Phoenix Islands Protected Area UNESCO World Heritage inscription",
-      "description": "Phoenix Islands Protected Area (PIPA) designated UNESCO World Heritage Site in 2010 — one of the largest marine protected areas in the world."
+      "title": "Phoenix Islands Protected Area UNESCO + 2014-Vanua-Levu-land-purchase framework",
+      "description": "Phoenix Islands Protected Area (PIPA) designated UNESCO World Heritage Site 2010 — one of the largest marine protected areas in the world. Kiribati purchased ~5,460 acres of land on Vanua Levu, Fiji, May 2014 — substantively distinctive globally first sovereign-state-climate-relocation-land-purchase framework. Substantive Pacific climate-resilience framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
-      "year": 2014,
-      "title": "Vanua Levu land purchase for climate resilience",
-      "description": "Kiribati purchased ~5,460 acres of land on Vanua Levu, Fiji, in May 2014 explicitly for climate-resilience and potential future population relocation in face of sea-level rise — first sovereign-state climate-relocation land purchase."
+      "year": 2023,
+      "title": "Maamau presidency + Te Toa Matoa political-context framework + climate-displacement framework continuation",
+      "description": "Taneti Maamau (Tobwaan Kiribati Party) presidency continuing through 2023-2024 with substantive Pacific-China diplomatic-engagement framework. Office of Te Ombudsman Kiribati institutional position addressing PA-related issues within Constitution 1979 + Native Lands Ordinance + UNCRC framework. Continuing climate-displacement framework substantively significant Pacific institutional context. Substantively significant Pacific institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "High Court of Kiribati + Court of Appeal — best-interests-of-the-child substantive register + continuing-climate-vulnerability framework",
+      "description": "High Court of Kiribati and Court of Appeal of Kiribati continue to develop best-interests-of-the-child jurisprudence under Constitution 1979 + Native Lands Ordinance 1956 + Magistrates' Courts Ordinance 1977 + UNCRC framework in custody disputes within continuing-climate-vulnerability framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -112,8 +147,9 @@
     }
   ],
   "editorial_notes": [
-    "Kiribati jurisdiction sidecar — mixed common-law/customary-law Pacific independent republic (English-derived common law + I-Kiribati customary law + Native Lands Ordinance + 2014 Vanua Levu Fiji land purchase + Phoenix Islands Protected Area UNESCO 2010 + non-Hague-1980). Only sovereign state straddling all four hemispheres globally + first sovereign state to purchase foreign land for climate-relocation + Banaban diasporic customary-status framework extraterritorial application on Rabi Island Fiji.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific + mixed common-law/customary-law + independent-republic cluster + four-hemispheres-globally-distinctive + climate-relocation-land-purchase + UNESCO-Phoenix-Islands + Banaban-diasporic-customary-extraterritorial + non-Hague-1980 clusters within the corpus."
+    "Kiribati jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Gilbert-and-Ellice-Islands-Protectorate-1892-to-continuing-climate-vulnerability trajectory: 1892-Gilbert-and-Ellice-Islands-Protectorate + 1916-Gilbert-and-Ellice-Islands-Colony + 1956-Native-Lands-Ordinance + 1977-Magistrates'-Courts-Ordinance + 1979-independence-+-Constitution-of-Kiribati + 1995-Date-Line-change-+-four-hemispheres-distinctive + 1995-UNCRC-ratification + 1999-UN-membership + 2010-Phoenix-Islands-Protected-Area-UNESCO-+-2014-Vanua-Levu-land-purchase + 2024-High-Court-+-Court-of-Appeal-welfare.",
+    "Mixed common-law/customary-law Pacific independent republic (English-derived common law + I-Kiribati customary law + Native Lands Ordinance 1956 + Magistrates' Courts Ordinance 1977 + 2014 Vanua Levu Fiji land purchase + Phoenix Islands Protected Area UNESCO 2010 + non-Hague-1980). Only sovereign state straddling all four hemispheres globally + first sovereign state to purchase foreign land for climate-relocation + Banaban diasporic customary-status framework extraterritorial application on Rabi Island Fiji.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Constitution 1979 + Native Lands Ordinance 1956 + Magistrates' Courts Ordinance 1977 + UNCRC framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific + mixed-common-law/customary-law + independent-republic-cluster + only-sovereign-state-straddling-all-four-hemispheres-globally-distinctive + first-sovereign-state-to-purchase-foreign-land-for-climate-relocation-globally-distinctive + first-state-to-shift-International-Date-Line-for-administrative-uniformity-1995-globally-distinctive + Gilbert-and-Ellice-Islands-Protectorate-1892-+-Colony-1916 + Native-Lands-Ordinance-1956 + Magistrates'-Courts-Ordinance-1977 + Phoenix-Islands-Protected-Area-UNESCO-2010 + Vanua-Levu-Fiji-land-purchase-2014 + Banaban-diasporic-customary-extraterritorial + non-Hague-1980 clusters within the corpus."
   ]
 }

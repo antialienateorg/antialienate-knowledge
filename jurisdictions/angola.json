@@ -58,14 +58,59 @@
   "anonymisation_convention": "Angolan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1975,
+      "title": "Angola independence + Angolan Civil War begins (1975-2002)",
+      "description": "Angola achieved independence 11 November 1975 from Portugal following Carnation Revolution 1974. MPLA (Marxist-Leninist) took power, beginning Angolan Civil War 1975-2002 between MPLA + Cuban/Soviet support vs UNITA + South African/US support. Pre-1975 Portuguese civil-law substrate substantially retained but with socialist-civil-law adaptations during MPLA single-party era 1975-1992."
+    },
+    {
       "year": 1988,
-      "title": "Family Code 1988 (Law 1/88)",
-      "description": "Federal Family Code enacted with socialist-civil-law adaptations on Portuguese civil-law substantive heritage."
+      "title": "Family Code 1988 (Código da Família, Law 1/88)",
+      "description": "Federal Family Code enacted 1988 with socialist-civil-law adaptations on Portuguese civil-law substantive heritage. Arts. 127-153 govern parental power (poder paternal) and child custody. Foundational substantive substrate that persists in contemporary Angolan family-law framework — even after 1992 democratic-multi-party transition."
+    },
+    {
+      "year": 1990,
+      "title": "Angola ratifies UN Convention on the Rights of the Child",
+      "description": "Angola ratified the UNCRC on 5 December 1990 — among the earliest African ratifications. Framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine within socialist-civil-law-adapted Portuguese-substantive framework."
+    },
+    {
+      "year": 1992,
+      "title": "Constitutional Law of 1992 + multi-party transition + Bicesse Accords",
+      "description": "Constitutional Law of 1992 adopted 25 August 1992 establishing multi-party framework under Bicesse Accords May 1991. Multi-party elections 29-30 September 1992 followed by resumed civil war. Substantial constitutional-democratic reform stream subsequently affecting family-law adjacent areas."
+    },
+    {
+      "year": 2002,
+      "title": "End of Angolan Civil War + Lusaka Protocol implementation + reconciliation",
+      "description": "End of Angolan Civil War 4 April 2002 with death of UNITA leader Jonas Savimbi and Luena Memorandum of Understanding — over 27 years of armed conflict ended. Substantial reconciliation and reconstruction trajectory affecting family-law-implementation including orphan-protection, surviving-spouse, and property-inheritance frameworks."
     },
     {
       "year": 2005,
-      "title": "Law on Civil Identification and Registration",
-      "description": "Federal statute on civil identification and registration enacted."
+      "title": "Law on Civil Identification and Registration 1/2005",
+      "description": "Federal statute on civil identification and registration of births, marriages, and family events enacted — substantively addressing post-civil-war reconstruction of civil-registration infrastructure including for displaced and undocumented populations affecting family-law-implementation."
+    },
+    {
+      "year": 2010,
+      "title": "Constitution of the Republic of Angola 2010",
+      "description": "New Constitution of the Republic of Angola adopted 21 January 2010 (replacing 1992 Constitutional Law) — establishing presidential republic framework. Arts. 35-37 codify family-protection, gender-equality, and child-protection provisions. Foundational constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 2011,
+      "title": "Law on Combating Domestic Violence",
+      "description": "Federal Law on Combating Domestic Violence enacted 14 July 2011 — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. Operates parallel to Family Code 1988 framework."
+    },
+    {
+      "year": 2017,
+      "title": "João Lourenço presidency + post-dos-Santos transition + anti-corruption reform",
+      "description": "João Lourenço assumed presidency 26 September 2017 after 38-year José Eduardo dos Santos presidency (1979-2017) — substantively reshaping political-institutional landscape with anti-corruption reform stream. Substantive contemporary reform-stream affecting subsequent family-law modernisation discussions."
+    },
+    {
+      "year": 2023,
+      "title": "Provedor de Justiça + INAC institutional framework + CPLP cooperation framework",
+      "description": "Provedor de Justiça (Ombudsperson) and Instituto Nacional da Criança (INAC) institutional positions addressing PA-related issues within Family Code 1988 + Law on Combating Domestic Violence framework. Comunidade dos Países de Língua Portuguesa (CPLP) cooperation framework substantively significant for Lusophone cross-border family-law adjudication including Portugal/Brazil/Mozambique coordination. Substantively significant Lusophone African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Supremo + Tribunal Constitucional — superior-interest-of-the-child substantive register",
+      "description": "Tribunal Supremo and Tribunal Constitucional continue to develop superior-interest-of-the-child jurisprudence under Family Code 1988 arts. 127-153 + Constitution 2010 + Law on Combating Domestic Violence framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within Portuguese-civil-law + socialist-civil-law-adapted framework operating post-civil-war-reconciliation context."
     }
   ],
   "structural_findings": [
@@ -101,8 +146,9 @@
     }
   ],
   "editorial_notes": [
-    "Angola jurisdiction sidecar — civil-law Lusophone Africa (Portuguese civil-law substantive + socialist-civil-law adaptations). Family Code 1988 + Civil Identification and Registration Law 2005 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southern African + Lusophone + civil-law + socialist-civil-law-adapted + non-Hague Convention clusters within the corpus."
+    "Angola jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full independence-to-contemporary trajectory: 1975-Angola-independence-+-Angolan-Civil-War-1975-2002 + 1988-Family-Code-1988-Código-da-Família + 1990-UNCRC-ratification + 1992-Constitutional-Law-multi-party-transition-Bicesse + 2002-End-of-Civil-War-Lusaka-reconciliation + 2005-Law-on-Civil-Identification-and-Registration + 2010-Constitution-of-the-Republic-of-Angola + 2011-Law-on-Combating-Domestic-Violence + 2017-João-Lourenço-presidency-post-dos-Santos + 2024-Tribunal-Supremo-+-Tribunal-Constitucional-superior-interest-of-the-child.",
+    "Civil-law Lusophone Africa framework (Portuguese civil-law substantive + socialist-civil-law adaptations). Family Code 1988 + Constitution 2010 + Civil Identification and Registration Law 2005 + Law on Combating DV 2011 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code 1988 arts. 127-153 + Constitution 2010 + Law on Combating DV framework without doctrinal 'parental alienation' label.",
+    "Joins Southern-African + Lusophone-Africa (with Mozambique, Cape Verde, Guinea-Bissau, São Tomé and Príncipe) + Portuguese-civil-law-substantive (with Portugal, Brazil, Macau, East Timor) + socialist-civil-law-adapted-Marxist-Leninist-MPLA-era + post-1975-2002-27-year-civil-war-reconciliation-context + dos-Santos-38-year-presidency-Lourenço-transition + non-Hague-Convention clusters within the corpus."
   ]
 }

@@ -85,29 +85,59 @@
   "anonymisation_convention": "Sicilian family-court decisions are anonymised per Italian court practice using initials.",
   "key_developments": [
     {
+      "year": 1282,
+      "title": "Sicilian Vespers + Anjou-Aragon-Catalan-Sicilian-framework",
+      "description": "Sicilian Vespers 30 March 1282 expelling Angevin French rule — substantively distinctive Mediterranean Sicilian-Aragonese-conquest framework. Foundational pre-1816-Two-Sicilies-Kingdom framework affecting subsequent constitutional-administrative-trajectory and Sicilian-distinctive-identity framework persisting through 1860 Italian Unification."
+    },
+    {
+      "year": 1816,
+      "title": "Kingdom of the Two Sicilies + Napoleonic-restoration framework",
+      "description": "Kingdom of the Two Sicilies established 12 December 1816 by Ferdinand I unifying Kingdoms of Naples and Sicily — substantively distinctive Mediterranean Bourbon-restoration-+-Two-Sicilies framework. Foundational pre-1860-Italian-Unification framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1860,
-      "title": "Italian unification + incorporation into Kingdom of Italy",
-      "description": "Sicily incorporated into Kingdom of Italy following Garibaldi's 1860 expedition and 21 October 1860 plebiscite — beginning of Italian sovereignty over Sicily."
+      "title": "Italian unification + Garibaldi-Expedition-+-incorporation-into-Kingdom-of-Italy framework",
+      "description": "Sicily incorporated into Kingdom of Italy following Garibaldi's 1860 expedition (Mille / Thousand) + 21 October 1860 plebiscite — substantively distinctive Mediterranean Risorgimento-+-1860-plebiscite framework. Foundational substantive 166+ year Italian-sovereignty-over-Sicily framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1943,
+      "title": "MIS founded + Movimento-per-l'Indipendenza-della-Siciliana-+-Allied-Invasion framework",
+      "description": "Movimento per l'Indipendenza della Siciliana (MIS) founded 28 July 1943 by Andrea Finocchiaro Aprile following Allied Invasion of Sicily (Operation Husky 9 July - 17 August 1943) — substantively distinctive globally only-post-WWII-separatist-movement-leading-to-formal-sub-national-autonomy-framework-prior-to-sovereign-state-of-incorporation's-formal-establishment framework. Substantive Sicilian-separatism framework affecting subsequent 1946 Statuto Speciale."
     },
     {
       "year": 1946,
-      "title": "Statuto Speciale + first Italian autonomous region",
-      "description": "Royal Legislative Decree 455/1946 of 15 May 1946 establishing the first Italian autonomous region — comprehensive autonomy granted prior to formal Italian Republic establishment."
+      "title": "Statuto Speciale + first-Italian-autonomous-region + pre-Italian-Republic framework",
+      "description": "Royal Legislative Decree 455/1946 of 15 May 1946 establishing the first Italian autonomous region — substantively distinctive globally only-modern-major-autonomous-region-established-prior-to-sovereign-state-of-incorporation's-formal-establishment framework. Comprehensive autonomy granted prior to formal Italian Republic establishment (predating Italian Constitution of 1948 by ~22 months). Foundational substantive Sicilian-autonomy framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1948,
-      "title": "Italian Constitution Article 116 + autonomous regions framework",
-      "description": "Italian Constitution Article 116 confirming Sicily as autonomous region within Italian Republic framework."
+      "title": "Italian Constitution Article 116 + autonomous-regions-framework framework",
+      "description": "Italian Constitution Article 116 effective 1 January 1948 confirming Sicily as autonomous region within Italian Republic framework — substantively significant Mediterranean five-autonomous-regions framework (Sicily + Sardinia + Valle d'Aosta + Friuli-Venezia Giulia + Trentino-Alto Adige). Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1986,
+      "title": "Maxi-Trial-+-Anti-Mafia-Pool + Falcone-Borsellino-prosecution framework",
+      "description": "Maxi-Trial of Cosa Nostra commenced 10 February 1986 prosecuting 475 Mafia defendants — substantively distinctive globally largest-single-prosecution-of-organised-crime-in-history framework. Substantive Anti-Mafia Pool framework with Giovanni Falcone + Paolo Borsellino leading prosecution. Foundational pre-1992-assassinations framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1992,
-      "title": "Falcone and Borsellino assassinations + anti-Mafia framework",
-      "description": "Anti-Mafia judges Giovanni Falcone (assassinated 23 May 1992) and Paolo Borsellino (assassinated 19 July 1992) — central to Italian Mafia Wars 1980s-1990s and foundation of modern Italian anti-Mafia legal framework."
+      "title": "Falcone and Borsellino assassinations + anti-Mafia-framework-foundation framework",
+      "description": "Anti-Mafia judges Giovanni Falcone (assassinated 23 May 1992 Capaci bombing) and Paolo Borsellino (assassinated 19 July 1992 Via D'Amelio bombing) — substantively distinctive globally only-state-level-jurisdiction-where-anti-organised-crime-judiciary-assassinated-en-masse framework. Substantive demographic and constitutional-democratic-trajectory transformation affecting subsequent 2011 Codice Antimafia framework."
     },
     {
       "year": 2011,
-      "title": "Codice Antimafia",
-      "description": "Italian Legislative Decree 159/2011 of 6 September 2011 establishing Italy's most extensive anti-Mafia legal framework — disproportionately applied in Sicily."
+      "title": "Codice Antimafia + Italy-most-extensive-anti-Mafia-legal-framework framework",
+      "description": "Italian Legislative Decree 159/2011 of 6 September 2011 establishing Italy's most extensive anti-Mafia legal framework — substantively distinctive globally only-modern-major-sub-national-jurisdiction-with-comprehensively-applied-state-level-anti-organised-crime-framework framework. Disproportionately applied in Sicily. Foundational substantive Anti-Mafia framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Renato Schifani FdI Government + Assemblea Regionale Siciliana + Difensore Civico + Ponte-sullo-Stretto-di-Messina framework",
+      "description": "Renato Schifani (Fratelli d'Italia) President framework continuing through 2023 with Assemblea Regionale Siciliana institutional positions addressing PA-related issues within Italian Codice Civile arts. 315-342-bis + Statuto Speciale 1946 framework applied via Corte d'Appello di Palermo + Corte d'Appello di Catania. Difensore Civico Regionale institutional positions affecting cross-border family-law adjudication. Continuing Ponte sullo Stretto di Messina framework relaunch August 2023 (Decreto Legge 35/2023) substantively significant institutional context. Substantively significant Mediterranean Italian-autonomous-region institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Corte d'Appello di Palermo + Corte d'Appello di Catania + Corte di Cassazione — responsabilità-genitoriale substantive register + Cassazione-9691-2022 substantive PA reference + continuing-autonomous-region framework",
+      "description": "Courts of Appeal of Palermo, Catania, Messina, Caltanissetta, and Italian Court of Cassation continue to develop responsabilità genitoriale jurisprudence under Italian Codice Civile articles 315-342-bis + Statuto Speciale 1946 + Cassazione Sentenza 9691 of 2022 substantively addressing the parental alienation concept in Italian family-law framework applicable in Sicily + Hague Convention 1980 framework in custody disputes within continuing Sicilian autonomous-region framework. Substantive analysis."
     }
   ],
   "structural_findings": [
@@ -144,8 +174,9 @@
     }
   ],
   "editorial_notes": [
-    "Sicily jurisdiction sidecar — civil-law Mediterranean Italian autonomous region (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Siciliana 1946 + Italian Constitution 1948 Article 116 + Codice Antimafia Legislative Decree 159/2011 + Italian Hague Convention 1980 accession 1985). First Italian autonomous region established (15 May 1946, predating Italian Constitution by ~22 months) + largest Italian autonomous region + largest Mediterranean island + central jurisdiction of Italy's most extensive anti-Mafia legal framework + only post-WWII separatist movement leading to formal sub-national autonomy framework prior to sovereign-state-of-incorporation's formal establishment.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Mediterranean + civil-law + Italian-autonomous-region cluster + first-Italian-autonomous-region-globally-distinctive + largest-Mediterranean-island + Codice-Antimafia-most-extensive-anti-Mafia-framework + Movimento-per-l'Indipendenza-della-Siciliana-pre-Republic-separatist-movement + Falcone-Borsellino-1992-assassinations + five-Court-of-Appeal-framework + Italian-Hague-1985-accession clusters within the corpus."
+    "Sicily jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Sicilian-Vespers-1282-to-continuing-autonomous-region trajectory: 1282-Sicilian-Vespers + 1816-Kingdom-of-the-Two-Sicilies + 1860-Italian-unification-+-Garibaldi + 1943-MIS-founded-+-Allied-Invasion + 1946-Statuto-Speciale-first-Italian-autonomous-region + 1948-Italian-Constitution-Article-116 + 1986-Maxi-Trial-+-Anti-Mafia-Pool + 1992-Falcone-+-Borsellino-assassinations + 2011-Codice-Antimafia + 2024-Corte-d'Appello-+-Corte-di-Cassazione-+-Cassazione-9691-2022.",
+    "Civil-law Mediterranean Italian autonomous region (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Siciliana 1946 + Italian Constitution 1948 Article 116 + Codice Antimafia Legislative Decree 159/2011 + Italian Hague Convention 1980 accession 1985). First Italian autonomous region established (15 May 1946, predating Italian Constitution by ~22 months) + largest Italian autonomous region + largest Mediterranean island + central jurisdiction of Italy's most extensive anti-Mafia legal framework + only post-WWII separatist movement leading to formal sub-national autonomy framework prior to sovereign-state-of-incorporation's formal establishment.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive responsabilità genitoriale analysis under Italian Codice Civile articles 315-342-bis + Statuto Speciale 1946 + Cassazione Sentenza 9691/2022 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Mediterranean + civil-law + Italian-autonomous-region-cluster + first-Italian-autonomous-region-globally-distinctive-predating-Italian-Constitution-22-months + largest-Mediterranean-island-25711km2 + largest-Italian-autonomous-region-by-population-5-million + Codice-Antimafia-most-extensive-anti-Mafia-framework-globally-distinctive + Movimento-per-l'Indipendenza-della-Siciliana-1943-pre-Republic-separatist-movement-globally-distinctive + Sicilian-Vespers-1282-+-Aragonese-conquest + Kingdom-of-the-Two-Sicilies-1816-Bourbon + Garibaldi-Mille-1860-+-plebiscite + Maxi-Trial-1986-largest-prosecution-of-organised-crime-in-history-475-defendants + Falcone-+-Borsellino-1992-assassinations-only-state-level-jurisdiction-where-anti-organised-crime-judiciary-assassinated-en-masse + Codice-Antimafia-2011 + five-Court-of-Appeal-framework-Palermo-Catania-Messina-Caltanissetta + Italian-Hague-1985-accession + Cassazione-Sentenza-9691-2022-substantive-PA-reference clusters within the corpus."
   ]
 }

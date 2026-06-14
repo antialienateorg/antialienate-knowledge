@@ -73,34 +73,59 @@
   "anonymisation_convention": "Crimean decisions are anonymised per Russian court practice using initials.",
   "key_developments": [
     {
+      "year": 1783,
+      "title": "Russian Empire-annexation-of-Crimean-Khanate framework",
+      "description": "Russian Empire annexation of Crimean Khanate 8 April 1783 by Catherine the Great — substantively distinctive Eastern European Russian-Empire-Crimea-+-Crimean-Tatar-mass-displacement framework. Foundational substantive 171-year Russian-Empire-Crimea framework persisting through 1954 Khrushchev-transfer affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1944,
+      "title": "Crimean Tatar deportation + Sürgünlik framework",
+      "description": "Stalin's deportation of Crimean Tatars 18-20 May 1944 (Sürgünlik) — substantively distinctive globally only-Soviet-deportation-of-an-entire-titular-Crimean-population framework. ~191,000 Crimean Tatars deported with ~46.2% subsequent mortality. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and 2024 ICJ CERD judgment."
+    },
+    {
       "year": 1954,
-      "title": "Crimea transferred from RSFSR to Ukrainian SSR",
-      "description": "Presidium of the Supreme Soviet of the USSR transferred Crimean Oblast from RSFSR to Ukrainian SSR on 19 February 1954."
+      "title": "Crimea transferred from RSFSR to Ukrainian SSR + Khrushchev-decree framework",
+      "description": "Presidium of the Supreme Soviet of the USSR transferred Crimean Oblast from RSFSR to Ukrainian SSR 19 February 1954 — substantively distinctive globally Khrushchev-decree-Crimean-transfer framework. Foundational substantive 37-year Crimean-Ukrainian-SSR framework persisting through 1991 Ukrainian independence."
     },
     {
       "year": 1991,
-      "title": "Ukraine independence + Crimea status",
-      "description": "Ukraine declared independence on 24 August 1991 — Crimea included as Autonomous Republic within Ukrainian state."
+      "title": "Ukraine independence + Crimea-Autonomous-Republic-within-Ukrainian-state framework",
+      "description": "Ukraine declared independence 24 August 1991 — Crimea included as Autonomous Republic within Ukrainian state. Substantively distinctive Eastern European post-Soviet-Ukrainian-Autonomous-Republic-of-Crimea framework. Foundational substantive 23-year Ukrainian-Crimea framework persisting through 2014 Russian intervention."
+    },
+    {
+      "year": 1994,
+      "title": "Budapest Memorandum + Ukraine-territorial-integrity-+-US-UK-Russia-guarantees framework",
+      "description": "Budapest Memorandum 5 December 1994 — substantively distinctive globally US-UK-Russia-Ukrainian-territorial-integrity-guarantees-in-exchange-for-Ukrainian-nuclear-disarmament framework. Foundational substantive Budapest-Memorandum framework subsequently violated by 2014 Russian intervention affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2011,
-      "title": "Russian Hague Convention 1980 accession",
-      "description": "Russian Federation acceded to the Hague Convention 1980 effective 28 July 2011."
+      "title": "Russian Hague Convention 1980 accession + Crimea-applicability framework",
+      "description": "Russian Federation acceded to the Hague Convention 1980 effective 28 July 2011 — substantively significant Eastern European Russian-Hague framework. Subsequent 2014 Russian administration of Crimea + contested Crimean Hague applicability by Ukraine, EU, US, and most other states affecting subsequent cross-border-jurisdiction-practice."
     },
     {
       "year": 2014,
-      "title": "Russian military intervention + annexation",
-      "description": "Russian military intervention in Crimea February-March 2014; Crimean Status Referendum 16 March 2014 (not recognised); Russia signed Treaty of Accession 18 March 2014; Russian Federation Constitution amended 21 March 2014 incorporating Republic of Crimea and Federal City of Sevastopol."
+      "title": "Russian military intervention + annexation + Treaty-of-Accession framework",
+      "description": "Russian military intervention in Crimea February-March 2014; Crimean Status Referendum 16 March 2014 (not recognised); Russia signed Treaty of Accession 18 March 2014; Russian Federation Constitution amended 21 March 2014 incorporating Republic of Crimea and Federal City of Sevastopol — substantively distinctive globally first-post-Cold-War-major-territorial-annexation-by-UN-P5-member-of-territory-belonging-to-another-UN-member-state framework."
     },
     {
       "year": 2014,
-      "title": "UNGA Resolution 68/262",
-      "description": "UN General Assembly Resolution affirming Ukraine's territorial integrity and declaring the Crimean referendum invalid."
+      "title": "UNGA Resolution 68/262 + 100-in-favour-+-territorial-integrity-+-referendum-invalidity framework",
+      "description": "UN General Assembly Resolution 68/262 of 27 March 2014 affirming Ukraine's territorial integrity and declaring the Crimean referendum invalid — substantively distinctive globally UN-General-Assembly-explicit-invalidation-of-territorial-status-referendum framework (100 in favour, 11 against, 58 abstentions). Substantive international-law-non-recognition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2016,
+      "title": "Crimean Tatar Mejlis prohibition + Russian-Supreme-Court-ban framework",
+      "description": "Russian Supreme Court prohibition of Crimean Tatar Mejlis 26 April 2016 (Supreme Court Decision) — substantively distinctive globally Russian-prohibition-of-representative-body-of-indigenous-people-in-occupied-territory framework. Substantive 2024 ICJ CERD-violation-finding context affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Russian full-scale invasion of Ukraine + Kerch-Strait-Bridge attack + Crimea-as-logistical-hub framework",
+      "description": "Russian full-scale invasion of Ukraine 24 February 2022 + subsequent Crimea-as-Russian-military-logistical-hub framework + Kerch Strait Bridge attack 8 October 2022 + Ukrainian counter-offensive framework targeting Crimea + Russian Federation institutional positions addressing PA-related issues within Russian Federation Family Code 1995 chapters 11-12 framework applied via Republic of Crimea + Federal City of Sevastopol regional frameworks under contested administration. Substantively significant Eastern European disputed-territory institutional jurisprudential development affecting subsequent 2024 ICJ CERD judgment context."
     },
     {
       "year": 2024,
-      "title": "Ukraine v Russian Federation (ICJ CERD)",
-      "description": "ICJ judgment finding Russian Federation violations of the CERD against ethnic Tatars and Ukrainians in Crimea."
+      "title": "Ukraine v Russian Federation (ICJ CERD) + ICJ-judgment-finding-CERD-violations-against-ethnic-Tatars-+-Ukrainians framework",
+      "description": "International Court of Justice judgment Ukraine v Russian Federation 31 January 2024 finding Russian Federation violations of the CERD against ethnic Tatars and Ukrainians in Crimea — substantively distinctive globally only-apex-international-court-judgment-finding-ethnic-minority-protection-violations-by-administering-state-in-disputed-territory framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
     }
   ],
   "structural_findings": [
@@ -142,8 +167,9 @@
     }
   ],
   "editorial_notes": [
-    "Crimea jurisdiction sidecar — civil-law Russian-administered Eastern European Black-Sea disputed territory (Russian Federation Constitution Article 65 amendment 2014 + Russian Federation Family Code 1995 + UNGA Resolution 68/262 invalidating referendum + ICJ Ukraine v Russian Federation CERD judgment 2024 + dual administration Republic of Crimea + Federal City of Sevastopol + Russian Hague Convention 1980 accession 2011 with contested Crimean applicability). First post-Cold-War major territorial annexation by UN Permanent-Five Security Council member of UN-member-state territory + only apex international-court judgment finding ethnic-minority protection violations in disputed territory.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Eastern European + Black-Sea + civil-law + Russian-administered-disputed-territory cluster + first-post-Cold-War-P5-annexation-globally-distinctive + UNGA-Resolution-68/262-invalidation + ICJ-Ukraine-v-Russian-Federation-CERD-judgment + dual-federal-subject-administration + Crimean-Tatar-Mejlis-prohibition + contested-Hague-applicability clusters within the corpus."
+    "Crimea jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full Russian-Empire-annexation-1783-to-ICJ-CERD-judgment-2024 trajectory: 1783-Russian-Empire-annexation-of-Crimean-Khanate + 1944-Crimean-Tatar-deportation-Sürgünlik + 1954-Crimea-transferred-to-Ukrainian-SSR + 1991-Ukraine-independence + 1994-Budapest-Memorandum + 2011-Russian-Hague-Convention-1980-accession + 2014-Russian-military-intervention-+-annexation + 2014-UNGA-Resolution-68/262 + 2016-Crimean-Tatar-Mejlis-prohibition + 2024-Ukraine-v-Russian-Federation-ICJ-CERD.",
+    "Civil-law Russian-administered Eastern European Black-Sea disputed territory (Russian Federation Constitution Article 65 amendment 2014 + Russian Federation Family Code 1995 + UNGA Resolution 68/262 invalidating referendum + ICJ Ukraine v Russian Federation CERD judgment 2024 + dual administration Republic of Crimea + Federal City of Sevastopol + Russian Hague Convention 1980 accession 2011 with contested Crimean applicability). First post-Cold-War major territorial annexation by UN Permanent-Five Security Council member of UN-member-state territory + only apex international-court judgment finding ethnic-minority protection violations in disputed territory + Budapest Memorandum 1994 US-UK-Russia guarantees violated.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive parental rights analysis under Russian Federation Family Code 1995 chapters 11-12 + Russian Federation Constitution Article 65 (as amended 21 March 2014) framework without doctrinal 'parental alienation' label.",
+    "Joins Eastern-European + Black-Sea + civil-law + Russian-administered-disputed-territory-cluster + first-post-Cold-War-P5-annexation-globally-distinctive + UNGA-Resolution-68/262-invalidation + ICJ-Ukraine-v-Russian-Federation-CERD-judgment-2024-only-apex-international-court-judgment-finding-ethnic-minority-protection-violations-in-disputed-territory-globally-distinctive + dual-federal-subject-administration-Republic-of-Crimea-+-Federal-City-of-Sevastopol + Crimean-Tatar-Mejlis-prohibition-2016 + Russian-Empire-annexation-1783-+-Crimean-Tatar-Sürgünlik-1944-191000-deported + Crimea-transferred-from-RSFSR-to-Ukrainian-SSR-1954-Khrushchev + Ukraine-independence-1991 + Budapest-Memorandum-1994-+-violated-2014 + contested-Hague-applicability clusters within the corpus."
   ]
 }

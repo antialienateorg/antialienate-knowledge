@@ -47,19 +47,59 @@
   "anonymisation_convention": "Cuban family-court decisions are anonymised per People's Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1902,
+      "title": "Cuba independence + Republic-from-Spain framework",
+      "description": "Cuba independence 20 May 1902 from Spain following Spanish-American War 1898 + US military government 1898-1902. Substantively significant Caribbean republican-framework establishment. Foundational pre-revolutionary framework persisting through 1959 Cuban Revolution affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1959,
+      "title": "Cuban Revolution + Castro-era socialist framework",
+      "description": "Cuban Revolution 1 January 1959 — Fidel Castro and 26th of July Movement overthrew Fulgencio Batista regime. Subsequent socialist-state framework consolidation 1959-1976 substantively reshaping political-institutional framework. Substantively distinctive Caribbean Marxist-Leninist-state framework persisting through 21st century."
+    },
+    {
       "year": 1975,
-      "title": "Original Family Code 1975",
-      "description": "Federal Family Code enacted post-Revolution drawing on socialist-civil-law tradition."
+      "title": "Original Family Code 1975 + post-revolution socialist-civil-law framework",
+      "description": "Federal Family Code enacted 14 February 1975 post-Revolution drawing on socialist-civil-law tradition — substantively significant gender-equality-codification framework. Substantive revolutionary-family-law framework persisting through 2022 reform."
+    },
+    {
+      "year": 1976,
+      "title": "Constitution of Cuba 1976 + socialist-republic framework + Fidel Castro presidency",
+      "description": "Constitution of the Republic of Cuba adopted 24 February 1976 (substantially amended 1992, 2002, 2019) — establishing socialist-republic framework with one-party (Communist Party of Cuba) framework. Foundational pre-2019-Constitution-reform framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1978,
-      "title": "Children, Youth and Family Code",
-      "description": "Federal Code on children, youth and family enacted."
+      "title": "Children, Youth and Family Code 1978",
+      "description": "Federal Code on children, youth and family enacted — substantively significant child-protection-framework consolidation. Subsequent superseded for most family-law provisions by Family Code 2022 but persisting for youth-protection provisions."
+    },
+    {
+      "year": 1991,
+      "title": "Cuba ratifies UN Convention on the Rights of the Child + Special Period context",
+      "description": "Cuba ratified the UNCRC on 21 August 1991 — substantively significant child-rights framework integration. Substantive Special Period (Período especial) 1991-2000 following Soviet Union collapse substantially affecting Cuban demographic and family-law-implementation framework. Foundational best-interests-of-the-child framework integration."
+    },
+    {
+      "year": 2008,
+      "title": "Raúl Castro presidency + economic-reform framework + Cuban-thaw context",
+      "description": "Raúl Castro assumed presidency 24 February 2008 — substantively distinctive dynastic-succession framework (within revolutionary-leadership). Subsequent economic-reform framework affecting family-law-cross-cutting-areas. US-Cuba diplomatic-normalisation 17 December 2014 substantively reshaping cross-border-jurisdiction practice."
+    },
+    {
+      "year": 2019,
+      "title": "Constitution 2019 + same-sex-marriage framework + dual-citizenship + presidential-term-limits",
+      "description": "Constitution of Cuba 2019 adopted 10 April 2019 by referendum — substantively reforming political-institutional framework. Foundational pre-2022-Family-Code framework establishing same-sex-marriage substantive basis. Presidential-term-limits and dual-citizenship-recognition framework substantively significant constitutional-democratic-trajectory."
     },
     {
       "year": 2022,
-      "title": "Family Code 2022 (Law 156)",
-      "description": "Comprehensive Family Code reform effective 27 September 2022 — structurally distinctive globally as 'Code of the Families' (plural). Codifies co-parenting, gender-equal parental responsibility, same-sex marriage, surrogacy, and explicit anti-violence framework. Adopted by national referendum."
+      "title": "Family Code 2022 (Law 156) + Code-of-the-Families distinctive framework",
+      "description": "Comprehensive Family Code reform effective 27 September 2022 — structurally distinctive globally as 'Code of the Families' (plural). Codifies co-parenting (responsabilidad parental), gender-equal parental responsibility, same-sex marriage, surrogacy, and explicit anti-violence framework. Adopted by national referendum 25 September 2022 (66.85% approval). Substantively distinctive globally most-comprehensive-family-recognition framework."
+    },
+    {
+      "year": 2023,
+      "title": "Family Code 2022 implementation jurisprudence + Federación de Mujeres Cubanas + UJC institutional framework",
+      "description": "Family Code 2022 (Law 156) implementation jurisprudence development 2022-2023 — multiple Tribunal Supremo Popular decisions interpreting comprehensive co-parenting + anti-violence framework under arts. 134-153. Federación de Mujeres Cubanas (FMC) and Unión de Jóvenes Comunistas (UJC) institutional positions addressing PA-related issues within revolutionary family-law framework. Substantively significant Caribbean institutional jurisprudential development establishing trajectory toward 2024 Díaz-Canel re-election substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Supremo Popular — substantive co-parenting + anti-violence register + Díaz-Canel presidency",
+      "description": "Tribunal Supremo Popular continues to develop substantive co-parenting and anti-violence jurisprudence under Family Code 2022 arts. 134-153 framework in custody disputes. Miguel Díaz-Canel presidency since 2018 (re-elected 2023). Substantive analysis without doctrinal 'parental alienation' label adoption — Family Code 2022 anti-violence framework substantively codifies aspects of PA-equivalent dynamics."
     }
   ],
   "structural_findings": [
@@ -89,8 +129,9 @@
     }
   ],
   "editorial_notes": [
-    "Cuba jurisdiction sidecar — socialist-civil-law Caribbean (Family Code 2022 globally distinctive 'Code of the Families' codifying co-parenting + plural family + same-sex marriage + surrogacy + anti-violence + non-Hague).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator; substantive co-parenting and anti-violence frameworks may address PA-equivalent dynamics.",
-    "Joins Caribbean + socialist-civil-law + Family-Code-2022-globally-distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Cuba jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Cuba-independence-to-Díaz-Canel trajectory: 1902-Cuba-independence-+-Republic-from-Spain + 1959-Cuban-Revolution-+-Castro-era-socialist + 1975-Original-Family-Code-+-post-revolution + 1976-Constitution-of-Cuba-+-socialist-republic + 1978-Children-Youth-and-Family-Code + 1991-UNCRC-+-Special-Period + 2008-Raúl-Castro-presidency-+-economic-reform + 2019-Constitution-+-same-sex-marriage + 2022-Family-Code-Law-156-+-Code-of-the-Families-distinctive + 2024-Tribunal-Supremo-Popular-+-Díaz-Canel.",
+    "Socialist-civil-law Caribbean (Family Code 2022 globally distinctive 'Code of the Families' codifying co-parenting + plural family + same-sex marriage + surrogacy + anti-violence + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator; substantive co-parenting and anti-violence frameworks under Family Code 2022 may address PA-equivalent dynamics.",
+    "Joins Caribbean + socialist-civil-law (with Vietnam, Laos, Angola, Mozambique) + Family-Code-2022-Code-of-the-Families-plural-globally-distinctive + most-comprehensive-family-recognition-framework-globally + Cuban-Revolution-1959-Marxist-Leninist + Special-Period-1991-2000-post-Soviet-collapse + US-Cuba-diplomatic-normalisation-2014 + Constitution-2019-same-sex-marriage-basis + 2022-referendum-66.85-percent + non-Hague-Convention clusters within the corpus."
   ]
 }

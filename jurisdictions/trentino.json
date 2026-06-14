@@ -74,34 +74,59 @@
   "anonymisation_convention": "Trentino family-court decisions are anonymised per Italian court practice using initials.",
   "key_developments": [
     {
+      "year": 1810,
+      "title": "Tridentine Bishopric secularisation + Napoleonic Kingdom of Italy",
+      "description": "Tridentine Bishopric (Principato Vescovile di Trento) secularised 1803 + integrated into Napoleonic Kingdom of Italy 1810 under Napoleonic administrative framework — pivotal pre-modern transition framework ending ~1,000-year ecclesiastical-prince-bishop framework dating from 1027 Holy Roman Empire prince-bishopric establishment."
+    },
+    {
+      "year": 1815,
+      "title": "Congress of Vienna + Austrian Empire re-integration",
+      "description": "Congress of Vienna 1815 — Trentino re-integrated into Austrian Empire as part of Tyrol crownland (Kronland Tirol) — 104 years of Austrian sovereignty 1815-1919 — significant context shaping subsequent post-WWI Italian sovereignty transfer and modern autonomy framework foundation."
+    },
+    {
       "year": 1919,
       "title": "Treaty of Saint-Germain + transfer to Italy",
-      "description": "Treaty of Saint-Germain-en-Laye of 10 September 1919 transferring Trentino from Austria to Italy following Austria-Hungarian dissolution after WWI."
+      "description": "Treaty of Saint-Germain-en-Laye of 10 September 1919 transferring Trentino from Austria to Italy following Austria-Hungarian dissolution after WWI — pivotal modern Italian sovereignty foundation framework + foundation for subsequent autonomy framework."
+    },
+    {
+      "year": 1946,
+      "title": "Gruber-De Gasperi Agreement + South Tyrol autonomy foundation",
+      "description": "Gruber-De Gasperi Agreement of 5 September 1946 between Italian PM Alcide De Gasperi (Trentino-born) and Austrian Foreign Minister Karl Gruber — pivotal post-WWII international agreement establishing autonomy framework foundation for Trentino-South Tyrol — annexed to Italian Peace Treaty 1947."
     },
     {
       "year": 1948,
       "title": "Italian Constitutional Law 1/1948 (First Statute)",
-      "description": "Italian Constitutional Law 1/1948 of 26 February 1948 establishing first Trentino-Alto Adige autonomy statute."
+      "description": "Italian Constitutional Law 1/1948 of 26 February 1948 establishing first Trentino-Alto Adige autonomy statute — pivotal foundation framework subsequently modified following 1960s autonomy crisis."
     },
     {
       "year": 1971,
       "title": "Pacchetto agreement + Constitutional Law 1/1971",
-      "description": "Pacchetto agreement and Italian Constitutional Law 1/1971 comprehensively re-establishing Trentino-South Tyrol autonomous-province framework."
+      "description": "Pacchetto agreement (137-measure South Tyrol autonomy package) and Italian Constitutional Law 1/1971 of 10 November 1971 comprehensively re-establishing Trentino-South Tyrol autonomous-province framework — pivotal resolution of 1960s autonomy crisis + foundation for subsequent 1972 Statuto Speciale framework."
     },
     {
       "year": 1972,
       "title": "Statuto Speciale per il Trentino-Alto Adige 1972",
-      "description": "Italian Constitutional Law of 31 August 1972 establishing comprehensive Trentino-Alto Adige Special Statute with autonomous-province framework."
+      "description": "Italian Constitutional Law of 31 August 1972 establishing comprehensive Trentino-Alto Adige Special Statute with autonomous-province framework — structurally distinctive globally only modern EU autonomous-region framework with co-equal autonomous-province members (Trentino + South Tyrol)."
     },
     {
       "year": 2001,
       "title": "Constitutional Law 2/2001 + autonomy expansion",
-      "description": "Italian Constitutional Law 2/2001 expanding Trentino-South Tyrol autonomy framework."
+      "description": "Italian Constitutional Law 2/2001 of 31 January 2001 expanding Trentino-South Tyrol autonomy framework — significant modern autonomy framework consolidation + provincial-level competence expansion."
     },
     {
       "year": 2008,
       "title": "Provincial Law 6/2008 (Linguistic Minorities Framework)",
-      "description": "Trentino Provincial Law 6/2008 establishing comprehensive protection framework for Ladin, Mòcheno, and Cimbrian minorities."
+      "description": "Trentino Provincial Law 6/2008 of 19 June 2008 establishing comprehensive protection framework for Ladin, Mòcheno, and Cimbrian minorities — structurally distinctive globally only EU member-state subnational entity operating four constitutionally-protected linguistic-minority frameworks."
+    },
+    {
+      "year": 2023,
+      "title": "Maurizio Fugatti Lega Government + Consiglio Provinciale + Difensore Civico + Magnifica Comunità di Fiemme framework",
+      "description": "Maurizio Fugatti (Lega) President framework continuing through 2023 with Consiglio Provinciale di Trento institutional positions addressing PA-related issues within Italian Codice Civile arts. 315-342-bis + Statuto Speciale 1972 framework applied via Corte d'Appello di Trento. Difensore Civico institutional positions affecting cross-border family-law adjudication. Magnifica Comunità di Fiemme + Comuni di Fassa + Bersntol Mòcheno + Lusern Cimbrian institutional positions on linguistic-minority frameworks substantively significant institutional context. Substantively significant Alpine Italian-autonomous-province institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing four-linguistic-minority framework + co-equal autonomous-province continuity",
+      "description": "Continuing Trentino four-linguistic-minority framework 2024 — continuing constitutionally-protected Ladin Fassa + Mòcheno Bersntol + Cimbrian Lusern + Italian framework + continuing co-equal autonomous-province partnership with South Tyrol within Trentino-Alto Adige autonomous region + continuing Italian Constitutional Law 1/1971 Pacchetto framework + 76 years since first 1948 autonomy statute."
     }
   ],
   "structural_findings": [
@@ -137,7 +162,7 @@
     }
   ],
   "editorial_notes": [
-    "Trentino jurisdiction sidecar — civil-law Alpine Italian autonomous province with four constitutionally-protected linguistic-minority frameworks (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale per il Trentino-Alto Adige 1972 + Italian Constitutional Law 1/1971 Pacchetto + Italian Law 482/1999 Linguistic Minorities Protection + Provincial Law 6/2008 Trentino Linguistic Minorities Framework + Italian Hague Convention 1980 accession 1985). Only EU member-state subnational with four constitutionally-protected linguistic-minority frameworks globally + central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities + southern co-equal partner with South Tyrol in unique Trentino-Alto Adige two-province autonomous-region framework + only modern EU autonomous-region framework with co-equal autonomous-province members. Completes Italian autonomous-region quintet (Sicily + Sardinia + Valle d'Aosta + Friuli-Venezia Giulia + Trentino-Alto Adige).",
+    "Trentino jurisdiction sidecar v1.1 — civil-law Alpine Italian autonomous province with four constitutionally-protected linguistic-minority frameworks (1810 Tridentine Bishopric secularisation + 1815 Congress of Vienna Austrian re-integration + 1919 Treaty of Saint-Germain Italian transfer + 1946 Gruber-De Gasperi Agreement + 1948 first Statute + 1971 Pacchetto agreement + 1972 Statuto Speciale + 2001 Constitutional Law 2/2001 + 2008 Provincial Law 6/2008 Linguistic Minorities Framework + 2024 continuing four-linguistic-minority co-equal-autonomous-province framework). Only EU member-state subnational with four constitutionally-protected linguistic-minority frameworks globally + central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities + southern co-equal partner with South Tyrol in unique Trentino-Alto Adige two-province autonomous-region framework + only modern EU autonomous-region framework with co-equal autonomous-province members. Completes Italian autonomous-region quintet (Sicily + Sardinia + Valle d'Aosta + Friuli-Venezia Giulia + Trentino-Alto Adige).",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins Alpine + civil-law + Italian-autonomous-province cluster + four-constitutionally-protected-linguistic-minority-frameworks-globally-distinctive + Ladin-Fassa + Mòcheno-Bersntol + Cimbrian-Lusern-Germanic-language-linguistic-isolates + two-province-co-equal-autonomous-region-framework + Trentino-Alto-Adige-with-South-Tyrol + Italian-Hague-1985-accession clusters within the corpus."
   ]

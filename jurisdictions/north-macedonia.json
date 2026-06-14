@@ -46,14 +46,59 @@
   "anonymisation_convention": "North Macedonian family-law decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Macedonia independence + Constitution 1991 + UNCRC succession",
+      "description": "Republic of Macedonia declared independence 8 September 1991 from SFR Yugoslavia (sole peaceful Yugoslav successor-state independence without armed conflict). Constitution of the Republic of Macedonia adopted 17 November 1991 — establishing parliamentary republic framework. UNCRC succession 2 December 1993."
+    },
+    {
       "year": 1992,
-      "title": "Закон за семејството 1992",
-      "description": "Law on the Family enacted."
+      "title": "Закон за семејството 1992 (Law on the Family)",
+      "description": "Law on the Family enacted 1992 in post-independence trajectory. Arts. 45-79 govern parental rights with joint exercise during marriage as statutory default. Welfare standard codified. Substantially amended over subsequent decades."
+    },
+    {
+      "year": 1993,
+      "title": "Macedonia / FYROM admitted to UN + name-dispute with Greece begins",
+      "description": "Republic of Macedonia admitted to UN 8 April 1993 as Former Yugoslav Republic of Macedonia (FYROM) due to name-dispute with Greece — substantively affecting subsequent international engagement framework including EU/NATO accession trajectory for over 25 years."
+    },
+    {
+      "year": 1995,
+      "title": "Council of Europe membership + ECHR ratification",
+      "description": "Macedonia joined the Council of Europe 9 November 1995 — ECHR ratified 10 April 1997 effective. ECHR engagement subsequently became a major source of family-law jurisprudence including Article 8 (right to respect for family life) decisions affecting custody and visitation matters."
+    },
+    {
+      "year": 2001,
+      "title": "Ohrid Framework Agreement + Albanian-language constitutional accommodation",
+      "description": "Ohrid Framework Agreement 13 August 2001 ended 2001 Macedonian-Albanian armed conflict — substantively reshaping constitutional framework with expanded Albanian-language rights and ethnic-community-power-sharing framework. Subsequent constitutional amendments codify bilingual framework (Macedonian + Albanian) affecting family-law-implementation."
+    },
+    {
+      "year": 2005,
+      "title": "EU candidate status granted + accession process begins",
+      "description": "EU candidate status granted 17 December 2005 — early Western-Balkans EU-candidate-state. Substantively accelerated EU-acquis-family-law-harmonisation trajectory."
+    },
+    {
+      "year": 2009,
+      "title": "Hague Convention 1980 succession",
+      "description": "North Macedonia succession to Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 December 1991 (succession to SFR Yugoslavia 1991 accession). Hague-1980 framework substantively significant for cross-border-displacement custody matters."
     },
     {
       "year": 2019,
-      "title": "Prespa Agreement implementation",
-      "description": "Country name changed from 'Republic of Macedonia' to 'Republic of North Macedonia' effective 12 February 2019."
+      "title": "Prespa Agreement implementation + name change + NATO accession trajectory",
+      "description": "Prespa Agreement 17 June 2018 between North Macedonia and Greece — country name changed from 'Republic of Macedonia' to 'Republic of North Macedonia' effective 12 February 2019. Resolved 25+ year name-dispute with Greece enabling NATO accession 27 March 2020 and EU accession negotiations 19 July 2022."
+    },
+    {
+      "year": 2020,
+      "title": "NATO membership 27 March 2020",
+      "description": "North Macedonia joined NATO 27 March 2020 — following resolution of name-dispute through Prespa Agreement. Concurrent EU accession negotiations opened 19 July 2022. Substantively accelerated Western political-alignment trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Народен правобранител + EU-accession negotiations continuation + Bulgaria-veto framework resolution",
+      "description": "Народен правобранител (Ombudsperson) institutional position addressing PA-related issues within Закон за семејството framework. EU accession negotiations continuation through 2023 with Bulgaria-veto framework resolution pending constitutional amendments addressing Bulgarian minority recognition. Substantively significant Balkans institutional jurisprudential development establishing trajectory toward 2024 substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Врховен суд + Уставен суд — најдобар интерес на детето substantive register",
+      "description": "Supreme Court and Constitutional Court continue to develop најдобар интерес на детето (best-interests-of-the-child) jurisprudence under Закон за семејството arts. 45-79 + Constitution + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term."
     }
   ],
   "structural_findings": [
@@ -87,8 +132,9 @@
     }
   ],
   "editorial_notes": [
-    "North Macedonia jurisdiction sidecar — Western Balkans civil-law framework. Закон за семејството 1992 + Constitutional Court + Chamber of Psychologists.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Western Balkans civil-law cluster within the corpus."
+    "North Macedonia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full peaceful-independence-to-contemporary trajectory: 1991-Macedonia-independence-peaceful-+-Constitution-+-UNCRC-succession + 1992-Закон-за-семејството + 1993-UN-admission-as-FYROM-name-dispute + 1995-Council-of-Europe-membership-+-1997-ECHR-ratification + 2001-Ohrid-Framework-Agreement-Albanian-language-accommodation + 2005-EU-candidate-status-granted + 2009-Hague-1980-succession-effective + 2019-Prespa-Agreement-implementation-+-name-change + 2020-NATO-membership + 2024-Врховен-суд-Уставен-суд-најдобар-интерес-на-детето.",
+    "Western Balkans civil-law framework + Закон за семејството 1992 + Constitution 1991 + Constitutional Court + Chamber of Psychologists + Hague Convention 1980 + Council of Europe/ECHR + NATO + EU-candidate-state trajectory + bilingual Macedonian-Albanian framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive најдобар интерес на детето analysis under Закон за семејството arts. 45-79 + Constitution + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins Western-Balkans-civil-law-cluster + only-peaceful-Yugoslav-successor-independence + post-Yugoslav-civil-law + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Western-Balkans + EU-candidate-state-family-law-harmonisation + NATO-member-Western-political-alignment + Prespa-Agreement-name-resolution-distinctive + Ohrid-Framework-Agreement-ethnic-Albanian-accommodation + bilingual-Macedonian-Albanian-official-language clusters within the corpus."
   ]
 }

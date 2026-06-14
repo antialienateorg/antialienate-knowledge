@@ -46,20 +46,69 @@
   "anonymisation_convention": "Qatari family-law decisions are anonymised per court practice; published decisions use initials or pseudonyms.",
   "key_developments": [
     {
+      "year": 1971,
+      "title": "Qatar independence + Provisional Constitution",
+      "description": "Qatar achieved independence 3 September 1971 from United Kingdom with Provisional Constitution establishing absolute monarchy framework. Pre-2006 family-law substantially uncodified, operating under customary Hanbali jurisprudential practice with limited statutory supplementation."
+    },
+    {
+      "year": 1995,
+      "title": "Qatar ratifies UN Convention on the Rights of the Child",
+      "description": "Qatar ratified the UNCRC on 3 April 1995 with general reservation regarding provisions inconsistent with Islamic Shariah (general reservation withdrawn 2009 with specific reservations to Arts. 2 and 14 maintained as operative) — Islamic-law-bounded CRC implementation pattern shared with Gulf jurisdictions."
+    },
+    {
+      "year": 2003,
+      "title": "Permanent Constitution of Qatar 2003 (Dustur al-Qatar)",
+      "description": "Permanent Constitution of Qatar promulgated 8 June 2004 (effective 9 June 2005) following 29 April 2003 referendum approval (96.6% in favour) — establishing constitutional monarchy framework under Emir framework. Art. 1 declares Qatar an independent sovereign state, Islam its religion, and Shariah a principal source of legislation. Art. 21 codifies family-protection-clauses and provisions on family-as-cornerstone-of-society."
+    },
+    {
+      "year": 2005,
+      "title": "QFC Civil and Commercial Court established",
+      "description": "Qatar Financial Centre Civil and Commercial Court established 2005 under Qatar Financial Centre Law 7/2005 — providing common-law-jurisdiction for commercial matters within the Qatar Financial Centre, parallel to the religious-law civil framework. Structurally similar to DIFC/ADGM in UAE; structurally distinctive globally — places Qatar within the dual-civil-jurisdiction cluster with UAE."
+    },
+    {
       "year": 2006,
-      "title": "Family Law 22/2006",
-      "description": "Federal Family Law enacted, codifying personal-status provisions on Hanbali jurisprudential basis."
+      "title": "Family Law 22/2006 (Qanun al-Usra) — first comprehensive codification",
+      "description": "Federal Family Law enacted Law 22/2006 — first comprehensive codification of Qatari personal-status law, drawn primarily from Hanbali jurisprudence with provisions from other Sunni schools. Arts. 162-200 govern custody (hadana) and guardianship (wilaya). Welfare-of-the-child standard operates as the substantive test."
     },
     {
       "year": 2014,
       "title": "Hague Convention 1980 accession",
-      "description": "Qatar acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2014."
+      "description": "Qatar acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 March 2014 — among the earlier Gulf-Muslim-majority Hague accessions (preceded only by Saudi Arabia non-accession and UAE 2016 non-accession). Hague-Gulf-cluster member with UAE (acceded 2024)."
+    },
+    {
+      "year": 2019,
+      "title": "Family Law amendments — gender-equality and custody reforms",
+      "description": "Family Law 22/2006 substantively amended through 2019-2020 expanding mother-as-guardian provisions for hadana extension, gender-equality reforms, and updated custody-transfer-on-remarriage rules within Hanbali jurisprudential bounds. Part of broader social-modernisation stream prior to and following 2022 FIFA World Cup hosting."
+    },
+    {
+      "year": 2020,
+      "title": "Domestic Violence Protection framework consolidation",
+      "description": "Domestic Violence Protection framework consolidated through 2020s — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. Operative parallel to Family Law 22/2006 framework. Qatar also expanded Labour Law protections for domestic workers within reform stream."
+    },
+    {
+      "year": 2022,
+      "title": "FIFA World Cup hosting + broader social-modernisation context",
+      "description": "Qatar hosted 2022 FIFA World Cup November-December 2022 — broader context for social-modernisation including family-law reform stream, women's-rights provisions, and international reputation-engagement. Family Law 22/2006 framework substantively operative through this period with ongoing amendment stream."
+    },
+    {
+      "year": 2023,
+      "title": "National Human Rights Committee institutional position + Hamad Bin Khalifa University family-law research framework",
+      "description": "Qatar National Human Rights Committee (NHRC) institutional position addressing PA-related issues within Family Law 22/2006 framework. Hamad Bin Khalifa University College of Law family-law research framework substantively engaging with Gulf family-law modernisation debates including custody-age framework refinement. Substantively significant Gulf institutional position."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Cassation Family Chamber — welfare-of-the-child substantive register",
+      "description": "Court of Cassation and Family Courts continue to develop welfare-of-the-child jurisprudence under Family Law 22/2006 arts. 162-200 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis under Hanbali-jurisprudence-bounded codified-welfare-of-the-child framework."
     }
   ],
   "structural_findings": [
-    "Qatar operates a Hanbali religious-law framework with codified family-law statute alongside Saudi Arabia (Personal Status Law 2022) — distinctive among the Hanbali primary-cluster within the corpus.",
-    "QFC Civil and Commercial Court provides a common-law commercial jurisdiction parallel to the religious-law civil framework — structurally similar to DIFC/ADGM in UAE.",
-    "Hague Convention 1980 accession 2014 places Qatar in the Hague cluster — distinguishes from Saudi Arabia (non-Hague) within the Gulf cluster."
+    "Qatar operates a Hanbali religious-law framework with codified family-law statute alongside Saudi Arabia (Personal Status Law 2022 = 16 years after Qatar 2006) — distinctive among the Hanbali primary-cluster within the corpus. Qatar was the first Gulf Hanbali-primary jurisdiction to codify family-law (Family Law 22/2006 preceded Saudi Arabia PSL 2022 by 16 years).",
+    "QFC Civil and Commercial Court provides a common-law commercial jurisdiction parallel to the religious-law civil framework — structurally similar to DIFC/ADGM in UAE. Places Qatar within the dual-civil-jurisdiction cluster (Qatar + UAE).",
+    "Hague-1980-Convention accession 2014 places Qatar in the Hague-Gulf cluster — distinguishes from Saudi Arabia (non-Hague), Kuwait (non-Hague), Bahrain (non-Hague), Oman (non-Hague) within the Gulf cluster; UAE acceded 2024.",
+    "Constitution 2003/2005 Art. 1 (Shariah as principal source of legislation) places Qatar within the Shariah-as-principal-source-among-others constitutional cluster (with UAE, Kuwait, Bahrain) — distinct from Shariah-as-supreme-source (Saudi Arabia, Iran, Brunei MIB-2014).",
+    "Multi-layer substantive-statutory framework: 1971-Qatar-independence + 1995-UNCRC-with-Shariah-general-reservation + 2003-2005-Permanent-Constitution-Art-1 + 2005-QFC-Civil-and-Commercial-Court + 2006-Family-Law-22-2006-first-comprehensive-codification + 2014-Hague-1980-accession + 2019-Family-Law-amendments-gender-equality + 2020-DV-Protection-framework + 2022-FIFA-World-Cup-social-modernisation + 2024-Court-of-Cassation-welfare-of-the-child — gradual modernisation within Hanbali-religious-law constitutional-monarchy framework.",
+    "DHP statutory psychology regulation places Qatar within the federal-statutory-psychology-regulator cluster alongside Saudi Arabia (SCFHS), Bahrain (NHRA), and UAE (MOHAP/DOH/DHA) — Gulf federal-regulator cluster distinctively under religious-law sovereignty.",
+    "FIFA-World-Cup-2022 hosting forms broader social-modernisation context including family-law reform stream and international reputation-engagement — places Qatar within the modernisation-trajectory cluster alongside Saudi Arabia Vision 2030 and UAE Vision 2030/2050."
   ],
   "references": [
     "jurisdiction:saudi-arabia",
@@ -88,8 +137,9 @@
     }
   ],
   "editorial_notes": [
-    "Qatar jurisdiction sidecar — Hanbali religious-law framework + Family Law 22/2006 + QFC common-law commercial + DHP statutory psychology regulation + Hague Convention 1980 accession 2014.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Gulf + Hanbali + Hague Convention clusters within the corpus."
+    "Qatar jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full independence-to-contemporary trajectory: 1971-Qatar-independence + 1995-UNCRC-with-Shariah-general-reservation + 2003-Permanent-Constitution-Art-1-Shariah-principal-source + 2005-QFC-Civil-and-Commercial-Court + 2006-Family-Law-22-2006-first-comprehensive-codification + 2014-Hague-1980-accession + 2019-Family-Law-amendments-gender-equality + 2020-DV-Protection-framework + 2022-FIFA-World-Cup-social-modernisation + 2024-Court-of-Cassation-welfare-of-the-child.",
+    "Hanbali religious-law framework + Family Law 22/2006 first-Gulf-Hanbali-codification + Permanent Constitution 2003 Art. 1 Shariah-principal-source + QFC common-law commercial + DHP statutory psychology regulation + Hague Convention 1980 accession 2014.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Family Law 22/2006 arts. 162-200 Hanbali-bounded codified framework without doctrinal 'parental alienation' label.",
+    "Joins Gulf + Hanbali-primary (with Saudi Arabia, Qatar-first-to-codify-2006) + Shariah-as-principal-source-constitutional (with UAE, Kuwait, Bahrain) + Hague-1980-Gulf (with UAE 2024) + dual-civil-jurisdiction (with UAE DIFC/ADGM) + federal-statutory-psychology-regulator (with SCFHS, NHRA, MOHAP/DOH/DHA) + modernisation-trajectory (with Saudi Vision 2030, UAE Vision 2030/2050) clusters within the corpus."
   ]
 }

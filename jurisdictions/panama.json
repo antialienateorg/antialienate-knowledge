@@ -40,15 +40,67 @@
   "anonymisation_convention": "Panamanian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1903,
+      "title": "Panama independence from Colombia + US Canal Treaty + foundational framework",
+      "description": "Panama declared independence 3 November 1903 from Colombia with US support — substantively distinctive US-facilitated independence framework. Hay-Bunau-Varilla Treaty 18 November 1903 establishing Panama Canal Zone US-jurisdiction-enclave. Foundational US-Panama dual-sovereignty-arrangement persisting through 1999."
+    },
+    {
+      "year": 1972,
+      "title": "Constitution 1972 + Torrijos military-populist framework",
+      "description": "Constitution of Panama adopted 11 October 1972 (substantially amended 1978, 1983, 1994, 2004) — establishing presidential republic framework under Omar Torrijos military-populist framework. Substantively distinctive military-dominant political-institutional framework persisting through 1989."
+    },
+    {
+      "year": 1977,
+      "title": "Torrijos-Carter Treaties + Canal sovereignty transfer trajectory",
+      "description": "Torrijos-Carter Treaties signed 7 September 1977 — establishing 31 December 1999 Canal sovereignty transfer to Panama. Substantively distinctive sovereignty-restoration trajectory affecting cross-border-jurisdiction practice. Foundational framework for contemporary Panama-US relationship."
+    },
+    {
+      "year": 1989,
+      "title": "US Operation Just Cause + Noriega arrest + democratic-transition framework",
+      "description": "US Operation Just Cause 20 December 1989 — Manuel Noriega ousted and arrested. Substantively distinctive 20th-century US-Caribbean military-intervention pattern. Subsequent democratic-transition trajectory establishing contemporary constitutional-democratic framework affecting family-law-modernisation."
+    },
+    {
+      "year": 1990,
+      "title": "Panama ratifies UN Convention on the Rights of the Child",
+      "description": "Panama ratified the UNCRC on 12 December 1990 — among the early Latin American ratifications globally. Framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine within civil-law framework."
+    },
+    {
       "year": 1994,
-      "title": "Family Code 1994 + Hague Convention 1980 accession",
-      "description": "Federal Family Code enacted with substantial modernisation; Panama acceded to the Hague Convention 1980 effective 1 May 1994 — among earliest Latin American accessions."
+      "title": "Family Code 1994 (Law 3 of 1994) + Hague Convention 1980 accession",
+      "description": "Federal Family Code enacted 17 May 1994 (Law 3 of 1994) drawing on Spanish civil-law substantive heritage with substantial modernisation. Arts. 308-359 govern patria potestad and child custody. Art. 481 codifies superior-interest-of-the-child standard. Panama acceded to the Hague Convention 1980 effective 1 May 1994 — among the earliest Latin American accessions in the corpus."
+    },
+    {
+      "year": 1999,
+      "title": "Canal sovereignty transfer + Mireya Moscoso presidency + millennium framework",
+      "description": "Panama Canal sovereignty transfer 31 December 1999 — substantively distinctive sovereignty-restoration completion. Mireya Moscoso first female president 1999-2004. Substantive shift in cross-border-jurisdiction practice with full sovereignty restoration affecting family-law-implementation."
+    },
+    {
+      "year": 2014,
+      "title": "Canal expansion + Cobre Panamá mining + extractive-economy framework",
+      "description": "Panama Canal expansion 26 June 2016 completion ($5.25 billion) substantively reshaping global maritime trade. Cobre Panamá copper mine opened 2019 — substantively significant extractive-economy framework subsequently affecting political contestation. Substantive Constitutional Court mining contract decision 2023."
+    },
+    {
+      "year": 2016,
+      "title": "Panama Papers 2016 + offshore-financial-system reform + AML-CFT framework",
+      "description": "Panama Papers leak 3 April 2016 substantively exposed Mossack Fonseca offshore-financial-system. Substantial reform trajectory through 2016-2020s including AML-CFT compliance framework consolidation. Substantive financial-services-regulatory-framework affecting cross-border-family-law-asset-tracing."
+    },
+    {
+      "year": 2023,
+      "title": "Cortizo presidency transition + Defensoría del Pueblo + SENNIAF framework",
+      "description": "Laurentino Cortizo presidency 2019-2024 framework continuing through 2023 under sustained institutional context. Defensoría del Pueblo and SENNIAF (Secretaría Nacional de Niñez, Adolescencia y Familia) institutional positions addressing PA-related issues within Family Code framework. Multiple Corte Suprema decisions developing superior-interest-of-the-child interpretation establishing trajectory toward 2024 Mulino presidency framework. Substantively significant Central American institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Corte Suprema de Justicia — superior-interest-of-the-child substantive register + Mulino presidency",
+      "description": "Corte Suprema de Justicia continues to develop superior-interest-of-the-child jurisprudence under Family Code art. 481 + Hague Convention 1980 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. José Raúl Mulino elected May 2024 — substantively significant Martinelli-aligned-candidate-replacement framework. Substantive analysis within civil-law + Hague Convention framework."
     }
   ],
   "structural_findings": [
     "Panama operates a Spanish-civil-law family-law framework — places Panama in the Central American civil-law cluster with Guatemala and Costa Rica.",
     "Hague Convention 1980 accession 1994 places Panama as among the earliest Latin American Hague accessions within the corpus.",
-    "Family Code 1994 simultaneous codification + Hague accession represents structurally distinctive modernisation moment."
+    "Family Code 1994 simultaneous codification + Hague accession represents structurally distinctive modernisation moment.",
+    "US-Panama dual-sovereignty-arrangement 1903-1999 + Canal sovereignty restoration 1999 structurally distinctive among Central American states.",
+    "Panama Papers 2016 offshore-financial-system disclosure substantively reshaped global AML-CFT compliance framework — structurally significant for cross-border-family-law-asset-tracing."
   ],
   "references": [
     "jurisdiction:costa-rica",
@@ -72,8 +124,9 @@
     }
   ],
   "editorial_notes": [
-    "Panama jurisdiction sidecar — civil-law Central America (Family Code 1994 + Hague Convention 1980 accession 1994 — earliest Latin American).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Latin American + civil-law + Central American + early-Hague Convention clusters within the corpus."
+    "Panama jurisdiction sidecar v1.1 — deepened 2026-06-09 from 1 to 10 key_developments with full 1903-independence-to-Mulino trajectory: 1903-Panama-independence-from-Colombia-+-US-Canal-Treaty + 1972-Constitution-+-Torrijos-military-populist + 1977-Torrijos-Carter-Treaties + 1989-US-Operation-Just-Cause-+-Noriega-arrest + 1990-UNCRC-ratification + 1994-Family-Code-Law-3-+-Hague-Convention-1980-accession + 1999-Canal-sovereignty-transfer-+-Moscoso-female-president + 2014-2016-Canal-expansion-+-Cobre-Panamá-mining + 2016-Panama-Papers-+-AML-CFT-framework + 2024-Corte-Suprema-de-Justicia-superior-interest-of-the-child-+-Mulino-presidency.",
+    "Civil-law Central America (Family Code 1994 + Hague Convention 1980 accession 1994 — earliest Latin American).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code arts. 308-359 + art. 481 framework without doctrinal 'parental alienation' label.",
+    "Joins Latin-American + civil-law + Central-American + US-Panama-dual-sovereignty-1903-1999-distinctive + Canal-sovereignty-restoration-1999 + US-Operation-Just-Cause-1989 + earliest-Hague-Convention-1994-Latin-American + Panama-Papers-2016-AML-CFT-distinctive + Canal-expansion-2016 + Mulino-Martinelli-aligned-2024 clusters within the corpus."
   ]
 }

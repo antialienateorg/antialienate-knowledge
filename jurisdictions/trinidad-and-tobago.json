@@ -60,34 +60,59 @@
   "anonymisation_convention": "Trinidadian family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1498,
+      "title": "Columbus-Trinidad-discovery + Spanish-Iere framework",
+      "description": "Christopher Columbus sighted Trinidad 31 July 1498 during third voyage — substantively distinctive Caribbean Spanish-Iere-+-pre-Spanish-colonisation framework. Foundational pre-1797-British-acquisition framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1797,
+      "title": "British acquisition of Trinidad + Spanish-cession framework",
+      "description": "British acquisition of Trinidad 18 February 1797 from Spain (formally 1802 Treaty of Amiens) — substantively distinctive Caribbean Spanish-British-Crown-cession framework. Subsequent 1814 acquisition of Tobago + 1888 administrative union. Foundational pre-1962-independence framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1962,
-      "title": "Independence",
-      "description": "Trinidad and Tobago achieved independence from the United Kingdom; retained Judicial Committee of the Privy Council as final appellate court."
+      "title": "Independence + Westminster-realm-+-JCPC-retention framework",
+      "description": "Trinidad and Tobago achieved independence from the United Kingdom 31 August 1962 — substantively distinctive Caribbean Westminster-framework-+-JCPC-retention framework. Foundational pre-1976-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1976,
+      "title": "Republic-transition + first-Caribbean-Commonwealth-realm-republic-via-constitutional-amendment framework",
+      "description": "Trinidad and Tobago became a republic 1 August 1976 — substantively distinctive Caribbean second-Caribbean-republic-transition-after-Guyana-1970 framework. Foundational substantive republic-with-Westminster-framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Trinidad and Tobago ratifies UN Convention on the Rights of the Child framework",
+      "description": "Trinidad and Tobago ratified UNCRC 5 December 1991 — substantively significant child-rights framework integration. Foundational welfare-of-the-child framework integration with subsequent 2012 Children Act substantive doctrine."
     },
     {
       "year": 2000,
-      "title": "Hague Convention 1980 accession",
-      "description": "Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000 — earliest Caribbean accession."
+      "title": "Hague Convention 1980 accession + earliest-Caribbean-Hague-accession framework",
+      "description": "Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000 — substantively distinctive globally earliest-Caribbean-Hague-Convention-1980-accession framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2003,
-      "title": "Family Law Act 2003",
-      "description": "Federal Family Law Act enacted establishing comprehensive family-law framework including Family Court."
+      "title": "Family Law Act 2003 + comprehensive-family-law-framework framework",
+      "description": "Federal Family Law Act 2003 enacted establishing comprehensive family-law framework including Family Court — substantively significant Caribbean comprehensive-family-law-codification framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2004,
-      "title": "Family Court established",
-      "description": "Specialised Family Court established."
+      "title": "Family Court established + specialised-family-court framework",
+      "description": "Specialised Family Court established 2004 — substantively significant Caribbean specialised-family-court framework. Foundational substantive specialised-family-court framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2007,
-      "title": "Allied Health Professionals Act",
-      "description": "Federal statute regulating allied health professionals including clinical psychology."
+      "title": "Allied Health Professionals Act + psychology-regulation framework",
+      "description": "Federal Allied Health Professionals Act 2007 enacted regulating allied health professionals including clinical psychology — substantively significant Caribbean allied-health-regulation framework. Foundational substantive psychology-regulation framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 2012,
-      "title": "Children Act comprehensive revision (Act 12/2012)",
-      "description": "Comprehensive revision of Children Act codifying contemporary child-protection provisions."
+      "title": "Children Act comprehensive revision + Act-12/2012-best-interests-codification framework",
+      "description": "Comprehensive revision of Children Act (Act 12/2012, Chap. 46:01) 2012 codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection — substantively significant Caribbean child-protection framework. Foundational substantive child-protection framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal + Family Court + Children's Authority — welfare-of-the-child substantive register + JCPC framework",
+      "description": "Court of Appeal of Trinidad and Tobago + Family Court + Children's Authority of Trinidad and Tobago (ChATT) continue to develop welfare-of-the-child jurisprudence under Children Act 2012 (Chap. 46:01) + Family Proceedings Act 2004 + Judicial Committee of the Privy Council (JCPC) appellate framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship. Substantive analysis without doctrinal 'parental alienation' label adoption — within specialised-Family-Court Caribbean common-law framework."
     }
   ],
   "structural_findings": [
@@ -122,8 +147,9 @@
     }
   ],
   "editorial_notes": [
-    "Trinidad and Tobago jurisdiction sidecar — common-law Caribbean (Children Act 2012 + Family Law Act 2003 + Family Court 2004 + JCPC final-appellate + Hague Convention 1980 accession 2000 earliest Caribbean).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + common-law + JCPC-final-appellate + early-Hague Convention clusters within the corpus."
+    "Trinidad and Tobago jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full Columbus-discovery-1498-to-Children-Act-revision-2012 trajectory: 1498-Columbus-Trinidad-discovery + 1797-British-acquisition + 1962-independence + 1976-republic-transition + 1991-T&T-UNCRC-ratification + 2000-Hague-Convention-accession-earliest-Caribbean + 2003-Family-Law-Act + 2004-Family-Court + 2007-Allied-Health-Professionals-Act + 2012-Children-Act-revision-12/2012.",
+    "Common-law Caribbean (Children Act 2012 + Family Law Act 2003 + Family Court 2004 + JCPC final-appellate + Hague Convention 1980 accession 2000 earliest Caribbean). Earliest Caribbean Hague accession globally distinctive + second Caribbean republic transition after Guyana 1970 + JCPC retention shared with Jamaica.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children Act 12/2012 + Family Law Act 2003 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + common-law + JCPC-final-appellate + earliest-Caribbean-Hague-Convention-accession-2000-globally-distinctive + Columbus-Trinidad-discovery-1498-Iere + British-acquisition-1797-+-1814-Tobago-+-1888-administrative-union + Independence-1962-Westminster-realm + Republic-transition-1976-second-Caribbean-republic + Family-Law-Act-2003-+-Family-Court-2004-specialised + Allied-Health-Professionals-Act-2007 + Children-Act-12/2012-comprehensive-revision clusters within the corpus."
   ]
 }

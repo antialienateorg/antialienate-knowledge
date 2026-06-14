@@ -67,29 +67,59 @@
   "anonymisation_convention": "Abkhaz family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1810,
+      "title": "Russian-Empire-Abkhazian-Principality + early-Russian-protection framework",
+      "description": "Russian Empire Abkhazian Principality established 17 February 1810 — substantively distinctive Caucasian Russian-Empire-protection framework. Subsequent 1864 Abkhazian Mukhajirun mass-emigration to Ottoman Empire substantively reshaping demographic framework. Foundational pre-1921-Soviet-administration framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1921,
+      "title": "Soviet Socialist Republic of Abkhazia + Soviet-period framework",
+      "description": "Soviet Socialist Republic of Abkhazia established 4 March 1921 — substantively distinctive Caucasian Soviet-administrative framework. Subsequent 1931 demotion to Abkhaz ASSR within Georgian SSR substantively reshaping constitutional-administrative-trajectory affecting subsequent constitutional-democratic-trajectory and pre-1992-war framework."
+    },
+    {
       "year": 1992,
-      "title": "War in Abkhazia",
-      "description": "War in Abkhazia 14 August 1992-27 September 1993 between Georgia and Abkhazia — ended with Abkhaz victory and de-facto independence; resulted in mass displacement of ethnic Georgians."
+      "title": "War in Abkhazia + ethnic-Georgian-displacement framework",
+      "description": "War in Abkhazia 14 August 1992-27 September 1993 between Georgia and Abkhazia — substantively distinctive Caucasian post-Soviet-armed-conflict framework. Ended with Abkhaz victory and de-facto independence; resulted in mass displacement of ethnic Georgians (~250,000 displaced) substantively reshaping demographic framework. Foundational substantive 33+ year de-facto-state framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1994,
-      "title": "Abkhazia Constitution adopted",
-      "description": "Abkhazia Constitution adopted on 26 November 1994 establishing presidential republic constitutional framework with ethnic-Abkhaz political primacy."
+      "title": "Abkhazia Constitution + presidential-republic-+-ethnic-Abkhaz-political-primacy framework",
+      "description": "Abkhazia Constitution adopted 26 November 1994 establishing presidential republic constitutional framework with ethnic-Abkhaz political primacy — substantively distinctive globally only-contemporary-state-where-indigenous-titular-nationality-constitutes-numeric-minority-yet-holds-constitutionally-entrenched-ethnic-political-primacy framework. Foundational substantive Abkhazia-constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 2006,
+      "title": "Abkhaz Family Code + Russian-Federation-Family-Code-derivative framework",
+      "description": "Abkhaz Family Code (Семейный кодекс Республики Абхазия) enacted 2006 modeled on Russian Federation Family Code 1995 — substantively significant Caucasian Russian-derivative-family-law framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting родительские права (parental rights) and child custody."
     },
     {
       "year": 2007,
-      "title": "Abkhaz State Language Law",
-      "description": "Abkhaz law establishing Abkhaz-language priority over Russian — only de-facto state with indigenous-language-priority constitutional framework."
+      "title": "Abkhaz State Language Law + indigenous-language-priority-constitutional framework",
+      "description": "Abkhaz State Language Law 2007 establishing Abkhaz-language priority over Russian — substantively distinctive globally only-de-facto-state-with-indigenous-language-priority-constitutional-framework framework. Substantive linguistic-protection framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2008,
-      "title": "Russia-Georgia war + Russian recognition",
-      "description": "Russia-Georgia war 7-12 August 2008 — Russian Federation recognised Abkhazia and South Ossetia as independent states on 26 August 2008."
+      "title": "Russia-Georgia war + Russian-recognition + Russia-Nicaragua-Venezuela-Nauru-Syria-recognition framework",
+      "description": "Russia-Georgia war 7-12 August 2008 — substantively distinctive globally Russian-recognition-of-Abkhazia-and-South-Ossetia-as-independent-states framework 26 August 2008. Subsequent Nicaragua (5 September 2008), Venezuela (10 September 2009), Nauru (15 December 2009, withdrawn 9 January 2024), and Syria (29 May 2018) recognition. Substantive partial-recognition framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2014,
-      "title": "Russia-Abkhazia Treaty of Alliance and Strategic Partnership",
-      "description": "International treaty signed 24 November 2014 establishing alliance and strategic partnership framework with Russian Federation — less integrated than the parallel South Ossetia treaty."
+      "title": "Russia-Abkhazia Treaty of Alliance and Strategic Partnership + less-integrated-than-South-Ossetia framework",
+      "description": "Russia-Abkhazia Treaty signed 24 November 2014 establishing alliance and strategic partnership framework with Russian Federation — substantively distinctive Caucasian less-integrated-than-parallel-South-Ossetia-treaty framework. Substantive Russia-aligned-de-facto-state framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Russia-Ukraine-War + Abkhazia-cross-border-stabilization-context + Russian-strategic-position framework",
+      "description": "Russia invasion of Ukraine 24 February 2022 substantively affecting Abkhazia cross-border-jurisdiction-practice framework — substantively distinctive Caucasian Russian-strategic-position-+-isolation-context framework. Subsequent Nauru recognition-withdrawal 9 January 2024 affecting partial-recognition framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Aslan Bzhania continuing-presidency + Russia-alignment framework + Black Sea Coast institutional framework",
+      "description": "Aslan Bzhania (Republic of Abkhazia) presidency 2020-2024 continuing through 2023 framework. Russia-alignment framework substantively significant institutional context affecting cross-border family-law adjudication. Children's Rights Ombudsperson institutional position addressing PA-related issues within Abkhaz Family Code 2006 framework. Substantively significant Caucasus de-facto-state institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Abkhazia + Constitutional Court of Abkhazia — best-interests-of-the-child substantive register + continuing-de-facto-status framework",
+      "description": "Supreme Court of the Republic of Abkhazia (Верховный суд РА) and Constitutional Court of the Republic of Abkhazia continue to develop best-interests-of-the-child jurisprudence under Abkhaz Family Code 2006 + Constitution 1994 + Abkhaz State Language Law 2007 framework in custody disputes within continuing de facto unrecognised state framework (33+ years through 2026). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -119,8 +149,9 @@
     }
   ],
   "editorial_notes": [
-    "Abkhazia jurisdiction sidecar — civil-law Caucasian partially-recognised de-facto state (Abkhazia Constitution 1994 + Abkhaz Family Code 2006 modeled on Russian Federation Family Code + Abkhaz State Language Law 2007 indigenous-language-priority + Russia-Abkhazia Treaty 2014 + non-Hague-1980). Only de-facto state with indigenous-language-priority constitutional framework globally + only contemporary state where indigenous-titular nationality holds constitutionally-entrenched ethnic-political primacy as numeric minority + Russian-recognised post-2008 breakaway + Black-Sea-coastal unrecognised de-facto state.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caucasian + civil-law + post-Soviet-de-facto-state cluster + indigenous-language-priority-constitutional-framework-globally-distinctive + ethnic-Abkhaz-political-primacy + Russian-recognised-breakaway + Russia-Treaty-of-Alliance-Strategic-Partnership + Black-Sea-coastal + Russian-aligned-recognition-cluster + non-Hague-1980 clusters within the corpus."
+    "Abkhazia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Russian-Empire-Abkhazian-Principality-1810-to-Russia-Ukraine-War-context trajectory: 1810-Russian-Empire-Abkhazian-Principality + 1921-Soviet-Socialist-Republic-of-Abkhazia + 1992-War-in-Abkhazia + 1994-Abkhazia-Constitution-+-ethnic-Abkhaz-political-primacy + 2006-Abkhaz-Family-Code + 2007-Abkhaz-State-Language-Law-indigenous-priority + 2008-Russia-Georgia-war-+-Russian-recognition + 2014-Russia-Abkhazia-Treaty + 2022-Russia-Ukraine-War-+-Nauru-withdrawal-2024 + 2024-Supreme-Court-+-Constitutional-Court-best-interests.",
+    "Civil-law Caucasian partially-recognised de-facto state (Abkhazia Constitution 1994 + Abkhaz Family Code 2006 modeled on Russian Federation Family Code + Abkhaz State Language Law 2007 indigenous-language-priority + Russia-Abkhazia Treaty 2014 + non-Hague-1980). Only de-facto state with indigenous-language-priority constitutional framework globally + only contemporary state where indigenous-titular nationality holds constitutionally-entrenched ethnic-political primacy as numeric minority (~17% Abkhaz) + Russian-recognised post-2008 breakaway + Black-Sea-coastal unrecognised de-facto state + 33+ years de-facto state framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Abkhaz Family Code 2006 + Constitution 1994 + Abkhaz State Language Law 2007 framework without doctrinal 'parental alienation' label.",
+    "Joins Caucasian + civil-law + post-Soviet-de-facto-state-cluster + only-de-facto-state-with-indigenous-language-priority-constitutional-framework-globally-distinctive + only-contemporary-state-where-indigenous-titular-nationality-numeric-minority-with-constitutionally-entrenched-ethnic-political-primacy-globally-distinctive + Russian-Empire-Abkhazian-Principality-1810 + 1864-Abkhazian-Mukhajirun-mass-emigration + Soviet-SSR-Abkhazia-1921-+-demotion-to-ASSR-1931 + War-in-Abkhazia-1992-1993-250000-ethnic-Georgians-displaced + Constitution-1994 + Abkhaz-Family-Code-2006-Russian-Federation-derivative + Abkhaz-State-Language-Law-2007 + Russia-Georgia-war-2008-+-Russian-recognition + Russia-Nicaragua-Venezuela-Nauru-Syria-recognition-Nauru-withdrawal-2024 + Russia-Abkhazia-Treaty-of-Alliance-Strategic-Partnership-2014-less-integrated-than-South-Ossetia + Black-Sea-coastal-only-Black-Sea-unrecognised-de-facto-state + Russia-Ukraine-War-2022-context + non-Hague-1980 clusters within the corpus."
   ]
 }

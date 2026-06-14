@@ -53,14 +53,64 @@
   "anonymisation_convention": "Slovak family-law decisions are anonymised per Najvyšší súd practice using initials.",
   "key_developments": [
     {
+      "year": 1989,
+      "title": "Velvet Revolution + democratic transition",
+      "description": "Velvet Revolution November 1989 ended Communist rule of Czechoslovakia — foundational political-institutional moment for democratic-transition trajectory affecting Slovakia."
+    },
+    {
+      "year": 1993,
+      "title": "Slovakia independence + Constitution + Constitutional Court + Council of Europe membership",
+      "description": "Slovakia established 1 January 1993 from Czechoslovakia dissolution ('Velvet Divorce'). Constitution of the Slovak Republic adopted 1 September 1992 (Constitution Day), in force 1 October 1992. Ústavný súd established 1993 with original jurisdiction over constitutional review and individual constitutional complaints. Council of Europe membership 30 June 1993. ECHR ratified 18 March 1992 (as Czechoslovakia, retained)."
+    },
+    {
+      "year": 1991,
+      "title": "Slovakia ratifies UN Convention on the Rights of the Child",
+      "description": "Slovakia (as Czechoslovakia) ratified the UNCRC effective 6 February 1991 (succession 28 May 1993 as Slovakia) — framing the post-Communist family-law-reform trajectory toward best-interests-of-the-child substantive doctrine."
+    },
+    {
+      "year": 2001,
+      "title": "Hague Convention 1980 accession + Family-court reforms",
+      "description": "Slovakia acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 February 2001 (in continuity with Czechoslovakia ratification) — among the early post-Communist Hague accessions."
+    },
+    {
+      "year": 2004,
+      "title": "European Union accession + EU acquis communautaire integration",
+      "description": "Slovakia joined the European Union 1 May 2004 — substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111). Schengen Area 2007, Eurozone 2009 (first Visegrád state to adopt Euro)."
+    },
+    {
       "year": 2005,
-      "title": "Zákon o rodine 36/2005",
-      "description": "Family Act enacted, in force 1 April 2005."
+      "title": "Zákon o rodine 36/2005 (Family Act)",
+      "description": "Family Act enacted 19 January 2005, in force 1 April 2005 — substantively modernising family-law replacing 1963 Family Act. §§ 28-47 govern parental rights and obligations within civil-law tradition. § 24 establishes the najlepší záujem dieťaťa welfare standard."
+    },
+    {
+      "year": 2014,
+      "title": "Constitutional amendment + traditional-marriage codification",
+      "description": "Constitutional amendment 2014 codifying Art. 41(1) marriage as unique union of man and woman — substantively distinctive within Slovak constitutional framework. Subsequent constitutional debates around family-form."
     },
     {
       "year": 2019,
-      "title": "Zákon o psychologickej činnosti",
-      "description": "Law on Psychological Activity establishing SKP statutory professional chamber."
+      "title": "Zákon o psychologickej činnosti — SKP statutory professional chamber",
+      "description": "Law on Psychological Activity enacted 2019 establishing the Slovenská komora psychológov (SKP) as statutory professional-chamber regulator with statutory licensing and disciplinary jurisdiction. Places Slovakia among the chamber-tradition psychology regulator cluster alongside Croatia HPK + Romania CPR."
+    },
+    {
+      "year": 2022,
+      "title": "Strasbourg Article 8 contact-enforcement jurisprudence + Ústavný súd parental-contact framework",
+      "description": "Ústavný súd continues to develop parental-contact-enforcement jurisprudence engaging European Convention positive-obligations framework — places Slovakia within Strasbourg-adjacent Article-8-contact-enforcement cluster alongside Czechia, Italy (Bondavalli/Improta/Strumia)."
+    },
+    {
+      "year": 2024,
+      "title": "Robert Fico assassination attempt + judicial-reform-context + Smer-SD coalition framework",
+      "description": "Slovak Prime Minister Robert Fico (Smer-SD) assassination attempt 15 May 2024 in Handlová by Juraj Cintula — substantively distinctive globally only modern Slovak-PM assassination-attempt framework + structurally distinctive CEE political-instability framework + Smer-SD coalition government inaugurated 25 October 2023 with Hlas-SD + SNS + Fico-coalition judicial-reform framework + Special Prosecutor's Office abolition + Penal Code amendments February 2024 + EU rule-of-law contestation framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Zákon o rodine 36/2005 + Najvyšší súd substantive register evolution + najlepší záujem dieťaťa framework."
+    },
+    {
+      "year": 2023,
+      "title": "Verejný ochranca práv institutional position + Zákon o rodine implementation framework",
+      "description": "Verejný ochranca práv (Slovak Ombudsperson) institutional position and Komisár pre deti (Children's Commissioner) addressing PA-related issues within Zákon o rodine §§ 28-47 framework. Multiple Najvyšší súd and Ústavný súd decisions 2022-2023 developing najlepší záujem dieťaťa interpretation including střídavá osobná starostlivosť (alternating personal care) framework. Substantively significant Central European institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Najvyšší súd + Ústavný súd — najlepší záujem dieťaťa substantive register",
+      "description": "Najvyšší súd and Ústavný súd continue to develop najlepší záujem dieťaťa (best-interests-of-the-child) jurisprudence under Zákon o rodine §§ 28-47 + Constitution + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term."
     }
   ],
   "structural_findings": [
@@ -102,8 +152,9 @@
     }
   ],
   "editorial_notes": [
-    "Slovakia jurisdiction sidecar — CEE civil-law framework. Zákon o rodine 36/2005 + SKP statutory professional-chamber + Constitutional Court individual-complaint.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins CEE civil-law + chamber-tradition psychology regulator clusters within the corpus."
+    "Slovakia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full Velvet-Revolution-to-contemporary trajectory: 1989-Velvet-Revolution + 1993-Slovakia-independence-+-Constitution-+-Constitutional-Court-+-Council-of-Europe-membership + 1991-UNCRC-ratification + 2001-Hague-1980-accession + 2004-EU-accession + 2005-Zákon-o-rodine-36-2005 + 2014-Constitutional-amendment-traditional-marriage-codification + 2019-Zákon-o-psychologickej-činnosti-SKP-statutory-chamber + 2022-Strasbourg-Article-8-contact-enforcement + 2024-Najvyšší-súd-Ústavný-súd-najlepší-záujem-dieťaťa.",
+    "CEE civil-law framework (Zákon o rodine 36/2005 + SKP statutory professional-chamber + Constitutional Court individual-complaint + Hague Convention 1980 + EU acquis + Council of Europe/ECHR).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive najlepší záujem dieťaťa analysis under Zákon o rodine §§ 28-47 + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins CEE-civil-law-cluster + chamber-tradition psychology regulator (with Croatia HPK, Romania CPR) + Constitutional-Court-individual-complaint (with Czechia, Hungary, Poland) + Strasbourg-adjacent-Article-8-contact-enforcement + traditional-marriage-constitutional-codification (with Hungary 2011 Art. L) + early-post-Communist-Hague-1980 + first-Visegrád-Eurozone-2009 clusters within the corpus."
   ]
 }

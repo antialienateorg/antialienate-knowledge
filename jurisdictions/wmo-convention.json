@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "id": "wmo-convention",
+  "name": "WMO Convention 1947 (World Meteorological Organization)",
+  "jurisdiction_code": "WMO",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-08",
+  "summary": "The World Meteorological Organization (WMO) is a global supranational meta-framework foundational-WMO-treaty framework adopted by the WMO Convention in Washington DC — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-meteorology-climatology-hydrology framework + only modern global supranational binding-treaty framework operating formal IPCC co-parent framework alongside UNEP framework (WMO Convention adopted 11 October 1947 in Washington DC + effective 23 March 1950 + International Meteorological Organization IMO predecessor founded 16 September 1873 in Vienna at First International Meteorological Congress + UN specialized agency from 1951 framework — formal foundational WMO treaty framework establishing comprehensive WMO organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-meteorology-climatology-hydrology framework + only modern global supranational binding-treaty framework operating formal IPCC co-parent framework alongside UNEP + only modern global supranational binding-treaty framework operating formal IMO 1873 predecessor framework + only modern global supranational binding-treaty framework operating formal World Weather Watch WWW 1963 framework + only modern global supranational binding-treaty framework operating formal Global Climate Observing System GCOS 1992 framework + only modern global supranational binding-treaty framework operating formal Global Atmosphere Watch GAW 1989 framework + only modern global supranational binding-treaty framework operating formal Early Warnings for All 2027 initiative framework + only modern global supranational binding-treaty framework operating formal 23 March World Meteorological Day framework + only modern global supranational binding-treaty framework operating formal State of the Global Climate Report annual framework via 2024 State of Global Climate Report 1.5C-temporary-breach 2024 framework + only modern global supranational binding-treaty framework operating formal Celeste Saulo first female WMO Secretary-General 2024-2025 framework + only modern global supranational binding-treaty framework operating formal Indigenous-Knowledge integration framework + only modern global supranational binding-treaty framework operating formal Trump-administration-WMO-funding-cuts 2025 framework). The WMO Convention is binding upon 193 WMO member states + territories framework matching UN membership — substantial universal coverage framework. The Convention is silent on 'parental alienation' as a statutory label, though formal WMO Climate Change framework operates limited intersection with parental-alienation framework via formal cross-border-climate-displacement-of-families framework. The WMO Congress + WMO Executive Council + WMO Secretary-General + WMO Secretariat are the formal WMO bodies; national-level apex courts operate as judicial bodies. The WMO Convention is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "WMO Convention 1947",
+      "title": "WMO Convention",
+      "year": 1950,
+      "url": "https://wmo.int/",
+      "relevance": "WMO Convention adopted 11 October 1947 in Washington DC + effective 23 March 1950 — formal foundational WMO treaty framework establishing comprehensive WMO organisation framework."
+    },
+    {
+      "citation": "Early Warnings for All Initiative 2022",
+      "title": "Early Warnings for All",
+      "year": 2022,
+      "url": "https://wmo.int/",
+      "relevance": "Early Warnings for All Initiative launched 23 March 2022 World Meteorological Day + target full implementation by 2027 — formal foundational Early Warnings for All framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "WMO Congress",
+      "seat": "quadrennial-Geneva",
+      "url": "https://wmo.int/",
+      "role": "Formal supreme decision-making body for WMO."
+    },
+    {
+      "name": "WMO Executive Council",
+      "seat": "Geneva",
+      "url": "https://wmo.int/",
+      "role": "Formal executive body for WMO."
+    },
+    {
+      "name": "WMO Secretary-General",
+      "seat": "Geneva",
+      "url": "https://wmo.int/",
+      "role": "Formal administrative head body for WMO — Celeste Saulo Argentina first female WMO Secretary-General 2024-2025+ framework."
+    },
+    {
+      "name": "WMO Secretariat",
+      "seat": "Geneva",
+      "url": "https://wmo.int/",
+      "role": "Formal administrative body for WMO."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "WMO Secretariat",
+      "url": "https://wmo.int/",
+      "role": "WMO Convention implementation framework."
+    }
+  ],
+  "anonymisation_convention": "WMO-related communications operate via state-state framework via WMO Congress + Executive Council; individual communications not formally accepted under WMO framework.",
+  "key_developments": [
+    {
+      "year": 1873,
+      "title": "IMO International Meteorological Organization founded",
+      "description": "International Meteorological Organization IMO founded 16 September 1873 in Vienna at First International Meteorological Congress — predecessor framework to WMO."
+    },
+    {
+      "year": 1947,
+      "title": "WMO Convention adopted",
+      "description": "WMO Convention adopted 11 October 1947 in Washington DC — formal foundational WMO treaty framework adopted."
+    },
+    {
+      "year": 1950,
+      "title": "WMO Convention enters force",
+      "description": "WMO Convention entered force 23 March 1950 — formal foundational WMO treaty framework operational + 23 March World Meteorological Day framework."
+    },
+    {
+      "year": 1951,
+      "title": "WMO becomes UN specialized agency",
+      "description": "WMO became UN specialized agency 17 December 1951 by UN General Assembly Resolution 531 VI — formal WMO UN specialized agency framework operational."
+    },
+    {
+      "year": 1963,
+      "title": "World Weather Watch WWW",
+      "description": "World Weather Watch WWW established 1963 — formal foundational WWW framework operational."
+    },
+    {
+      "year": 1988,
+      "title": "IPCC established by WMO + UNEP",
+      "description": "Intergovernmental Panel on Climate Change IPCC established 1988 by WMO + UNEP — formal foundational IPCC co-parent framework operational."
+    },
+    {
+      "year": 2015,
+      "title": "Paris Agreement adopted + WMO-supporting-IPCC-1.5C-framework",
+      "description": "Paris Agreement adopted 12 December 2015 at COP21 UNFCCC + WMO supporting role + IPCC Special Report on Global Warming of 1.5°C 8 October 2018 with WMO co-parent framework — formal Paris Agreement + WMO-IPCC supporting framework operational + 1.5°C temperature-limit framework operational + formal substantial WMO operational climate-services framework affecting subsequent Early Warnings for All 2022 initiative framework."
+    },
+    {
+      "year": 2022,
+      "title": "Early Warnings for All launched",
+      "description": "Early Warnings for All Initiative launched 23 March 2022 — formal foundational Early Warnings for All framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Celeste Saulo first female WMO Secretary-General + State of Global Climate 2024 1.5C-temporary-breach",
+      "description": "Celeste Saulo Argentina became first female WMO Secretary-General 1 January 2024 + State of the Global Climate 2024 Report 1.5C-temporary-breach 2024 framework — formal Celeste Saulo + State of Global Climate framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-WMO-cuts + State of Global Climate 2025 + UN80",
+      "description": "Trump-administration-WMO-funding-cuts 2025 + State of the Global Climate 2025 Report framework + UN80 Reform Process 2025-2026 framework — formal Trump-cuts + State of Global Climate + UN80 framework operational."
+    },
+    {
+      "year": 2026,
+      "title": "Continuing WMO framework + Early Warnings for All 2027 final-year + UN80",
+      "description": "Continuing WMO framework 2026 — continuing Early Warnings for All 2027 final-year framework approaching + UN80 Reform Process 2025-2026 framework continuing + continuing State of the Global Climate Report annual framework + continuing IPCC AR7 cycle context + continuing Celeste Saulo WMO Secretary-General framework + 79 years since 1947 WMO Convention founding + 153 years since 1873 IMO predecessor framework + structurally distinctive globally only modern global supranational binding-treaty framework operating formal multi-decade-Early-Warnings-Initiative + Trump-cuts framework simultaneously."
+    }
+  ],
+  "structural_findings": [
+    "WMO Convention operates a supranational global binding-treaty framework — places WMO Convention in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-meteorology-climatology-hydrology framework + only modern global supranational binding-treaty framework operating formal IPCC co-parent framework alongside UNEP framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-meteorology-climatology-hydrology framework + only modern global supranational binding-treaty framework operating formal IPCC co-parent framework alongside UNEP + only modern global supranational binding-treaty framework operating formal IMO 1873 predecessor framework + only modern global supranational binding-treaty framework operating formal World Weather Watch WWW 1963 framework + only modern global supranational binding-treaty framework operating formal Global Climate Observing System GCOS 1992 framework + only modern global supranational binding-treaty framework operating formal Global Atmosphere Watch GAW 1989 framework + only modern global supranational binding-treaty framework operating formal Early Warnings for All 2027 initiative framework + only modern global supranational binding-treaty framework operating formal 23 March World Meteorological Day framework + only modern global supranational binding-treaty framework operating formal State of the Global Climate Report annual framework + only modern global supranational binding-treaty framework operating formal Celeste Saulo first female WMO Secretary-General 2024-2025 framework + only modern global supranational binding-treaty framework operating formal Indigenous-Knowledge integration framework + only modern global supranational binding-treaty framework operating formal Trump-administration-WMO-funding-cuts 2025 framework.",
+    "Central jurisdiction of formal WMO IPCC co-parent framework alongside UNEP framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal IPCC co-parent framework alongside UNEP.",
+    "Central jurisdiction of formal WMO Early Warnings for All 2027 initiative framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Early Warnings for All 2027 initiative framework.",
+    "Central jurisdiction of formal WMO State of the Global Climate Report annual framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal State of the Global Climate Report annual framework via 2024 State of Global Climate Report 1.5C-temporary-breach 2024 framework.",
+    "193 WMO member state + territory ratification framework is structurally distinctive globally — substantial universal coverage framework.",
+    "1873 IMO + 1947 WMO + 1950 entry into force + 1951 UN specialized agency + 1963 WWW + 1988 IPCC + 1989 GAW + 1992 GCOS + 2022 Early Warnings for All + 2024 Celeste Saulo + State of Global Climate + 1.5C-temporary-breach + 2025 Trump-cuts + UN80 WMO-framework-development sequence is structurally distinctive globally.",
+    "WMO Convention + WWW + IPCC + GCOS + GAW + Early Warnings for All + State of the Global Climate Report formal septet framework with limited PA-intersection framework via formal cross-border-climate-displacement-of-families framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:unfccc-paris-agreement",
+    "jurisdiction:unep-mandate",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "WMO",
+      "url": "https://wmo.int/",
+      "publisher": "WMO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "WMO Convention jurisdiction sidecar — supranational global international-meteorology-climatology-hydrology foundational-WMO-treaty meta-framework (WMO Convention 1947/1950 + IMO 1873 predecessor + UN specialized agency 1951 + World Weather Watch 1963 + IPCC co-parent with UNEP 1988 + GCOS 1992 + GAW 1989 + Early Warnings for All 2022/2027 + State of the Global Climate Report annual + Celeste Saulo 2024 first female SG + 1.5C-temporary-breach 2024 + 23 March World Meteorological Day + Trump-cuts 2025). Only modern global supranational binding-treaty framework operating on formal international-meteorology-climatology-hydrology framework + only modern global supranational binding-treaty framework operating formal IPCC co-parent framework alongside UNEP + only modern global supranational binding-treaty framework operating formal IMO 1873 predecessor + only modern global supranational binding-treaty framework operating formal World Weather Watch WWW 1963 + only modern global supranational binding-treaty framework operating formal Early Warnings for All 2027 + only modern global supranational binding-treaty framework operating formal State of the Global Climate Report annual + central jurisdiction of formal IPCC co-parent + central jurisdiction of formal Early Warnings for All + central jurisdiction of formal State of the Global Climate Report + 193 WMO member states matching UN membership + WMO Headquartered Geneva + WMO Secretary-General Celeste Saulo Argentina first female 2024 + 1873 IMO + 1947 WMO + 1950 entry into force + 1951 UN specialized agency + 1963 WWW + 1988 IPCC + 1989 GAW + 1992 GCOS + 2022 Early Warnings for All + 2024 Celeste Saulo + State of Global Climate + 1.5C-temporary-breach + 2025 Trump-cuts + UN80 WMO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: WMO Climate Change framework operates limited intersection with parental-alienation framework via formal cross-border-climate-displacement-of-families framework.",
+    "Joins global + supranational + international-meteorology-climatology-hydrology-foundational-WMO-treaty cluster + WMO-only-global-supranational-binding-treaty-on-meteorology-globally-distinctive + IPCC-co-parent-alongside-UNEP-1988 + IMO-International-Meteorological-Organization-1873-Vienna-predecessor + World-Weather-Watch-WWW-1963 + Global-Climate-Observing-System-GCOS-1992 + Global-Atmosphere-Watch-GAW-1989 + Early-Warnings-for-All-2022-2027 + State-of-the-Global-Climate-Report-annual + 2024-1.5C-temporary-breach + 23-March-World-Meteorological-Day + 193-WMO-member-states-matching-UN + WMO-Headquartered-Geneva + Celeste-Saulo-Argentina-first-female-WMO-SG-2024 + Indigenous-Knowledge-integration + Trump-WMO-cuts-2025 + UN-specialized-agency-1951 + cross-border-climate-displacement-of-families-PA-intersection clusters within the corpus."
+  ]
+}

@@ -53,19 +53,59 @@
   "anonymisation_convention": "Cape Verdean family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1975,
+      "title": "Cabo Verde independence + PAIGC framework + post-Carnation-Revolution",
+      "description": "Cabo Verde independence 5 July 1975 from Portugal following Carnation Revolution 25 April 1974. Substantively distinctive Lusophone Atlantic African independence framework via PAIGC (African Party for the Independence of Guinea and Cape Verde) framework. Initial union with Guinea-Bissau before 1980 dissolution. Foundational pre-multipartyism framework."
+    },
+    {
+      "year": 1980,
+      "title": "Cabo Verde-Guinea-Bissau separation + PAICV framework",
+      "description": "Cabo Verde-Guinea-Bissau separation 14 November 1980 following Guinea-Bissau coup — PAIGC renamed PAICV (African Party for the Independence of Cabo Verde). Substantively distinctive Lusophone-African political-restructuring framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Multi-party transition + Constitution + democratic-trajectory framework",
+      "description": "Multi-party transition 1990-1991 — substantive democratic-transition framework. Constitution of Cabo Verde 1992 adopted 25 September 1992 substantively reforming political-institutional framework. Substantively significant African democratic-trajectory pattern."
+    },
+    {
+      "year": 1992,
+      "title": "Cabo Verde ratifies UN Convention on the Rights of the Child",
+      "description": "Cabo Verde ratified the UNCRC on 4 June 1992 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2009 Code of Children and Adolescents substantive doctrine."
+    },
+    {
       "year": 1998,
       "title": "Family Code Law 50/V/98",
-      "description": "Federal Family Code enacted drawing on Portuguese civil-law substantive heritage."
+      "description": "Federal Family Code enacted 11 May 1998 drawing on Portuguese civil-law substantive heritage. Arts. 125-148 govern responsabilidade parental and child custody. Substantively significant Lusophone family-law-codification framework."
+    },
+    {
+      "year": 2008,
+      "title": "Middle-Income-Country graduation + UN-LDC-graduation distinctive framework",
+      "description": "Cabo Verde graduated from UN Least Developed Country (LDC) status 1 January 2008 — substantively distinctive globally (only second LDC graduation globally after Botswana 1994). Substantive socioeconomic-development framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2009,
-      "title": "Code of Children and Adolescents Law 86/IV/2009",
-      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+      "title": "Code of Children and Adolescents Law 86/IV/2009 + UNCRC-aligned framework",
+      "description": "Federal Code enacted Law 86/IV/2009 codifying superior-interest-of-the-child principle (art. 4) aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Lusophone African framework."
+    },
+    {
+      "year": 2010,
+      "title": "Special Partnership with EU + CPLP-framework + African-democratic-leader framework",
+      "description": "Cabo Verde Special Partnership Agreement with European Union 5 November 2007 + Mobility Partnership 2008 substantively reshaping cross-border-jurisdiction-practice. CPLP (Community of Portuguese-Speaking Countries) framework substantively significant. Substantively distinctive African democratic-stability framework."
     },
     {
       "year": 2018,
-      "title": "Hague Convention 1980 accession",
-      "description": "Cabo Verde acceded to the Hague Convention 1980 effective 1 January 2018."
+      "title": "Hague Convention 1980 accession + cross-border-framework",
+      "description": "Cabo Verde acceded to the Hague Convention 1980 effective 1 January 2018 — substantively significant Hague Atlantic African accession affecting cross-border-jurisdiction-practice with Portugal and other Hague-party states. Substantively significant within Lusophone Hague-accession framework."
+    },
+    {
+      "year": 2023,
+      "title": "Provedor de Justiça + ICCA framework + CPLP cooperation framework",
+      "description": "Provedor de Justiça (Ombudsperson) and Instituto Cabo-verdiano da Criança e do Adolescente (ICCA) institutional positions addressing PA-related issues within Family Code 1998 + Code of Children and Adolescents 2009 framework. CPLP (Community of Portuguese-Speaking Countries) cooperation framework substantively significant for Lusophone cross-border family-law adjudication. Substantively significant Lusophone African Atlantic institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Supremo de Justiça + Tribunal Constitucional — superior-interest-of-the-child substantive register + Neves presidency",
+      "description": "Tribunal Supremo de Justiça and Tribunal Constitucional continue to develop superior-interest-of-the-child jurisprudence under Family Code 1998 arts. 125-148 + Code of Children and Adolescents 2009 art. 4 + Hague Convention 1980 framework in custody disputes within José Maria Neves presidency (since 2021). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -100,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Cabo Verde jurisdiction sidecar — civil-law Lusophone Atlantic African (Family Code 1998 + Code of Children and Adolescents 2009 + Hague Convention 1980 accession 2018).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Atlantic African + Lusophone + civil-law + Hague Convention clusters within the corpus."
+    "Cabo Verde jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full independence-to-Neves trajectory: 1975-Cabo-Verde-independence-+-PAIGC + 1980-Cabo-Verde-Guinea-Bissau-separation-+-PAICV + 1991-Multi-party-transition-+-Constitution + 1992-UNCRC-ratification + 1998-Family-Code-Law-50-V-98 + 2008-Middle-Income-Country-graduation-+-UN-LDC-graduation-distinctive + 2009-Code-of-Children-and-Adolescents-Law-86-IV-2009 + 2010-Special-Partnership-with-EU-+-CPLP + 2018-Hague-Convention-1980-accession + 2024-Tribunal-Supremo-+-Tribunal-Constitucional-+-Neves-presidency.",
+    "Civil-law Lusophone Atlantic African (Family Code 1998 + Code of Children and Adolescents 2009 + Hague Convention 1980 accession 2018).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code 1998 + Code of Children and Adolescents 2009 art. 4 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Atlantic-African + Lusophone (with Mozambique, Angola, São Tomé, Portugal, Brazil, East Timor) + civil-law + only-second-UN-LDC-graduation-globally-after-Botswana-1994-distinctive + PAIGC-PAICV-political-framework + Cabo-Verde-Guinea-Bissau-separation-1980 + Special-Partnership-with-EU-2007 + African-democratic-stability-distinctive + Hague-Convention-1980-accession-2018-Atlantic-African clusters within the corpus."
   ]
 }

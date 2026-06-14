@@ -54,31 +54,69 @@
   "anonymisation_convention": "Bhutanese family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1652,
+      "title": "Tsa Yig (Code of Law) of Shabdrung Ngawang Namgyal",
+      "description": "Tsa Yig (Bhutanese Code of Law) promulgated by Shabdrung Ngawang Namgyal 1652 — foundational Bhutanese legal-customary tradition drawing on Mahayana Buddhist Drukpa Kagyu lineage doctrines. The Tsa Yig substantively shapes the Bhutanese legal tradition substrate that persists in contemporary law including family-law and customary-marriage practice."
+    },
+    {
+      "year": 1907,
+      "title": "Wangchuck dynasty established + monarchy founded",
+      "description": "Ugyen Wangchuck enthroned as first Druk Gyalpo (Dragon King) of Bhutan 17 December 1907 — establishing the Wangchuck hereditary monarchy that would later transition to constitutional monarchy in 2008. Foundational political-institutional framework for subsequent codified family-law evolution."
+    },
+    {
+      "year": 1953,
+      "title": "Tshogdu (National Assembly) established + modernised codification begins",
+      "description": "Tshogdu (National Assembly) established 1953 under Jigme Dorji Wangchuck — beginning of modernised codification trajectory bringing previously oral and customary Tsa Yig tradition into modern statutory form. Marked the institutional turn toward written legislation including family-law."
+    },
+    {
       "year": 1980,
       "title": "Marriage Act 1980 + Inheritance Act 1980",
-      "description": "Federal Marriage and Inheritance Acts enacted under Drukgyalpo (King) Jigme Singye Wangchuck reign."
+      "description": "Federal Marriage Act and Inheritance Act enacted 1980 under Drukgyalpo (King) Jigme Singye Wangchuck reign — first comprehensive codified family-law and inheritance statutes, modernising the Tsa Yig customary tradition into modern statutory form within Mahayana-Buddhist substrate."
+    },
+    {
+      "year": 1990,
+      "title": "Bhutan ratifies UN Convention on the Rights of the Child",
+      "description": "Bhutan ratified the UNCRC on 1 August 1990 — among the earliest state parties globally (less than a year after CRC adoption 20 November 1989) — framing the family-law-reform trajectory toward best-interest-of-the-child substantive doctrine within Mahayana-Buddhist welfare-of-the-child framing."
+    },
+    {
+      "year": 1996,
+      "title": "Marriage Act revision 1996",
+      "description": "Marriage Act 1980 substantively revised 1996 — modernising marriage, divorce, parental rights, and custody provisions within the codified family-law framework. Currently operative version alongside Inheritance Act 1980."
     },
     {
       "year": 2008,
-      "title": "Constitutional monarchy + Constitution",
-      "description": "Bhutan transitioned from absolute to constitutional monarchy; Constitution of the Kingdom of Bhutan adopted establishing GNH as constitutional policy framework."
+      "title": "Constitutional monarchy + Constitution + GNH framework",
+      "description": "Bhutan transitioned from absolute to constitutional monarchy 18 July 2008 under Druk Gyalpo Jigme Khesar Namgyel Wangchuck (4th King abdication 14 December 2006, 5th King coronation 6 November 2008). Constitution of the Kingdom of Bhutan adopted 18 July 2008 establishing Gross National Happiness (GNH) as constitutional policy framework (Art. 9) — first state globally to codify GNH constitutionally. Constitution Art. 7 (fundamental rights), Art. 9.17 (family-protection-clause) anchor family-law jurisprudence."
     },
     {
       "year": 2011,
-      "title": "Child Care and Protection Act",
-      "description": "Federal Child Care and Protection Act enacted codifying welfare-of-the-child principle and child-protection provisions."
+      "title": "Child Care and Protection Act + Penal Code amendments",
+      "description": "Federal Child Care and Protection Act enacted 11 March 2011 codifying CRC-aligned welfare-of-the-child principle, parental responsibility, custody, juvenile-justice framework, and child-protection provisions. Operative alongside Marriage Act 1980/1996 as the substantive child-welfare anchor for family-law jurisprudence."
     },
     {
       "year": 2013,
       "title": "Domestic Violence Prevention Act",
-      "description": "Federal statute on domestic violence prevention enacted."
+      "description": "Federal Domestic Violence Prevention Act enacted 30 July 2013 establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. Operates parallel to — not as a replacement of — the Marriage Act + Child Care and Protection Act framework."
+    },
+    {
+      "year": 2017,
+      "title": "Civil and Criminal Procedure Code revision + judicial-administrative consolidation",
+      "description": "Civil and Criminal Procedure Code substantively revised 2017 consolidating procedural framework for District (Dzongkhag) Court family-law proceedings. Twenty Dzongkhag Courts operate first-instance jurisdiction with High Court intermediate appellate jurisdiction and Supreme Court of Bhutan apex jurisdiction."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court — welfare-of-the-child substantive register",
+      "description": "Supreme Court of Bhutan continues to develop welfare-of-the-child jurisprudence under Child Care and Protection Act 2011 + Marriage Act 1980/1996 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within Mahayana-Buddhist-influenced welfare-of-the-child framing under GNH constitutional policy framework."
     }
   ],
   "structural_findings": [
-    "Bhutan operates a structurally distinctive globally Mahayana-Buddhist-influenced mixed-legal-system framework — Buddhist customary-law substantive (Driglam Namzha + Tsa Yig tradition) + English common-law procedural. Only Mahayana Buddhist constitutional-monarchy in the corpus.",
-    "Gross National Happiness (GNH) constitutional policy framework is structurally distinctive globally — only state with GNH as constitutional policy.",
-    "Constitutional-monarchy transition (2008) from absolute monarchy is structurally distinctive — rare voluntary transition pattern.",
-    "Non-Hague Convention status places Bhutan in the non-Hague South Asian cluster."
+    "Bhutan operates a structurally distinctive globally Mahayana-Buddhist-influenced mixed-legal-system framework — Buddhist customary-law substantive (Driglam Namzha + 1652 Tsa Yig tradition by Shabdrung Ngawang Namgyal) + English common-law procedural. Only Mahayana Buddhist constitutional-monarchy in the corpus.",
+    "Gross National Happiness (GNH) constitutional policy framework (Constitution Art. 9 2008) is structurally distinctive globally — only state with GNH as constitutional policy — providing the substantive normative frame within which family-law jurisprudence develops.",
+    "Constitutional-monarchy transition (2008) from absolute monarchy is structurally distinctive — rare voluntary king-driven transition pattern initiated by Druk Gyalpo Jigme Khesar Namgyel Wangchuck.",
+    "Among the earliest UNCRC-ratifying states globally (1 August 1990, within first year of CRC adoption) — places Bhutan within the early-UNCRC-ratifier cluster.",
+    "Multi-layer substantive-statutory framework: Tsa-Yig-1652 + Wangchuck-monarchy-1907 + Tshogdu-1953 + Marriage-and-Inheritance-Acts-1980 + UNCRC-1990 + Marriage-Act-1996 + Constitution-and-GNH-2008 + Child-Care-and-Protection-Act-2011 + DV-Prevention-Act-2013 + Civil-Criminal-Procedure-Code-2017 — gradual modernisation within Mahayana-Buddhist constitutional-monarchy framework.",
+    "Non-Hague-1980-Convention status places Bhutan in the non-Hague-South-Asian cluster alongside Nepal, Sri Lanka, Bangladesh, and Maldives.",
+    "Three-tier judicial hierarchy (Dzongkhag Courts → High Court → Supreme Court) consolidated under Civil and Criminal Procedure Code 2017 — provides structural family-law-adjudication framework."
   ],
   "references": [
     "jurisdiction:nepal",
@@ -102,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Bhutan jurisdiction sidecar — Mahayana-Buddhist-influenced mixed-legal-system Kingdom (Buddhist customary-law substantive + English common-law procedural + GNH constitutional policy + Child Care and Protection Act 2011 + Domestic Violence Prevention Act 2013 + non-Hague).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins South Asian + Mahayana-Buddhist-globally-distinctive cluster + GNH-constitutional-policy-globally-distinctive + non-Hague Convention clusters within the corpus."
+    "Bhutan jurisdiction sidecar v1.1 — deepened 2026-06-08 from 4 to 11 key_developments with full Tsa-Yig-to-contemporary trajectory: 1652-Tsa-Yig-Shabdrung-Ngawang-Namgyal + 1907-Wangchuck-monarchy-established + 1953-Tshogdu-National-Assembly + 1980-Marriage-and-Inheritance-Acts + 1990-UNCRC-ratification-early + 1996-Marriage-Act-revision + 2008-constitutional-monarchy-GNH-framework + 2011-Child-Care-and-Protection-Act + 2013-DV-Prevention-Act + 2017-Civil-Criminal-Procedure-Code-revision + 2024-Supreme-Court-welfare-of-the-child.",
+    "Mahayana-Buddhist-influenced mixed-legal-system Kingdom (Buddhist customary-law substantive Tsa Yig 1652 + Driglam Namzha + English common-law procedural + GNH constitutional policy + Marriage Act 1980/1996 + Child Care and Protection Act 2011 + Domestic Violence Prevention Act 2013 + Civil and Criminal Procedure Code 2017 + non-Hague).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Child Care and Protection Act 2011 within GNH-Mahayana-Buddhist framing without doctrinal 'parental alienation' label.",
+    "Joins South-Asian + Mahayana-Buddhist-globally-distinctive + Tsa-Yig-1652-customary-substrate + GNH-constitutional-policy-globally-distinctive + constitutional-monarchy-king-driven-transition + early-UNCRC-ratifier + non-Hague-South-Asian + three-tier-Dzongkhag-High-Supreme-judicial-hierarchy clusters within the corpus."
   ]
 }

@@ -84,29 +84,59 @@
   "anonymisation_convention": "Annexed-oblast decisions are anonymised per Russian (Russian-administered) or Ukrainian (Ukrainian-controlled) court practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Ukrainian independence + Soviet-collapse-+-Ukrainian-Family-Code-substantive-heritage framework",
+      "description": "Ukrainian declaration of independence 24 August 1991 + Soviet collapse — substantively distinctive Eastern European post-Soviet-Ukrainian-republic framework. Foundational substantive Ukrainian Family Code 2002 substantive heritage framework persisting through 2022 Russian annexation. Foundational pre-2014-DPR-LPR-declaration framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 2014,
-      "title": "DPR and LPR declared",
-      "description": "Donetsk People's Republic declared 7 April 2014 and Luhansk People's Republic declared 27 April 2014 following Russian annexation of Crimea — initially as unrecognised de-facto states with Russian support."
+      "title": "Crimea annexation + DPR-and-LPR-declared + Donbas-War framework",
+      "description": "Russian annexation of Crimea 18 March 2014 + Donetsk People's Republic declared 7 April 2014 + Luhansk People's Republic declared 27 April 2014 — substantively distinctive Eastern European 2014-Donbas-War-+-DPR-LPR-unrecognised-de-facto-states framework. Foundational pre-2022-full-scale-invasion framework affecting subsequent constitutional-democratic-trajectory and Minsk-Agreements-2014-2015 + 8-year-Donbas-conflict framework."
+    },
+    {
+      "year": 2015,
+      "title": "Minsk II Agreements + ceasefire-+-DPR-LPR-special-status framework",
+      "description": "Minsk II Agreements 12 February 2015 — substantively distinctive Eastern European ceasefire-+-DPR-LPR-special-status-within-Ukraine framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory through 2022 Russian withdrawal from Minsk framework + full-scale invasion."
     },
     {
       "year": 2022,
-      "title": "Russian recognition of DPR and LPR independence",
-      "description": "Russian Federation recognised DPR and LPR independence on 21 February 2022 — immediately before the 24 February 2022 full-scale Russian invasion of Ukraine."
+      "title": "Russian-recognition-of-DPR-and-LPR-independence + full-scale-Russian-invasion framework",
+      "description": "Russian Federation recognised DPR and LPR independence 21 February 2022 — substantively distinctive globally only-modern-recognition-of-separatist-republics-immediately-prior-to-full-scale-invasion-of-parent-state framework. Russian full-scale invasion of Ukraine 24 February 2022. Foundational substantive 2022-Russia-Ukraine-War framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory and UN Charter-violation framework."
     },
     {
       "year": 2022,
-      "title": "Annexation referendums",
-      "description": "Annexation referendums in DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast 23-27 September 2022 — not recognised by Ukraine and most other states."
+      "title": "Annexation referendums + 23-27-September-2022-+-Ukrainian-non-recognition framework",
+      "description": "Annexation referendums in DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast 23-27 September 2022 — substantively distinctive globally first-simultaneous-annexation-referendums-in-four-oblasts-by-UN-Permanent-Five-Security-Council-member-from-another-UN-member-state-in-modern-history framework. Not recognised by Ukraine and most other states. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2022,
-      "title": "Russian Federation Constitutional Amendment + annexation",
-      "description": "Russian Federation Constitutional Amendment of 30 September 2022 incorporating DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast as constituent federal subjects."
+      "title": "Russian Federation Constitutional Amendment + annexation-of-DPR-LPR-Kherson-Zaporizhzhia framework",
+      "description": "Russian Federation Constitutional Amendment 30 September 2022 incorporating DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast as constituent federal subjects — substantively distinctive globally largest-single-event-territorial-change-in-post-Cold-War-Europe framework. Substantive 108,000 km² + ~6 million population annexation framework. Foundational substantive Russian-constituent-subject framework affecting subsequent constitutional-democratic-trajectory and dual-family-law-framework."
     },
     {
       "year": 2022,
-      "title": "UNGA Resolution ES-11/4",
-      "description": "UN General Assembly Emergency Special Session Resolution declaring the annexation referendums invalid — 143 in favour, 5 against, 35 abstentions."
+      "title": "UNGA Resolution ES-11/4 + 143-in-favour-+-strongest-condemnation framework",
+      "description": "UN General Assembly Emergency Special Session Resolution ES-11/4 of 12 October 2022 declaring the annexation referendums invalid — substantively distinctive globally strongest-GA-condemnation-of-any-post-Cold-War-territorial-annexation framework (143 in favour vs 100 for Crimea Resolution 68/262, 5 against, 35 abstentions). Substantive international-law-non-recognition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "ICC-arrest-warrant-+-Putin-Lvova-Belova-child-deportation framework",
+      "description": "International Criminal Court arrest warrant 17 March 2023 against Vladimir Putin + Maria Lvova-Belova for war crime of unlawful deportation of Ukrainian children — substantively distinctive globally only-ICC-arrest-warrant-against-UN-Permanent-Five-Security-Council-member-head-of-state framework. Substantive Hague-Convention-applicability-+-cross-border-child-protection framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing-conflict + partial-Russian-administration-70-85-percent-DPR-LPR framework",
+      "description": "Continuing 2022-2024 Russia-Ukraine War with partial Russian administration of annexed oblasts (~70-85% of DPR/LPR, ~75% of Kherson/Zaporizhzhia) — substantively distinctive globally only-modern-formal-annexation-during-active-military-conflict-with-the-annexed-from-state framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-Putin-Zelenskyy-negotiations + ceasefire-discussions + continuing-partial-administration framework",
+      "description": "Trump-Putin-Zelenskyy ceasefire negotiations framework 2025 substantively significant institutional context affecting annexed oblasts framework. Continuing partial Russian administration of annexed oblasts (~75% of DPR/LPR + ~75% of Kherson/Zaporizhzhia per 2025 frontline) + Ukrainian counter-offensive framework + continuing UNGA Resolution ES-11/4 non-recognition framework substantively significant institutional context. Dual-apex-courts framework continues with Russian Federation Family Code 1995 + Ukrainian Family Code 2002 application. Substantively significant Eastern European actively-disputed-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Dual-apex-courts + Supreme Court of Russia + Supreme Court of Ukraine — dual-family-law substantive register + continuing-2022-Russia-Ukraine-War + contested-Hague-applicability framework",
+      "description": "Supreme Court of the Russian Federation + DPR Supreme Court + LPR Supreme Court (Russian administration) and Supreme Court of Ukraine (Verkhovnyi Sud, Ukrainian-controlled areas) continue to apply dual-family-law framework — Russian Federation Family Code 1995 chapters 11-12 in Russian-administered areas + Ukrainian Family Code 2002 in Ukrainian-controlled areas of same oblasts. Contested Hague Convention 1980 applicability — Ukrainian 2006 accession remains internationally recognised framework. Substantive analysis."
     }
   ],
   "structural_findings": [
@@ -150,8 +180,9 @@
     }
   ],
   "editorial_notes": [
-    "Russian-Annexed Ukrainian Oblasts 2022 jurisdiction sidecar — civil-law Eastern European actively-disputed-territory bundle (DPR + LPR + Kherson Oblast + Zaporizhzhia Oblast) with dual-family-law-framework (Russian Federation Family Code in Russian-administered areas + Ukrainian Family Code in Ukrainian-controlled areas) + Russian Federation Constitutional Amendment 30 September 2022 + UNGA Resolution ES-11/4 invalidation + DPR/LPR de-facto-state-to-annexed-subject transition + partial-territorial-administration + active-conflict-during-annexation + contested-Hague-applicability. First simultaneous annexation of four oblasts by UN P5 member globally + largest single-event territorial change in post-Cold-War Europe + only de-facto-state-to-annexed-subject transition + only modern formal annexation during active military conflict.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Eastern European + civil-law + actively-disputed-territory-bundle cluster + four-oblast-simultaneous-annexation-globally-distinctive + largest-post-Cold-War-Europe-territorial-change + de-facto-state-to-annexed-subject-transition + partial-territorial-administration + active-conflict-during-annexation + UNGA-Resolution-ES-11/4-condemnation + dual-family-law-framework + contested-Hague-applicability clusters within the corpus."
+    "Russian-Annexed Ukrainian Oblasts 2022 jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Ukrainian-independence-1991-to-continuing-2022-Russia-Ukraine-War trajectory: 1991-Ukrainian-independence + 2014-Crimea-annexation-+-DPR-LPR-declared + 2015-Minsk-II-Agreements + 2022-Russian-recognition-+-full-scale-invasion + 2022-annexation-referendums + 2022-Russian-Federation-Constitutional-Amendment + 2022-UNGA-Resolution-ES-11/4 + 2023-ICC-arrest-warrant-Putin-Lvova-Belova + 2024-continuing-conflict + 2024-dual-apex-courts-+-contested-Hague-applicability.",
+    "Civil-law Eastern European actively-disputed-territory bundle (DPR + LPR + Kherson Oblast + Zaporizhzhia Oblast) with dual-family-law-framework (Russian Federation Family Code 1995 in Russian-administered areas + Ukrainian Family Code 2002 in Ukrainian-controlled areas) + Russian Federation Constitutional Amendment 30 September 2022 + UNGA Resolution ES-11/4 invalidation + DPR/LPR de-facto-state-to-annexed-subject transition + partial-territorial-administration + active-conflict-during-annexation + contested-Hague-applicability. First simultaneous annexation of four oblasts by UN P5 member globally + largest single-event territorial change in post-Cold-War Europe + only de-facto-state-to-annexed-subject transition + only modern formal annexation during active military conflict + ICC arrest warrant against UN P5 head of state distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive dual-family-law analysis under Russian Federation Family Code 1995 chapters 11-12 (Russian-administered) + Ukrainian Family Code 2002 (Ukrainian-controlled) + contested Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Eastern-European + civil-law + actively-disputed-territory-bundle-cluster + four-oblast-simultaneous-annexation-by-UN-P5-member-globally-distinctive + largest-single-event-territorial-change-in-post-Cold-War-Europe-globally-distinctive + DPR-LPR-de-facto-state-to-annexed-subject-transition-2014-2022-globally-distinctive + partial-territorial-administration-70-85-percent + only-modern-formal-annexation-during-active-military-conflict-globally-distinctive + UNGA-Resolution-ES-11/4-143-in-favour-strongest-post-Cold-War-condemnation + ICC-arrest-warrant-Putin-Lvova-Belova-2023-child-deportation-globally-distinctive + dual-family-law-framework-Russian-+-Ukrainian + contested-Hague-applicability-Ukrainian-2006-accession-recognised + 2014-2015-Donbas-War-+-Minsk-II-Agreements + 2022-Russia-Ukraine-War clusters within the corpus."
   ]
 }

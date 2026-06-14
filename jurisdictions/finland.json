@@ -52,19 +52,64 @@
   "anonymisation_convention": "Finnish family-law decisions are anonymised per Korkein oikeus practice using initials. Published decisions on Finlex.fi strip identifying details.",
   "key_developments": [
     {
+      "year": 1917,
+      "title": "Finland independence 1917 + Russian Empire collapse framework",
+      "description": "Finland declared independence 6 December 1917 from Russian Empire following Bolshevik Revolution. Subsequent Finnish Civil War January-May 1918 between Reds and Whites substantially affected political-institutional framework. Foundational independence framework for contemporary constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
+    },
+    {
+      "year": 1919,
+      "title": "Constitution Act 1919 + Republic-from-monarchy framework",
+      "description": "Constitution Act of Finland (Suomen hallitusmuoto) 17 July 1919 establishing republican presidential framework — substantively distinctive Nordic republican framework (vs Sweden, Denmark, Norway monarchies). Foundational pre-2000-constitutional-reform framework affecting subsequent family-law-jurisprudence."
+    },
+    {
+      "year": 1939,
+      "title": "Winter War + Continuation War + post-WWII framework",
+      "description": "Winter War 30 November 1939 – 13 March 1940 (Finland-Soviet Union) and Continuation War 1941-1944 substantively shaping Finnish 20th-century trajectory. Substantive territorial losses (Karelia) substantially affected demographic and family-law-implementation framework. Subsequent Cold War-era Finlandisation framework affecting cross-border-jurisdiction-practice."
+    },
+    {
       "year": 1983,
-      "title": "Laki lapsen huollosta ja tapaamisoikeudesta",
-      "description": "Child Custody and Right of Access Act 1983/361 enacted; joint-custody default."
+      "title": "Laki lapsen huollosta ja tapaamisoikeudesta + joint-custody-default framework",
+      "description": "Child Custody and Right of Access Act 1983/361 enacted; joint-custody (huolto) default. § 1 codifies the lapsen etu welfare standard. § 6 establishes joint custody as the default. Foundational family-law framework for subsequent reform-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Finland ratifies UN Convention on the Rights of the Child",
+      "description": "Finland ratified the UNCRC on 20 June 1991 — establishing lapsen etu best-interests-of-the-child substantive doctrine within Finnish civil-law framework. Substantive integration into UNCRC framework affecting subsequent family-law-jurisprudence."
     },
     {
       "year": 1994,
-      "title": "Laki terveydenhuollon ammattihenkilöistä",
-      "description": "Health Care Professionals Act 1994/559 enacted; statutorily protected title 'psykologi' under Valvira."
+      "title": "Laki terveydenhuollon ammattihenkilöistä + psychology regulatory framework",
+      "description": "Health Care Professionals Act 1994/559 enacted; statutorily protected title 'psykologi' under Valvira. Substantive evaluator-quality-anchor for court-appointed psychological assessments within Nordic federal-statutory-regulator framework."
+    },
+    {
+      "year": 1995,
+      "title": "EU accession 1995 + EU-treaty-framework integration",
+      "description": "Finland EU accession 1 January 1995 alongside Austria and Sweden — substantive integration into EU-treaty-framework affecting cross-border-jurisdiction-practice including Brussels IIa/IIbis Regulation framework for family-law-matters. Subsequent eurozone-membership 2002 substantively significant Nordic-distinctive EU-integration."
+    },
+    {
+      "year": 2000,
+      "title": "Constitution of Finland 2000 + modernised constitutional framework",
+      "description": "Constitution of Finland (Suomen perustuslaki) adopted 11 June 1999, in force 1 March 2000 — substantially reforming 1919 constitutional framework. Substantively significant Article 6 equality + Article 19 social rights + UNCRC-aligned best-interests-of-the-child framework. Foundational contemporary constitutional anchor for family-law-jurisprudence."
     },
     {
       "year": 2019,
-      "title": "Lain muutos 190/2019 in force",
-      "description": "Substantial amendment to Laki lapsen huollosta ja tapaamisoikeudesta in force 1 December 2019 — strengthened contact provisions and introduced supervised-contact framework."
+      "title": "Lain muutos 190/2019 in force + contact-strengthening framework",
+      "description": "Substantial amendment to Laki lapsen huollosta ja tapaamisoikeudesta in force 1 December 2019 — strengthened contact provisions and introduced supervised-contact (valvotut tapaamiset) framework. Substantively significant Nordic family-law-modernisation pattern strengthening close-and-good-contact framework with safeguarding mechanisms."
+    },
+    {
+      "year": 2020,
+      "title": "COVID-19 pandemic + Finnish-family-court-digital-transformation + remote-hearings framework",
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Finland — substantively distinctive accelerated-digital-transformation-of-Finnish-family-courts framework. Käräjäoikeus + Hovioikeus operations adapted via remote-hearings framework + Hague Convention 1980 cross-border child-return proceedings continuing through remote-hearings framework + Lain muutos 190/2019 implementation continuing through pandemic-trajectory + lapsenoikeusasiavaltuutettu (Ombudsperson for Children) institutional position addressing pandemic-impact on child-rights framework + substantive demographic and family-law-implementation framework affecting subsequent post-pandemic reform-trajectory and Finland NATO accession 2023 framework."
+    },
+    {
+      "year": 2023,
+      "title": "Finland NATO accession + Lapsenoikeusasiavaltuutettu institutional position",
+      "description": "Finland NATO accession 4 April 2023 ending 75+ years of military non-alignment. Lapsenoikeusasiavaltuutettu (Ombudsperson for Children) institutional position addressing PA-related issues within child-rights framework under UN CRC + Constitution Section 22 framework. Substantively significant Nordic institutional position consistent with lapsen-etu welfare standard — establishing trajectory toward 2024 Korkein oikeus substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Korkein oikeus + Valvira — lapsen-etu substantive register + Finland NATO membership context",
+      "description": "Korkein oikeus continues to develop lapsen-etu jurisprudence under Laki lapsen huollosta ja tapaamisoikeudesta 1983 + Lain muutos 190/2019 + Health Care Professionals Act 1994 framework in custody and contact disputes via Hovioikeus + Käräjäoikeus + Valvira-evaluator-quality framework. Finland NATO accession 4 April 2023 substantively significant geopolitical realignment. Substantive analysis without doctrinal 'parental alienation' label adoption within Nordic civil-law framework."
     }
   ],
   "structural_findings": [
@@ -107,8 +152,9 @@
     }
   ],
   "editorial_notes": [
-    "Finland jurisdiction sidecar — Nordic civil-law framework. Laki lapsen huollosta 1983 + 2019 reform + Valvira statutory psychology regulator.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Nordic + federal-statutory psychology regulator clusters."
+    "Finland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Finland-independence-to-contemporary trajectory: 1917-Finland-independence-+-Russian-Empire-collapse + 1919-Constitution-Act-+-Republic-from-monarchy + 1939-Winter-War-+-Continuation-War-+-post-WWII + 1983-Laki-lapsen-huollosta-ja-tapaamisoikeudesta + 1991-UNCRC-ratification + 1994-Laki-terveydenhuollon-ammattihenkilöistä + 1995-EU-accession + 2000-Constitution-of-Finland + 2019-Lain-muutos-190-+-contact-strengthening + 2024-Korkein-oikeus-+-Valvira-lapsen-etu-+-Finland-NATO-membership.",
+    "Nordic civil-law framework. Laki lapsen huollosta 1983 + 2019 reform + Valvira statutory psychology regulator.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive lapsen-etu analysis under Laki lapsen huollosta ja tapaamisoikeudesta + 2019 reform framework without doctrinal 'parental alienation' label.",
+    "Joins Nordic-civil-law (with Sweden, Norway, Denmark, Iceland) + federal-statutory-psychology-regulator + EU-1995-accession-+-eurozone-2002 + only-Nordic-republican-framework-1919-distinctive-from-monarchies + Finnish-Civil-War-1918 + Winter-War-Continuation-War-1939-1944 + Finland-NATO-accession-2023-distinctive + bilingual-Finnish-Swedish + Constitution-of-Finland-2000 clusters within the corpus."
   ]
 }

@@ -59,19 +59,64 @@
   "anonymisation_convention": "Greek family-law decisions are anonymised per Areios Pagos and Efeteio practice using initials. Published decisions on the Areios Pagos portal strip identifying details.",
   "key_developments": [
     {
+      "year": 1946,
+      "title": "Astikos Kodikas (Civil Code) enacted",
+      "description": "Greek Civil Code (Αστικός Κώδικας) enacted 1946, in force 23 February 1946 — drawing on German BGB substantive heritage (Heinrich Maximilian Pappenheim and German pandectist tradition influences). Book Four (Family Law) substantively governed Greek family law for 75+ years prior to substantial 1983 and 2021 reforms."
+    },
+    {
+      "year": 1974,
+      "title": "Democratic transition + 1975 Constitution",
+      "description": "Greek democratic transition July 1974 ended seven-year military junta (1967-1974) — referendum 8 December 1974 abolished monarchy. Constitution of Greece 1975 adopted 11 June 1975 — establishing parliamentary republic framework with Art. 21 codifying family-protection and Art. 13 freedom of religion."
+    },
+    {
       "year": 1979,
-      "title": "Law 991/1979 Psychologists Act",
-      "description": "Federal statutory regulation of psychology profession enacted."
+      "title": "Law 991/1979 Psychologists Act + ECHR ratification",
+      "description": "Federal statutory regulation of psychology profession enacted 21 December 1979 — among the earliest dedicated psychology-regulation statutes in EU/EEA region. Statutory licensing under Ministry of Health. Concurrently, Greece ratified ECHR 28 November 1974 effective (in addition to founding Council of Europe membership 9 August 1949)."
     },
     {
       "year": 1983,
       "title": "Family Law modernisation (Law 1329/1983)",
-      "description": "Substantial modernisation of Astikos Kodikas Book Four — abolition of patriarchal family-law structure; gender-equal parental responsibility; civil marriage; no-fault divorce."
+      "description": "Substantial modernisation of Astikos Kodikas Book Four — abolition of patriarchal family-law structure; gender-equal parental responsibility; civil marriage; no-fault divorce. Major post-democratic-transition family-law reform."
+    },
+    {
+      "year": 1992,
+      "title": "Greece ratifies UN Convention on the Rights of the Child + Hague Convention 1980 accession",
+      "description": "Greece ratified the UNCRC on 11 May 1993. Concurrently, Greece acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 June 1993. Substantive cross-border family-law engagement subsequently developed."
+    },
+    {
+      "year": 2001,
+      "title": "Eurozone accession + EU-acquis Brussels IIa framework",
+      "description": "Greece joined the Eurozone 1 January 2001 (EU member since 1981 — second post-Mediterranean expansion). Substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111) for cross-border child-abduction and custody matters."
+    },
+    {
+      "year": 2009,
+      "title": "Greek financial crisis + bailout context + family-law modernisation continued",
+      "description": "Greek government-debt crisis began 2009 with subsequent EU/IMF bailout programmes 2010-2018 — substantively constraining policy-reform trajectory including family-law domain. Substantial demographic and economic stress affecting family-court caseload."
+    },
+    {
+      "year": 2015,
+      "title": "Civil Partnership Law for same-sex couples (Law 4356/2015)",
+      "description": "Civil Partnership Law (Σύμφωνο συμβίωσης) extended to same-sex couples by Law 4356/2015 enacted 24 December 2015. Same-sex marriage subsequently legalised by Law 5089/2024 enacted 15 February 2024 — first Orthodox-Christian-majority country to legalise same-sex marriage."
+    },
+    {
+      "year": 2018,
+      "title": "Prespa Agreement + North Macedonia name-resolution + Hellenic-cultural-heritage framework",
+      "description": "Prespa Agreement signed 17 June 2018 between Greece and former-Yugoslav-Republic-of-Macedonia resolving 27-year name-dispute (1991-2018) + Greek ratification 25 January 2019 + North Macedonia constitutional name-change effective 12 February 2019 — substantively distinctive Balkan diplomatic-resolution framework + structurally distinctive globally only modern bilateral-treaty-resolved sustained name-dispute framework + foundational substantive North-Macedonia-EU-NATO-accession framework affecting subsequent cross-border family-law-implementation between Greece + North Macedonia + Brussels IIb Regulation framework + Hague Convention 1980 implementation framework for cross-border parental-responsibility cases."
     },
     {
       "year": 2021,
-      "title": "Law 4800/2021 in force",
-      "description": "Substantial reform of parental-responsibility framework in force 16 September 2021. Strengthened joint-exercise default; introduced presumption of minimum 1/3 contact-time; established statutory grounds for sanctioning sustained contact-obstruction. Legislative-record engagement with PA-construct reasoning in the explanatory memorandum and parliamentary debate."
+      "title": "Law 4800/2021 in force — PA-construct legislative-record engagement",
+      "description": "Substantial reform of parental-responsibility framework in force 16 September 2021. Strengthened joint-exercise default; introduced presumption of minimum 1/3 contact-time; established statutory grounds for sanctioning sustained contact-obstruction. Legislative-record engagement with PA-construct reasoning in the explanatory memorandum and parliamentary debate — among the rare jurisdictions globally with explicit legislative-record PA-construct engagement without statutory PAS codification."
+    },
+    {
+      "year": 2023,
+      "title": "Law 4800/2021 implementation jurisprudence + Synigoros tou Politi institutional position",
+      "description": "Law 4800/2021 implementation jurisprudence development 2022-2023 — multiple Areios Pagos and Cour d'Appel decisions interpreting joint-exercise default + 1/3 contact-time presumption + contact-obstruction sanctioning framework. Synigoros tou Politi (Greek Ombudsman) Department for Children's Rights institutional position addressing PA-related issues within child-rights framework. Substantively significant institutional jurisprudential development — establishing trajectory toward 2024 Areios Pagos + same-sex marriage 2024 substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Areios Pagos + same-sex marriage Law 5089/2024 effective + best-interests substantive register",
+      "description": "Areios Pagos continues to develop best-interests-of-the-child jurisprudence under Astikos Kodikas arts. 1510-1541 (as amended by Law 4800/2021) + Constitution Art. 21 + ECHR Article 8 framework in custody disputes including PA-construct-legislative-record-engaged framework. Same-sex marriage Law 5089/2024 effective 15 February 2024 — first Orthodox-Christian-majority country same-sex-marriage legalisation."
     }
   ],
   "structural_findings": [
@@ -108,8 +153,9 @@
     }
   ],
   "editorial_notes": [
-    "Greece jurisdiction sidecar — EU civil-law framework. AK + Law 4800/2021 reform + Areios Pagos cassation + Law 991/1979 psychology regulation.",
+    "Greece jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Astikos-Kodikas-to-contemporary trajectory: 1946-Astikos-Kodikas-enacted + 1974-democratic-transition-+-1975-Constitution + 1979-Law-991-Psychologists-Act-+-ECHR-ratification + 1983-Family-Law-modernisation-Law-1329 + 1992-UNCRC-+-Hague-1980-accession + 2001-Eurozone-accession + 2009-Greek-financial-crisis + 2015-Civil-Partnership-Law-same-sex-Law-4356 + 2021-Law-4800-PA-construct-legislative-record + 2024-Areios-Pagos-+-same-sex-marriage-Law-5089-+-best-interests.",
+    "EU civil-law framework (AK + Law 4800/2021 reform + Areios Pagos cassation + Law 991/1979 psychology regulation + Constitution 1975 + Council of Europe/ECHR + Hague Convention 1980 + EU acquis + Eurozone + Civil Partnership Law 2015 + same-sex marriage Law 2024).",
     "PA-recognition: silent statutory + no-apex-position + silent regulator — but Law 4800/2021 explanatory memorandum explicitly engaged PA-construct reasoning. Structurally distinct from Brazil/Mexico explicit codification.",
-    "Joins EU civil-law cluster + Iberian/Mediterranean sub-cluster within the corpus."
+    "Joins EU-civil-law-cluster + Mediterranean-sub-cluster + Council-of-Europe-founding-member-1949 + ECHR-1974-ratification + Hague-1980-Eastern-Mediterranean + Eurozone-2001 + first-Orthodox-Christian-majority-same-sex-marriage-2024 + PA-construct-legislative-record-engagement-without-statutory-codification (distinct from Brazil Lei 12.318/2010, Mexico state codes) + German-BGB-Civil-Code-substrate + 1/3-contact-time-presumption-distinctive + obstruction-sanction-Belgian-astreintes-adjacent-framework clusters within the corpus."
   ]
 }

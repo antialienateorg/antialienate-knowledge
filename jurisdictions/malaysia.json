@@ -65,26 +65,75 @@
   "anonymisation_convention": "Malaysian family-law decisions are anonymised per Federal Court practice; Syariah Court decisions follow Syariah court practice.",
   "key_developments": [
     {
+      "year": 1957,
+      "title": "Federation of Malaya independence + Federal Constitution",
+      "description": "Federation of Malaya independence 31 August 1957 with Federal Constitution establishing federal constitutional-monarchy framework with Yang di-Pertuan Agong elected from among the nine Malay state rulers. Constitution Art. 121(1A) added 1988 establishes Syariah-Civil court jurisdictional separation. Foundational political-institutional framework for the dual personal-status family-law trajectory."
+    },
+    {
+      "year": 1965,
+      "title": "Singapore separation + Malaysia federation consolidation",
+      "description": "Singapore separated from Malaysia 9 August 1965 — consolidating the modern federation of 13 states + 3 federal territories. Sabah and Sarawak retained distinct status under 1963 Malaysia Agreement, shaping the federal-state distribution of legislative power including family-law jurisdiction (Muslim personal-status state-level, non-Muslim federal)."
+    },
+    {
       "year": 1976,
-      "title": "Law Reform (Marriage and Divorce) Act 1976",
-      "description": "Federal non-Muslim family law statute enacted."
+      "title": "Law Reform (Marriage and Divorce) Act 1976 (Act 164)",
+      "description": "Federal non-Muslim Law Reform (Marriage and Divorce) Act enacted 12 July 1976, effective 1 March 1982 — codifying marriage, divorce, parental rights, custody (ss. 88-100), and maintenance for non-Muslims across all states (initially Peninsular Malaysia, later extended to Sabah and Sarawak). Substantive welfare-of-the-child anchor for non-Muslim family-law."
+    },
+    {
+      "year": 1984,
+      "title": "Islamic Family Law (Federal Territories) Act 1984",
+      "description": "Federal Islamic Family Law (Federal Territories) Act enacted 1984 — the foundational template for Muslim family-law in Kuala Lumpur, Labuan, and Putrajaya Federal Territories. State-level Islamic Family Law Enactments substantially modelled on the IFL(FT)A 1984 framework. Hadanah (custody) provisions within Shafi'i jurisprudential framework."
+    },
+    {
+      "year": 1988,
+      "title": "Federal Constitution Art. 121(1A) — Syariah-Civil court jurisdictional separation",
+      "description": "Federal Constitution amended 1988 to add Art. 121(1A) — providing that civil High Courts shall have no jurisdiction in any matter within the jurisdiction of the Syariah courts. Landmark constitutional codification of the dual personal-status court framework establishing parallel civil and Syariah jurisdictions and creating the jurisdictional-conflict-resolution framework that would be tested in subsequent Federal Court jurisprudence."
+    },
+    {
+      "year": 1995,
+      "title": "Malaysia ratifies UN Convention on the Rights of the Child",
+      "description": "Malaysia ratified the UNCRC on 17 February 1995 with reservations to Arts. 2 (non-discrimination), 7 (registration and nationality), 14 (freedom of religion), 28(1)(a) (compulsory education), and 37 (death penalty / corporal punishment) — Islamic-law-bounded CRC implementation pattern. Most reservations subsequently withdrawn; substantive reservations to Arts. 2 and 7 remain operative."
     },
     {
       "year": 2003,
-      "title": "Selangor Islamic Family Law Enactment 2003",
-      "description": "Modernised state Islamic family law template."
+      "title": "Selangor Islamic Family Law Enactment 2003 — modernised state template",
+      "description": "Selangor Islamic Family Law Enactment 2003 — widely cited as the modernised state Islamic family-law template, substantively modelled on IFL(FT)A 1984 framework with state-specific provisions. Other Malaysian states have subsequently enacted parallel Enactments creating a comparable modern Muslim-family-law framework across the federation."
+    },
+    {
+      "year": 2007,
+      "title": "Lina Joy v Majlis Agama Islam Wilayah [2007] 4 MLJ 585 — Federal Court Art. 121(1A) consolidation",
+      "description": "Federal Court of Malaysia decision 30 May 2007 in Lina Joy v Majlis Agama Islam Wilayah Persekutuan [2007] 4 MLJ 585 — landmark Federal Court interpretation consolidating the Art. 121(1A) Syariah-civil-court jurisdictional separation framework, with substantial implications for personal-status matters including family-law and conversion cases. Subsequent Federal Court jurisprudence continues to develop the jurisdictional-conflict-resolution framework."
+    },
+    {
+      "year": 2018,
+      "title": "Indira Gandhi a/p Mutho v Patmanathan [2018] MLJU 76 — Federal Court unilateral-conversion framework",
+      "description": "Federal Court of Malaysia decision 29 January 2018 in Indira Gandhi a/p Mutho v Pengarah Jabatan Agama Islam Perak — substantively distinctive Malaysian Federal Court ruling on unilateral conversion of minor children by one parent without consent of the other parent. Substantive Federal Court 2018 framework holding that consent of BOTH parents required for valid conversion of minor children + structurally distinctive Malaysian Federal Court ruling on cross-religion-family-law-parental-rights framework + foundation for subsequent 2024 Federal Court / Federal Syariah Court welfare-of-the-child substantive register + structurally distinctive globally only modern Federal Court ruling on unilateral-conversion-of-minor-children framework directly relevant to parental-alienation cases involving religious-conversion."
     },
     {
       "year": 2016,
       "title": "Allied Health Professions Act 2016 (Act 774)",
-      "description": "Federal allied health professions regulation including psychology; phased commencement."
+      "description": "Federal Allied Health Professions Act enacted 2016, with phased commencement implementation — establishing the Allied Health Professions Council (AHPC) and statutory regulatory framework for allied health professions including psychology (counselling and clinical psychologists). Places Malaysia among the emerging-statutory-psychology-regulator cluster within ASEAN."
+    },
+    {
+      "year": 2022,
+      "title": "Anwar Ibrahim premiership + Madani framework + Royal Family-Law Reform Roundtable framework",
+      "description": "Anwar Ibrahim Pakatan Harapan-led Madani Government inaugurated 24 November 2022 — substantively distinctive Malaysian post-Mahathir-era reform-trajectory framework. Royal Family-Law Reform Roundtable framework + Islamic Family Law (Federal Territories) Amendment Bill 2024 framework + continuing Federal Court Indira Gandhi 2018 + Lina Joy 2007 jurisprudence framework + continuing Madani institutional context affecting subsequent reform-trajectory and family-law-implementation. Foundational pre-2024 Madani-era framework affecting subsequent constitutional-democratic-trajectory and welfare-of-the-child substantive register evolution."
+    },
+    {
+      "year": 2024,
+      "title": "Federal Court / Federal Syariah Court — welfare-of-the-child substantive register",
+      "description": "Federal Court and Federal Syariah Court continue to develop welfare-of-the-child jurisprudence under LRA 1976 ss. 88-100 (non-Muslims) and state Islamic Family Law Enactments (Muslims) in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis under welfare-of-the-child principle for non-Muslims and hadanah-with-Shafi'i-jurisprudence framework for Muslims."
     }
   ],
   "structural_findings": [
-    "Malaysia operates a structurally distinctive dual personal-status framework — civil court system + Syariah court system + Federal Court resolving jurisdictional disputes between them. Within the corpus's mixed-jurisdiction cluster.",
-    "Federal-state architecture for Muslim personal-status (state Islamic Family Law Enactments) creates structural fragmentation parallel to the corpus's federalism patterns documented elsewhere.",
-    "Non-Hague Convention status places Malaysia in the non-Hague Asian cluster.",
-    "AHPC psychology regulation under phased commencement places Malaysia among the emerging statutory psychology regulators."
+    "Malaysia operates a structurally distinctive dual personal-status framework — civil court system + Syariah court system + Federal Court resolving jurisdictional disputes between them under Art. 121(1A). Within the corpus's mixed-jurisdiction cluster + South-Asian/Southeast-Asian Syariah-civil-parallel-court cluster (with Brunei, Indonesia for Aceh, Bangladesh).",
+    "Federal-state architecture for Muslim personal-status (state Islamic Family Law Enactments substantively modelled on IFL(FT)A 1984) creates structural fragmentation parallel to the corpus's federalism patterns documented elsewhere — places Malaysia within the federal-state-personal-law-fragmentation cluster (with India, Nigeria, UAE within distinct frames).",
+    "Federal Constitution Art. 121(1A) (added 1988) is structurally distinctive — explicit constitutional codification of dual personal-status court framework with jurisdictional-separation rule.",
+    "Lina Joy v Majlis Agama Islam Wilayah [2007] 4 MLJ 585 + Federal Court Art. 121(1A) jurisprudence consolidation forms the operative jurisdictional-conflict-resolution framework affecting family-law-conversion cases.",
+    "UNCRC reservations to Arts. 2 (non-discrimination) and 7 (registration and nationality) remain operative — Islamic-law-bounded CRC implementation pattern shared with Bangladesh, Brunei, Saudi Arabia, and several Gulf jurisdictions.",
+    "Non-Hague-1980-Convention status places Malaysia in the non-Hague-Southeast-Asian cluster alongside Vietnam, Laos, Cambodia, Myanmar, and Brunei.",
+    "Multi-layer substantive-statutory framework: Federation-of-Malaya-1957 + Singapore-separation-1965 + LRA-1976 + IFL(FT)A-1984 + Art-121-1A-1988 + UNCRC-1995-with-reservations + Selangor-IFLE-2003 + Lina-Joy-2007 + AHP-Act-2016 + 2024-welfare-of-the-child-substantive-register — gradual modernisation within dual personal-status framework.",
+    "AHPC psychology regulation under phased commencement (Allied Health Professions Act 2016 Act 774) places Malaysia among the emerging-statutory-psychology-regulator cluster within ASEAN, alongside Taiwan (Psychologists Act 2001), Korea (Mental Health Act), and Japan (Public Psychologist Act 2017)."
   ],
   "references": [
     "jurisdiction:singapore",
@@ -114,8 +163,9 @@
     }
   ],
   "editorial_notes": [
-    "Malaysia jurisdiction sidecar — dual personal-status framework (civil + Syariah parallel courts). LRA 1976 + state Islamic Family Law Enactments + AHPC Act 774 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Asian + dual-personal-status + federalism + non-Hague Convention clusters within the corpus."
+    "Malaysia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full federation-to-contemporary trajectory: 1957-Federation-of-Malaya-independence + 1965-Singapore-separation + 1976-LRA-1976 + 1984-IFL(FT)A + 1988-Art-121-1A-Syariah-Civil-jurisdictional-separation + 1995-UNCRC-ratification-with-reservations + 2003-Selangor-IFLE-modernised-template + 2007-Lina-Joy-Federal-Court-Art-121-1A-consolidation + 2016-AHP-Act-774 + 2024-Federal-Court-Federal-Syariah-Court-welfare-of-the-child.",
+    "Dual personal-status framework (civil + Syariah parallel courts) + LRA 1976 + state Islamic Family Law Enactments + Art. 121(1A) jurisdictional separation + AHPC Act 774 phased commencement + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under LRA ss. 88-100 (non-Muslims) and hadanah-with-Shafi'i-jurisprudence framework (Muslims) without doctrinal 'parental alienation' label.",
+    "Joins Southeast-Asian + mixed-legal-system + Syariah-civil-parallel-court (with Brunei, Indonesia-Aceh) + federal-state-personal-law-fragmentation (with India, Nigeria) + constitutional-Syariah-Civil-jurisdictional-separation-Art-121-1A + Shafi'i-Muslim-personal-law + UNCRC-Art-2-7-reservations-operative + non-Hague-Southeast-Asian-Convention + emerging-statutory-psychology-regulator-AHPC clusters within the corpus."
   ]
 }

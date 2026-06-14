@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "guadeloupe",
+  "name": "Guadeloupe (Région et Département de la Guadeloupe / French DOM-ROM)",
+  "jurisdiction_code": "GP",
+  "legal_system": "civil-law (French DOM-ROM)",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "Guadeloupe is a French Département d'Outre-Mer / Région d'Outre-Mer (DOM-ROM) operating French civil-law family-law framework under Code civil arts. 371-1 to 387ter (autorité parentale). Family courts operate under the Loi du 27 juin 2018 instituant le juge aux affaires familiales (JAF) framework with French civil-law procedural framework via Tribunal Judiciaire de Pointe-à-Pitre and Tribunal Judiciaire de Basse-Terre. The statutory framework is silent on the 'aliénation parentale' label. The Cour d'appel de Basse-Terre and Cour de cassation develop intérêt supérieur de l'enfant jurisprudence within French DOM framework. EU Brussels IIb framework applies — operationally significant for cross-border family-law adjudication including expatriate-population and metropolitan-France diaspora cases. Substantively significant Caribbean French overseas department framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Code civil arts. 371-1 à 387ter",
+      "title": "Autorité parentale (Code civil français applicable au DOM)",
+      "year": 1995,
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/",
+      "relevance": "Primary statutory basis for parental authority — French Code civil arts. 371-1 et seq. applicable to Guadeloupe as French DOM. Establishes autorité parentale conjointe (joint parental authority) framework."
+    },
+    {
+      "citation": "Loi du 27 juin 2018 (JAF)",
+      "title": "Loi instituant le juge aux affaires familiales (applicable au DOM)",
+      "year": 2018,
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037128810",
+      "relevance": "Loi du 27 juin 2018 establishing juge aux affaires familiales (JAF) framework applicable to Guadeloupe Tribunal Judiciaire framework."
+    },
+    {
+      "citation": "EU Regulation 2019/1111 (Brussels IIb)",
+      "title": "EU cross-border family-law coordination",
+      "year": 2019,
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111",
+      "relevance": "EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters — operationally significant for Guadeloupe's substantial metropolitan-France diaspora and Caribbean cross-border family-law caseload."
+    },
+    {
+      "citation": "Loi n° 2019-1480 (Loi Pradié)",
+      "title": "Loi visant à agir contre les violences au sein de la famille",
+      "year": 2019,
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039684243",
+      "relevance": "Loi Pradié applicable to Guadeloupe as French DOM — strengthens ordonnance de protection regime and limits contact orders where DV is established."
+    },
+    {
+      "citation": "Convention d'Istanbul (applicable au DOM)",
+      "title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "year": 2014,
+      "url": "https://rm.coe.int/168008482e",
+      "relevance": "Ratified by France 4 July 2014, applicable to Guadeloupe as French DOM."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Cour de cassation (chambre civile 1ère)",
+      "seat": "Paris",
+      "role": "Apex court for civil matters including family law (applicable to Guadeloupe as French DOM)"
+    },
+    {
+      "name": "Cour d'appel de Basse-Terre",
+      "seat": "Basse-Terre",
+      "role": "Intermediate appellate court for Guadeloupe family-law matters"
+    },
+    {
+      "name": "Tribunal Judiciaire de Pointe-à-Pitre + Tribunal Judiciaire de Basse-Terre",
+      "seat": "Pointe-à-Pitre + Basse-Terre",
+      "role": "First-instance family courts including JAF framework"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1635,
+      "title": "French colonisation + Compagnie des Îles d'Amérique framework",
+      "description": "French colonisation of Guadeloupe 1635 under Compagnie des Îles d'Amérique. Substantively foundational French Caribbean civil-law framework — operational basis for subsequent 17th-21st century family-law framework establishment."
+    },
+    {
+      "year": 1848,
+      "title": "Abolition of slavery + Schoelcher Decree framework",
+      "description": "Abolition of slavery in French colonies 27 April 1848 (Schoelcher Decree). Substantively foundational post-slavery civil-law framework reform — establishing trajectory toward French citizenship extension and full civil-law incorporation."
+    },
+    {
+      "year": 1946,
+      "title": "Guadeloupe DOM status + French Constitution 1946",
+      "description": "Guadeloupe became French Département d'Outre-Mer 19 March 1946 under French Constitution 1946. Substantively foundational DOM status framework — establishing trajectory toward full French civil-law framework applicability."
+    },
+    {
+      "year": 1982,
+      "title": "Decentralisation laws + Region creation framework",
+      "description": "Decentralisation laws 1982 (Loi Defferre) creating Guadeloupe Region — substantively significant institutional reform establishing dual department + region framework."
+    },
+    {
+      "year": 1993,
+      "title": "Loi du 22 décembre 1993 — autorité parentale conjointe framework",
+      "description": "Loi du 22 décembre 1993 applicable to Guadeloupe as French DOM establishing autorité parentale conjointe framework. Substantively significant gender-equal parental-rights reform."
+    },
+    {
+      "year": 2002,
+      "title": "Loi n° 2002-305 + autorité parentale comprehensive reform",
+      "description": "Loi n° 2002-305 du 4 mars 2002 applicable to Guadeloupe as French DOM comprehensively restructuring Code civil parental-authority framework. Substantively foundational current parental-authority framework."
+    },
+    {
+      "year": 2009,
+      "title": "2009 General Strike + LKP framework + social-context framework",
+      "description": "Guadeloupe 2009 General Strike (LKP — Liyannaj Kont Pwofitasyon) January-March 2009 — substantively distinctive Caribbean post-colonial social-context framework affecting institutional context. Subsequent reform agreements substantively affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2018,
+      "title": "Loi du 27 juin 2018 — JAF framework applicable to DOM",
+      "description": "Loi du 27 juin 2018 establishing JAF framework applicable to Guadeloupe Tribunal Judiciaire framework. Substantively significant institutional reform consolidating French DOM family-law procedural framework."
+    },
+    {
+      "year": 2019,
+      "title": "Loi Pradié 2019 + ordonnance de protection framework + Brussels IIb",
+      "description": "Loi Pradié 2019 applicable to Guadeloupe as French DOM. EU Regulation 2019/1111 Brussels IIb subsequently effective 1 August 2022. Substantively significant for DV-PA-allegation intersection cases and cross-border family-law adjudication."
+    },
+    {
+      "year": 2022,
+      "title": "Continuing social-tensions framework + Caribbean integration framework + AFD framework",
+      "description": "Continuing post-2009 social-tensions framework through 2022. Caribbean integration framework substantively significant for cross-border family-law adjudication with neighbouring Anglophone Caribbean states. Agence Française de Développement (AFD) framework substantively significant institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Cour d'appel de Basse-Terre + Cour de cassation + JAF — intérêt supérieur de l'enfant substantive register",
+      "description": "Cour d'appel de Basse-Terre, Cour de cassation, and JAF continue to develop intérêt supérieur de l'enfant jurisprudence under Code civil + Loi 2018 + Brussels IIb framework in custody disputes within French DOM framework. Substantive analysis without doctrinal 'aliénation parentale' label adoption — consistent with metropolitan France HAS non-validation + Défenseure des droits institutional-critique register."
+    }
+  ],
+  "structural_findings": [
+    "Guadeloupe operates structurally as French DOM-ROM civil-law family-law framework — French Code civil + Loi 2018 JAF + EU Brussels IIb applicable as French DOM — with substantive intérêt supérieur de l'enfant analysis consistent with metropolitan France institutional-critique register without doctrinal 'aliénation parentale' label adoption.",
+    "Guadeloupe's substantial metropolitan-France diaspora and Caribbean cross-border framework operationally creates distinctive cross-border family-law adjudication context — substantively significant for cross-border family-law adjudication including expatriate-population cases.",
+    "Caribbean DOM framework (alongside Martinique, French Guiana, Mayotte, Réunion) operationally creates structurally distinctive French overseas department family-law adjudication framework — substantively distinguishing DOM framework from COM (collectivité d'outre-mer) framework (New Caledonia, French Polynesia, Wallis and Futuna)."
+  ],
+  "editorial_notes": [
+    "Guadeloupe's French DOM status operationally creates full French civil-law framework applicability — substantively distinguishing DOM framework from COM framework where local-law adaptation competence may apply.",
+    "Cross-border family-law adjudication with neighbouring Anglophone Caribbean states substantively significant institutional context — making Guadeloupe a critical French-Caribbean comparative-law data point."
+  ]
+}

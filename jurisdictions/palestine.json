@@ -67,34 +67,59 @@
   "anonymisation_convention": "Palestinian family-court decisions are anonymised per Sharia Court of Appeals practice using initials.",
   "key_developments": [
     {
+      "year": 1922,
+      "title": "British Mandate of Palestine + League-of-Nations-Mandate framework",
+      "description": "British Mandate of Palestine established 24 July 1922 by League of Nations — substantively distinctive Levantine British-Mandate-+-Balfour-Declaration-framework framework. Foundational substantive 26-year British-Mandate framework persisting through 1948 termination affecting subsequent constitutional-administrative-trajectory and multi-layer-mixed-legal-system framework."
+    },
+    {
+      "year": 1948,
+      "title": "Nakba + Palestinian-displacement + Israeli-state-establishment-+-Jordanian-West-Bank-+-Egyptian-Gaza-administration framework",
+      "description": "Nakba (Palestinian Catastrophe) May 1948 + Israeli state establishment 14 May 1948 + Jordanian West Bank administration + Egyptian Gaza administration — substantively distinctive globally Palestinian-displacement-+-multi-layer-legal-system-fragmentation framework. Foundational substantive demographic + family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory. ~700,000-750,000 Palestinians displaced."
+    },
+    {
       "year": 1954,
-      "title": "Egyptian Family Status Law 1954 (Gaza)",
-      "description": "Egyptian Family Status Law applied in Gaza Strip under Egyptian administration."
+      "title": "Egyptian Family Status Law 1954 + Gaza-residual-application framework",
+      "description": "Egyptian Family Status Law 1954 applied in Gaza Strip under Egyptian administration — substantively significant Levantine Egyptian-Family-Status-Law-Gaza-residual framework. Arts. 25-45 govern hadana (custody) and wilaya (guardianship). Foundational substantive Gaza-family-law framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1967,
+      "title": "Six-Day War + Israeli-military-occupation-+-West-Bank-+-Gaza-+-East-Jerusalem framework",
+      "description": "Six-Day War 5-10 June 1967 + Israeli military occupation of West Bank + Gaza + East Jerusalem — substantively distinctive Levantine Israeli-military-order-legal-system-layer framework. Foundational substantive 59-year Israeli-military-occupation framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1976,
-      "title": "Jordanian Personal Status Law 1976 (West Bank)",
-      "description": "Jordanian Personal Status Law applied in West Bank under Jordanian administration."
+      "title": "Jordanian Personal Status Law 1976 + West-Bank-residual-application framework",
+      "description": "Jordanian Personal Status Law 1976 applied in West Bank under Jordanian administration — substantively significant Levantine Jordanian-Personal-Status-Law-West-Bank-residual framework drawing on Hanafi Sunni Islamic jurisprudence. Arts. 154-180 govern hadana (custody) and wilaya (guardianship). Foundational substantive West-Bank-family-law framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 1993,
-      "title": "Oslo Accords + Palestinian Authority establishment",
-      "description": "Oslo Accords established Palestinian Authority with partial civil-administrative jurisdiction in West Bank and Gaza."
+      "title": "Oslo Accords + Palestinian-Authority-establishment framework",
+      "description": "Oslo Accords (Declaration of Principles 13 September 1993) + Oslo II Interim Agreement 28 September 1995 established Palestinian Authority with partial civil-administrative jurisdiction in West Bank and Gaza — substantively distinctive globally Palestinian-Authority-partial-civil-administrative-jurisdiction framework. Foundational substantive 33-year Palestinian-Authority framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2003,
-      "title": "Palestinian Basic Law",
-      "description": "Constitutional framework establishing Palestinian Authority institutional structure."
+      "title": "Palestinian Basic Law + constitutional-framework framework",
+      "description": "Palestinian Basic Law 2003 enacted establishing Palestinian Authority institutional structure — substantively significant Levantine Palestinian-Authority-constitutional-anchor framework. Foundational substantive constitutional anchor for contemporary family-law jurisprudence."
     },
     {
       "year": 2008,
-      "title": "Law on Family Protection from Violence (Law 7/2008)",
-      "description": "Palestinian Authority law on family violence prevention."
+      "title": "Law on Family Protection from Violence + Law-7/2008 framework",
+      "description": "Palestinian Authority Law 7/2008 on Family Protection from Violence enacted establishing family violence prevention framework — substantively significant Levantine family-protection-from-violence framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2012,
-      "title": "UN observer state status",
-      "description": "Palestine recognised as UN observer state by General Assembly Resolution 67/19."
+      "title": "UN observer state status + UNGA-Resolution-67/19-+-138-recognising-states framework",
+      "description": "Palestine recognised as UN observer state by General Assembly Resolution 67/19 of 29 November 2012 — substantively distinctive globally partial-recognition-+-138-UN-member-states-recognition framework. Substantive partial-recognition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Palestinian Independent Commission for Human Rights + Sharia Court of Appeal framework + UNRWA family-law coordination",
+      "description": "Palestinian Independent Commission for Human Rights (ICHR) institutional position addressing PA-related issues within Personal Status Law 1976 (West Bank) + Personal Status Law 1954 (Gaza) + Sharia Court of Appeal framework. UNRWA family-law coordination framework substantively significant for refugee family-law adjudication across West Bank/Gaza/Lebanon/Syria/Jordan camps. Substantively significant Levant institutional context establishing trajectory toward 2024 Gaza war substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Gaza-war-2023-+-ICJ-South-Africa-v-Israel + Palestinian-Authority-Hamas-Gaza-administration context framework",
+      "description": "2023-2024 Gaza war following 7 October 2023 Hamas attack on Israel + ICJ South Africa v Israel proceedings + 19 July 2024 ICJ Advisory Opinion on Israeli Settlements Wall + 2024 UNGA Resolution 79/3 (Israeli withdrawal demand) — substantively distinctive globally ongoing-armed-conflict-+-ICJ-proceedings-context framework. Substantive demographic + family-law-implementation disruption + apex-international-court-context affecting subsequent constitutional-democratic-trajectory."
     }
   ],
   "structural_findings": [
@@ -131,8 +156,9 @@
     }
   ],
   "editorial_notes": [
-    "Palestine jurisdiction sidecar — multi-layer mixed-legal-system Levantine (Jordanian-Personal-Status-West-Bank + Egyptian-Family-Status-Gaza + Palestinian Authority Basic Law + Hanafi Sunni Islamic + ecclesiastical communities + non-Hague). Most layered legal-system in corpus. UN observer state.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Levantine + multi-layer-mixed-legal-system + geographic-fragmentation-distinctive + UN-observer-state-cluster + non-Hague Convention clusters within the corpus."
+    "Palestine jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full British-Mandate-1922-to-Gaza-war-2023-2024-+-ICJ-proceedings trajectory: 1922-British-Mandate-of-Palestine + 1948-Nakba-+-Israeli-state-+-Jordanian-West-Bank-+-Egyptian-Gaza + 1954-Egyptian-Family-Status-Law-Gaza + 1967-Six-Day-War-+-Israeli-military-occupation + 1976-Jordanian-Personal-Status-Law-West-Bank + 1993-Oslo-Accords-+-Palestinian-Authority + 2003-Palestinian-Basic-Law + 2008-Law-on-Family-Protection-from-Violence-7/2008 + 2012-UN-observer-state-status + 2024-Gaza-war-+-ICJ-South-Africa-v-Israel.",
+    "Multi-layer mixed-legal-system Levantine (Jordanian-Personal-Status-West-Bank + Egyptian-Family-Status-Gaza + Palestinian Authority Basic Law + Hanafi Sunni Islamic + ecclesiastical communities + non-Hague). Most layered legal-system in corpus (Ottoman + British Mandate + Jordanian (West Bank) + Egyptian (Gaza) + Israeli military-order + Palestinian Authority Basic Law/Statutes + Hanafi Sunni Islamic + Christian/Druze ecclesiastical jurisdiction). UN observer state recognised by 138+ UN member states.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive hadana + wilaya analysis under Jordanian Personal Status Law 1976 arts. 154-180 (West Bank) + Egyptian Family Status Law 1954 arts. 25-45 (Gaza) + Palestinian Authority Law 7/2008 framework without doctrinal 'parental alienation' label.",
+    "Joins Levantine + multi-layer-mixed-legal-system-most-layered-legal-system-in-corpus + geographic-fragmentation-West-Bank-Jordanian-derivative-+-Gaza-Egyptian-derivative-distinctive + UN-observer-state-cluster-with-Holy-See + non-Hague-Convention + British-Mandate-1922-League-of-Nations + Nakba-1948-+-700000-Palestinian-displacement + Six-Day-War-1967-Israeli-military-occupation-59-years + Hanafi-Sunni-Islamic-+-Christian-Druze-ecclesiastical-jurisdiction + Oslo-Accords-1993-Palestinian-Authority + Palestinian-Basic-Law-2003 + Law-on-Family-Protection-from-Violence-7/2008 + UNGA-Resolution-67/19-2012-138-UN-member-states-recognition + Gaza-war-2023-2024-+-ICJ-South-Africa-v-Israel-+-ICJ-Advisory-Opinion-Settlements-Wall-2024 clusters within the corpus."
   ]
 }

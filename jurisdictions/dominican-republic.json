@@ -53,24 +53,59 @@
   "anonymisation_convention": "Dominican family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1844,
+      "title": "Dominican Republic independence + Trinitarios + Haiti-DR separation framework",
+      "description": "Dominican Republic independence 27 February 1844 from Haiti (22-year-Haitian-occupation 1822-1844) — Juan Pablo Duarte and Trinitarios framework. Substantively distinctive globally only-Latin-American-state-with-independence-from-another-Latin-American-state-not-European-power framework. Foundational Hispaniola-shared-island framework affecting subsequent cross-border-jurisdiction-practice."
+    },
+    {
       "year": 1884,
       "title": "Civil Code adoption (French Napoleonic)",
-      "description": "Federal Civil Code adopted via Napoleonic Code substantive heritage."
+      "description": "Federal Civil Code adopted via Napoleonic Code substantive heritage. Arts. 371-387 govern autoridad parental and child custody. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1930,
+      "title": "Trujillo dictatorship + 31-year-authoritarian framework",
+      "description": "Rafael Trujillo dictatorship 1930-1961 — substantively distinctive Caribbean 31-year-authoritarian framework. Substantive 1937 Parsley Massacre (estimated 17,000-35,000 Haitians killed) substantially affecting demographic and family-law-implementation framework. Foundational pre-democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1965,
+      "title": "1965 Dominican Civil War + US intervention + democratic-restoration framework",
+      "description": "1965 Dominican Civil War 24 April – 3 September 1965 substantively distinctive Caribbean Cold-War-era armed-conflict framework. US-OAS intervention 28 April 1965. Substantive Constitutional restoration framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Dominican Republic ratifies UN Convention on the Rights of the Child",
+      "description": "Dominican Republic ratified the UNCRC on 11 June 1991 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2003 Law 136-03 substantive doctrine."
+    },
+    {
+      "year": 1994,
+      "title": "Code for Minors 1994 + pre-2003-framework framework",
+      "description": "Code for Minors enacted 1994 establishing pre-Law-136-03 child-protection framework — substantively significant Caribbean civil-law child-protection-framework. Foundational pre-2003 substantive-framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2003,
       "title": "Law 136-03 — Code for Children and Adolescents Protection",
-      "description": "Federal Code enacted replacing 1994 Code for Minors, codifying superior-interest principle aligned with UNCRC obligations."
+      "description": "Federal Code enacted Law 136-03 of 7 August 2003 replacing 1994 Code for Minors, codifying superior-interest-of-the-child principle (art. 5) aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation."
     },
     {
       "year": 2004,
-      "title": "Hague Convention 1980 accession",
-      "description": "The Dominican Republic acceded to the Hague Convention 1980 effective 1 November 2004."
+      "title": "Hague Convention 1980 accession + 2003-banking-crisis context",
+      "description": "The Dominican Republic acceded to the Hague Convention 1980 effective 1 November 2004 — substantively significant Hague Caribbean accession. Substantive 2003 banking crisis affecting subsequent constitutional-democratic-trajectory and family-law-implementation framework."
     },
     {
       "year": 2010,
-      "title": "Constitutional Court established",
-      "description": "Constitutional Court established with original jurisdiction over constitutional review."
+      "title": "Constitution 2010 + Constitutional Court established",
+      "description": "Constitution of the Dominican Republic 2010 adopted 26 January 2010 substantively reforming political-institutional framework. Constitutional Court (Tribunal Constitucional) established with original jurisdiction over constitutional review. Substantive constitutional-judicial framework affecting subsequent family-law-jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Defensor del Pueblo + CONANI + Haiti border crisis framework",
+      "description": "Defensor del Pueblo and CONANI (Consejo Nacional para la Niñez y la Adolescencia) institutional positions addressing PA-related issues within Law 136-03 + Civil Code framework. DR-Haiti border crisis 2023-2024 substantively affecting demographic and cross-border family-law-implementation framework. Multiple Suprema Corte decisions developing superior-interest-of-the-child interpretation establishing trajectory toward 2024 Abinader re-election substantive register. Substantively significant Caribbean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Suprema Corte + Tribunal Constitucional — superior-interest-of-the-child substantive register + Abinader presidency",
+      "description": "Suprema Corte de Justicia and Tribunal Constitucional continue to develop superior-interest-of-the-child jurisprudence under Civil Code arts. 371-387 + Law 136-03 art. 5 + Hague Convention 1980 framework in custody disputes within Luis Abinader (PRM) presidency since 16 August 2020 (re-elected 19 May 2024). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -106,8 +141,9 @@
     }
   ],
   "editorial_notes": [
-    "Dominican Republic jurisdiction sidecar — civil-law Caribbean (Civil Code Napoleonic-derivative + Law 136-03 + Constitutional Court 2010 + Hague Convention 1980 accession 2004).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + civil-law (distinctive in Anglophone-Caribbean) + Napoleonic-derivative + Hague Convention clusters within the corpus."
+    "Dominican Republic jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Duarte-to-Abinader trajectory: 1844-Dominican-Republic-independence-+-Trinitarios + 1884-Civil-Code-Napoleonic + 1930-Trujillo-dictatorship-+-31-year-authoritarian + 1965-1965-Dominican-Civil-War-+-US-intervention + 1991-UNCRC-ratification + 1994-Code-for-Minors + 2003-Law-136-03-Children-Adolescents-Protection + 2004-Hague-Convention-1980-accession + 2010-Constitution-+-Constitutional-Court + 2024-Suprema-Corte-+-Abinader-presidency.",
+    "Civil-law Caribbean (Civil Code Napoleonic-derivative + Law 136-03 + Constitutional Court 2010 + Hague Convention 1980 accession 2004).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Civil Code arts. 371-387 + Law 136-03 art. 5 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + civil-law-distinctive-in-Anglophone-Caribbean + Napoleonic-derivative + Trinitarios-Duarte-independence-from-Haiti-only-Latin-American-state-with-independence-from-another-Latin-American-state-globally-distinctive + 22-year-Haitian-occupation-1822-1844 + Hispaniola-shared-island + Trujillo-dictatorship-1930-1961-31-year-authoritarian + 1937-Parsley-Massacre-Haitians + 1965-Dominican-Civil-War-+-US-OAS-intervention + Constitution-2010-+-Constitutional-Court + Hague-Convention-2004 + Abinader-PRM-2020-2024 clusters within the corpus."
   ]
 }

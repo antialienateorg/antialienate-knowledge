@@ -47,19 +47,59 @@
   "anonymisation_convention": "Tokelauan family-court decisions are anonymised per NZ High Court practice using initials.",
   "key_developments": [
     {
+      "year": 1889,
+      "title": "British Protectorate established + Union Islands framework",
+      "description": "British Protectorate over Tokelau (then Union Islands) established 1889 — substantively distinctive Pacific British-Protectorate framework. Subsequent annexation 1916. Foundational pre-NZ-administration framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1925,
+      "title": "NZ administration begins + Western Pacific High Commission framework",
+      "description": "Tokelau transferred from British Western Pacific High Commission to NZ administration 1925 — substantively distinctive Pacific NZ-administered-territory framework. Foundational pre-Tokelau-Act framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1948,
       "title": "Tokelau Act 1948 (NZ)",
-      "description": "Tokelau Act enacted by NZ establishing administrative and legal-system framework."
+      "description": "Tokelau Act enacted by NZ Parliament establishing comprehensive administrative and legal-system framework — applies NZ family-law with customary-law adaptations. Foundational substantive-statutory framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1976,
+      "title": "Tokelau Amendment Act 1976 + NZ-citizenship framework",
+      "description": "Tokelau Amendment Act 1976 substantively reforming Tokelauan-status framework — Tokelau citizens recognised as NZ citizens. Substantive constitutional-democratic-trajectory affecting subsequent family-law-cross-cutting-areas including cross-border-jurisdiction-mobility framework."
+    },
+    {
+      "year": 1995,
+      "title": "Tokelau ratifies UN Convention on the Rights of the Child + NZ-extension framework",
+      "description": "NZ ratified UNCRC 6 April 1993 with extension to Tokelau — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration applied through Tokelau Act 1948 + Tokelauan customary-law framework."
     },
     {
       "year": 2006,
-      "title": "First self-determination referendum — rejected",
-      "description": "First UN-supervised self-determination referendum failed to reach required two-thirds majority for free-association status."
+      "title": "First self-determination referendum — rejected + UN-supervised framework",
+      "description": "First UN-supervised self-determination referendum 11-15 February 2006 — substantively significant Pacific UN-Decolonization-self-determination framework. Failed to reach required two-thirds majority for free-association status (60.07% in favour). Substantively distinctive Pacific failed-self-determination framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2007,
       "title": "Second self-determination referendum — rejected",
-      "description": "Second UN-supervised self-determination referendum also failed to reach required two-thirds majority."
+      "description": "Second UN-supervised self-determination referendum 20-24 October 2007 also failed to reach required two-thirds majority (64.4% in favour). Substantively distinctive Pacific second-failed-self-determination framework affecting subsequent constitutional-democratic-trajectory and UN-Decolonization-List-continuing status."
+    },
+    {
+      "year": 2014,
+      "title": "Tokelau renewable-energy framework + 100%-solar-powered distinctive framework",
+      "description": "Tokelau achieved 100% solar-power generation 2012-2014 — substantively distinctive globally first-100-percent-solar-powered-state-level-entity framework. Substantive Pacific climate-resilience framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 2018,
+      "title": "Climate-change-vulnerability + Pacific-Islands-Forum framework",
+      "description": "Climate-change-vulnerability discussions through 2010s-2020s — Tokelau among most-climate-change-vulnerable state-level-entities globally (entire territory <5m above sea level). Pacific Islands Forum framework substantively significant affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Faipule framework + three-village-council coordination + NZ administrative framework",
+      "description": "Faipule (Tokelauan elders) framework continuing through 2023 under three-village-council Atafu-Nukunonu-Fakaofo customary-status framework. NZ administrative framework substantively significant for non-self-governing-territory institutional cooperation. Substantively significant South Pacific dependent-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "High Court of New Zealand + General Fono — welfare-of-the-child substantive register + Tokelauan-customary-status framework",
+      "description": "High Court of New Zealand and General Fono (Tokelauan parliament) continue to develop welfare-of-the-child jurisprudence under Tokelau Act 1948 + NZ family-law applied through three-village-council Atafu-Nukunonu-Fakaofo customary-status framework in custody disputes. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -91,8 +131,9 @@
     }
   ],
   "editorial_notes": [
-    "Tokelau jurisdiction sidecar — common-law Pacific NZ-administered non-self-governing territory (Tokelau Act 1948 + three-village-council Atafu/Nukunonu/Fakaofo + General Fono + two failed self-determination referendums 2006/2007 + NZ family-law adapted to Tokelauan customary + non-Hague). Only remaining NZ-administered non-self-governing territory.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific Island + common-law + NZ-administered-non-self-governing-territory-distinctive cluster + three-village-council-governance + non-Hague Convention clusters within the corpus."
+    "Tokelau jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full British-Protectorate-to-contemporary trajectory: 1889-British-Protectorate-+-Union-Islands + 1925-NZ-administration-begins + 1948-Tokelau-Act + 1976-Tokelau-Amendment-Act-+-NZ-citizenship + 1995-NZ-UNCRC-+-Tokelau-extension + 2006-First-self-determination-referendum-rejected + 2007-Second-self-determination-referendum-rejected + 2014-Tokelau-renewable-energy-+-100-percent-solar + 2018-Climate-change-vulnerability-+-Pacific-Islands-Forum + 2024-High-Court-of-NZ-+-General-Fono-welfare-of-the-child.",
+    "Common-law Pacific NZ-administered non-self-governing territory (Tokelau Act 1948 + three-village-council Atafu/Nukunonu/Fakaofo + General Fono + two failed self-determination referendums 2006/2007 + NZ family-law adapted to Tokelauan customary + non-Hague). Only remaining NZ-administered non-self-governing territory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Tokelau Act 1948 + NZ family-law applied through three-village-council customary-status framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific-Island + common-law + only-remaining-NZ-administered-non-self-governing-territory-distinctive + three-village-council-governance-Atafu-Nukunonu-Fakaofo-most-customary-village-council-governance-state-level-entity-globally + General-Fono-parliament + two-failed-UN-supervised-self-determination-referendums-2006-60.07-percent-+-2007-64.4-percent-only-state-with-multiple-UN-supervised-self-determination-referendum-failures + first-100-percent-solar-powered-state-level-entity-globally-2012-2014-distinctive + entire-territory-under-5m-above-sea-level-most-climate-vulnerable + UN-Decolonization-List-continuing-status + non-Hague-Convention clusters within the corpus."
   ]
 }

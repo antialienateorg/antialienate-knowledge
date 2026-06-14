@@ -53,24 +53,59 @@
   "anonymisation_convention": "Algerian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1962,
+      "title": "Algeria independence + Ben Bella + FLN-revolutionary framework",
+      "description": "Algeria independence 5 July 1962 from France following 8-year Algerian War of Independence (1954-1962, estimated 1-1.5 million Algerian deaths). Ahmed Ben Bella first president 1963-1965 establishing FLN-revolutionary-socialist framework. Substantively distinctive Maghreb-revolutionary-state framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1965,
+      "title": "Boumediene coup + 13-year-revolutionary framework",
+      "description": "Houari Boumediene coup d'état 19 June 1965 ending Ben Bella presidency — substantively distinctive Maghreb military-revolutionary framework 1965-1978 (13 years). Substantive Cold-War-era political-institutional framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
       "year": 1984,
       "title": "Family Code 1984 enacted",
-      "description": "Federal Family Code enacted codifying personal-status matters on Maliki jurisprudential basis."
+      "description": "Federal Family Code enacted Law 84-11 of 9 June 1984 codifying personal-status matters on Maliki jurisprudential basis. Substantively less progressive than Tunisia 1956 or Morocco 2004 — substantive conservative-Maliki framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1989,
+      "title": "Constitution 1989 + multi-party-democratic transition",
+      "description": "Constitution of Algeria 1989 adopted 23 February 1989 substantively reforming political-institutional framework establishing multi-party-democratic framework. Foundational pre-Algerian-Civil-War framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Algerian Civil War 1991-2002 + Black-Decade + Islamist-armed-conflict framework",
+      "description": "Algerian Civil War (Décennie noire / Black Decade) 26 December 1991 – February 2002 between Algerian government and Islamic Salvation Front (FIS) + Armed Islamic Group (GIA) following cancelled elections. Substantively distinctive Maghreb 11-year-armed-conflict framework with estimated 200,000 killed substantially affecting demographic and family-law-implementation framework."
+    },
+    {
+      "year": 1993,
+      "title": "Algeria ratifies UN Convention on the Rights of the Child",
+      "description": "Algeria ratified the UNCRC on 16 April 1993 (with reservations consistent with Islamic Sharia) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2015 Law on Child Protection substantive doctrine."
     },
     {
       "year": 2005,
       "title": "Family Code 2005 amendments (Ordonnance 05-02)",
-      "description": "Substantial reform — raising marriage age, codifying judicial divorce, expanding custody provisions."
+      "description": "Substantial reform Ordonnance 05-02 of 27 February 2005 — raising marriage age to 19, codifying judicial divorce, expanding custody provisions (arts. 64-72). Substantively less progressive than Morocco 2004 Moudawana reform but substantively significant within Maghreb reform-trajectory affecting subsequent family-law-implementation."
     },
     {
       "year": 2015,
       "title": "Law on Child Protection",
-      "description": "Federal children's protection statute enacted aligned with UNCRC obligations."
+      "description": "Federal children's protection statute enacted Law 15-12 of 15 July 2015 aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Maghreb mixed-legal-system framework."
+    },
+    {
+      "year": 2019,
+      "title": "Hirak movement 2019-2021 + Bouteflika-fall + Tebboune presidency framework",
+      "description": "Hirak movement 22 February 2019-onwards substantively distinctive Maghreb democratic-protest framework. Abdelaziz Bouteflika resigned 2 April 2019 ending 20-year presidency. Abdelmadjid Tebboune elected President 12 December 2019. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation framework."
     },
     {
       "year": 2020,
-      "title": "Constitutional Court restructure",
-      "description": "Constitutional Council restructured as Constitutional Court."
+      "title": "Constitution 2020 + Constitutional Court restructure",
+      "description": "Constitution of Algeria 2020 adopted 1 November 2020 by referendum substantively reforming political-institutional framework. Constitutional Council restructured as Constitutional Court. Substantively significant Maghreb post-Hirak constitutional-trajectory framework."
+    },
+    {
+      "year": 2024,
+      "title": "Cour Suprême + Cour Constitutionnelle — child's-best-interests substantive register + Tebboune re-election",
+      "description": "Cour Suprême and Cour Constitutionnelle continue to develop child's-best-interests jurisprudence under Family Code 1984 arts. 62-72 (ḥaḍāna) + Child Protection Law 2015 + Hague Convention 1980 framework in custody disputes. Abdelmadjid Tebboune re-elected 7 September 2024 (94.7% in contested election). Délégué National à la Protection de l'Enfance institutional position addressing PA-related issues within Maliki-Islamic-law framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -106,8 +141,9 @@
     }
   ],
   "editorial_notes": [
-    "Algeria jurisdiction sidecar — mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Family Code 1984 + 2005 reform + Law on Child Protection 2015 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins North African/Maghreb + Maliki Islamic-law + colonial-inheritance + non-Hague Convention clusters within the corpus."
+    "Algeria jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Ben-Bella-to-Tebboune trajectory: 1962-Algeria-independence-+-Ben-Bella-+-FLN + 1965-Boumediene-coup-+-13-year-revolutionary + 1984-Family-Code + 1989-Constitution-+-multi-party-democratic + 1991-Algerian-Civil-War-+-Black-Decade + 1993-UNCRC-ratification + 2005-Family-Code-amendments-Ordonnance-05-02 + 2015-Law-on-Child-Protection + 2019-Hirak-movement-+-Bouteflika-fall-+-Tebboune + 2020-Constitution-+-Constitutional-Court-restructure.",
+    "Mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Family Code 1984 + 2005 reform + Law on Child Protection 2015 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-best-interests analysis under Family Code 1984 + 2005 amendments + Law on Child Protection 2015 framework without doctrinal 'parental alienation' label.",
+    "Joins North-African/Maghreb + Maliki Islamic-law + Protectorate-inheritance + Algerian-War-of-Independence-1954-1962-1-1.5-million-deaths-distinctive-among-decolonisation-wars + Ben-Bella-+-Boumediene-+-FLN-revolutionary-socialist + Algerian-Civil-War-Décennie-noire-1991-2002-+-FIS-+-GIA-+-200000-killed-distinctive + less-progressive-than-Morocco-2004-Moudawana-or-Tunisia-1956-Code-of-Personal-Status + Hirak-2019-2021-+-Bouteflika-fall-+-20-year-presidency-end + Constitution-2020-+-Constitutional-Court-restructure + non-Hague-Convention clusters within the corpus."
   ]
 }

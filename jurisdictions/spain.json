@@ -166,9 +166,44 @@
   "anonymisation_convention": "Tribunal Supremo sentences are anonymised per LOPJ art. 232 and CENDOJ publication policy; Audiencias Provinciales family-case names typically use initials for adult parties and never name minors. Cross-references in this dataset use the STS roll number (e.g., STS 519/2017) rather than party names.",
   "key_developments": [
     {
+      "year": 1889,
+      "description": "Código Civil 1889 enacted 24 July 1889 — substantively distinctive Spanish civil-code framework drawing on French civil-law substantive heritage. Arts. 92-95 codify guarda y custodia and parental-responsibility framework. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory affecting contemporary family-law-jurisprudence.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+    },
+    {
+      "year": 1978,
+      "description": "6 December 1978 — Constitution of Spain 1978 adopted by referendum following Spanish democratic-transition post-Franco. Substantively significant Iberian constitutional-democratic framework establishing Estado de las Autonomías (autonomous-communities framework) affecting subsequent per-CCAA family-law-variation pattern. Substantive constitutional anchor for contemporary family-law jurisprudence.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+    },
+    {
+      "year": 1981,
+      "description": "7 July 1981 — Ley 30/1981 (Ley del divorcio) substantively reforming Código Civil to introduce divorce framework post-democratic-transition. Substantively significant Spanish post-Franco family-law-modernisation framework.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-16216"
+    },
+    {
+      "year": 1986,
+      "description": "1 January 1986 — Spain EU accession alongside Portugal substantively integrating Spanish family-law-framework into EU-treaty-framework including Brussels IIa/IIbis Regulation framework for family-law-matters. Foundational EU-treaty framework affecting subsequent cross-border-jurisdiction-practice.",
+      "url": "https://eur-lex.europa.eu/"
+    },
+    {
+      "year": 1990,
+      "description": "6 December 1990 — Spain ratified the UNCRC substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent constitutional-democratic-trajectory affecting subsequent family-law-modernisation.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1990-31312"
+    },
+    {
+      "year": 2004,
+      "description": "28 December 2004 — LO 1/2004 (Ley Integral contra la Violencia de Género / LIVG) substantively significant globally first-comprehensive-gender-violence-framework-in-EU. Substantive gender-violence framework subsequently conditioning how family courts read PA-style allegations.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760"
+    },
+    {
       "year": 2005,
       "description": "Ley 15/2005 reforms Código Civil and LEC on separation and divorce, opening the custodia compartida framework within which PA-style manipulación/influencia arguments became frequent.",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-11864"
+    },
+    {
+      "year": 2013,
+      "description": "29 April 2013 — STS 257/2013 (Sala Primera, ponente Seijas Quintana) sets shared-custody (custodia compartida) as the preferred legal framework, subordinating the prior preference for sole maternal custody — substantively distinctive Spanish family-law modernisation framework. Substantive STS 257/2013 framework foundational for subsequent 2017 STS 519/2017 methodological-middle PA-doctrine stance and 2021 LOPIVI inadmission framework. Foundation for ongoing custodia-compartida vs custodia-individual jurisprudence directly relevant to PA-style cases.",
+      "url": "https://www.poderjudicial.es/search/AN/openDocument/efeb56cb3deb43e8/20130507"
     },
     {
       "year": 2017,
@@ -181,8 +216,13 @@
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347"
     },
     {
-      "year": 2023,
-      "description": "PIVIP work by Asunción Tejedor and colleagues consolidates the terminological-arbitrage gap: 'interferencias parentales' / 'manipulación de la voluntad del menor' are used in peritajes to address the underlying conduct while avoiding the LOPIVI-named SAP label.",
+      "year": 2022,
+      "description": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación + CGPJ Guía Práctica 2022 (Guía para la aplicación de la LOPIVI) — substantively significant CGPJ institutional guidance operationalising LOPIVI Disp. ad. 17ª PA-inadmission framework at first-instance Juzgado-de-Familia level. Substantively significant CGPJ institutional architecture for LOPIVI implementation — operationally distinctive Spanish judicial-council institutional-critique mechanism.",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/El-CGPJ-presenta-la-Guia-de-aplicacion-de-la-LOPIVI"
+    },
+    {
+      "year": 2024,
+      "description": "2023-2024 — PIVIP work by Asunción Tejedor and colleagues consolidates the terminological-arbitrage gap: 'interferencias parentales' / 'manipulación de la voluntad del menor' are used in peritajes to address the underlying conduct while avoiding the LOPIVI-named SAP label. STC 130/2024 LOPIVI compliance line + Audiencias Provinciales per-CCAA jurisprudence continuing development of substantive-middle-stance framework under STS 519/2017 + LOPIVI Disp. ad. 17ª.",
       "url": "https://www.cop.es/"
     }
   ],
@@ -276,12 +316,14 @@
     }
   ],
   "editorial_notes": [
+    "Spain jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Código-Civil-to-PIVIP trajectory: 1889-Código-Civil + 1978-Constitution-of-Spain-+-Estado-de-las-Autonomías + 1981-Ley-30-1981-divorce + 1986-EU-accession + 1990-UNCRC-ratification + 2004-LO-1-2004-LIVG + 2005-Ley-15-2005-custodia-compartida + 2017-STS-519-2017-middle-stance + 2021-LO-8-2021-LOPIVI-Disp-ad-17ª-PA-inadmission + 2024-PIVIP-+-STC-130-2024-+-per-CCAA-jurisprudence.",
     "Primary sources first: BOE for LOPIVI Disp. ad. 17ª statutory text; CENDOJ for STS 519/2017.",
     "LOPIVI Disp. ad. 17ª verbatim Spanish anchor: 'el llamado síndrome de alienación parental' — translation_en: 'the so-called parental alienation syndrome'. The verbatim 'llamado' is load-bearing because it signals legislative distancing from the construct.",
     "STS 519/2017 substantively diverges from LOPIVI: the TS treats manipulación/influencia negativa as decisive welfare factors without naming SAP; LOPIVI then moves past the TS without ratifying that reasoning. Both directions of divergence are preserved.",
     "Per-CCAA COP variation recorded as a structural finding (opposite of DE/UK unified-regulator pattern).",
     "EPF and IMLCF peritos NOT named individually for ethical reasons (civil-servant role); recorded as a structural finding by pattern.",
     "Miguel Lorente Acosta classified as médico-forense (not psicólogo) and as Delegado del Gobierno 2008-2011; this matters for taxonomising the critique line.",
-    "Sonia Vaccaro is Argentine-Spanish, Madrid-based; coined 'violencia vicaria', now in BOE-level documents."
+    "Sonia Vaccaro is Argentine-Spanish, Madrid-based; coined 'violencia vicaria', now in BOE-level documents.",
+    "Joins EU-civil-law-cluster + Iberian/Mediterranean (with Portugal, Italy) + world's-only-PA-inadmission-statutory-jurisdiction-globally-distinctive (opposite-direction-to-Brazil-Lei-12-318-2010-recognition) + Código-Civil-1889 + Constitution-of-Spain-1978-Estado-de-las-Autonomías-per-CCAA-variation + LIVG-2004-first-comprehensive-gender-violence-framework-EU-distinctive + custodia-compartida-2005 + STS-519-2017-Arroyo-Fiestas-middle-stance + LOPIVI-2021-Disp-ad-17ª + PIVIP-terminological-arbitrage-distinctive + violencia-vicaria-BOE-level."
   ]
 }

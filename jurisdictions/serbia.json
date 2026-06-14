@@ -46,9 +46,59 @@
   "anonymisation_convention": "Serbian family-law decisions are anonymised per Supreme Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Yugoslav dissolution begins + Federal Republic of Yugoslavia (FRY)",
+      "description": "SFR Yugoslavia dissolution began 1991-1992 with Slovenian, Croatian, Bosnian, and Macedonian declarations of independence. Federal Republic of Yugoslavia (FRY, Serbia + Montenegro) proclaimed 27 April 1992. Pre-2003 SFR Yugoslav legal-system substrate substantially retained as transitional framework."
+    },
+    {
+      "year": 1991,
+      "title": "Yugoslavia ratifies UN Convention on the Rights of the Child",
+      "description": "SFR Yugoslavia ratified the UNCRC 3 January 1991 — Serbia succession 12 March 2001 — framing the post-Yugoslav family-law-reform trajectory toward best-interests-of-the-child substantive doctrine."
+    },
+    {
+      "year": 2001,
+      "title": "Hague Convention 1980 succession + Serbia post-Milošević transition",
+      "description": "Yugoslavia/Serbia succession to Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 February 2002 (succession to earlier SFR Yugoslavia 1991 accession). Concurrently, post-October 5, 2000 democratic transition following Milošević's fall established the contemporary reformist trajectory."
+    },
+    {
+      "year": 2003,
+      "title": "State Union of Serbia and Montenegro + Council of Europe membership",
+      "description": "FRY transformed into State Union of Serbia and Montenegro 4 February 2003. Council of Europe membership granted 3 April 2003 — ECHR ratified 3 March 2004 effective. ECHR engagement subsequently became a major source of family-law jurisprudence including Article 8 (right to respect for family life) decisions affecting custody and visitation matters."
+    },
+    {
       "year": 2005,
-      "title": "Porodični zakon 2005 in force",
-      "description": "Family Act in force 1 July 2005 — modernised parental-rights framework with joint-exercise default."
+      "title": "Porodični zakon 2005 (Family Act)",
+      "description": "Family Act enacted 24 February 2005, in force 1 July 2005 — substantively modernising family-law replacing 1980 SFR Yugoslav-era Family Act. Arts. 67-95 govern parental rights with joint-exercise during marriage and after divorce as statutory default unless the court orders sole exercise. Welfare standard codified."
+    },
+    {
+      "year": 2006,
+      "title": "Montenegro independence + Constitution of Serbia 2006",
+      "description": "Montenegro independence 3 June 2006 following independence referendum 21 May 2006. Constitution of the Republic of Serbia adopted by referendum 28-29 October 2006 — establishing parliamentary republic framework with Art. 65 codifying family-protection-clauses and Art. 64 children's-rights provisions."
+    },
+    {
+      "year": 2009,
+      "title": "EU candidate status pursued + EU acquis communautaire integration begins",
+      "description": "Serbia formally submitted EU membership application 22 December 2009 — EU candidate status granted 1 March 2012. EU accession negotiations opened 21 January 2014 — substantially affecting Serbian family-law and constitutional-rights reform trajectory toward EU acquis harmonisation."
+    },
+    {
+      "year": 2013,
+      "title": "Brussels Agreement + Kosovo normalisation context",
+      "description": "First Brussels Agreement on normalisation of relations with Kosovo 19 April 2013 — substantively affecting cross-border family-law engagement between Serbia and Kosovo (which Serbia does not formally recognise) with substantial implications for cross-border-custody matters between the two jurisdictions."
+    },
+    {
+      "year": 2022,
+      "title": "Constitutional amendments 2022 + judicial reform",
+      "description": "Constitutional amendments adopted by referendum 16 January 2022 — substantively reforming judicial framework including High Judicial Council and Public Prosecutorial Council appointment processes. EU-rule-of-law context substantively affecting Serbian judicial framework."
+    },
+    {
+      "year": 2023,
+      "title": "Brussels-Ohrid framework + Banjska clash + 2023 election context + Zaštitnik građana institutional position",
+      "description": "Brussels-Ohrid Agreement framework February-March 2023 + Banjska clash September 2023 substantively significant Balkans cross-border context affecting Serbia-Kosovo family-law adjudication. Zaštitnik građana (Ombudsperson) institutional position addressing PA-related issues within Porodični zakon framework. December 2023 election cycle substantively significant political context. Substantively significant Western Balkans institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Vrhovni kasacioni sud + Ustavni sud — najbolji interes deteta substantive register + EU-accession context",
+      "description": "Vrhovni kasacioni sud and Ustavni sud continue to develop najbolji interes deteta (best-interests-of-the-child) jurisprudence under Porodični zakon arts. 67-95 + Constitution Art. 64-65 + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within EU-accession harmonisation trajectory."
     }
   ],
   "structural_findings": [
@@ -89,8 +139,9 @@
     }
   ],
   "editorial_notes": [
-    "Serbia jurisdiction sidecar — Western Balkans civil-law framework. Porodični zakon 2005 + Constitutional Court individual-complaint + DPS peak-body psychology regulation.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Western Balkans civil-law cluster within the corpus."
+    "Serbia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 1 to 10 key_developments with full Yugoslav-dissolution-to-contemporary trajectory: 1991-Yugoslav-dissolution-FRY-+-UNCRC-ratification + 2001-Hague-1980-succession-+-post-Milošević-transition + 2003-State-Union-of-Serbia-and-Montenegro-+-Council-of-Europe-membership-+-2004-ECHR-ratification + 2005-Porodični-zakon + 2006-Montenegro-independence-+-Constitution-of-Serbia + 2009-EU-candidate-status-pursued + 2013-Brussels-Agreement-Kosovo-normalisation-context + 2022-Constitutional-amendments-judicial-reform + 2024-Vrhovni-kasacioni-sud-Ustavni-sud-najbolji-interes-deteta-EU-accession-context.",
+    "Western Balkans civil-law framework + Porodični zakon 2005 + Constitution 2006 + Constitutional Court individual-complaint + DPS peak-body psychology regulation + Hague Convention 1980 (succession 2002) + Council of Europe/ECHR + EU-candidate-state trajectory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive najbolji interes deteta analysis under Porodični zakon arts. 67-95 + Constitution + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins Western-Balkans-civil-law-cluster (with Croatia, Slovenia, Bosnia, Montenegro, N. Macedonia) + post-Yugoslav-civil-law (with all six successor states) + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Western-Balkans (with Croatia, Slovenia, Montenegro, BiH, N. Macedonia) + EU-candidate-state-family-law-harmonisation (with Ukraine, Moldova, Montenegro, Albania, BiH, N. Macedonia, Türkiye) + Kosovo-normalisation-cross-border-jurisdiction-distinctive clusters within the corpus."
   ]
 }

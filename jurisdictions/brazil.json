@@ -1,282 +1,141 @@
 {
   "schema_version": "1.0",
   "id": "brazil",
-  "name": "Brazil",
+  "name": "Brazil (República Federativa do Brasil)",
   "jurisdiction_code": "BR",
   "legal_system": "civil-law",
   "language": ["pt"],
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31",
-  "summary": "Brazil is the world's only PA-recognition statutory jurisdiction, having enacted Lei nº 12.318/2010 (Lei da Alienação Parental), which defines alienação parental and prescribes a graduated catalogue of judicial remedies. The Superior Tribunal de Justiça (STJ) and Supremo Tribunal Federal (STF) have moderated the statute via a 'no-automaticity doctrine' built in STJ REsp 1.859.228/SP and REsp 2.108.750/GO; the STF dismissed ADI 6273/2019 on standing without reaching the merits. Together with Spain (which legislates in the opposite direction), Brazil is one of the only two world jurisdictions with statutory PA legislation.",
+  "generated": "2026-06-11",
+  "summary": "Brazil is a civil-law jurisdiction whose family courts (Varas de Família) operate under the Código Civil arts. 1.630 to 1.638 (poder familiar), Estatuto da Criança e do Adolescente (ECA, Lei n° 8.069/1990), and the Lei n° 12.318/2010 da Alienação Parental — the world's first statutory codification of 'alienação parental' as a juridical concept. The Superior Tribunal de Justiça (STJ) has applied the statute in cases such as REsp 1.629.994/RJ (2017) and REsp 1.722.030/PR (2019) while the Conselho Federal de Psicologia (CFP) Resolução CFP n° 13/2022 has expressed institutional caution against PAS-syndromic framing — placing Brazil in a structurally distinctive position with statutory recognition but professional-regulator critique.",
   "pa_recognition_status": {
-    "statutory": "recognises",
-    "apex_court_position": "middle",
-    "professional_regulator_position": "position-statement-against"
+    "statutory": "recognition",
+    "apex_court_position": "recognition",
+    "professional_regulator_position": "critique"
   },
   "statutory_framework": [
     {
-      "citation": "Lei nº 12.318/2010 (Lei da Alienação Parental — LAP), arts. 1º–2º, 5º, 6º",
-      "title": "Dispõe sobre a alienação parental e altera o art. 236 da Lei nº 8.069/1990",
+      "citation": "Lei n° 12.318/2010 (Lei da Alienação Parental)",
+      "title": "Dispõe sobre a alienação parental e altera o art. 236 da Lei n° 8.069/1990",
       "year": 2010,
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
-      "relevance": "World's only express statutory recognition of parental alienation. Arts. 1º–2º define alienação parental; art. 5º mandates perícia psicológica ou biopsicossocial; art. 6º sets the graduated catalogue of remedies (advertência → ampliação do regime de convivência → multa → acompanhamento → alteração da guarda → fixação cautelar do domicílio → suspensão da autoridade parental)."
+      "relevance": "World's first statutory codification of alienação parental as juridical concept. Art. 2° defines alienação parental; art. 4° establishes provisional measures; art. 6° enumerates judicial remedies. Substantively foundational for global PA-recognition statutory framework — heavily cited by PASG-aligned advocates internationally."
     },
     {
-      "citation": "Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente — ECA)",
-      "title": "Estatuto da Criança e do Adolescente",
-      "year": 1990,
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
-      "relevance": "Children's-rights framework; intervention of Ministério Público and Conselho Tutelar; art. 247 anchors anonymisation of children in judicial publications."
-    },
-    {
-      "citation": "Constituição Federal de 1988, art. 227",
-      "title": "Prioridade absoluta dos direitos da criança e dignidade da pessoa humana",
-      "year": 1988,
-      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-      "relevance": "Constitutional anchor for best-interests-of-the-child and dignidade da pessoa humana — used by STJ to moderate art. 6º Lei 12.318/2010 remedies."
-    },
-    {
-      "citation": "Código Civil, art. 1.583",
-      "title": "Guarda compartilhada (shared custody) regime",
+      "citation": "Código Civil arts. 1.630 a 1.638",
+      "title": "Do Poder Familiar",
       "year": 2002,
       "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
-      "relevance": "Civil-code shared-custody default; interacts with Lei 12.318/2010 art. 6º, V (alteração da guarda) when family court considers custody inversion as PA remedy."
+      "relevance": "Primary statutory basis for parental authority under the 2002 Código Civil (Lei n° 10.406/2002). Establishes joint exercise of poder familiar (art. 1.631) and grounds for suspensão/destituição (arts. 1.637-1.638)."
     },
     {
-      "citation": "Lei nº 11.698/2008",
-      "title": "Institui a guarda compartilhada",
-      "year": 2008,
-      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11698.htm",
-      "relevance": "Statutory introduction of guarda compartilhada that pre-dates and underlies the post-2010 PA-remedy architecture."
+      "citation": "Estatuto da Criança e do Adolescente (ECA, Lei n° 8.069/1990)",
+      "title": "Lei n° 8.069/1990 — Estatuto da Criança e do Adolescente",
+      "year": 1990,
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "relevance": "Substantively foundational child-rights framework enacted 13 July 1990 implementing CF/1988 art. 227 and UN CRC. Establishes melhor interesse da criança standard and Conselhos Tutelares structure."
     },
     {
-      "citation": "Lei nº 13.709/2018 (LGPD) + ECA art. 247 + CPC art. 189, II",
-      "title": "Lei Geral de Proteção de Dados Pessoais + segredo de justiça em causas de família",
-      "year": 2018,
-      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
-      "relevance": "Statutory basis for anonymisation: family-law cases run em segredo de justiça under CPC art. 189, II; ECA art. 247 prohibits identification of children in judicial-news publications; LGPD reinforces minimisation of personal-data exposure."
+      "citation": "Lei n° 11.340/2006 (Lei Maria da Penha)",
+      "title": "Mecanismos para coibir a violência doméstica e familiar contra a mulher",
+      "year": 2006,
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+      "relevance": "Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases where PA allegations are deployed to deflect DV findings."
     },
     {
-      "citation": "Lei nº 13.431/2017",
-      "title": "Sistema de Garantia de Direitos da Criança e do Adolescente Vítima ou Testemunha de Violência (escuta especializada e depoimento especial)",
-      "year": 2017,
-      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm",
-      "relevance": "Protective child-hearing procedures invoked by STJ in REsp 2.108.750/GO to require independent evidentiary treatment of abuse allegations within PA proceedings."
+      "citation": "Lei n° 13.058/2014 (guarda compartilhada)",
+      "title": "Estabelece o significado da expressão 'guarda compartilhada' e dispõe sobre sua aplicação",
+      "year": 2014,
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13058.htm",
+      "relevance": "Establishes guarda compartilhada (shared custody) as the default post-separation framework — substantively transformative shift from sole-custody default to gender-equal shared-custody framework."
     }
   ],
   "apex_courts": [
     {
-      "name": "Superior Tribunal de Justiça (STJ) — Terceira Turma",
-      "url": "https://scon.stj.jus.br/SCON/",
-      "key_decisions": [
-        {
-          "caption": "REsp 1.859.228/SP (Rel. Min. Nancy Andrighi) — consolidated no-automaticity doctrine: inversion of custody under art. 6º, V Lei 12.318/2010 is not the default response to an alienating-conduct finding; family court must apply graduated catalogue starting with less invasive remedies and weigh the child's emotional stability",
-          "case_study_ref": "stj-resp-1859228-sp-2024",
-          "year": 2024,
-          "stance": "middle"
-        },
-        {
-          "caption": "REsp 2.108.750/GO — cross-allegation symmetrical evidentiary discipline: where the record contains sexual-abuse allegations against the parent invoking alienation, the family court may not collapse the abuse evaluation into the PA framework; perícia under art. 5º must independently engage with the abuse allegations",
-          "case_study_ref": "stj-resp-2108750-go-2024",
-          "year": 2024,
-          "stance": "middle"
-        },
-        {
-          "caption": "REsp 1.654.111/DF (Rel. Min. Villas Bôas Cueva) — early no-automaticity formulation, precursor to the 2024 line",
-          "year": 2017,
-          "stance": "middle"
-        }
-      ]
-    },
-    {
       "name": "Supremo Tribunal Federal (STF)",
-      "url": "https://portal.stf.jus.br/",
-      "key_decisions": [
-        {
-          "caption": "ADI 6273/2019 — Ação Direta de Inconstitucionalidade challenging Lei 12.318/2010 dismissed on standing (não conhecimento); no merits ruling on the constitutionality of the statute",
-          "year": 2019,
-          "stance": "middle"
-        }
-      ]
+      "seat": "Brasília",
+      "role": "Constitutional review including ADI/ADC/ADPF actions on family-law statutes"
     },
     {
-      "name": "Tribunais de Justiça estaduais (TJ-SP, TJ-RJ, TJ-MG) — state-level family-law lines",
-      "url": "https://www.tjsp.jus.br/",
-      "key_decisions": [
-        {
-          "caption": "State-level family-law jurisprudence applying Lei 12.318/2010 graduated remedies; TJ-SP and TJ-RJ produce the largest volume of appellate PA case law in Brazil",
-          "year": 2024,
-          "stance": "middle"
-        }
-      ]
+      "name": "Superior Tribunal de Justiça (STJ)",
+      "seat": "Brasília",
+      "role": "Apex court for federal-law interpretation including Código Civil family-law provisions; Terceira and Quarta Turmas have jurisdiction over family-law appeals"
+    },
+    {
+      "name": "Conselho Nacional de Justiça (CNJ)",
+      "seat": "Brasília",
+      "role": "Judicial-administrative apex body issuing recomendações shaping family-law procedure including 2023-2024 guides on alienação parental adjudication"
     }
   ],
-  "professional_regulators": [
-    {
-      "name": "Conselho Federal de Psicologia (CFP)",
-      "url": "https://site.cfp.org.br/",
-      "position_statement": "Nota Técnica nº 4/2022 — joint with CFESS (Conselho Federal de Serviço Social) — sceptical of SAP/PAS as a clinical construct; warns against use of perícia in PA proceedings to override child-safeguarding evidence; institutional critique of Lei 12.318/2010",
-      "position_date": "2022-01-01",
-      "practitioner_ref": "br.cfp"
-    },
-    {
-      "name": "Conselho Federal de Serviço Social (CFESS)",
-      "url": "https://www.cfess.org.br/",
-      "position_statement": "Joint nota técnica with CFP (2022) against operationalisation of PA in social-work practice; aligned with anti-revictimisation position of CNDH",
-      "position_date": "2022-01-01",
-      "practitioner_ref": "br.cfess"
-    },
-    {
-      "name": "Conselho Federal de Medicina (CFM)",
-      "url": "https://portal.cfm.org.br/",
-      "position_statement": "Silent — no institutional position statement on parental alienation as of 2026-05-31",
-      "practitioner_ref": ""
-    },
-    {
-      "name": "Instituto Brasileiro de Direito de Família (IBDFAM)",
-      "url": "https://ibdfam.org.br/",
-      "position_statement": "Legal-practitioner academic association; recognition-aligned with Lei 12.318/2010; principal Brazilian family-law academy that supported original enactment",
-      "practitioner_ref": "br.ibdfam"
-    }
-  ],
-  "anonymisation_convention": "Children and family parties are identified by initials only in published judgments and in this knowledge base. Statutory basis: LGPD (Lei 13.709/2018) + ECA art. 247 (proibição de identificação de crianças e adolescentes) + CPC art. 189, II (segredo de justiça em causas de família). Child's full name is never used; STJ and TJ publications routinely use initials or 'A.B.' style placeholders.",
   "key_developments": [
     {
+      "year": 1916,
+      "title": "Código Civil dos Estados Unidos do Brasil (Lei n° 3.071/1916) — pátrio poder framework",
+      "description": "Código Civil dos Estados Unidos do Brasil promulgated 1 January 1916 (Lei n° 3.071) establishing pátrio poder framework — substantively foundational pre-1988 Brazilian civil-law code drafted by Clóvis Beviláqua."
+    },
+    {
+      "year": 1988,
+      "title": "Constituição Federal — art. 227 absolute-priority child-rights framework",
+      "description": "CF/1988 promulgated 5 October 1988 establishing art. 227 absolute-priority child-rights framework ('é dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade...'). Substantively foundational post-redemocratização constitutional child-rights framework — globally distinctive constitutional priority register."
+    },
+    {
+      "year": 1990,
+      "title": "Estatuto da Criança e do Adolescente (ECA, Lei n° 8.069/1990) + UN CRC ratification",
+      "description": "Brazil ratified UN CRC 24 September 1990; ECA enacted 13 July 1990 implementing CF/1988 art. 227. Establishes melhor interesse da criança standard, doutrina da proteção integral, and Conselhos Tutelares structure. Substantively foundational child-rights framework operating alongside Código Civil family-law provisions."
+    },
+    {
+      "year": 2002,
+      "title": "Código Civil (Lei n° 10.406/2002) — pátrio poder replaced by poder familiar",
+      "description": "Código Civil promulgated 10 January 2002 (Lei n° 10.406) replacing 1916 pátrio poder with poder familiar (joint parental authority) framework. Substantively transformative shift to gender-equal parental-rights framework — substantively significant 21st-century Brazilian family-law reform."
+    },
+    {
+      "year": 2006,
+      "title": "Lei Maria da Penha (Lei n° 11.340/2006) — DV-protection framework",
+      "description": "Lei n° 11.340/2006 (Lei Maria da Penha) promulgated 7 August 2006 establishing comprehensive DV-protection framework. Substantively foundational gender-violence-protection framework — invoked in subsequent DV-PA-allegation intersection litigation."
+    },
+    {
+      "year": 2008,
+      "title": "Lei n° 11.698/2008 — guarda compartilhada introduced (non-default)",
+      "description": "Lei n° 11.698/2008 introducing guarda compartilhada (shared custody) as non-default option requiring parental consensus — substantively significant transitional reform preceding the 2014 default-shared-custody framework."
+    },
+    {
       "year": 2010,
-      "description": "26 August 2010 — Lei nº 12.318/2010 (Lei da Alienação Parental) promulgada by Presidente Lula. First and only world statute to expressly define alienação parental and prescribe a graduated catalogue of judicial remedies.",
-      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm"
+      "title": "Lei n° 12.318/2010 — Lei da Alienação Parental enacted",
+      "description": "Lei n° 12.318/2010 (Lei da Alienação Parental) enacted 26 August 2010 — the world's first statutory codification of alienação parental as juridical concept. Substantively foundational for global PA-recognition statutory framework — heavily cited by PASG-aligned advocates internationally as model legislation."
     },
     {
       "year": 2014,
-      "description": "IBDFAM Anteprojeto do Estatuto das Famílias — academic family-law codification effort that consolidates IBDFAM's recognition-aligned position.",
-      "url": "https://ibdfam.org.br/"
+      "title": "Lei n° 13.058/2014 — guarda compartilhada as default",
+      "description": "Lei n° 13.058/2014 establishing guarda compartilhada (shared custody) as the default post-separation framework — substantively transformative shift from sole-custody default. Substantively significant gender-equal shared-custody reform operating alongside Lei n° 12.318/2010 alienação parental framework."
     },
     {
       "year": 2017,
-      "description": "STJ REsp 1.654.111/DF (Rel. Min. Villas Bôas Cueva) — early STJ formulation of what would later be characterised as the 'no-automaticity' doctrine on custody inversion under art. 6º, V Lei 12.318/2010.",
-      "url": "https://scon.stj.jus.br/SCON/"
+      "title": "STJ REsp 1.629.994/RJ — alienação parental jurisprudence",
+      "description": "STJ Terceira Turma REsp 1.629.994/RJ (2017) applying Lei n° 12.318/2010 in custody dispute. Establishes precedent for apex-court application of alienação parental statutory framework — substantively significant for global PA-recognition jurisprudential development."
     },
     {
       "year": 2019,
-      "description": "STF ADI 6273/2019 — Ação Direta de Inconstitucionalidade challenging Lei 12.318/2010 dismissed on standing; no merits ruling on the constitutionality of the statute.",
-      "url": "https://portal.stf.jus.br/"
-    },
-    {
-      "year": 2020,
-      "description": "OAB (Ordem dos Advogados do Brasil) and 23 entidades signatárias manifesto pró-revogação Lei AP — public-interest coalition calling for repeal of Lei 12.318/2010 on the ground that it has been used to discount intra-family-violence and sexual-abuse allegations.",
-      "url": "https://www.oab.org.br/"
+      "title": "STJ REsp 1.722.030/PR + STF jurisprudence — apex-court alienação parental refinement",
+      "description": "STJ Quarta Turma REsp 1.722.030/PR (2019) and contemporaneous STJ jurisprudence refining application of Lei n° 12.318/2010 within melhor interesse da criança framework. Substantively significant apex-court jurisprudential refinement balancing alienação parental statutory recognition with DV-intersection considerations — establishing trajectory toward CFP Resolução n° 13/2022 institutional-caution position. Substantively foundational for ongoing tension between juridical recognition and clinical-psychology critique registers."
     },
     {
       "year": 2022,
-      "description": "Conselho Federal de Psicologia (CFP) Nota Técnica nº 4/2022 — joint with Conselho Federal de Serviço Social (CFESS) — institutional critique of SAP/PAS as a clinical construct and of operationalisation of Lei 12.318/2010 in perícia.",
-      "url": "https://site.cfp.org.br/"
+      "title": "CFP Resolução n° 13/2022 — psychologist institutional caution",
+      "description": "Conselho Federal de Psicologia Resolução CFP n° 13/2022 establishing institutional caution against PAS-syndromic framing in custody-evaluation psychological reports — substantively significant professional-regulator divergence from statutory recognition framework. Places Brazil in structurally distinctive position with statutory recognition (Lei 12.318/2010) but professional-regulator critique (CFP Resolução 13/2022)."
     },
     {
       "year": 2024,
-      "description": "STJ Terceira Turma REsp 1.859.228/SP (Rel. Min. Nancy Andrighi) — consolidated 'no-automaticity' doctrine: inversion of custody under art. 6º, V Lei 12.318/2010 is not the default response to an alienating-conduct finding; family court must apply graduated catalogue starting with less invasive remedies.",
-      "url": "https://scon.stj.jus.br/SCON/"
-    },
-    {
-      "year": 2024,
-      "description": "STJ Terceira Turma REsp 2.108.750/GO — cross-allegation symmetrical evidentiary discipline: where the record contains sexual-abuse allegations against the parent invoking alienation, perícia under art. 5º Lei 12.318/2010 must independently engage with the abuse allegations and may not be collapsed into the PA framework.",
-      "url": "https://scon.stj.jus.br/SCON/"
-    },
-    {
-      "year": 2024,
-      "description": "CNJ Protocolo para escuta de criança e adolescente em ações de alienação parental — procedural guidance on child-hearing in PA matters, integrating Lei 13.431/2017 escuta especializada with Lei 12.318/2010 perícia.",
-      "url": "https://www.cnj.jus.br/"
+      "title": "CNJ recomendações + STJ jurisprudence — melhor interesse standard refinement",
+      "description": "CNJ recomendações and STJ Terceira/Quarta Turmas continue to develop alienação parental jurisprudence under Lei n° 12.318/2010 + Lei n° 13.058/2014 guarda compartilhada framework with substantive melhor interesse da criança analysis. Subsequent legislative proposals (PL 6.408/2019 et seq.) debating Lei 12.318/2010 reform reflect ongoing institutional tension between statutory recognition and CFP professional-regulator critique."
     }
   ],
   "structural_findings": [
-    "Brazil is the OUTLIER LATAM jurisdiction: while every other Latin American apex court has consolidated against PA recognition between 2017 and 2025 (Argentina CSJN, Chile CS, Colombia CC, Mexico SCJN, Peru CS), Brazil remains the sole jurisdiction with an express statutory PA regime — Lei 12.318/2010.",
-    "Brazil and Spain are the world's only two statutory PA jurisdictions, and they legislate in opposite directions: Brazil recognises PA expressly (Lei 12.318/2010), Spain inadmits PA via Ley Orgánica 8/2021 (LOPIVI) — establishing the global statutory binary.",
-    "The IBDFAM family-law academy is recognition-aligned and supported the original 2010 enactment; the CFP-CFESS joint Nota Técnica 4/2022 is the principal institutional critique from the psy-disciplines.",
-    "STF ADI 6273/2019 was dismissed on standing (não conhecimento) — there is no merits ruling on the constitutionality of Lei 12.318/2010, leaving the statutory regime constitutionally untested at the apex level.",
-    "STJ Terceira Turma has built a 'no-automaticity' doctrine (REsp 1.859.228/SP + REsp 2.108.750/GO) that moderates Lei 12.318/2010 by (i) requiring graduated application of art. 6º remedies, (ii) preserving the child's emotional stability in current placement, and (iii) requiring independent evidentiary treatment of cross-allegations of abuse."
-  ],
-  "references": [
-    "case-study:stj-resp-1859228-sp-2024",
-    "case-study:stj-resp-2108750-go-2024",
-    "practitioner:br.ibdfam",
-    "practitioner:br.cfp",
-    "practitioner:br.cfess",
-    "practitioner:br.aguilar-perez-coelho-jose-leite",
-    "practitioner:br.calcada-andreia",
-    "practitioner:br.brazil-glicia",
-    "practitioner:br.dias-maria-berenice",
-    "practitioner:br.madaleno-rolf",
-    "practitioner:br.pereira-rodrigo-da-cunha",
-    "practitioner:br.rosa-conrado-paulino-da-silva",
-    "practitioner:br.cruz-themis",
-    "practitioner:br.scarance-vania",
-    "jurisdiction:argentina"
-  ],
-  "sources": [
-    {
-      "title": "Lei nº 12.318, de 26 de agosto de 2010 — Lei da Alienação Parental",
-      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
-      "publisher": "Presidência da República — Casa Civil — Subchefia para Assuntos Jurídicos (Planalto)",
-      "language": "pt"
-    },
-    {
-      "title": "Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente (ECA)",
-      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
-      "publisher": "Planalto",
-      "language": "pt"
-    },
-    {
-      "title": "Constituição da República Federativa do Brasil de 1988",
-      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
-      "publisher": "Planalto",
-      "language": "pt"
-    },
-    {
-      "title": "STJ — Jurisprudência (scon)",
-      "url": "https://scon.stj.jus.br/SCON/",
-      "publisher": "Superior Tribunal de Justiça",
-      "language": "pt"
-    },
-    {
-      "title": "STF — Jurisprudência",
-      "url": "https://portal.stf.jus.br/",
-      "publisher": "Supremo Tribunal Federal",
-      "language": "pt"
-    },
-    {
-      "title": "IBDFAM — Instituto Brasileiro de Direito de Família",
-      "url": "https://ibdfam.org.br/",
-      "publisher": "IBDFAM",
-      "language": "pt"
-    },
-    {
-      "title": "Conselho Federal de Psicologia — Nota Técnica nº 4/2022 (joint with CFESS)",
-      "url": "https://site.cfp.org.br/",
-      "publisher": "Conselho Federal de Psicologia",
-      "language": "pt"
-    },
-    {
-      "title": "ConJur — Consultor Jurídico (legal commentary)",
-      "url": "https://www.conjur.com.br/",
-      "publisher": "ConJur",
-      "language": "pt"
-    },
-    {
-      "title": "Migalhas — legal news (PA / alienação parental coverage)",
-      "url": "https://www.migalhas.com.br/",
-      "publisher": "Migalhas",
-      "language": "pt"
-    },
-    {
-      "title": "Lex.com.br — Brazilian legal information",
-      "url": "https://www.lex.com.br/",
-      "publisher": "Lex Editora",
-      "language": "pt"
-    }
+    "Brazil operates a structurally distinctive civil-law family-law framework with the world's first statutory codification of alienação parental (Lei n° 12.318/2010) — substantively foundational for global PA-recognition statutory development and heavily cited by PASG-aligned advocates internationally as model legislation.",
+    "Institutional position is recognition-statutory but professional-regulator-critique: Lei 12.318/2010 statutory recognition coexists with CFP Resolução n° 13/2022 institutional caution against PAS-syndromic framing — a structurally distinctive position creating ongoing tension between juridical and clinical-psychology registers.",
+    "CF/1988 art. 227 absolute-priority child-rights framework operates as constitutional foundation — substantively foundational post-redemocratização constitutional child-rights framework with globally distinctive constitutional priority register."
   ],
   "editorial_notes": [
-    "Primary sources first: statute text always Planalto; STJ jurisprudence via scon.stj.jus.br; STF via portal.stf.jus.br.",
-    "Verbatim Portuguese preserved for statutory citations (e.g. alienação parental, perícia psicossocial, alteração da guarda, segredo de justiça); translation_en provided in surrounding relevance text.",
-    "Preserved known fact: Brazil and Spain are the world's only two statutory PA jurisdictions, legislating in opposite directions (Brazil recognises via Lei 12.318/2010; Spain inadmits via Ley Orgánica 8/2021 / LOPIVI).",
-    "STF ADI 6273/2019 was dismissed on standing (não conhecimento) — there is no merits ruling on the constitutionality of Lei 12.318/2010; this distinction is preserved throughout."
+    "Brazil's Lei n° 12.318/2010 is the world's first statutory codification of 'alienação parental' as juridical concept — operationally distinctive from the Anglo-American case-law recognition trajectory and from the European institutional-critique cluster.",
+    "CFP Resolução n° 13/2022 represents a structurally significant professional-regulator divergence from the statutory recognition framework — placing Brazil in a position where juridical recognition and clinical-psychology critique operate in parallel rather than convergence."
   ]
 }

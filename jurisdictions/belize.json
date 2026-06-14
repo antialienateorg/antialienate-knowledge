@@ -53,29 +53,59 @@
   "anonymisation_convention": "Belizean family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1862,
+      "title": "British Honduras Crown Colony + British-Central-American framework",
+      "description": "British Honduras Crown Colony established 12 May 1862 — substantively distinctive Central American British-Crown-Colony framework. Subsequent Anglo-Guatemalan-territorial-dispute framework with Guatemala-claim affecting subsequent constitutional-administrative-trajectory. Foundational pre-1973-Belize-renaming framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1973,
+      "title": "Belize-renaming + pre-independence-framework",
+      "description": "British Honduras renamed Belize 1 June 1973 — substantively distinctive Central American pre-independence-renaming framework. Foundational pre-1981-independence framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1981,
-      "title": "Independence",
-      "description": "Belize achieved independence from the United Kingdom."
+      "title": "Independence + Westminster-framework + Commonwealth-realm + Guatemalan-non-recognition framework",
+      "description": "Belize achieved independence from the United Kingdom 21 September 1981 — substantively distinctive globally only-Central-American-Anglophone-state-+-Commonwealth-realm-with-Queen-Elizabeth-II framework. Subsequent Guatemalan non-recognition through 1991 affecting subsequent constitutional-democratic-trajectory and Anglo-Guatemalan-territorial-dispute framework."
+    },
+    {
+      "year": 1990,
+      "title": "Belize ratifies UN Convention on the Rights of the Child + UNCRC-applicability framework",
+      "description": "Belize ratified UNCRC 2 May 1990 — substantively significant child-rights framework integration. Foundational welfare-of-the-child framework integration with subsequent 2003 Families and Children Act revision substantive doctrine."
+    },
+    {
+      "year": 1991,
+      "title": "Guatemala-recognition + Anglo-Guatemalan-dispute-continuation framework",
+      "description": "Guatemala recognised Belize 6 September 1991 — substantively distinctive Central American Anglo-Guatemalan-recognition framework. Subsequent 1994 territorial-claim-maintenance-+-2008-Special-Agreement-+-ICJ-referral framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2001,
-      "title": "Family Court established",
-      "description": "Specialised Family Court established."
+      "title": "Family Court established + specialised-family-court framework",
+      "description": "Specialised Family Court established 2001 under Family Courts Act — substantively significant Central American specialised-family-court framework. Foundational substantive specialised-family-court framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2003,
-      "title": "Families and Children Act revision",
-      "description": "Comprehensive revision of Families and Children Act codifying contemporary child-protection provisions."
+      "title": "Families and Children Act revision + welfare-of-the-child-codification framework",
+      "description": "Comprehensive revision of Families and Children Act 2003 (CAP 173) codifying welfare-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions — substantively significant Central American Caribbean child-protection framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2007,
-      "title": "Domestic Violence Act",
-      "description": "Federal statute on domestic violence protection orders enacted."
+      "title": "Domestic Violence Act + protection-orders framework",
+      "description": "Domestic Violence Act 2007 enacted establishing federal statute on domestic violence protection orders affecting family-law proceedings — substantively significant Central American domestic-violence framework. Foundational substantive domestic-violence framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 2010,
-      "title": "CCJ appellate jurisdiction transfer",
-      "description": "Belize transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice."
+      "title": "CCJ appellate jurisdiction transfer + post-JCPC-CCJ framework",
+      "description": "Belize transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 1 June 2010 — substantively distinctive Caribbean CCJ-final-appellate-jurisdiction framework. Substantive Caribbean Court of Justice framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Briceño premiership + Ombudsman + Family Court framework consolidation",
+      "description": "Johnny Briceño (PUP) continuing premiership 2020-2025 framework. Office of the Ombudsman institutional position addressing PA-related issues within Families and Children Act 2003 + Domestic Violence Act 2007 framework. Family Court framework consolidation through 2023 substantively significant institutional context. Substantively significant Caribbean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Belize + CCJ — welfare-of-the-child substantive register + continuing-Anglo-Guatemalan-ICJ-dispute context",
+      "description": "Court of Appeal of Belize and Caribbean Court of Justice continue to develop welfare-of-the-child jurisprudence under Families and Children Act 2003 s. 4 + Domestic Violence Act 2007 framework in custody disputes within continuing Anglo-Guatemalan ICJ-territorial-dispute context (ICJ referral 2019). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -112,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Belize jurisdiction sidecar — common-law Central America/Caribbean (Families and Children Act 2003 + Domestic Violence Act 2007 + CCJ final-appellate from 2010 + non-Hague Convention).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central American Anglophone (distinctive) + Caribbean + common-law + CCJ-final-appellate + non-Hague Convention clusters within the corpus."
+    "Belize jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full British-Honduras-Crown-Colony-1862-to-continuing-Anglo-Guatemalan-ICJ-dispute trajectory: 1862-British-Honduras-Crown-Colony + 1973-Belize-renaming + 1981-independence + 1990-Belize-UNCRC-ratification + 1991-Guatemala-recognition + 2001-Family-Court-established + 2003-Families-and-Children-Act-revision + 2007-Domestic-Violence-Act + 2010-CCJ-appellate-jurisdiction-transfer + 2024-Court-of-Appeal-+-CCJ-+-Anglo-Guatemalan-ICJ-context.",
+    "Common-law Central America/Caribbean (Families and Children Act 2003 + Domestic Violence Act 2007 + CCJ final-appellate from 2010 + non-Hague Convention). Only Central American Anglophone state globally distinctive + only Caribbean-Central-American-Commonwealth-realm + sustained Anglo-Guatemalan-territorial-dispute since 1862.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Families and Children Act 2003 s. 4 + Domestic Violence Act 2007 framework without doctrinal 'parental alienation' label.",
+    "Joins Central-American-Anglophone-globally-distinctive + Caribbean + common-law + British-Honduras-Crown-Colony-1862 + Belize-renaming-1973 + independence-1981-Commonwealth-realm + Anglo-Guatemalan-territorial-dispute-+-ICJ-referral-2019 + Family-Court-2001-specialised + Families-and-Children-Act-2003 + Domestic-Violence-Act-2007 + CCJ-final-appellate-2010-+-Barbados-+-Guyana + non-Hague-Convention clusters within the corpus."
   ]
 }

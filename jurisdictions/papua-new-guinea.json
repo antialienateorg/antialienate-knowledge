@@ -54,24 +54,59 @@
   "anonymisation_convention": "PNG family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1914,
+      "title": "Australian occupation + League-of-Nations-Mandate framework",
+      "description": "Australian military occupation of German New Guinea 17 September 1914 — Australian administration framework. Subsequent League of Nations Mandate (1920) and UN Trust Territory framework (1946-1975) substantively distinctive Pacific WWI-to-WWII administrative framework. Foundational pre-1975-independence framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1963,
+      "title": "Marriage Act + Matrimonial Causes Act + pre-independence statutory framework",
+      "description": "Marriage Act 1963 and Matrimonial Causes Act 1963 enacted establishing pre-independence statutory family-law framework. Foundational substantive-family-law framework persisting through 1975 independence and subsequent reform-trajectory."
+    },
+    {
       "year": 1975,
-      "title": "Independence",
-      "description": "Papua New Guinea achieved independence from Australia; Constitution adopted establishing common-law substantive framework with constitutionally-recognised customary-law jurisdiction."
+      "title": "Papua New Guinea independence + Michael Somare founding-prime-minister + Constitution",
+      "description": "Papua New Guinea achieved independence 16 September 1975 from Australia. Michael Somare first prime minister 1975-1980. Constitution adopted establishing common-law substantive framework with constitutionally-recognised customary-law jurisdiction. Substantively distinctive Pacific Island first-large-state-independence framework."
     },
     {
       "year": 1989,
-      "title": "Village Courts Act",
-      "description": "Federal statute establishing Village Courts for customary-law jurisdiction."
+      "title": "Village Courts Act + Bougainville-conflict-start framework",
+      "description": "Federal statute establishing Village Courts for customary-law jurisdiction. Bougainville civil war begins 1988-1998 substantively distinctive Pacific Island 10-year armed-conflict framework with estimated 15,000-20,000 killed substantially affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "PNG ratifies UN Convention on the Rights of the Child",
+      "description": "Papua New Guinea ratified the UNCRC on 2 March 1993 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2015 Lukautim Pikinini Act substantive doctrine."
     },
     {
       "year": 2000,
-      "title": "Underlying Law Act",
-      "description": "Federal statute codifying the role of customary law as part of underlying law of PNG."
+      "title": "Underlying Law Act + customary-law-codification framework",
+      "description": "Federal statute Underlying Law Act 2000 codifying the role of customary law as part of underlying law of PNG. Substantively significant Pacific Island customary-law-codification framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2001,
+      "title": "Bougainville Peace Agreement + autonomous-region framework",
+      "description": "Bougainville Peace Agreement 30 August 2001 ending Bougainville Civil War 1988-1998. Subsequent Bougainville Autonomous Region framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
     },
     {
       "year": 2015,
       "title": "Lukautim Pikinini (Child) Act",
-      "description": "Federal Child Welfare Act enacted codifying welfare-of-the-child principle and child-protection provisions."
+      "description": "Federal Child Welfare Act enacted codifying welfare-of-the-child principle (s. 5), parental responsibility, custody, and children's protection provisions. Tok Pisin language title 'Lukautim Pikinini' means 'Looking after the child' — substantively distinctive within corpus indigenous-language-legislative-naming framework."
+    },
+    {
+      "year": 2019,
+      "title": "Bougainville independence referendum 2019 + 97.7%-in-favour framework",
+      "description": "Bougainville independence referendum 23 November – 7 December 2019 — substantively distinctive Pacific Island self-determination framework with 97.7% in favour of independence. Substantive subsequent independence-negotiation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Australia security partnership + Bougainville independence trajectory + Family Sexual Violence Strategy",
+      "description": "Papua New Guinea-Australia security partnership 2023 substantively significant Pacific geopolitical framework affecting institutional context. Bougainville independence trajectory continuing 2023 with 2027 independence target. Family and Sexual Violence Strategy 2023-2025 framework implementation. PNG Office of the Public Solicitor and CIMC institutional positions addressing PA-related issues within Lukautim Pikinini Act + Marriage Act 1963 + customary-law framework. Substantively significant Pacific institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of PNG + Village Courts — welfare-of-the-child substantive register + Marape presidency",
+      "description": "Supreme Court of Papua New Guinea and Village Courts continue to develop welfare-of-the-child jurisprudence under Lukautim Pikinini Act 2015 s. 5 + Marriage Act 1963 + Matrimonial Causes Act 1963 + customary-law framework in custody disputes within James Marape (Pangu Pati) presidency since 30 May 2019. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -102,8 +137,9 @@
     }
   ],
   "editorial_notes": [
-    "Papua New Guinea jurisdiction sidecar — mixed-legal-system Pacific Island (Australian-derivative common-law substantive + customary-law via Village Courts + Underlying Law Act 2000 + Lukautim Pikinini Act 2015 + non-Hague Convention).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific Island + mixed-legal-system + Australian-derivative + customary-law-codified + Tok-Pisin-statute-distinctive + trilingual-official-language + non-Hague Convention clusters within the corpus."
+    "Papua New Guinea jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Australian-occupation-to-Marape trajectory: 1914-Australian-occupation-+-League-of-Nations-Mandate + 1963-Marriage-Act-+-Matrimonial-Causes-Act + 1975-Papua-New-Guinea-independence-+-Michael-Somare + 1989-Village-Courts-Act-+-Bougainville-conflict-start + 1993-UNCRC-ratification + 2000-Underlying-Law-Act-+-customary-law-codification + 2001-Bougainville-Peace-Agreement + 2015-Lukautim-Pikinini-Child-Act + 2019-Bougainville-independence-referendum-+-97.7-percent + 2024-Supreme-Court-+-Village-Courts-+-Marape-presidency.",
+    "Mixed-legal-system Pacific Island (Australian-derivative common-law substantive + customary-law via Village Courts + Underlying Law Act 2000 + Lukautim Pikinini Act 2015 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Lukautim Pikinini Act 2015 s. 5 + customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific-Island + mixed-legal-system + Australian-derivative + customary-law-codified-Village-Courts-Act-1989-+-Underlying-Law-Act-2000 + Tok-Pisin-statute-Lukautim-Pikinini-Act-2015-indigenous-language-legislative-naming-distinctive-corpus + trilingual-official-language-English-Tok-Pisin-Hiri-Motu + Australian-occupation-+-UN-Trust-Territory-1914-1975 + Michael-Somare-founding-PM-1975 + Bougainville-Civil-War-1988-1998-15000-20000-killed-distinctive + Bougainville-Peace-Agreement-2001 + Bougainville-independence-referendum-2019-97.7-percent-distinctive-globally + Marape-Pangu-Pati-2019-presidency + non-Hague-Convention clusters within the corpus."
   ]
 }

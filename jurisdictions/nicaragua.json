@@ -47,19 +47,59 @@
   "anonymisation_convention": "Nicaraguan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1821,
+      "title": "Nicaragua independence + Central-American-Federation framework",
+      "description": "Nicaragua independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1937,
+      "title": "Somoza dynasty 1937-1979 + 42-year-dynastic-authoritarian framework",
+      "description": "Anastasio Somoza García assumed presidency 1 January 1937 — substantively distinctive Latin American 42-year-Somoza-dynastic-authoritarian framework 1937-1979 (Anastasio Somoza García + Luis Somoza Debayle + Anastasio Somoza Debayle). Substantive Cold-War-era US-Somoza-relations affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1979,
+      "title": "Sandinista Revolution + FSLN + post-Somoza framework",
+      "description": "Sandinista Revolution 19 July 1979 ending Somoza dynasty — FSLN (Frente Sandinista de Liberación Nacional) led by Daniel Ortega. Substantively distinctive Latin American Marxist-Leninist revolution framework. Foundational pre-Contras-War framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1981,
+      "title": "Contras War 1981-1990 + US-Iran-Contra-affair + Cold-War-conflict framework",
+      "description": "Contras War 1981-1990 between Sandinista government and US-backed Contras. Substantively distinctive Latin American Cold-War-era conflict framework with estimated 30,000+ killed. Foundational pre-Esquipulas-II framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Nicaragua ratifies UN Convention on the Rights of the Child + Chamorro presidency framework",
+      "description": "Nicaragua ratified the UNCRC on 5 October 1990 — substantively significant child-rights framework integration. Violeta Barrios de Chamorro elected President 25 April 1990 ending Sandinista era. Substantively distinctive Latin American first-female-president framework."
+    },
+    {
       "year": 1998,
-      "title": "Children and Adolescents Code (Law 287)",
-      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+      "title": "Children and Adolescents Code (Law 287) + UNCRC-aligned framework",
+      "description": "Federal Code enacted Law 287 of 24 March 1998 codifying superior-interest-of-the-child principle (art. 9) aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Central American framework."
     },
     {
       "year": 2001,
       "title": "Hague Convention 1980 accession",
-      "description": "Nicaragua acceded to the Hague Convention 1980 effective 1 March 2001."
+      "description": "Nicaragua acceded to the Hague Convention 1980 effective 1 March 2001 — substantively significant Hague Latin American accession affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2007,
+      "title": "Daniel Ortega presidency-return + Sandinista-return framework",
+      "description": "Daniel Ortega (FSLN) elected President 10 January 2007 — substantively distinctive Latin American Sandinista-return framework following 17-year-Chamorro-Aleman-Bolaños interregnum. Subsequent re-elections 2011, 2016, 2021 substantively affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2014,
       "title": "Family Code 2014 (Law 870)",
-      "description": "Comprehensive Family Code enacted effective 8 April 2015 replacing prior Civil Code family-law provisions."
+      "description": "Comprehensive Family Code enacted Law 870 of 24 June 2014 effective 8 April 2015 replacing prior Civil Code family-law provisions. Arts. 264-281 govern autoridad parental and child custody. Substantively significant family-law-modernisation framework."
+    },
+    {
+      "year": 2018,
+      "title": "2018 Nicaraguan protests + Ortega-Murillo authoritarian-consolidation framework",
+      "description": "2018 Nicaraguan protests April-July 2018 substantively distinctive Latin American democratic-backsliding framework — estimated 300+ killed. Subsequent Ortega-Murillo authoritarian-consolidation framework substantially reshaping political-institutional framework. Rosario Murillo (Daniel Ortega's wife) elected Vice-President 2017, co-president 2025 affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Corte Suprema de Justicia + Murillo co-presidency framework + superior-interest-of-the-child substantive register",
+      "description": "Corte Suprema de Justicia continues to develop superior-interest-of-the-child jurisprudence under Family Code 2014 arts. 264-281 + Hague Convention 1980 framework within Ortega-Murillo co-presidency framework (Rosario Murillo named co-president 2024-2025). Procuraduría para la Defensa de los Derechos Humanos institutional position substantively affected by authoritarian-consolidation framework. Substantive analysis without doctrinal 'parental alienation' label adoption within constrained institutional context."
     }
   ],
   "structural_findings": [
@@ -89,8 +129,9 @@
     }
   ],
   "editorial_notes": [
-    "Nicaragua jurisdiction sidecar — civil-law Central America (Family Code 2014 + Children and Adolescents Code 1998 + Hague Convention 1980 accession 2001).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Latin American + civil-law + Central American + recent-comprehensive-Family-Code + Hague Convention clusters within the corpus."
+    "Nicaragua jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Somoza-to-Ortega-Murillo trajectory: 1821-Nicaragua-independence-+-Central-American-Federation + 1937-Somoza-dynasty-42-year + 1979-Sandinista-Revolution-+-FSLN + 1981-Contras-War-+-US-Iran-Contra + 1990-UNCRC-+-Chamorro-first-female-president + 1998-Children-and-Adolescents-Code-Law-287 + 2001-Hague-Convention-1980-accession + 2007-Daniel-Ortega-presidency-return-+-Sandinista-return + 2014-Family-Code-Law-870 + 2018-2018-Nicaraguan-protests-+-Ortega-Murillo-authoritarian-consolidation.",
+    "Civil-law Central America (Family Code 2014 + Children and Adolescents Code 1998 + Hague Convention 1980 accession 2001).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code 2014 + Children and Adolescents Code 1998 art. 9 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Latin-American + civil-law + Central-American + Somoza-dynasty-1937-1979-42-year-three-generation-distinctive + Sandinista-Revolution-1979 + Contras-War-1981-1990-+-US-Iran-Contra-affair + Violeta-Chamorro-first-female-president-Latin-America-1990 + Ortega-Sandinista-return-2007 + Rosario-Murillo-co-president-2025 + 2018-Nicaraguan-protests-+-Ortega-Murillo-authoritarian-consolidation-distinctive + Hague-Convention clusters within the corpus."
   ]
 }

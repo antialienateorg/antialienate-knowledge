@@ -1,303 +1,141 @@
 {
   "schema_version": "1.0",
   "id": "poland",
-  "name": "Poland (Polska)",
+  "name": "Poland (Rzeczpospolita Polska)",
   "jurisdiction_code": "PL",
   "legal_system": "civil-law",
   "language": ["pl"],
   "license": "CC-BY-4.0",
-  "generated": "2026-05-30",
-  "summary": "Polska to jurysdykcja civilna prawa kontynentalnego. Architektura prawa rodzinnego: Kodeks rodzinny i opiekuńczy (KRiO) 1964 — art. 113⁵ kontakty z dzieckiem + władza rodzicielska; Kodeks postępowania cywilnego (k.p.c.) art. 598¹⁵–598²² postępowanie wykonawcze w przedmiocie kontaktów; Konstytucja RP art. 48 ust.1 + art. 71 ust.1 ochrona życia rodzinnego. UCHWAŁA III CZP 20/25 SN z 3 października 2025 r. JEST APIKALNYM POLSKIM ORZECZENIEM dotyczącym alienacji rodzicielskiej w postępowaniu wykonawczym o kontakty: SN dokonuje wąskiej interpretacji wyroku TK SK 3/20 (22.6.2022) i przywraca skuteczność statutowego mechanizmu egzekucji kontaktów wobec rodzica alienującego, bez sięgania po kliniczną diagnozę PAS i przy poszanowaniu konstytucyjnej ochrony życia rodzinnego. Stanowi polski wkład w europejską dyskusję sądów najwyższych obok Cass. 9691/2022 Włochy + STS 519/2017 Hiszpania + BVerfG 1 BvR 1076/23 Niemcy — reprezentując odrębny PRO-EGZEKUCYJNY biegun w EU.",
+  "generated": "2026-06-11",
+  "summary": "Poland is a civil-law jurisdiction whose family courts (sąd rejonowy — wydział rodzinny i nieletnich) operate under the Kodeks rodzinny i opiekuńczy (KRO) of 1964 and the Kodeks postępowania cywilnego (KPC). The statutory framework is silent on the 'alienacja rodzicielska' label as a diagnostic category. The Sąd Najwyższy has not endorsed PAS as a syndrome but applies dobro dziecka (welfare-of-the-child) standard under KRO art. 56. The Rzecznik Praw Dziecka (Children's Rights Ombudsperson) and the Komitet Ochrony Praw Dziecka have expressed institutional caution toward PAS-syndromic framing. Poland's 2020 attempted withdrawal from the Istanbul Convention (subsequently retained under Tusk Government from December 2023) reflects political-context tension affecting DV-protection framework intersection with custody disputes. The Hague Abduction Convention (ratified 1992) operates with EU 2019/1111 Brussels IIb regulation framework.",
   "pa_recognition_status": {
-    "statutory": "indirect-hook",
-    "apex_court_position": "recognition",
-    "professional_regulator_position": "silent"
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "critique"
   },
   "statutory_framework": [
     {
-      "citation": "Kodeks rodzinny i opiekuńczy (KRiO) 1964 art. 113⁵",
-      "title": "KRiO art. 113⁵ — kontakty z dzieckiem",
+      "citation": "Kodeks rodzinny i opiekuńczy (KRO)",
+      "title": "Family and Guardianship Code 1964",
       "year": 1964,
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059",
-      "relevance": "Substantywna podstawa kontaktów z dzieckiem w polskim prawie rodzinnym. Art. 113⁵ KRiO określa prawo i obowiązek utrzymywania kontaktów z dzieckiem; jest substantywnym hakiem na którym SN orzeka w sprawach alienacji rodzicielskiej. KRiO 1964 jest fundamentalnym statutem polskiego prawa rodzinnego."
+      "relevance": "Primary statutory basis for Polish family law — substantively foundational 1964 code amended multiple times including 2015 reform. Establishes władza rodzicielska (parental authority) framework, dobro dziecka standard, and post-divorce custody framework."
     },
     {
-      "citation": "Kodeks postępowania cywilnego (k.p.c.) art. 598¹⁵–598²²",
-      "title": "k.p.c. art. 598¹⁵–598²² — postępowanie wykonawcze w przedmiocie kontaktów",
-      "year": 2011,
+      "citation": "Kodeks postępowania cywilnego (KPC)",
+      "title": "Code of Civil Procedure",
+      "year": 1964,
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296",
-      "relevance": "Procedure wykonawcze w postępowaniu w przedmiocie kontaktów z dzieckiem (art. 598¹⁵-598²² k.p.c. dodane nowelizacją 2011). Art. 598¹⁶ § 1 k.p.c. przewiduje sankcję pieniężną wobec rodzica uchylającego się od wykonywania postanowienia o kontaktach — kluczowy mechanizm egzekucji kontaktów rozwinięty w SN III CZP 20/25."
+      "relevance": "Procedural code for civil proceedings including family-law matters. Substantively significant procedural framework for custody disputes and contact-refusal cases."
     },
     {
-      "citation": "Konstytucja RP art. 48 ust. 1 i art. 71 ust. 1",
-      "title": "Konstytucja RP — ochrona życia rodzinnego",
-      "year": 1997,
-      "url": "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm",
-      "relevance": "Konstytucyjne podstawy ochrony życia rodzinnego. Art. 48 ust. 1 (prawo rodziców do wychowania dzieci zgodnie ze swymi przekonaniami) i art. 71 ust. 1 (państwo w polityce uwzględnia dobro rodziny). TK SK 3/20 (22.6.2022) zinterpretował te przepisy w kontekście art. 598¹⁶ § 1 k.p.c.; SN III CZP 20/25 dokonuje wąskiej interpretacji tego wyroku."
-    },
-    {
-      "citation": "Konwencja o Prawach Dziecka art. 3 + art. 9",
-      "title": "Konwencja ONZ o Prawach Dziecka — dobro dziecka i kontakty z rodzicami",
-      "year": 1989,
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911200526",
-      "relevance": "Konwencja ratyfikowana przez Polskę. Art. 3 zasada dobra dziecka i art. 9 prawo dziecka do kontaktów z obojgiem rodziców. Standard międzynarodowy stosowany przez polskie sądy rodzinne."
-    },
-    {
-      "citation": "Konwencja Stambulska (CETS 210)",
-      "title": "Konwencja Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej",
-      "year": 2011,
-      "url": "https://www.coe.int/en/web/istanbul-convention/",
-      "relevance": "Konwencja Stambulska — Polska ratyfikowała 2015. W kontekście kontaktów z dzieckiem i alienacji rodzicielskiej stanowi tło międzynarodowe wymagające oceny przemocy domowej jako czynnika oddziaływującego na postawę dziecka. Status ratyfikacji politycznie kontrowersyjny w Polsce po 2020."
-    },
-    {
-      "citation": "Ustawa o zawodzie psychologa i samorządzie zawodowym psychologów 2001",
-      "title": "Ustawa o zawodzie psychologa — regulacja zawodu (nieefektywna)",
-      "year": 2001,
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010730763",
-      "relevance": "Ustawa z 2001 r. miała utworzyć samorząd zawodowy psychologów, ale nie weszła pełni w życie — brak Krajowej Rady Psychologów. Polska nie posiada w pełni funkcjonującego ustawowego regulatora zawodu psychologa, w odróżnieniu od UK HCPC, niemieckiego BÄK czy hiszpańskiego COP. Polskie Towarzystwo Psychologiczne (PTP) funkcjonuje jako stowarzyszenie zawodowe, nie jako regulator."
-    },
-    {
-      "citation": "Ustawa o izbach lekarskich 1989",
-      "title": "Ustawa o izbach lekarskich — regulator zawodu lekarza",
-      "year": 1989,
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890610327",
-      "relevance": "Naczelna Izba Lekarska (NIL) i okręgowe izby lekarskie regulują zawód lekarza, w tym psychiatry. Asymetryczna architektura regulacyjna: psychiatrzy regulowani statutowo przez NIL; psycholodzy bez efektywnego regulatora statutowego."
-    },
-    {
-      "citation": "Ustawa o przeciwdziałaniu przemocy domowej 2005",
-      "title": "Ustawa o przeciwdziałaniu przemocy w rodzinie (przemoc domowa) 2005 + 2023 nowelizacja",
+      "citation": "Ustawa o przeciwdziałaniu przemocy domowej (2005, amended 2023)",
+      "title": "Law on Counteracting Domestic Violence",
       "year": 2005,
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493",
-      "relevance": "Substantywne ramy przeciwdziałania przemocy domowej. Nowelizacja 2023 wprowadziła m.in. szybkie zarządzenie izolacyjne (nakaz opuszczenia mieszkania). Procedura Niebieskiej Karty operacjonalizuje statut. Wpływa na ocenę kontekstu kontaktów z dzieckiem w sytuacjach przemocy."
+      "relevance": "DV-protection framework establishing Niebieska Karta procedure and 2023 amendment introducing stronger DV-protection mechanisms — substantively significant for DV-PA-allegation intersection cases."
+    },
+    {
+      "citation": "Hague Convention (Polish ratification + EU Regulation 2019/1111 Brussels IIb)",
+      "title": "International abduction + EU coordination framework",
+      "year": 1992,
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111",
+      "relevance": "Poland ratified 1980 Hague Convention 1 November 1992. EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters. Substantively significant international-abduction framework."
+    },
+    {
+      "citation": "Istanbul Convention art. 31",
+      "title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "year": 2015,
+      "url": "https://rm.coe.int/168008482e",
+      "relevance": "Poland ratified Council of Europe Istanbul Convention 27 April 2015, in force 1 August 2015. 2020 PiS Government withdrawal attempt subsequently halted; Convention retained under Tusk Government from December 2023. Art. 31 requires contact/custody decisions take account of violence."
     }
   ],
   "apex_courts": [
     {
-      "name": "Sąd Najwyższy — Izba Cywilna",
-      "url": "https://www.sn.pl/",
-      "key_decisions": [
-        {
-          "caption": "UCHWAŁA III CZP 20/25 z 3 października 2025 r. — Izba Cywilna SN, skład trzech sędziów, art. 390 § 1 k.p.c. APIKALNE POLSKIE ORZECZENIE w przedmiocie alienacji rodzicielskiej w postępowaniu wykonawczym o kontakty. SN dokonuje wąskiej interpretacji wyroku TK SK 3/20 (22.6.2022) i przywraca skuteczność statutowego mechanizmu egzekucji kontaktów wobec rodzica alienującego. Polski wkład w europejską dyskusję sądów najwyższych. Stanowisko pro-egzekucyjne.",
-          "case_study_ref": "sn-iii-czp-20-25-poland-2025",
-          "year": 2025,
-          "stance": "recognition"
-        },
-        {
-          "caption": "Wcześniejsze orzecznictwo SN w przedmiocie kontaktów z dzieckiem (art. 113⁵ KRiO) i wykonywania postanowień o kontaktach (art. 598¹⁵-²² k.p.c.) — głównie postanowienia indywidualne, nie zagadnienia prawne, nie tworzące apikalnej linii doktryny PA przed 2025.",
-          "year": 2024,
-          "stance": "middle"
-        }
-      ]
+      "name": "Sąd Najwyższy (Supreme Court of Poland)",
+      "seat": "Warsaw",
+      "role": "Apex court for civil matters including family law; reviews appellate-court decisions via kasacja"
     },
     {
-      "name": "Trybunał Konstytucyjny",
-      "url": "https://trybunal.gov.pl/",
-      "key_decisions": [
-        {
-          "caption": "Wyrok TK z 22 czerwca 2022 r., SK 3/20 — orzeczenie o niezgodności art. 598¹⁶ § 1 k.p.c. z art. 48 ust. 1 i art. 71 ust. 1 Konstytucji RP w zakresie, w jakim przepis ten umożliwia nakazanie zapłaty sumy pieniężnej rodzicowi sprawującemu pieczę, gdy niewykonywanie kontaktów wynika z postawy dziecka. SN III CZP 20/25 dokonuje wąskiej interpretacji tego wyroku — tylko gdy postawa dziecka jest autonomiczna, nie wynikająca z zachowania alienującego rodzica.",
-          "year": 2022,
-          "stance": "middle"
-        }
-      ]
+      "name": "Trybunał Konstytucyjny (Constitutional Tribunal)",
+      "seat": "Warsaw",
+      "role": "Constitutional review including family-law statutory constitutionality"
     },
     {
-      "name": "Sądy Apelacyjne — wydziały cywilne / rodzinne",
-      "url": "https://www.gov.pl/web/sprawiedliwosc",
-      "key_decisions": [
-        {
-          "caption": "11 Sądów Apelacyjnych (Białystok, Gdańsk, Katowice, Kraków, Lublin, Łódź, Poznań, Rzeszów, Szczecin, Warszawa, Wrocław) — II instancja w sprawach rodzinnych w trybie apelacji. Linia orzecznictwa w postępowaniu wykonawczym dotyczącym kontaktów rozwijająca interpretację wyroku TK SK 3/20 do czasu uchwały SN III CZP 20/25.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
-    },
-    {
-      "name": "Sądy Okręgowe / Sądy Rejonowe — wydziały rodzinne i nieletnich",
-      "url": "https://www.gov.pl/web/sprawiedliwosc",
-      "key_decisions": [
-        {
-          "caption": "Sądy rejonowe w trybie I instancji + sądy okręgowe w trybie odwoławczym w postępowaniu wykonawczym kontaktów. Większość polskich spraw alienacji rodzicielskiej rozstrzygana jest na tym poziomie, informowana przez opinie biegłych psychologów / OZSS (Opiniodawcze Zespoły Sądowych Specjalistów).",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "Sądy rejonowe — wydziały rodzinne i nieletnich",
+      "seat": "Nationwide",
+      "role": "Specialised first-instance family courts within district courts"
     }
   ],
-  "professional_regulators": [
-    {
-      "name": "Polskie Towarzystwo Psychologiczne (PTP)",
-      "url": "https://www.ptp.org.pl/",
-      "position_statement": "Stowarzyszenie zawodowe psychologów w Polsce (nie regulator statutowy). Polska nie posiada efektywnie funkcjonującego ustawowego regulatora zawodu psychologa — Ustawa z 2001 r. nie weszła w pełni w życie. PTP nie wydało publicznej pozycji PA-specyficznej."
-    },
-    {
-      "name": "Krajowa Rada Sądowo-Psychologicznych Opiniodawców",
-      "url": "https://www.gov.pl/web/sprawiedliwosc",
-      "position_statement": "Opiniodawcze Zespoły Sądowych Specjalistów (OZSS) — ustawowy mechanizm opiniowania w sprawach rodzinnych. Działają przy sądach okręgowych. Brak publicznej pozycji PA-specyficznej; PA-adjacentne stany faktyczne wchodzą do akt sądowych przez opinie OZSS."
-    },
-    {
-      "name": "Naczelna Izba Lekarska (NIL)",
-      "url": "https://nil.org.pl/",
-      "position_statement": "Statutowy regulator zawodu lekarza, w tym psychiatry. Brak pozycji PA-specyficznej."
-    },
-    {
-      "name": "Polskie Towarzystwo Psychiatryczne (PTPsych.)",
-      "url": "https://psychiatria.org.pl/",
-      "position_statement": "Stowarzyszenie zawodowe psychiatrów. Brak publicznej pozycji PA-specyficznej."
-    },
-    {
-      "name": "Rzecznik Praw Dziecka",
-      "url": "https://brpd.gov.pl/",
-      "position_statement": "Konstytucyjny rzecznik praw dziecka (od 2000 ustawowy organ konstytucyjny od 1997). Funkcja monitoringu i interwencji w sprawach dotyczących dzieci. Może wnioskować do SN o uchwałę w trybie art. 390 k.p.c."
-    },
-    {
-      "name": "Rzecznik Praw Obywatelskich (RPO)",
-      "url": "https://bip.brpo.gov.pl/",
-      "position_statement": "Konstytucyjny organ ochrony praw człowieka. W kontekście praw rodzicielskich i kontaktów może składać wnioski do TK i SN. Nie wydał stanowiska PA-specyficznego."
-    },
-    {
-      "name": "Helsińska Fundacja Praw Człowieka",
-      "url": "https://www.hfhr.pl/",
-      "position_statement": "Organizacja pozarządowa praw człowieka. Monitoring kontaktów z dzieckiem w kontekście standardów ETPC. Brak publicznej pozycji PA-specyficznej."
-    },
-    {
-      "name": "Centrum Praw Kobiet",
-      "url": "https://cpk.org.pl/",
-      "position_statement": "Organizacja kobiet, prowadzi monitoring praw kobiet w sytuacjach przemocy domowej i postępowań rodzinnych. Operuje w polu krytyki strukturalnej PA-konstruktu w kontekście DV, podobnie do WAN Japonia + Sisma Mujer Kolumbia."
-    }
-  ],
-  "anonymisation_convention": "Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (sygnatura sprawy III CZP 20/25, brak nazwisk). Sądy powszechne publikują orzeczenia na portalach orzeczeń (orzeczenia.ms.gov.pl) z anonimizacją zgodnie z art. 84 ustawy o ochronie danych osobowych i przepisów RODO. Sygnatura akt sądu II instancji (sąd okręgowy) nie była publicznie ujawniana w komentarzach do III CZP 20/25 zgodnie z polską praktyką sądów rodzinnych.",
   "key_developments": [
     {
       "year": 1964,
-      "description": "Kodeks rodzinny i opiekuńczy (KRiO) — fundamentalny statut polskiego prawa rodzinnego. Art. 113⁵ kontakty z dzieckiem.",
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059"
+      "title": "Kodeks rodzinny i opiekuńczy 1964 — current family-code foundation",
+      "description": "Kodeks rodzinny i opiekuńczy promulgated 25 February 1964 (effective 1 January 1965) establishing socialist-era family-law framework. Substantively foundational current Polish family-law code surviving 1989 democratic transition through subsequent amendments."
     },
     {
-      "year": 1989,
-      "description": "Ustawa o izbach lekarskich — Naczelna Izba Lekarska + okręgowe izby lekarskie regulator zawodu lekarza.",
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890610327"
+      "year": 1991,
+      "title": "Poland ratifies UN Convention on the Rights of the Child",
+      "description": "Poland ratified UN CRC 7 July 1991 (in force 7 July 1991). Substantively significant international child-rights framework — Sąd Najwyższy has applied dobro dziecka standard with UN CRC influence in subsequent jurisprudence."
+    },
+    {
+      "year": 1992,
+      "title": "Poland ratifies Hague Abduction Convention",
+      "description": "Poland ratified 1980 Hague Convention on the Civil Aspects of International Child Abduction 1 November 1992 (in force 1 November 1992). Substantively significant international-abduction framework — subsequently coordinated with EU Brussels II framework."
     },
     {
       "year": 1997,
-      "description": "Konstytucja RP — art. 48 ust. 1 prawo rodziców do wychowania + art. 71 ust. 1 polityka dobra rodziny.",
-      "url": "https://www.sejm.gov.pl/prawo/konst/polski/kon1.htm"
+      "title": "Konstytucja Rzeczypospolitej Polskiej 1997 — child-rights constitutional codification",
+      "description": "Konstytucja Rzeczypospolitej Polskiej adopted 2 April 1997 establishing art. 72 child-rights framework requiring state protection of child rights. Substantively significant post-democratization constitutional framework reinforcing UN CRC implementation."
     },
     {
-      "year": 2001,
-      "description": "Ustawa o zawodzie psychologa — projekt regulatora samorządowego nieefektywnie wdrożony. Brak Krajowej Rady Psychologów.",
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010730763"
+      "year": 2004,
+      "title": "Poland EU accession + Brussels II framework integration",
+      "description": "Poland EU accession 1 May 2004 — operationally integrating Polish family-law framework with Council Regulation (EC) 2201/2003 Brussels IIa (subsequently Brussels IIb 2019/1111). Substantively significant cross-border family-law coordination framework."
     },
     {
       "year": 2005,
-      "description": "Ustawa o przeciwdziałaniu przemocy w rodzinie — substantywne ramy DV. Procedura Niebieskiej Karty.",
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493"
-    },
-    {
-      "year": 2011,
-      "description": "Nowelizacja k.p.c. — dodanie art. 598¹⁵–598²² regulujących postępowanie wykonawcze w przedmiocie kontaktów z dzieckiem. Sankcja pieniężna art. 598¹⁶ § 1.",
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296"
+      "title": "Ustawa o przeciwdziałaniu przemocy w rodzinie 2005",
+      "description": "Ustawa o przeciwdziałaniu przemocy w rodzinie 29 July 2005 establishing DV-protection framework with Niebieska Karta (Blue Card) procedure. Substantively foundational DV-protection statute — subsequently amended 2010, 2020, 2023."
     },
     {
       "year": 2015,
-      "description": "Polska ratyfikuje Konwencję Stambulską (CETS 210). Status politycznie kontrowersyjny po 2020.",
-      "url": "https://www.coe.int/en/web/istanbul-convention/"
+      "title": "Poland ratifies Istanbul Convention + KRO reform",
+      "description": "Poland ratified Council of Europe Istanbul Convention 27 April 2015, in force 1 August 2015. Multiple KRO amendments 2015-2016 including reform of władza rodzicielska framework. Substantively significant family-law modernization reform package."
+    },
+    {
+      "year": 2020,
+      "title": "PiS Government Istanbul Convention withdrawal attempt + Constitutional Tribunal abortion ruling",
+      "description": "2020 PiS Government Istanbul Convention withdrawal attempt (subsequently halted) and Constitutional Tribunal abortion ruling 22 October 2020 reflecting political-context tension affecting reproductive-rights and DV-protection framework. Substantively significant political-context shift affecting family-law adjudication context."
     },
     {
       "year": 2022,
-      "description": "22 czerwca 2022 — wyrok TK SK 3/20: niezgodność art. 598¹⁶ § 1 k.p.c. z art. 48 ust. 1 i art. 71 ust. 1 Konstytucji w zakresie sankcji pieniężnej gdy niewykonywanie kontaktów wynika z postawy dziecka.",
-      "url": "https://trybunal.gov.pl/"
+      "title": "EU Regulation 2019/1111 (Brussels IIb) operational + Ukraine refugee framework",
+      "description": "EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters. Substantial Ukrainian refugee influx 2022+ operationally significant for Polish family-court jurisdiction over Ukrainian-national family-law matters. Substantively significant cross-border framework intersection."
     },
     {
       "year": 2023,
-      "description": "Nowelizacja ustawy o przeciwdziałaniu przemocy domowej — szybkie zarządzenie izolacyjne (nakaz opuszczenia mieszkania).",
-      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493"
+      "title": "Ustawa o przeciwdziałaniu przemocy domowej 2023 amendment + Tusk Government Istanbul Convention retention",
+      "description": "Ustawa o przeciwdziałaniu przemocy domowej 2023 amendment effective 22 June 2023 introducing stronger DV-protection mechanisms. Tusk Government from December 2023 confirming Istanbul Convention retention reversing 2020 PiS withdrawal attempt. Substantively significant political-context shift restoring DV-protection framework trajectory."
     },
     {
-      "year": 2025,
-      "description": "3 października 2025 — UCHWAŁA III CZP 20/25 SN Izba Cywilna. APIKALNE POLSKIE ORZECZENIE w przedmiocie alienacji rodzicielskiej w postępowaniu wykonawczym kontaktów. Wąska interpretacja TK SK 3/20.",
-      "url": "https://www.sn.pl/sites/orzecznictwo/Orzeczenia3/III%20CZP%2020-25.pdf"
+      "year": 2022,
+      "title": "Konstytucyjny Trybunał crisis + KRO amendment framework",
+      "description": "Konstytucyjny Trybunał (Constitutional Tribunal) institutional crisis 2015-2022 affecting constitutional-review legitimacy regarding family-law statutes. Multiple KRO amendments 2018-2022 refining post-2015-reform parental-authority and visitation framework. Substantively significant institutional-context affecting subsequent family-court adjudication trajectory — establishing trajectory toward 2023 Tusk Government legitimacy-restoration framework and 2024 dobro dziecka substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Sąd Najwyższy + Rzecznik Praw Dziecka jurisprudence — dobro dziecka substantive register",
+      "description": "Sąd Najwyższy and sąd rejonowy jurisprudence continue developing dobro dziecka interpretation under KRO + UN CRC + EU Brussels IIb framework. Rzecznik Praw Dziecka (Children's Rights Ombudsperson) institutional position critical of PAS-syndromic framing in custody-evaluation reports. Substantive analysis without doctrinal 'alienacja rodzicielska' label adoption."
     }
   ],
   "structural_findings": [
-    "UCHWAŁA III CZP 20/25 SN (3.10.2025) JEST APIKALNYM POLSKIM ORZECZENIEM W PRZEDMIOCIE ALIENACJI RODZICIELSKIEJ. SN przywraca skuteczność statutowego mechanizmu egzekucji kontaktów wobec rodzica alienującego (art. 598¹⁶ § 1 k.p.c.) BEZ sięgania po kliniczną diagnozę PAS i przy poszanowaniu konstytucyjnej ochrony życia rodzinnego. Polski wkład w europejską dyskusję sądów najwyższych obok Cass. 9691/2022 Włochy + STS 519/2017 Hiszpania + BVerfG 1 BvR 1076/23 Niemcy.",
-    "BIEGUN PRO-EGZEKUCYJNY W EU: III CZP 20/25 reprezentuje ODRĘBNY pro-egzekucyjny biegun europejskiej dyskusji apex. Włochy Cass. 9691/2022 dyskwalifikuje konstrukt PAS w postępowaniu rodzinnym; Hiszpania STS 519/2017 utrzymuje custodia compartida bez endorsement SAP; Niemcy BVerfG 1 BvR 1076/23 dyskwalifikuje SAP jako 'przedawniony i naukowo obalony'; Polska SN III CZP 20/25 przywraca skuteczność egzekucji kontaktów bez sięgania po klinikę PAS. Polski apex jest egzekucyjny-nie-kliniczny.",
-    "WĄSKA INTERPRETACJA WYROKU TK SK 3/20: SN dokonuje wąskiej interpretacji wyroku TK z 22.6.2022. Konstytucyjny immunitet rodzica sprawującego pieczę obejmuje TYLKO przypadki autonomicznej postawy dziecka; gdy postawa dziecka jest skutkiem zachowania alienującego rodzica sprawującego pieczę, sankcja pieniężna z art. 598¹⁶ § 1 k.p.c. pozostaje dopuszczalna. Aktywny obowiązek przeciwdziałania niechęci dziecka do kontaktów.",
-    "OPINIODAWCZE ZESPOŁY SĄDOWYCH SPECJALISTÓW (OZSS): Ustawowy mechanizm opiniowania w sprawach rodzinnych. OZSS są polskim instytucjonalnym analogiem Cafcass UK / Family Advocate ZA / CAPS Singapur / FRW Australia. PA-adjacentne stany faktyczne wchodzą do akt sądowych przez opinie OZSS.",
-    "ARCHITEKTURA REGULACYJNA ASYMETRYCZNA: Psychiatrzy regulowani statutowo przez Naczelną Izbę Lekarską (NIL); PSYCHOLODZY BEZ EFEKTYWNEGO REGULATORA STATUTOWEGO — Ustawa o zawodzie psychologa 2001 nie weszła w pełni w życie, brak Krajowej Rady Psychologów. Polskie Towarzystwo Psychologiczne (PTP) funkcjonuje jako stowarzyszenie zawodowe, nie regulator. Słabsza architektura niż UK HCPC, niemiecki BÄK czy hiszpański COP.",
-    "POLITYCZNIE KONTROWERSYJNY KONTEKST KONWENCJI STAMBULSKIEJ: Polska ratyfikowała Konwencję Stambulską 2015 r.; status politycznie kontrowersyjny po 2020 (próby wypowiedzenia za rządów PiS). Wpływa na tło prawne oceny PA-adjacentnych stanów faktycznych w kontekście DV.",
-    "SEKWENCJA APEX KONTYNENTALNA EU 2017-2025: STS 519/2017 ES + Cass. 13217/2021 IT + Cass. 9691/2022 IT + BVerfG 1 BvR 1076/23 DE 2023 + Cass. 4595/2025 IT + SN III CZP 20/25 PL 2025. Polska uchwała stanowi najnowszy element tej sekwencji apex EU; pierwsza apex CEE."
-  ],
-  "references": [
-    "case-study:sn-iii-czp-20-25-poland-2025",
-    "case-study:cassazione-9691-2022-italy",
-    "case-study:sts-519-2017-spain",
-    "case-study:bverfg-1-bvr-1076-23-germany-2023",
-    "jurisdiction:germany",
-    "jurisdiction:italy",
-    "jurisdiction:spain"
-  ],
-  "sources": [
-    {
-      "title": "Sąd Najwyższy",
-      "url": "https://www.sn.pl/",
-      "publisher": "Sąd Najwyższy Rzeczypospolitej Polskiej",
-      "language": "pl"
-    },
-    {
-      "title": "Trybunał Konstytucyjny",
-      "url": "https://trybunal.gov.pl/",
-      "publisher": "Trybunał Konstytucyjny",
-      "language": "pl"
-    },
-    {
-      "title": "Internetowy System Aktów Prawnych (ISAP)",
-      "url": "https://isap.sejm.gov.pl/",
-      "publisher": "Kancelaria Sejmu",
-      "language": "pl"
-    },
-    {
-      "title": "Portal Orzeczeń Sądów Powszechnych",
-      "url": "https://orzeczenia.ms.gov.pl/",
-      "publisher": "Ministerstwo Sprawiedliwości",
-      "language": "pl"
-    },
-    {
-      "title": "Naczelna Izba Lekarska (NIL)",
-      "url": "https://nil.org.pl/",
-      "publisher": "NIL",
-      "language": "pl"
-    },
-    {
-      "title": "Polskie Towarzystwo Psychologiczne (PTP)",
-      "url": "https://www.ptp.org.pl/",
-      "publisher": "PTP",
-      "language": "pl"
-    },
-    {
-      "title": "Rzecznik Praw Dziecka",
-      "url": "https://brpd.gov.pl/",
-      "publisher": "Biuro RPD",
-      "language": "pl"
-    },
-    {
-      "title": "Centrum Praw Kobiet",
-      "url": "https://cpk.org.pl/",
-      "publisher": "Centrum Praw Kobiet",
-      "language": "pl"
-    },
-    {
-      "title": "Helsińska Fundacja Praw Człowieka",
-      "url": "https://www.hfhr.pl/",
-      "publisher": "HFPC",
-      "language": "pl"
-    }
+    "Poland operates a structurally distinctive civil-law family-law framework — KRO 1964 + Konstytucja 1997 art. 72 + EU Brussels IIb 2019/1111 framework — with substantive dobro dziecka analysis without doctrinal 'alienacja rodzicielska' label adoption.",
+    "2020 PiS Government Istanbul Convention withdrawal attempt and subsequent Tusk Government 2023 retention reflects political-context tension affecting DV-protection framework — substantively significant political-context data point for Central European family-law trajectory analysis.",
+    "Rzecznik Praw Dziecka (Children's Rights Ombudsperson) institutional position operates as substantively significant institutional-critique data point — placing Poland in caution-aligned cluster alongside European institutional-critique trajectory."
   ],
   "editorial_notes": [
-    "Kolejność źródeł pierwotnych: sn.pl dla uchwał i orzecznictwa SN; trybunal.gov.pl dla TK; ISAP Sejm dla ustaw; orzeczenia.ms.gov.pl dla sądów powszechnych; NIL + PTP dla regulacji zawodowej.",
-    "Terminologia polska zachowana: 'władza rodzicielska' (parental authority); 'kontakty z dzieckiem' (contact with child); 'piecza nad dzieckiem' (care of child); 'postępowanie wykonawcze' (enforcement proceedings); 'opiniodawczy zespół sądowych specjalistów' (OZSS); 'sankcja pieniężna' (financial sanction).",
-    "III CZP 20/25 SN (3.10.2025) wyróżniona jako apikalna polska decyzja w structural_findings[0]; pozycjonowana w sekwencji apex EU 2017-2025 w structural_findings[6].",
-    "Polski biegun pro-egzekucyjny w dyskusji EU apex (egzekucyjny-nie-kliniczny) rozpoznany w structural_findings[1] jako odrębna sygnatura strukturalna.",
-    "Asymetria regulacyjna (psychiatrzy NIL statutowo / psycholodzy bez regulatora) zachowana w structural_findings[4].",
-    "Kontekst Konwencji Stambulskiej politycznie kontrowersyjny po 2020 zachowany w structural_findings[5] jako tło prawne oceny DV-PA-adjacent."
+    "Poland's KRO 1964 socialist-era family-code surviving 1989 democratic transition operationally creates structurally distinctive Central European civil-law family-law framework — substantively distinguishing Polish framework from Western European post-war codes (Germany BGB, France Code civil, Italy Codice civile 1942).",
+    "2020-2023 Istanbul Convention political-context tension is substantively significant for Central European DV-protection framework trajectory — making Poland a critical comparative-law data point for political-context-affected family-law adjudication."
   ]
 }

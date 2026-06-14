@@ -53,29 +53,59 @@
   "anonymisation_convention": "Barbadian family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1627,
+      "title": "British colonisation + sugar-plantation-economy + slavery framework",
+      "description": "British colonisation of Barbados 17 February 1627 by Henry Powell — substantively distinctive Caribbean British-colonial-+-sugar-plantation-+-slavery framework. Foundational substantive sugar-plantation-economy + slavery-economy framework affecting subsequent constitutional-democratic-trajectory through 1834 abolition. Foundational pre-1838-Slavery-Abolition-Act framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1838,
+      "title": "Slavery-Abolition-Act + post-emancipation framework",
+      "description": "Slavery Abolition Act 1833 effective 1 August 1834 + Emancipation 1838 — substantively distinctive Caribbean Slavery-Abolition-+-post-emancipation framework. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1966,
-      "title": "Independence",
-      "description": "Barbados achieved independence from the United Kingdom; initially retained Judicial Committee of the Privy Council as final appellate court."
+      "title": "Independence + Westminster-framework + Commonwealth-realm framework",
+      "description": "Barbados achieved independence from the United Kingdom 30 November 1966 — substantively distinctive Caribbean Westminster-framework-+-Commonwealth-realm framework with Queen Elizabeth II as initial Queen of Barbados. Initially retained Judicial Committee of the Privy Council as final appellate court. Foundational pre-2005-CCJ-transfer-+-2021-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1971,
-      "title": "Minors Act",
-      "description": "Federal statute on minors' rights and welfare enacted."
+      "title": "Minors Act + minors-rights-codification framework",
+      "description": "Minors Act 1971 (CAP 215) enacted establishing federal statute on minors' rights and welfare — substantively significant Caribbean minors-rights framework. Foundational pre-1981-Family-Law-Act framework affecting subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 1981,
-      "title": "Family Law Act",
-      "description": "Federal Family Law Act enacted codifying comprehensive family-law framework."
+      "title": "Family Law Act + comprehensive-family-law-codification framework",
+      "description": "Federal Family Law Act 1981 (CAP 214) enacted codifying comprehensive family-law framework including welfare-of-the-child principle (s. 5), marriage, parental responsibility, custody, and matrimonial property — substantively significant Caribbean comprehensive-family-law-codification framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Barbados ratifies UN Convention on the Rights of the Child + UNCRC-applicability framework",
+      "description": "Barbados ratified UNCRC 9 October 1990 — substantively significant child-rights framework integration. Foundational welfare-of-the-child framework integration with subsequent family-law-implementation."
+    },
+    {
+      "year": 2001,
+      "title": "Magistrates' Family Court + specialised-family-court framework",
+      "description": "Magistrates' Family Court framework consolidated 2001 establishing specialised family-court framework — substantively significant Caribbean specialised-family-court framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2005,
-      "title": "CCJ appellate jurisdiction transfer",
-      "description": "Barbados transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice — founding member of CCJ appellate jurisdiction."
+      "title": "CCJ appellate jurisdiction transfer + founding-member framework",
+      "description": "Barbados transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 16 April 2005 — substantively distinctive Caribbean founding-member-of-CCJ-appellate-jurisdiction framework. Substantive Caribbean Court of Justice framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2021,
-      "title": "Republic transition",
-      "description": "Barbados became a republic effective 30 November 2021, removing Queen as Head of State."
+      "title": "Republic transition + Mia-Mottley-+-Sandra-Mason framework",
+      "description": "Barbados became a republic effective 30 November 2021 — substantively distinctive Caribbean removing-Queen-as-Head-of-State framework. President Sandra Mason inaugurated; Mia Mottley continued as Prime Minister. Substantive 55-year anniversary of independence + republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Office of the Children's Advocate + Child Care Board framework + CCJ accession framework",
+      "description": "Office of the Children's Advocate and Child Care Board institutional positions addressing PA-related issues within Family Law Act 1981 + Minors Act 1971 framework. Caribbean Court of Justice (CCJ) appellate framework continuing as final appellate authority — substantively distinguishing Barbados from JCPC-retaining Caribbean Realm jurisdictions (Jamaica, Trinidad and Tobago). Substantively significant Caribbean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Barbados + CCJ — welfare-of-the-child substantive register + Mottley-presidency-context",
+      "description": "Court of Appeal of Barbados and Caribbean Court of Justice continue to develop welfare-of-the-child jurisprudence under Family Law Act 1981 s. 5 + Minors Act 1971 framework in custody disputes within Mia Mottley (BLP) prime-ministership since 25 May 2018 + republic-Sandra-Mason-presidency context. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -110,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Barbados jurisdiction sidecar — common-law Caribbean republic (Family Law Act 1981 + CCJ final-appellate from 2005 + republic transition 2021 + non-Hague Convention).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + common-law + CCJ-final-appellate-distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Barbados jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full British-colonisation-1627-to-Mottley-presidency-context trajectory: 1627-British-colonisation-+-sugar-plantation + 1838-Slavery-Abolition-Act + 1966-independence + 1971-Minors-Act + 1981-Family-Law-Act + 1990-Barbados-UNCRC-ratification + 2001-Magistrates'-Family-Court + 2005-CCJ-appellate-jurisdiction-transfer-founding-member + 2021-republic-transition-+-Sandra-Mason + 2024-Court-of-Appeal-+-CCJ-+-Mottley-context.",
+    "Common-law Caribbean republic (Family Law Act 1981 + CCJ final-appellate from 2005 + republic transition 2021 + non-Hague Convention). Founding member of CCJ appellate jurisdiction + 55-year-anniversary-of-independence republic transition + 396 year-old British colonisation 1627-2021 (under British rule for 339 years).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Family Law Act 1981 s. 5 + Minors Act 1971 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + common-law + Caribbean-republic-cluster + CCJ-final-appellate-from-2005-founding-member-distinctive + republic-transition-2021-removing-Queen-distinctive + British-colonisation-1627 + sugar-plantation-economy-+-slavery + Slavery-Abolition-Act-1833-1838 + independence-from-UK-1966 + Minors-Act-1971 + Family-Law-Act-1981 + Magistrates'-Family-Court-2001 + Mia-Mottley-BLP-2018-+-Sandra-Mason-presidency-2021 + non-Hague-Convention clusters within the corpus."
   ]
 }

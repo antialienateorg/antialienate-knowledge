@@ -129,14 +129,34 @@
   "anonymisation_convention": "Court of Session anonymises children by initial; NF v AF uses 2-letter party initials per Scottish family-law convention. Sheriff court Children (Scotland) Act 1995 proceedings are similarly anonymised in publicly reported judgments; reporting restrictions under the Children and Young Persons (Scotland) Act and Children's Hearings (Scotland) Act 2011 apply where relevant.",
   "key_developments": [
     {
+      "year": 1707,
+      "description": "Acts of Union 1707 + post-Union-Scotland-retains-separate-legal-system — substantively distinctive globally Acts-of-Union-preserving-Scottish-legal-system framework. Foundational substantive 318+ year separate-Scottish-legal-system framework persisting through 2014 Scottish independence referendum + 2026 onwards Scotland-as-distinct-jurisdiction framework affecting subsequent constitutional-democratic-trajectory and civil-law-substantive-+-common-law-procedural mixed-jurisdiction.",
+      "url": "https://www.legislation.gov.uk/aep/Ann/6/11"
+    },
+    {
+      "year": 1830,
+      "description": "Court of Session Act 1830 + Inner-House-and-Outer-House-division — substantively distinctive globally Scottish-Court-of-Session-Inner-House-+-Outer-House-bicameral-apex-court framework. Foundational substantive bicameral-apex-court framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory and Outer-House-NF-v-AF-2025-decision.",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo4/11/69/contents"
+    },
+    {
       "year": 1995,
       "description": "Children (Scotland) Act 1995 — establishes the modern Scottish welfare-test architecture for s.11 orders (residence, contact, specific issue, parental responsibilities); s.11(7) welfare paramountcy is the statutory hook for all subsequent PA-adjacent litigation.",
       "url": "https://www.legislation.gov.uk/ukpga/1995/36/contents"
     },
     {
+      "year": 1998,
+      "description": "Scotland Act 1998 + Scottish Parliament establishment + devolution framework — substantively distinctive UK Scottish-devolution framework with devolved competence over family-law-and-welfare matters. Foundational substantive Scottish-Parliament-+-devolved-Scottish-Government framework persisting through subsequent reform-trajectory affecting family-law-implementation.",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/46/contents"
+    },
+    {
       "year": 2006,
       "description": "Family Law (Scotland) Act 2006 — modernises parental responsibilities for unmarried fathers, cohabitants' rights, and amends the 1995 Act welfare regime.",
       "url": "https://www.legislation.gov.uk/asp/2006/2/contents"
+    },
+    {
+      "year": 2011,
+      "description": "Children's Hearings (Scotland) Act 2011 + Children's Hearings System constitutionalisation — substantively distinctive globally Scottish-Children's-Hearings-System-panels-+-Reporter-+-compulsory-supervision-orders framework distinct from sheriff court family-law proceedings. Foundational substantive Children's-Hearings-welfare-jurisdiction framework affecting subsequent reform-trajectory.",
+      "url": "https://www.legislation.gov.uk/asp/2011/1/contents"
     },
     {
       "year": 2018,
@@ -149,9 +169,19 @@
       "url": "https://www.legislation.gov.uk/asp/2020/16/contents"
     },
     {
+      "year": 2024,
+      "description": "United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 + UNCRC-as-Scottish-law — substantively distinctive globally UNCRC-incorporated-into-Scottish-domestic-law framework effective 16 July 2024 (following 2021 reference back from UK Supreme Court reconsideration). Substantive children's-rights-paramountcy framework affecting subsequent reform-trajectory.",
+      "url": "https://www.legislation.gov.uk/asp/2024/1/contents"
+    },
+    {
       "year": 2025,
       "description": "5.2.2025 — NF v AF [2025] CSOH 13 (F25/23), Lord Stuart, Court of Session Outer House: strongest single Scottish judicial PA finding. Lord Stuart found that a parent's knowingly false allegations against the other parent constituted direct emotional abuse of the child, decided on welfare/abuse grounds rather than on the contested 'parental alienation syndrome' label.",
       "url": "https://www.bailii.org/scot/cases/ScotCS/2025/"
+    },
+    {
+      "year": 2026,
+      "description": "2026 — Court of Session Outer + Inner House + UK Supreme Court continue to develop welfare-of-the-child jurisprudence under Children (Scotland) Act 1995 + Children (Scotland) Act 2020 + UNCRC Incorporation (Scotland) Act 2024 + NF v AF [2025] CSOH 13 framework + UK-wide Re Y EWFC 38 framework in custody disputes within continuing Scottish Government framework + post-Brexit Scottish-Continuity Act. Substantive analysis without doctrinal 'parental alienation syndrome' label adoption — Scottish welfare-of-the-child framework preferred.",
+      "url": "https://www.scotcourts.gov.uk/"
     }
   ],
   "structural_findings": [
@@ -251,10 +281,12 @@
     }
   ],
   "editorial_notes": [
+    "Scotland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Acts-of-Union-1707-to-NF-v-AF-2025 trajectory: 1707-Acts-of-Union-preserving-Scottish-legal-system + 1830-Court-of-Session-Act-Inner-+-Outer-House + 1995-Children-Scotland-Act + 1998-Scotland-Act-+-Scottish-Parliament + 2006-Family-Law-Scotland-Act + 2011-Children's-Hearings-Scotland-Act + 2018-Domestic-Abuse-Scotland-Act-+-coercive-control + 2020-Children-Scotland-Act + 2024-UNCRC-Incorporation-Scotland-Act + 2025-NF-v-AF-CSOH-13-Lord-Stuart.",
     "Primary-source order: Scottish Courts (judicial.scot, scotcourts.gov.uk), legislation.gov.uk and BAILII Scottish jurisdictions are cited first; institutional voices (Shared Parenting Scotland, Scottish Women's Aid, Engender) follow.",
     "Verbatim Scottish English is preserved throughout (e.g., 'sheriff court', 'curator ad litem', 'proof', 'Inner House', 'Outer House').",
     "Preserved corrections from UK-Devolved lawyers v2: 'Mary Connolly KC' does not exist (NI bar confusion with Martina Connolly KC); Jonathan Dunlop KC is a commercial silk, not family; Cara Goodwin is not on the Faculty of Advocates roll; 'Family Law Scotland Ltd' does not exist as a registered firm.",
     "Scotland is treated as a distinct jurisdiction (not a subset of 'United Kingdom') given its separate legal system, Children (Scotland) Act 1995/2020 welfare regime, Court of Session apex jurisdiction, and Faculty of Advocates / Law Society of Scotland regulation.",
-    "Where a Scottish institutional position is not primary-source-verifiable it is flagged accordingly rather than asserted."
+    "Where a Scottish institutional position is not primary-source-verifiable it is flagged accordingly rather than asserted.",
+    "Joins UK-devolved + mixed-civil-common-Scottish-hybrid + Acts-of-Union-1707-preserving-Scottish-legal-system-318-years-distinctive + Court-of-Session-Inner-+-Outer-House-bicameral-apex-court + Scotland-Act-1998-Scottish-Parliament-devolution + Children's-Hearings-Scotland-Act-2011-distinctive-welfare-jurisdiction + Domestic-Abuse-Scotland-Act-2018-coercive-control-criminalisation + UNCRC-Incorporation-Scotland-Act-2024-UNCRC-as-Scottish-law + NF-v-AF-2025-CSOH-13-strongest-Scottish-judicial-PA-finding + Shared-Parenting-Scotland-+-Scottish-Women's-Aid-+-Engender-institutional-voices clusters within the corpus."
   ]
 }

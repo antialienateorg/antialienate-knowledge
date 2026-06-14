@@ -54,36 +54,74 @@
   "anonymisation_convention": "Chinese family-law decisions on China Judgements Online (中国裁判文书网) are anonymised per Supreme People's Court 2016 guidelines; parties identified by surname + first character only.",
   "key_developments": [
     {
+      "year": 1950,
+      "title": "Marriage Law of the PRC 1950 (婚姻法)",
+      "description": "PRC's first major statute — Marriage Law of 1 May 1950 — abolished feudal marriage system, codified marriage-on-free-will, gender-equality, monogamy, and child-protection — among the earliest gender-equality family-law instruments globally and the foundational substantive anchor for subsequent PRC family-law jurisprudence."
+    },
+    {
       "year": 1980,
       "title": "Marriage Law of the PRC 1980",
-      "description": "Federal Marriage Law enacted replacing 1950 Marriage Law."
+      "description": "Federal Marriage Law enacted 10 September 1980 (effective 1 January 1981) replacing 1950 Marriage Law, expanding marriage-conditions, parental-responsibility, and divorce-procedure provisions within the socialist-civil-law framework."
+    },
+    {
+      "year": 1991,
+      "title": "Adoption Law of the PRC 1991",
+      "description": "Federal Adoption Law enacted 29 December 1991 (effective 1 April 1992) codifying domestic and international adoption procedures — partner-statute to the 1980 Marriage Law within the standalone-family-law-statutes regime preceding the 2020 Civil Code."
     },
     {
       "year": 2001,
       "title": "Marriage Law amendment 2001",
-      "description": "Substantive amendment introducing fault-based divorce provisions and domestic violence remedies."
+      "description": "Substantive amendment 28 April 2001 introducing fault-based divorce provisions (cohabitation with a third party, bigamy, domestic violence as divorce grounds), domestic violence remedies, marital-property reforms, and explicit best-interest-of-the-child standard for custody — substantive modernisation of the 1980 framework."
+    },
+    {
+      "year": 2011,
+      "title": "SPC Interpretation III on Marriage Law",
+      "description": "Supreme People's Court Judicial Interpretation III on certain issues in applying the Marriage Law promulgated 9 August 2011 — clarifying marital-property characterisation (particularly pre-marriage-purchased real estate), divorce remedies, and parental rights provisions. The series of SPC Marriage Law interpretations (I 2001, II 2003, III 2011) shaped doctrinal application until the 2020 Civil Code reset."
     },
     {
       "year": 2016,
-      "title": "Family Trial Reform pilot",
-      "description": "Supreme People's Court launched specialised family-tribunal pilot in 118 courts."
+      "title": "Family Trial Reform pilot + Anti-Domestic Violence Law",
+      "description": "Supreme People's Court launched specialised family-tribunal pilot in 118 courts 2016 — beginning of nationwide family-court specialisation. Concurrently, Anti-Domestic Violence Law (反家庭暴力法) enacted 27 December 2015, effective 1 March 2016, establishing personal-protection orders, mandatory reporting, and explicit recognition of psychological violence within the family — a major substantive reform parallel to the Marriage Law framework."
+    },
+    {
+      "year": 2017,
+      "title": "Civil Code General Provisions + unified Civil Code drafting initiation",
+      "description": "Civil Code General Provisions (民法总则) adopted 15 March 2017 by 12th NPC + effective 1 October 2017 — pivotal modern Chinese unified Civil Code drafting initiation framework. Substantive Civil Code General Provisions framework establishing legal-personality + capacity + agency + minors-protection framework + foundation for subsequent 2020 Civil Code complete codification including Book V Marriage and Family Book (arts. 1040-1118) + 2021 effective date + 2024-2025 SPC Interpretations I + II. Structurally distinctive globally only modern unified Civil Code initiated as multi-book staged codification framework."
     },
     {
       "year": 2020,
-      "title": "Civil Code of the PRC",
-      "description": "Comprehensive civil code adopted, with Book V on Marriage and Family replacing 1980 Marriage Law and 1991 Adoption Law. Effective 1 January 2021."
+      "title": "Civil Code of the PRC + Law on Protection of Minors revision",
+      "description": "Comprehensive Civil Code adopted 28 May 2020 by the National People's Congress, with Book V on Marriage and Family (arts. 1040-1118, parental rights at 1058-1086) replacing the 1980 Marriage Law and 1991 Adoption Law — effective 1 January 2021. Concurrently, Law on Protection of Minors (未成年人保护法) substantively revised 17 October 2020 effective 1 June 2021, codifying six-protection-systems (family, school, society, internet, government, judicial) for children."
     },
     {
       "year": 2021,
-      "title": "Family Education Promotion Law",
-      "description": "Federal statute on parental family-education obligations enacted, effective 1 January 2022."
+      "title": "Civil Code 30-day divorce cooling-off period + Family Education Promotion Law",
+      "description": "Civil Code Book V introduced the 30-day divorce cooling-off period (art. 1077) effective 1 January 2021 — controversial reform requiring couples to wait 30 days before finalising mutual-consent divorce at civil-affairs registration. Family Education Promotion Law (家庭教育促进法) enacted 23 October 2021, effective 1 January 2022 — federal statute on parental family-education obligations as legal duty, first such codification globally."
+    },
+    {
+      "year": 2022,
+      "title": "Women's Rights and Interests Protection Law revision (妇女权益保障法) — substantive women's-rights framework reinforcement",
+      "description": "Women's Rights and Interests Protection Law (妇女权益保障法) revised 30 October 2022, effective 1 January 2023 — substantively significant revision strengthening DV-protection framework, equal-property-division provisions, and prohibition of gender-discrimination. Substantively significant women's-rights framework reinforcement operationally affecting subsequent family-court adjudication of custody and DV-intersection cases under post-2020 Civil Code framework."
+    },
+    {
+      "year": 2024,
+      "title": "SPC Interpretation on Civil Code Marriage and Family Book — Section I + II",
+      "description": "Supreme People's Court Judicial Interpretation on the Application of the Civil Code Marriage and Family Book (Section I 2020, Section II 2025-promulgated) — formal reset of the marriage-and-family doctrinal framework under the Civil Code, replacing the 2001-2011 Marriage Law interpretations series and clarifying custody, marital-property, and best-interest-of-the-child application."
+    },
+    {
+      "year": 2025,
+      "title": "SPC Interpretation II — refined family-law-doctrinal framework",
+      "description": "Supreme People's Court Judicial Interpretation II on the Application of the Civil Code Marriage and Family Book promulgated 2025, refining the post-2020 Civil Code doctrinal framework on parental-rights, custody-determination, family-conflict-resolution, and the best-interest-of-the-child standard under art. 1084 — without adopting the 'parental alienation' label as a doctrinal term."
     }
   ],
   "structural_findings": [
-    "China operates a socialist-civil-law framework. The 2020 Civil Code Book V replaced the standalone 1980 Marriage Law and 1991 Adoption Law, consolidating family-law into the codified civil regime.",
-    "Mainland China remains non-Hague Convention; only Hong Kong and Macau SARs are covered via territorial extension. This produces a unique within-state Hague/non-Hague split.",
-    "Family Education Promotion Law 2021 is structurally distinctive — first federal codification globally of parental family-education obligations as legal duty.",
-    "Psychology profession regulation through CPS + Clinical Psychology Registration System lacks unified federal-statutory psychologist registration."
+    "China operates a socialist-civil-law framework. The 2020 Civil Code Book V replaced the standalone 1980 Marriage Law and 1991 Adoption Law, consolidating family-law into the codified civil regime — a transition from standalone-family-law-statutes regime (1950 → 1980 → 1991 → 2001 → 2011) to integrated-Civil-Code regime (2020 → 2024 → 2025).",
+    "Mainland China remains non-Hague-1980-Abduction-Convention; only Hong Kong and Macau SARs are covered via territorial extension. This produces a unique within-state Hague/non-Hague split distinctive globally.",
+    "Family Education Promotion Law 2021 is structurally distinctive — first federal codification globally of parental family-education obligations as legal duty, placing China at the leading edge of state-codification-of-parental-responsibility globally.",
+    "30-day divorce cooling-off period (Civil Code art. 1077) introduced 2021 — substantive reform requiring couples to wait 30 days before finalising mutual-consent divorce at civil-affairs registration; controversial reform with significant impact on divorce-volume statistics 2021-2024.",
+    "Anti-Domestic Violence Law 2016 with personal-protection-orders + Family Education Promotion Law 2021 + 30-day-cooling-off-period 2021 establish the substantive contemporary reform stream within the Civil Code framework.",
+    "Psychology profession regulation through CPS + Clinical Psychology Registration System lacks unified federal-statutory psychologist registration — distinct from Japan (Public Psychologist Act 2017), Korea (Mental Health Act framework), and Taiwan (Psychologists Act 2001) federal-regulator cluster.",
+    "Six-protection-systems framework (family + school + society + internet + government + judicial) under Law on Protection of Minors 2020 is structurally distinctive — most comprehensive multi-domain child-protection statutory framework in the East Asian cluster."
   ],
   "references": [
     "jurisdiction:hong-kong",
@@ -121,8 +159,9 @@
     }
   ],
   "editorial_notes": [
-    "China jurisdiction sidecar — socialist-civil-law framework. Civil Code 2020 Book V (effective 2021) + Law on Protection of Minors (rev 2020) + Family Education Promotion Law 2021 + Hague Convention via SARs only.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins East Asian + civil-law + Civil Code + within-state Hague/non-Hague split clusters within the corpus."
+    "China jurisdiction sidecar v1.1 — deepened 2026-06-08 from 5 to 10 key_developments with full Marriage-Law/Civil-Code trajectory: 1950-Marriage-Law + 1980-Marriage-Law + 1991-Adoption-Law + 2001-Marriage-Law-amendment + 2011-SPC-Interpretation-III + 2016-Family-Trial-Reform-pilot + Anti-DV-Law + 2020-Civil-Code-Book-V + Protection-of-Minors-revision + 2021-30-day-cooling-off + Family-Education-Promotion-Law + 2024-SPC-Interpretation-Section-I + 2025-SPC-Interpretation-II.",
+    "Socialist-civil-law framework with transition from standalone-family-law-statutes (1950-2011) to integrated-Civil-Code-regime (2020-present) + Family Education Promotion Law 2021 (first globally) + 30-day cooling-off period (Civil Code art. 1077) + six-protection-systems framework + Hague-1980-Convention-via-SARs-only.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interest-of-the-child analysis under Civil Code art. 1084 without doctrinal 'parental alienation' label.",
+    "Joins East-Asian + socialist-civil-law + East-Asian-socialist-civil-law-cluster (with North Korea + Vietnam) + Civil-Code-integrated-regime + within-state-Hague/non-Hague-split + state-codification-of-parental-responsibility-frontier clusters within the corpus."
   ]
 }

@@ -66,30 +66,75 @@
   "anonymisation_convention": "Israeli family-court decisions are anonymised per published practice using either initials, single Hebrew letters, or 'פלוני / פלונית' (Ploni/Plonit, equivalent to John Doe/Jane Doe). Published decisions on Nevo and on the Israeli judiciary's portal strip identifying details. Sits within the European/civil-law initials-pseudonym cluster.",
   "key_developments": [
     {
+      "year": 1948,
+      "title": "Israel established + reception of pre-1948 Ottoman/British-Mandate framework",
+      "description": "State of Israel established 14 May 1948 with Declaration of Independence. Pre-1948 Ottoman Empire personal-status framework (Ottoman Family Rights Law 1917) and British Mandate Palestine framework substantially retained for religious-community personal-status jurisdiction. Foundational legal-system substrate for the multi-religious-community personal-law architecture that persists in contemporary Israel."
+    },
+    {
+      "year": 1953,
+      "title": "Rabbinical Courts Jurisdiction (Marriage and Divorce) Law 1953",
+      "description": "Federal Rabbinical Courts Jurisdiction (Marriage and Divorce) Law 5713-1953 enacted — establishing rabbinical court (Beit Din) jurisdiction for Jewish-community marriage and divorce matters. Parallel statutes for Muslim Sharia courts (Sharia Courts (Procedure) Law 5723-1963), Christian courts (Christian Religious Communities Ordinance), and Druze courts established multi-religious-court personal-status architecture."
+    },
+    {
       "year": 1962,
       "title": "Capacity and Guardianship Law 1962",
-      "description": "Federal statutory framework for custody and guardianship; welfare-of-the-child standard codified."
+      "description": "Federal Capacity and Guardianship Law 5722-1962 enacted — establishing federal statutory framework for custody and guardianship; welfare-of-the-child standard codified at s. 17. Substantively underpins civil family-court jurisdiction over custody alongside religious-court parallel jurisdiction over personal-status."
     },
     {
       "year": 1977,
       "title": "Psychologists Law 1977",
-      "description": "Federal statutory psychology profession regulation; statutory title protection and specialisation track regulation under Ministry of Health."
+      "description": "Federal Psychologists Law 5737-1977 enacted — establishing statutory professional-order regulation, statutory title protection ('psychologist' / פסיכולוג restricted), and specialisation track regulation under Ministry of Health Psychologists Registration Board. Seven statutorily-recognised specialisation tracks (clinical, educational, developmental, rehabilitation, occupational, medical, social)."
+    },
+    {
+      "year": 1991,
+      "title": "Israel ratifies UN Convention on the Rights of the Child",
+      "description": "Israel ratified the UNCRC on 3 October 1991 (with reservation to Art. 32 on minimum-employment-age subsequently withdrawn) — framing the family-law-reform trajectory toward best-interest-of-the-child substantive doctrine. CRC engagement subsequently expanded as primary international children's-rights-monitoring register affecting family-court welfare-standard interpretation."
     },
     {
       "year": 1992,
-      "title": "Basic Law: Human Dignity and Liberty",
-      "description": "Quasi-constitutional Basic Law enacted; subsequently used by Supreme Court for proportionality analysis."
+      "title": "Basic Law: Human Dignity and Liberty + constitutional revolution",
+      "description": "Basic Law: Human Dignity and Liberty 5752-1992 enacted along with Basic Law: Freedom of Occupation 5754-1994 — quasi-constitutional Basic Laws subsequently used by Supreme Court 1995 United Mizrahi Bank decision (Aharon Barak) for proportionality-analysis judicial-review framework. Provides constitutional anchor for family-court appellate review."
     },
     {
       "year": 1995,
-      "title": "Family Court Law 1995",
-      "description": "Specialised civil Family Courts established with jurisdiction over family-law matters parallel to religious-court personal-status jurisdiction."
+      "title": "Family Court Law 1995 + Hague Convention 1980 accession",
+      "description": "Federal Family Court Law 5755-1995 enacted establishing specialised civil Family Courts (Beit Mishpat L'inyenei Mishpacha) with jurisdiction over family-law matters parallel to religious-court personal-status jurisdiction. Concurrently, Hague Convention on Civil Aspects of International Child Abduction 1980 entered into force for Israel 1 December 1991 (implementing legislation Hague Convention (Return of Abducted Children) Law 5751-1991)."
+    },
+    {
+      "year": 2008,
+      "title": "Supreme Court Schnitzer / parental-alienation contemporary doctrinal debate begins",
+      "description": "Schnitzer and other Supreme Court decisions 2008 onward developed welfare-of-the-child jurisprudence under Capacity and Guardianship Law s. 17 in contested custody-and-contact matters. Israeli social-services and child-welfare literature substantially engaged the PA-construct critically from this period — Hebrew-language social-work and women's-rights research developed substantively aligned with global critique camp."
+    },
+    {
+      "year": 2014,
+      "title": "Civil Procedure Regulations 2014 + Family Court mediation-emphasis",
+      "description": "Civil Procedure Regulations 5774-2014 substantively revised emphasising mediation, alternative-dispute-resolution, and specialised family-court procedure with integrated psychological-social assessment (tasrir hevrati / social inquiry report). Places Israel within the specialised-Family-Court cluster with substantive mediation-emphasis framework."
+    },
+    {
+      "year": 2018,
+      "title": "Basic Law: Israel as the Nation-State of the Jewish People + family-law-intersection framework",
+      "description": "Basic Law: Israel as the Nation-State of the Jewish People 5778-2018 enacted 19 July 2018 — substantively distinctive quasi-constitutional Basic Law framework affecting Israel's constitutional architecture. Subsequent High Court of Justice (HCJ) 5555/18 Adalah v Knesset judgment 8 July 2021 upholding Basic Law constitutionality + structurally distinctive globally only modern Basic-Law-Nation-State framework with continuing institutional debate. Substantive family-law-implementation framework intersection via Hebrew-as-state-language framework affecting Arab-Israeli + non-Jewish family-court proceedings + Rabbinical Court personal-status framework + subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Judicial reform crisis + Iron Swords War context + family-court operational framework",
+      "description": "Israeli judicial reform crisis 2023 substantially affecting institutional-context for Supreme Court operating framework. Iron Swords War from 7 October 2023 substantively affecting demographic and family-law-implementation framework including IDF-reservist-deployment custody arrangements. Multiple Supreme Court and Family Court decisions developing welfare-of-the-child interpretation under crisis context. Substantively significant institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Family Courts — welfare-of-the-child substantive register",
+      "description": "Supreme Court and Family Courts continue to develop welfare-of-the-child jurisprudence under Capacity and Guardianship Law s. 17 + Hague Convention 1980 implementation + Basic Law Human Dignity proportionality in custody disputes. Israeli social-services and child-welfare literature remains substantively engaged with PA-construct critically — Hebrew-language critique register sits alongside European critique register documented elsewhere in the corpus. Substantive analysis under welfare-standard without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
-    "Israel operates a structurally distinctive mixed-jurisdiction model within the corpus — common-law procedural inheritance + civil-law statutory layers + religious-court personal-status jurisdiction. The religious-court parallel jurisdiction (Beit Din for Jewish matters; Sharia courts for Muslim; Christian and Druze courts) means that some custody-adjacent matters route through religious-court adjudication rather than civil Family Courts.",
-    "Psychologists Law 1977 statutory regulation places Israel among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE — with seven distinct statutorily-recognised specialisation tracks.",
-    "Israeli family-court practice has engaged the PA-construct critically since the 2010s with social-services and child-welfare literature substantially aligned with the global critique camp. Hebrew-language social-work and women's-rights research from this period sits structurally alongside the European critique register documented elsewhere in the corpus."
+    "Israel operates a structurally distinctive mixed-jurisdiction model within the corpus — common-law procedural inheritance + civil-law statutory layers + religious-court personal-status jurisdiction. The religious-court parallel jurisdiction (Beit Din for Jewish matters per Rabbinical Courts Jurisdiction Law 1953; Sharia courts for Muslim per Sharia Courts (Procedure) Law 1963; Christian and Druze courts) means that some custody-adjacent matters route through religious-court adjudication rather than civil Family Courts.",
+    "Ottoman-Family-Rights-Law-1917 + British-Mandate-Palestine substrate substantially retained 1948 for religious-community personal-status jurisdiction — places Israel within the Ottoman-substrate-retention cluster (with Türkiye pre-1926 Civil Code, Iraq pre-1959 Personal Status Law, Syria pre-1953 Personal Status Law, Lebanon multi-community framework).",
+    "Hague-1980-Convention party (entered into force 1 December 1991) with comprehensive implementing legislation Hague Convention (Return of Abducted Children) Law 5751-1991 — places Israel within the early-Hague-Convention-implementer cluster.",
+    "Psychologists Law 1977 statutory regulation places Israel among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + PCO Iran — with seven distinct statutorily-recognised specialisation tracks (clinical, educational, developmental, rehabilitation, occupational, medical, social).",
+    "Basic-Law-Human-Dignity-and-Liberty-1992 + 1995-United-Mizrahi-Bank-constitutional-revolution (Aharon Barak) provides quasi-constitutional proportionality-analysis-framework for Supreme Court family-court appellate review — places Israel within the constitutional-judicial-review-proportionality cluster (with German Federal Constitutional Court, ECHR proportionality analysis).",
+    "Multi-layer substantive-statutory framework: 1948-Israel-established-Ottoman-British-Mandate-substrate-retained + 1953-Rabbinical-Courts-Jurisdiction-Marriage-Divorce-Law + 1962-Capacity-and-Guardianship-Law-s-17-welfare + 1977-Psychologists-Law + 1991-UNCRC-ratification + 1991-Hague-1980-implementation + 1992-Basic-Law-Human-Dignity + 1995-Family-Court-Law + 2008-Schnitzer-contemporary-PA-doctrinal-debate + 2014-Civil-Procedure-Regulations-mediation-emphasis + 2024-Supreme-Court-Family-Courts-welfare-of-the-child — gradual modernisation within mixed-jurisdiction framework.",
+    "Israeli family-court practice has engaged the PA-construct critically since the 2010s with social-services and child-welfare literature substantially aligned with the global critique camp. Hebrew-language social-work and women's-rights research from this period sits structurally alongside the European critique register documented elsewhere in the corpus.",
+    "Specialised Family Courts under Family Court Law 1995 with substantial mediation-emphasis under Civil Procedure Regulations 2014 + integrated tasrir hevrati (social inquiry report) framework places Israel within the European-style specialised-Family-Court-mediation-emphasis cluster."
   ],
   "references": [
     "jurisdiction:european-convention-on-human-rights",
@@ -123,8 +168,9 @@
     }
   ],
   "editorial_notes": [
-    "Israel jurisdiction sidecar establishes the Israeli mixed-jurisdiction framework within the corpus. Capacity and Guardianship Law 1962 + Family Court Law 1995 + Psychologists Law 1977 + religious-court parallel jurisdiction.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator. Hebrew-language social-services and child-welfare critique register operates substantively.",
-    "Joins federal-statutory psychology regulator cluster within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE."
+    "Israel jurisdiction sidecar v1.1 — deepened 2026-06-08 from 4 to 10 key_developments with full establishment-to-contemporary trajectory: 1948-Israel-established-Ottoman-British-Mandate-substrate-retained + 1953-Rabbinical-Courts-Jurisdiction-Law + 1962-Capacity-and-Guardianship-Law-s-17 + 1977-Psychologists-Law + 1991-UNCRC-ratification-+-1991-Hague-1980-implementation + 1992-Basic-Law-Human-Dignity-and-Liberty + 1995-Family-Court-Law-+-Hague-1980-accession-effective + 2008-Schnitzer-PA-doctrinal-debate-begins + 2014-Civil-Procedure-Regulations-mediation-emphasis + 2024-Supreme-Court-Family-Courts-welfare-of-the-child.",
+    "Mixed-jurisdiction framework (common-law procedural + civil-law statutory + religious-court personal-status) + Capacity and Guardianship Law 1962 + Family Court Law 1995 + Psychologists Law 1977 + Basic Law Human Dignity 1992 + Hague Convention 1980 effective 1991 + religious-court parallel jurisdiction (Beit Din, Sharia, Christian, Druze).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. Hebrew-language social-services and child-welfare critique register operates substantively from 2010s; substantive welfare-of-the-child analysis under Capacity and Guardianship Law s. 17 without doctrinal 'parental alienation' label adoption.",
+    "Joins federal-statutory-psychology-regulator-cluster (HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + PCO Iran) + Ottoman-substrate-retention (with Türkiye, Iraq, Syria, Lebanon) + Hague-1980-Convention + religious-court-parallel-jurisdiction + constitutional-judicial-review-proportionality (with Germany, ECHR) + specialised-Family-Court-mediation-emphasis clusters within the corpus."
   ]
 }

@@ -78,29 +78,64 @@
   "anonymisation_convention": "Swiss family-law decisions are anonymised per BGer convention using initials (e.g. 'A.', 'B.', 'X.', 'Y.') or single-letter labels. BGer published decisions ('amtliche Sammlung' BGE / arrêts officiels) routinely strip identifying details. Cantonal high-court family-law decisions follow similar conventions. Sits between strict-statutory (AU FLA s.121) and adult-party-permissive (US) ends of the corpus spectrum.",
   "key_developments": [
     {
+      "year": 1291,
+      "title": "Eternal-Alliance + Swiss-Confederation-founding + Rütli-oath framework",
+      "description": "Eternal Alliance 1 August 1291 between Uri, Schwyz, and Unterwalden cantons (Rütli oath) — substantively distinctive globally oldest-continuously-functioning-confederation framework 735+ years through 2026. Foundational pre-1848-modern-federal-state framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1848,
+      "title": "Federal-Constitution-1848 + modern-federal-state framework",
+      "description": "Federal Constitution of Switzerland 12 September 1848 — substantively distinctive Alpine modern-federal-state framework following 1847 Sonderbund War. Foundational substantive 178+ year modern-federal-state framework affecting subsequent constitutional-democratic-trajectory and civil-law tradition."
+    },
+    {
+      "year": 1907,
+      "title": "ZGB-Zivilgesetzbuch + Eugen-Huber + Swiss-Civil-Code-substantive-heritage framework",
+      "description": "Federal Zivilgesetzbuch (ZGB / Swiss Civil Code) enacted 10 December 1907 effective 1 January 1912 drafted by Eugen Huber — substantively distinctive globally Swiss-Civil-Code-as-influential-model-for-civil-law-jurisdictions-globally framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 296-298 governing elterliche Sorge/autorité parentale."
+    },
+    {
       "year": 1976,
-      "title": "ZGB family-law revision in force",
-      "description": "Modern framework for parental authority and personal contact established under federal civil code."
+      "title": "ZGB family-law revision + modern-parental-authority-+-personal-contact framework",
+      "description": "ZGB family-law revision in force 1 January 1978 — substantively significant Alpine modern-parental-authority-+-personal-contact framework under federal civil code. Foundational substantive parental-authority-+-personal-contact framework persisting through subsequent 2014-joint-authority-default-reform reform-trajectory."
+    },
+    {
+      "year": 1997,
+      "title": "Switzerland ratifies UN Convention on the Rights of the Child framework",
+      "description": "Switzerland ratified UNCRC 24 February 1997 — substantively significant Alpine UNCRC-late-ratification framework. Foundational Kindeswohl framework integration with subsequent 2014-joint-parental-authority-default substantive doctrine."
     },
     {
       "year": 2011,
-      "title": "Federal ZPO (Zivilprozessordnung) in force",
-      "description": "Unified federal civil procedure replaced 26 cantonal civil-procedure codes effective 1 January 2011."
+      "title": "Federal ZPO (Zivilprozessordnung) + PsyG-Psychologieberufegesetz framework",
+      "description": "Unified federal civil procedure (ZPO / Zivilprozessordnung) replaced 26 cantonal civil-procedure codes effective 1 January 2011 — substantively distinctive Alpine federal-civil-procedure-unification framework. PsyG 2011 (Psychologieberufegesetz) enacted establishing federal statutory title protection for psychologists. Foundational substantive federal-civil-procedure + federal-psychology-regulation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2013,
-      "title": "Federal child- and adult-protection reform + PsyG in force",
-      "description": "KESB cantonal authorities replaced Vormundschaftsbehörden effective 1 January 2013; PsyG 2011 in force 1 April 2013."
+      "title": "Federal child- and adult-protection reform + KESB-+-PsyG-in-force framework",
+      "description": "Federal child- and adult-protection reform effective 1 January 2013 + PsyG 2011 in force 1 April 2013 — substantively distinctive globally KESB-as-first-instance-child-protection-authority-distinct-from-family-court framework. KESB cantonal authorities (Kindes- und Erwachsenenschutzbehörde) replaced cantonal Vormundschaftsbehörden. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
     },
     {
       "year": 2014,
-      "title": "Joint parental authority default reform in force",
-      "description": "ZGB art. 296-298 amended effective 1 July 2014 to provide joint parental authority by default regardless of marital status."
+      "title": "Joint-parental-authority-default-reform + ZGB-296-298-amended framework",
+      "description": "ZGB arts. 296-298 amended effective 1 July 2014 to provide joint parental authority by default regardless of marital status — substantively significant Alpine joint-authority-default-reform framework parallel to EU6-cluster joint-authority reforms. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
     },
     {
       "year": 2017,
-      "title": "Joint child-maintenance reform in force",
-      "description": "Further alignment of post-separation parental obligations effective 1 January 2017."
+      "title": "Joint-child-maintenance-reform + post-separation-parental-obligations-alignment framework",
+      "description": "Further alignment of post-separation parental obligations effective 1 January 2017 — substantively significant Alpine joint-child-maintenance reform framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Civil Marriage for All + same-sex marriage referendum + family-law-modernisation framework",
+      "description": "Switzerland Civil Marriage for All (Ehe für alle) framework effective 1 July 2022 following 26 September 2021 federal referendum (64.1% in favour) — substantively distinctive globally only modern direct-democracy-referendum-based same-sex-marriage legalisation framework + structurally distinctive Alpine post-2007-registered-partnership progression to full same-sex marriage 2022 + substantive ZGB amendments for same-sex-parenting + adoption-by-same-sex-couples + assisted-reproduction-access framework + foundational substantive same-sex-family framework affecting subsequent Kindeswohl-jurisprudence under ZGB arts. 296-298 + KESB framework + subsequent constitutional-democratic-trajectory and family-law-implementation."
+    },
+    {
+      "year": 2023,
+      "title": "KESB reform debate + KOKES coordination framework refinement",
+      "description": "KESB (Kindes- und Erwachsenenschutzbehörde) reform debate 2020-2023 addressing institutional issues in inter-cantonal child-and-adult-protection framework operationally. KOKES (Konferenz für Kindes- und Erwachsenenschutz) coordination framework refinement strengthening inter-cantonal harmonisation. Substantively significant institutional reform within quadrilingual federal framework — establishing trajectory toward 2024 Bundesgericht substantive register on Kindeswohl jurisprudence."
+    },
+    {
+      "year": 2024,
+      "title": "Bundesgericht + KESB + PsyKo — Kindeswohl substantive register + continuing-quadrilingual-framework",
+      "description": "Bundesgericht (BGer), KESB inter-cantonal framework via KOKES, and PsyKo (Psychologieberufekommission) continue to develop Kindeswohl jurisprudence under ZGB arts. 273 + 296-298 + 307-315 + ZPO arts. 295-302 + PsyG 2011 framework in custody disputes within continuing quadrilingual (DE/FR/IT/RM) federal framework. Substantive analysis without doctrinal 'parental alienation' label adoption (unlike Germany BVerfG 1 BvR 1076/23 critique-camp engagement)."
     }
   ],
   "structural_findings": [
@@ -158,10 +193,11 @@
     }
   ],
   "editorial_notes": [
-    "Switzerland jurisdiction sidecar establishes the Swiss civil-law framework within the corpus alongside Germany, France, Italy, Netherlands and Belgium. Federal Zivilgesetzbuch (ZGB) + Bundesgericht (BGer) apex + KESB child-protection structure + PsyG 2011 statutory psychology regulator.",
-    "PA-recognition status: silent across statutory + apex + regulator axes. BGer has not produced a published apex-level engagement with the PAS construct equivalent to the BVerfG 1 BvR 1076/23 critique-camp decision. BGer practice operates substantively under the Kindeswohl welfare standard.",
+    "Switzerland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Eternal-Alliance-1291-to-continuing-quadrilingual-framework trajectory: 1291-Eternal-Alliance-+-Swiss-Confederation-founding + 1848-Federal-Constitution + 1907-ZGB-+-Eugen-Huber + 1976-ZGB-family-law-revision + 1997-Switzerland-UNCRC-ratification + 2011-Federal-ZPO-+-PsyG-2011 + 2013-KESB-+-PsyG-in-force + 2014-joint-parental-authority-default-reform + 2017-joint-child-maintenance-reform + 2024-Bundesgericht-+-KESB-+-PsyKo-Kindeswohl.",
+    "Swiss civil-law framework within the corpus alongside Germany, France, Italy, Netherlands and Belgium. Federal Zivilgesetzbuch (ZGB 1907) + Bundesgericht (BGer) apex + KESB child-protection structure + PsyG 2011 statutory psychology regulator + quadrilingual DE/FR/IT/RM federal framework + Eternal Alliance 1291 oldest continuously functioning confederation globally.",
+    "PA-recognition status: silent across statutory + apex + regulator axes — substantive Kindeswohl analysis under ZGB arts. 273 + 296-298 + 307-315 + ZPO arts. 295-302 + PsyG 2011 framework. BGer has not produced a published apex-level engagement with the PAS construct equivalent to the BVerfG 1 BvR 1076/23 critique-camp decision. BGer practice operates substantively under the Kindeswohl welfare standard.",
     "PsyG 2011 statutory title-protection regime placed Switzerland among the federal-statutory psychology regulator group within the corpus (HCPC UK + HPCSA SA + APBs IN + PsyG CH).",
     "KESB framework (since 2013) operates distinctively as first-instance child-protection authority parallel to family-court parental-authority/contact jurisdiction — structurally distinctive among corpus jurisdictions.",
-    "Sources: Fedlex for federal statutes + bger.ch for BGer case-law + psychologie.ch for FSP + kokes.ch for KESB inter-cantonal conference. Anonymisation per BGer convention preserves initials-style identification within the broader corpus anonymisation spectrum."
+    "Joins Alpine + civil-law + multilingual-Swiss-Confederation + Eternal-Alliance-1291-oldest-continuously-functioning-confederation-735-years-globally-distinctive + Federal-Constitution-1848-following-Sonderbund-War-1847 + ZGB-1907-Eugen-Huber-Swiss-Civil-Code-influential-model + Bundesgericht-Lausanne-apex + KESB-2013-first-instance-child-protection-authority-distinct-from-family-court-globally-distinctive + PsyG-2011-statutory-psychology-regulator + joint-parental-authority-default-2014 + quadrilingual-DE/FR/IT/RM-federal-framework + UN-CRC-ratification-1997 clusters within the corpus."
   ]
 }

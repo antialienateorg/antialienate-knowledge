@@ -75,37 +75,57 @@
     {
       "year": 1060,
       "title": "Usatges de Barcelona",
-      "description": "Usatges de Barcelona ~1060 established foundation of Catalan customary civil law."
+      "description": "Usatges de Barcelona ~1060 established foundation of Catalan customary civil law — pivotal medieval foundation framework for modern dret civil català tradition + foundation for subsequent Constitucions de Catalunya framework."
     },
     {
-      "year": 1714,
-      "title": "Decretos de Nueva Planta",
-      "description": "Following 1714 War of the Spanish Succession, Decretos de Nueva Planta abolished Catalan political institutions but preserved Catalan civil-law tradition."
+      "year": 1283,
+      "title": "Constitucions de Catalunya + Cortes de Barcelona",
+      "description": "Cortes Generales de Cataluña 1283 (Pere III) — first codification of Constitucions de Catalunya — established Catalan parliamentary-statutory framework + foundation for subsequent medieval Catalan civil-law evolution preserved through 1714 Decretos de Nueva Planta. Pivotal medieval framework predating modern CCCat 2002-2017 framework."
+    },
+    {
+      "year": 1716,
+      "title": "Decret de Nova Planta de Catalunya",
+      "description": "Decret de Nova Planta de Catalunya of 16 January 1716 issued by Bourbon King Felipe V following 1714 War of the Spanish Succession victory — abolished Catalan political institutions (Generalitat de Catalunya + Corts de Catalunya + Consell de Cent) but explicitly preserved Catalan civil-law tradition. Pivotal political-institutional-abolition with civil-law preservation framework."
+    },
+    {
+      "year": 1932,
+      "title": "Estatut de Núria + first modern Statute of Autonomy",
+      "description": "Estatut de Núria (Catalonia Statute of Autonomy 1932) ratified 9 September 1932 by Spanish Republic Constitution Court — first modern Catalan Statute of Autonomy + established modern Generalitat de Catalunya framework. Pivotal Spanish Second Republic context preceding 1939 Franco abolition + subsequent 1979 post-Franco Estatut framework."
     },
     {
       "year": 1960,
       "title": "Compilació del Dret Civil de Catalunya",
-      "description": "Compilation of Catalan Civil Law adopted 21 July 1960 — first modern formal codification of Catalan civil law."
+      "description": "Compilation of Catalan Civil Law adopted 21 July 1960 — first modern formal codification of Catalan civil law under Franco regime + foundation for subsequent CCCat 2002-2017 recodification framework."
     },
     {
       "year": 1978,
       "title": "Spanish Constitution + Article 149.1.8 civil-law preservation",
-      "description": "Spanish Constitution of 1978 Article 149.1.8 preserving foral or special civil law in autonomous communities including Catalonia."
+      "description": "Spanish Constitution of 1978 Article 149.1.8 preserving foral or special civil law in autonomous communities including Catalonia — pivotal modern constitutional foundation framework for CCCat 2002-2017 recodification + foundation for subsequent 1979 Catalan Statute of Autonomy framework."
+    },
+    {
+      "year": 2006,
+      "title": "Statute of Autonomy of Catalonia 2006",
+      "description": "Spanish Organic Law 6/2006 of 19 July 2006 establishing modernised Catalan autonomous-community governance framework — partially struck down by Spanish Constitutional Court Judgment 31/2010 of 28 June 2010 (controversial constitutional ruling cementing subsequent independence-movement framework). Pivotal modern context preceding 2017 independence referendum."
     },
     {
       "year": 2010,
       "title": "CCCat Book II Persons and Family + joint-custody presumption",
-      "description": "Catalan Civil Code Book II Persons and Family adopted 30 July 2010 — establishing strong presumption of joint custody (custòdia compartida) under Article 233-10."
+      "description": "Catalan Civil Code Book II Persons and Family adopted 30 July 2010 (Llei 25/2010) — establishing strong presumption of joint custody (custòdia compartida) under Article 233-10 — among strongest joint-custody-presumption frameworks in Europe."
     },
     {
       "year": 2017,
       "title": "Catalan independence referendum + Spanish constitutional crisis",
-      "description": "Catalan independence referendum of 1 October 2017 followed by Catalan Parliament unilateral independence declaration of 27 October 2017 — declared illegal by Spanish Constitutional Court. Subsequent application of Constitution Article 155 by Spanish Government."
+      "description": "Catalan independence referendum of 1 October 2017 followed by Catalan Parliament unilateral independence declaration of 27 October 2017 — declared illegal by Spanish Constitutional Court. Subsequent application of Constitution Article 155 by Spanish Government + CCCat Book VI Obligations and Contracts adopted 2017 completing six-book civil code recodification 2002-2017."
     },
     {
-      "year": 2017,
-      "title": "CCCat Book VI Obligations and Contracts",
-      "description": "Catalan Civil Code Book VI Obligations and Contracts adopted 2017 — completing six-book civil code recodification 2002-2017."
+      "year": 2023,
+      "title": "Aragonès Government + Síndic de Greuges Ombudsperson + Catalan-Parlament + post-Pedro-Sánchez-amnesty-negotiations framework",
+      "description": "Pere Aragonès (ERC) Presidency framework continuing through 2023 with Síndic de Greuges (Catalan Ombudsperson) institutional positions addressing PA-related issues within CCCat Book II Persons and Family Article 233-10 joint-custody-presumption framework. Catalan Parlament + post-2023 Pedro Sánchez investiture amnesty-negotiations framework substantively significant institutional context. Tribunal Superior de Justícia de Catalunya continuing application of CCCat framework affecting cross-border family-law adjudication. Substantively significant North-eastern Iberian institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Catalan Amnesty Law + continuing framework",
+      "description": "Catalan Amnesty Law (Ley Orgánica de Amnistía) approved by Spanish Cortes Generales 30 May 2024 — pivotal modern post-2017-constitutional-crisis framework + amnesty for 2017 independence referendum participants + continuing Catalan-civil-law CCCat 2002-2017 six-book framework + continuing strong joint-custody-presumption framework under Article 233-10 + continuing Spanish Constitutional Court jurisdiction over federal-constitutional matters."
     }
   ],
   "structural_findings": [
@@ -145,7 +165,7 @@
     }
   ],
   "editorial_notes": [
-    "Catalonia jurisdiction sidecar — civil-law North-eastern Iberian Spanish autonomous community with own Catalan civil-code jurisdiction (Codi Civil de Catalunya 2002-2017 + Statute of Autonomy 2006 + Spanish Constitution Article 149.1.8 + CCCat Book II Persons and Family 2010 strong joint-custody presumption + 2017 independence referendum + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from national civil code globally + modern multi-book EU subnational civil-code recodification + among strongest joint-custody-presumption frameworks in Europe + modern EU subnational independence-referendum-vs-constitutional-court conflict.",
+    "Catalonia jurisdiction sidecar v1.1 — civil-law North-eastern Iberian Spanish autonomous community with own Catalan civil-code jurisdiction (1060 Usatges de Barcelona + 1283 Constitucions de Catalunya Cortes de Barcelona + 1716 Decret de Nova Planta de Catalunya + 1932 Estatut de Núria + 1960 Compilació + 1978 Spanish Constitution Article 149.1.8 + 2006 Statute of Autonomy + Constitutional Court Judgment 31/2010 + 2010 CCCat Book II + 2017 independence referendum + Book VI + 2024 Catalan Amnesty Law). Only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from national civil code globally + modern multi-book EU subnational civil-code recodification + among strongest joint-custody-presumption frameworks in Europe + modern EU subnational independence-referendum-vs-constitutional-court conflict + 2024 post-crisis amnesty framework.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins North-eastern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + only-EU-member-state-subnational-with-own-Civil-Code-globally-distinctive + CCCat-six-book-recodification + Article-233-10-strong-joint-custody-presumption + 2017-Catalan-independence-referendum-constitutional-crisis + Tribunal-Superior-de-Justicia-de-Catalunya-apex-Catalan-civil-law clusters within the corpus."
   ]

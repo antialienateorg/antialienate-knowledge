@@ -61,25 +61,75 @@
   "key_developments": [
     {
       "year": 1890,
-      "title": "Guardians and Wards Act",
-      "description": "Federal custody/guardianship statute originally enacted under British India."
+      "title": "Guardians and Wards Act 1890",
+      "description": "Federal Guardians and Wards Act 1890 (Act VIII of 1890) originally enacted under British India, retained as Bangladesh federal statute post-independence. Sec. 7 codifies the welfare-of-the-minor standard as paramount in custody determinations — the substantive anchor that persists across Bangladesh's mixed-legal personal-law framework."
+    },
+    {
+      "year": 1937,
+      "title": "Muslim Personal Law (Shariat) Application Act 1937",
+      "description": "Muslim Personal Law (Shariat) Application Act 1937 originally enacted under British India — declaring Muslim personal-status matters governed by Hanafi-Shariat-law. Foundational substantive anchor for Muslim personal-status framework that persists in Bangladesh post-1971-independence."
     },
     {
       "year": 1961,
       "title": "Muslim Family Laws Ordinance",
-      "description": "Federal Muslim personal-status reform statute."
+      "description": "Federal Muslim Family Laws Ordinance enacted 1961 (under Pakistan administration pre-1971) — substantive reform of Muslim personal-status law including marriage-registration, divorce-procedure (talaq-arbitration-council requirement), polygamy-permission framework, and inheritance — among the earliest major Muslim-personal-law reforms in South-Asia. Retained as Bangladesh federal statute post-1971-independence."
+    },
+    {
+      "year": 1971,
+      "title": "Bangladesh independence + reception of pre-1971 statutory framework",
+      "description": "Bangladesh declared independence 26 March 1971, recognised internationally following 16 December 1971 victory in Bangladesh Liberation War. Constitution of Bangladesh adopted 4 November 1972 (effective 16 December 1972) — establishing parliamentary democratic-republic framework. Pre-1971 colonial-era and Pakistan-era statutory framework substantively retained including GWA 1890, MFLO 1961, and other personal-status statutes."
     },
     {
       "year": 1985,
-      "title": "Family Courts Ordinance",
-      "description": "Specialised Family Courts established."
+      "title": "Family Courts Ordinance + specialised Family Courts established",
+      "description": "Federal Family Courts Ordinance enacted 1985 establishing specialised Family Courts with original jurisdiction over family-law matters — marriage, divorce, dower, maintenance, custody, and guardianship. Substantively modernised the family-law-adjudication framework alongside continued operation of GWA 1890 + MFLO 1961 substantive law."
+    },
+    {
+      "year": 1990,
+      "title": "Bangladesh ratifies UN Convention on the Rights of the Child",
+      "description": "Bangladesh ratified the UNCRC on 3 August 1990 with reservations to Arts. 14(1) (freedom of religion) and 21 (adoption) — framing the family-law-reform trajectory toward best-interest-of-the-child substantive doctrine within Islamic-personal-law-bounded framework."
+    },
+    {
+      "year": 2000,
+      "title": "Prevention of Oppression Against Women and Children Act",
+      "description": "Federal Prevention of Oppression Against Women and Children Act enacted 2000 (revised 2003) — landmark anti-violence statute covering physical and sexual violence including against children. Operates parallel to Family Courts Ordinance + GWA framework."
+    },
+    {
+      "year": 2010,
+      "title": "Domestic Violence (Prevention and Protection) Act 2010",
+      "description": "Federal Domestic Violence (Prevention and Protection) Act enacted 12 October 2010 — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. The law substantively reaches inter-parental conduct affecting children but operates parallel to — not as a replacement of — the GWA + MFLO + Family Courts Ordinance custody framework."
+    },
+    {
+      "year": 2013,
+      "title": "Children Act 2013",
+      "description": "Federal Children Act 2013 enacted (replacing 1974 Children Act) codifying CRC-aligned child-protection mechanisms, juvenile-justice framework, child-development standards, and explicit child-participation principles. Operates alongside GWA + MFLO as the substantive child-welfare anchor."
+    },
+    {
+      "year": 2024,
+      "title": "Sheikh Hasina ouster + Yunus interim-government + family-court-implementation context framework",
+      "description": "Bangladesh July-August 2024 student-led protests + Sheikh Hasina resignation and exile 5 August 2024 ending 15-year Awami League premiership (2009-2024) + Muhammad Yunus interim-government framework 8 August 2024 — substantively distinctive globally largest-modern-Bangladesh political-transition framework + structurally distinctive South Asian student-protest-precipitated government-change framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Supreme Court Appellate Division + Family Courts Ordinance + MFLO 1961 + GWA 1890 framework + welfare-of-the-minor substantive register evolution. Foundational post-Hasina-era framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2017,
+      "title": "Child Marriage Restraint Act 2017 + special-circumstances exemption framework",
+      "description": "Child Marriage Restraint Act 2017 (বাল্যবিবাহ নিরোধ আইন, ২০১৭) enacted 11 March 2017 + effective subsequent — substantively distinctive Bangladeshi child-marriage-prevention framework. Substantive Child Marriage Restraint Act 2017 framework establishing minimum marriage age 18 for women + 21 for men + controversial Section 19 special-circumstances exemption permitting marriage below minimum age under parental + court consent + foundation for ongoing child-marriage-prevention vs. Section 19 exemption debate. Structurally distinctive globally only South-Asian state to retain explicit statutory special-circumstances child-marriage exemption framework + foundation for subsequent 2024 Supreme Court welfare-of-the-minor substantive register engaging child-marriage framework."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court Appellate Division — welfare-of-the-minor substantive register",
+      "description": "Supreme Court of Bangladesh (Appellate Division) continues to develop welfare-of-the-minor jurisprudence under GWA sec. 7 + MFLO 1961 + Family Courts Ordinance 1985 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis under Hanafi-Muslim personal-law framework for Muslims and respective community personal-laws for non-Muslims, with welfare-of-the-minor as overriding paramount-standard."
     }
   ],
   "structural_findings": [
-    "Bangladesh operates a mixed-legal-system framework — English common-law procedural inheritance + religious-community personal laws + Hanafi jurisprudence for Muslim hizanat. Within the corpus's mixed-jurisdiction cluster.",
-    "Structurally adjacent to Pakistan and India in the South Asian post-partition cluster — shared British-Indian statutory inheritance (GWA 1890) + religious-community personal-law frameworks.",
-    "Non-Hague Convention status places Bangladesh in the non-Hague Asian cluster.",
-    "Psychology profession regulation operates through BCPS peak-body ethics without unified federal-statutory psychology regulator."
+    "Bangladesh operates a mixed-legal-system framework — English common-law procedural inheritance + religious-community personal laws + Hanafi-Muslim personal-law for Muslims (hizanat custody framework). Within the corpus's mixed-jurisdiction cluster + South-Asian-multi-religious-personal-law sub-cluster (with India, Pakistan, Myanmar, Sri Lanka, Maldives).",
+    "Structurally adjacent to Pakistan and India in the South-Asian post-partition cluster — shared British-Indian statutory inheritance (GWA 1890 + Shariat Application Act 1937) + religious-community personal-law frameworks — with Bangladesh inheriting both pre-1947 British-Indian and 1947-1971 Pakistan-era statutory baseline.",
+    "MFLO 1961 retained from Pakistan era is among the earliest major Muslim-personal-law reforms in South-Asia — talaq-arbitration-council requirement and polygamy-permission framework structurally distinctive within the Hanafi-Muslim cluster.",
+    "1985 Family Courts Ordinance establishes specialised Family Courts — places Bangladesh within the South-Asian specialised-Family-Court cluster (with Pakistan 1964 Family Courts Act).",
+    "Constitution 1972 codifies parliamentary-democratic-republic framework — distinct from monarchies (Bhutan, Brunei) and federal republics (India, Nepal) within South-Asia.",
+    "UNCRC reservations to Arts. 14(1) (freedom of religion) and 21 (adoption) — Islamic-law-bounded CRC implementation pattern shared with Brunei, Saudi Arabia, and several Gulf jurisdictions.",
+    "Non-Hague-1980-Convention status places Bangladesh in the non-Hague-South-Asian cluster alongside Bhutan, Nepal, Sri Lanka, and Maldives.",
+    "Multi-layer substantive-statutory framework: GWA-1890 + Shariat-Application-Act-1937 + MFLO-1961 + Constitution-1972 + Family-Courts-Ordinance-1985 + UNCRC-1990 + Prevention-of-Oppression-Against-Women-and-Children-Act-2000 + DV-Prevention-and-Protection-Act-2010 + Children-Act-2013 — gradual modernisation within mixed-legal framework.",
+    "Psychology profession regulation operates through BCPS peak-body ethics without unified federal-statutory psychology regulator typical of European/Anglosphere comparators."
   ],
   "references": [
     "jurisdiction:india",
@@ -102,8 +152,9 @@
     }
   ],
   "editorial_notes": [
-    "Bangladesh jurisdiction sidecar — mixed-legal-system framework (English common-law procedural + religious-community personal laws + Hanafi Muslim hizanat). GWA 1890 + MFLO 1961 + Family Courts Ordinance 1985 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins South Asian + mixed-jurisdiction + non-Hague Convention clusters within the corpus."
+    "Bangladesh jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full colonial-to-contemporary trajectory: 1890-Guardians-and-Wards-Act + 1937-Shariat-Application-Act + 1961-MFLO-Pakistan-era + 1971-independence-Constitution-1972 + 1985-Family-Courts-Ordinance + 1990-UNCRC-ratification-with-Art-14-1-21-reservations + 2000-Prevention-of-Oppression-Against-Women-and-Children-Act + 2010-DV-Prevention-and-Protection-Act + 2013-Children-Act + 2024-Supreme-Court-welfare-of-the-minor.",
+    "Mixed-legal-system framework (English common-law procedural + religious-community personal laws + Hanafi-Muslim personal-law for Muslims hizanat) + GWA 1890 + Shariat Application Act 1937 + MFLO 1961 + Constitution 1972 + Family Courts Ordinance 1985 + Children Act 2013 + DV Prevention Act 2010 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-minor analysis under GWA sec. 7 + religious-community-personal-law-framework without doctrinal 'parental alienation' label.",
+    "Joins South-Asian + mixed-jurisdiction + post-partition-pre-1947-British-Indian-substrate + 1947-1971-Pakistan-era-statutory-inheritance + multi-religious-personal-law (with India, Pakistan, Myanmar, Sri Lanka, Maldives) + Hanafi-Muslim-personal-law + South-Asian-specialised-Family-Court (with Pakistan) + UNCRC-Art-14-1-21-reservations + non-Hague-South-Asian-Convention clusters within the corpus."
   ]
 }

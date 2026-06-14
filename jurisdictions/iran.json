@@ -54,30 +54,74 @@
   "anonymisation_convention": "Iranian family-law decisions are typically not published; when published in scholarly literature, party identities are obscured per court practice.",
   "key_developments": [
     {
+      "year": 1925,
+      "title": "Pahlavi dynasty + Reza Shah modernisation",
+      "description": "Pahlavi dynasty established 1925 by Reza Shah Pahlavi — beginning of comprehensive Western-influenced legal modernisation programme. Foundational political-institutional framework for 1928 Civil Code adoption, 1932 Marriage Law, and 1967 Family Protection Law — all later partially reversed post-1979 Islamic Revolution."
+    },
+    {
       "year": 1928,
-      "title": "Qanun-e Madani (Civil Code) enacted",
-      "description": "Iran's foundational civil code enacted 1928."
+      "title": "Qanun-e Madani (Civil Code) enacted — Books 1-2",
+      "description": "Iran's foundational Civil Code Books 1-2 enacted 1928 (under Reza Shah administration) — drawing on French Civil Code structural model with Twelver Shia Ja'fari jurisprudential substantive substrate. Book 2 Title IX (arts. 1168-1180) governs custody (hizanat) and guardianship (walayat). Substantively retained as the foundational civil framework that persists in contemporary Iran."
+    },
+    {
+      "year": 1967,
+      "title": "Family Protection Law 1967 (pre-revolutionary modernisation)",
+      "description": "Family Protection Law enacted 1967 under Mohammad Reza Shah Pahlavi administration — major pre-revolutionary modernisation including women's-rights expansion, divorce-procedure reforms, polygamy restrictions, and Family Court establishment. Substantially repealed post-1979 Islamic Revolution but provided foundational substantive substrate for later post-revolutionary Family Protection Law 2013 reforms."
     },
     {
       "year": 1979,
-      "title": "Islamic Revolution",
-      "description": "Establishment of the Islamic Republic; family law re-aligned to Twelver Shia Jaʿfari jurisprudential framework."
+      "title": "Islamic Revolution + Constitution + Twelver Shia Ja'fari framework restoration",
+      "description": "Islamic Revolution February 1979 — establishment of Islamic Republic. Constitution of the Islamic Republic of Iran adopted 1979 (substantially amended 1989) — Art. 4 declares all laws must be based on Islamic criteria, with Twelver Shia Ja'fari jurisprudence as official framework. Family law re-aligned to Twelver Shia Ja'fari jurisprudential framework; 1967 Family Protection Law substantively repealed. Foundational constitutional anchor for post-revolutionary family-law regime."
+    },
+    {
+      "year": 1994,
+      "title": "Iran ratifies UN Convention on the Rights of the Child",
+      "description": "Iran ratified the UNCRC on 13 July 1994 with general reservation regarding provisions inconsistent with Islamic Shariah — Islamic-law-bounded CRC implementation pattern shared with several Muslim-majority jurisdictions. CRC engagement subsequently expanded as primary international children's-rights-monitoring register."
+    },
+    {
+      "year": 1997,
+      "title": "Khatami administration + reform stream + family-law liberalisation discussions",
+      "description": "President Khatami administration 1997-2005 brought reform stream affecting family-law domain: discussions of minimum-marriage-age, women's-rights expansion, divorce-procedure improvements. Some reforms implemented; substantial reform debates contributed to later 2013 Family Protection Law framework."
     },
     {
       "year": 2003,
-      "title": "Psychology and Counseling Organization Law",
-      "description": "Statutory professional-order regulator established."
+      "title": "Psychology and Counseling Organization Law 1379/2003",
+      "description": "Federal Psychology and Counseling Organization Law enacted 1379 (2003) — establishing the Sazman-e Nezam-e Ravanshenasi va Mosharaverat as statutory professional-order regulator with disciplinary authority. Among the earliest federal-statutory psychology regulators in MENA — places Iran within the federal-statutory psychology regulator cluster."
     },
     {
       "year": 2013,
-      "title": "Family Protection Law 1391",
-      "description": "Post-revolutionary modernised family-law statute enacted."
+      "title": "Family Protection Law 1391/2013 (post-revolutionary modernisation)",
+      "description": "Federal Family Protection Law enacted 1391 (2013) — post-revolutionary modernised family-law statute updating procedural framework for Family Courts (Dadgah-e Khanevadeh), codifying welfare-of-the-child considerations in custody determinations, and addressing contemporary family-law challenges within Twelver Shia Ja'fari jurisprudential bounds. Currently operative framework alongside Civil Code 1928."
+    },
+    {
+      "year": 2022,
+      "title": "Mahsa Amini protests + women's-rights reform debates",
+      "description": "Mahsa Amini death September 2022 and subsequent women's-rights protests substantially elevated debates around women's rights including family-law domain. Iranian Parliament 2024-2025 considered various provisions — broader contemporary context for family-law substantive debate within constrained Twelver Shia Ja'fari constitutional framework."
+    },
+    {
+      "year": 2020,
+      "title": "COVID-19 pandemic + family-court-disruption + maslahat-e tifl framework",
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Iran — one of Middle East's earliest + most severe pandemic-impact frameworks. Supreme Court of Iran + Family Courts (Dadgāh-e Khānevādeh) operations substantively disrupted + family-court hearings substantially deferred + maslahat-e tifl (welfare-of-the-child) jurisprudence development continuing within remote-hearing framework + custody-and-ḥażānat decisions affected by pandemic-era public-health-emergency framework + substantive Iranian diaspora cross-border-jurisdiction-practice disruption affecting subsequent post-pandemic family-law-implementation framework."
+    },
+    {
+      "year": 2023,
+      "title": "Hijab and Chastity Law debate + family-law amendment proposals",
+      "description": "Hijab and Chastity Law (Lā'iḥeh-yi Hijāb va 'Effat) legislative debate 2022-2023 substantively affecting women's-rights framework under Twelver Shia Ja'fari constitutional framework. Multiple Family Protection Law 2013 amendment proposals addressing custody-age framework (ḥażānat) and maintenance provisions. Substantively significant institutional context — establishing trajectory toward 2024 Supreme Court + Family Courts substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Family Courts — maslahat-e tifl substantive register",
+      "description": "Supreme Court of Iran and Family Courts continue to develop maslahat-e tifl (welfare-of-the-child) jurisprudence under Civil Code arts. 1168-1180 + Family Protection Law 2013 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis under Twelver Shia Ja'fari-jurisprudence-bounded codified-welfare-of-the-child framework."
     }
   ],
   "structural_findings": [
-    "Iran operates the only major Twelver Shia Jaʿfari religious-law framework within the corpus — distinct from the Sunni-tradition Gulf jurisdictions (Saudi Arabia Hanbali + Qatar Hanbali + UAE mixed-Sunni). Custody provisions reflect Shia jurisprudential framework where mother holds primary hizanat to a specified age before transition to father.",
-    "PCO statutory professional-order regime places Iran among the federal-statutory psychology regulator group within the corpus.",
-    "Non-Hague Convention status — places Iran alongside Saudi Arabia in the non-Hague Gulf cluster. Relevant to cross-border-displacement custody matters."
+    "Iran operates the only major Twelver Shia Ja'fari religious-law framework within the corpus — distinct from the Sunni-tradition Gulf jurisdictions (Saudi Arabia Hanbali + Qatar Hanbali + UAE mixed-Sunni + Kuwait Maliki-primary + Oman Ibadi-primary + Bahrain Sunni-Shia-unified). Custody provisions reflect Shia jurisprudential framework where mother holds primary hizanat to a specified age before transition to father.",
+    "Constitution 1979/1989 Art. 4 (all laws must be based on Islamic criteria) places Iran within the Shariah-as-supreme-law constitutional-cluster (with Saudi Arabia, Brunei MIB-2014, Sudan, Afghanistan-Taliban-2021, Maldives Constitution 2008) — distinct from Shariah-as-principal-source-among-others (UAE, Qatar, Kuwait, Bahrain).",
+    "Pahlavi-era pre-revolutionary modernisation: 1928-Civil-Code + 1967-Family-Protection-Law established Western-influenced family-law substrate substantially repealed post-1979 but provided substrate for later post-revolutionary 2013 Family Protection Law reforms — structurally distinctive pre-revolutionary-modernisation-then-Islamic-restoration trajectory.",
+    "PCO (Sazman-e Nezam-e Ravanshenasi va Mosharaverat) statutory professional-order regime places Iran among the federal-statutory psychology regulator group within the corpus — alongside SCFHS Saudi Arabia, DHP Qatar, NHRA Bahrain, MOHAP/DOH/DHA UAE within the MENA cluster.",
+    "Non-Hague-1980-Convention status — places Iran alongside Saudi Arabia, Kuwait, Oman, Bahrain in the non-Hague-Gulf cluster. Relevant to cross-border-displacement custody matters with significant Iranian-diaspora-jurisdiction litigation in Anglosphere and European jurisdictions.",
+    "UNCRC ratification 1994 with general reservation regarding Shariah-conflicting provisions — Islamic-law-bounded CRC implementation pattern shared with Saudi Arabia, Bangladesh, Brunei, Bahrain, and several Gulf jurisdictions.",
+    "Multi-layer substantive-statutory framework: 1925-Pahlavi-dynasty + 1928-Civil-Code-Books-1-2 + 1967-Family-Protection-Law-pre-revolutionary + 1979-Islamic-Revolution-Constitution-Twelver-Shia-Ja'fari-restoration + 1994-UNCRC-ratification-with-Shariah-reservation + 1997-Khatami-administration-reform-stream + 2003-Psychology-and-Counseling-Organization-Law + 2013-Family-Protection-Law-post-revolutionary-modernisation + 2022-Mahsa-Amini-protests-women's-rights-debates + 2024-Supreme-Court-Family-Courts-welfare-of-the-child — most discontinuous-codification-then-restoration trajectory within MENA religious-law cluster."
   ],
   "references": [
     "jurisdiction:saudi-arabia",
@@ -106,8 +150,9 @@
     }
   ],
   "editorial_notes": [
-    "Iran jurisdiction sidecar — Twelver Shia Jaʿfari religious-law framework. Civil Code 1928 + Family Protection Law 2013 + PCO statutory professional-order psychology regulator + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Shia primary-cluster + non-Hague Convention + federal-statutory psychology regulator clusters within the corpus."
+    "Iran jurisdiction sidecar v1.1 — deepened 2026-06-08 from 4 to 10 key_developments with full Pahlavi-to-contemporary trajectory: 1925-Pahlavi-dynasty-Reza-Shah-modernisation + 1928-Qanun-e-Madani-Civil-Code-Books-1-2 + 1967-Family-Protection-Law-pre-revolutionary-modernisation + 1979-Islamic-Revolution-Constitution-Twelver-Shia-Jafari-restoration + 1994-UNCRC-ratification-with-Shariah-general-reservation + 1997-Khatami-administration-reform-stream + 2003-Psychology-and-Counseling-Organization-Law-1379-2003 + 2013-Family-Protection-Law-1391-2013-post-revolutionary-modernisation + 2022-Mahsa-Amini-protests + 2024-Supreme-Court-Family-Courts-maslahat-e-tifl.",
+    "Twelver Shia Ja'fari religious-law framework + Civil Code 1928 + Family Protection Law 2013 + Constitution 1979/1989 Art. 4 Shariah-supreme-law + PCO statutory professional-order psychology regulator + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive maslahat-e tifl (welfare-of-the-child) analysis under Civil Code arts. 1168-1180 + Family Protection Law 2013 Twelver-Shia-Ja'fari-bounded framework without doctrinal 'parental alienation' label.",
+    "Joins Shia-primary-Ja'fari-only-jurisdiction + Shariah-as-supreme-law-constitutional (with Saudi Arabia, Brunei, Sudan, Afghanistan-Taliban, Maldives) + non-Hague-Gulf-Convention + federal-statutory-psychology-regulator (with SCFHS, DHP, NHRA, MOHAP/DOH/DHA) + UNCRC-Shariah-general-reservation + pre-revolutionary-modernisation-then-Islamic-restoration-distinctive-trajectory clusters within the corpus."
   ]
 }

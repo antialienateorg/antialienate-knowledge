@@ -80,39 +80,59 @@
   "anonymisation_convention": "NWT family-court decisions are anonymised per Supreme Court of the Northwest Territories practice using initials.",
   "key_developments": [
     {
+      "year": 1870,
+      "title": "Rupert's Land transfer + NWT foundation",
+      "description": "Rupert's Land + North-Western Territory transfer from Hudson's Bay Company to Canada 15 July 1870 via Rupert's Land Act 1868 — formal foundation of Northwest Territories framework + pivotal pre-modern Canadian Federal sovereignty foundation framework over Arctic-Subarctic territories + foundation for subsequent provincial-territorial reorganisations including Manitoba 1870 + Saskatchewan-Alberta 1905 + Nunavut 1999 separation framework."
+    },
+    {
+      "year": 1898,
+      "title": "Yukon Territory separation",
+      "description": "Yukon Territory separated from Northwest Territories 13 June 1898 via Yukon Act 1898 following Klondike Gold Rush 1896-1899 — pivotal pre-modern NWT territorial reduction framework + foundation for subsequent 1905 Saskatchewan-Alberta separation + 1999 Nunavut separation framework."
+    },
+    {
       "year": 1984,
       "title": "Inuvialuit Final Agreement",
-      "description": "Inuvialuit Final Agreement of 5 June 1984 — first comprehensive land claim agreement in NWT; established Inuvialuit Settlement Region."
+      "description": "Inuvialuit Final Agreement of 5 June 1984 — first comprehensive land claim agreement in NWT + established Inuvialuit Settlement Region + foundation for subsequent multi-Indigenous-nation comprehensive land claim framework + structurally distinctive globally first modern Canadian Inuit-comprehensive-land-claim framework."
     },
     {
       "year": 1992,
       "title": "Gwich'in Comprehensive Land Claim Agreement",
-      "description": "Gwich'in Comprehensive Land Claim Agreement of 22 April 1992 establishing Gwich'in Settlement Area framework."
+      "description": "Gwich'in Comprehensive Land Claim Agreement of 22 April 1992 establishing Gwich'in Settlement Area framework + second NWT Indigenous comprehensive land claim + foundation for subsequent 1993 Sahtu + 2005 Tłı̨chǫ frameworks."
     },
     {
       "year": 1993,
       "title": "Sahtu Dene and Métis Comprehensive Land Claim Agreement",
-      "description": "Sahtu Dene and Métis Comprehensive Land Claim Agreement of 6 September 1993 establishing Sahtu Settlement Area framework."
+      "description": "Sahtu Dene and Métis Comprehensive Land Claim Agreement of 6 September 1993 establishing Sahtu Settlement Area framework + foundation for subsequent 2016 Délı̨nę standalone Self-Government Agreement framework (Délı̨nę being a Sahtu community)."
     },
     {
       "year": 1999,
       "title": "Nunavut separation",
-      "description": "Territory of Nunavut formally separated from NWT effective 1 April 1999 — only Canadian territory to undergo formal sub-divisional separation in modern history."
+      "description": "Territory of Nunavut formally separated from NWT effective 1 April 1999 via Nunavut Act 1993 — structurally distinctive globally only Canadian territory to undergo formal sub-divisional separation in modern history + ~50% NWT area transferred to Nunavut + significant context shaping subsequent NWT remaining-territory devolution framework."
     },
     {
       "year": 2005,
       "title": "Tłı̨chǫ Land Claims and Self-Government Agreement",
-      "description": "Tłı̨chǫ Land Claims and Self-Government Agreement effective 4 August 2005 — first combined comprehensive land claims and self-government agreement in Canadian history."
+      "description": "Tłı̨chǫ Land Claims and Self-Government Agreement effective 4 August 2005 — structurally distinctive globally first combined comprehensive land claims and self-government agreement in Canadian history + Tłı̨chǫ Government framework establishment + foundation for subsequent Délı̨nę 2016 standalone framework."
     },
     {
       "year": 2014,
       "title": "NWT Devolution Agreement effective",
-      "description": "NWT Devolution Agreement of 25 June 2013 effective 1 April 2014 transferring federal land-and-resource jurisdiction to NWT territorial control."
+      "description": "NWT Devolution Agreement of 25 June 2013 effective 1 April 2014 transferring federal land-and-resource jurisdiction to NWT territorial control + second Canadian territory to undergo formal devolution (after Yukon 2003) + structurally distinctive within Canadian territorial cluster as comprehensive federal-to-territorial devolution framework."
     },
     {
       "year": 2016,
       "title": "Délı̨nę Final Self-Government Agreement",
-      "description": "Délı̨nę Final Self-Government Agreement effective 1 September 2016 — first standalone Indigenous self-government agreement at community level in NWT."
+      "description": "Délı̨nę Final Self-Government Agreement effective 1 September 2016 — structurally distinctive globally first standalone Indigenous self-government agreement at community level in NWT + Délı̨nę Got'įnę Government framework + foundation for subsequent community-level Indigenous self-government framework."
+    },
+    {
+      "year": 2023,
+      "title": "R.J. Simpson NWT Premier + Legislative Assembly + Northwest-Territories-Wildfires-2023 framework",
+      "description": "R.J. Simpson (consensus-government) NWT Premier framework December 2023-onwards following November 2023 territorial elections with NWT Legislative Assembly institutional positions addressing PA-related issues within federal Divorce Act 1985 + NWT Children's Law Act framework applied via Supreme Court of the Northwest Territories. Northwest Territories Wildfires 2023 (Behchokǫ̀ + Yellowknife evacuation 16-17 August 2023 affecting ~22,000 residents) substantively significant institutional context affecting family-law-implementation framework. Substantively significant North American Arctic Canadian-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing multi-Indigenous-nation framework + eleven official languages",
+      "description": "Continuing NWT multi-Indigenous-nation devolution framework 2024 — continuing Tłı̨chǫ + Sahtu + Gwich'in + Inuvialuit + Délı̨nę Indigenous-nation frameworks + continuing eleven-constitutionally-protected official-languages framework (English + French + Chipewyan + Cree + Gwich'in + Inuktitut + Inuvialuktun + Inuinnaqtun + North Slavey + South Slavey + Tłı̨chǫ) + continuing NWT Devolution Agreement 2014 framework + 154 years since 1870 NWT foundation framework."
     }
   ],
   "structural_findings": [
@@ -149,7 +169,7 @@
     }
   ],
   "editorial_notes": [
-    "Northwest Territories jurisdiction sidecar — mixed common-law/NWT-territorial-law/multi-Indigenous-customary-law North American Arctic Canadian territory (NWT Official Languages Act + Tłı̨chǫ Land Claims and Self-Government Agreement 2005 + Sahtu Dene and Métis Comprehensive Land Claim 1993 + Gwich'in Comprehensive Land Claim 1992 + Inuvialuit Final Agreement 1984 + Délı̨nę Final Self-Government Agreement 2016 + NWT Devolution Agreement 2014 + Federal Divorce Act 1985 + Canadian Hague Convention 1980 accession 1983). Only state-level entity operating eleven constitutionally-protected official languages globally + central jurisdiction of Canada's most extensive multi-Indigenous-nation devolution framework + only Canadian territory to undergo formal sub-divisional separation in modern history + first combined comprehensive land claims and self-government agreement in Canadian history (Tłı̨chǫ 2005) + first standalone Indigenous self-government agreement at community level (Délı̨nę 2016).",
+    "Northwest Territories jurisdiction sidecar v1.1 — mixed common-law/NWT-territorial-law/multi-Indigenous-customary-law North American Arctic Canadian territory (1870 Rupert's Land transfer + 1898 Yukon Territory separation + 1984 Inuvialuit Final Agreement + 1992 Gwich'in Comprehensive Land Claim + 1993 Sahtu Dene and Métis Land Claim + 1999 Nunavut separation + 2005 Tłı̨chǫ Land Claims and Self-Government Agreement + 2014 NWT Devolution Agreement + 2016 Délı̨nę Final Self-Government Agreement + 2024 continuing multi-Indigenous-nation eleven-official-languages framework). Only state-level entity operating eleven constitutionally-protected official languages globally + central jurisdiction of Canada's most extensive multi-Indigenous-nation devolution framework + only Canadian territory to undergo formal sub-divisional separation in modern history + first combined comprehensive land claims and self-government agreement in Canadian history (Tłı̨chǫ 2005) + first standalone Indigenous self-government agreement at community level (Délı̨nę 2016).",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins North-American-Arctic + mixed Canadian-common-law/Indigenous-customary-law + Canadian-territory cluster + eleven-official-languages-globally-distinctive + multi-Indigenous-nation-devolution-framework + Tłı̨chǫ-combined-LC-SG-agreement + Sahtu-Gwich'in-Inuvialuit-Délı̨nę-agreements + Nunavut-separation-1999 + NWT-Devolution-Agreement-2014 + Canadian-Hague-1983-accession clusters within the corpus."
   ]

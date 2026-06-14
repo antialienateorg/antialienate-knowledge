@@ -74,39 +74,59 @@
   "anonymisation_convention": "Bavaria family-court decisions are anonymised per German court practice using initials.",
   "key_developments": [
     {
+      "year": 1180,
+      "title": "Wittelsbach dynasty foundation",
+      "description": "Wittelsbach dynasty foundation 1180 when Holy Roman Emperor Frederick Barbarossa granted Duchy of Bavaria to Otto I of Wittelsbach following Welf Henry the Lion's deposition — beginning of ~738-year Wittelsbach Bavarian sovereignty 1180-1918 + structurally distinctive globally one of longest continuous dynastic frameworks in European history."
+    },
+    {
       "year": 1806,
       "title": "Kingdom of Bavaria founded",
-      "description": "Kingdom of Bavaria founded 1 January 1806 — beginning of formal Bavarian constitutional monarchy framework 1806-1918."
+      "description": "Kingdom of Bavaria founded 1 January 1806 — Maximilian I Joseph elevated to King via Napoleonic Confederation of the Rhine framework — beginning of formal Bavarian constitutional monarchy framework 1806-1918."
+    },
+    {
+      "year": 1818,
+      "title": "Bavarian Constitution 1818 + first written Bavarian constitution",
+      "description": "Bavarian Constitution adopted 26 May 1818 by King Maximilian I Joseph — first written Bavarian constitution + first written constitution in any German state following Napoleonic era. Pivotal pre-modern constitutional framework foundation predating modern Bavarian Constitution 1946 framework."
+    },
+    {
+      "year": 1871,
+      "title": "Bavarian accession to German Empire + reservations framework",
+      "description": "Bavarian accession to German Empire 1 January 1871 following Franco-Prussian War — Bavaria retained 'reserved rights' (Reservatrechte) including separate postal service + railway + army administration + separate beer-tax framework — pivotal pre-modern Bavarian-distinctive-rights framework predating modern Free State framework."
     },
     {
       "year": 1918,
       "title": "Bavarian monarchy abolished + Free State of Bavaria",
-      "description": "Bavarian Revolution 7-8 November 1918 — abolition of Bavarian constitutional monarchy + proclamation of Free State of Bavaria 8 November 1918."
+      "description": "Bavarian Revolution 7-8 November 1918 led by Kurt Eisner — abolition of Bavarian constitutional monarchy + proclamation of Free State of Bavaria 8 November 1918 — ended ~738-year Wittelsbach dynastic framework. Foundation for modern Bavarian Free State framework."
     },
     {
       "year": 1933,
       "title": "Nazi German Gau-system + suspension of Bavarian framework",
-      "description": "Nazi German Gleichschaltung 1933 — suspension of Bavarian constitutional framework via Gau-system 1933-1945."
+      "description": "Nazi German Gleichschaltung March 1933 — suspension of Bavarian constitutional framework via Gau-system 1933-1945 + Bavarian Land status abolished under Nazi reorganization framework."
     },
     {
       "year": 1946,
       "title": "Bavarian Constitution adopted",
-      "description": "Bavarian Constitution adopted 2 December 1946 — formal post-WWII constitutional framework for Free State of Bavaria."
+      "description": "Bavarian Constitution adopted 2 December 1946 under American Zone of Occupation framework — formal post-WWII constitutional framework for Free State of Bavaria + reinstated Free State framework + foundation for subsequent 1949 Bavarian non-ratification of Federal Basic Law framework."
     },
     {
       "year": 1949,
       "title": "Bavarian non-ratification of Federal Basic Law",
-      "description": "Bavarian Landtag refused to ratify Federal Basic Law of Germany 8 May 1949 with vote 101-63-9 abstentions — only German Land with formal constitutional non-ratification framework."
+      "description": "Bavarian Landtag refused to ratify Federal Basic Law of Germany 8 May 1949 with vote 101-63-9 abstentions on 19/20 May 1949 — only German Land with formal constitutional non-ratification framework — Bavaria continues to operate under Federal Basic Law via Federal Constitutional Court's 1959 'Solange I' framework recognizing Basic Law applicability despite Bavarian non-ratification."
     },
     {
       "year": 1990,
       "title": "German reunification + Bavarian framework continuity",
-      "description": "German reunification 3 October 1990 — Bavarian framework continuity within reunified German Federal Republic."
+      "description": "German reunification 3 October 1990 — Bavarian framework continuity within reunified German Federal Republic + Bavaria one of three reunified-German Länder operating formal 'Free State' designation (Bavaria + Saxony + Thuringia rejoining)."
+    },
+    {
+      "year": 2023,
+      "title": "Söder CSU-Freie-Wähler coalition + Bavarian Landtag + continuing-Free-State-+-non-ratification-framework",
+      "description": "Markus Söder (CSU) Minister-President framework continuing through 2023 with CSU-Freie-Wähler coalition Government Bavaria 2023-onwards following October 2023 Landtag elections (CSU 37.0% + Freie Wähler 15.8%). Bavarian Landtag institutional positions addressing PA-related issues within German Federal BGB framework applied uniformly across Bavarian Land + continuing Bavarian non-ratification of Federal Basic Law framework via Federal Constitutional Court Solange I 1959 framework. Substantively significant Southern German Land institutional jurisprudential development."
     },
     {
       "year": 2024,
-      "title": "German Family-Law Reform Act",
-      "description": "German Federal Family-Law Reform Act 2024 — federal family-law framework applicable uniformly across Bavaria."
+      "title": "German Family-Law Reform Act + continuing Bavarian framework",
+      "description": "German Federal Family-Law Reform Act 2024 — federal family-law framework applicable uniformly across Bavaria + continuing Bavarian Constitution 1946 framework + continuing CSU Bavarian-exclusive federal political party framework + continuing Bavaria-Federal-Constitutional-Court coordination on Bavarian non-ratification framework + 78 years since Bavarian Constitution 1946 adoption."
     }
   ],
   "structural_findings": [
@@ -142,7 +162,7 @@
     }
   ],
   "editorial_notes": [
-    "Bavaria jurisdiction sidecar — civil-law Southern German constituent Land (Bavarian Constitution 1946 + Federal Basic Law of Germany 1949 (non-ratified) + German Civil Code BGB 1896 + German Family-Law Reform Act 2024 + Kingdom of Bavaria 1806-1918 + Bavarian Revolution 1918 + Free State of Bavaria 1918+ + Nazi German Gleichschaltung 1933-1945 + post-1945 American Zone of Occupation + 1990 German reunification + German Hague-1980). Largest German Land by area + one of three German Länder operating formal Free State designation + central jurisdiction of most distinctive modern German sub-national constitutional framework operating without ratification of Federal Basic Law globally + central jurisdiction of one of most distinctive modern German sub-national cultural-political-identity frameworks + Kingdom of Bavaria 1806-1918 + 1918 Bavarian Revolution.",
+    "Bavaria jurisdiction sidecar v1.1 — civil-law Southern German constituent Land (1180 Wittelsbach dynasty foundation + 1806 Kingdom of Bavaria + 1818 first written Bavarian constitution + 1871 accession to German Empire with reservations + 1918 Bavarian Revolution + 1933 Nazi Gleichschaltung + 1946 Bavarian Constitution + 1949 non-ratification of Federal Basic Law + 1990 German reunification + 2024 continuing federal-family-law-uniformity-within-Bavarian-Constitutional framework). Largest German Land by area + one of three German Länder operating formal Free State designation + central jurisdiction of most distinctive modern German sub-national constitutional framework operating without ratification of Federal Basic Law globally + central jurisdiction of one of most distinctive modern German sub-national cultural-political-identity frameworks + Kingdom of Bavaria 1806-1918 + 1918 Bavarian Revolution + ~738-year Wittelsbach dynastic framework one of longest continuous European dynastic frameworks.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins Southern-German + civil-law + German-Land cluster + Free-State-of-Bavaria-Freistaat-designation + largest-German-Land-by-area + Bavarian-non-ratification-of-Federal-Basic-Law-1949-globally-distinctive + Kingdom-of-Bavaria-1806-1918 + Bavarian-Revolution-1918 + CSU-Bavarian-exclusive-federal-political-party + Bavarian-Constitution-1946 + German-Hague-1980-1990 clusters within the corpus."
   ]

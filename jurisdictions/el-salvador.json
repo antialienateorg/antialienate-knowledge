@@ -53,19 +53,59 @@
   "anonymisation_convention": "Salvadoran family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1821,
+      "title": "El Salvador independence + Central-American-Federation framework",
+      "description": "El Salvador independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1932,
+      "title": "La Matanza 1932 + Farabundo Martí + indigenous-massacre framework",
+      "description": "La Matanza (the massacre) January 1932 — estimated 10,000-40,000 indigenous Pipil and peasants killed by military government following peasant uprising led by Farabundo Martí. Substantively distinctive Central American 20th-century indigenous-mass-atrocity framework affecting subsequent demographic and family-law-implementation framework."
+    },
+    {
+      "year": 1980,
+      "title": "Salvadoran Civil War 1979-1992 + FMLN-government conflict",
+      "description": "Salvadoran Civil War 1979-1992 between FMLN guerrilla forces and US-backed government. Substantive 12-year conflict with estimated 75,000 killed substantially affected political-institutional framework. Foundational pre-Peace-Accords framework affecting subsequent democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "El Salvador ratifies UN Convention on the Rights of the Child",
+      "description": "El Salvador ratified the UNCRC on 10 July 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2009 LEPINA Law substantive doctrine."
+    },
+    {
+      "year": 1992,
+      "title": "Chapultepec Peace Accords + post-Civil-War democratic-transition",
+      "description": "Chapultepec Peace Accords signed 16 January 1992 ending Salvadoran Civil War. Substantive democratic-transition framework establishing contemporary constitutional-democratic-trajectory affecting subsequent family-law-modernisation including 1993 Family Code reform."
+    },
+    {
       "year": 1993,
-      "title": "Family Code (Decree 677)",
-      "description": "Federal Family Code enacted effective 1 October 1994 with substantial modernisation."
+      "title": "Family Code (Decree 677) + post-Peace-Accords-family-law-modernisation",
+      "description": "Federal Family Code enacted Decree 677 of 11 October 1993 effective 1 October 1994 — drawing on Spanish civil-law substantive heritage with substantial modernisation. Arts. 206-247 govern autoridad parental and child custody. Substantively significant post-Peace-Accords family-law-codification framework."
     },
     {
       "year": 2001,
-      "title": "Hague Convention 1980 accession",
-      "description": "El Salvador acceded to the Hague Convention 1980 effective 1 May 2001."
+      "title": "Hague Convention 1980 accession + earthquake context",
+      "description": "El Salvador acceded to the Hague Convention 1980 effective 1 May 2001. Substantive 13 January 2001 + 13 February 2001 earthquakes substantially affected demographic and family-law-implementation framework. Subsequent USD-currency adoption 1 January 2001 substantively affecting cross-border-jurisdiction-practice."
     },
     {
       "year": 2009,
-      "title": "LEPINA — Comprehensive Protection of Children and Adolescents",
-      "description": "Federal LEPINA Law codifying superior-interest principle aligned with UNCRC obligations."
+      "title": "LEPINA — Comprehensive Protection of Children and Adolescents + UNCRC-aligned framework",
+      "description": "Federal Law for the Comprehensive Protection of Children and Adolescents (LEPINA) Decree 839 of 26 March 2009 codifying superior-interest-of-the-child principle aligned with UNCRC obligations. Family Code art. 350 + LEPINA framework substantively significant child-protection-framework consolidation within Latin-American UNCRC-comprehensive-children's-protection-code wave."
+    },
+    {
+      "year": 2019,
+      "title": "Bukele presidency + Bitcoin-Law + mega-prison + state-of-exception framework",
+      "description": "Nayib Bukele elected President 3 February 2019 (Nuevas Ideas). Subsequent Bitcoin-Law 2021 + Centro de Confinamiento del Terrorismo (CECOT) mega-prison + state-of-exception 27 March 2022 (continuing) substantively reshaping political-institutional framework. Substantively distinctive Central-American populist-authoritarian framework affecting family-law-cross-cutting-areas including detained-parent custody contexts."
+    },
+    {
+      "year": 2022,
+      "title": "State of exception March 2022 + CONNA institutional framework + detained-parent custody contexts",
+      "description": "El Salvador state-of-exception declared 27 March 2022 substantively distinctive Central-American mass-detention framework with 70,000+ detentions through 2022-2024. Substantively significant for detained-parent custody contexts. CONNA (Consejo Nacional de la Niñez y la Adolescencia) institutional position addressing PA-related issues within LEPINA Law + Family Code 1993 framework. Substantively significant Central American institutional context affecting subsequent family-law adjudication."
+    },
+    {
+      "year": 2024,
+      "title": "Corte Suprema de Justicia + Sala de lo Constitucional — superior-interest-of-the-child substantive register + Bukele re-election",
+      "description": "Corte Suprema de Justicia and Sala de lo Constitucional continue to develop superior-interest-of-the-child jurisprudence under Family Code 1993 arts. 206-247 + LEPINA Law art. 12 + Hague Convention 1980 framework in custody disputes within state-of-exception context. Nayib Bukele re-elected 4 February 2024 in contested constitutional-amendment process. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -95,8 +135,9 @@
     }
   ],
   "editorial_notes": [
-    "El Salvador jurisdiction sidecar — civil-law Central America (Family Code 1993 + LEPINA 2009 + Hague Convention 1980 accession 2001).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Latin American + civil-law + Central American + Hague Convention clusters within the corpus."
+    "El Salvador jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full independence-to-Bukele trajectory: 1821-El-Salvador-independence-+-Central-American-Federation + 1932-La-Matanza-+-Farabundo-Martí + 1980-Salvadoran-Civil-War + 1990-UNCRC-ratification + 1992-Chapultepec-Peace-Accords + 1993-Family-Code-Decree-677 + 2001-Hague-Convention-1980-accession-+-USD-adoption + 2009-LEPINA-Decree-839 + 2019-Bukele-presidency-+-Bitcoin-Law-+-CECOT-+-state-of-exception + 2024-Corte-Suprema-+-Sala-de-lo-Constitucional-superior-interest-+-Bukele-re-election.",
+    "Civil-law Central America (Family Code 1993 + LEPINA 2009 + Hague Convention 1980 accession 2001).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code 1993 + LEPINA 2009 + Hague Convention 1980 framework within state-of-exception context without doctrinal 'parental alienation' label.",
+    "Joins Latin-American + civil-law + Central-American + La-Matanza-1932-distinctive-indigenous-massacre + Salvadoran-Civil-War-1979-1992-75000-killed + Chapultepec-Peace-Accords-1992 + USD-currency-adoption-2001-only-El-Salvador-Latin-America-+-Bitcoin-Law-2021 + CECOT-mega-prison + state-of-exception-2022-continuing-distinctive + Bukele-populist-authoritarian-framework + Hague-Convention-1980-accession-2001 clusters within the corpus."
   ]
 }

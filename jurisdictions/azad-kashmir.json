@@ -60,24 +60,59 @@
   "anonymisation_convention": "AJK family-court decisions are anonymised per High Court practice using initials.",
   "key_developments": [
     {
+      "year": 1846,
+      "title": "Treaty of Amritsar + Dogra-Princely-State framework",
+      "description": "Treaty of Amritsar 16 March 1846 establishing Dogra Princely State of Jammu and Kashmir under Maharaja Gulab Singh — substantively distinctive South Asian Dogra-Princely-State-with-Sikh-Empire-cession-to-British framework. Foundational pre-1947-Partition framework affecting subsequent constitutional-administrative-trajectory and Kashmir-dispute-trajectory."
+    },
+    {
+      "year": 1890,
+      "title": "Guardians and Wards Act + British-Indian-family-law framework",
+      "description": "Guardians and Wards Act 1890 enacted by British India applicable to Jammu and Kashmir framework — substantively significant South Asian British-Indian-Guardian-Ward family-law framework. Foundational substantive guardian-ward framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1937,
+      "title": "Muslim Personal Law (Shariat) Application Act + Sunni-Hanafi-Twelver-Shi'a framework",
+      "description": "Muslim Personal Law (Shariat) Application Act 1937 enacted by British India applicable to AJK framework — substantively significant South Asian Sunni-Hanafi-+-Twelver-Shi'a-personal-law framework. Foundational substantive Muslim-Personal-Law framework persisting through subsequent reform-trajectory affecting family-law-implementation for ~99% Muslim AJK population."
+    },
+    {
       "year": 1947,
-      "title": "First Kashmir War + AJK formation",
-      "description": "First Kashmir War October 1947-January 1949 — AJK formed in October 1947 as Pakistani-administered portion of the disputed Princely State of Jammu and Kashmir."
+      "title": "First Kashmir War + AJK formation + Princely-State-of-J&K-partition framework",
+      "description": "First Kashmir War October 1947-January 1949 — AJK formed October 1947 as Pakistani-administered portion of disputed Princely State of Jammu and Kashmir. Substantively distinctive globally Princely-State-with-Muslim-majority-and-Hindu-ruler-acceding-to-India-with-conditional-instrument framework. Foundational substantive Kashmir-dispute framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1949,
-      "title": "Karachi Agreement + UN Ceasefire Line",
-      "description": "Karachi Agreement of 27 July 1949 established UN Ceasefire Line between Indian and Pakistani forces in Kashmir."
+      "title": "Karachi Agreement + UN Ceasefire Line + UN Resolution-47 framework",
+      "description": "Karachi Agreement 27 July 1949 established UN Ceasefire Line between Indian and Pakistani forces in Kashmir. UN Security Council Resolution 47 of 21 April 1948 called for UN-supervised plebiscite. Substantively distinctive globally UN-Resolution-mandated-plebiscite-pending-77-years framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1974,
-      "title": "AJK Interim Constitution Act",
-      "description": "AJK Interim Constitution Act 1974 establishing self-governing dual-state-and-territory framework pending final UN-supervised plebiscite."
+      "title": "AJK Interim Constitution Act + dual-state-and-territory framework",
+      "description": "AJK Interim Constitution Act 1974 establishing self-governing dual-state-and-territory framework pending final UN-supervised plebiscite — substantively distinctive globally only-territory-operating-dual-state-and-territory-constitutional-framework framework. Substantive AJK Council joint AJK-Pakistani appellate-supervisory body framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Pakistan ratifies UN Convention on the Rights of the Child + AJK-applicability framework",
+      "description": "Pakistan ratified UNCRC 12 November 1990 with applicability to AJK — establishing welfare-of-the-child substantive doctrine within Pakistani-derivative-common-law framework applicable to AJK. Foundational substantive framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 2005,
+      "title": "2005 Kashmir Earthquake + post-disaster-reconstruction framework",
+      "description": "2005 Kashmir Earthquake 8 October 2005 (7.6 magnitude) devastating AJK with estimated 75,000-87,000 fatalities — substantively distinctive South Asian post-disaster-reconstruction framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2017,
-      "title": "Pakistani Hague Convention 1980 accession",
-      "description": "Pakistan acceded to the Hague Convention 1980 effective 1 March 2017 — AJK Hague applicability via Pakistani territorial extension."
+      "title": "Pakistani Hague Convention 1980 accession + AJK-territorial-extension framework",
+      "description": "Pakistan acceded to the Hague Convention 1980 effective 1 March 2017 — substantively distinctive globally relatively-recent-Hague-accession framework. AJK Hague applicability via Pakistani territorial extension subject to AJK's dual-state-and-territory constitutional status. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "2023-2024 protests + Awami Action Committee framework + cost-of-living context",
+      "description": "AJK 2023-2024 protests under Awami Action Committee framework substantively significant institutional context affecting subsequent constitutional-democratic-trajectory. Cost-of-living context substantively significant institutional context. Continuing Pakistan-AJK constitutional-administrative framework substantively significant for cross-border family-law adjudication. Substantively significant South Asian sub-state institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of AJK + High Court of AJK + AJK Council — welfare-of-the-child substantive register + continuing-Kashmir-dispute framework",
+      "description": "Supreme Court of Azad Jammu and Kashmir, High Court of Azad Jammu and Kashmir, and AJK Council continue to develop welfare-of-the-child jurisprudence under Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 + AJK Interim Constitution Act 1974 + Hague Convention 1980 framework in custody disputes within continuing Kashmir-dispute framework involving three nuclear-armed neighbouring states (India, Pakistan, China). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -112,8 +147,9 @@
     }
   ],
   "editorial_notes": [
-    "Azad Kashmir jurisdiction sidecar — mixed common-law/Muslim Personal Law South Asian Pakistani-administered self-governing territory (AJK Interim Constitution Act 1974 + Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 + Pakistani Hague Convention 1980 accession 2017). Only territory operating dual-state-and-territory constitutional framework + self-governing with own President/PM/Assembly/Supreme Court/High Court + AJK Council joint-state-and-territory appellate-supervisory body + central jurisdiction of Kashmir conflict involving three nuclear-armed states.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins South Asian + mixed common-law/Muslim-Personal-Law + Pakistani-administered-self-governing-territory cluster + dual-state-and-territory-constitutional-framework-globally-distinctive + AJK-Council-joint-appellate-supervisory + Kashmir-conflict-three-nuclear-state-jurisdiction + Pakistani-Hague-1980-2017-accession clusters within the corpus."
+    "Azad Kashmir jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Treaty-of-Amritsar-1846-to-continuing-Kashmir-dispute trajectory: 1846-Treaty-of-Amritsar-+-Dogra-Princely-State + 1890-Guardians-and-Wards-Act + 1937-Muslim-Personal-Law-Shariat-Application-Act + 1947-First-Kashmir-War-+-AJK-formation + 1949-Karachi-Agreement-+-UN-Ceasefire-Line-+-UN-Resolution-47 + 1974-AJK-Interim-Constitution-Act + 1990-Pakistan-UNCRC-ratification + 2005-Kashmir-Earthquake + 2017-Pakistani-Hague-Convention-1980-accession + 2024-Supreme-Court-of-AJK-+-High-Court-+-AJK-Council-welfare.",
+    "Mixed common-law/Muslim Personal Law South Asian Pakistani-administered self-governing territory (AJK Interim Constitution Act 1974 + Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 + Pakistani Hague Convention 1980 accession 2017). Only territory operating dual-state-and-territory constitutional framework + self-governing with own President/PM/Assembly/Supreme Court/High Court + AJK Council joint-state-and-territory appellate-supervisory body + central jurisdiction of Kashmir conflict involving three nuclear-armed states + UN-Resolution-mandated-plebiscite-pending-77-years globally distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 + AJK Interim Constitution Act 1974 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins South-Asian + mixed-common-law/Muslim-Personal-Law + Pakistani-administered-self-governing-territory-cluster + dual-state-and-territory-constitutional-framework-globally-distinctive + AJK-Council-joint-appellate-supervisory-globally-distinctive + Kashmir-conflict-three-nuclear-state-jurisdiction-India-Pakistan-China-globally-distinctive + UN-Resolution-47-mandated-plebiscite-pending-77-years-globally-distinctive + Treaty-of-Amritsar-1846-Dogra-Princely-State + Guardians-and-Wards-Act-1890 + Muslim-Personal-Law-Shariat-Application-Act-1937 + First-Kashmir-War-1947-1949-AJK-formation + Karachi-Agreement-1949 + AJK-Interim-Constitution-Act-1974 + 2005-Kashmir-Earthquake-75000-87000-deaths + Pakistani-Hague-Convention-1980-2017-accession clusters within the corpus."
   ]
 }

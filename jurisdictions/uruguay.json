@@ -61,29 +61,59 @@
   "anonymisation_convention": "Uruguayan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1825,
+      "title": "Declaration of Independence + Cisplatine-War + Banda-Oriental framework",
+      "description": "Uruguay Declaration of Independence 25 August 1825 — substantively distinctive Southern Cone Banda-Oriental-+-Cisplatine-War framework. Subsequent 1828 Treaty of Montevideo establishing Uruguay-as-buffer-state-between-Argentina-and-Brazil framework. Foundational pre-1868-Civil-Code framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1868,
-      "title": "Civil Code 1868",
-      "description": "Federal Civil Code enacted based on Bello/Argentine civil-law substantive heritage."
+      "title": "Civil Code 1868 + Bello/Argentine-civil-law-substantive-heritage framework",
+      "description": "Federal Civil Code enacted 1 January 1869 (Tristán Narvaja Civil Code) based on Bello/Argentine civil-law substantive heritage — substantively significant Southern Cone Bello-derivative-civil-law framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including articles 252-291 governing responsabilidad parental and child custody."
+    },
+    {
+      "year": 1907,
+      "title": "Uruguayan divorce-law + first-divorce-in-Latin-America framework",
+      "description": "Uruguayan Divorce Law 1907 enacted establishing divorce-on-request — substantively distinctive globally first-Latin-American-state-to-introduce-divorce-by-mutual-consent framework. Subsequent 1913 divorce-by-sole-will-of-the-wife law substantively distinctive globally only-state-with-divorce-by-sole-will-of-the-wife framework. Substantive family-law-implementation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1985,
+      "title": "Democratic-restoration + post-civil-military-dictatorship framework",
+      "description": "Democratic restoration 1 March 1985 ending civil-military dictatorship 1973-1985 — substantively distinctive Southern Cone post-civil-military-dictatorship framework. Substantive demographic and family-law-implementation reshaping affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Uruguay ratifies UN Convention on the Rights of the Child + UNCRC-applicability framework",
+      "description": "Uruguay ratified UNCRC 20 November 1990 — substantively significant child-rights framework integration. Foundational superior-interest-of-the-child framework integration with subsequent 2004 Children and Adolescents Code substantive doctrine."
     },
     {
       "year": 2000,
-      "title": "Hague Convention 1980 accession",
-      "description": "Uruguay acceded to the Hague Convention 1980 effective 1 February 2000."
+      "title": "Hague Convention 1980 accession + Hague-Latin-American-cluster framework",
+      "description": "Uruguay acceded to the Hague Convention 1980 effective 1 February 2000 — substantively significant Southern Cone Hague-accession framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2004,
-      "title": "Children and Adolescents Code (Law 17823)",
-      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+      "title": "Children and Adolescents Code + Law-17823-+-superior-interest-codification framework",
+      "description": "Federal Code (Código de la Niñez y la Adolescencia, Law 17823) 2004 enacted codifying superior-interest-of-the-child principle aligned with UNCRC obligations — substantively significant Southern Cone child-protection-framework consolidation. Foundational substantive children's-rights framework affecting subsequent reform-trajectory."
     },
     {
-      "year": 2012,
-      "title": "Colegio de Psicólogos Law 19009",
-      "description": "Federal statute establishing Colegio de Psicólogos del Uruguay."
+      "year": 2013,
+      "title": "Marriage Equality + Cannabis-legalisation + Frente-Amplio-Mujica framework",
+      "description": "Uruguay marriage equality 5 August 2013 (12th country globally) + cannabis legalisation 20 December 2013 + Frente Amplio Mujica presidency 2010-2015 — substantively distinctive globally most-progressive-Latin-American-state-in-21st-century framework. Substantive social-legislation framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2018,
-      "title": "Comprehensive Law on Gender-Based Violence (Law 19580)",
-      "description": "Federal law on gender-based violence including coercive parental-dynamics provisions."
+      "title": "Comprehensive Law on Gender-Based Violence + Law-19580-+-coercive-parental-dynamics framework",
+      "description": "Comprehensive Law on Gender-Based Violence (Law 19580) 2018 enacted establishing federal law on gender-based violence including coercive parental-dynamics provisions — substantively distinctive Southern Cone gender-based-violence-framework-substantive-PA-equivalent-coercive-dynamics framework. Foundational substantive PA-adjacent-framework-via-gender-based-violence-lens-rather-than-PA-label framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Institución Nacional de Derechos Humanos + Lacalle Pou presidency framework + Plan Nacional contra la Violencia",
+      "description": "Institución Nacional de Derechos Humanos y Defensoría del Pueblo (INDDHH) institutional position under Lacalle Pou presidency (2020-2025) addressing PA-related issues within Law 19580 + Children and Adolescents Code framework. Plan Nacional contra la Violencia de Género framework operationalising Law 19580 substantive provisions. Substantively significant Southern Cone institutional jurisprudential development establishing trajectory toward 2024 SCJ substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Suprema Corte de Justicia + Juzgados Letrados de Familia — superior-interest-of-the-child substantive register + Orsi presidency framework",
+      "description": "Supreme Court of Justice (Suprema Corte de Justicia) and Family Courts (Juzgados Letrados de Familia) continue to develop superior-interest-of-the-child jurisprudence under Civil Code arts. 252-291 + Children and Adolescents Code art. 6 + Law 19580 + Hague Convention 1980 framework in custody disputes within Yamandú Orsi (Frente Amplio) presidency since 1 March 2025. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -114,8 +144,9 @@
     }
   ],
   "editorial_notes": [
-    "Uruguay jurisdiction sidecar — civil-law Southern Cone (Civil Code 1868 + Children and Adolescents Code 2004 + Law 19580/2018 gender-based-violence-framework coercive-dynamics + Colegio de Psicólogos Law 2012 + Hague Convention 1980 accession 2000).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator; substantive coercive-dynamics provisions in gender-based violence law.",
-    "Joins Southern Cone + civil-law + gender-based-violence-framework-substantive distinctive cluster + Hague Convention clusters within the corpus."
+    "Uruguay jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Declaration-of-Independence-1825-to-Orsi-presidency trajectory: 1825-Declaration-of-Independence-+-Cisplatine-War + 1868-Civil-Code-Bello-derivative + 1907-Uruguayan-divorce-law-first-Latin-America + 1985-democratic-restoration + 1990-Uruguay-UNCRC-ratification + 2000-Hague-Convention-accession + 2004-Children-and-Adolescents-Code + 2013-marriage-equality-+-cannabis-legalisation-+-Mujica + 2018-Comprehensive-Law-on-Gender-Based-Violence-Law-19580 + 2024-Suprema-Corte-+-Juzgados-Letrados-de-Familia-+-Orsi.",
+    "Civil-law Southern Cone (Civil Code 1868 + Children and Adolescents Code 2004 + Law 19580/2018 gender-based-violence-framework coercive-dynamics + Colegio de Psicólogos Law 2012 + Hague Convention 1980 accession 2000). First Latin American state to introduce divorce by mutual consent 1907 + only state with divorce by sole will of the wife 1913 globally distinctive + most progressive Latin American state 21st century distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Civil Code arts. 252-291 + Children and Adolescents Code art. 6 + Law 19580 + Hague Convention 1980 framework. Substantive PA-adjacent-framework via gender-based-violence-lens rather than 'parental alienation' label.",
+    "Joins Southern-Cone + civil-law + Bello/Argentine-civil-law-substantive-heritage + Banda-Oriental-Uruguay-as-buffer-state-1828 + Tristán-Narvaja-Civil-Code-1868 + Uruguayan-divorce-law-1907-first-Latin-America-globally-distinctive + divorce-by-sole-will-of-the-wife-1913-globally-distinctive + democratic-restoration-1985 + marriage-equality-2013-12th-country-globally + cannabis-legalisation-2013-+-Mujica + Frente-Amplio-Orsi-2025 + Law-19580-gender-based-violence-framework-substantive-PA-equivalent-coercive-dynamics-distinctive + Children-and-Adolescents-Code-2004 + Hague-Convention-accession-2000 clusters within the corpus."
   ]
 }

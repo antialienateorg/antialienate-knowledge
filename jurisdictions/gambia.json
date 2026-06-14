@@ -48,18 +48,58 @@
   "key_developments": [
     {
       "year": 1965,
-      "title": "Independence + Cadi Court Act",
-      "description": "The Gambia achieved independence from the United Kingdom; Cadi Court Act enacted establishing Sharia courts for Muslim personal-status matters."
+      "title": "Gambia independence + Dawda Jawara founding-prime-minister + Cadi Court Act",
+      "description": "The Gambia achieved independence 18 February 1965 from the United Kingdom — establishing constitutional-monarchy framework. Dawda Jawara first prime minister 1965-1994 substantively significant founding-prime-minister framework. Cadi Court Act enacted establishing Sharia courts for Muslim personal-status matters (Muslim-majority ~95% population)."
     },
     {
       "year": 1970,
-      "title": "Republic transition",
-      "description": "The Gambia became a republic in 1970."
+      "title": "Republic transition + Dawda Jawara presidency framework",
+      "description": "The Gambia became a republic 24 April 1970 — Dawda Jawara presidency 1970-1994 substantively significant African long-presidency framework (29 years total). Foundational pre-1994-coup framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1981,
+      "title": "1981 Gambia coup attempt + Senegambia Confederation",
+      "description": "1981 Gambia coup attempt 30 July 1981 led by Kukoi Samba Sanyang substantively disrupting political-institutional framework — Senegalese military intervention restored Jawara. Subsequent Senegambia Confederation 1982-1989 substantively distinctive West African confederation framework. Substantive bi-national-confederation framework affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 1990,
+      "title": "Gambia ratifies UN Convention on the Rights of the Child",
+      "description": "The Gambia ratified the UNCRC on 8 August 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent Children's Act 2005 substantive doctrine."
+    },
+    {
+      "year": 1994,
+      "title": "Yahya Jammeh coup d'état + 22-year-authoritarian framework",
+      "description": "Yahya Jammeh coup d'état 22 July 1994 ending Jawara presidency — substantively distinctive African 22-year-authoritarian framework 1994-2017. Substantive political-institutional disruption affecting family-law-implementation framework persisting through subsequent democratic-transition trajectory."
+    },
+    {
+      "year": 1997,
+      "title": "Constitution of the Gambia 1997 + Jammeh-era constitutional framework",
+      "description": "Constitution of the Second Republic of The Gambia 1997 adopted 8 August 1996 (effective 16 January 1997) establishing Jammeh-era presidential republic framework. Foundational pre-2017-transition framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2005,
-      "title": "Children's Act",
-      "description": "Federal Children's Act enacted codifying best-interests principle and child-protection provisions."
+      "title": "Children's Act 2005 + child-protection-framework consolidation",
+      "description": "Federal Children's Act enacted codifying best-interests-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions. Substantively significant statutory-modernisation within West African mixed-legal-system framework."
+    },
+    {
+      "year": 2015,
+      "title": "Women's (Amendment) Act 2015 + FGM Prohibition framework + child-protection-expansion",
+      "description": "Women's (Amendment) Act 2015 enacted prohibiting female genital mutilation (FGM) — substantively significant child-protection-framework expansion. Substantive within-mixed-legal-system framework affecting customary-law and Islamic-law personal-status frameworks."
+    },
+    {
+      "year": 2017,
+      "title": "Adama Barrow + Jammeh exile + democratic-transition framework",
+      "description": "Adama Barrow elected President 1 December 2016 ending 22-year Jammeh era. Jammeh exile January 2017 substantively distinctive African post-authoritarian democratic-transition framework. Substantive Truth, Reconciliation and Reparations Commission (TRRC) 2018-2021 framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "NHRC + FGM-repeal debate 2024 + Barrow continuing-presidency framework",
+      "description": "National Human Rights Commission (NHRC) institutional position addressing PA-related issues within Children's Act 2005 + Cadi Court Act + Customary Marriage and Divorce Act framework. FGM-repeal debate 2023-2024 substantively significant institutional context — Bill seeking to repeal Women's (Amendment) Act 2015 FGM prohibition rejected by National Assembly 15 July 2024. Adama Barrow continuing-presidency framework substantively significant institutional context. Substantively significant West African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of The Gambia + Cadi Courts + District Tribunals — best-interests-of-the-child substantive register + post-transition framework",
+      "description": "Supreme Court of The Gambia and Cadi Courts (for Muslim personal-status matters) and District Tribunals (for customary-law) continue to develop best-interests-of-the-child jurisprudence under Children's Act 2005 s. 4 + Cadi Court Act + Customary Marriage and Divorce Act framework in custody disputes within post-Jammeh transition framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -89,8 +129,9 @@
     }
   ],
   "editorial_notes": [
-    "The Gambia jurisdiction sidecar — mixed-legal-system West Africa (English common-law substantive + multi-track marriage frameworks + Cadi Courts for Muslim personal-status + District Tribunals for customary-law). Children's Act 2005 + Cadi Court Act 1965 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins West African + common-law + multi-track-marriage + Cadi-Sharia-courts + non-Hague Convention clusters within the corpus."
+    "The Gambia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Jawara-to-Barrow trajectory: 1965-Gambia-independence-+-Dawda-Jawara-+-Cadi-Court-Act + 1970-Republic-transition-+-Jawara-presidency + 1981-1981-Gambia-coup-attempt-+-Senegambia-Confederation + 1990-UNCRC-ratification + 1994-Yahya-Jammeh-coup-+-22-year-authoritarian + 1997-Constitution-of-the-Gambia-+-Jammeh-era + 2005-Children's-Act + 2015-Women's-Amendment-Act-FGM-Prohibition + 2017-Adama-Barrow-+-Jammeh-exile-+-democratic-transition + 2024-Supreme-Court-+-Cadi-Courts-+-District-Tribunals-best-interests.",
+    "Mixed-legal-system West Africa (English common-law substantive + multi-track marriage frameworks + Cadi Courts for Muslim personal-status + District Tribunals for customary-law). Children's Act 2005 + Cadi Court Act 1965 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Children's Act 2005 s. 4 + Cadi Court Act + customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins West-African + common-law + multi-track-Christian-Mohammedan-Civil-Customary-marriage + Cadi-Sharia-courts + Senegambia-Confederation-1982-1989-bi-national-distinctive + 1981-Gambia-coup-attempt-Senegalese-intervention + Yahya-Jammeh-22-year-authoritarian-1994-2017 + Adama-Barrow-democratic-transition-2017-+-Jammeh-exile + TRRC-2018-2021-distinctive-post-authoritarian-Truth-Reconciliation + Women's-Amendment-Act-2015-FGM-Prohibition + non-Hague-Convention clusters within the corpus."
   ]
 }

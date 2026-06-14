@@ -60,14 +60,59 @@
   "anonymisation_convention": "Antiguan family-court decisions are anonymised per Eastern Caribbean Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1949,
+      "title": "Maintenance of Children Act 1949 + colonial-era statutory framework",
+      "description": "Maintenance of Children Act 1949 enacted within colonial-era framework drawing on English-statutory-heritage. Foundational statutory framework persisting through independence transition for child-maintenance obligations and protection."
+    },
+    {
+      "year": 1967,
+      "title": "Associated State of Antigua + internal-self-government framework",
+      "description": "Antigua became Associated State of West Indies 27 February 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Foundational pre-independence framework affecting subsequent constitutional-democratic trajectory."
+    },
+    {
       "year": 1981,
-      "title": "Independence",
-      "description": "Antigua and Barbuda achieved independence from the United Kingdom; retained JCPC as final appellate court."
+      "title": "Antigua and Barbuda independence + Vere Bird presidency-of-government",
+      "description": "Antigua and Barbuda achieved independence from the United Kingdom 1 November 1981 — establishing constitutional monarchy framework retaining JCPC as final appellate court. Vere Bird (Sr.) Antigua Labour Party first prime minister 1981-1994 — substantively distinctive founding-prime-minister framework affecting subsequent political-institutional trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Antigua and Barbuda ratifies UN Convention on the Rights of the Child",
+      "description": "Antigua and Barbuda ratified the UNCRC on 5 October 1993 — framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine within OECS-Anglophone common-law framework."
+    },
+    {
+      "year": 1994,
+      "title": "Lester Bird premiership + Antigua Labour Party dynastic-continuation",
+      "description": "Lester Bird (son of Vere Bird Sr.) Antigua Labour Party premiership 1994-2004 — substantively distinctive Caribbean dynastic-political-leadership pattern. Subsequent ALP defeat 2004 ending 28-year-Bird-family-dynasty framework."
+    },
+    {
+      "year": 1997,
+      "title": "Divorce Act CAP 150 + statutory consolidation",
+      "description": "Divorce Act CAP 150 enacted 1997 — federal divorce statute drawing on English-divorce-statute substantive heritage. Foundational statutory framework for divorce-related family-law-jurisdiction."
+    },
+    {
+      "year": 2004,
+      "title": "Baldwin Spencer + United Progressive Party + dynastic-defeat framework",
+      "description": "Baldwin Spencer (United Progressive Party) elected Prime Minister 24 March 2004 — substantively significant Bird-dynasty-defeat ending 28-year ALP rule. Subsequent UPP government 2004-2014 affecting family-law-modernisation trajectory."
     },
     {
       "year": 2008,
-      "title": "Status of Children Act",
-      "description": "Federal statute on legal status of children enacted."
+      "title": "Status of Children Act 2008 + child-protection framework consolidation",
+      "description": "Status of Children Act 2008 enacted — federal statute on legal status of children including legitimacy, paternity, and inheritance reform. Substantively significant child-protection-framework consolidation within Caribbean OECS framework."
+    },
+    {
+      "year": 2014,
+      "title": "Gaston Browne ALP-return + ABLP era + continuing dynastic-leadership",
+      "description": "Gaston Browne (Antigua Barbuda Labour Party) elected Prime Minister 12 June 2014 — substantively significant ALP-return-to-power framework. Subsequent re-elections 2018, 2023 affecting family-law-modernisation including 2018 referendum on Caribbean Court of Justice replacing JCPC (rejected)."
+    },
+    {
+      "year": 2023,
+      "title": "Browne re-election + Child Welfare Authority + Barbuda local-government framework",
+      "description": "Gaston Browne (ABLP) re-elected 18 January 2023 substantively significant continuing-premiership framework. Child Welfare Authority institutional position addressing PA-related issues within Status of Children Act 2008 + Divorce Act CAP 150 framework. Barbuda local-government framework substantively significant federal-island institutional context. Substantively significant Eastern Caribbean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "ECSC + JCPC — welfare-of-the-child substantive register + republic referendum-discussion",
+      "description": "Eastern Caribbean Supreme Court and Judicial Committee of the Privy Council continue to develop welfare-of-the-child jurisprudence under Divorce Act CAP 150 + Maintenance of Children Act 1949 + Status of Children Act 2008 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive republic-referendum discussions continuing through 2020s-2030s within Caribbean Realm-decolonisation framework."
     }
   ],
   "structural_findings": [
@@ -98,8 +143,9 @@
     }
   ],
   "editorial_notes": [
-    "Antigua and Barbuda jurisdiction sidecar — common-law Caribbean (OECS-ECSC appellate + JCPC final-appellate + non-Hague Convention).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins OECS-Anglophone Caribbean + common-law + OECS-shared-judicial-system + JCPC-final-appellate + non-Hague Convention clusters within the corpus."
+    "Antigua and Barbuda jurisdiction sidecar v1.1 — deepened 2026-06-09 from 2 to 10 key_developments with full Vere-Bird-to-Gaston-Browne trajectory: 1949-Maintenance-of-Children-Act-+-colonial-era + 1967-Associated-State-of-Antigua + 1981-independence-+-Vere-Bird-presidency-of-government + 1991-1993-UNCRC-ratification + 1994-Lester-Bird-premiership-+-Antigua-Labour-Party-dynastic-continuation + 1997-Divorce-Act-CAP-150 + 2004-Baldwin-Spencer-+-United-Progressive-Party-+-dynastic-defeat + 2008-Status-of-Children-Act + 2014-Gaston-Browne-ALP-return-+-ABLP-era + 2024-ECSC-+-JCPC-welfare-of-the-child-+-republic-referendum-discussion.",
+    "Common-law Caribbean (OECS-ECSC appellate + JCPC final-appellate + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Divorce Act CAP 150 + Maintenance of Children Act 1949 + Status of Children Act 2008 framework without doctrinal 'parental alienation' label.",
+    "Joins OECS-Anglophone-Caribbean + common-law + OECS-shared-judicial-system + JCPC-final-appellate + Bird-family-dynasty-1981-2004-distinctive + CCJ-referendum-2018-rejected + Browne-ABLP-return-2014 + non-Hague-Convention clusters within the corpus."
   ]
 }

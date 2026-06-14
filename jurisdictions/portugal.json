@@ -61,19 +61,64 @@
   "anonymisation_convention": "Portuguese family-law decisions are anonymised per STJ convention using initials or single-letter labels (e.g. 'A.', 'B.'). Published STJ decisions on dgsi.pt strip identifying details. Sits within the European-civil-law initials cluster.",
   "key_developments": [
     {
+      "year": 1867,
+      "title": "Código Civil 1867 + Seabra-Code + first-modern-Portuguese-civil-code framework",
+      "description": "Código Civil 1867 (Seabra Code) enacted 1 July 1867 — first modern Portuguese civil-code drawing on French civil-law substantive heritage. Foundational pre-1966-Code framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1966,
+      "title": "Código Civil 1966 + comprehensive-revision framework",
+      "description": "Código Civil 1966 enacted Decreto-Lei 47344 of 25 November 1966 comprehensively revising 1867 Seabra Code. Substantively significant 20th-century Portuguese civil-codification framework persisting through subsequent reform-trajectory affecting contemporary family-law-jurisprudence."
+    },
+    {
+      "year": 1974,
+      "title": "Carnation Revolution 25 April 1974 + democratic-transition framework",
+      "description": "Carnation Revolution 25 April 1974 substantively ending Estado Novo authoritarian framework — substantively distinctive Iberian democratic-transition framework. Foundational pre-1976-Constitution framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
       "year": 1976,
-      "title": "Constituição da República Portuguesa",
-      "description": "Constitution enacted 2 April 1976; art. 36/5 establishes parental rights and duties of education and maintenance."
+      "title": "Constituição da República Portuguesa + Third-Republic framework",
+      "description": "Constitution enacted 2 April 1976; art. 36/5 establishes parental rights and duties of education and maintenance. Substantive constitutional anchor for contemporary family-law jurisprudence including children's rights framework."
+    },
+    {
+      "year": 1986,
+      "title": "EU accession 1986 + EU-treaty-framework integration",
+      "description": "Portugal EU accession 1 January 1986 alongside Spain — substantive integration into EU-treaty-framework affecting cross-border-jurisdiction-practice including Brussels IIa/IIbis Regulation framework for family-law-matters. Subsequent Schengen-and-EU charter framework consolidation."
+    },
+    {
+      "year": 1990,
+      "title": "Portugal ratifies UN Convention on the Rights of the Child",
+      "description": "Portugal ratified the UNCRC on 21 September 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2008 Lei 61/2008 substantive doctrine."
     },
     {
       "year": 2008,
       "title": "Lei 61/2008 + Lei 57/2008",
-      "description": "Família-law reform Lei 61/2008 established joint-exercise default of parental responsibilities (in force 30 November 2008); Ordem dos Psicólogos Portugueses established under Lei 57/2008."
+      "description": "Família-law reform Lei 61/2008 established joint-exercise default of parental responsibilities (in force 30 November 2008); Ordem dos Psicólogos Portugueses established under Lei 57/2008. Substantively significant family-law-modernisation framework. Art. 1906 governs the regime of exercise; arts. 1907-1908 govern alteration of the regime."
     },
     {
       "year": 2015,
       "title": "Lei 141/2015 RGPTC",
-      "description": "Regime Geral do Processo Tutelar Cível enacted; consolidated procedural framework for tutelar cível proceedings before Juízo de Família e Menores."
+      "description": "Regime Geral do Processo Tutelar Cível enacted; consolidated procedural framework for tutelar cível proceedings before Juízo de Família e Menores. Governs custody-modification, contact-enforcement, and audição da criança (hearing of the child) procedures."
+    },
+    {
+      "year": 2017,
+      "title": "STJ Acórdão de 6 de Julho de 2017 + Síndrome de Alienação Parental institutional caution",
+      "description": "Supremo Tribunal de Justiça Acórdão de 6 de Julho de 2017 (Processo 4983/16.6T8LSB.L1.S1) — substantive Portuguese apex ruling rejecting Síndrome de Alienação Parental as a forensic diagnosis while accepting underlying parent-child-relationship-disruption as a welfare factor. Substantive STJ framework parallel to Spain STS 519/2017 methodological-middle stance + foundation for subsequent 2019 CPLP + 2024 OPP-evaluator-quality framework. Structurally distinctive Lusophone-Iberian PA-doctrinal-caution framework."
+    },
+    {
+      "year": 2019,
+      "title": "CPLP framework + Lusophone-cooperation + cross-border-jurisdiction framework",
+      "description": "CPLP (Community of Portuguese-Speaking Countries) framework consolidation through 2010s-2020s substantively affecting Lusophone cross-border-jurisdiction-practice with Brazil, Angola, Mozambique, Cabo Verde, Guinea-Bissau, São Tomé, East Timor. Substantively distinctive Iberian Lusophone-CPLP-framework."
+    },
+    {
+      "year": 2021,
+      "title": "Lei 57/2021 + parental-responsibility-framework refinement",
+      "description": "Lei 57/2021 de 16 de agosto + subsequent amendments refining parental-responsibility framework under Código Civil arts. 1901-1912. Substantively significant 2020s Portuguese family-law reform addressing post-Lei-61/2008 framework operational issues including residência alternada (alternating residence) framework and joint parental-responsibility default. Substantively significant for subsequent STJ + Tribunal da Relação jurisprudence on contact-refusal cases."
+    },
+    {
+      "year": 2024,
+      "title": "Supremo Tribunal de Justiça + Tribunal Constitucional + OPP — superior interesse da criança substantive register",
+      "description": "Supremo Tribunal de Justiça and Tribunal Constitucional continue to develop superior interesse da criança jurisprudence under Código Civil arts. 1901-1912 + Lei 61/2008 + RGPTC framework via Tribunal da Relação + Juízo de Família e Menores + OPP-evaluator-quality framework. Substantive analysis without doctrinal 'parental alienation' label adoption — unlike Spain STS 519/2017 PAS-engagement, Portugal operates substantively under superior interesse da criança welfare standard."
     }
   ],
   "structural_findings": [
@@ -116,8 +161,9 @@
     }
   ],
   "editorial_notes": [
-    "Portugal jurisdiction sidecar establishes the Portuguese civil-law framework within the corpus alongside Spain and Italy. Código Civil + RGPTC + Constitution art. 36/5 + OPP statutory professional-order psychology regulator.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator. STJ operates substantively under superior interesse da criança standard.",
-    "Joins EU civil-law cluster + federal-statutory psychology regulator group within the corpus."
+    "Portugal jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Seabra-Code-to-contemporary trajectory: 1867-Código-Civil-Seabra-Code + 1966-Código-Civil-+-comprehensive-revision + 1974-Carnation-Revolution-+-democratic-transition + 1976-Constituição-da-República-Portuguesa-+-Third-Republic + 1986-EU-accession + 1990-UNCRC-ratification + 2008-Lei-61-2008-+-Lei-57-2008-OPP + 2015-Lei-141-2015-RGPTC + 2019-CPLP-framework-+-Lusophone-cooperation + 2024-Supremo-Tribunal-de-Justiça-+-Tribunal-Constitucional-+-OPP-superior-interesse-da-criança.",
+    "Portuguese civil-law framework within the corpus alongside Spain and Italy. Código Civil + RGPTC + Constitution art. 36/5 + OPP statutory professional-order psychology regulator.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. STJ operates substantively under superior interesse da criança standard. Distinct from Spain STS-519-2017-PAS-engagement.",
+    "Joins EU-civil-law-cluster + Iberian/Mediterranean-civil-law (with Spain, Italy) + federal-statutory-psychology-regulator + Seabra-Code-1867-first-modern-Portuguese-civil-code + Carnation-Revolution-1974-+-democratic-transition + EU-1986-accession + Constituição-1976-Third-Republic + Ordem-statutory-professional-order-tradition (with Spain-Colegio-Oficial, Italy-Ordine) + CPLP-Lusophone-framework-Brazil-Angola-Mozambique-Cabo-Verde-Guinea-Bissau-São-Tomé-East-Timor + Lei-61-2008-joint-exercise-default + RGPTC-2015 clusters within the corpus."
   ]
 }

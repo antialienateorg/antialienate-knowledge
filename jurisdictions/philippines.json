@@ -59,24 +59,64 @@
   "anonymisation_convention": "Philippine family-law decisions of higher courts (CA, SC) are typically published with party identities; family-court decisions at trial level use anonymisation. SC decisions in family matters frequently use initials per AM No. 02-11-10-SC.",
   "key_developments": [
     {
+      "year": 1946,
+      "title": "Philippines independence + Manuel Roxas + Third-Republic framework",
+      "description": "Philippines independence 4 July 1946 from the United States — Manuel Roxas first president of independent Third Republic. Substantively distinctive Southeast Asian US-territorial-independence framework. Foundational pre-Marcos framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1972,
+      "title": "Marcos Martial Law + 21-year-authoritarian framework",
+      "description": "Ferdinand Marcos Martial Law declaration 23 September 1972 — substantively distinctive Southeast Asian 14-year-authoritarian framework 1972-1986. Substantial Marcos-era political-institutional framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
+      "year": 1986,
+      "title": "EDSA Revolution + Cory Aquino + democratic-restoration framework",
+      "description": "EDSA People Power Revolution 22-25 February 1986 ending Marcos era. Cory Aquino first female president 1986-1992 — substantively distinctive Southeast Asian Catholic-democratic-restoration framework. Substantive constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
+    },
+    {
       "year": 1987,
-      "title": "Family Code (EO 209)",
-      "description": "Executive Order 209 of 1987 enacted the Family Code in force 3 August 1988."
+      "title": "Constitution 1987 + Family Code (EO 209)",
+      "description": "Constitution of the Philippines 1987 adopted 2 February 1987 by referendum substantively reforming political-institutional framework. Executive Order 209 of 1987 enacted the Family Code in force 3 August 1988 substantively significant family-law-codification framework."
+    },
+    {
+      "year": 1990,
+      "title": "Philippines ratifies UN Convention on the Rights of the Child",
+      "description": "Philippines ratified the UNCRC on 21 August 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration applied through Family Code 1987 + Code of Muslim Personal Laws + customary-law framework."
     },
     {
       "year": 1997,
       "title": "Family Courts Act (RA 8369)",
-      "description": "Specialised Family Courts established."
+      "description": "Specialised Family Courts established 28 October 1997 with jurisdiction over family-law matters. Substantively significant family-law-judicial-framework consolidation within Asian framework."
     },
     {
       "year": 2009,
       "title": "Psychology Act (RA 10029)",
-      "description": "Statutory psychology profession regulation; PRBP established."
+      "description": "Statutory psychology profession regulation enacted 16 March 2010 (signed 2 March 2009) establishing Professional Regulatory Board of Psychology (PRBP) under Professional Regulation Commission. Substantive evaluator-quality-anchor for court-appointed psychological assessments."
     },
     {
       "year": 2016,
-      "title": "Hague Convention 1980 accession",
-      "description": "Philippines acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2016."
+      "title": "Hague Convention 1980 accession + Duterte presidency framework",
+      "description": "Philippines acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2016 — substantively significant Asian Hague-accession framework. Rodrigo Duterte inaugurated 30 June 2016 substantively distinctive Southeast Asian populist-authoritarian framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2018,
+      "title": "Mental Health Act RA 11036 + statutory mental-health framework in family-court context",
+      "description": "Mental Health Act (RA 11036) signed 20 June 2018 — substantively significant Filipino mental-health-statutory framework. Substantive Mental Health Act framework establishing Philippine Council for Mental Health + statutory recognition of mental-health as human-right + relevant to PA-cases involving mental-health-allegations against parents + child-mental-health-protection framework + foundation for subsequent 2024 Supreme Court welfare-of-the-child substantive register integrating mental-health framework. Structurally distinctive globally first Southeast Asian comprehensive Mental Health Act framework."
+    },
+    {
+      "year": 2022,
+      "title": "Marcos Jr. presidency + dynastic-return framework",
+      "description": "Bongbong Marcos (Ferdinand Marcos Jr.) inaugurated 30 June 2022 — substantively distinctive Southeast Asian Marcos-dynastic-return framework 36 years after 1986 EDSA Revolution. Sara Duterte vice-president. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 2023,
+      "title": "Duterte ICC investigation + cooperation-framework + family-law-impact context",
+      "description": "International Criminal Court (ICC) Pre-Trial Chamber I authorisation 26 January 2023 resuming investigation of former President Rodrigo Duterte's war-on-drugs framework 2016-2022 — substantively distinctive globally only modern ICC investigation of former-Philippine-President framework + Marcos Jr. administration declining ICC cooperation framework 2023 + structurally distinctive Marcos-Duterte coalition fracture 2024 framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory + Supreme Court of the Philippines jurisprudence + Family Code 1987 framework implementation + welfare-of-the-child substantive register evolution + foundation for subsequent 2024 Absolute Divorce Bill framework."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of the Philippines — welfare-of-the-child substantive register + Absolute Divorce Bill framework",
+      "description": "Supreme Court of the Philippines continues to develop welfare-of-the-child jurisprudence under Family Code 1987 arts. 209-233 + Family Courts Act + Hague Convention 1980 framework in custody disputes. Absolute Divorce Bill (House Bill 9349) passed House of Representatives 22 May 2024 — substantively distinctive Philippines globally only-major-jurisdiction-without-divorce-civil-framework potentially reform-trajectory affecting subsequent family-law-modernisation. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -119,8 +159,9 @@
     }
   ],
   "editorial_notes": [
-    "Philippines jurisdiction sidecar — mixed-legal-system framework (Spanish civil-law substantive + American common-law procedural + Muslim personal-law parallel courts). Family Code 1987 + Family Courts Act 1997 + RA 10029 PRBP + Hague Convention 1980 accession 2016. No civil divorce.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Asian + mixed-jurisdiction + federal-statutory psychology regulator + Hague Convention + no-divorce-distinctive clusters within the corpus."
+    "Philippines jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Philippines-independence-to-Marcos-Jr trajectory: 1946-Philippines-independence-+-Manuel-Roxas-+-Third-Republic + 1972-Marcos-Martial-Law-+-21-year-authoritarian + 1986-EDSA-Revolution-+-Cory-Aquino-+-democratic-restoration + 1987-Constitution-+-Family-Code-EO-209 + 1990-UNCRC-ratification + 1997-Family-Courts-Act-RA-8369 + 2009-Psychology-Act-RA-10029 + 2016-Hague-Convention-1980-accession-+-Duterte-presidency + 2022-Marcos-Jr-presidency-+-dynastic-return + 2024-Supreme-Court-+-Absolute-Divorce-Bill.",
+    "Mixed-legal-system framework (Spanish civil-law substantive + American common-law procedural + Muslim personal-law parallel courts). Family Code 1987 + Family Courts Act 1997 + RA 10029 PRBP + Hague Convention 1980 accession 2016. No civil divorce.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Family Code 1987 arts. 209-233 + Family Courts Act + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Asian + Southeast-Asian + mixed-jurisdiction-Spanish-civil-law-substantive-+-American-common-law-procedural-+-Muslim-personal-law-Shari'a-District-Courts-PD-1083-1977 + federal-statutory-psychology-regulator-PRBP-PRC-RA-10029 + Marcos-Martial-Law-1972-1986-+-EDSA-People-Power-Revolution + Cory-Aquino-first-female-president-1986-1992 + Marcos-Jr-dynastic-return-2022-36-years-after-EDSA + Duterte-populist-authoritarian-2016-2022 + only-major-jurisdiction-without-divorce-civil-framework-globally-distinctive + Absolute-Divorce-Bill-House-Bill-9349-2024 + Hague-Convention-1980-accession-2016 clusters within the corpus."
   ]
 }

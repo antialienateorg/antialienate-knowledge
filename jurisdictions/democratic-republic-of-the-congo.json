@@ -53,19 +53,59 @@
   "anonymisation_convention": "DRC family-court decisions are anonymised per Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Congo independence + Lumumba + Katanga-crisis framework",
+      "description": "Congo independence 30 June 1960 from Belgium — Patrice Lumumba first prime minister. Subsequent Katanga secession crisis 1960-1963 substantively distinctive Central African post-colonial crisis framework. Lumumba assassination 17 January 1961 substantively affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1965,
+      "title": "Mobutu coup + Zaire + 32-year-authoritarian framework",
+      "description": "Mobutu Sese Seko coup d'état 24 November 1965 — substantively distinctive African 32-year-authoritarian framework 1965-1997. Zaire renamed 1971. Substantively distinctive Central African Cold-War-era-personalist-authoritarianism framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1987,
       "title": "Family Code 1987 (Law 87-010)",
-      "description": "Federal Family Code enacted drawing on Belgian civil-law substantive heritage with codification of customary-law marriage provisions."
+      "description": "Federal Family Code enacted 1 August 1987 drawing on Belgian civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 317-340 govern parental authority and child custody. Substantively significant family-law-codification framework persisting through subsequent regime-changes."
+    },
+    {
+      "year": 1990,
+      "title": "DRC ratifies UN Convention on the Rights of the Child",
+      "description": "DRC (then Zaire) ratified the UNCRC on 27 September 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2009 Law on Child Protection substantive doctrine."
+    },
+    {
+      "year": 1996,
+      "title": "First Congo War 1996-1997 + Laurent-Désiré Kabila + Mobutu-fall framework",
+      "description": "First Congo War 24 October 1996 – 16 May 1997 ending Mobutu era. Laurent-Désiré Kabila assumed presidency 17 May 1997 — Zaire renamed Democratic Republic of the Congo. Substantive 21st-century African armed-conflict framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1998,
+      "title": "Second Congo War 1998-2003 + Africa's-World-War + most-devastating-conflict framework",
+      "description": "Second Congo War 2 August 1998 – 18 July 2003 — substantively distinctive globally 'Africa's World War' framework involving 9 African countries + 25 armed groups. Estimated 5.4 million killed (largest conflict-death toll since WWII). Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2006,
+      "title": "Constitution of DRC 2006 + post-war democratic-transition framework",
+      "description": "Constitution of Democratic Republic of the Congo 2006 adopted 18 February 2006 by referendum substantively reforming political-institutional framework establishing post-war democratic-transition framework. Substantive constitutional anchor for contemporary family-law jurisprudence."
     },
     {
       "year": 2009,
-      "title": "Law on Child Protection (Law 09/001)",
-      "description": "Federal Law on Child Protection enacted aligned with UNCRC obligations."
+      "title": "Law on Child Protection (Law 09/001) + Kivu-armed-conflict context",
+      "description": "Federal Law on Child Protection enacted Law 09/001 aligned with UNCRC obligations. Substantive ongoing Kivu armed-conflict framework substantially affecting child-protection-implementation. Substantive child-protection-framework consolidation within Belgian-derivative Central African framework."
     },
     {
       "year": 2016,
-      "title": "Family Code amendments (Law 16/008)",
-      "description": "Substantive amendments to Family Code provisions."
+      "title": "Family Code amendments (Law 16/008) + child-marriage-and-monogamy-reform framework",
+      "description": "Substantive amendments to Family Code provisions Law 16/008 of 15 July 2016 — substantive child-marriage-prohibition (age 18 minimum) + monogamy-default + gender-equality codification. Substantively significant Belgian-derivative Central African family-law-modernisation framework."
+    },
+    {
+      "year": 2023,
+      "title": "Tshisekedi re-election + M23 conflict continuation + CNDH framework + UN-MONUSCO withdrawal",
+      "description": "Félix Tshisekedi re-elected 20 December 2023 substantively significant continuing-presidency framework. M23 armed-conflict continuation in eastern DRC 2023 substantively affecting demographic and family-law adjudication including IDP-family cases. Commission Nationale des Droits de l'Homme (CNDH) institutional position addressing PA-related issues within Family Code + Law 16/008 framework. UN MONUSCO withdrawal trajectory 2023-2025 substantively significant institutional context. Substantively significant Central African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour de Cassation + Cour Constitutionnelle — interest-of-the-child substantive register + Tshisekedi + M23 context",
+      "description": "Cour de Cassation and Cour Constitutionnelle continue to develop interest-of-the-child jurisprudence under Family Code 1987 + Law 16/008 + Law on Child Protection 2009 framework in custody disputes within Félix Tshisekedi presidency framework (since 2019). Ongoing M23 armed-conflict in eastern DRC substantively affecting family-law-implementation. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -95,8 +135,9 @@
     }
   ],
   "editorial_notes": [
-    "DRC jurisdiction sidecar — civil-law Central African Francophone (Belgian-derivative + Family Code 1987 + 2016 amendments + Law on Child Protection 2009 + non-Hague Convention).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central African + Francophone + civil-law + Belgian-derivative + non-Hague Convention clusters within the corpus."
+    "DRC jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Lumumba-to-Tshisekedi trajectory: 1960-Congo-independence-+-Lumumba-+-Katanga-crisis + 1965-Mobutu-coup-+-Zaire-+-32-year-authoritarian + 1987-Family-Code-Law-87-010 + 1990-UNCRC-ratification + 1996-First-Congo-War-+-Laurent-Désiré-Kabila + 1998-Second-Congo-War-+-Africa's-World-War + 2006-Constitution-of-DRC-+-post-war-democratic-transition + 2009-Law-on-Child-Protection-Law-09-001 + 2016-Family-Code-amendments-Law-16-008-+-child-marriage-and-monogamy-reform + 2024-Cour-de-Cassation-+-Cour-Constitutionnelle-+-Tshisekedi-+-M23.",
+    "Civil-law Central African Francophone (Belgian-derivative + Family Code 1987 + 2016 amendments + Law on Child Protection 2009 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Family Code 1987 + Law 16/008 + Law on Child Protection 2009 framework without doctrinal 'parental alienation' label.",
+    "Joins Central-African + Francophone + civil-law + Belgian-derivative (with Rwanda, Burundi) + Lumumba-Patrice-1960-1961 + Mobutu-Sese-Seko-32-year-authoritarian-Zaire-1965-1997 + First-Congo-War-1996-1997 + Second-Congo-War-1998-2003-Africa's-World-War-9-countries-25-armed-groups-5.4-million-killed-largest-conflict-death-toll-since-WWII-distinctive-globally + M23-armed-conflict-eastern-DRC-context + Tshisekedi-presidency + non-Hague-Convention clusters within the corpus."
   ]
 }

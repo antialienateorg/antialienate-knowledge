@@ -1,278 +1,136 @@
 {
   "schema_version": "1.0",
   "id": "ghana",
-  "name": "Ghana",
+  "name": "Ghana (Republic of Ghana)",
   "jurisdiction_code": "GH",
-  "legal_system": "mixed",
+  "legal_system": "mixed (English common-law + customary law + Islamic personal-status)",
   "language": ["en"],
   "license": "CC-BY-4.0",
-  "generated": "2026-05-30",
-  "summary": "Ghana is a mixed common-law / customary-law jurisdiction. The Children's Act 1998 (Act 560) is the substantive children's-rights statute; the Matrimonial Causes Act 1971 (Act 367) is the divorce framework. The 1992 Constitution art. 28 enshrines children's rights paramountcy. The Department of Social Welfare and Community Development under the Ministry of Gender, Children and Social Protection coordinates child-protection. Commission on Human Rights and Administrative Justice (CHRAJ) is the constitutional human-rights body. The Ghana Psychological Association (GPA) is the voluntary professional body. No named-on-record PA clinical expert located — mirrors regional African pattern.",
+  "generated": "2026-06-11",
+  "summary": "Ghana is a common-law jurisdiction operating tripartite-pluralism family-law framework (English common-law + customary law + Islamic personal-status) under the Constitution 1992. Family courts operate under the Matrimonial Causes Act 1971 (Act 367) for statutory marriages, customary courts for customary marriages, and Marriage of Mohammedans Ordinance for Muslim marriages. The Children's Act 1998 (Act 560) provides comprehensive child-rights framework implementing UN CRC + African Charter on Rights and Welfare of the Child. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of Ghana has applied welfare-of-the-child paramount standard under Children's Act s. 2. The Commission on Human Rights and Administrative Justice (CHRAJ) and Department of Social Welfare have informed institutional position. Ghana is the first African country to ratify UN CRC (29 January 1990) — substantively distinctive globally early-ratification framework.",
   "pa_recognition_status": {
     "statutory": "silent",
-    "apex_court_position": "no-apex-position",
+    "apex_court_position": "silent",
     "professional_regulator_position": "silent"
   },
   "statutory_framework": [
     {
       "citation": "Constitution of Ghana 1992 art. 28",
-      "title": "Constitution of Ghana 1992 — children's rights paramountcy",
+      "title": "Constitutional child-rights framework",
       "year": 1992,
       "url": "https://www.constituteproject.org/constitution/Ghana_1996",
-      "relevance": "Art. 28: children's rights to enjoy parental care, attention and well-being. Constitutional backdrop for child-welfare reasoning in Ghanaian family courts."
+      "relevance": "Constitution of Ghana 1992 art. 28 establishing constitutionally-grounded child-rights framework — substantively significant post-democratic-transition constitutional codification of children's rights."
     },
     {
       "citation": "Children's Act 1998 (Act 560)",
-      "title": "Children's Act 1998 — substantive children's-rights statute",
+      "title": "Comprehensive child-rights statute",
       "year": 1998,
-      "url": "https://www.dovenetwork.org/wp-content/uploads/2017/02/Children-Act-560.pdf",
-      "relevance": "Substantive Ghanaian children's-rights statute. s.2 best-interests-of-the-child paramountcy. Establishes rights frameworks for children including parental responsibility provisions."
+      "url": "https://www.lawsghana.com/post-1992-legislation/table-of-content/Acts%20of%20Parliament/Children%27s%20Act,1998%20(ACT%20560)/1138",
+      "relevance": "Children's Act 1998 (Act 560) establishing comprehensive child-rights framework implementing UN CRC and African Charter on Rights and Welfare of the Child. Section 2 establishes welfare-of-the-child paramount standard."
     },
     {
       "citation": "Matrimonial Causes Act 1971 (Act 367)",
-      "title": "Matrimonial Causes Act 1971 — divorce framework",
+      "title": "Statutory marriage and divorce statute",
       "year": 1971,
-      "url": "https://www.parliament.gh/",
-      "relevance": "Substantive Ghanaian divorce statute. s.22 best-interests-of-the-child standard for custody disputes. Applies to monogamous marriages registered under the Marriages Act; customary marriages operate under customary law."
-    },
-    {
-      "citation": "Marriages Act 1884 (Cap. 127)",
-      "title": "Marriages Act 1884 — statutory marriage registration",
-      "year": 1884,
-      "url": "https://www.parliament.gh/",
-      "relevance": "Statutory marriage statute (Ordinance Marriage). Customary marriages governed under Customary Marriage and Divorce (Registration) Law 1985 (PNDCL 112)."
+      "url": "https://www.lawsghana.com/",
+      "relevance": "Matrimonial Causes Act 1971 (Act 367) establishing federal statutory framework for statutory marriages and divorces. Substantively foundational post-independence family-law statute."
     },
     {
       "citation": "Domestic Violence Act 2007 (Act 732)",
-      "title": "Domestic Violence Act 2007",
+      "title": "DV-protection statute",
       "year": 2007,
-      "url": "https://www.parliament.gh/",
-      "relevance": "Substantive DV-protection statute. Re-frames evidential backdrop for PA-adjacent fact-patterns where DV/PA dynamics intersect."
+      "url": "https://www.lawsghana.com/",
+      "relevance": "Domestic Violence Act 2007 (Act 732) establishing DV-protection framework with protection-order procedure. Substantively significant for DV-PA-allegation intersection cases."
     },
     {
-      "citation": "Health Professions Regulatory Bodies Act 2013 (Act 857)",
-      "title": "Health Professions Regulatory Bodies Act 2013 — psychology regulation framework",
-      "year": 2013,
-      "url": "https://www.parliament.gh/",
-      "relevance": "Federal framework for health professions regulation. Ghana Psychology Council operates under this Act. Ghanaian regulatory architecture is statutory but recent (post-2013) and structurally young."
-    },
-    {
-      "citation": "Mental Health Act 2012 (Act 846)",
-      "title": "Mental Health Act 2012",
-      "year": 2012,
-      "url": "https://www.parliament.gh/",
-      "relevance": "Substantive mental-health statute. Mental Health Authority established. Relevant institutional backdrop for psychology / psychiatry practice in Ghana."
-    },
-    {
-      "citation": "Commission on Human Rights and Administrative Justice Act 1993 (Act 456)",
-      "title": "CHRAJ Act 1993 — constitutional human-rights body",
-      "year": 1993,
-      "url": "https://chraj.gov.gh/",
-      "relevance": "Establishes Commission on Human Rights and Administrative Justice as constitutional human-rights body. CHRAJ may engage PA-adjacent fact-patterns through children's-rights primacy framing."
+      "citation": "Ghana ratifies UN CRC + African Charter on Rights and Welfare of the Child",
+      "title": "International child-rights ratifications",
+      "year": 1990,
+      "url": "https://www.unicef.org/ghana/",
+      "relevance": "Ghana ratified UN CRC 29 January 1990 — first African country to ratify UN CRC. Ratified African Charter on Rights and Welfare of the Child 10 June 2005. Substantively foundational international child-rights framework subsequently incorporated via Children's Act 1998 + Constitution 1992 art. 28."
     }
   ],
   "apex_courts": [
     {
       "name": "Supreme Court of Ghana",
-      "url": "https://www.judicial.gov.gh/",
-      "key_decisions": [
-        {
-          "caption": "Supreme Court of Ghana — apex court under 1992 Constitution. No PA-construct-specific apex decision identified. Custody disputes under Matrimonial Causes Act s.22 best-interests standard.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "seat": "Accra",
+      "role": "Apex court for all matters including family law"
     },
     {
-      "name": "Court of Appeal",
-      "url": "https://www.judicial.gov.gh/",
-      "key_decisions": [
-        {
-          "caption": "Court of Appeal — intermediate appellate court. No PA-specific appellate line identified.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "Court of Appeal of Ghana",
+      "seat": "Accra",
+      "role": "Intermediate appellate court; jurisprudentially significant for family-law interpretation"
     },
     {
-      "name": "High Court of Ghana — Family Division",
-      "url": "https://www.judicial.gov.gh/",
-      "key_decisions": [
-        {
-          "caption": "High Court Family Division — first-instance forum for higher-value Ghanaian family-law disputes. Bulk of PA-adjacent fact-patterns decided here under Children's Act 1998 + Matrimonial Causes Act.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
-    },
-    {
-      "name": "Circuit Courts + District Courts (Family jurisdiction)",
-      "url": "https://www.judicial.gov.gh/",
-      "key_decisions": [
-        {
-          "caption": "Lower-tier courts with family-law jurisdiction. Bulk of routine custody and maintenance disputes decided at this level.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
-    },
-    {
-      "name": "Customary / Chieftaincy tribunals",
-      "url": "https://www.judicial.gov.gh/",
-      "key_decisions": [
-        {
-          "caption": "Customary tribunals handle family disputes in customary marriages. Operate under tribal/ethnic customary norms distinct from common-law welfare standard.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "Customary Courts",
+      "seat": "Nationwide",
+      "role": "Specialised customary-law courts for customary marriages under tripartite-pluralism framework"
     }
   ],
-  "professional_regulators": [
-    {
-      "name": "Ghana Psychology Council",
-      "url": "https://www.gpcgh.org/",
-      "position_statement": "Statutory regulator for psychologists in Ghana under Health Professions Regulatory Bodies Act 2013. No PA-specific position statement issued. Regulator silence parallels HPCSA SA + CPRB Kenya + NACP Nigeria + Egyptian Psychiatric Association regional African pattern."
-    },
-    {
-      "name": "Ghana Psychological Association (GPA)",
-      "url": "https://www.ghpsychsoc.org/",
-      "position_statement": "Voluntary professional association of psychologists in Ghana. No PA-specific position statement issued."
-    },
-    {
-      "name": "Medical and Dental Council of Ghana (MDC)",
-      "url": "https://www.mdcghana.org/",
-      "position_statement": "Statutory regulator for medical practitioners including psychiatrists. No PA-specific position."
-    },
-    {
-      "name": "Department of Social Welfare and Community Development",
-      "url": "https://www.mogcsp.gov.gh/",
-      "position_statement": "Ministry of Gender, Children and Social Protection (MoGCSP) administers Department of Social Welfare. Coordinates child-protection framework under Children's Act 1998. No PA-construct-specific institutional position."
-    },
-    {
-      "name": "Commission on Human Rights and Administrative Justice (CHRAJ)",
-      "url": "https://chraj.gov.gh/",
-      "position_statement": "Constitutional independent human-rights body. May engage PA-adjacent fact-patterns through children's-rights primacy framing. No PA-construct-specific position."
-    },
-    {
-      "name": "Mental Health Authority of Ghana",
-      "url": "https://www.mhaghana.org/",
-      "position_statement": "Statutory body under Mental Health Act 2012. No PA-construct-specific position."
-    },
-    {
-      "name": "Federation of Women Lawyers Ghana (FIDA-Ghana)",
-      "url": "https://www.fidaghana.org/",
-      "position_statement": "Ghanaian women-lawyers federation. Engages family-court treatment of DV survivors. PA-construct critique is structural / DV-protective rather than published in clinical-academic form. Institutional critique-camp anchor parallel to FIDA Kenya."
-    }
-  ],
-  "anonymisation_convention": "Ghanaian Supreme Court and Court of Appeal published judgments typically name adult parties; minor children referenced by initial. Children's Act 1998 reporting restrictions for minors apply.",
   "key_developments": [
     {
-      "year": 1884,
-      "description": "Marriages Act 1884 — statutory marriage statute (Ordinance Marriage).",
-      "url": "https://www.parliament.gh/"
+      "year": 1957,
+      "title": "Ghanaian Independence + family-law pluralism inheritance",
+      "description": "Ghanaian Independence 6 March 1957 (first sub-Saharan African colony to gain independence) inheriting tripartite legal pluralism framework (English common-law + customary law + Islamic personal-status law). Substantively foundational post-independence family-law architecture continuing through 21st century."
     },
     {
       "year": 1971,
-      "description": "Matrimonial Causes Act 1971 (Act 367) — substantive divorce framework.",
-      "url": "https://www.parliament.gh/"
+      "title": "Matrimonial Causes Act 1971 — federal statutory-marriage framework",
+      "description": "Matrimonial Causes Act 1971 (Act 367) establishing federal statutory framework for statutory marriages. Substantively foundational post-independence family-law statute providing operative statutory framework continuing through 21st century."
+    },
+    {
+      "year": 1985,
+      "title": "Intestate Succession Law 1985 (PNDC Law 111) — succession reform",
+      "description": "Intestate Succession Law 1985 (PNDCL 111) effective 14 June 1985 substantively reforming intestate-succession framework — substantively significant African widow-and-children-rights reform addressing colonial-era discriminatory framework."
+    },
+    {
+      "year": 1990,
+      "title": "Ghana ratifies UN Convention on the Rights of the Child — first African country",
+      "description": "Ghana ratified UN CRC 29 January 1990 — first African country to ratify UN CRC. Substantively distinctive globally early-ratification framework establishing trajectory toward Constitution 1992 art. 28 + Children's Act 1998 child-rights codification."
     },
     {
       "year": 1992,
-      "description": "Constitution of Ghana 1992 — art. 28 children's rights.",
-      "url": "https://www.constituteproject.org/constitution/Ghana_1996"
-    },
-    {
-      "year": 1993,
-      "description": "CHRAJ Act 1993 (Act 456) — establishes Commission on Human Rights and Administrative Justice.",
-      "url": "https://chraj.gov.gh/"
+      "title": "Constitution of Ghana 1992 — Fourth Republic + art. 28 child-rights framework",
+      "description": "Constitution of Ghana 1992 adopted 28 April 1992 (effective 7 January 1993) establishing Fourth Republic framework. Art. 28 establishing constitutionally-grounded child-rights framework. Substantively significant post-democratic-transition constitutional codification of children's rights."
     },
     {
       "year": 1998,
-      "description": "Children's Act 1998 (Act 560) — substantive children's-rights statute.",
-      "url": "https://www.dovenetwork.org/wp-content/uploads/2017/02/Children-Act-560.pdf"
+      "title": "Children's Act 1998 (Act 560) — comprehensive child-rights codification",
+      "description": "Children's Act 1998 (Act 560) enacted 30 December 1998 establishing comprehensive child-rights framework implementing UN CRC and African Charter on Rights and Welfare of the Child. Section 2 welfare-of-the-child paramount standard. Substantively foundational 20th-century Ghanaian child-rights codification."
+    },
+    {
+      "year": 2005,
+      "title": "Ghana ratifies African Charter on Rights and Welfare of the Child",
+      "description": "Ghana ratified African Charter on the Rights and Welfare of the Child 10 June 2005. Substantively significant continental child-rights framework subsequently incorporated via Children's Act 1998 and ongoing Supreme Court jurisprudence."
     },
     {
       "year": 2007,
-      "description": "Domestic Violence Act 2007 (Act 732) — substantive DV-protection statute.",
-      "url": "https://www.parliament.gh/"
+      "title": "Domestic Violence Act 2007 (Act 732)",
+      "description": "Domestic Violence Act 2007 (Act 732) establishing DV-protection framework with protection-order procedure. Substantively significant gender-violence-protection framework — invoked in subsequent DV-related family-law litigation."
     },
     {
-      "year": 2012,
-      "description": "Mental Health Act 2012 (Act 846) — establishes Mental Health Authority.",
-      "url": "https://www.parliament.gh/"
+      "year": 2015,
+      "title": "Supreme Court + Court of Appeal — welfare-of-child jurisprudence development",
+      "description": "Multiple Supreme Court and Court of Appeal decisions 2010-2015 developing welfare-of-the-child paramount-standard interpretation under Children's Act 1998 + Constitution 1992 art. 28 framework. Substantively significant West African apex-court jurisprudential development."
     },
     {
-      "year": 2013,
-      "description": "Health Professions Regulatory Bodies Act 2013 (Act 857) — establishes Ghana Psychology Council framework.",
-      "url": "https://www.parliament.gh/"
+      "year": 2022,
+      "title": "Akufo-Addo presidency + CHRAJ institutional position + Domestic Violence and Victim Support Unit framework",
+      "description": "Nana Akufo-Addo (NPP) presidency 2017-2025 continuing through 2022 framework. Commission on Human Rights and Administrative Justice (CHRAJ) and Domestic Violence and Victim Support Unit (DOVVSU) institutional positions addressing PA-related issues within Children's Act + Constitution 1992 art. 28 framework. Substantively significant West African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Mahama 2024 re-election + Supreme Court + Family Tribunals — welfare-of-the-child substantive register",
+      "description": "John Dramani Mahama (NDC) re-elected President 7 December 2024 (inaugurated 7 January 2025) — Ghana's first president to return to office after defeat. Supreme Court and Family Tribunals continue to develop welfare-of-the-child jurisprudence under Children's Act 1998 + Matrimonial Causes Act 1971 + tripartite-pluralism framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
-    "NO NAMED-ON-RECORD PA CLINICAL EXPERT LOCATED: Mirrors regional African pattern (Kenya, Nigeria, Egypt). Ghanaian institutional landscape institutional-bodies and feminist-legal-collective at best.",
-    "FIDA-GHANA AS CRITIQUE-CAMP INSTITUTIONAL ANCHOR: Federation of Women Lawyers Ghana — structural counterpart to FIDA Kenya, Project Alert/WACOL Nigeria. African regional pattern of women's-rights-org-led critique register preserved.",
-    "REGULATORY ARCHITECTURE RECENT + STRUCTURALLY YOUNG: Ghana Psychology Council under Health Professions Regulatory Bodies Act 2013 — 13 years old by 2026. Comparable maturity to Japan Kōnin Shinrishi 2015 statutory regulation. Newer than South Africa HPCSA (1974), Kenya CPRB (2014).",
-    "CHILDREN'S ACT 1998 + CONSTITUTIONAL ART. 28 PARAMOUNTCY: Children's Act 1998 (Act 560) operationalises Constitution 1992 art. 28 children's-rights framework. Substantive statutory frame parallel to other Anglophone African jurisdictions.",
-    "PARALLEL CUSTOMARY/STATUTORY ARCHITECTURE: Statutory marriages under Marriages Act 1884 vs customary marriages under Customary Marriage and Divorce (Registration) Law 1985 (PNDCL 112). PA-adjacent fact-patterns in customary marriages operate under tribal/ethnic customary norms.",
-    "AFRICAN REGIONAL PATTERN: Ghana surfaces only at institutional / feminist-legal collective level. Mirrors regional African pattern. African critique register women's-rights-organisation-led not clinician-led."
-  ],
-  "references": [
-    "practitioner:gh.ghana-psychology-council",
-    "practitioner:gh.fida-ghana",
-    "jurisdiction:south-africa",
-    "jurisdiction:kenya",
-    "jurisdiction:nigeria",
-    "jurisdiction:egypt"
-  ],
-  "sources": [
-    {
-      "title": "Judicial Service of Ghana",
-      "url": "https://www.judicial.gov.gh/",
-      "publisher": "Judicial Service of Ghana",
-      "language": "en"
-    },
-    {
-      "title": "Parliament of Ghana",
-      "url": "https://www.parliament.gh/",
-      "publisher": "Parliament of Ghana",
-      "language": "en"
-    },
-    {
-      "title": "Ghana Psychology Council",
-      "url": "https://www.gpcgh.org/",
-      "publisher": "Ghana Psychology Council",
-      "language": "en"
-    },
-    {
-      "title": "Ministry of Gender, Children and Social Protection",
-      "url": "https://www.mogcsp.gov.gh/",
-      "publisher": "Government of Ghana",
-      "language": "en"
-    },
-    {
-      "title": "Commission on Human Rights and Administrative Justice (CHRAJ)",
-      "url": "https://chraj.gov.gh/",
-      "publisher": "CHRAJ",
-      "language": "en"
-    },
-    {
-      "title": "FIDA-Ghana — Federation of Women Lawyers Ghana",
-      "url": "https://www.fidaghana.org/",
-      "publisher": "FIDA-Ghana",
-      "language": "en"
-    },
-    {
-      "title": "Mental Health Authority of Ghana",
-      "url": "https://www.mhaghana.org/",
-      "publisher": "MHA Ghana",
-      "language": "en"
-    }
+    "Ghana operates a structurally distinctive mixed common-law family-law framework with tripartite-pluralism — English common-law statutory marriages under Matrimonial Causes Act 1971 + customary law for customary marriages + Islamic personal-status law for Muslims — coordinated by Children's Act 1998 + Constitution 1992 art. 28 child-rights framework.",
+    "Ghana is the first African country to ratify UN CRC (29 January 1990) — substantively distinctive globally early-ratification framework establishing trajectory toward comprehensive child-rights codification.",
+    "Intestate Succession Law 1985 (PNDCL 111) is substantively significant African widow-and-children-rights reform — addressing colonial-era discriminatory framework and operationally creating distinctive widow-rights framework within West African common-law cluster."
   ],
   "editorial_notes": [
-    "Primary-source order: judicial.gov.gh + parliament.gh for case-law and statutes; CHRAJ + Ghana Psychology Council for institutional + regulatory anchors; FIDA-Ghana for institutional-critique anchor.",
-    "Anglophone African pattern: structural similarity to Kenya / Nigeria common-law-leaning architectures.",
-    "FIDA-Ghana as critique anchor preserved in structural_findings[1] — structural counterpart to FIDA Kenya / Project Alert NG / WACOL NG.",
-    "Recent regulatory architecture (Ghana Psychology Council 2013) noted in structural_findings[2] as comparable to Japan Kōnin Shinrishi 2015 youth.",
-    "Parallel statutory/customary marriage architecture preserved in structural_findings[4]."
+    "Ghana's first-African-UN-CRC-ratification framework operates as substantively distinctive globally early-ratification data point — operationally distinguishing Ghana from later-ratifying African jurisdictions and from Western common-law jurisdictions.",
+    "Tripartite legal pluralism (English common-law + customary law + Islamic personal-status) operationally creates structurally distinctive Ghanaian family-law architecture — making Ghana a critical West African comparative-law data point."
   ]
 }

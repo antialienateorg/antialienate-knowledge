@@ -58,19 +58,59 @@
   "anonymisation_convention": "Zambian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1964,
+      "title": "Zambia independence + Kenneth Kaunda founding-presidency",
+      "description": "Zambia independence 24 October 1964 from the United Kingdom — establishing presidential republic framework. Kenneth Kaunda first president 1964-1991 substantively distinctive African 27-year-presidency framework. Foundational pre-multipartyism framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1972,
+      "title": "One-Party-State framework + UNIP-monopoly framework",
+      "description": "Zambia became One-Party-State 13 December 1972 under United National Independence Party (UNIP) — substantively distinctive African Cold-War-era One-Party-State framework. Substantive political-institutional framework persisting through 1991 democratic-transition."
+    },
+    {
+      "year": 1991,
+      "title": "Multi-party transition + Chiluba presidency + democratic-trajectory framework",
+      "description": "Multi-party democratic transition 1991 — Constitution of Zambia 1991 substantively reforming political-institutional framework. Frederick Chiluba (Movement for Multi-Party Democracy) elected President 31 October 1991 ending Kaunda 27-year presidency. Substantively distinctive African democratic-transition framework."
+    },
+    {
+      "year": 1991,
+      "title": "Zambia ratifies UN Convention on the Rights of the Child",
+      "description": "Zambia ratified the UNCRC on 6 December 1991 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2022 Children's Code Act substantive doctrine."
+    },
+    {
       "year": 2007,
       "title": "Matrimonial Causes Act",
-      "description": "Federal divorce and matrimonial-causes statute enacted replacing colonial-era Divorce Ordinance."
+      "description": "Federal divorce and matrimonial-causes statute enacted replacing colonial-era Divorce Ordinance. Substantively significant family-law-modernisation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2011,
+      "title": "Michael Sata + Patriotic-Front + Kingdom-of-Lozi framework",
+      "description": "Michael Sata (Patriotic Front) elected President 23 September 2011 — substantively significant African PF-MMD-alternation framework. Subsequent Lungu (PF) presidency 2015-2021. Substantive constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
     },
     {
       "year": 2016,
-      "title": "Constitutional Court established",
-      "description": "Constitutional Court established with original jurisdiction over constitutional review."
+      "title": "Constitutional Court established + Constitution 2016 amendments framework",
+      "description": "Constitutional Court of Zambia established 2016 under Constitution Amendment Act 2016 with original jurisdiction over constitutional review. Substantively significant Southern African specialised-Constitutional-Court framework. Foundational substantive-constitutional-judicial-framework."
+    },
+    {
+      "year": 2021,
+      "title": "Hakainde Hichilema victory + UPND-return + democratic-trajectory framework",
+      "description": "Hakainde Hichilema (United Party for National Development) elected President 12 August 2021 ending Lungu (PF) presidency — substantively distinctive African democratic-alternation framework (third-time-attempt-after-2006-2008-2011-2015-2016-failed-attempts). Substantive constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
     },
     {
       "year": 2022,
-      "title": "Children's Code Act",
-      "description": "Federal Children's Code Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection."
+      "title": "Children's Code Act 2022 (Act No. 12 of 2022)",
+      "description": "Federal Children's Code Act enacted Act No. 12 of 2022 codifying welfare-of-the-child principle (s. 5), parental responsibility, custody, and children's protection. Substantively significant child-protection-framework consolidation within Southern African common-law framework."
+    },
+    {
+      "year": 2023,
+      "title": "Children's Code Act 2022 implementation framework + HRC + Anti-Gender Violence Act framework continuation",
+      "description": "Children's Code Act 2022 implementation jurisprudence development 2022-2023 — multiple Supreme Court of Zambia and Constitutional Court decisions interpreting comprehensive welfare-of-the-child framework under s. 5 paramount standard. Human Rights Commission (HRC) institutional position addressing PA-related issues. Anti-Gender Violence Act 2011 framework continuation operationalised through 2022-2023 affecting DV-PA-allegation intersection cases. Substantively significant Southern African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Zambia + Constitutional Court + Local Courts — welfare-of-the-child substantive register + Hichilema presidency",
+      "description": "Supreme Court of Zambia, Constitutional Court, and Local Courts (customary-law) continue to develop welfare-of-the-child jurisprudence under Children's Code Act 2022 s. 5 + Matrimonial Causes Act 2007 + customary-law framework in custody disputes within Hichilema presidency framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -100,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Zambia jurisdiction sidecar — common-law Southern African framework. Children's Code Act 2022 + Matrimonial Causes Act 2007 + customary-law via Local Courts + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southern African + common-law + dual-track-statutory-customary + non-Hague Convention clusters within the corpus."
+    "Zambia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Kaunda-to-Hichilema trajectory: 1964-Zambia-independence-+-Kenneth-Kaunda + 1972-One-Party-State-+-UNIP-monopoly + 1991-Multi-party-transition-+-Chiluba + 1991-UNCRC-ratification + 2007-Matrimonial-Causes-Act + 2011-Michael-Sata-+-Patriotic-Front + 2016-Constitutional-Court-established-+-Constitution-amendments + 2021-Hakainde-Hichilema-+-UPND-return + 2022-Children's-Code-Act + 2024-Supreme-Court-+-Constitutional-Court-+-Local-Courts-welfare-+-Hichilema.",
+    "Common-law Southern African framework. Children's Code Act 2022 + Matrimonial Causes Act 2007 + customary-law via Local Courts + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children's Code Act 2022 s. 5 + Matrimonial Causes Act 2007 + customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Southern-African + common-law + dual-track-statutory-customary (with Kenya, Uganda, Tanzania) + Kaunda-27-year-founding-presidency-1964-1991 + One-Party-State-1972-1991 + Chiluba-MMD-1991-democratic-transition + Sata-Patriotic-Front-2011 + Constitutional-Court-2016-specialised-Southern-African-distinctive + Hichilema-UPND-2021-third-time-attempt-after-multiple-failed-attempts + Children's-Code-Act-2022 + non-Hague-Convention clusters within the corpus."
   ]
 }

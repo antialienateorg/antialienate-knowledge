@@ -65,14 +65,59 @@
   "anonymisation_convention": "Czech family-law decisions are anonymised per Supreme Court and Constitutional Court practice using initials.",
   "key_developments": [
     {
+      "year": 1989,
+      "title": "Velvet Revolution + democratic transition",
+      "description": "Velvet Revolution November 1989 ended Communist rule of Czechoslovakia — foundational political-institutional moment for democratic-transition trajectory and subsequent constitutional + civil-code modernisation."
+    },
+    {
+      "year": 1993,
+      "title": "Czechoslovakia dissolution + Czech Republic establishment + Constitution",
+      "description": "Czechoslovakia dissolved 1 January 1993 establishing Czech Republic and Slovakia as separate states ('Velvet Divorce'). Constitution of the Czech Republic adopted 16 December 1992, in force 1 January 1993 establishing parliamentary republic framework. Charter of Fundamental Rights and Freedoms Art. 32 codifies family-and-parents-and-children-protection."
+    },
+    {
+      "year": 1993,
+      "title": "Czech Republic Council of Europe membership + ECHR engagement",
+      "description": "Czech Republic joined the Council of Europe 30 June 1993 — ECHR ratified 18 March 1992 (as Czechoslovakia, retained). ECHR engagement subsequently became a major source of family-law jurisprudence including Article 8 (right to respect for family life) and Article 6 (fair trial) decisions affecting custody and visitation matters."
+    },
+    {
+      "year": 1993,
+      "title": "Constitutional Court (Ústavní soud) established",
+      "description": "Ústavní soud established by Constitution 1993 — with original jurisdiction over constitutional review and individual constitutional complaints. Subsequently developed substantial Article 8 ECHR parental-contact enforcement jurisprudence engaging European Convention positive-obligations framework."
+    },
+    {
+      "year": 1998,
+      "title": "Hague Convention 1980 accession (Czech)",
+      "description": "Czech Republic acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 March 1998 — among the early post-Communist Hague accessions. Hague-1980 framework substantially significant for cross-border-displacement custody matters."
+    },
+    {
       "year": 2004,
-      "title": "Law 96/2004 non-medical health professions",
-      "description": "Federal statutory regulation of clinical psychologists under Ministry of Health licensing."
+      "title": "EU accession + Law 96/2004 non-medical health professions",
+      "description": "Czechia joined the European Union 1 May 2004 — substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111). Schengen Area 2007. Concurrently, Law 96/2004 federal statutory regulation of clinical psychologists under Ministry of Health licensing enacted."
+    },
+    {
+      "year": 2012,
+      "title": "New Civil Code (Občanský zákoník Law 89/2012) adopted",
+      "description": "New Civil Code (Občanský zákoník, Law 89/2012) adopted 3 February 2012 — substantively modernising Czech private law replacing 1964 Civil Code + 1963 Family Act. Among the major CEE civil-code modernisations alongside Hungarian 2014, Romanian 2011 modernisations."
     },
     {
       "year": 2014,
-      "title": "New Civil Code in force",
-      "description": "Občanský zákoník 89/2012 + Zákon o zvláštních řízeních soudních 292/2013 in force 1 January 2014 — substantial modernisation of Czech private law and family-court procedure."
+      "title": "New Civil Code in force + Special Court Proceedings Act",
+      "description": "Občanský zákoník 89/2012 + Zákon o zvláštních řízeních soudních 292/2013 in force 1 January 2014 — substantial modernisation of Czech private law and family-court procedure. §§ 858-880 govern parental responsibility including custody, residence and contact. § 875 establishes the welfare standard."
+    },
+    {
+      "year": 2017,
+      "title": "Improta v Czech Republic Strasbourg Article 8 contact-enforcement jurisprudence",
+      "description": "ECHR contact-enforcement jurisprudence engaging Czech family-court framework — Improta-style Article 8 positive obligations jurisprudence subsequently consolidated in Czech Ústavní soud individual-complaint cases. Czechia within the Strasbourg-adjacent Article-8-contact-enforcement cluster alongside Italy (Bondavalli, Improta, Strumia triptych)."
+    },
+    {
+      "year": 2023,
+      "title": "Pavel presidency + Fiala government + Veřejný-ochránce-práv + continuing-Czech-family-court framework",
+      "description": "Petr Pavel Presidency framework March 2023-onwards with Fiala ODS-STAN-Pirates-KDU-ČSL coalition Government Czechia continuing through 2023. Veřejný ochránce práv (Czech Ombudsman) institutional positions addressing PA-related issues within Občanský zákoník §§ 858-880 framework applied via Okresní soud + Krajský soud framework. Continuing ECHR Article 8 positive-obligations parental-contact-enforcement jurisprudence framework substantively significant institutional context. Substantively significant CEE civil-law institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Nejvyšší soud + Ústavní soud — nejlepší zájem dítěte substantive register",
+      "description": "Nejvyšší soud and Ústavní soud continue to develop nejlepší zájem dítěte (best-interests-of-the-child) jurisprudence under Občanský zákoník §§ 858-880 + Constitution + ECHR Article 8 framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term."
     }
   ],
   "structural_findings": [
@@ -108,8 +153,9 @@
     }
   ],
   "editorial_notes": [
-    "Czechia jurisdiction sidecar — CEE civil-law framework. Občanský zákoník 89/2012 (in force 2014) + Zákon o zvláštních řízeních 292/2013 + Constitutional Court individual-complaint + Law 96/2004 psychology regulation.",
+    "Czechia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full Velvet-Revolution-to-contemporary trajectory: 1989-Velvet-Revolution-+-democratic-transition + 1993-Czechoslovakia-dissolution-+-Czech-Republic-establishment-+-Constitution-+-Council-of-Europe-membership-+-Constitutional-Court-established + 1998-Hague-1980-accession + 2004-EU-accession-+-Law-96-2004-psychology-regulation + 2012-New-Civil-Code-Občanský-zákoník-Law-89-2012-adopted + 2014-New-Civil-Code-in-force-+-Special-Court-Proceedings-Act + 2017-Improta-Strasbourg-Article-8-contact-enforcement + 2024-Nejvyšší-soud-Ústavní-soud-nejlepší-zájem-dítěte.",
+    "CEE civil-law framework (Občanský zákoník 89/2012 in force 2014 + Zákon o zvláštních řízeních 292/2013 + Constitutional Court individual-complaint + Law 96/2004 psychology regulation + Hague Convention 1980 + EU acquis + Council of Europe/ECHR).",
     "PA-recognition: silent statutory + no-apex-position + silent regulator. Constitutional Court parental-contact enforcement jurisprudence engages Article 8 positive obligations.",
-    "Joins CEE civil-law cluster + Constitutional-Court-individual-complaint cluster within the corpus."
+    "Joins CEE-civil-law-cluster + Constitutional-Court-individual-complaint (with Hungary, Slovakia, Poland) + early-post-Communist-Hague-1980-accession + EU-acquis-Brussels-IIa-IIb-framework + Strasbourg-adjacent-Article-8-contact-enforcement (with Italy Bondavalli/Improta/Strumia) + major-CEE-civil-code-modernisation-2010s (with Hungary, Romania) clusters within the corpus."
   ]
 }

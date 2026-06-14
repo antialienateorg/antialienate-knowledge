@@ -46,19 +46,59 @@
   "anonymisation_convention": "Ivorian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Côte d'Ivoire independence + Houphouët-Boigny founding-presidency",
+      "description": "Côte d'Ivoire independence 7 August 1960 from France — establishing presidential republic framework. Félix Houphouët-Boigny first president 1960-1993 substantively distinctive African extended-presidency 33-year framework. Foundational pre-1990s-multipartyism framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1964,
       "title": "Civil Code Book I (Law 64-375)",
-      "description": "Federal Civil Code Book I enacted post-independence drawing on French civil-law substantive heritage."
+      "description": "Federal Civil Code Book I enacted 7 October 1964 post-independence drawing on French civil-law substantive heritage. Foundational substantive-civil-law framework for contemporary family-law-jurisprudence persisting through 1983 and 2019 reform-trajectory."
     },
     {
       "year": 1983,
       "title": "Civil Code 1983 reform (Law 83-799)",
-      "description": "Substantial reform of family-law provisions."
+      "description": "Substantial reform of family-law provisions Law 83-799 of 2 August 1983 — substantive family-law-modernisation framework. Foundational pre-2019-reform framework affecting subsequent democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Côte d'Ivoire ratifies UN Convention on the Rights of the Child",
+      "description": "Côte d'Ivoire ratified the UNCRC on 4 February 1991 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2019 Civil Code reform substantive doctrine."
+    },
+    {
+      "year": 1993,
+      "title": "Houphouët-Boigny death + Bédié succession + Ivorian-democratic-trajectory framework",
+      "description": "Félix Houphouët-Boigny died 7 December 1993 — Henri Konan Bédié assumed presidency. Substantively distinctive African founding-presidency-succession framework. Subsequent Ivoirité ideology framework substantially affecting political-institutional-trajectory and ethnic-cohesion framework."
+    },
+    {
+      "year": 2002,
+      "title": "First Ivorian Civil War 2002-2007 + UNOCI peacekeeping framework",
+      "description": "First Ivorian Civil War 19 September 2002 – 4 March 2007 between government forces and Forces Nouvelles. United Nations Operation in Côte d'Ivoire (UNOCI) peacekeeping mission 2004-2017. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2010,
+      "title": "Second Ivorian Civil War 2010-2011 + Gbagbo-Ouattara succession + ICC framework",
+      "description": "Second Ivorian Civil War 28 November 2010 – 11 April 2011 between Laurent Gbagbo and Alassane Ouattara following disputed 2010 election. Laurent Gbagbo arrested and transferred to ICC The Hague. Substantive 21st-century African post-electoral conflict framework affecting subsequent democratic-trajectory."
+    },
+    {
+      "year": 2016,
+      "title": "Constitution 2016 + Third-Republic framework",
+      "description": "Constitution of Côte d'Ivoire 2016 adopted 30 October 2016 by referendum — substantively reforming political-institutional framework establishing Third Republic. Substantive constitutional anchor for contemporary family-law jurisprudence including reformed family-law framework."
     },
     {
       "year": 2019,
-      "title": "Civil Code 2019 reform (Law 2019-573)",
-      "description": "Major reform codifying gender-equal marriage, parental authority and divorce provisions."
+      "title": "Civil Code 2019 reform (Law 2019-573) + gender-equal-marriage framework",
+      "description": "Major reform Law 2019-573 of 26 June 2019 codifying gender-equal marriage, parental authority and divorce provisions. Substantively significant family-law-modernisation within Francophone West African framework. Most-comprehensive family-law-reform within post-civil-war framework."
+    },
+    {
+      "year": 2023,
+      "title": "ECOWAS Court of Justice + Conseil National des Droits de l'Homme institutional framework + AfCFTA implementation",
+      "description": "Côte d'Ivoire continuing ECOWAS Court of Justice framework participation 2023 substantively affecting cross-border family-law adjudication. Conseil National des Droits de l'Homme (CNDH) institutional position addressing PA-related issues within Law 2019-573 + Civil Code framework. African Continental Free Trade Area (AfCFTA) implementation 2021-onwards substantively significant for institutional context. Substantively significant Francophone West African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour suprême + Conseil constitutionnel — interest-of-the-child substantive register + Ouattara continuing-presidency",
+      "description": "Cour suprême and Conseil constitutionnel continue to develop interest-of-the-child jurisprudence under Civil Code Book I + Law 2019-573 framework in custody disputes within Alassane Ouattara presidency (since 2011 — over 13 years). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -94,8 +134,9 @@
     }
   ],
   "editorial_notes": [
-    "Côte d'Ivoire jurisdiction sidecar — civil-law Francophone West Africa (French civil-law substantive heritage, 1964 → 1983 → 2019 reform trajectory). Non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins West African + Francophone + civil-law + non-Hague Convention clusters within the corpus."
+    "Côte d'Ivoire jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Houphouët-Boigny-to-Ouattara trajectory: 1960-Côte-d'Ivoire-independence-+-Houphouët-Boigny + 1964-Civil-Code-Book-I-Law-64-375 + 1983-Civil-Code-reform-Law-83-799 + 1991-UNCRC-ratification + 1993-Houphouët-Boigny-death-+-Bédié-+-Ivoirité-ideology + 2002-First-Ivorian-Civil-War-+-UNOCI + 2010-Second-Ivorian-Civil-War-+-Gbagbo-Ouattara-+-ICC + 2016-Constitution-+-Third-Republic + 2019-Civil-Code-reform-Law-2019-573-+-gender-equal-marriage + 2024-Cour-suprême-+-Conseil-constitutionnel-+-Ouattara-continuing-presidency.",
+    "Civil-law Francophone West Africa (French civil-law substantive heritage, 1964 → 1983 → 2019 reform trajectory). Non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Code Book I + Law 2019-573 framework without doctrinal 'parental alienation' label.",
+    "Joins West-African + Francophone + civil-law + Houphouët-Boigny-founding-presidency-33-years-1960-1993 + Ivoirité-ideology-distinctive + First-Ivorian-Civil-War-2002-2007-+-UNOCI + Second-Ivorian-Civil-War-2010-2011-+-Gbagbo-ICC-distinctive + Civil-Code-reform-2019-573-gender-equal-marriage + Constitution-2016-Third-Republic + Ouattara-continuing-presidency-13-years + non-Hague-Convention clusters within the corpus."
   ]
 }

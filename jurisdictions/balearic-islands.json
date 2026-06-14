@@ -67,29 +67,59 @@
   "anonymisation_convention": "Balearic family-court decisions are anonymised per Balearic court practice using initials.",
   "key_developments": [
     {
+      "year": 123,
+      "title": "Roman conquest of Balearic Islands + Roman-tradition-succession-framework foundation",
+      "description": "Roman conquest of Balearic Islands 123 BCE by Quintus Caecilius Metellus Balearicus — substantively distinctive Mediterranean Roman-Empire-tradition-succession framework. Foundational pre-1229-Catalan-conquest framework affecting subsequent constitutional-administrative-trajectory and Roman-tradition succession framework (institución de heredero / hereus) preserved continuously through 21st century."
+    },
+    {
+      "year": 902,
+      "title": "Almohad caliphate + Islamic-Andalusian-framework",
+      "description": "Almohad caliphate established control of Balearic Islands 902 CE — substantively distinctive Mediterranean Islamic-Andalusian-Mallorcan framework. Subsequent independent Taifa of Mallorca 1076-1115 + Almoravid + Almohad + independent Taifa 1203-1229. Foundational pre-1229-Catalan-conquest framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1229,
-      "title": "Catalan conquest of Mallorca",
-      "description": "Jaume I conquest of Mallorca 31 December 1229 — beginning of Catalan tradition that became foundation of Balearic civil-law framework."
+      "title": "Catalan conquest of Mallorca + Jaume I-Crown-of-Aragon-territorial-heritage framework",
+      "description": "Jaume I conquest of Mallorca 31 December 1229 — substantively distinctive globally Crown-of-Aragon-1229-foundation framework. Foundational substantive 796+ year Catalan-+-Aragonese-tradition-Balearic-civil-law framework preserved continuously through 21st century affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1715,
-      "title": "Decretos de Nueva Planta",
-      "description": "Following 1715 War of the Spanish Succession, Decretos de Nueva Planta abolished Mallorcan political institutions but preserved Balearic civil-law tradition."
+      "title": "Decretos de Nueva Planta + civil-law-preserved-despite-political-abolition framework",
+      "description": "Decretos de Nueva Planta 28 November 1715 following War of the Spanish Succession — substantively distinctive globally Mallorcan-political-institutions-abolished-but-Balearic-civil-law-tradition-preserved framework. Foundational substantive Balearic-civil-law-preservation framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1833,
+      "title": "Spanish provincial reorganisation + Balearic-Province-of-Spain framework",
+      "description": "Spanish provincial reorganisation 30 November 1833 establishing Balearic Islands as Spanish province — substantively distinctive Mediterranean Spanish-provincial-administration framework. Foundational pre-1978-Spanish-Constitution-+-1983-Statute-of-Autonomy framework affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1961,
-      "title": "Compilación del Derecho Civil de las Islas Baleares",
-      "description": "Compilation of Civil Law of the Balearic Islands adopted 19 April 1961 — first modern formal codification of Balearic civil law."
+      "title": "Compilación del Derecho Civil de las Islas Baleares + first-modern-formal-codification framework",
+      "description": "Compilación del Derecho Civil de las Islas Baleares adopted 19 April 1961 — substantively significant Mediterranean first-modern-formal-codification framework. Foundational substantive Balearic-civil-law-codification framework persisting through subsequent 1990 Compilació replacement affecting family-law-implementation."
+    },
+    {
+      "year": 1978,
+      "title": "Spanish Constitution Article 149.1.8 + foral-civil-law-preservation framework",
+      "description": "Spanish Constitution 1978 Article 149.1.8 providing for foral civil law preservation — substantively significant constitutional foundation for Balearic civil-law jurisdiction. Foundational substantive constitutional anchor for contemporary family-law jurisprudence affecting subsequent 1983 Statute of Autonomy + 1990 Compilació + 2017 Llei 7/2017 modernisation reform-trajectory."
     },
     {
       "year": 1990,
-      "title": "Compilació del dret civil de les Illes Balears",
-      "description": "Balearic Compilation of foral civil law adopted 6 September 1990 — replaced 1961 Compilación."
+      "title": "Compilació del dret civil de les Illes Balears + tri-island-Foral-Civil-Law-tradition framework",
+      "description": "Balearic Compilation of foral civil law adopted 6 September 1990 replacing 1961 Compilación — substantively distinctive globally tri-island-Foral-Civil-Law-tradition-with-distinct-per-island-sub-regimes framework (Mallorca-Menorca regime under Mallorcan tradition + Ibiza-Formentera Pitiusan regime under distinct Pitiusan tradition). Foundational substantive Balearic-civil-law framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 2017,
-      "title": "Llei 7/2017 Compilació modernisation",
-      "description": "Llei 7/2017 of 3 August 2017 comprehensively modernising Compilació del dret civil de les Illes Balears."
+      "title": "Llei 7/2017 + Compilació-modernisation-+-Title-III-Family-Law-+-Title-IV-Pitiusan framework",
+      "description": "Llei 7/2017 of 3 August 2017 comprehensively modernising Compilació del dret civil de les Illes Balears — substantively significant Mediterranean tri-island-civil-code-modernisation framework. Title III governs Mallorca-Menorca family law; Title IV governs Pitiusan (Ibiza-Formentera) family law. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Marga Prohens PP-VOX Government + Parlament-de-les-Illes-Balears + Síndic-de-Greuges framework",
+      "description": "Marga Prohens (PP) Presidency framework 2023-onwards with PP-VOX coalition Government Balears following May 2023 elections (PP 25 escons + VOX 8 escons). Parlament de les Illes Balears + Síndic de Greuges (Balearic Ombudsperson) institutional positions addressing PA-related issues within Compilació 1990 Title III (Mallorca-Menorca) + Title IV (Pitiusan) framework. Tribunal Superior de Justícia de les Illes Balears continuing application of tri-island sub-regime framework affecting cross-border family-law adjudication. Substantively significant Mediterranean Balearic-foral-civil-law institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Superior de Justícia de les Illes Balears + Tribunal Constitucional — Balearic-foral-civil-law substantive register + continuing-tri-island-sub-regime framework",
+      "description": "Tribunal Superior de Justícia de les Illes Balears (TSJIB) and Tribunal Constitucional de España continue to develop Balearic-foral-civil-law jurisprudence under Compilació 1990 (Llei 7/2017 modernisation) Title III (Mallorca-Menorca) + Title IV (Pitiusan) + Spanish Constitution Article 149.1.8 + Hague Convention 1980 framework in custody and family-property disputes within continuing tri-island-sub-regime framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -126,8 +156,9 @@
     }
   ],
   "editorial_notes": [
-    "Balearic Islands jurisdiction sidecar — civil-law Mediterranean Spanish autonomous community with own Balearic foral civil-law jurisdiction across tri-island sub-regime framework (Compilació del dret civil de les Illes Balears 1990 + Llei 7/2017 modernisation + Statute of Autonomy 2007 + 1229 Crown of Aragon conquest foundation + Decretos de Nueva Planta 1715 civil-law preservation + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with tri-island Foral Civil Law tradition with distinct per-island sub-regimes globally + only EU subnational with Roman-tradition succession framework (institución de heredero/hereus) preserved continuously since 1229. Completes Iberian foral civil-law hex (Balearic Islands + Galicia + Aragon + Catalonia + Basque + Navarre).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Mediterranean + civil-law + EU-subnational-civil-law-with-own-code cluster + tri-island-Foral-Civil-Law-tradition-with-distinct-per-island-sub-regimes-globally-distinctive + Mallorca-Menorca-vs-Pitiusan-sub-regime + Roman-tradition-succession-institución-de-heredero + Crown-of-Aragon-1229-foundation + Iberian-foral-civil-law-hex clusters within the corpus."
+    "Balearic Islands jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Roman-conquest-123BCE-to-continuing-tri-island-sub-regime trajectory: 123BCE-Roman-conquest + 902-Almohad-caliphate + 1229-Catalan-conquest-+-Jaume-I + 1715-Decretos-de-Nueva-Planta + 1833-Spanish-provincial-reorganisation + 1961-Compilación + 1978-Spanish-Constitution-Article-149.1.8 + 1990-Compilació + 2017-Llei-7/2017-modernisation + 2024-TSJIB-+-Tribunal-Constitucional-+-tri-island-sub-regime.",
+    "Civil-law Mediterranean Spanish autonomous community with own Balearic foral civil-law jurisdiction across tri-island sub-regime framework (Compilació del dret civil de les Illes Balears 1990 + Llei 7/2017 modernisation + Statute of Autonomy 2007 + 1229 Crown of Aragon conquest foundation + Decretos de Nueva Planta 1715 civil-law preservation + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with tri-island Foral Civil Law tradition with distinct per-island sub-regimes globally + only EU subnational with Roman-tradition succession framework (institución de heredero/hereus) preserved continuously since 1229. Completes Iberian foral civil-law hex (Balearic Islands + Galicia + Aragon + Catalonia + Basque + Navarre).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive Balearic-foral-civil-law analysis under Compilació 1990 Title III (Mallorca-Menorca) + Title IV (Pitiusan) + Spanish Constitution Article 149.1.8 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Mediterranean + civil-law + EU-subnational-civil-law-with-own-code-cluster + tri-island-Foral-Civil-Law-tradition-with-distinct-per-island-sub-regimes-globally-distinctive + Mallorca-Menorca-vs-Pitiusan-sub-regime-globally-distinctive + Roman-tradition-succession-institución-de-heredero/hereus-preserved-continuously-since-1229-globally-distinctive + Roman-conquest-123BCE-Quintus-Caecilius-Metellus-Balearicus + Almohad-caliphate-902-+-Taifa-of-Mallorca + Catalan-conquest-1229-+-Jaume-I-Crown-of-Aragon-foundation + Decretos-de-Nueva-Planta-1715-civil-law-preserved-despite-political-abolition + Spanish-provincial-reorganisation-1833 + Compilación-1961-+-Compilació-1990-+-Llei-7/2017-modernisation + Spanish-Constitution-Article-149.1.8-foral-civil-law-preservation + Iberian-foral-civil-law-hex-Balearic-Islands-+-Galicia-+-Aragon-+-Catalonia-+-Basque-+-Navarre clusters within the corpus."
   ]
 }

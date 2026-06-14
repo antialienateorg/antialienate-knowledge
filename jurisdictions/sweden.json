@@ -59,29 +59,64 @@
   "anonymisation_convention": "Swedish family-law decisions are anonymised per Högsta domstolen and Hovrätt convention using initials. Published HD decisions on Domstolsverket (Courts of Sweden) portal and Notisum strip identifying details. Sits within the European-civil-law initials cluster.",
   "key_developments": [
     {
+      "year": 1734,
+      "title": "Sveriges Rikes Lag 1734 + civil-law-substantive-heritage framework",
+      "description": "Sveriges Rikes Lag 1734 (Swedish Code of 1734) — substantively distinctive Nordic Swedish-Civil-Code-substantive-heritage framework. Foundational pre-1949-Föräldrabalken framework affecting subsequent constitutional-administrative-trajectory and civil-law tradition."
+    },
+    {
+      "year": 1734,
+      "title": "Sveriges Rikes Lag + Code-of-1734 framework",
+      "description": "Sveriges Rikes Lag 1734 (Swedish Code of 1734) substantively significant Nordic comprehensive civil-code framework — substantively significant Nordic Swedish-Civil-Code-substantive-heritage framework. Foundational pre-1949-Föräldrabalken framework affecting subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
       "year": 1949,
-      "title": "Föräldrabalken enacted",
-      "description": "Children and Parents Code (FB) enacted 1949 — foundational federal civil-code framework for family law in Sweden."
+      "title": "Föräldrabalken enacted + family-law-foundational framework",
+      "description": "Children and Parents Code (Föräldrabalken FB) enacted 1949 — substantively significant Nordic foundational federal civil-code framework for family law in Sweden. Foundational substantive children-and-parents-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1990,
+      "title": "Sweden ratifies UN Convention on the Rights of the Child + early-Nordic-ratification framework",
+      "description": "Sweden ratified UNCRC 29 June 1990 — substantively distinctive Nordic early-UNCRC-ratification framework. Foundational barnets-bästa framework integration with subsequent 2006 vårdnadsreform substantive doctrine."
     },
     {
       "year": 1998,
-      "title": "1998 vårdnadsreform",
-      "description": "Custody reform strengthened the joint-custody-default and introduced the close-and-good-contact (god kontakt) standard."
+      "title": "1998 vårdnadsreform + joint-custody-default-+-god-kontakt framework",
+      "description": "1998 Custody reform strengthened the joint-custody-default and introduced the close-and-good-contact (god kontakt) standard — substantively distinctive globally strongest-joint-custody-default-regime-in-Europe framework. Foundational substantive joint-custody framework persisting through subsequent 2006-vårdnadsreform-balancing reform-trajectory."
     },
     {
       "year": 2006,
-      "title": "2006 vårdnadsreform",
-      "description": "Custody reform strengthened the barnets bästa best-interests standard and introduced explicit consideration of risk of harm to the child as a counterweight to the contact-promotion provisions."
+      "title": "2006 vårdnadsreform + barnets-bästa-balancing-against-god-kontakt framework",
+      "description": "2006 Custody reform strengthened the barnets bästa best-interests standard and introduced explicit consideration of risk of harm to the child as a counterweight to the contact-promotion provisions — substantively significant Nordic risk-of-harm-balancing-against-contact-promotion framework following critique that earlier framing produced contact-promotion in DV-overlap cases. Structurally similar to Australian 2023 Amendment Act re-balancing."
     },
     {
       "year": 2010,
-      "title": "Patientsäkerhetslagen 2010:659 in force",
-      "description": "Patient Safety Act consolidated health-and-social-care professional regulation; statutorily protected title 'legitimerad psykolog' requiring Socialstyrelsen licence."
+      "title": "Patientsäkerhetslagen 2010:659 + Socialstyrelsen-statutory-title-protection framework",
+      "description": "Patientsäkerhetslagen 2010:659 (Patient Safety Act) consolidated health-and-social-care professional regulation effective 1 January 2011 — substantively distinctive Nordic federal-statutory-psychology-regulator framework with statutorily protected title 'legitimerad psykolog' requiring Socialstyrelsen licence. Substantive evaluator-quality anchor for court-appointed psychological assessments."
+    },
+    {
+      "year": 2020,
+      "title": "FN:s barnkonvention as Swedish law + UNCRC-as-Swedish-law framework",
+      "description": "UN CRC incorporated into Swedish law 1 January 2020 by Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter — substantively distinctive globally constitutional-level-incorporation-of-UN-CRC-as-Swedish-law framework. Strengthens children's-rights paramountcy in family-court decision-making affecting subsequent reform-trajectory."
     },
     {
       "year": 2021,
-      "title": "FN:s barnkonvention as Swedish law",
-      "description": "UN CRC incorporated into Swedish law 1 January 2020 by Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter — strengthens children's-rights paramountcy in family-court decision-making."
+      "title": "2021 vårdnadsreform + risk-of-harm-+-shared-care-balance framework",
+      "description": "2021 vårdnadsreform (Vårdnad, boende och umgänge 2021) further strengthening risk-of-harm balancing against shared-care provisions — substantively significant Nordic continuing-balancing-reform framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Sweden NATO accession application + end of 200-year non-alignment + family-law-implementation framework",
+      "description": "Sweden NATO accession application submitted 18 May 2022 following Russian invasion of Ukraine 24 February 2022 — substantively distinctive globally end-of-200-year-Swedish-military-non-alignment framework dating to 1814 + structurally distinctive Nordic Russia-Ukraine-war-precipitated NATO-accession framework + parallel Finland NATO application framework + subsequent Sweden NATO accession effective 7 March 2024 + structurally distinctive globally only modern Western European NATO member ending sustained non-alignment + substantive constitutional-democratic-trajectory framework affecting subsequent family-court NATO-context-jurisdiction-cluster including Ukrainian-displaced-family family-law-implementation framework."
+    },
+    {
+      "year": 2023,
+      "title": "Socialstyrelsen vägledning + Barnombudsmannen institutional position + samhällets-skyddsnät framework refinement",
+      "description": "Socialstyrelsen (National Board of Health and Welfare) vägledningar (guidelines) 2022-2023 refining samhällets-skyddsnät framework for child-protection and family-court adjudication. Barnombudsmannen (Children's Ombudsperson) institutional position addressing PA-related issues within child-rights framework. Substantively significant Nordic institutional position consistent with barnets bästa welfare standard — establishing trajectory toward 2024 Högsta domstolen substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Högsta domstolen + Hovrätt + Tingsrätt — barnets-bästa substantive register + NATO-membership context",
+      "description": "Högsta domstolen (HD), Hovrätt (Court of Appeal), and Tingsrätt (District Court) continue to develop barnets bästa jurisprudence under Föräldrabalken ch. 6 + UN CRC as Swedish law (2020) + Patientsäkerhetslagen 2010:659 framework in custody disputes within Sweden's NATO-membership context (since 7 March 2024 ending 200+ years of military non-alignment). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -125,8 +160,9 @@
     }
   ],
   "editorial_notes": [
-    "Sweden jurisdiction sidecar establishes the Nordic civil-law framework within the corpus. Föräldrabalken + Patientsäkerhetslagen 2010:659 + Socialstyrelsen + UN CRC as Swedish law (2020).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator. 2006 vårdnadsreform re-balanced contact-promotion against risk-of-harm — structurally similar to Australian 2023 reform.",
-    "Joins Nordic + federal-statutory psychology regulator clusters within the corpus."
+    "Sweden jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Sveriges-Rikes-Lag-1734-to-NATO-membership-2024 trajectory: 1734-Sveriges-Rikes-Lag + 1949-Föräldrabalken + 1990-Sweden-UNCRC-ratification + 1998-vårdnadsreform-+-god-kontakt + 2006-vårdnadsreform-+-risk-of-harm-balancing + 2010-Patientsäkerhetslagen-+-Socialstyrelsen + 2020-FN:s-barnkonvention-as-Swedish-law + 2021-vårdnadsreform + 2024-Högsta-domstolen-+-NATO-membership.",
+    "Nordic civil-law framework (Föräldrabalken 1949 + Patientsäkerhetslagen 2010:659 + Socialstyrelsen + UN CRC as Swedish law 2020 + strongest joint-custody-default regime in Europe + 2006 vårdnadsreform risk-of-harm balancing structurally similar to Australian 2023 reform).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive barnets bästa analysis under Föräldrabalken ch. 6 + UN CRC as Swedish law (2020) + Patientsäkerhetslagen 2010:659 framework without doctrinal 'parental alienation' label.",
+    "Joins Nordic + civil-law + federal-statutory-psychology-regulator-cluster-Socialstyrelsen-legitimerad-psykolog + strongest-joint-custody-default-regime-in-Europe-globally-distinctive + UN-CRC-incorporated-as-Swedish-law-2020-constitutional-level-incorporation + Sveriges-Rikes-Lag-1734 + Föräldrabalken-1949 + 1998-vårdnadsreform-+-god-kontakt + 2006-vårdnadsreform-+-risk-of-harm-balancing-similar-to-Australian-2023-reform + Patientsäkerhetslagen-2010:659 + 2021-vårdnadsreform + 2024-NATO-membership-ending-200-years-military-non-alignment clusters within the corpus."
   ]
 }

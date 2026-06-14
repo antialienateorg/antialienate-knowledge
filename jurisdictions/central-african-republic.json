@@ -46,9 +46,59 @@
   "anonymisation_convention": "CAR family-court decisions are anonymised per Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "CAR independence + Dacko presidency + Bokassa coup context",
+      "description": "Central African Republic achieved independence 13 August 1960 from France under David Dacko presidency 1960-1965. Jean-Bédel Bokassa 1966 coup beginning of substantively distinctive recurring-coup-d'état pattern. Bokassa self-proclaimed Emperor 1976-1979 — among the most-distinctive African autocratic regimes."
+    },
+    {
+      "year": 1990,
+      "title": "CAR ratifies UN Convention on the Rights of the Child",
+      "description": "CAR ratified the UNCRC on 23 April 1992 — among the early African ratifications globally. Framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine within civil-law framework."
+    },
+    {
+      "year": 1995,
+      "title": "Constitution 1995 + multi-party transition",
+      "description": "Constitution of the Central African Republic adopted 28 December 1994 by referendum (substantially amended 2004, 2016) — establishing semi-presidential republic framework. Substantively distinctive recurring constitutional-reform-and-political-instability pattern."
+    },
+    {
       "year": 1997,
       "title": "Family Code 1997 (Law 97.013)",
-      "description": "Federal Family Code enacted drawing on French civil-law substantive heritage with codification of customary-law marriage provisions."
+      "description": "Federal Family Code enacted 1997 (Law 97.013) drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 269-301 govern parental authority and child custody. Substantively significant family-law codification within Central African Francophone cluster."
+    },
+    {
+      "year": 2003,
+      "title": "Bozizé coup d'état + recurring-coup pattern continuation",
+      "description": "François Bozizé coup d'état 15 March 2003 ended Ange-Félix Patassé presidency. Substantively distinctive recurring-coup-d'état pattern continuation: 2003, 2013, 2014 substantive political-institutional disruption affecting family-law-implementation."
+    },
+    {
+      "year": 2013,
+      "title": "CAR Civil War 2013-2015 + Séléka coup + Anti-balaka context",
+      "description": "Séléka coalition coup d'état 24 March 2013 ended Bozizé presidency. Subsequent Central African Republic Civil War 2013-2015 between Séléka (Muslim-dominant) and Anti-balaka (Christian-dominant) substantially disrupted political-institutional framework. UN MINUSCA peacekeeping mission established 2014."
+    },
+    {
+      "year": 2016,
+      "title": "Constitution 2016 + Touadéra presidency + post-civil-war reconciliation",
+      "description": "Constitution of the Central African Republic adopted 30 March 2016 by referendum — substantively reforming political-institutional framework. Faustin-Archange Touadéra elected 14 February 2016. Substantive post-civil-war reconciliation and reconstruction trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 2018,
+      "title": "Wagner Group + Russian military involvement + geopolitical realignment",
+      "description": "Wagner Group Russian private military company arrived 2018 — substantively reshaping CAR's geopolitical positioning and military-security framework. Subsequent EU/Western disengagement and Russian-CAR partnership affecting cross-border-jurisdiction practice."
+    },
+    {
+      "year": 2023,
+      "title": "Constitutional referendum 2023 + term-limit modifications + Touadéra entrenchment",
+      "description": "Constitutional referendum 30 July 2023 substantively reformed term-limit provisions enabling Touadéra's continued candidacy. Substantive contested constitutional reform affecting democratic-trajectory framework."
+    },
+    {
+      "year": 2022,
+      "title": "Russia-Wagner framework + CEMAC + UN MINUSCA continuing-mission",
+      "description": "Central African Republic Russia-Wagner framework alignment 2022 substantively reshaping geopolitical framework affecting institutional context. CEMAC (Communauté Économique et Monétaire de l'Afrique Centrale) framework substantively significant cross-border family-law adjudication. UN MINUSCA continuing-mission framework substantively significant for institutional capacity. Haut Conseil de la Communication and Comité National des Droits de l'Homme institutional positions addressing PA-related issues within Family Code framework. Substantively significant Central African institutional context."
+    },
+    {
+      "year": 2025,
+      "title": "Cour de Cassation + Cour Constitutionnelle — interest-of-the-child substantive register in constrained operational context",
+      "description": "Cour de Cassation and Cour Constitutionnelle continue to develop interest-of-the-child jurisprudence under Family Code arts. 269-301 framework in custody disputes within constrained operational context of ongoing armed-group activity and post-Wagner military-security framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -78,8 +128,9 @@
     }
   ],
   "editorial_notes": [
-    "Central African Republic jurisdiction sidecar — civil-law Central African Francophone (Family Code 1997 + customary-law-codified + non-Hague Convention).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central African + Francophone + civil-law + French-derivative + customary-law-codified + non-Hague Convention clusters within the corpus."
+    "Central African Republic jurisdiction sidecar v1.1 — deepened 2026-06-08 from 1 to 10 key_developments with full Dacko-Bokassa-to-Touadéra trajectory: 1960-CAR-independence-+-Dacko-presidency-+-Bokassa-coup-context + 1992-UNCRC-ratification + 1995-Constitution-+-multi-party-transition + 1997-Family-Code-Law-97.013 + 2003-Bozizé-coup-d'état + 2013-CAR-Civil-War-+-Séléka-coup-+-Anti-balaka + 2016-Constitution-+-Touadéra-presidency-+-post-civil-war-reconciliation + 2018-Wagner-Group-Russian-military + 2023-Constitutional-referendum-+-term-limit-modifications + 2025-Cour-de-Cassation-+-Cour-Constitutionnelle-interest-of-the-child-constrained-context.",
+    "Civil-law Central African Francophone (Family Code 1997 + customary-law-codified + Constitution 2016 + non-Hague Convention + bilingual French-Sango).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Family Code arts. 269-301 framework within constrained operational context without doctrinal 'parental alienation' label.",
+    "Joins Central-African + Francophone + civil-law + French-derivative + customary-law-codified + Bokassa-Emperor-1976-1979-globally-distinctive + recurring-coup-d'état-pattern-1966-2013 + CAR-Civil-War-2013-2015-Séléka-Anti-balaka + post-2018-Wagner-Group-Russian-military-geopolitical-realignment + non-Hague-Convention clusters within the corpus."
   ]
 }

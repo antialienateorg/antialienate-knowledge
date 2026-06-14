@@ -76,37 +76,57 @@
     {
       "year": 824,
       "title": "Kingdom of Pamplona / Kingdom of Navarre founded",
-      "description": "Kingdom of Pamplona (later Kingdom of Navarre) founded by Íñigo Arista in 824 — foundation of medieval Navarrese state."
+      "description": "Kingdom of Pamplona (later Kingdom of Navarre) founded by Íñigo Arista in 824 — foundation of medieval Navarrese state + structurally distinctive globally only EU member-state subnational jurisdiction operating its constitutional framework derived from a medieval Kingdom (824-1620) continuously preserved."
     },
     {
       "year": 1238,
       "title": "Fuero General de Navarra",
-      "description": "Fuero General de Navarra ~13th century — foundational compilation of Navarrese customary law."
+      "description": "Fuero General de Navarra ~13th century — foundational compilation of Navarrese customary law + foundation for subsequent Fuero Nuevo 1973 framework + pivotal medieval foundation framework predating Castilian conquest framework."
     },
     {
       "year": 1512,
       "title": "Castilian conquest of Upper Navarre",
-      "description": "Castilian conquest of Upper Navarre 1512-1521 — incorporation into Crown of Castile with Foral autonomy preservation."
+      "description": "Castilian conquest of Upper Navarre 1512-1521 by Fernando the Catholic following 1512 Navarrese-French alliance during War of the League of Cambrai — incorporation into Crown of Castile with Foral autonomy preservation + Lower Navarre remained under French Navarrese monarchy 1512-1620 (subsequently united with French crown via Henry IV)."
+    },
+    {
+      "year": 1620,
+      "title": "Lower Navarre Union with French Crown",
+      "description": "Lower Navarre formally united with French Crown 20 October 1620 by King Louis XIII — definitive end of Kingdom of Navarre as separate sovereign entity + pivotal end of ~800-year sovereign Navarrese monarchy framework + foundation for subsequent Upper Navarre Foral preservation framework under Spanish Crown."
     },
     {
       "year": 1841,
       "title": "Ley Paccionada (Bilateral Law)",
-      "description": "Spanish Bilateral Law of 16 August 1841 between Crown and Foral institutions following First Carlist War — constitutional foundation for Navarrese bilateral-treaty foral framework."
+      "description": "Spanish Bilateral Law of 16 August 1841 between Crown and Foral institutions following First Carlist War (1833-1840) — constitutional foundation for Navarrese bilateral-treaty foral framework + structurally distinctive globally only Spanish jurisdiction with bilateral-treaty constitutional foundation between Crown and Foral institutions."
     },
     {
       "year": 1973,
       "title": "Compilación del Derecho Civil Foral de Navarra (Fuero Nuevo)",
-      "description": "Compilation of Navarrese foral civil law (Fuero Nuevo) adopted 1 March 1973 — first modern formal codification of Navarrese foral civil law."
+      "description": "Compilation of Navarrese foral civil law (Fuero Nuevo) adopted 1 March 1973 under Franco regime — first modern formal codification of Navarrese foral civil law + foundation for subsequent 2019 Ley Foral 21/2019 modernisation framework."
     },
     {
       "year": 1982,
       "title": "Statute of Autonomy + Amejoramiento del Régimen Foral",
-      "description": "Spanish Organic Law of 10 August 1982 establishing Navarrese foral-community governance framework — distinctively styled 'Amejoramiento' (improvement) of the Foral Regime."
+      "description": "Spanish Organic Law 13/1982 of 10 August 1982 establishing Navarrese foral-community governance framework — distinctively styled 'Amejoramiento' (improvement) of the Foral Regime rather than 'Statute of Autonomy' + structurally distinctive globally only Spanish autonomous community holding constitutional designation 'Foral Community' (Comunidad Foral) rather than 'Autonomous Community'."
+    },
+    {
+      "year": 1990,
+      "title": "Convenio Económico fiscal autonomy framework",
+      "description": "Convenio Económico (Navarrese Economic Agreement) 1990 establishing Navarrese full fiscal autonomy framework — second EU subnational with full fiscal autonomy alongside Basque Concierto Económico + pivotal modern Navarrese fiscal-autonomy framework foundation."
     },
     {
       "year": 2019,
       "title": "Comprehensive Fuero Nuevo modernisation",
-      "description": "Ley Foral 21/2019 of 4 April 2019 comprehensively modernising Compilation of Navarrese foral civil law — most recent major modernisation."
+      "description": "Ley Foral 21/2019 of 4 April 2019 comprehensively modernising Compilation of Navarrese foral civil law — most recent major modernisation including updated family-law-adjacent provisions + Chapter VI Family Law modernisation distinct from Spanish national Código Civil framework."
+    },
+    {
+      "year": 2023,
+      "title": "María Chivite PSN-PSOE Government + Parlamento-de-Navarra + Defensor-del-Pueblo + EH-Bildu-coalition framework",
+      "description": "María Chivite (PSN-PSOE) President framework continuing 2023-onwards with Parlamento de Navarra institutional positions addressing PA-related issues within Compilación del Derecho Civil Foral de Navarra (Fuero Nuevo) Chapter VI Family Law framework applied via Tribunal Superior de Justicia de Navarra. EH-Bildu-Geroa-Bai coalition support framework substantively significant institutional context. Defensor del Pueblo de Navarra institutional positions affecting cross-border family-law adjudication. Substantively significant Northern Iberian foral-community institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing Foral Community framework + medieval-derived constitutional continuity",
+      "description": "Continuing Navarrese Foral Community framework 2024 — continuing Comunidad Foral constitutional designation + continuing Amejoramiento del Régimen Foral framework + continuing Convenio Económico fiscal autonomy + continuing Fuero Nuevo 1973-2019 framework + continuing bilateral-treaty Ley Paccionada 1841 constitutional foundation + 1,200 years since Kingdom of Pamplona/Navarre foundation 824."
     }
   ],
   "structural_findings": [
@@ -142,7 +162,7 @@
     }
   ],
   "editorial_notes": [
-    "Navarre jurisdiction sidecar — civil-law Northern Iberian Spanish foral community with own Navarrese foral civil-law jurisdiction (Compilation of the Foral Civil Law of Navarre Fuero Nuevo 1973 + Ley Foral 21/2019 modernisation + Statute of Reintegration and Amejoramiento of the Foral Regime 1982 + Convenio Económico 1990 + Ley Paccionada 1841 bilateral-treaty foundation + Spanish Constitution First Additional Provision + Spanish Hague Convention 1980 accession 1987). Only Spanish autonomous community holding constitutional designation Foral Community globally + only EU member-state subnational operating constitutional framework derived from medieval Kingdom continuously preserved through bilateral-treaty + second EU subnational with full fiscal autonomy + Amejoramiento del Régimen Foral constitutional framing distinct from Statute of Autonomy.",
+    "Navarre jurisdiction sidecar v1.1 — civil-law Northern Iberian Spanish foral community with own Navarrese foral civil-law jurisdiction (824 Kingdom of Pamplona/Navarre + 1238 Fuero General de Navarra + 1512 Castilian conquest Upper Navarre + 1620 Lower Navarre Union with French Crown + 1841 Ley Paccionada bilateral-treaty + 1973 Compilación Fuero Nuevo + 1982 Amejoramiento Régimen Foral + 1990 Convenio Económico fiscal autonomy + 2019 Fuero Nuevo modernisation + 2024 continuing 1,200-year medieval-derived framework). Only Spanish autonomous community holding constitutional designation Foral Community globally + only EU member-state subnational operating constitutional framework derived from medieval Kingdom continuously preserved through bilateral-treaty + second EU subnational with full fiscal autonomy + Amejoramiento del Régimen Foral constitutional framing distinct from Statute of Autonomy + 1,200 years since Kingdom of Pamplona/Navarre foundation.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins Northern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + Foral-Community-constitutional-designation-globally-distinctive + medieval-Kingdom-derived-constitutional-framework + bilateral-treaty-Ley-Paccionada-1841-foundation + Convenio-Económico-full-fiscal-autonomy + Amejoramiento-del-Régimen-Foral-constitutional-framing + Fuero-Nuevo-1973-2019 + Spanish-Constitution-First-Additional-Provision-Foral-rights clusters within the corpus."
   ]

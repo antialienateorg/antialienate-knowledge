@@ -53,19 +53,59 @@
   "anonymisation_convention": "Honduran family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1821,
+      "title": "Honduras independence + Central-American-Federation framework",
+      "description": "Honduras independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1969,
+      "title": "Football War 1969 + Honduras-El Salvador conflict framework",
+      "description": "Football War (100-Hour-War) 14-18 July 1969 between Honduras and El Salvador — substantively distinctive Central-American short-conflict framework. Substantial demographic and family-law-implementation impact through 130,000 Salvadoran expulsions affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 1982,
+      "title": "Constitution of Honduras 1982 + democratic-transition framework",
+      "description": "Constitution of Honduras 1982 adopted 11 January 1982 (effective 20 January 1982) substantively reforming political-institutional framework establishing contemporary constitutional-democratic framework. Foundational constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
       "year": 1984,
-      "title": "Family Code (Decree 76-1984)",
-      "description": "Federal Family Code enacted drawing on Spanish civil-law substantive heritage."
+      "title": "Family Code (Decree 76-1984) + post-democratic-transition framework",
+      "description": "Federal Family Code enacted Decree 76-1984 drawing on Spanish civil-law substantive heritage. Arts. 184-202 govern patria potestad and child custody. Substantively significant post-democratic-transition family-law-codification framework."
+    },
+    {
+      "year": 1990,
+      "title": "Honduras ratifies UN Convention on the Rights of the Child",
+      "description": "Honduras ratified the UNCRC on 10 August 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 1996 Children and Adolescents Code substantive doctrine."
     },
     {
       "year": 1994,
       "title": "Hague Convention 1980 accession",
-      "description": "Honduras acceded to the Hague Convention 1980 effective 1 March 1994."
+      "description": "Honduras acceded to the Hague Convention 1980 effective 1 March 1994 — substantively significant Hague Latin American accession (among earliest Latin American Hague accessions in the corpus) affecting cross-border-jurisdiction-practice."
     },
     {
       "year": 1996,
-      "title": "Children and Adolescents Code (Decree 73-96)",
-      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+      "title": "Children and Adolescents Code (Decree 73-96) + UNCRC-aligned framework",
+      "description": "Federal Children and Adolescents Code enacted codifying superior-interest-of-the-child principle (art. 8) aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Latin-American UNCRC-comprehensive-children's-protection-code wave."
+    },
+    {
+      "year": 2009,
+      "title": "Honduran constitutional crisis 2009 + Zelaya-coup framework",
+      "description": "Honduran constitutional crisis 28 June 2009 — President Manuel Zelaya removed from office in military-led coup. Substantively distinctive 21st-century Latin-American coup-d'état framework substantially affecting political-institutional framework. Subsequent OAS suspension 2009-2011 substantially affecting cross-border-jurisdiction practice."
+    },
+    {
+      "year": 2022,
+      "title": "Xiomara Castro presidency + first-female-president framework",
+      "description": "Xiomara Castro (Libre) elected President 27 November 2021 (inaugurated 27 January 2022) — substantively distinctive first female president of Honduras (and wife of deposed 2009 Zelaya). Substantive post-Zelaya-coup democratic-restoration framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "CONADEH + DINAF + JOH extradition framework",
+      "description": "Comisionado Nacional de los Derechos Humanos (CONADEH) and DINAF (Dirección de Niñez, Adolescencia y Familia) institutional positions addressing PA-related issues within Children and Adolescents Code 1996 + Family Code 1984 framework. Juan Orlando Hernández (JOH) extradition to United States April 2022 and June 2024 conviction substantially affecting post-JOH political-context framework. Substantively significant Central American institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Corte Suprema de Justicia + Sala de lo Constitucional — superior-interest-of-the-child substantive register + Castro presidency",
+      "description": "Corte Suprema de Justicia and Sala de lo Constitucional continue to develop superior-interest-of-the-child jurisprudence under Family Code 1984 arts. 184-202 + Children and Adolescents Code 1996 art. 8 + Hague Convention 1980 framework in custody disputes within Castro presidency framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -94,8 +134,9 @@
     }
   ],
   "editorial_notes": [
-    "Honduras jurisdiction sidecar — civil-law Central America (Family Code 1984 + Children and Adolescents Code 1996 + Hague Convention 1980 accession 1994).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Latin American + civil-law + Central American + Hague Convention clusters within the corpus."
+    "Honduras jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full independence-to-Castro trajectory: 1821-Honduras-independence-+-Central-American-Federation + 1969-Football-War-+-Honduras-El-Salvador + 1982-Constitution-+-democratic-transition + 1984-Family-Code-Decree-76 + 1990-UNCRC-ratification + 1994-Hague-Convention-1980-accession + 1996-Children-and-Adolescents-Code + 2009-Honduran-constitutional-crisis-+-Zelaya-coup + 2022-Xiomara-Castro-+-first-female-president + 2024-Corte-Suprema-+-Sala-de-lo-Constitucional-+-Castro-presidency.",
+    "Civil-law Central America (Family Code 1984 + Children and Adolescents Code 1996 + Hague Convention 1980 accession 1994).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code 1984 + Children and Adolescents Code 1996 art. 8 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Latin-American + civil-law + Central-American + Football-War-1969-100-Hour-War-distinctive + 2009-Honduran-constitutional-crisis-Zelaya-coup-+-OAS-suspension-distinctive + Xiomara-Castro-first-female-president-+-Zelaya-spouse + early-Hague-Convention-1994-Latin-American + Honduras-El-Salvador-cross-border clusters within the corpus."
   ]
 }

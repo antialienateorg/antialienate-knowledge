@@ -53,14 +53,59 @@
   "anonymisation_convention": "TCI family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1962,
+      "title": "TCI separation from Jamaica + BOT consolidation",
+      "description": "Turks and Caicos Islands administratively separated from Jamaica following Jamaican independence 6 August 1962 — becoming separate British Dependent Territory. Substantively distinctive Caribbean BOT-status-retention pattern (alongside Cayman Islands). Foundational constitutional framework for subsequent self-government-trajectory."
+    },
+    {
+      "year": 1976,
+      "title": "TCI Constitution 1976 + ministerial-government framework",
+      "description": "Turks and Caicos Islands Constitution Order 1976 (substantially amended 1988, 2006, 2011) establishing internal-self-government framework with Governor representing the Crown and elected House of Assembly. Foundational pre-2009-direct-rule framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1986,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by UK to TCI effective 1 August 1986."
+      "description": "Hague Convention 1980 territorial extension by UK to TCI effective 1 August 1986 — establishing Caribbean Hague Convention jurisdiction framework within UK BOT framework."
+    },
+    {
+      "year": 1991,
+      "title": "UK ratifies UN Convention on the Rights of the Child + BOT extension",
+      "description": "United Kingdom ratified the UNCRC on 16 December 1991 with extension to TCI — establishing best-interests-of-the-child substantive doctrine within UK-derivative common-law framework applicable to TCI."
+    },
+    {
+      "year": 2001,
+      "title": "British Overseas Territories Act 2002 + British citizenship + offshore-finance framework",
+      "description": "British Overseas Territories Act 2002 (effective 26 February 2002) substantively renamed British Dependent Territories to British Overseas Territories. British citizenship extended to TCI BOT citizens substantively affecting cross-border-family-law mobility framework. TCI continues as among Caribbean offshore-finance-centres affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2009,
+      "title": "TCI Commission of Inquiry + UK direct rule 2009-2012 + corruption-and-governance-failure framework",
+      "description": "TCI Commission of Inquiry under Sir Robin Auld 2008-2009 substantively documented governance failures and corruption. UK direct rule imposed 14 August 2009 — substantively distinctive UK-BOT-direct-rule pattern persisting until 2012. Subsequent reform package consolidation. Substantive governance-restoration trajectory affecting family-law-implementation framework."
+    },
+    {
+      "year": 2011,
+      "title": "TCI Constitution Order 2011 + post-direct-rule constitutional framework",
+      "description": "Turks and Caicos Islands Constitution Order 2011 (effective 9 August 2012) substantively reforming political-institutional framework following direct-rule period — establishing strengthened Governor-oversight framework. Substantive constitutional anchor for contemporary family-law jurisprudence within post-CoI-reform framework."
     },
     {
       "year": 2014,
       "title": "Children Ordinance 2014",
-      "description": "Federal Children Ordinance enacted drawing on English Children Act 1989 model."
+      "description": "Federal Children Ordinance enacted drawing on English Children Act 1989 model codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions. Substantively significant statutory-modernisation within Caribbean BOT framework."
+    },
+    {
+      "year": 2017,
+      "title": "Hurricane Irma 2017 + Hurricane Maria + reconstruction trajectory",
+      "description": "Hurricanes Irma 7 September 2017 and Maria substantively devastated TCI — among the most-distinctive Caribbean climate-disaster events globally. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory. Subsequent climate-resilience policy framework consolidation."
+    },
+    {
+      "year": 2023,
+      "title": "Misick premiership + Social Welfare Department + Haitian-refugee framework",
+      "description": "Charles Washington Misick (PNP) premiership 2021-onwards framework consolidation through 2023. Social Welfare Department institutional position addressing PA-related issues within Children Ordinance 2014 + Matrimonial Causes Ordinance framework. Haitian-refugee framework substantively significant institutional context affecting cross-border family-law adjudication. Substantively significant Caribbean BOT institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of TCI + JCPC — welfare-of-the-child substantive register + post-CoI-reform framework",
+      "description": "Court of Appeal of the Turks and Caicos Islands and Judicial Committee of the Privy Council continue to develop welfare-of-the-child jurisprudence under Children Ordinance 2014 + Matrimonial Causes Ordinance framework in custody disputes within post-Commission-of-Inquiry-reform framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -90,8 +135,9 @@
     }
   ],
   "editorial_notes": [
-    "Turks and Caicos Islands jurisdiction sidecar — common-law Caribbean BOT (Children Ordinance 2014 + Matrimonial Causes Ordinance + independent Court of Appeal + JCPC + Hague via UK territorial extension 1986).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + common-law + BOT cluster + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+    "Turks and Caicos Islands jurisdiction sidecar v1.1 — deepened 2026-06-09 from 2 to 10 key_developments with full Jamaica-separation-to-post-CoI trajectory: 1962-TCI-separation-from-Jamaica + 1976-TCI-Constitution-Order + 1986-Hague-Convention-1980-territorial-extension + 1991-UK-UNCRC-+-BOT-extension + 2001-British-Overseas-Territories-Act-+-British-citizenship + 2009-TCI-Commission-of-Inquiry-+-UK-direct-rule-2009-2012 + 2011-TCI-Constitution-Order-+-post-direct-rule + 2014-Children-Ordinance + 2017-Hurricanes-Irma-+-Maria-+-reconstruction + 2024-Court-of-Appeal-+-JCPC-welfare-of-the-child-+-post-CoI-reform.",
+    "Common-law Caribbean BOT (Children Ordinance 2014 + Matrimonial Causes Ordinance + independent Court of Appeal + JCPC + Hague via UK territorial extension 1986).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children Ordinance 2014 framework within post-CoI-reform framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + common-law + BOT-cluster + TCI-separation-from-Jamaica-1962-distinctive + independent-Court-of-Appeal-not-ECSC-distinctive + JCPC-final-appellate + TCI-Commission-of-Inquiry-2009-+-UK-direct-rule-2009-2012-distinctive-UK-BOT-direct-rule-pattern + Hurricanes-Irma-Maria-2017 + offshore-finance-centre + Hague-via-UK-territorial-extension clusters within the corpus."
   ]
 }

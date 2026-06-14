@@ -59,25 +59,70 @@
   "anonymisation_convention": "Jordanian family-court decisions are anonymised per Court of Cassation and Sharia Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1946,
+      "title": "Jordan independence + Hashemite Kingdom establishment",
+      "description": "Transjordan achieved independence 25 May 1946 from British Mandate as Hashemite Kingdom of Transjordan under King Abdullah I (renamed Hashemite Kingdom of Jordan 1949). Foundational political-institutional framework for the subsequent codification trajectory (Personal Status Law 1951/1976 + Civil Code 1976) drawing on Ottoman/British-Mandate/Egyptian substrate."
+    },
+    {
+      "year": 1951,
+      "title": "Family Rights Law 1951 + initial codification",
+      "description": "Family Rights Law 1951 enacted — initial codification of Jordanian personal-status drawing on Ottoman Family Rights Law 1917 substrate and Hanafi jurisprudence. Among the early MENA personal-status codifications (preceded by Syria 1953 PSL by 2 years; Egypt 1920-1929)."
+    },
+    {
+      "year": 1952,
+      "title": "Constitution of the Hashemite Kingdom of Jordan",
+      "description": "Constitution of the Hashemite Kingdom of Jordan adopted 1 January 1952 — establishing constitutional monarchy framework with Art. 2 declaring Islam the state religion and Art. 6 codifying equality before the law. Foundational constitutional anchor for subsequent codified family-law jurisprudence."
+    },
+    {
       "year": 1976,
-      "title": "Civil Code and Personal Status Law 1976",
-      "description": "Federal Civil Code (Egyptian-influenced) and Personal Status Law enacted."
+      "title": "Civil Code 43/1976 + Personal Status Law 61/1976 (Sanhuri-tradition civil code)",
+      "description": "Federal Civil Code 43/1976 enacted drawing on French civil-law substantive heritage via Egyptian Civil Code transplant (Sanhuri tradition) + Personal Status Law 61/1976 substantively replacing 1951 Family Rights Law. Among the major Sanhuri-tradition transplants alongside Egypt 1948, Syria 1949, Iraq 1951, Libya 1953, Kuwait 1980, pre-2021-Afghanistan 1977."
+    },
+    {
+      "year": 1991,
+      "title": "Jordan ratifies UN Convention on the Rights of the Child",
+      "description": "Jordan ratified the UNCRC on 24 May 1991 with reservations to Arts. 14 (freedom of religion), 20 (alternative care including kafala), and 21 (adoption) — Islamic-law-bounded CRC implementation pattern shared with Bangladesh, Brunei, Saudi Arabia, and several Gulf jurisdictions."
     },
     {
       "year": 2010,
-      "title": "Personal Status Law 36/2010",
-      "description": "Federal Personal Status Law enacted replacing 1976 statute with codified modernisation reforms."
+      "title": "Personal Status Law 36/2010 (current operative codification)",
+      "description": "Federal Personal Status Law 36/2010 enacted replacing 1976 statute with codified modernisation reforms — substantively raising marriage age, codifying judicial divorce, expanding mother's custody-extension provisions, and addressing visitation rights within Hanafi-jurisprudence bounds. Arts. 170-193 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "year": 2011,
+      "title": "Constitutional amendments 2011 + Arab Spring context",
+      "description": "Constitutional amendments 2011 promulgated by King Abdullah II during Arab Spring period — establishing framework for Constitutional Court (subsequently enacted 2012), reforming political-rights provisions, and modernising constitutional framework. Subsequent further amendments 2014, 2016, 2022."
     },
     {
       "year": 2012,
-      "title": "Constitutional Court established",
-      "description": "Constitutional Court established with original jurisdiction over constitutional review."
+      "title": "Constitutional Court established + Law 15/2012",
+      "description": "Constitutional Court established by Law 15/2012 — replacing prior Supreme Council for Constitutional Review with dedicated Constitutional Court (المحكمة الدستورية) with original jurisdiction over constitutional review. Provides constitutional-rights review pathway for family-court determinations engaging Constitutional rights."
+    },
+    {
+      "year": 2017,
+      "title": "Protection from Domestic Violence Law 15/2017",
+      "description": "Federal Protection from Domestic Violence Law 15/2017 enacted — replacing 2008 framework — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. Operates parallel to Personal Status Law 36/2010 framework with substantial impact on custody-affecting inter-parental conduct."
+    },
+    {
+      "year": 2023,
+      "title": "Syrian refugee framework + Gaza war regional impact + NCFA institutional framework",
+      "description": "Jordan continuing Syrian refugee framework hosting 1.3+ million Syrian refugees substantively affecting cross-border family-law adjudication. Gaza war 2023-onwards regional impact substantively affecting institutional context including Palestinian-refugee family-law adjudication. National Council for Family Affairs (NCFA) institutional position addressing PA-related issues within Personal Status Law 36/2010 + Protection from Domestic Violence Law 15/2017 framework. Substantively significant Levant institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Cassation + Sharia Court of Cassation — welfare-of-the-child substantive register",
+      "description": "Court of Cassation, Sharia Court of Cassation, and Constitutional Court continue to develop welfare-of-the-child jurisprudence under Personal Status Law 36/2010 arts. 170-193 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis under Hanafi-jurisprudence-bounded codified-welfare-of-the-child framework for Muslims and ecclesiastical-court framework for Christian communities."
     }
   ],
   "structural_findings": [
-    "Jordan operates a structurally distinctive mixed-legal-system framework — French civil-law substantive (via Egyptian Civil Code transplant) + Hanafi Islamic-law personal-status (via Sharia Courts) + ecclesiastical-court framework for Christian communities. Within the MENA mixed-legal-system cluster.",
-    "Sharia Court of Cassation apex jurisdiction over Muslim personal-status matters is structurally distinctive — separate apex track parallel to civil Court of Cassation.",
-    "Non-Hague Convention status places Jordan in the non-Hague MENA cluster."
+    "Jordan operates a structurally distinctive mixed-legal-system framework — French civil-law substantive (via Egyptian Sanhuri-tradition Civil Code transplant) + Hanafi Islamic-law personal-status (via Sharia Courts) + ecclesiastical-court framework for Christian communities. Within the MENA mixed-legal-system cluster.",
+    "Sharia Court of Cassation apex jurisdiction over Muslim personal-status matters is structurally distinctive — separate apex track parallel to civil Court of Cassation. Triple-apex framework (civil Court of Cassation + Sharia Court of Cassation + Constitutional Court 2012) places Jordan within the multi-apex-court cluster.",
+    "Egyptian-civil-code-transplant-Sanhuri cluster: Civil Code 43/1976 alongside Egyptian Civil Code 1948, Syria 1949, Iraq 1951, Libya 1953, Kuwait 1980, pre-2021-Afghanistan 1977 — Jordan adopted Sanhuri-tradition substantially later (1976) than other transplant jurisdictions.",
+    "Multi-community parallel personal-status framework (Muslim Sharia Courts + Christian ecclesiastical courts) — places Jordan within the multi-community-personal-status cluster (with Lebanon 18-community, Israel multi-community, Egypt Coptic, Syria multi-community).",
+    "Multi-layer substantive-statutory framework: 1946-Jordan-independence + 1951-Family-Rights-Law-initial-codification + 1952-Constitution + 1976-Civil-Code-Sanhuri-+-Personal-Status-Law + 1991-UNCRC-ratification-Art-14-20-21-reservations + 2010-Personal-Status-Law-36-2010-current + 2011-Constitutional-amendments-Arab-Spring + 2012-Constitutional-Court-Law-15-2012 + 2017-Protection-from-DV-Law-15-2017 + 2024-Court-of-Cassation-Sharia-Court-of-Cassation-welfare-of-the-child — gradual modernisation within mixed-legal framework.",
+    "Constitution 1952 Art. 2 (Islam state religion, not Shariah supreme source) places Jordan within the Islam-state-religion-without-Shariah-supremacy constitutional cluster (with Türkiye Constitution 1928 amendment removed Islam state religion + 1937 laiklik; modern Tunisia post-2014 Constitution).",
+    "UNCRC reservations to Arts. 14, 20, 21 — Islamic-law-bounded CRC implementation pattern shared with Bangladesh, Brunei, Saudi Arabia, and several Gulf jurisdictions.",
+    "Non-Hague-1980-Convention status places Jordan in the non-Hague-MENA cluster alongside Saudi Arabia, Iran, Iraq, Syria, Lebanon, Yemen."
   ],
   "references": [
     "jurisdiction:egypt",
@@ -113,8 +158,9 @@
     }
   ],
   "editorial_notes": [
-    "Jordan jurisdiction sidecar — mixed-legal-system MENA (French civil-law substantive via Egyptian transplant + Hanafi Islamic-law personal-status via Sharia Courts + Christian ecclesiastical courts). Personal Status Law 36/2010 + Civil Code 43/1976 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins MENA + mixed-legal-system + dual-apex-Sharia-civil + non-Hague Convention clusters within the corpus."
+    "Jordan jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Hashemite-to-contemporary trajectory: 1946-Jordan-independence-Hashemite-Kingdom + 1951-Family-Rights-Law-initial-codification + 1952-Constitution-Hashemite-Kingdom + 1976-Civil-Code-43-1976-Sanhuri-+-Personal-Status-Law-61-1976 + 1991-UNCRC-ratification-Art-14-20-21-reservations + 2010-Personal-Status-Law-36-2010-current + 2011-Constitutional-amendments-Arab-Spring + 2012-Constitutional-Court-Law-15-2012 + 2017-Protection-from-DV-Law-15-2017 + 2024-Court-of-Cassation-Sharia-Court-of-Cassation-welfare-of-the-child.",
+    "Mixed-legal-system MENA (French civil-law substantive via Egyptian Sanhuri transplant + Hanafi Islamic-law personal-status via Sharia Courts + Christian ecclesiastical courts). Personal Status Law 36/2010 + Civil Code 43/1976 + Constitution 1952 + Constitutional Court 2012 + Protection from DV Law 2017 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Personal Status Law arts. 170-193 Hanafi-bounded codified framework without doctrinal 'parental alienation' label.",
+    "Joins MENA + mixed-legal-system + Egyptian-civil-code-transplant-Sanhuri (with Egypt, Syria, Iraq, Libya, Kuwait, pre-2021-Afghanistan) + multi-community-personal-status (with Lebanon, Israel, Egypt, Syria) + Islam-state-religion-without-Shariah-supremacy-constitutional (with Türkiye, Tunisia) + triple-apex-court-framework (Court of Cassation + Sharia Court of Cassation + Constitutional Court) + UNCRC-Art-14-20-21-reservations + non-Hague-MENA-Convention clusters within the corpus."
   ]
 }

@@ -53,24 +53,59 @@
   "anonymisation_convention": "Liechtenstein family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1719,
+      "title": "Principality of Liechtenstein established + Habsburg-imperial framework",
+      "description": "Principality of Liechtenstein established 23 January 1719 by Holy Roman Emperor Charles VI — substantively distinctive Central European Habsburg-imperial-framework. Foundational pre-Civil-Code framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1806,
+      "title": "Liechtenstein sovereignty + Confederation-of-the-Rhine framework",
+      "description": "Liechtenstein sovereignty 12 July 1806 via Confederation-of-the-Rhine framework — substantively distinctive Central European Napoleonic-era sovereignty framework. Foundational substantive-sovereignty framework persisting through Holy-Roman-Empire-dissolution and subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1812,
       "title": "ABGB adoption from Austria",
-      "description": "General Civil Code (ABGB) adopted from Austria — establishing Austrian-civil-law substantive heritage."
+      "description": "General Civil Code (ABGB) adopted from Austria 1 June 1812 — establishing Austrian-civil-law substantive heritage. §§ 137-186 govern parental responsibility and child custody. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1921,
+      "title": "Constitution 1921 + constitutional-monarchy framework",
+      "description": "Constitution of Liechtenstein 1921 adopted 5 October 1921 substantively reforming political-institutional framework establishing constitutional-monarchy framework. Substantive constitutional anchor for contemporary family-law jurisprudence persisting through subsequent reforms 2003."
     },
     {
       "year": 1978,
       "title": "Council of Europe membership",
-      "description": "Liechtenstein joined the Council of Europe; ECHR became applicable."
+      "description": "Liechtenstein joined the Council of Europe 23 November 1978; ECHR became applicable. Substantively significant Central European human-rights-framework integration affecting subsequent family-law-jurisprudence."
+    },
+    {
+      "year": 1990,
+      "title": "Liechtenstein UN membership + UNCRC ratification framework",
+      "description": "Liechtenstein UN admission 18 September 1990 — substantively significant micro-state-UN-membership framework. Liechtenstein ratified the UNCRC 22 December 1995 — substantively significant child-rights framework integration affecting subsequent family-law-modernisation framework."
+    },
+    {
+      "year": 1995,
+      "title": "EEA accession + EU-Single-Market-integration framework",
+      "description": "Liechtenstein European Economic Area membership 1 May 1995 — substantively distinctive globally micro-state-EEA-membership framework. Substantive EU-Single-Market integration affecting subsequent cross-border-jurisdiction-practice including Brussels-IIbis-Regulation-equivalent framework."
     },
     {
       "year": 1998,
       "title": "Hague Convention 1980 accession",
-      "description": "Liechtenstein acceded to the Hague Convention 1980 effective 1 February 1998."
+      "description": "Liechtenstein acceded to the Hague Convention 1980 effective 1 February 1998 — substantively significant Central European Hague-accession framework affecting cross-border-jurisdiction-practice."
     },
     {
-      "year": 2008,
-      "title": "Children and Youth Act",
-      "description": "Federal Children and Youth Act enacted codifying child welfare provisions aligned with UNCRC obligations."
+      "year": 2003,
+      "title": "Constitution 2003 + monarchical-powers-expansion framework",
+      "description": "Constitution-amendments March 2003 by referendum substantively reforming political-institutional framework — substantive monarchical-powers-expansion framework controversially distinctive globally pro-monarchical-reform pattern. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 2023,
+      "title": "EEA framework continuation + Verein für Menschenrechte Liechtenstein + Schweiz-Liechtenstein cross-border family-law framework",
+      "description": "Liechtenstein EEA membership framework continuation through 2023 substantively significant for EU-acquis family-law harmonisation. Verein für Menschenrechte in Liechtenstein institutional position addressing PA-related issues within ABGB + Children and Youth Act 2008 framework. Schweiz-Liechtenstein cross-border family-law framework substantively significant for Customs Union cross-border family-law adjudication. Substantively significant Alpine micro-state institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Oberster Gerichtshof + Staatsgerichtshof — child's-best-interests substantive register + Hans-Adam-II/Alois continuing-reign",
+      "description": "Oberster Gerichtshof and Staatsgerichtshof continue to develop child's-best-interests jurisprudence under ABGB §§ 137-186 + Children and Youth Act 2008 + Hague Convention 1980 framework in custody disputes within Hans-Adam-II reign since 1989 and Hereditary Prince Alois regency since 2004. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -107,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Liechtenstein jurisdiction sidecar — civil-law Central European micro-state (ABGB Austrian-derivative + Children and Youth Act 2008 + ECHR + Hague Convention 1980 accession 1998).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central European + civil-law + Austrian-ABGB-derivative + ECHR + Hague Convention + micro-state-distinctive clusters within the corpus."
+    "Liechtenstein jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Principality-1719-to-Alois-regency trajectory: 1719-Principality-of-Liechtenstein-+-Habsburg + 1806-Liechtenstein-sovereignty-+-Confederation-of-the-Rhine + 1812-ABGB-adoption-from-Austria + 1921-Constitution-+-constitutional-monarchy + 1978-Council-of-Europe-membership + 1990-Liechtenstein-UN-membership-+-UNCRC + 1995-EEA-accession-+-EU-Single-Market + 1998-Hague-Convention-1980-accession + 2003-Constitution-amendments-+-monarchical-powers-expansion + 2024-Oberster-Gerichtshof-+-Staatsgerichtshof-+-Hans-Adam-II-Alois.",
+    "Civil-law Central European micro-state (ABGB Austrian-derivative + Children and Youth Act 2008 + ECHR + Hague Convention 1980 accession 1998).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-best-interests analysis under ABGB §§ 137-186 + Children and Youth Act 2008 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Central-European + civil-law + Austrian-ABGB-derivative (with Austria) + ECHR + Hague-Convention + micro-state-38000-population-160-km2-distinctive + Principality-1719-Habsburg-imperial-Charles-VI + Confederation-of-the-Rhine-1806-sovereignty + Constitution-1921 + EEA-membership-1995-micro-state-EU-Single-Market-distinctive + Constitution-amendments-2003-monarchical-powers-expansion-globally-controversially-distinctive-pro-monarchical-reform + Hans-Adam-II-reign-1989-2026-+-Hereditary-Prince-Alois-regency-2004 clusters within the corpus."
   ]
 }

@@ -67,31 +67,69 @@
   "anonymisation_convention": "Myanmar family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1872,
+      "title": "British Burma annexation + reception of English common-law substrate",
+      "description": "British Burma colonial annexation completed by 1885 (third Anglo-Burmese War) with prior 1872 Burma Laws Act establishing reception of English common-law substantive heritage and codified-personal-laws for religious communities — the foundational legal-system substrate that persists in contemporary Myanmar's mixed-legal framework."
+    },
+    {
       "year": 1890,
       "title": "Guardians and Wards Act",
-      "description": "Colonial-era guardianship statute applying across religious communities residually."
+      "description": "Colonial-era Guardians and Wards Act 1890 (Act No. VIII of 1890) — comprehensive guardianship statute applying across religious communities residually for matters not governed by personal laws. The Act establishes the substantive welfare-of-the-minor standard at sec. 17 that remains operative across Myanmar's mixed-legal personal-law framework."
+    },
+    {
+      "year": 1939,
+      "title": "Burma Buddhist Women's Special Marriage and Succession Act (original)",
+      "description": "Burma Buddhist Women's Special Marriage and Succession Act first enacted 1939 — providing statutory framework for Burmese Buddhist women's inter-faith marriages. Foundational substrate for the 1954 substantive replacement Act."
     },
     {
       "year": 1953,
       "title": "Burma Muslim Dissolution of Marriages Act",
-      "description": "Federal Muslim divorce statute enacted."
+      "description": "Federal Burma Muslim Dissolution of Marriages Act enacted 1953 — providing statutory framework for Muslim divorce within the multi-religious-personal-law system, operating alongside customary Islamic personal law for Burmese Muslims."
     },
     {
       "year": 1954,
-      "title": "Burma Buddhist Women's Special Marriage Act",
-      "description": "Federal Burmese Buddhist marriage statute enacted."
+      "title": "Burma Buddhist Women's Special Marriage Act 1954 — current Buddhist statute",
+      "description": "Burma Buddhist Women's Special Marriage Act 1954 enacted replacing 1939 Act — current operative federal statute governing Burmese Buddhist marriage and family matters in conjunction with customary Dhammathat tradition (Theravada-Buddhist customary-law framework). Dhammathat texts (Manugye Dhammathat among others) supply the substantive personal-law substrate."
+    },
+    {
+      "year": 1991,
+      "title": "Myanmar ratifies UN Convention on the Rights of the Child",
+      "description": "Myanmar ratified the UNCRC on 15 July 1991 — framing the family-law-reform trajectory toward best-interest-of-the-child substantive doctrine; CRC engagement is the operative international children's-rights-monitoring register, with subsequent periodic reports addressing implementation gaps within the multi-religious-personal-law framework."
+    },
+    {
+      "year": 1993,
+      "title": "Child Law 1993 (replaced by 2019)",
+      "description": "First federal Child Law enacted 1993 codifying CRC-aligned child-protection framework — operated as the primary children's-rights statute for 26 years before substantive replacement by Child Rights Law 2019."
+    },
+    {
+      "year": 2008,
+      "title": "Constitution of the Republic of the Union of Myanmar",
+      "description": "Constitution of the Republic of the Union of Myanmar adopted 29 May 2008 by national referendum, effective 31 January 2011 — establishing the current constitutional framework with codified family-protection provisions (Constitution Sec. 32 mothers, children, persons with disabilities), Constitutional Tribunal, and union/state/region legal-administrative architecture."
     },
     {
       "year": 2019,
       "title": "Child Rights Law 2019",
-      "description": "Federal children's-rights statute aligned with UNCRC, replacing 1993 Child Law."
+      "description": "Federal Child Rights Law enacted 23 July 2019 replacing 1993 Child Law — codifying expanded CRC-aligned child-protection mechanisms, juvenile-justice provisions, child-development standards, and explicit child-participation principles. Operates parallel to the multi-religious-personal-law family-law framework."
+    },
+    {
+      "year": 2021,
+      "title": "Post-coup judicial-administrative disruption + ASEAN Five-Point Consensus context",
+      "description": "Tatmadaw coup 1 February 2021 substantially disrupted Myanmar's civilian judicial-administrative framework, with the State Administration Council (SAC) operating parallel governance to the National Unity Government (NUG). Family-law substantive framework formally continues to operate under existing statutes, but implementation has been substantially constrained — ASEAN Five-Point Consensus April 2021 and ongoing political-humanitarian crisis form the contemporary operational context."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court — welfare-of-the-child substantive register in constrained operational context",
+      "description": "Supreme Court continues to develop welfare-of-the-child jurisprudence under Guardians and Wards Act sec. 17 and the multi-religious-personal-law framework in custody disputes — within the constrained operational context following 2021 coup. Substantive welfare-of-the-child analysis without doctrinal 'parental alienation' label as a distinct term."
     }
   ],
   "structural_findings": [
-    "Myanmar operates a structurally distinctive multi-religious-personal-law framework — Buddhist (Dhammathat + 1954 Act), Hindu, Christian, and Muslim (1953 Act) personal laws operating in parallel alongside colonial-era Guardians and Wards Act 1890.",
-    "Customary Dhammathat tradition is structurally distinctive — only jurisdiction in corpus with Theravada-Buddhist customary-law personal-status framework.",
-    "Non-Hague Convention status places Myanmar in the non-Hague Southeast Asian cluster.",
-    "Psychology profession regulation operates through Ministry of Health framework — lacks unified federal-statutory psychology regulator."
+    "Myanmar operates a structurally distinctive multi-religious-personal-law framework — Buddhist (Dhammathat + 1954 Act), Hindu, Christian, and Muslim (1953 Act) personal laws operating in parallel alongside colonial-era Guardians and Wards Act 1890. Closest comparator within corpus is India's similar multi-religious-personal-law framework.",
+    "Customary Dhammathat tradition is structurally distinctive globally — only jurisdiction in corpus with Theravada-Buddhist customary-law personal-status framework (Manugye Dhammathat among the canonical texts) operating as substantive personal-law substrate.",
+    "Post-coup operational-context (1 February 2021 → present) substantially constrains substantive family-law jurisprudence development — Tatmadaw-State-Administration-Council parallel governance to National-Unity-Government framework substantially affects family-court access and implementation. Structurally distinctive contemporary-political-disruption pattern within the corpus.",
+    "Non-Hague-1980-Convention status places Myanmar in the non-Hague-Southeast-Asian cluster alongside Vietnam, Laos, Cambodia, and Brunei.",
+    "Constitutional framework (2008 Constitution Sec. 32) provides constitutional family-protection anchor, with Constitutional Tribunal of the Union for constitutional review — places Myanmar within the constitutional-tribunal-distinct-from-supreme-court cluster.",
+    "Psychology profession regulation operates through Ministry of Health framework — lacks unified federal-statutory psychology regulator typical of European/Anglosphere comparators; structurally similar to Cambodia, Laos, Vietnam, and Brunei.",
+    "Post-1948-independence Burma Laws Act-substrate + 1872-British-Burma-reception-of-English-common-law + colonial-personal-laws structure persists in contemporary Myanmar's mixed-legal framework — illustrating the structural persistence of colonial-era multi-religious-personal-law architecture in independent South-Asian / Southeast-Asian polities."
   ],
   "references": [
     "jurisdiction:thailand",
@@ -123,8 +161,9 @@
     }
   ],
   "editorial_notes": [
-    "Myanmar jurisdiction sidecar — mixed-legal-system framework (English common-law substantive + Buddhist/Hindu/Christian/Muslim personal laws). Buddhist Women's Special Marriage Act 1954 + Muslim Dissolution Act 1953 + Guardians and Wards Act 1890 + Child Rights Law 2019 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southeast Asian + Theravada-Buddhist-customary-personal-law distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Myanmar jurisdiction sidecar v1.1 — deepened 2026-06-08 from 4 to 11 key_developments with full colonial-to-contemporary trajectory: 1872-British-Burma-annexation + 1890-Guardians-and-Wards-Act + 1939-Buddhist-Women-Special-Marriage-Succession-Act-original + 1953-Muslim-Dissolution-of-Marriages-Act + 1954-Buddhist-Women-Special-Marriage-Act-current + 1991-UNCRC-ratification + 1993-Child-Law + 2008-Constitution-Sec-32 + 2019-Child-Rights-Law + 2021-post-coup-disruption-ASEAN-Five-Point-Consensus + 2024-Supreme-Court-welfare-of-the-child-in-constrained-context.",
+    "Mixed-legal-system framework (English common-law substantive + Buddhist/Hindu/Christian/Muslim personal laws) + customary Dhammathat tradition + Buddhist Women's Special Marriage Act 1954 + Muslim Dissolution Act 1953 + Guardians and Wards Act 1890 + Constitution 2008 Sec. 32 + Child Rights Law 2019 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Guardians and Wards Act sec. 17 + multi-religious-personal-law framework without doctrinal 'parental alienation' label.",
+    "Joins Southeast-Asian + mixed-legal-system + Theravada-Buddhist-customary-personal-law-globally-distinctive + multi-religious-personal-law-framework (with India) + post-coup-operational-context-disruption + non-Hague-1980-Convention + colonial-personal-laws-structural-persistence clusters within the corpus."
   ]
 }

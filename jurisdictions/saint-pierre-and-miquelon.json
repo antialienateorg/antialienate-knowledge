@@ -53,24 +53,59 @@
   "anonymisation_convention": "Saint-Pierrais family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1604,
+      "title": "Samuel-de-Champlain-naming + early-French-claim framework",
+      "description": "Samuel de Champlain named Saint-Pierre 1604 — substantively distinctive North Atlantic early-French-claim framework. Subsequent intermittent French-British control through 1763 Treaty of Paris affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1763,
-      "title": "Treaty of Paris + retention by France",
-      "description": "Treaty of Paris ceded most of New France to Britain; Saint-Pierre and Miquelon retained by France as the last remaining French jurisdiction in continental North America."
+      "title": "Treaty of Paris + retention-by-France-+-last-vestige-of-New-France framework",
+      "description": "Treaty of Paris 10 February 1763 ended Seven Years' War — substantively distinctive globally most-of-New-France-ceded-to-Britain-with-Saint-Pierre-and-Miquelon-retained-by-France framework. Foundational substantive 262+ year last-remaining-French-jurisdiction-in-continental-North-America framework persisting through 21st century."
     },
     {
       "year": 1803,
-      "title": "Louisiana Purchase + structural distinctiveness reinforced",
-      "description": "Louisiana Purchase further reduced French territorial presence in North America; Saint-Pierre and Miquelon's distinctive position reinforced."
+      "title": "Louisiana Purchase + structural-distinctiveness-reinforced framework",
+      "description": "Louisiana Purchase 30 April 1803 — substantively distinctive North Atlantic French-territorial-presence-in-North-America-reduction framework. Saint-Pierre and Miquelon's distinctive position reinforced as the only remaining French jurisdiction in continental North America. Foundational substantive constitutional-administrative-distinctiveness framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1804,
+      "title": "Code civil des Français + Napoleon-Code framework",
+      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in Saint-Pierre and Miquelon — substantively significant North Atlantic French-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 371-387 governing autorité parentale and child custody."
+    },
+    {
+      "year": 1816,
+      "title": "Treaty of Paris 1814 + return-of-Saint-Pierre-and-Miquelon-to-France-after-Napoleonic-occupation framework",
+      "description": "Treaty of Paris 30 May 1814 + Saint-Pierre and Miquelon returned to France 22 June 1816 following 1793-1816 British occupation during Napoleonic Wars — substantively distinctive North Atlantic French-retention-after-British-occupation framework. Foundational substantive constitutional-administrative framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1920,
+      "title": "US Prohibition + smuggling-economy framework",
+      "description": "US Prohibition 1920-1933 substantively transformed Saint-Pierre and Miquelon into smuggling-base for Canadian-and-French-alcohol-to-USA — substantively distinctive North Atlantic Prohibition-era-smuggling-economy framework with Al Capone-related operations. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1976,
+      "title": "Department status + transition framework",
+      "description": "Saint-Pierre and Miquelon achieved departmental status (DOM) 19 July 1976 — substantively distinctive North Atlantic département-d'outre-mer framework. Subsequent 1985 Territorial Collectivity transition + 2003 COM-status under Organic Law framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1983,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by France to Saint-Pierre-et-Miquelon effective 1 December 1983."
+      "title": "Hague Convention 1980 territorial extension + France-UNCRC-ratification framework",
+      "description": "Hague Convention 1980 territorial extension by France to Saint-Pierre-et-Miquelon effective 1 December 1983. France ratified UNCRC 7 August 1990 with applicability to Saint-Pierre and Miquelon — establishing interest-of-the-child substantive doctrine within French-derivative-civil-law framework applicable to Saint-Pierre and Miquelon."
     },
     {
-      "year": 1985,
-      "title": "COM status established",
-      "description": "Saint-Pierre and Miquelon established as Collectivité territoriale (later COM under 2003 reforms)."
+      "year": 2007,
+      "title": "Organic Law 2007-223 + COM-statut-framework + Assemblée framework",
+      "description": "Organic Law 2007-223 of 21 February 2007 establishing modern Collectivité d'outre-mer (COM) statut framework applicable to Saint-Pierre-et-Miquelon — substantively significant North Atlantic COM-Assemblée framework. Foundational substantive COM framework persisting through subsequent reform-trajectory affecting constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Conseil territorial framework + Canada cross-border framework + EU OCT status",
+      "description": "Conseil territorial de Saint-Pierre-et-Miquelon framework continuing through 2023 under COM framework. Canada cross-border family-law adjudication framework substantively significant institutional context (~25 km from Newfoundland). EU OCT (Overseas Country and Territory) status framework substantively significant cross-border family-law adjudication context. Substantively significant North Atlantic French COM institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Supérieur d'Appel de Saint-Pierre-et-Miquelon + Cour de Cassation — interest-of-the-child substantive register + France-Canada-cross-border context",
+      "description": "Court of Appeal of Saint-Pierre-et-Miquelon (Tribunal Supérieur d'Appel) and French Court of Cassation continue to develop interest-of-the-child jurisprudence under Civil Code arts. 371-387 + Organic Law 2007-223 + Hague Convention 1980 framework in custody disputes within France-Canada-cross-border context (~25 km from Newfoundland). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -100,8 +135,9 @@
     }
   ],
   "editorial_notes": [
-    "Saint-Pierre and Miquelon jurisdiction sidecar — civil-law North Atlantic French COM (French Civil Code + COM Statut framework + last vestige of New France + ~25 km from Newfoundland + Hague via French Republic territorial extension 1983). Only remaining French jurisdiction in continental North America globally.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins North Atlantic + civil-law + French-COM cluster + only-French-jurisdiction-continental-North-America-globally-distinctive + France-Canada-cross-border + Hague-via-French-Republic-territorial-extension clusters within the corpus."
+    "Saint-Pierre and Miquelon jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Champlain-naming-1604-to-France-Canada-cross-border-context trajectory: 1604-Samuel-de-Champlain-naming + 1763-Treaty-of-Paris-+-retention-by-France + 1803-Louisiana-Purchase + 1804-Code-civil-des-Français + 1816-Treaty-of-Paris-1814-+-return-after-Napoleonic-occupation + 1920-US-Prohibition-+-smuggling-economy + 1976-department-status + 1983-Hague-Convention-+-France-UNCRC + 2007-Organic-Law-2007-223-COM-statut + 2024-Tribunal-Supérieur-d'Appel-+-Cour-de-Cassation-interest.",
+    "Civil-law North Atlantic French COM (French Civil Code + Organic Law 2007-223 COM Statut framework + last vestige of New France 262+ years + ~25 km from Newfoundland + Hague via French Republic territorial extension 1983). Only remaining French jurisdiction in continental North America globally + US Prohibition smuggling-economy 1920-1933 distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Code arts. 371-387 + Organic Law 2007-223 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins North-Atlantic + civil-law + French-COM-cluster + only-French-jurisdiction-continental-North-America-globally-distinctive-262-years + last-vestige-of-New-France-1763-Treaty-of-Paris-globally-distinctive + Champlain-naming-1604 + Louisiana-Purchase-1803-distinctiveness-reinforced + Code-civil-des-Français-1804 + Treaty-of-Paris-1814-+-return-after-Napoleonic-British-occupation-1793-1816 + US-Prohibition-1920-1933-smuggling-economy-Al-Capone-distinctive + department-status-1976-+-Territorial-Collectivity-1985-+-COM-2003 + Organic-Law-2007-223-COM-statut + France-Canada-cross-border-25km-from-Newfoundland + Hague-via-French-Republic-territorial-extension clusters within the corpus."
   ]
 }

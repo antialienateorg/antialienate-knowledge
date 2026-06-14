@@ -75,37 +75,57 @@
     {
       "year": -700,
       "title": "Phoenician founding of Rusaddir",
-      "description": "Phoenician founding of Rusaddir 7th century BCE — earliest formal urban-settlement framework over Melilla."
+      "description": "Phoenician founding of Rusaddir 7th century BCE — earliest formal urban-settlement framework over Melilla + foundation framework predating subsequent Carthaginian + Roman Rusaddir + Visigothic + Byzantine + Arab Berber Caliphate frameworks."
+    },
+    {
+      "year": 42,
+      "title": "Roman Mauretania Tingitana incorporation",
+      "description": "Roman Mauretania Tingitana province incorporation 42 CE under Emperor Claudius — Rusaddir (Roman Melilla) integrated into Roman provincial framework. Pivotal pre-modern Roman-administrative framework foundation predating subsequent Visigothic-Byzantine-Arab frameworks."
     },
     {
       "year": 700,
       "title": "Arab Berber Caliphate conquest",
-      "description": "Arab Berber Umayyad Caliphate conquest of Melilla 700s — beginning of formal Arab Berber framework over Melilla 700s-1497."
+      "description": "Arab Berber Umayyad Caliphate conquest of Melilla 700s — beginning of formal Arab Berber framework over Melilla 700s-1497 + various Berber dynastic frameworks. Pivotal medieval Islamic framework predating subsequent 1497 Spanish reconquest framework."
     },
     {
       "year": 1497,
       "title": "Spanish conquest by Pedro de Estopiñán",
-      "description": "Pedro de Estopiñán Castilian conquest of Melilla 17 September 1497 — beginning of formal Spanish framework over Melilla 1497+ 528+ years."
+      "description": "Pedro de Estopiñán Castilian conquest of Melilla 17 September 1497 — beginning of formal Spanish framework over Melilla 1497+ 528+ years + structurally distinctive globally longest-continuously-Spanish sub-national territory + predating Christopher Columbus' first Atlantic crossing by 5 years + only Spanish sub-national territory predating Spanish Reconquista completion 1492 framework by only 5 years."
     },
     {
       "year": 1860,
       "title": "Treaty of Wad-Ras + Spanish-Moroccan War",
-      "description": "Treaty of Wad-Ras signed 26 April 1860 — formal Spanish-Moroccan treaty following Spanish-Moroccan War 1859-1860 confirming Spanish framework over Melilla."
+      "description": "Treaty of Wad-Ras signed 26 April 1860 — formal Spanish-Moroccan treaty following Spanish-Moroccan War 1859-1860 (Hispano-Moroccan War / African War / Tetuán War) confirming Spanish framework over Melilla + foundation for subsequent Spanish-Moroccan-territorial framework consolidation."
     },
     {
       "year": 1956,
       "title": "Moroccan independence + sovereignty claim",
-      "description": "Moroccan independence 2 March 1956 — beginning of formal Moroccan sovereignty claim over Ceuta + Melilla."
+      "description": "Moroccan independence 2 March 1956 — beginning of formal Moroccan sovereignty claim over Ceuta + Melilla + pivotal post-colonial-context framework foundation + structurally distinctive globally only modern contested Spanish-Moroccan sovereignty framework + continuing Moroccan formal sovereignty claim 2024."
     },
     {
       "year": 1978,
       "title": "Constitution of Spain + Article 144(b)",
-      "description": "Constitution of Spain adopted 27 December 1978 — Article 144(b) establishing framework for Autonomous Cities."
+      "description": "Constitution of Spain adopted 27 December 1978 — Article 144(b) establishing framework for Autonomous Cities — pivotal modern constitutional foundation framework + foundation for subsequent 1995 Statute of Autonomy of Melilla framework."
     },
     {
       "year": 1995,
       "title": "Statute of Autonomy of Melilla",
-      "description": "Spanish Federal Organic Law 2/1995 of 13 March 1995 — formal Statute of Autonomy of Melilla, formal Autonomous City framework."
+      "description": "Spanish Federal Organic Law 2/1995 of 13 March 1995 — formal Statute of Autonomy of Melilla, formal Autonomous City framework + structurally distinctive globally one of two Spanish Autonomous Cities (with Ceuta) under constitutionally distinct sui generis territorial framework."
+    },
+    {
+      "year": 2020,
+      "title": "Schengen border framework + EU external border",
+      "description": "Continuing EU external-border framework 2020+ — Melilla operates as EU external Schengen border with Morocco + ~12 km fence + frequent migration crises including June 2022 Melilla border-crossing incident with multiple migrant casualties + pivotal modern EU-external-border framework context."
+    },
+    {
+      "year": 2023,
+      "title": "Juan-José-Imbroda PP Government + Asamblea-de-Melilla + Defensor-del-Pueblo + Spain-Morocco-rapprochement framework",
+      "description": "Juan José Imbroda (PP) President framework continuing through 2023 following May 2023 elections with Asamblea de Melilla institutional positions addressing PA-related issues within Spanish Civil Code 1889 framework applied via Tribunal Superior de Justicia de Andalucía Ceuta y Melilla. Defensor del Pueblo institutional positions affecting cross-border family-law adjudication. Continuing Spain-Morocco rapprochement framework (April 2022+ Pedro Sánchez recognition of Moroccan Western-Sahara autonomy plan) substantively significant institutional context. Substantively significant North African Spanish-Autonomous-City institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing Spanish-Moroccan sovereignty contestation + Autonomous City framework",
+      "description": "Continuing Melilla framework 2024 — continuing Spanish-Moroccan sovereignty contestation + continuing Autonomous City of Melilla framework + continuing multi-religious + multi-cultural framework (~50% Christian + ~45% Muslim + ~5% Jewish + ~1% Hindu Spanish-Indian-community) + continuing EU external-border framework + 528 years since 1497 Pedro de Estopiñán Castilian conquest."
     }
   ],
   "structural_findings": [
@@ -134,7 +154,7 @@
     }
   ],
   "editorial_notes": [
-    "Melilla jurisdiction sidecar — civil-law North African Spanish Autonomous City (Constitution of Spain 1978 Article 144(b) + Statute of Autonomy of Melilla 1995 + Spanish Civil Code 1889 + Phoenician Rusaddir 7th century BCE + Arab Berber 700s-1497 + Pedro de Estopiñán Castilian conquest 1497 + Treaty of Wad-Ras 1860 + Moroccan sovereignty claim 1956+ + Spanish-Sephardic-Jewish-community + Spanish-Indian-Sindhi-community + Spanish Hague-1980). One of two modern European Union sub-national territories located on the African mainland + one of two Spanish Autonomous Cities + longest-continuously-Spanish sub-national territory globally + central jurisdiction of one of most contested modern Spanish-Moroccan sovereignty frameworks + distinctive multi-religious + multi-cultural Spanish sub-national jurisdiction framework + 1497 Castilian conquest pre-Reconquista-completion framework. Spanish Autonomous Cities duo complete (Ceuta + Melilla).",
+    "Melilla jurisdiction sidecar v1.1 — civil-law North African Spanish Autonomous City (-700 Phoenician Rusaddir + 42 Roman Mauretania Tingitana + 700 Arab Berber Umayyad Caliphate + 1497 Pedro de Estopiñán Castilian conquest + 1860 Treaty of Wad-Ras + 1956 Moroccan independence sovereignty claim + 1978 Constitution Article 144(b) + 1995 Statute of Autonomy of Melilla + 2020 Schengen border framework + 2022 border crossing incident + 2024 continuing Spanish-Moroccan sovereignty contestation). One of two modern European Union sub-national territories located on the African mainland + one of two Spanish Autonomous Cities + longest-continuously-Spanish sub-national territory globally (528 years) + central jurisdiction of one of most contested modern Spanish-Moroccan sovereignty frameworks + distinctive multi-religious + multi-cultural Spanish sub-national jurisdiction framework + 1497 Castilian conquest pre-Reconquista-completion framework. Spanish Autonomous Cities duo complete (Ceuta + Melilla).",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins North-African + civil-law + Spanish-Autonomous-City cluster + Spanish-EU-sub-national-territory-on-African-mainland-globally-distinctive + Constitution-of-Spain-1978-Article-144-b-Autonomous-Cities + Statute-of-Autonomy-of-Melilla-1995 + Pedro-de-Estopiñán-1497-conquest-longest-continuously-Spanish + Treaty-of-Wad-Ras-1860 + Moroccan-sovereignty-claim-1956+ + Spanish-Sephardic-Jewish-community + Spanish-Indian-Sindhi-community + Spanish-Hague-1980-1987 clusters within the corpus."
   ]

@@ -48,23 +48,58 @@
   "key_developments": [
     {
       "year": 1926,
-      "title": "Personal Status Law for Non-Muslims 1926",
-      "description": "Federal Personal Status Law for non-Muslims enacted under Anglo-Egyptian colonial administration."
+      "title": "Personal Status Law for Non-Muslims 1926 + Anglo-Egyptian framework",
+      "description": "Federal Personal Status Law for non-Muslims enacted under Anglo-Egyptian colonial administration 1899-1956 — among the earliest colonial-era African personal-status statutes within the corpus. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1956,
+      "title": "Sudan independence + Republic + Nimeiri-era framework",
+      "description": "Sudan independence 1 January 1956 from Anglo-Egyptian Condominium — substantively distinctive Northeast African post-colonial framework. Subsequent recurring military-coup pattern affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
+      "year": 1969,
+      "title": "Nimeiri coup + 16-year-authoritarian framework",
+      "description": "Gaafar Nimeiri coup d'état 25 May 1969 — substantively distinctive Northeast African 16-year-authoritarian framework 1969-1985. Substantive transition from Marxist-Leninist (1969-1971) to Islamist (1977 reconciliation) framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1983,
       "title": "September Laws — Sharia reform",
-      "description": "Comprehensive Sharia-based legal reform under Nimeiri government — established Hanafi Sharia as primary framework."
+      "description": "Comprehensive Sharia-based legal reform 8 September 1983 under Nimeiri government — established Hanafi Sharia as primary framework. Substantively distinctive globally trigger of Second Sudanese Civil War (1983-2005) due to imposition on Christian/animist South. Foundational pre-1991-Muslim-Personal-Status-Law framework."
+    },
+    {
+      "year": 1989,
+      "title": "Bashir coup + National Islamic Front + 30-year-Islamist-regime framework",
+      "description": "Omar al-Bashir coup d'état 30 June 1989 ending Sadiq al-Mahdi government — substantively distinctive Northeast African 30-year-Islamist-regime framework 1989-2019. Substantive National Islamic Front + National Congress Party framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Sudan ratifies UN Convention on the Rights of the Child",
+      "description": "Sudan ratified the UNCRC on 3 August 1990 (with reservations consistent with Islamic Sharia) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 1991 Muslim Personal Status Law substantive doctrine."
     },
     {
       "year": 1991,
       "title": "Muslim Personal Status Law 1991",
-      "description": "Federal Muslim Personal Status Law enacted codifying Hanafi personal-status framework."
+      "description": "Federal Muslim Personal Status Law enacted codifying Hanafi personal-status framework. Arts. 110-134 govern hadana (custody) and wilaya (guardianship). Substantively significant Islamic-law-codification framework persisting through subsequent regime-changes."
+    },
+    {
+      "year": 2009,
+      "title": "ICC arrest warrant for Bashir + War-in-Darfur framework",
+      "description": "International Criminal Court arrest warrant for Omar al-Bashir 4 March 2009 — substantively distinctive globally first-ICC-arrest-warrant-for-sitting-head-of-state framework. War in Darfur 2003-2020 substantively distinctive Northeast African armed-conflict framework with estimated 300,000 killed substantially affecting demographic and family-law-implementation framework."
     },
     {
       "year": 2019,
-      "title": "Post-Bashir transitional government",
-      "description": "Bashir government overthrown; transitional government signalled (partial) reform of Sharia-based provisions."
+      "title": "Post-Bashir transitional government + Sudanese Revolution framework",
+      "description": "Bashir government overthrown 11 April 2019 following Sudanese Revolution (December 2018-April 2019) — substantively distinctive Northeast African pro-democracy-protest framework. Transitional government signalled (partial) reform of Sharia-based provisions affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Sudan Civil War 2023-onwards + SAF-RSF conflict framework",
+      "description": "Sudan Civil War 15 April 2023-onwards between Sudanese Armed Forces (Burhan) and Rapid Support Forces (Hemedti) — substantively distinctive globally largest-displacement-crisis-currently framework with estimated 150,000+ killed and 12+ million displaced through 2026 substantially affecting demographic and family-law-implementation framework. Substantive cross-border-jurisdiction-practice framework affecting South-Sudan and Chad refugee-flows."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Personal Status Law operational suspension + UN-OCHA refugee-family-law framework",
+      "description": "Supreme Court of Sudan operational framework substantially affected by ongoing civil war 2023-2024 — Personal Status Law for Muslims 1991 + Personal Status Law for Non-Muslims 2003 (Christians) substantive operational suspension in conflict-affected areas. UN-OCHA + UNHCR coordination framework substantively significant for refugee-family-law adjudication including custody disputes in Chad/Egypt/South-Sudan refugee-host contexts. Substantive Hanafi-Sharia framework continuing in non-conflict areas without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -95,8 +130,9 @@
     }
   ],
   "editorial_notes": [
-    "Sudan jurisdiction sidecar — religious-law Hanafi-Sunni Northeast Africa (Muslim Personal Status Law 1991 + Personal Status Law for Non-Muslims 1926 + non-Hague). 1983 Sharia reform + 2019 transitional reform trajectory.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Northeast African + religious-law + Hanafi-Sunni + parallel-non-Muslim-framework + non-Hague Convention clusters within the corpus."
+    "Sudan jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Anglo-Egyptian-to-2023-Civil-War trajectory: 1926-Personal-Status-Law-for-Non-Muslims-+-Anglo-Egyptian + 1956-Sudan-independence-+-Republic + 1969-Nimeiri-coup-+-16-year-authoritarian + 1983-September-Laws-+-Sharia-reform + 1989-Bashir-coup-+-NIF-+-30-year-Islamist-regime + 1990-UNCRC-ratification + 1991-Muslim-Personal-Status-Law + 2009-ICC-arrest-warrant-+-War-in-Darfur + 2019-Post-Bashir-transitional-+-Sudanese-Revolution + 2023-Sudan-Civil-War-+-SAF-RSF-conflict.",
+    "Religious-law Hanafi-Sunni Northeast Africa (Muslim Personal Status Law 1991 + Personal Status Law for Non-Muslims 1926 + non-Hague). 1983 Sharia reform + 2019 transitional reform trajectory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive family-law analysis under Muslim Personal Status Law 1991 arts. 110-134 + Personal Status Law for Non-Muslims 1926 framework without doctrinal 'parental alienation' label.",
+    "Joins Northeast-African + religious-law-Hanafi-Sunni + parallel-non-Muslim-framework + September-Laws-1983-trigger-Second-Sudanese-Civil-War-1983-2005 + Nimeiri-16-year-authoritarian-1969-1985 + Bashir-30-year-Islamist-regime-1989-2019 + ICC-arrest-warrant-Bashir-2009-first-ICC-arrest-warrant-for-sitting-head-of-state-globally-distinctive + War-in-Darfur-2003-2020-300000-killed + Sudanese-Revolution-2018-2019 + Sudan-Civil-War-2023-onwards-SAF-RSF-Burhan-Hemedti-+-largest-displacement-crisis-currently-globally-150000-killed-12-million-displaced + non-Hague-Convention clusters within the corpus."
   ]
 }

@@ -66,19 +66,59 @@
   "anonymisation_convention": "Roman Rota and ecclesiastical tribunal decisions are typically anonymised per Holy See practice; published decisions use initials.",
   "key_developments": [
     {
+      "year": 1917,
+      "title": "Codex Iuris Canonici 1917 + first-comprehensive-codification framework",
+      "description": "Codex Iuris Canonici 1917 promulgated by Benedict XV 27 May 1917 (effective 19 May 1918) — first comprehensive codification of canon law. Substantively distinctive globally first-comprehensive-canon-law-codification framework. Foundational 20th-century canon-law framework for subsequent 1983 Code reform."
+    },
+    {
       "year": 1929,
-      "title": "Lateran Treaty",
-      "description": "Treaty between Holy See and Italy establishing Vatican City State."
+      "title": "Lateran Treaty + Vatican City State establishment",
+      "description": "Lateran Treaty signed 11 February 1929 between Holy See and Kingdom of Italy — substantively establishing Vatican City State as sovereign-state with worldwide spiritual jurisdiction over Catholic faithful. Substantively distinctive globally: only state with absolute-elective-theocracy + worldwide-spiritual-jurisdiction framework. Foundational sovereign-state framework persisting through contemporary period."
+    },
+    {
+      "year": 1965,
+      "title": "Vatican II + Second Vatican Council + ecclesiastical-reform framework",
+      "description": "Second Vatican Council 1962-1965 substantively reforming ecclesiastical framework — Sacrosanctum Concilium, Lumen Gentium, Gaudium et Spes substantively reshaping Roman Catholic ecclesiastical-pastoral-framework. Substantive theological-reform framework affecting subsequent canon-law-jurisprudence including marriage-validity framework."
     },
     {
       "year": 1983,
-      "title": "Code of Canon Law (Codex Iuris Canonici)",
-      "description": "Code of Canon Law promulgated by John Paul II replacing 1917 Code — effective 27 November 1983."
+      "title": "Code of Canon Law (Codex Iuris Canonici) 1983 + comprehensive-revision framework",
+      "description": "Code of Canon Law promulgated by John Paul II 25 January 1983 (effective 27 November 1983) replacing 1917 Code. Cann. 1055-1165 govern marriage validity and impediments; cann. 1671-1707 govern marriage processes. Substantively significant revision incorporating Vatican-II-theological framework. Foundational substantive-canon-law framework for contemporary marriage-validity-jurisprudence."
+    },
+    {
+      "year": 1990,
+      "title": "Holy See ratifies UN Convention on the Rights of the Child + sovereign-state-treaty-framework",
+      "description": "Holy See ratified the UNCRC 20 April 1990 — substantively distinctive sovereign-state-treaty-making framework. Substantive integration of UNCRC framework into canon-law-jurisprudence on parental responsibility and child welfare in Catholic-ecclesiastical context."
+    },
+    {
+      "year": 2002,
+      "title": "Boston clergy sex abuse crisis 2002 + child-protection-reform trajectory",
+      "description": "Boston clergy sex abuse crisis 2002 substantively documented by Boston Globe Spotlight team. Subsequent worldwide Catholic clergy sex abuse documentation through 2000s-2010s. Substantive child-protection-reform trajectory affecting canon-law-framework including 2001 motu proprio Sacramentorum sanctitatis tutela + Pope Francis reform-trajectory."
     },
     {
       "year": 2015,
-      "title": "Mitis Iudex Dominus Iesus",
-      "description": "Apostolic Letter motu proprio by Pope Francis reforming canon-law marriage-annulment procedure — abolished mandatory double-conformity requirement and introduced abbreviated episcopal process."
+      "title": "Mitis Iudex Dominus Iesus + Mitis et Misericors Iesus + marriage-annulment-reform",
+      "description": "Apostolic Letter motu proprio Mitis Iudex Dominus Iesus (15 August 2015) and Mitis et Misericors Iesus (Eastern Catholic Churches) by Pope Francis reforming canon-law marriage-annulment procedure — abolished mandatory double-conformity requirement and introduced abbreviated episcopal process. Substantively significant canon-law-marriage-framework reform."
+    },
+    {
+      "year": 2019,
+      "title": "Vos Estis Lux Mundi + clergy-accountability framework + Pope Francis-era reform",
+      "description": "Vos Estis Lux Mundi motu proprio 7 May 2019 substantively reforming clergy-accountability framework — mandatory-reporting-of-abuse, anti-cover-up provisions, bishops-and-religious-superiors-accountability framework. Substantively significant child-protection-framework consolidation."
+    },
+    {
+      "year": 2020,
+      "title": "Fiducia Supplicans 2023 + same-sex-blessing framework + canon-law-pastoral framework",
+      "description": "Fiducia Supplicans declaration 18 December 2023 from Dicastery for the Doctrine of the Faith allowing pastoral blessings of same-sex couples in non-liturgical context — substantively distinctive Catholic-ecclesiastical-pastoral framework shift. Substantive ecclesiastical-pastoral-framework evolution affecting subsequent canon-law-jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Synod on Synodality + Pontifical Commission for the Protection of Minors + Pope Francis institutional framework",
+      "description": "Synod on Synodality (2021-2024 process) including First Session October 2023 substantively significant Catholic-ecclesiastical-institutional framework. Pontifical Commission for the Protection of Minors (PCPM) institutional framework addressing child-protection within ecclesiastical jurisdiction including PA-adjacent canonical custody cases. Pope Francis institutional reform stream continuing through 2023 affecting subsequent canon-law-jurisprudence on family-law adjacencies. Substantively significant ecclesiastical institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Roman Rota + Apostolic Signatura — canon-law marriage validity-and-annulment substantive register + Pope Francis successor context",
+      "description": "Apostolic Tribunal of the Roman Rota and Apostolic Signatura continue to develop canon-law marriage-validity-and-annulment jurisprudence under Codex Iuris Canonici 1983 + Mitis Iudex 2015 framework for Catholic faithful worldwide via diocesan tribunals. Substantive analysis within canon-law-framework operating parallel to national family-law-frameworks without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -109,8 +149,9 @@
     }
   ],
   "editorial_notes": [
-    "Holy See jurisdiction sidecar — religious-law sovereign with worldwide spiritual jurisdiction (Code of Canon Law 1983 + Mitis Iudex 2015 + Lateran Treaty 1929 civil-law residual + non-Hague Convention).",
+    "Holy See jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Codex-Iuris-Canonici-1917-to-contemporary trajectory: 1917-Codex-Iuris-Canonici-+-first-comprehensive-codification + 1929-Lateran-Treaty-+-Vatican-City-State-establishment + 1965-Vatican-II-+-Second-Vatican-Council + 1983-Code-of-Canon-Law-+-comprehensive-revision + 1990-UNCRC-ratification + 2002-Boston-clergy-sex-abuse-crisis-+-child-protection-reform + 2015-Mitis-Iudex-Dominus-Iesus-+-marriage-annulment-reform + 2019-Vos-Estis-Lux-Mundi-+-clergy-accountability + 2020-2023-Fiducia-Supplicans-+-same-sex-blessing + 2024-Roman-Rota-+-Apostolic-Signatura-canon-law.",
+    "Religious-law sovereign with worldwide spiritual jurisdiction (Code of Canon Law 1983 + Mitis Iudex 2015 + Lateran Treaty 1929 civil-law residual + non-Hague Convention).",
     "PA-recognition: silent statutory + no-apex-position + silent regulator; canon-law marriage validity/annulment jurisdiction operates worldwide for Catholic faithful but does not address PA as statutory label.",
-    "Joins Southern European + religious-law (canon-law) + sovereign-with-worldwide-spiritual-jurisdiction globally-distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Joins Southern-European + religious-law-canon-law + only-state-with-absolute-elective-theocracy-+-worldwide-spiritual-jurisdiction-framework-globally-distinctive + Codex-Iuris-Canonici-1917-first-comprehensive-canon-law-codification + Lateran-Treaty-1929-establishment + Vatican-II-1965-theological-reform + Mitis-Iudex-Dominus-Iesus-2015-marriage-annulment-reform + Vos-Estis-Lux-Mundi-2019-clergy-accountability + Fiducia-Supplicans-2023-same-sex-blessing-pastoral-framework + non-Hague-Convention clusters within the corpus."
   ]
 }

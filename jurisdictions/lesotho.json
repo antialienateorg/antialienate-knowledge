@@ -54,19 +54,59 @@
   "anonymisation_convention": "Lesotho family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1868,
+      "title": "Basutoland protectorate + Moshoeshoe-Cape-Colony framework",
+      "description": "Basutoland British protectorate 12 March 1868 under King Moshoeshoe I — substantively distinctive Southern African Sotho-kingdom-British-protectorate framework. Foundational pre-independence framework affecting subsequent constitutional-monarchy-trajectory. Distinctively distinct from later 1871-1884 Cape Colony annexation."
+    },
+    {
       "year": 1903,
-      "title": "Laws of Lerotholi",
-      "description": "First codification of Sesotho customary law."
+      "title": "Laws of Lerotholi + first-customary-law-codification framework",
+      "description": "Laws of Lerotholi first codification 1903 — substantively distinctive earliest codification of Sesotho customary-law (and one of the earliest African customary-law codifications globally). Foundational customary-law-codification framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1966,
+      "title": "Lesotho independence + Constitutional-monarchy framework",
+      "description": "Lesotho independence 4 October 1966 from the United Kingdom — establishing constitutional-monarchy framework under King Moshoeshoe II. Substantively distinctive Southern African Sotho-monarchy framework. Foundational independence framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1974,
-      "title": "Marriage Act 10/1974",
-      "description": "Federal statutory marriage statute enacted."
+      "title": "Marriage Act 10/1974 + statutory-marriage framework",
+      "description": "Marriage Act 10/1974 enacted establishing federal statutory marriage framework supplementing Laws of Lerotholi customary-marriage framework. Substantively significant family-law statutory-modernisation framework."
+    },
+    {
+      "year": 1992,
+      "title": "Lesotho ratifies UN Convention on the Rights of the Child + democratic-transition framework",
+      "description": "Lesotho ratified the UNCRC on 10 March 1992 — substantively significant child-rights framework integration. Substantive democratic-transition 1991-1993 establishing contemporary constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "Constitution of Lesotho 1993 + multi-party-democratic framework",
+      "description": "Constitution of Lesotho 1993 adopted 2 April 1993 substantively reforming political-institutional framework establishing contemporary multi-party-democratic-constitutional-monarchy framework. Substantive constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 1998,
+      "title": "1998 Lesotho political crisis + SADC intervention framework",
+      "description": "1998 Lesotho political crisis September 1998 substantively disrupting political-institutional framework — South African and Botswanan SADC intervention. Substantively distinctive Southern African SADC-intervention pattern affecting subsequent democratic-trajectory."
     },
     {
       "year": 2011,
-      "title": "Children's Protection and Welfare Act",
-      "description": "Federal Children's Protection and Welfare Act enacted codifying best-interests principle, parental responsibility, custody, and children's protection."
+      "title": "Children's Protection and Welfare Act 2011 + UNCRC-aligned framework",
+      "description": "Children's Protection and Welfare Act 7/2011 enacted 9 March 2011 codifying best-interests-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions. Substantively significant child-protection-framework consolidation within Southern African mixed-legal-system framework."
+    },
+    {
+      "year": 2017,
+      "title": "Constitutional reform + national-dialogue framework",
+      "description": "Constitutional reform discussions through 2017-2020s — substantive National Reforms Authority Act 2019 framework affecting subsequent constitutional-democratic-trajectory. Substantive ongoing constitutional-reform framework affecting family-law-cross-cutting-areas."
+    },
+    {
+      "year": 2023,
+      "title": "Office of the Ombudsman + LNFOD + family-law National Reforms framework continuation",
+      "description": "Office of the Ombudsman institutional position and Lesotho National Federation of Organisations of the Disabled (LNFOD) framework addressing PA-related issues within Children's Protection and Welfare Act 2011 + Marriage Act 10/1974 + Laws of Lerotholi framework. National Reforms Authority continuing constitutional-reform framework through 2022-2023. Substantively significant Southern African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Lesotho + Constitutional Court + customary Local Courts — best-interests-of-the-child substantive register",
+      "description": "Court of Appeal of Lesotho, Constitutional Court (sitting as High Court), and customary Local Courts continue to develop best-interests-of-the-child jurisprudence under Children's Protection and Welfare Act 2011 s. 4 + Marriage Act 10/1974 + Laws of Lerotholi framework in custody disputes within Southern African mixed-legal-system framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -96,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Lesotho jurisdiction sidecar — mixed-legal-system Southern Africa (Roman-Dutch substantive + English common-law procedural + Sesotho customary-law personal-status via Laws of Lerotholi). Children's Protection and Welfare Act 2011 + Marriage Act 1974 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southern African + Roman-Dutch + mixed-legal-system + customary-law-codified-1903 + non-Hague Convention clusters within the corpus."
+    "Lesotho jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Basutoland-protectorate-to-contemporary trajectory: 1868-Basutoland-protectorate-+-Moshoeshoe-Cape-Colony + 1903-Laws-of-Lerotholi-+-first-customary-law-codification + 1966-Lesotho-independence-+-Constitutional-monarchy + 1974-Marriage-Act-+-statutory-marriage + 1992-UNCRC-+-democratic-transition + 1993-Constitution-of-Lesotho-+-multi-party-democratic + 1998-1998-Lesotho-political-crisis-+-SADC-intervention + 2011-Children's-Protection-and-Welfare-Act + 2017-Constitutional-reform-+-national-dialogue + 2024-Court-of-Appeal-+-Constitutional-Court-+-customary-Local-Courts-best-interests.",
+    "Mixed-legal-system Southern Africa (Roman-Dutch substantive + English common-law procedural + Sesotho customary-law personal-status via Laws of Lerotholi). Children's Protection and Welfare Act 2011 + Marriage Act 1974 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Children's Protection and Welfare Act 2011 s. 4 + Marriage Act 1974 + Laws of Lerotholi framework without doctrinal 'parental alienation' label.",
+    "Joins Southern-African + Roman-Dutch + mixed-legal-system + customary-law-codified-1903-earliest-African + Sotho-constitutional-monarchy-Moshoeshoe-II + Basutoland-protectorate-1868 + 1998-Lesotho-political-crisis-+-SADC-intervention + National-Reforms-Authority-Act-2019 + non-Hague-Convention clusters within the corpus."
   ]
 }

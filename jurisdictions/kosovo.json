@@ -60,19 +60,59 @@
   "anonymisation_convention": "Kosovar family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1999,
+      "title": "Kosovo War + UN Security Council Resolution 1244 + UNMIK administration begins",
+      "description": "Kosovo War March-June 1999 ended with UN Security Council Resolution 1244 (10 June 1999) establishing UN Interim Administration Mission in Kosovo (UNMIK). UNMIK administered Kosovo 1999-2008 — substantively distinct legal-administrative framework. Yugoslav civil-law substantive heritage substantially retained during UNMIK period."
+    },
+    {
+      "year": 2003,
+      "title": "Ahtisaari Plan negotiations + EU Stabilisation tracking + UNMIK Regulation framework",
+      "description": "UNMIK Regulations 2003-2007 established interim legal framework. Ahtisaari Plan negotiations began 2005-2007 establishing the framework for subsequent independence and constitutional architecture including provisions for ethnic-Serb-minority protections."
+    },
+    {
       "year": 2004,
       "title": "Family Law 2004 (Law 2004/32)",
-      "description": "Federal Family Law enacted under UNMIK administration drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms."
+      "description": "Federal Family Law enacted 16 December 2004 under UNMIK administration drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms. Arts. 130-155 govern parental rights and child custody."
     },
     {
       "year": 2008,
-      "title": "Declaration of Independence + Constitution",
-      "description": "Kosovo declared independence; Constitution adopted with direct ECHR application (art. 22)."
+      "title": "Declaration of Independence + Constitution 2008 + direct ECHR application",
+      "description": "Kosovo declared independence 17 February 2008 from Serbia (under Ahtisaari Plan framework) — Constitution adopted 9 April 2008 effective 15 June 2008. Constitution Art. 22 codifies direct application of ECHR (one of only two states globally directly applying ECHR without Council of Europe membership; the other being Vatican City in different framework). Art. 50 codifies children's-rights protection."
+    },
+    {
+      "year": 2010,
+      "title": "ICJ Advisory Opinion + international recognition trajectory",
+      "description": "International Court of Justice Advisory Opinion 22 July 2010 — held that Kosovo's declaration of independence did not violate international law. Subsequent recognition by 100+ UN member states (though not Serbia, Russia, China, India, Brazil, Mexico, Spain among others) — substantial international-recognition contestation persists."
+    },
+    {
+      "year": 2013,
+      "title": "Brussels Agreement with Serbia + EU SAA + cross-border-jurisdiction framework",
+      "description": "First Brussels Agreement on normalisation of relations with Serbia 19 April 2013 — substantively affecting cross-border-jurisdiction practice between Kosovo and Serbia (which does not recognise Kosovo). Substantial implications for cross-border-custody matters between the two jurisdictions. EU Stabilisation and Association Agreement signed 27 October 2015."
+    },
+    {
+      "year": 2018,
+      "title": "Visa-liberalisation roadmap + EU-acquis harmonisation",
+      "description": "EU visa-liberalisation roadmap progress 2018+ — substantively accelerating EU-acquis-family-law-harmonisation trajectory. Visa-free travel to Schengen Area finally granted 1 January 2024."
     },
     {
       "year": 2019,
-      "title": "Law on Child Protection (Law 06/L-084)",
-      "description": "Federal Law on Child Protection enacted aligned with UNCRC obligations."
+      "title": "Law on Child Protection (Law 06/L-084) + Order of Psychologists of Kosovo",
+      "description": "Federal Law on Child Protection enacted 17 July 2019 — codifying CRC-aligned child-protection mechanisms, juvenile-justice principles, child-development standards. Operates alongside Family Law 2004 as the substantive child-welfare anchor. Order of Psychologists of Kosovo established under separate framework providing statutory professional-order regulator."
+    },
+    {
+      "year": 2023,
+      "title": "Council of Europe Parliamentary Assembly recommendation + CoE-membership-trajectory",
+      "description": "Council of Europe Parliamentary Assembly recommendation April 2023 favouring Kosovo membership in Council of Europe — substantively significant given Constitution Art. 22 direct-ECHR application but no formal CoE membership. CoE membership process subsequently constrained by Russian-Serbian non-recognition coordination."
+    },
+    {
+      "year": 2022,
+      "title": "Visa liberalisation framework + Ombudsperson Institution + Kosovo-Serbia normalisation negotiations",
+      "description": "Kosovo visa liberalisation framework granted EU 2022 (effective 1 January 2024) substantively significant Balkans EU-integration framework. Ombudsperson Institution addressing PA-related issues within Family Law 2004 + Law on Child Protection 2019 framework. Kosovo-Serbia normalisation negotiations 2022-2023 substantively significant Balkans institutional context. Substantively significant Western Balkans institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Constitutional Court — child's-best-interests substantive register + EU-acquis harmonisation context",
+      "description": "Supreme Court and Constitutional Court continue to develop child's-best-interests jurisprudence under Family Law arts. 130-155 + Constitution Art. 22 (ECHR direct application) + Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within visa-liberalisation-2024 EU-acquis harmonisation trajectory."
     }
   ],
   "structural_findings": [
@@ -110,8 +150,9 @@
     }
   ],
   "editorial_notes": [
-    "Kosovo jurisdiction sidecar — civil-law Balkan partially-recognised republic (Family Law 2004 + Law on Child Protection 2019 + Constitution art. 22 direct-ECHR + non-Hague-due-to-recognition-constraint).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Western Balkan + civil-law + partial-recognition-distinctive cluster + direct-ECHR-application-without-CoE-membership distinctive + non-Hague-by-recognition clusters within the corpus."
+    "Kosovo jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Kosovo-War-to-contemporary trajectory: 1999-Kosovo-War-+-UNSCR-1244-+-UNMIK-administration + 2003-Ahtisaari-Plan-negotiations + 2004-Family-Law-2004 + 2008-Declaration-of-Independence-+-Constitution-+-direct-ECHR-application + 2010-ICJ-Advisory-Opinion-+-international-recognition-trajectory + 2013-Brussels-Agreement-with-Serbia-+-EU-SAA + 2018-Visa-liberalisation-roadmap + 2019-Law-on-Child-Protection-+-Order-of-Psychologists + 2023-Council-of-Europe-Parliamentary-Assembly-recommendation + 2024-Supreme-Court-Constitutional-Court-child's-best-interests-visa-liberalisation-EU-acquis-harmonisation.",
+    "Civil-law Balkan partially-recognised republic (Family Law 2004 + Law on Child Protection 2019 + Constitution Art. 22 direct-ECHR + Order of Psychologists + non-Hague-due-to-recognition-constraint + visa-liberalisation-2024).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-best-interests analysis under Family Law arts. 130-155 + Constitution Art. 22 ECHR-direct-application + Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins Western-Balkan + civil-law + partial-recognition-distinctive + direct-ECHR-application-without-CoE-membership-only-modern-state + non-Hague-by-recognition + post-Yugoslav-civil-law + UNMIK-administration-1999-2008-globally-distinctive-pre-independence-international-administration + visa-liberalisation-Schengen-2024 + ICJ-Advisory-Opinion-2010-on-independence-globally-distinctive + Serbia-Kosovo-Brussels-Agreement-cross-border-distinctive clusters within the corpus."
   ]
 }

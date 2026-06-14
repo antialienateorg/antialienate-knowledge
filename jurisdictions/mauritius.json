@@ -53,34 +53,59 @@
   "anonymisation_convention": "Mauritian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1715,
+      "title": "French-colonisation + Isle-de-France-framework",
+      "description": "French colonisation of Mauritius (then Isle de France) 1715 by Guillaume Dufresne d'Arsel — substantively distinctive Indian Ocean French-colonial-+-Code-Napoléon-substantive-heritage framework. Subsequent 1721 Compagnie française des Indes orientales settlement. Foundational pre-1810-British-acquisition framework affecting subsequent constitutional-administrative-trajectory and French-civil-law substantive heritage."
+    },
+    {
       "year": 1810,
-      "title": "British colonial administration",
-      "description": "Mauritius transferred from French to British colonial administration; Civil Code substantive heritage retained with English common-law procedural inheritance."
+      "title": "British colonial administration + Civil-Code-retained-+-Code-Napoléon-preservation framework",
+      "description": "Mauritius transferred from French to British colonial administration 3 December 1810 — substantively distinctive globally Civil-Code-substantive-heritage-retained-with-English-common-law-procedural-inheritance framework. Foundational substantive 216-year Quebec-pattern-French-civil-+-English-common-law-procedural-hybrid framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1968,
-      "title": "Independence",
-      "description": "Mauritius achieved independence from the United Kingdom; retained JCPC as final appellate court."
+      "title": "Independence + JCPC-retention framework",
+      "description": "Mauritius achieved independence from the United Kingdom 12 March 1968 — substantively distinctive globally only-African-corpus-jurisdiction-with-JCPC-final-appellate-jurisdiction framework. Retained JCPC as final appellate court. Foundational substantive 58-year independent-republic-+-JCPC framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Mauritius ratifies UN Convention on the Rights of the Child framework",
+      "description": "Mauritius ratified UNCRC 26 July 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 1994 Child Protection Act + 2020 Children's Act substantive doctrine."
+    },
+    {
+      "year": 1992,
+      "title": "Mauritius becomes a Republic + Westminster-republic-framework",
+      "description": "Mauritius became a Republic 12 March 1992 — substantively distinctive Indian Ocean Westminster-republic-framework with President as Head of State replacing British monarch. Foundational substantive 33-year Mauritian-Republic framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1993,
-      "title": "Hague Convention 1980 accession",
-      "description": "Mauritius acceded to the Hague Convention 1980 effective 1 February 1993 — among earliest African Hague accessions."
+      "title": "Hague Convention 1980 accession + earliest-African-Hague-accession framework",
+      "description": "Mauritius acceded to the Hague Convention 1980 effective 1 February 1993 — substantively distinctive globally among-earliest-African-Hague-accessions framework. Foundational substantive cross-border-jurisdiction-practice framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 1994,
-      "title": "Child Protection Act",
-      "description": "Federal Child Protection Act enacted."
+      "title": "Child Protection Act + child-protection-codification framework",
+      "description": "Federal Child Protection Act 1994 enacted establishing child-protection framework — substantively significant Indian Ocean Mauritian-child-protection-codification framework. Foundational substantive child-protection framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2017,
-      "title": "Family Court established",
-      "description": "Specialised Family Court established within Supreme Court framework."
+      "title": "Family Court + specialised-Family-Court framework",
+      "description": "Specialised Family Court established within Supreme Court framework 2017 — substantively distinctive Indian Ocean Mauritian-specialised-Family-Court framework. Foundational substantive specialised-family-court framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2020,
-      "title": "Children's Act 2020 (Act 13/2020)",
-      "description": "Federal Children's Act enacted codifying best-interests principle, parental responsibility, custody, and children's protection."
+      "title": "Children's Act 2020 + best-interests-codification framework",
+      "description": "Federal Children's Act (Act 13/2020) 2020 enacted codifying best-interests-of-the-child principle (s. 4), parental responsibility, custody, and children's protection — substantively significant Indian Ocean Mauritian-Children's-Act-codification framework. Foundational substantive children's-rights framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Ombudsperson for Children + Ramgoolam framework + Chagos-Archipelago-pre-transfer framework",
+      "description": "Ombudsperson for Children institutional position addressing PA-related issues within Children's Act 2020 + Civil Code framework. Pravind Jugnauth (MSM) continuing premiership through 2024 then Navin Ramgoolam (MMM-Labour) election November 2024 substantively significant political-transition context. Chagos Archipelago pre-transfer framework substantively significant institutional context establishing trajectory toward 2024 UK-Mauritius sovereignty transfer agreement. Substantively significant Indian Ocean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Mauritius + JCPC — best-interests-of-the-child substantive register + continuing-Chagos-Archipelago-sovereignty context framework",
+      "description": "Supreme Court of Mauritius and JCPC continue to develop best-interests-of-the-child jurisprudence under Children's Act 2020 s. 4 + Civil Code 1804 arts. 371-387 + Hague Convention 1980 framework in custody disputes within continuing Chagos Archipelago sovereignty transfer context (2024 UK-Mauritius sovereignty transfer agreement). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -117,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Mauritius jurisdiction sidecar — mixed-legal-system Indian Ocean (French civil-law substantive Code Napoléon + English common-law procedural + JCPC final-appellate + Children's Act 2020 + Hague Convention 1980 accession 1993).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Indian Ocean + mixed-legal-system + Quebec-pattern-French-civil-English-procedural + only-African-JCPC + early-African-Hague Convention clusters within the corpus."
+    "Mauritius jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full French-colonisation-1715-to-continuing-Chagos-Archipelago-sovereignty trajectory: 1715-French-colonisation-Isle-de-France + 1810-British-colonial-administration + 1968-Independence + 1990-Mauritius-UNCRC-ratification + 1992-Mauritius-becomes-Republic + 1993-Hague-Convention-accession + 1994-Child-Protection-Act + 2017-Family-Court + 2020-Children's-Act + 2024-Supreme-Court-+-JCPC-+-Chagos-sovereignty-context.",
+    "Mixed-legal-system Indian Ocean (French civil-law substantive Code Napoléon + English common-law procedural + JCPC final-appellate + Children's Act 2020 + Hague Convention 1980 accession 1993). Quebec/Saint-Lucia pattern (French-civil-substantive + English-common-law-procedural hybrid) globally distinctive within African corpus + only African corpus jurisdiction with JCPC final-appellate jurisdiction + among earliest African Hague accessions 1993 + continuing Chagos Archipelago sovereignty transfer context.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Children's Act 2020 s. 4 + Civil Code 1804 arts. 371-387 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Indian-Ocean + mixed-legal-system + Quebec-pattern-French-civil-English-procedural-globally-distinctive + only-African-corpus-jurisdiction-with-JCPC-final-appellate-jurisdiction-globally-distinctive + earliest-African-Hague-accessions-1993 + French-colonisation-Isle-de-France-1715-Code-Napoléon-substantive-heritage + British-colonial-administration-1810-Civil-Code-retained + Independence-1968-Westminster-realm + Mauritius-becomes-Republic-1992-Westminster-republic + Family-Court-2017-specialised + Children's-Act-2020-Act-13/2020 + continuing-Chagos-Archipelago-sovereignty-transfer-2024-UK-Mauritius-agreement clusters within the corpus."
   ]
 }

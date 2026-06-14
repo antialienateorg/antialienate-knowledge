@@ -53,29 +53,59 @@
   "anonymisation_convention": "Saint-Barthélemoise family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1648,
+      "title": "First-French-colonisation + Knights-of-Malta-tenure framework",
+      "description": "First French colonisation of Saint-Barthélemy 1648 (later under Knights of Malta tenure 1651-1664) — substantively distinctive Caribbean French-Knights-of-Malta-tenure framework. Foundational pre-1784-Swedish-cession framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1784,
-      "title": "Swedish colonial period begins",
-      "description": "France ceded Saint-Barthélemy to Sweden in exchange for trading privileges in Gothenburg — Sweden's only Caribbean colony ever (1784-1878)."
+      "title": "Swedish colonial period begins + Gothenburg-trading-privileges-exchange + Sweden's-only-Caribbean-colony framework",
+      "description": "France ceded Saint-Barthélemy to Sweden 1 July 1784 in exchange for trading privileges in Gothenburg — substantively distinctive globally Sweden's-only-Caribbean-colony-ever framework. Capital renamed Gustavia after King Gustav III. Foundational substantive 94-year Swedish-colonial framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1804,
+      "title": "Code civil des Français + Napoleon-Code-substantive-heritage framework",
+      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable from 1878 return to France in Saint-Barthélemy — substantively significant Caribbean French-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 371-387 governing autorité parentale and child custody."
+    },
+    {
+      "year": 1847,
+      "title": "Swedish abolition of slavery + early-Caribbean-abolition framework",
+      "description": "Swedish abolition of slavery in Saint-Barthélemy 9 October 1847 — substantively distinctive Caribbean only-Swedish-colonial-abolition framework predating French abolition 1848 by 5 months. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1878,
-      "title": "Return to France",
-      "description": "Sweden ceded Saint-Barthélemy back to France following a referendum of inhabitants."
+      "title": "Return-to-France + inhabitants-referendum-+-end-of-Swedish-period framework",
+      "description": "Sweden ceded Saint-Barthélemy back to France 10 August 1878 following inhabitants referendum — substantively distinctive globally only-Caribbean-colony-returned-by-inhabitants-referendum framework. Substantive constitutional-democratic-trajectory framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1946,
+      "title": "Guadeloupe-DROM-integration + Saint-Barthélemy-as-Guadeloupe-arrondissement framework",
+      "description": "Guadeloupe DROM established 19 March 1946 — Saint-Barthélemy integrated as arrondissement of Guadeloupe DROM under loi de départementalisation. Foundational pre-2007-COM-separation framework affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1983,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by France to Saint-Barthélemy effective 1 December 1983."
+      "title": "Hague Convention 1980 territorial extension + France-UNCRC-ratification framework",
+      "description": "Hague Convention 1980 territorial extension by France to Saint-Barthélemy effective 1 December 1983 (via Guadeloupe DROM framework). France ratified UNCRC 7 August 1990 with applicability to Saint-Barthélemy — establishing interest-of-the-child substantive doctrine within French-derivative-civil-law framework applicable to Saint-Barthélemy."
     },
     {
       "year": 2003,
-      "title": "COM autonomy referendum",
-      "description": "Saint-Barthélemy voted 95.51% in favour of COM autonomy from Guadeloupe DROM."
+      "title": "COM autonomy referendum + 95.51-percent-in-favour framework",
+      "description": "Saint-Barthélemy voted 95.51% in favour of COM autonomy from Guadeloupe DROM 7 December 2003 — substantively distinctive Caribbean French-DROM-to-COM-separation framework. Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2007,
-      "title": "Organic Law 2007-223 + COM autonomy",
-      "description": "Federal Organic Law establishing Saint-Barthélemy's COM autonomy effective 22 February 2007."
+      "title": "Organic Law 2007-223 + COM-autonomy-effective + fiscal-autonomy framework",
+      "description": "Federal Organic Law 2007-223 of 21 February 2007 establishing Saint-Barthélemy's COM autonomy effective 22 February 2007 — substantively distinctive Caribbean COM-with-fiscal-autonomy framework. Subsequent EU OCT status (Overseas Country and Territory) framework 2012 changing from outermost-region status. Substantive constitutional-administrative framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Conseil territorial framework + EU OCT status framework + Saint-Martin cross-border framework",
+      "description": "Conseil territorial de Saint-Barthélemy framework continuing through 2023 under COM-with-fiscal-autonomy framework. EU OCT (Overseas Country and Territory) status framework substantively significant cross-border family-law adjudication context. Saint-Martin cross-border family-law adjudication framework substantively significant for shared-island institutional cooperation. Substantively significant Caribbean French COM institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour d'appel de Basse-Terre + Cour de Cassation — interest-of-the-child substantive register + continuing-fiscal-autonomy framework",
+      "description": "Court of Appeal of Basse-Terre (Saint-Barthélemy jurisdiction) and French Court of Cassation continue to develop interest-of-the-child jurisprudence under Civil Code arts. 371-387 + Organic Law 2007-223 + Hague Convention 1980 framework in custody disputes within continuing-fiscal-autonomy + EU OCT status context. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -108,8 +138,9 @@
     }
   ],
   "editorial_notes": [
-    "Saint-Barthélemy jurisdiction sidecar — civil-law Caribbean French COM (French Civil Code + Statut 2007 COM autonomy from Guadeloupe DROM + Swedish colonial heritage 1784-1878 + Gustavia capital + Hague via French Republic territorial extension 1983). Sweden's only ever Caribbean colony.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + civil-law + French-COM cluster + Swedish-colonial-heritage-distinctive + DROM-to-COM-separation-2007 + Hague-via-French-Republic-territorial-extension clusters within the corpus."
+    "Saint-Barthélemy jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full first-French-colonisation-1648-to-continuing-fiscal-autonomy trajectory: 1648-first-French-colonisation-+-Knights-of-Malta + 1784-Swedish-colonial-period-+-Gustavia + 1804-Code-civil-des-Français + 1847-Swedish-abolition-of-slavery + 1878-return-to-France-+-inhabitants-referendum + 1946-Guadeloupe-DROM-integration + 1983-Hague-Convention-+-France-UNCRC + 2003-COM-autonomy-referendum-95.51-percent + 2007-Organic-Law-2007-223-COM-autonomy + 2024-Cour-d'appel-de-Basse-Terre-+-Cour-de-Cassation-interest.",
+    "Civil-law Caribbean French COM (French Civil Code + Organic Law 2007-223 COM autonomy from Guadeloupe DROM + Swedish colonial heritage 1784-1878 + Gustavia capital + Hague via French Republic territorial extension 1983 + fiscal autonomy + EU OCT status 2012). Sweden's only ever Caribbean colony + only Caribbean colony returned by inhabitants referendum (1878) + only Swedish colonial abolition predating French abolition (1847, 5 months earlier).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Code arts. 371-387 + Organic Law 2007-223 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + civil-law + French-COM-cluster + Swedish-colonial-heritage-1784-1878-Sweden's-only-Caribbean-colony-ever-distinctive + Gustavia-capital-named-after-Gustav-III + 1648-first-French-colonisation-+-Knights-of-Malta-tenure-1651-1664 + Code-civil-des-Français-1804 + Swedish-abolition-of-slavery-1847-predating-French-abolition + 1878-return-to-France-by-inhabitants-referendum-distinctive + Guadeloupe-DROM-integration-1946 + DROM-to-COM-separation-Saint-Martin-shared-2007 + COM-with-fiscal-autonomy-+-EU-OCT-status-2012 + Hague-via-French-Republic-territorial-extension clusters within the corpus."
   ]
 }

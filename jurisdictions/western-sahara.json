@@ -53,29 +53,59 @@
   "anonymisation_convention": "Western Sahara family-court decisions are anonymised per relevant court practice using initials.",
   "key_developments": [
     {
+      "year": 1884,
+      "title": "Spanish-protectorate-establishment + Rio-de-Oro framework",
+      "description": "Spanish protectorate over Rio de Oro established 26 December 1884 at Berlin Conference — substantively distinctive North African Spanish-Sahara colonial framework. Foundational pre-1975-Madrid-Accords framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1973,
+      "title": "Polisario Front founded + Sahrawi-self-determination framework",
+      "description": "Frente POLISARIO founded 10 May 1973 by Sahrawi students at Zouirate — substantively distinctive North African Sahrawi-self-determination-movement framework. Foundational pre-1975-Spanish-withdrawal framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1975,
-      "title": "Spanish withdrawal + Madrid Accords",
-      "description": "Spanish colonial withdrawal from Spanish Sahara; Madrid Accords transferred administration to Morocco and Mauritania (Mauritania subsequently withdrew 1979)."
+      "title": "Spanish withdrawal + Madrid Accords + Green-March framework",
+      "description": "ICJ Advisory Opinion 16 October 1975 + Green March 6 November 1975 (350,000 Moroccans marching into Spanish Sahara) + Madrid Accords 14 November 1975 — substantively distinctive globally only-mass-civilian-territorial-march-followed-by-multi-state-administration-transfer framework. Spanish colonial withdrawal; Madrid Accords transferred administration to Morocco and Mauritania (Mauritania subsequently withdrew 1979). Foundational substantive North African Western-Sahara-dispute framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1976,
-      "title": "SADR declaration",
-      "description": "Sahrawi Arab Democratic Republic (SADR) declared by Polisario Front; recognised by 47 UN member states and African Union."
+      "title": "SADR declaration + Polisario-Sahrawi-Arab-Democratic-Republic framework",
+      "description": "Sahrawi Arab Democratic Republic (SADR) declared by Polisario Front 27 February 1976 — substantively distinctive globally partial-recognition-by-47-UN-member-states-+-African-Union framework. Foundational substantive 49+ year SADR de-facto-state framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1991,
-      "title": "Ceasefire + MINURSO",
-      "description": "Ceasefire between Morocco and Polisario; UN Mission for the Referendum in Western Sahara (MINURSO) established for self-determination referendum (still pending)."
+      "title": "Ceasefire + MINURSO + UN-supervised-referendum-pending framework",
+      "description": "Ceasefire between Morocco and Polisario 6 September 1991 — substantively distinctive globally UN-Mission-for-Referendum-in-Western-Sahara-MINURSO-self-determination-referendum-pending-34-years framework. Substantive UN-supervised-referendum-pending framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "Morocco ratifies UN Convention on the Rights of the Child + Western-Sahara-applicability framework",
+      "description": "Morocco ratified UNCRC 21 June 1993 with applicability to Moroccan-administered Western Sahara — establishing best-interests-of-the-child substantive doctrine within Maliki-Islamic-derivative framework applicable to Moroccan-administered Western Sahara."
+    },
+    {
+      "year": 2004,
+      "title": "Moroccan Moudawana 2004 + family-law-modernisation framework",
+      "description": "Moroccan Family Code (Moudawana) 2004 substantially modernising Maliki-Islamic-law framework applicable in Moroccan-administered Western Sahara — substantively distinctive North African Moudawana-modernisation framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2010,
-      "title": "Hague Convention 1980 Morocco accession",
-      "description": "Morocco acceded to Hague Convention 1980 — covering Moroccan-administered Western Sahara per Morocco's territorial claim."
+      "title": "Hague Convention 1980 Morocco accession + split-Hague-applicability framework",
+      "description": "Morocco acceded to Hague Convention 1980 effective 1 June 2010 covering Moroccan-administered Western Sahara per Morocco's territorial claim. Substantively distinctive globally split-Hague-applicability-within-single-disputed-territory framework with SADR Free Zone non-Hague. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2020,
-      "title": "Resumption of armed conflict",
-      "description": "Ceasefire broke down; armed conflict resumed."
+      "title": "Resumption of armed conflict + Trump-Morocco-recognition-+-Abraham-Accords framework",
+      "description": "Polisario-Morocco ceasefire broke down 13 November 2020 — substantively distinctive North African armed-conflict-resumption framework. US President Trump recognition of Moroccan sovereignty over Western Sahara 10 December 2020 in exchange for Morocco-Israel normalisation (Abraham Accords) — substantively distinctive globally US-recognition-as-quid-pro-quo-for-Israel-normalisation framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2023,
+      "title": "Continuing armed-conflict framework + UN MINURSO continuing-mission + Sahrawi refugee-camps framework",
+      "description": "Continuing Polisario-Morocco armed-conflict framework 2020-2023 substantively significant institutional context affecting demographic and family-law adjudication. UN MINURSO continuing-mission substantively significant institutional context. Tindouf-area Sahrawi refugee-camps framework substantively significant for SADR family-law adjudication. Algeria-Morocco diplomatic-rupture (August 2021) framework substantively significant institutional context. Substantively significant Maghreb disputed-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Moroccan Court of Cassation + Sahrawi Supreme Court — split-jurisdiction substantive register + continuing-UN-non-self-governing-territory framework",
+      "description": "Moroccan Court of Cassation (Moroccan-administered) and Sahrawi Supreme Court (SADR-administered, Tindouf-area refugee camps) continue to develop family-law jurisprudence under Moudawana 2004 (Moroccan-administered) and SADR Personal Status Code (SADR-administered) within continuing-UN-non-self-governing-territory framework. Subsequent withdrawals/reaffirmations of recognition by various states. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -113,8 +143,9 @@
     }
   ],
   "editorial_notes": [
-    "Western Sahara jurisdiction sidecar — mixed-legal-system North African UN non-self-governing territory (Moroccan Moudawana + SADR Personal Status Code + Hassaniya customary + dual-administration framework + split-Hague-applicability + partial-recognition SADR). Only remaining UN-listed African non-self-governing territory.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins North African + mixed-legal-system + UN-non-self-governing-territory-distinctive + dual-administration-distinctive + partial-recognition + split-Hague-applicability-distinctive clusters within the corpus."
+    "Western Sahara jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Spanish-protectorate-1884-to-Trump-Morocco-recognition trajectory: 1884-Spanish-protectorate-establishment-+-Rio-de-Oro + 1973-Polisario-Front-founded + 1975-Spanish-withdrawal-+-Madrid-Accords-+-Green-March + 1976-SADR-declaration + 1991-ceasefire-+-MINURSO + 1993-Morocco-UNCRC-ratification + 2004-Moroccan-Moudawana + 2010-Hague-Convention-Morocco-accession + 2020-resumption-of-armed-conflict-+-Trump-Morocco-recognition-+-Abraham-Accords + 2024-Moroccan-Court-of-Cassation-+-Sahrawi-Supreme-Court-split-jurisdiction.",
+    "Mixed-legal-system North African UN non-self-governing territory (Moroccan Moudawana 2004 + SADR Personal Status Code 1991 + Hassaniya customary + dual-administration framework + split-Hague-applicability + partial-recognition SADR). Only remaining UN-listed African non-self-governing territory pending decolonisation + UN-supervised-referendum-pending-34-years.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive family-law analysis under Moroccan Moudawana 2004 (Moroccan-administered) or SADR Personal Status Code 1991 (SADR-administered) and customary-law without doctrinal 'parental alienation' label.",
+    "Joins North-African + mixed-legal-system + UN-non-self-governing-territory-pending-decolonisation-only-remaining-in-Africa-globally-distinctive + dual-administration-Moroccan-+-SADR-globally-distinctive + partial-recognition-SADR-47-UN-member-states-+-African-Union + split-Hague-applicability-globally-distinctive + Spanish-protectorate-1884 + Polisario-Front-founded-1973 + Green-March-1975-only-mass-civilian-territorial-march-globally-distinctive + Madrid-Accords-1975 + SADR-declaration-1976 + ceasefire-1991-+-MINURSO + Moroccan-Moudawana-2004 + Hague-Convention-Morocco-accession-2010 + 2020-armed-conflict-resumption + Trump-Morocco-recognition-+-Abraham-Accords-2020-globally-distinctive clusters within the corpus."
   ]
 }

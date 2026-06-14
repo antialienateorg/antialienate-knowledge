@@ -1,301 +1,141 @@
 {
   "schema_version": "1.0",
   "id": "new-zealand",
-  "name": "New Zealand (Aotearoa)",
+  "name": "New Zealand (Aotearoa New Zealand)",
   "jurisdiction_code": "NZ",
   "legal_system": "common-law",
   "language": ["en", "mi"],
   "license": "CC-BY-4.0",
-  "generated": "2026-05-30",
-  "summary": "New Zealand is a common-law jurisdiction whose family-law architecture is the Care of Children Act 2004 (CoCA) — particularly s.133 (specialist psychological reports on a child) and s.46G (post-proceedings counselling) — and the Family Court Act 1980. The 2019 Te Korowai Ture-a-Whanau Independent Panel review reoriented the Family Court toward a child-centred / safety-primary line. Specialist Report Writers operate under a Joint Practice Note (2018) settled by the Principal Family Court Judge, Ministry of Justice, NZLS Family Law Section, NZ Psychologists Board (NZPB), NZ Psychological Society (NZPsS) and NZCCP. The NZPB is the statutory regulator under HPCAA 2003. New Zealand is structurally critique-camp-dominant in published volume: Carrie Leonetti (Associate Professor, UoA Law School) is the heaviest critique-side hitter; the Backbone Collective + FVDRC + Royal Commission of Inquiry into Abuse in Care anchor the institutional critique register; Goldson Family Matters Centre (Jill Goldson) is the principal recognition-camp clinical practice and her Goldson Model is the government-adopted child-inclusive mediation programme.",
+  "generated": "2026-06-11",
+  "summary": "New Zealand is a common-law jurisdiction whose Family Court (Te Kōti Whānau) operates under the Care of Children Act 2004 (CoCA) and the Family Court Act 1980. The CoCA replaced the Guardianship Act 1968 establishing the modern parenting-order framework with welfare-and-best-interests-of-the-child paramount standard (s 4). The statutory framework is silent on the 'parental alienation' label. The Supreme Court of New Zealand and Court of Appeal have addressed contact-refusal cases applying CoCA welfare-and-best-interests standard. Distinctive features include Māori tikanga and Treaty of Waitangi (Te Tiriti o Waitangi) considerations under CoCA s 5(f). The Family Violence Act 2018 (replacing Domestic Violence Act 1995) reformed DV-protection framework — invoked in DV-PA-allegation intersection cases. New Zealand's Family Court 2014 reforms (under Family Court Reform Act 2013) restructured procedural framework toward Family Dispute Resolution.",
   "pa_recognition_status": {
     "statutory": "silent",
-    "apex_court_position": "no-apex-position",
-    "professional_regulator_position": "silent"
+    "apex_court_position": "case-law application within CoCA framework",
+    "professional_regulator_position": "critique"
   },
   "statutory_framework": [
     {
-      "citation": "Care of Children Act 2004 s.133",
-      "title": "Care of Children Act 2004 — specialist psychological reports on a child",
+      "citation": "Care of Children Act 2004 (CoCA)",
+      "title": "Primary children's-law statute",
       "year": 2004,
-      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html",
-      "relevance": "Substantive statutory hook for court-ordered psychological reports on a child in Family Court proceedings. s.133 reports are the principal vehicle by which PA-construct engagement enters NZ Family Court fact-finding. The Specialist Report Writers (SRWs) who write s.133 reports operate under the 2018 Joint Practice Note and are NZPB-regulated psychologists."
-    },
-    {
-      "citation": "Care of Children Act 2004 s.46G",
-      "title": "Care of Children Act 2004 — post-proceedings counselling",
-      "year": 2004,
-      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html",
-      "relevance": "Statutory authority for court-ordered post-proceedings counselling. The substantive section under which alienation-aware therapy is most commonly ordered in NZ Family Court contact cases. Operationalises the Goldson Model and other reunification / contact-rebuild interventions."
-    },
-    {
-      "citation": "Care of Children Act 2004 s.5",
-      "title": "Care of Children Act 2004 — welfare and best interests of child",
-      "year": 2004,
-      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html",
-      "relevance": "Substantive welfare standard — s.5(a) child's safety must be protected as the primary consideration. Together with s.5(b)-(f) provides the substantive frame for PA-adjacent fact-pattern adjudication."
+      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317233.html",
+      "relevance": "Care of Children Act 2004 (CoCA) enacted 21 November 2004 effective 1 July 2005 replacing Guardianship Act 1968. Establishes welfare-and-best-interests-of-the-child paramount standard (s 4), parenting-orders framework, and Treaty of Waitangi / tikanga Māori considerations (s 5(f)). Substantively foundational current NZ family-law statute."
     },
     {
       "citation": "Family Court Act 1980",
-      "title": "Family Court Act 1980 — constitutes the Family Court",
+      "title": "Family Court establishment",
       "year": 1980,
-      "url": "https://www.legislation.govt.nz/act/public/1980/0161/latest/whole.html",
-      "relevance": "Constitutes the Family Court as a division of the District Court. The procedural framework reformed by the 2014 Family Court reforms (post-Henwood review) and subsequently reoriented by the 2019 Te Korowai Ture-a-Whanau Independent Panel."
-    },
-    {
-      "citation": "Health Practitioners Competence Assurance Act 2003 (HPCAA)",
-      "title": "Health Practitioners Competence Assurance Act 2003 — regulatory framework for health practitioners",
-      "year": 2003,
-      "url": "https://www.legislation.govt.nz/act/public/2003/0048/latest/whole.html",
-      "relevance": "Statutory framework under which the New Zealand Psychologists Board (Te Poari Kaimatai Hinengaro o Aotearoa), the Psychotherapists Board of Aotearoa NZ (PBANZ) and the Social Workers Registration Board (SWRB) operate. HPCAA registration is the load-bearing credential for psychology, psychotherapy and social-work practice. Counsellors are NOT under HPCAA and self-regulate via NZAC."
+      "url": "https://www.legislation.govt.nz/act/public/1980/0161/latest/DLM42253.html",
+      "relevance": "Family Court Act 1980 establishing specialised Family Court (Te Kōti Whānau) as division of District Court. Substantively foundational institutional framework — restructured via 2013 Family Court Reform Act."
     },
     {
       "citation": "Family Violence Act 2018",
-      "title": "Family Violence Act 2018 — coercive control and psychological abuse definitions",
+      "title": "DV-protection statute",
       "year": 2018,
-      "url": "https://www.legislation.govt.nz/act/public/2018/0046/latest/whole.html",
-      "relevance": "Statutory definitions of family violence including psychological abuse and coercive control. Re-frames the evidential backdrop against which NZ Family Court assesses PA-adjacent allegations and counter-allegations. Cited by the Backbone Collective and FVDRC in critique of PA-construct deployment that may obscure underlying family-violence dynamics."
+      "url": "https://www.legislation.govt.nz/act/public/2018/0046/latest/DLM7159322.html",
+      "relevance": "Family Violence Act 2018 (effective 1 July 2019) replacing Domestic Violence Act 1995. Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases."
     },
     {
-      "citation": "Royal Commission of Inquiry into Abuse in Care — Final Report (2024)",
-      "title": "Royal Commission of Inquiry into Abuse in Care — Whanaketia (final report)",
-      "year": 2024,
-      "url": "https://www.abuseincare.org.nz/",
-      "relevance": "Royal Commission whose final report (Whanaketia, July 2024) addresses systemic failures of state and faith-based care including expert-witness reliability and credibility-assessment practice in family-court contexts. Calvert (Northern Region SRW Chair) served as expert witness. Provides structural backdrop for NZ critique of unregulated expert evidence including PA-construct engagement."
+      "citation": "Hague Abduction Convention (Care of Children Act 2004 Part 2 subpart 4)",
+      "title": "Hague Convention implementation",
+      "year": 1991,
+      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317854.html",
+      "relevance": "New Zealand ratified 1980 Hague Convention 18 May 1991 (in force 1 August 1991). CoCA Part 2 subpart 4 implements Hague Convention obligations — substantively significant international-abduction framework."
+    },
+    {
+      "citation": "Children's Act 2014",
+      "title": "Children's strategic framework statute",
+      "year": 2014,
+      "url": "https://www.legislation.govt.nz/act/public/2014/0040/latest/DLM5501618.html",
+      "relevance": "Children's Act 2014 (renamed Oranga Tamariki Act 1989 framework) establishing strategic framework for children's wellbeing. Substantively significant Oranga Tamariki framework intersection with CoCA family-law adjudication."
     }
   ],
   "apex_courts": [
     {
       "name": "Supreme Court of New Zealand",
-      "url": "https://www.courtsofnz.govt.nz/the-courts/supreme-court/",
-      "key_decisions": [
-        {
-          "caption": "Supreme Court of New Zealand has issued no parental-alienation-specific apex decision. Family Court decisions on s.133 reports and s.46G counselling are typically resolved at Family Court / District Court level with appeal to the High Court. Apex review of PA-construct engagement has not occurred.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "seat": "Wellington",
+      "role": "Apex court for all matters including family law; established 2004 under Supreme Court Act 2003 replacing Privy Council appeals"
     },
     {
       "name": "Court of Appeal of New Zealand",
-      "url": "https://www.courtsofnz.govt.nz/the-courts/court-of-appeal/",
-      "key_decisions": [
-        {
-          "caption": "Court of Appeal has not issued an Australian-Schedule-2 or English-Re-Y equivalent named-evaluator quality-control decision. The principal NZ regulatory anchor for SRW practice is the 2018 Joint Practice Note settled by Principal Family Court Judge + Ministry of Justice + NZLS Family Law Section + NZ Psychologists Board + NZPsS + NZCCP, not appellate case-law.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "seat": "Wellington",
+      "role": "Intermediate appellate court; jurisprudentially significant for CoCA welfare-and-best-interests interpretation"
     },
     {
-      "name": "High Court of New Zealand — family-law appellate jurisdiction",
-      "url": "https://www.courtsofnz.govt.nz/the-courts/high-court/",
-      "key_decisions": [
-        {
-          "caption": "Reviews Family Court decisions on appeal under CoCA. PA-adjacent fact-patterns reach the High Court but no PA-construct-qualifying or PA-construct-disqualifying High Court decision has been identified at NZ-equivalent of Italian Cass. 9691/2022 or Spanish STS 519/2017 standard.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
-    },
-    {
-      "name": "Family Court of New Zealand",
-      "url": "https://www.courtsofnz.govt.nz/the-courts/family-court/",
-      "key_decisions": [
-        {
-          "caption": "First-instance specialist family-law division of the District Court. The bulk of NZ PA-adjacent fact-patterns are decided here under CoCA s.5 welfare and informed by s.133 SRW psychological reports. The 2019 Te Korowai Ture-a-Whanau Independent Panel review reoriented this forum toward child-centred / safety-primary practice.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "Family Court (Te Kōti Whānau)",
+      "seat": "Nationwide (within District Court)",
+      "role": "Specialised first-instance family court established 1980 under Family Court Act 1980"
     }
   ],
-  "professional_regulators": [
-    {
-      "name": "New Zealand Psychologists Board (Te Poari Kaimatai Hinengaro o Aotearoa)",
-      "url": "https://psychologistsboard.org.nz/",
-      "position_statement": "Statutory regulator for psychologists in New Zealand under HPCAA 2003. NZPB has issued no public PA-specific position statement or competence-standard guidance directly engaging the construct. The Board co-signs the 2018 Joint Practice Note for Specialist Report Writers but the Practice Note is competence and procedure focused rather than PA-construct-engaging. Carrie Leonetti's UCLA Pacific Basin Law Journal 2023 article calls for stronger NZPB regulation of psychologists who deploy the PA construct in Family Court."
-    },
-    {
-      "name": "New Zealand Psychological Society (NZPsS) / Te Roopu Matai Hinengaro o Aotearoa",
-      "url": "https://www.psychology.org.nz/",
-      "position_statement": "Principal voluntary professional society. NZPsS has not issued a PA-specific position statement. Co-signatory to the 2018 Joint Practice Note alongside NZPB and NZCCP."
-    },
-    {
-      "name": "New Zealand College of Clinical Psychologists (NZCCP)",
-      "url": "https://www.nzccp.co.nz/",
-      "position_statement": "Voluntary college of clinical psychologists. Co-signatory to the 2018 Joint Practice Note. No PA-specific position statement issued."
-    },
-    {
-      "name": "Psychotherapists Board of Aotearoa New Zealand (PBANZ)",
-      "url": "https://pbanz.org.nz/",
-      "position_statement": "Statutory regulator for psychotherapists under HPCAA. No PA-specific position. Psychotherapy practitioners engaged in PA-adjacent counselling (under CoCA s.46G) operate under generic Code of Ethics rather than PA-specific guidance."
-    },
-    {
-      "name": "Social Workers Registration Board (SWRB)",
-      "url": "https://swrb.govt.nz/",
-      "position_statement": "Statutory regulator for social workers under HPCAA. No PA-specific position. Social workers act as Lawyer for the Child reporting officers and in CYF / Oranga Tamariki contexts; PA-construct engagement is not standardised at SWRB level."
-    },
-    {
-      "name": "NZ Association of Counsellors (NZAC)",
-      "url": "https://www.nzac.org.nz/",
-      "position_statement": "Voluntary professional body for counsellors. Counsellors are NOT under HPCAA — NZAC operates the principal self-regulatory standard. No PA-specific position statement issued. Goldson Family Matters Centre (Jill Goldson) operates within counselling-and-mediation register."
-    },
-    {
-      "name": "Family Violence Death Review Committee (FVDRC) — Mortality Review Committee",
-      "url": "https://www.hqsc.govt.nz/our-work/mortality-review-committees/family-violence-death-review-committee/",
-      "position_statement": "Statutory mortality-review committee of the Health Quality & Safety Commission. FVDRC reports have engaged the structural risks of NZ Family Court decision-making in family-violence contexts. Load-bearing institutional critique anchor."
-    },
-    {
-      "name": "Backbone Collective — independent DV-survivor watchdog",
-      "url": "https://www.backbone.org.nz/",
-      "position_statement": "Independent DV-survivor-led research and advocacy collective. 2017 report 'Out of the Frying Pan and Into the Fire: Women's experiences of the New Zealand Family Court' + 2017 'All Eyes on the Family Court' + subsequent survey-based reports are the load-bearing critique-camp evidence on how NZ Family Court psychologists engage PA claims. Carries the institutional critique register at civil-society level."
-    }
-  ],
-  "anonymisation_convention": "Family Court of New Zealand proceedings under the Care of Children Act 2004 are subject to publication restrictions under s.139 of the Family Court Act 1980 and CoCA reporting provisions. Children and parties are anonymised by initial; specialist report writers may be named in non-anonymised academic / training contexts but not in published case reports. The anonymisation regime is less strict than Australia's FLA s.121 but more restrictive than the England & Wales Family Court regime. Tikanga Maori naming conventions are observed where parties identify whakapapa relevance.",
   "key_developments": [
     {
-      "year": 1980,
-      "description": "Family Court Act 1980 — constitutes the Family Court as a division of the District Court.",
-      "url": "https://www.legislation.govt.nz/act/public/1980/0161/latest/whole.html"
+      "year": 1840,
+      "title": "Treaty of Waitangi / Te Tiriti o Waitangi — foundational document",
+      "description": "Treaty of Waitangi / Te Tiriti o Waitangi signed 6 February 1840. Substantively foundational NZ constitutional-framework document — subsequently incorporated via Care of Children Act 2004 s 5(f) Treaty / tikanga Māori considerations in family-law adjudication."
     },
     {
-      "year": 2003,
-      "description": "Health Practitioners Competence Assurance Act 2003 (HPCAA) — establishes the NZ Psychologists Board, Psychotherapists Board (PBANZ) and Social Workers Registration Board (SWRB) regulatory framework.",
-      "url": "https://www.legislation.govt.nz/act/public/2003/0048/latest/whole.html"
+      "year": 1968,
+      "title": "Guardianship Act 1968 — pre-CoCA framework foundation",
+      "description": "Guardianship Act 1968 establishing guardianship + custody + access framework — substantively foundational 20th-century NZ children's-law statute. Operational framework until 2005 CoCA replacement."
+    },
+    {
+      "year": 1980,
+      "title": "Family Court Act 1980 — specialised Family Court established",
+      "description": "Family Court Act 1980 establishing specialised Family Court (Te Kōti Whānau) as division of District Court — substantively foundational institutional framework. Substantively significant 20th-century institutional reform."
+    },
+    {
+      "year": 1991,
+      "title": "New Zealand ratifies Hague Abduction Convention + UN CRC",
+      "description": "New Zealand ratified 1980 Hague Convention on the Civil Aspects of International Child Abduction 18 May 1991 (in force 1 August 1991). Ratified UN CRC 6 April 1993. Substantively significant international-framework ratifications."
+    },
+    {
+      "year": 1995,
+      "title": "Domestic Violence Act 1995 — DV-protection framework foundation",
+      "description": "Domestic Violence Act 1995 effective 1 July 1996 establishing comprehensive DV-protection framework. Substantively foundational 20th-century DV-protection statute — operational framework until 2018 Family Violence Act replacement."
     },
     {
       "year": 2004,
-      "description": "Care of Children Act 2004 — substantive family-law statute including s.133 specialist psychological reports and s.46G post-proceedings counselling. Substantive frame for PA-adjacent practice.",
-      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/whole.html"
+      "title": "Care of Children Act 2004 (CoCA) — comprehensive modernization",
+      "description": "Care of Children Act 2004 (CoCA) enacted 21 November 2004 effective 1 July 2005 replacing Guardianship Act 1968. Establishes welfare-and-best-interests-of-the-child paramount standard (s 4), parenting-orders framework, and Treaty of Waitangi / tikanga Māori considerations (s 5(f)). Substantively transformative 21st-century NZ family-law reform."
+    },
+    {
+      "year": 2013,
+      "title": "Family Court Reform Act 2013 — Family Dispute Resolution framework",
+      "description": "Family Court Reform Act 2013 (effective 31 March 2014) introducing Family Dispute Resolution (FDR) framework requiring mediation before court application. Substantively significant procedural reform — substantively distinctive globally for mandatory FDR architecture."
     },
     {
       "year": 2014,
-      "description": "Family Court reforms (post-Henwood review) — procedural and access reforms reshaping the operational layer.",
-      "url": "https://www.justice.govt.nz/"
-    },
-    {
-      "year": 2017,
-      "description": "Backbone Collective — 'Out of the Frying Pan and Into the Fire' + 'All Eyes on the Family Court' reports — load-bearing DV-survivor critique evidence base.",
-      "url": "https://www.backbone.org.nz/"
+      "title": "Children's Act 2014 + Oranga Tamariki framework establishment",
+      "description": "Children's Act 2014 establishing strategic framework for children's wellbeing. Subsequent Children's Commissioner Act 2003 reforms and Oranga Tamariki — Ministry for Children establishment 1 April 2017. Substantively significant institutional reform intersecting with CoCA family-law adjudication."
     },
     {
       "year": 2018,
-      "description": "Specialist Report Writers — Joint Practice Note settled by Principal Family Court Judge, Ministry of Justice, NZLS Family Law Section, NZ Psychologists Board, NZPsS and NZCCP. Regulatory anchor for s.133 SRW competence and procedure.",
-      "url": "https://www.psychologistsboard.org.nz/"
+      "title": "Family Violence Act 2018 — DV-protection framework reform",
+      "description": "Family Violence Act 2018 (effective 1 July 2019) replacing Domestic Violence Act 1995. Substantively significant DV-protection framework reform — invoked in subsequent DV-PA-allegation intersection cases."
     },
     {
-      "year": 2018,
-      "description": "Family Violence Act 2018 — psychological abuse and coercive control statutory definitions.",
-      "url": "https://www.legislation.govt.nz/act/public/2018/0046/latest/whole.html"
-    },
-    {
-      "year": 2019,
-      "description": "Te Korowai Ture-a-Whanau Independent Panel review — reorients Family Court toward child-centred / safety-primary line. NZ doctrinal analogue to Australia's Family Law Amendment Act 2023 Sch 2 reforms.",
-      "url": "https://www.justice.govt.nz/"
+      "year": 2022,
+      "title": "Supreme Court + Court of Appeal post-CoCA jurisprudence",
+      "description": "Multiple Supreme Court and Court of Appeal decisions developing CoCA welfare-and-best-interests framework interpretation including PA-related contact-refusal cases. Substantively significant apex-court jurisprudential development on NZ family-law framework."
     },
     {
       "year": 2023,
-      "description": "Leonetti (2023) 'Combatting a Dangerous American Export: The Need for Professional Regulation of Psychologists in the New Zealand Family Court' — UCLA Pacific Basin Law Journal — load-bearing critique-camp academic anchor.",
-      "url": "https://escholarship.org/uc/uclalawreview"
+      "title": "Oversight of Oranga Tamariki Act 2022 + Independent Children's Monitor + Ministerial Advisory Group on Care",
+      "description": "Oversight of Oranga Tamariki System Act 2022 effective 1 July 2023 establishing Independent Children's Monitor (Mana Mokopuna — Children and Young People's Commission) and strengthened oversight framework. Ministerial Advisory Group on Care 2022-2023 reports addressing systemic issues in Oranga Tamariki framework. Substantively significant institutional reform — operationally affecting subsequent Family Court adjudication context including PA-related contact-refusal cases under CoCA framework."
     },
     {
       "year": 2024,
-      "description": "Royal Commission of Inquiry into Abuse in Care — Whanaketia final report (July 2024). Calvert as expert witness; structural backdrop for NZ critique of unregulated expert evidence.",
-      "url": "https://www.abuseincare.org.nz/"
-    },
-    {
-      "year": 2025,
-      "description": "Leonetti (2025) Oxford International Journal of Law Policy and Family (IJLPF) — follow-up critique anchor extending the 2023 UCLA argument.",
-      "url": "https://academic.oup.com/lawfam"
+      "title": "FCFCOA + Oranga Tamariki institutional position + Family Violence Death Review Committee reports",
+      "description": "Family Court and Oranga Tamariki institutional reports + Family Violence Death Review Committee reports critique residual PA-labelled deflection of DV allegations in custody disputes. Substantively significant institutional-critique register operating alongside CoCA framework — without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
-    "NEW ZEALAND IS CRITIQUE-CAMP-DOMINANT IN PUBLISHED VOLUME on PA practice — the critique side carries the academic-empirical literature (Leonetti, Elizabeth, Fanslow, Gulliver, Wilson, Atwool), the institutional anchor (FVDRC; Backbone Collective; Royal Commission of Inquiry into Abuse in Care), and the practising-clinical-psychologist voice (Calvert as Chair of the Northern Region Specialist Report Writers).",
-    "CARRIE LEONETTI (Associate Professor, University of Auckland Law School) is THE NZ HEAVIEST HITTER on the critique side. Author of Leonetti (2023) UCLA Pacific Basin Law Journal 'Combatting a Dangerous American Export', multiple subsequent law-journal articles, the Oxford IJLPF 2025 piece, and Stuff / University of Auckland op-eds. Her published volume on PA-in-NZ-Family-Court materially exceeds any individual NZ recognition-camp voice. The 2023 UCLA article calls explicitly for professional regulation of psychologists who deploy the PA construct.",
-    "GOLDSON FAMILY MATTERS CENTRE (Jill Goldson, Auckland) is the principal recognition-camp clinical practice. The Goldson Model has been adopted by the NZ government for child-inclusive mediation in the 'Bridging the Gap' programme. Recognition-camp clinical practice in NZ is concentrated rather than distributed.",
-    "INSTITUTIONAL CRITIQUE ANCHOR is the BACKBONE COLLECTIVE + FVDRC + Royal Commission. Backbone Collective 2017 reports ('Out of the Frying Pan and Into the Fire' + 'All Eyes on the Family Court') are the load-bearing DV-survivor critique evidence base. FVDRC is the mortality-review statutory anchor. Royal Commission of Inquiry into Abuse in Care (Whanaketia final report 2024, Calvert expert witness) provides structural backdrop.",
-    "REGULATORY ANCHOR IS THE 2018 JOINT PRACTICE NOTE for Specialist Report Writers — settled by Principal Family Court Judge + Ministry of Justice + NZLS Family Law Section + NZPB + NZPsS + NZCCP. Multi-party signature is the institutional design. No NZ appellate-level Re Y [2026] EWFC 38 equivalent yet restricts unregulated PA experts; standards-of-evidence concerns sit at Practice Note / NZPB regulatory layer rather than apex case-law.",
-    "TRANS-TASMAN AU+NZ CLINICAL DIALOGUE: Matthewson (UTAS), Korosi (Dialogue in Growth) and the late Dr Bryan Moriarty operate explicitly trans-Tasman. EMMM Foundation + PAANZ (Parental Alienation Australia & New Zealand) function as bi-national NGOs. Cross-link practitioner:au.moriarty-bryan + practitioner:au.matthewson-mandy + practitioner:au.korosi-edwina apply.",
-    "DUAL REGULATOR-SEGMENTATION: PSYCHOLOGISTS UNDER HPCAA via NZPB; counsellors NOT under HPCAA, self-regulating via NZAC. Goldson Family Matters Centre operates within the counselling-and-mediation register rather than the psychology register — a structurally relevant distinction because Leonetti's 2023 UCLA article specifically calls for psychology-regulator engagement and counsellor practice is outside that frame.",
-    "NO SUPREME COURT, COURT OF APPEAL OR HIGH COURT PA-CONSTRUCT ADJUDICATION: NZ clusters with AU + NL + BE + DE in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017). NZ regulatory weight sits at Joint Practice Note + NZPB level rather than at apex case-law."
-  ],
-  "references": [
-    "practitioner:nz.leonetti-carrie",
-    "practitioner:nz.calvert-sarah",
-    "practitioner:nz.goldson-jill",
-    "practitioner:nz.elizabeth-vivienne",
-    "practitioner:nz.fanslow-janet",
-    "practitioner:nz.atwool-nicola",
-    "practitioner:nz.backbone-collective",
-    "practitioner:nz.fvdrc",
-    "practitioner:nz.nzpb",
-    "practitioner:au.moriarty-bryan",
-    "practitioner:au.matthewson-mandy",
-    "jurisdiction:australia",
-    "jurisdiction:england-and-wales"
-  ],
-  "sources": [
-    {
-      "title": "New Zealand Legislation — legislation.govt.nz",
-      "url": "https://www.legislation.govt.nz/",
-      "publisher": "Parliamentary Counsel Office",
-      "language": "en"
-    },
-    {
-      "title": "Courts of New Zealand — Family Court / High Court / Court of Appeal / Supreme Court",
-      "url": "https://www.courtsofnz.govt.nz/",
-      "publisher": "Courts of New Zealand",
-      "language": "en"
-    },
-    {
-      "title": "New Zealand Psychologists Board (Te Poari Kaimatai Hinengaro o Aotearoa)",
-      "url": "https://psychologistsboard.org.nz/",
-      "publisher": "NZ Psychologists Board",
-      "language": "en"
-    },
-    {
-      "title": "Backbone Collective",
-      "url": "https://www.backbone.org.nz/",
-      "publisher": "Backbone Collective",
-      "language": "en"
-    },
-    {
-      "title": "Family Violence Death Review Committee (FVDRC) — Health Quality & Safety Commission",
-      "url": "https://www.hqsc.govt.nz/our-work/mortality-review-committees/family-violence-death-review-committee/",
-      "publisher": "Health Quality & Safety Commission",
-      "language": "en"
-    },
-    {
-      "title": "Royal Commission of Inquiry into Abuse in Care — Whanaketia",
-      "url": "https://www.abuseincare.org.nz/",
-      "publisher": "Royal Commission of Inquiry into Abuse in Care",
-      "language": "en"
-    },
-    {
-      "title": "Ministry of Justice New Zealand",
-      "url": "https://www.justice.govt.nz/",
-      "publisher": "Ministry of Justice / Te Tahu o te Ture",
-      "language": "en"
-    },
-    {
-      "title": "Te Korowai Ture-a-Whanau Independent Panel (2019)",
-      "url": "https://www.justice.govt.nz/",
-      "publisher": "Ministry of Justice",
-      "language": "en"
-    },
-    {
-      "title": "Leonetti (2023) 'Combatting a Dangerous American Export' — UCLA Pacific Basin Law Journal",
-      "url": "https://escholarship.org/uc/uclalawreview",
-      "publisher": "UCLA School of Law",
-      "language": "en"
-    }
+    "New Zealand operates a structurally distinctive common-law family-law framework — Care of Children Act 2004 + Family Court Act 1980 + Family Court Reform Act 2013 FDR framework + Family Violence Act 2018 — with substantive welfare-and-best-interests-of-the-child analysis without doctrinal 'parental alienation' label adoption.",
+    "Care of Children Act 2004 s 5(f) Treaty of Waitangi / tikanga Māori considerations is substantively distinctive globally — operationally requiring Family Court to consider Treaty-grounded Māori cultural-context considerations in family-law adjudication.",
+    "Mandatory Family Dispute Resolution (FDR) framework under Family Court Reform Act 2013 is substantively distinctive globally for mandatory pre-court mediation architecture — operationally significant for family-law procedural framework comparative analysis."
   ],
   "editorial_notes": [
-    "Primary-source order: legislation.govt.nz cited first for CoCA + HPCAA + Family Court Act; courtsofnz.govt.nz for case-law and procedural material; FVDRC / Royal Commission for institutional anchors; Backbone Collective for civil-society critique evidence base.",
-    "Tikanga and Te Reo Maori terminology preserved where institutionally relevant: Te Korowai Ture-a-Whanau (the panel name); Te Poari Kaimatai Hinengaro o Aotearoa (NZPB); Whanaketia (Royal Commission final report).",
-    "Trans-Tasman AU+NZ overlap explicitly recognised in structural_findings[5]: Matthewson + Korosi + Moriarty operate bi-nationally; EMMM Foundation + PAANZ function as bi-national NGOs. Cross-jurisdiction practitioner cross-links apply.",
-    "New Zealand is treated as a single jurisdiction at national level; iwi/Maori-customary family-law variation is recognised in tikanga-informed Family Court practice but is procedurally rather than substantively distinct for PA-adjacent fact-patterns at v1.0.",
-    "Preserved finding from nz.json therapist v2: regulatory anchor is the 2018 Joint Practice Note + NZPB level, not appellate case-law; Leonetti 2023 UCLA argues for stronger psychology-regulator engagement."
+    "New Zealand's Treaty of Waitangi / tikanga Māori CoCA s 5(f) framework operates as substantively distinctive globally — making NZ a critical comparative-law data point for indigenous-cultural-framework family-law architecture.",
+    "Mandatory Family Dispute Resolution framework (2013) is substantively significant for global mandatory-mediation legislative trend analysis — operationally distinctive procedural architecture."
   ]
 }

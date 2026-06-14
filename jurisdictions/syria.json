@@ -53,25 +53,69 @@
   "anonymisation_convention": "Syrian family-court decisions are anonymised per Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1946,
+      "title": "Syria independence + reception of Ottoman/French Mandate framework",
+      "description": "Syria achieved full independence 17 April 1946 from French Mandate. Pre-1946 Ottoman Empire personal-status framework (Ottoman Family Rights Law 1917) and French Mandate civil-law framework substantially retained as substrate for post-independence codification trajectory (Civil Code 1949 + Personal Status Law 1953)."
+    },
+    {
       "year": 1949,
-      "title": "Civil Code 84/1949",
-      "description": "Federal Civil Code enacted drawing on French civil-law substantive heritage via Egyptian Civil Code transplant."
+      "title": "Civil Code 84/1949 (Sanhuri tradition)",
+      "description": "Federal Civil Code enacted 1949 drawing on French civil-law substantive heritage via Egyptian Civil Code transplant (Sanhuri tradition) — among the earliest Sanhuri-tradition Civil Code transplants (Egyptian Civil Code 1948 + Syria 1949 + Libya 1953 + Iraq 1951 + Kuwait 1980 + pre-2021-Afghanistan 1977). Drafted by Abd El-Razzak El-Sanhuri (Egyptian Civil Code 1948 architect)."
     },
     {
       "year": 1953,
-      "title": "Personal Status Law 59/1953",
-      "description": "Federal Personal Status Law enacted codifying personal-status matters on Hanafi jurisprudential basis with parallel community provisions."
+      "title": "Personal Status Law 59/1953 (Hanafi-primary + multi-community)",
+      "description": "Federal Personal Status Law 59/1953 enacted under United Arab Republic-era administration codifying personal-status matters primarily on Hanafi jurisprudential basis with parallel Druze, Christian, and Jewish community personal-status laws. Arts. 137-156 govern hadana (custody) and wilaya (guardianship). Among the earlier comprehensive codifications of Muslim personal-status in MENA."
+    },
+    {
+      "year": 1973,
+      "title": "Constitution of Syrian Arab Republic 1973",
+      "description": "Constitution of the Syrian Arab Republic adopted 13 March 1973 under Hafez al-Assad administration — establishing single-party Ba'ath framework with Art. 3 declaring Islamic jurisprudence a principal source of legislation (rather than supreme source) and the religion of the President being Islam. Constitution Art. 44 codifies family-protection-clauses. Foundational constitutional framework for the Ba'ath era 1973-2011-2024."
+    },
+    {
+      "year": 1993,
+      "title": "Syria ratifies UN Convention on the Rights of the Child",
+      "description": "Syria ratified the UNCRC on 15 July 1993 with reservations to Arts. 14 (freedom of religion), 20 (alternative care), and 21 (adoption) — Islamic-law-bounded CRC implementation pattern. CRC engagement subsequently expanded but substantially constrained during 2011-2024 civil war period."
+    },
+    {
+      "year": 2011,
+      "title": "Syrian civil war begins + judicial-administrative disruption",
+      "description": "Syrian civil war began March 2011 with Arab Spring uprising — substantially disrupted Damascus-government civil judicial-administrative framework with parallel governance frameworks (HTS-controlled, Kurdish-AANES-controlled, opposition-controlled regions). Family-law substantive framework formally continued under Damascus-government but implementation substantially constrained across the country."
+    },
+    {
+      "year": 2012,
+      "title": "Constitution of 2012 + multi-party framework",
+      "description": "Constitution of 2012 promulgated 27 February 2012 by Bashar al-Assad administration — replaced 1973 Constitution introducing multi-party framework, modifying single-party Ba'ath provision, while retaining Art. 3 Islamic-jurisprudence-principal-source and Art. 33 family-protection-clause. Substantively contested during civil war period."
     },
     {
       "year": 2019,
-      "title": "Personal Status Law amendments (Law 4/2019)",
-      "description": "Substantial amendments raising marriage age, codifying judicial divorce, expanding custody provisions."
+      "title": "Personal Status Law substantial amendments (Law 4/2019)",
+      "description": "Personal Status Law 59/1953 substantially amended by Law 4/2019 — raising minimum marriage age (boys 18, girls 18 with judicial exceptions), codifying judicial divorce, expanding mother's custody-extension provisions, addressing visitation rights, and modernising substantive provisions within Hanafi-jurisprudence bounds. Among the most substantial post-codification reforms in MENA-Sunni-Hanafi cluster."
+    },
+    {
+      "year": 2024,
+      "title": "Assad regime fall + transitional governance + constitutional uncertainty",
+      "description": "Assad regime fall 8 December 2024 following HTS-led offensive ending Ba'ath era 1963-2024 (Hafez al-Assad 1971-2000, Bashar al-Assad 2000-2024). Transitional government under Ahmad al-Sharaa administration declared constitutional review. Constitutional framework + Personal Status Law 59/1953-amended formally remain operative pending transitional reform. Family-law substantive framework currently in transition."
+    },
+    {
+      "year": 2023,
+      "title": "UN-OCHA refugee coordination + Personal Status Law fragmentation across SDF/HTS/regime zones",
+      "description": "UN-OCHA refugee coordination framework substantively significant for displaced-Syrian family-law adjudication including Turkey-Lebanon-Jordan-Iraq refugee-host coordination. Personal Status Law 59/1953 (as amended by Law 4/2019) fragmented implementation across Syrian Democratic Forces (SDF/AANES) Autonomous Administration of North and East Syria, HTS-controlled Idlib, and Damascus-regime zones. Substantively significant Levant institutional context establishing trajectory toward 2024 Assad regime fall framework."
+    },
+    {
+      "year": 2025,
+      "title": "Court of Cassation + transitional context — welfare-of-the-child substantive register",
+      "description": "Court of Cassation continues to develop welfare-of-the-child jurisprudence under Personal Status Law 59/1953 (as amended Law 4/2019) arts. 137-156 in custody disputes within the transitional governance context. Substantive analysis under Hanafi-jurisprudence-bounded codified-welfare-of-the-child framework without doctrinal 'parental alienation' label adoption. Multi-community parallel personal-status framework (Druze, Christian, Jewish) substantively operative within respective community courts."
     }
   ],
   "structural_findings": [
-    "Syria operates a mixed-legal-system framework — French civil-law substantive (via Egyptian transplant) + Hanafi Islamic-law personal-status + parallel Druze/Christian/Jewish community personal-status. Within the MENA mixed-legal-system cluster.",
-    "Non-Hague Convention status places Syria in the non-Hague MENA cluster.",
-    "Multi-community parallel personal-status framework distinguishes Syria from single-tradition codifications, but less elaborate than Lebanon's 18-community confessional system."
+    "Syria operates a mixed-legal-system framework — French civil-law substantive (via Egyptian Sanhuri-tradition transplant) + Hanafi Islamic-law personal-status + parallel Druze/Christian/Jewish community personal-status. Within the MENA mixed-legal-system cluster.",
+    "Egyptian-civil-code-transplant-Sanhuri cluster: Civil Code 1949 alongside Egyptian Civil Code 1948 (Sanhuri origin), Iraq 1951, Libya 1953, Kuwait 1980, pre-2021-Afghanistan 1977. Among the earliest Sanhuri-tradition transplants — directly drafted by Sanhuri who was active in Syria's Civil Code drafting following his Egyptian Civil Code 1948 success.",
+    "Non-Hague-1980-Convention status places Syria in the non-Hague-MENA cluster alongside Saudi Arabia, Iran, Iraq, Lebanon, Yemen.",
+    "Multi-community parallel personal-status framework distinguishes Syria from single-tradition codifications, but less elaborate than Lebanon's 18-community confessional system — places Syria within the multi-community-personal-status cluster (with Lebanon, Israel, Egypt for Coptic Orthodox, Jordan for Christian communities, pre-2017 Bahrain).",
+    "Multi-phase legal-system evolution: 1946-Syria-independence + 1949-Civil-Code-Sanhuri + 1953-Personal-Status-Law-Hanafi-primary + 1973-Constitution-Ba'ath-era + 1993-UNCRC-ratification + 2011-civil-war-judicial-administrative-disruption + 2012-Constitution-multi-party + 2019-Personal-Status-Law-amendments-Law-4-2019 + 2024-Assad-regime-fall-transitional-governance + 2025-Court-of-Cassation-transitional-context — most discontinuous-recent-transition trajectory within MENA cluster after Afghanistan.",
+    "Ottoman-substrate-retention pattern (1917 Ottoman Family Rights Law substrate) places Syria within the Ottoman-substrate-retention cluster (with Israel, Iraq, Lebanon, Türkiye pre-1926).",
+    "Constitution 2012/1973 Art. 3 (Islamic jurisprudence principal source, not supreme source) places Syria within the Shariah-as-principal-source-among-others constitutional cluster (with UAE, Qatar, Kuwait, Bahrain) — distinct from Shariah-as-supreme-source (Saudi Arabia, Iran, Brunei MIB-2014, Maldives)."
   ],
   "references": [
     "jurisdiction:lebanon",
@@ -95,8 +139,9 @@
     }
   ],
   "editorial_notes": [
-    "Syria jurisdiction sidecar — mixed-legal-system MENA (French civil-law substantive via Egyptian transplant + Hanafi Islamic-law personal-status + parallel Druze/Christian/Jewish community provisions). Personal Status Law 59/1953 + 2019 amendments + Civil Code 1949 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins MENA + mixed-legal-system + multi-community-personal-status + non-Hague Convention clusters within the corpus."
+    "Syria jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full independence-to-transitional trajectory: 1946-Syria-independence + 1949-Civil-Code-84-1949-Sanhuri + 1953-Personal-Status-Law-59-1953-Hanafi-primary-multi-community + 1973-Constitution-Ba'ath-era + 1993-UNCRC-ratification-Art-14-20-21-reservations + 2011-civil-war-judicial-administrative-disruption + 2012-Constitution-multi-party + 2019-Personal-Status-Law-amendments-Law-4-2019 + 2024-Assad-regime-fall-transitional-governance + 2025-Court-of-Cassation-transitional-context.",
+    "Mixed-legal-system MENA (French civil-law substantive via Egyptian Sanhuri transplant + Hanafi Islamic-law personal-status + parallel Druze/Christian/Jewish community provisions). Personal Status Law 59/1953 + 2019 amendments + Civil Code 84/1949 + Constitution 2012 Art. 3 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Personal Status Law arts. 137-156 Hanafi-bounded codified framework without doctrinal 'parental alienation' label.",
+    "Joins MENA + mixed-legal-system + Egyptian-civil-code-transplant-Sanhuri (with Iraq, Libya, Kuwait, pre-2021-Afghanistan) + multi-community-personal-status (with Lebanon, Israel, Egypt-Coptic, Jordan-Christian) + Ottoman-substrate-retention (with Israel, Iraq, Lebanon, Türkiye pre-1926) + Shariah-as-principal-source-constitutional (with UAE, Qatar, Kuwait, Bahrain) + non-Hague-MENA-Convention + most-discontinuous-recent-transition-trajectory clusters within the corpus."
   ]
 }

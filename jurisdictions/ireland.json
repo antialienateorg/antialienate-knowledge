@@ -79,29 +79,64 @@
   "anonymisation_convention": "Irish family-law decisions are anonymised per long-standing practice in family-law proceedings; the Courts Service practice direction restricts public reporting of party identities in family-court proceedings. Published decisions on Bailii Ireland use anonymised initials. Sits within the European/common-law initials cluster and is structurally adjacent to the UK constituent jurisdictions.",
   "key_developments": [
     {
+      "year": 1922,
+      "title": "Irish Free State + Anglo-Irish Treaty + Irish independence framework",
+      "description": "Irish Free State established 6 December 1922 following Anglo-Irish Treaty 6 December 1921 and Irish War of Independence 1919-1921. Substantively distinctive Irish-independence framework. Foundational pre-1937-Constitution framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1937,
+      "title": "Constitution of Ireland (Bunreacht na hÉireann) + 1949-Republic-Act framework",
+      "description": "Constitution of Ireland adopted by plebiscite 1 July 1937 (effective 29 December 1937) establishing constitutional framework. Subsequent Republic of Ireland Act 1948 (effective 18 April 1949) declaring republican status. Substantive constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 1964,
+      "title": "Guardianship of Infants Act 1964 + welfare-paramountcy framework",
+      "description": "Guardianship of Infants Act 1964 enacted establishing primary statutory basis for custody, access and guardianship in Ireland. Section 3 establishes the welfare of the child as the first and paramount consideration. Foundational substantive-statutory framework for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 1973,
+      "title": "Ireland EEC accession + EU-treaty-framework integration",
+      "description": "Ireland European Economic Community accession 1 January 1973 alongside UK and Denmark — substantive integration into EU-treaty-framework affecting cross-border-jurisdiction-practice including subsequent Brussels IIa/IIbis Regulation framework for family-law-matters."
+    },
+    {
+      "year": 1992,
+      "title": "Ireland ratifies UN Convention on the Rights of the Child",
+      "description": "Ireland ratified the UNCRC on 28 September 1992 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2012 Article 42A substantive doctrine."
+    },
+    {
       "year": 1996,
       "title": "Divorce legalised",
-      "description": "Family Law (Divorce) Act 1996 in force 27 February 1997 following the 1995 constitutional referendum amending Article 41.3.2°."
+      "description": "Family Law (Divorce) Act 1996 in force 27 February 1997 following the 1995 constitutional referendum amending Article 41.3.2°. Substantively distinctive Catholic-Ireland post-divorce-legalisation framework affecting subsequent family-law-modernisation."
     },
     {
       "year": 2012,
       "title": "Article 42A constitutional children's rights",
-      "description": "Thirty-first Amendment of the Constitution (Children) Act 2012 inserted Article 42A; in force May 2015 following Supreme Court certification."
+      "description": "Thirty-first Amendment of the Constitution (Children) Act 2012 inserted Article 42A; in force May 2015 following Supreme Court certification. Substantively significant constitutional children's-rights framework providing overlay that UK constituents lack at constitutional level."
     },
     {
       "year": 2014,
       "title": "Court of Appeal established",
-      "description": "Thirty-third Amendment of the Constitution established the Court of Appeal as the principal appellate court; in force 28 October 2014."
+      "description": "Thirty-third Amendment of the Constitution established the Court of Appeal as the principal appellate court; in force 28 October 2014. Substantive constitutional-judicial-trajectory framework affecting subsequent family-law-appellate-practice."
     },
     {
       "year": 2015,
-      "title": "Children and Family Relationships Act 2015",
-      "description": "Modernised guardianship, custody, access and parentage law including provisions for cohabiting partners, assisted human reproduction and reformed unmarried fathers' guardianship."
+      "title": "Children and Family Relationships Act 2015 + same-sex marriage referendum framework",
+      "description": "Modernised guardianship, custody, access and parentage law including provisions for cohabiting partners, assisted human reproduction and reformed unmarried fathers' guardianship. Subsequent Thirty-fourth Amendment of the Constitution (Marriage Equality) Act 2015 substantively distinctive globally first-country-to-legalise-same-sex-marriage-by-popular-vote framework."
+    },
+    {
+      "year": 2020,
+      "title": "COVID-19 pandemic + family-court-digital-transformation + remote-hearings framework",
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Ireland — substantively distinctive accelerated-digital-transformation-of-family-courts framework. Courts Service of Ireland established remote-hearings infrastructure + Dublin Circuit Family Court + District Family Court operations adapted + Hague Convention 1980 cross-border child-return proceedings continuing through remote-hearings framework + Children and Family Relationships Act 2015 implementation continuing through pandemic-trajectory + substantive demographic and family-law-implementation framework affecting subsequent post-pandemic Family Court Bill 2022 + Family Justice Strategy 2022-2025 reform-trajectory."
     },
     {
       "year": 2023,
       "title": "CORU Psychologists Register opens; PA consultation",
-      "description": "CORU Psychologists Register opened 1 March 2023 — statutory title protection phased in. Department of Justice published public consultation on parental alienation; subsequent Report indicated no statutory amendment was recommended."
+      "description": "CORU Psychologists Register opened 1 March 2023 — statutory title protection phased in. Department of Justice published public consultation on parental alienation; subsequent Report indicated no statutory amendment was recommended. Places Ireland alongside England-and-Wales (Cafcass position paper) + Scotland (no statutory PA reform) + Australia (post-2023 Amendment Act welfare-and-safety reframing) in cluster of jurisdictions conducting PA-construct policy review and concluding against statutory codification."
+    },
+    {
+      "year": 2024,
+      "title": "Family Court Bill 2022 + Family Justice Strategy implementation framework",
+      "description": "Family Court Bill 2022 (subsequent enactment trajectory 2023-2024) establishing dedicated Family Court (District + Circuit + High Court divisions). Family Justice Strategy 2022-2025 implementation framework operationally restructuring Irish family-law procedural framework. Substantively significant institutional reform — addressing systemic issues in family-law adjudication identified by Department of Justice PA-consultation 2023 framework and operating within welfare-paramountcy + Article 42A constitutional children's-rights framework."
     }
   ],
   "structural_findings": [
@@ -151,8 +186,9 @@
     }
   ],
   "editorial_notes": [
-    "Ireland jurisdiction sidecar establishes the Irish common-law framework within the corpus alongside the UK constituent jurisdictions. Guardianship of Infants Act 1964 (as amended) + Children and Family Relationships Act 2015 + Constitution Article 42A + CORU statutory psychology regulator.",
+    "Ireland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Irish-Free-State-to-PA-consultation trajectory: 1922-Irish-Free-State-+-Anglo-Irish-Treaty + 1937-Constitution-of-Ireland-+-Bunreacht-na-hÉireann + 1964-Guardianship-of-Infants-Act + 1973-EEC-accession + 1992-UNCRC-ratification + 1996-Divorce-legalised + 2012-Article-42A-constitutional-children's-rights + 2014-Court-of-Appeal-established + 2015-Children-and-Family-Relationships-Act-+-same-sex-marriage-referendum + 2023-CORU-Psychologists-Register-+-PA-consultation.",
+    "Establishes the Irish common-law framework within the corpus alongside the UK constituent jurisdictions. Guardianship of Infants Act 1964 (as amended) + Children and Family Relationships Act 2015 + Constitution Article 42A + CORU statutory psychology regulator.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator. 2023 Department of Justice consultation produced no recommendation for statutory amendment.",
-    "Joins UK + Common-law cluster + statutory psychology regulator group within the corpus."
+    "Joins UK + common-law-cluster + EU-civil-law-adjacent + Article-42A-constitutional-children's-rights-distinctive (UK-constituents-lack) + CORU-statutory-psychology-regulator + Irish-War-of-Independence-1919-1921 + 1937-Constitution-Bunreacht-na-hÉireann + 1973-EEC-accession + 1996-Divorce-legalisation-post-1995-referendum-Catholic-Ireland-distinctive + 2015-Children-and-Family-Relationships-Act + 2015-Marriage-Equality-Referendum-first-country-to-legalise-same-sex-marriage-by-popular-vote-globally-distinctive + 2023-Department-of-Justice-PA-consultation-no-statutory-amendment-recommended clusters within the corpus."
   ]
 }

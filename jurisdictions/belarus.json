@@ -58,25 +58,70 @@
   "anonymisation_convention": "Belarusian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Belarus independence + post-Soviet legal framework",
+      "description": "Republic of Belarus declared independence 25 August 1991 from Soviet Union. Pre-1991 Soviet Byelorussian SSR Code on Marriage and Family 1969 substantively retained as transitional framework pending post-Soviet codification trajectory (current Code on Marriage and Family enacted 1999)."
+    },
+    {
+      "year": 1990,
+      "title": "Belarus ratifies UN Convention on the Rights of the Child",
+      "description": "Belarus (then Byelorussian SSR) ratified the UNCRC on 1 October 1990 — among the earliest state parties globally — framing the post-Soviet family-law-reform trajectory toward best-interest-of-the-child substantive doctrine. UNCRC engagement subsequently expanded as primary international children's-rights-monitoring register."
+    },
+    {
       "year": 1993,
-      "title": "Law on the Rights of the Child",
-      "description": "Federal children's rights statute enacted post-Soviet aligned with UNCRC obligations."
+      "title": "Law on the Rights of the Child 2206-XII",
+      "description": "Federal Law on the Rights of the Child enacted 19 November 1993 — codifying CRC-aligned child-protection mechanisms, juvenile-justice principles, child-development standards. Operates alongside (then-forthcoming) Code on Marriage and Family 1999 as the substantive child-welfare anchor."
+    },
+    {
+      "year": 1994,
+      "title": "Constitution of the Republic of Belarus 1994 + Lukashenko presidency",
+      "description": "Constitution of the Republic of Belarus adopted 15 March 1994, substantially amended 1996, 2004, 2022 — establishing presidential republic framework. President Alexander Lukashenko assumed presidency 20 July 1994 (continuing since — among the longest-tenured European-region presidencies). Constitution Art. 32 codifies family-protection-clauses; Art. 17 establishes Belarusian + Russian as official languages."
+    },
+    {
+      "year": 1996,
+      "title": "Constitutional amendments 1996 + strengthened presidential framework",
+      "description": "Constitutional amendments adopted by referendum 24 November 1996 — substantially strengthening presidential framework, extending presidential term, and establishing political-institutional architecture characterising contemporary Belarusian governance."
     },
     {
       "year": 1998,
-      "title": "Hague Convention 1980 accession",
-      "description": "Belarus acceded to the Hague Convention 1980 effective 1 April 1998 — earliest post-Soviet accession alongside Romania."
+      "title": "Hague Convention 1980 accession — earliest post-Soviet",
+      "description": "Belarus acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 April 1998 — earliest post-Soviet accession alongside Romania, structurally distinctive early-mover within post-Soviet bloc (Russia acceded 2011, Ukraine 2006, Moldova 1998, Lithuania 2002, Latvia 2002, Estonia 2001)."
     },
     {
       "year": 1999,
-      "title": "Code on Marriage and Family",
-      "description": "Federal Code on Marriage and Family enacted post-Soviet codifying marriage, parental rights and child custody."
+      "title": "Code on Marriage and Family 278-Z",
+      "description": "Federal Code on Marriage and Family enacted 9 July 1999 post-Soviet codifying marriage, parental rights and child custody. Arts. 67-86 govern parental rights and child custody within post-Soviet civil-law tradition. Currently operative framework."
+    },
+    {
+      "year": 2014,
+      "title": "Law on Combating Family Violence 2014 + DV protection framework",
+      "description": "Federal Law on Combating Family Violence enacted 4 January 2014 — establishing protection mechanisms, mandatory-reporting obligations, and explicit recognition of psychological violence within the family unit. Operates parallel to Code on Marriage and Family framework."
+    },
+    {
+      "year": 2020,
+      "title": "2020 Belarus protests + post-election political crisis",
+      "description": "2020 Belarus protests August-November 2020 following disputed presidential election — substantially affected international engagement framework. Council of Europe Parliamentary Assembly resolutions, EU sanctions, and international isolation substantially affecting cross-border family-law cooperation post-2020. Mass emigration of Belarusian families substantially affecting cross-border-custody and Hague-1980 jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Russia-aligned framework + Council of Europe expulsion + Lukashenko continuing-presidency",
+      "description": "Belarus Russia-alignment framework deepening 2022-2023 affecting cross-border family-law adjudication including Russia-Belarus Union State framework. Council of Europe expulsion February 2022 substantively significant institutional context affecting Belarusian engagement with European child-rights framework. Aliaksandr Lukashenko continuing-presidency since 1994 (30+ years). Substantively significant Eastern European institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court — child's-interests substantive register",
+      "description": "Supreme Court of Belarus continues to develop child's-interests jurisprudence under Code on Marriage and Family arts. 67-86 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within post-Soviet civil-law tradition operative within increasingly internationally-isolated framework."
     }
   ],
   "structural_findings": [
-    "Belarus operates a post-Soviet civil-law framework — Code on Marriage and Family 1999 follows Russian Family Code 1995 codification model within the post-Soviet cluster.",
-    "Hague Convention 1980 accession 1998 places Belarus as among earliest post-Soviet Hague accessions within the corpus.",
-    "Bilingual official-language framework (Belarusian + Russian) reflects post-Soviet language-policy heritage."
+    "Belarus operates a post-Soviet civil-law framework — Code on Marriage and Family 1999 follows Russian Family Code 1995 codification model within the post-Soviet cluster (alongside Ukraine Family Code 2002, Kazakhstan Code on Marriage and Family 2011, etc.).",
+    "Hague-1980-Convention accession 1998 places Belarus as among earliest post-Soviet Hague accessions within the corpus — structurally distinctive early-mover (alongside Romania 1993, Moldova 1998, Estonia 2001, Lithuania 2002, Latvia 2002, Russia 2011, Ukraine 2006).",
+    "Bilingual official-language framework (Belarusian + Russian) reflects post-Soviet language-policy heritage — pattern shared with Kazakhstan, Kyrgyzstan, Moldova; distinct from monolingual Russian-as-state-language (Russia) or non-Russian Eastern European states.",
+    "Lukashenko presidency 1994-present is among the longest-tenured European-region presidencies — places Belarus within the post-Soviet long-tenure-presidency cluster (with Russia Putin, Tajikistan Rahmon).",
+    "Post-2020 international-isolation framework substantially affects cross-border family-law cooperation — places Belarus within the post-Soviet-internationally-isolated cluster (with Russia post-2022 Ukraine war, post-2022 Russian withdrawal from Council of Europe).",
+    "Multi-layer substantive-statutory framework: 1991-Belarus-independence + 1990-UNCRC-ratification + 1993-Law-on-Rights-of-Child + 1994-Constitution-+-Lukashenko-presidency + 1996-Constitutional-amendments + 1998-Hague-1980-accession-earliest-post-Soviet + 1999-Code-on-Marriage-and-Family + 2014-Law-on-Combating-Family-Violence + 2020-Belarus-protests-international-isolation + 2024-Supreme-Court-child's-interests — gradual modernisation within post-Soviet civil-law framework + Lukashenko-era political consolidation.",
+    "Council-of-Europe non-membership distinguishes Belarus from neighbouring Russia (member 1996-2022), Ukraine, Moldova — places Belarus within the European-non-Council-of-Europe-state cluster (with Kazakhstan, Vatican City, certain Western European microstates).",
+    "Eastern European civil-law cluster + Roman-Catholic-Orthodox-Christian-mixed demographic profile distinct from Central-Asian-Muslim-majority secular post-Soviet states."
   ],
   "references": [
     "jurisdiction:russia",
@@ -106,8 +151,9 @@
     }
   ],
   "editorial_notes": [
-    "Belarus jurisdiction sidecar — civil-law post-Soviet Eastern Europe. Code on Marriage and Family 1999 + Law on Rights of the Child 1993 + Hague Convention 1980 accession 1998 (earliest post-Soviet).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Eastern European + civil-law + post-Soviet + early Hague Convention clusters within the corpus."
+    "Belarus jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full independence-to-contemporary trajectory: 1991-Belarus-independence + 1990-UNCRC-ratification + 1993-Law-on-Rights-of-Child + 1994-Constitution-+-Lukashenko-presidency + 1996-Constitutional-amendments + 1998-Hague-1980-accession-earliest-post-Soviet + 1999-Code-on-Marriage-and-Family-278-Z + 2014-Law-on-Combating-Family-Violence + 2020-Belarus-protests-international-isolation + 2024-Supreme-Court-child's-interests.",
+    "Civil-law post-Soviet Eastern Europe framework (Code on Marriage and Family 1999 + Law on Rights of the Child 1993 + Hague Convention 1980 accession 1998 earliest-post-Soviet + Constitution 1994 + Law on Combating Family Violence 2014).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-interests analysis under Code on Marriage and Family arts. 67-86 framework without doctrinal 'parental alienation' label.",
+    "Joins Eastern-European + civil-law + post-Soviet + early-Hague-1980-Convention-post-Soviet (alongside Romania, Moldova, Estonia, Lithuania, Latvia, ahead-of Russia 2011, Ukraine 2006) + Lukashenko-era-long-tenure-presidency (with Russia Putin, Tajikistan Rahmon) + post-2020-international-isolation (with post-2022-Russia) + European-non-Council-of-Europe-state + bilingual-Belarusian-Russian (with Kazakhstan, Kyrgyzstan, Moldova) clusters within the corpus."
   ]
 }

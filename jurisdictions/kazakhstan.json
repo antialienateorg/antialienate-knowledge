@@ -53,29 +53,64 @@
   "anonymisation_convention": "Kazakhstani family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1936,
+      "title": "Kazakh SSR + Soviet-republic framework",
+      "description": "Kazakh Soviet Socialist Republic established 5 December 1936 — substantively distinctive Central Asian Soviet-republic framework. Subsequent 1991 declaration of independence following Soviet collapse. Foundational pre-1991-independence framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Kazakhstan independence + Nazarbayev-presidency-+-Soviet-collapse framework",
+      "description": "Kazakhstan declared independence 16 December 1991 — substantively distinctive Central Asian last-Soviet-republic-to-declare-independence framework. Foundational substantive Nursultan Nazarbayev presidency 1991-2019 framework + 30+ year independent-republic framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1994,
+      "title": "Kazakhstan ratifies UN Convention on the Rights of the Child + UNCRC-applicability framework",
+      "description": "Kazakhstan ratified UNCRC 12 August 1994 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2002 Law on Rights of the Child + 2011 Code on Marriage and Family substantive doctrine."
+    },
+    {
+      "year": 1995,
+      "title": "Constitution of Kazakhstan + post-Soviet-constitutional-framework framework",
+      "description": "Constitution of Kazakhstan adopted by referendum 30 August 1995 — substantively distinctive Central Asian post-Soviet-constitutional-anchor framework with Constitutional Council (restructured 2023 to Constitutional Court). Foundational substantive constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
       "year": 1998,
-      "title": "Law on Marriage and Family",
-      "description": "Federal family-law statute enacted post-Soviet."
+      "title": "Law on Marriage and Family + post-Soviet-family-law-codification framework",
+      "description": "Federal Law on Marriage and Family 1998 enacted post-Soviet — substantively significant Central Asian post-Soviet-family-law-codification framework. Foundational pre-2011-Code-on-Marriage-and-Family framework affecting subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2002,
-      "title": "Law on Rights of the Child",
-      "description": "Federal children's rights statute aligned with UNCRC obligations."
+      "title": "Law on Rights of the Child 345-II + UNCRC-aligned framework",
+      "description": "Federal Law on Rights of the Child 345-II 2002 enacted aligned with UNCRC obligations — substantively significant Central Asian child-rights framework. Foundational substantive child-rights framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 2011,
-      "title": "Code on Marriage (Matrimony) and Family",
-      "description": "Federal Code replacing 1998 statute codifying marriage, parental rights and child custody."
+      "title": "Code on Marriage (Matrimony) and Family + No-518-IV-comprehensive-codification framework",
+      "description": "Federal Code on Marriage (Matrimony) and Family No. 518-IV 2011 enacted replacing 1998 statute codifying marriage, parental rights (arts. 60-77), and child custody — substantively significant Central Asian comprehensive-family-law-codification framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2013,
-      "title": "Hague Convention 1980 accession",
-      "description": "Kazakhstan acceded to the Hague Convention 1980 effective 1 September 2013."
+      "title": "Hague Convention 1980 accession + Central-Asian-Hague-cluster framework",
+      "description": "Kazakhstan acceded to the Hague Convention 1980 effective 1 September 2013 — substantively significant Central Asian Hague-accession framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Bloody-January-2022-protests + Tokayev-presidency-+-post-Nazarbayev framework",
+      "description": "Bloody January 2022 protests 2-11 January 2022 substantively reshaping Kazakh-political framework — substantively distinctive Central Asian post-Nazarbayev-2019-transition + Tokayev-presidency framework. Subsequent constitutional reforms removing references to Nazarbayev affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Domestic Violence Law + Saltanat Nukenova case + family-law-modernisation framework",
+      "description": "Kazakhstan Domestic Violence Law amendments April 2024 criminalising domestic violence following Saltanat Nukenova case + former minister Kuandyk Bishimbayev conviction May 2024 — substantively distinctive globally only modern Central Asian celebrity-domestic-violence-trial-precipitated criminal-law-reform framework + structurally distinctive post-Nazarbayev-era Kazakh women's-rights-reform framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Code on Marriage and Family 2011 + Supreme Court substantive register evolution + Hague Convention 1980 cross-border implementation framework + foundational post-Saltanat-Nukenova-era domestic-violence + family-law-implementation framework."
     },
     {
       "year": 2023,
-      "title": "Constitutional Court restructure",
-      "description": "Constitutional Council restructured as Constitutional Court."
+      "title": "Constitutional Court restructure + Bota Janet KZN children's-rights framework + post-Nazarbayev-amendments",
+      "description": "Constitutional Court of Kazakhstan restructured 2023 from Constitutional Council with substantive original constitutional-review jurisdiction. Children's Rights Ombudsperson institutional position addressing PA-related issues within Code on Marriage and Family 2011 + Law on Rights of the Child 2002 framework. Post-Nazarbayev constitutional amendments 2022 substantively reshaping institutional context. Substantively significant Central Asian institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Kazakhstan + Constitutional Court — best-interests-of-the-child substantive register + continuing-Tokayev-+-restructured-Constitutional-Court framework",
+      "description": "Supreme Court of Kazakhstan (Қазақстан Республикасының Жоғарғы Соты) and Constitutional Court (restructured 2023 from Constitutional Council) continue to develop best-interests-of-the-child jurisprudence under Code on Marriage and Family 2011 arts. 60-77 + Law on Rights of the Child 2002 + Hague Convention 1980 framework in custody disputes within continuing Kassym-Jomart Tokayev presidency since 2019. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -111,8 +146,9 @@
     }
   ],
   "editorial_notes": [
-    "Kazakhstan jurisdiction sidecar — civil-law post-Soviet Central Asia. Code on Marriage and Family 2011 + Law on Rights of the Child 2002 + Hague Convention 1980 accession 2013.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central Asian + civil-law + post-Soviet + Hague Convention clusters within the corpus."
+    "Kazakhstan jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Kazakh-SSR-1936-to-Tokayev-presidency trajectory: 1936-Kazakh-SSR + 1991-independence-+-Nazarbayev-presidency + 1994-Kazakhstan-UNCRC-ratification + 1995-Constitution-of-Kazakhstan + 1998-Law-on-Marriage-and-Family + 2002-Law-on-Rights-of-the-Child + 2011-Code-on-Marriage-and-Family-518-IV + 2013-Hague-Convention-1980-accession + 2022-Bloody-January-2022-+-Tokayev-presidency + 2024-Supreme-Court-+-Constitutional-Court-restructured-best-interests.",
+    "Civil-law post-Soviet Central Asia (Code on Marriage and Family 2011 + Law on Rights of the Child 2002 + Hague Convention 1980 accession 2013 + bilingual Kazakh/Russian + Constitutional Court 2023 restructure). Last Soviet republic to declare independence 1991 + 30+ year post-Soviet independent-republic framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Code on Marriage and Family 2011 arts. 60-77 + Law on Rights of the Child 2002 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Central-Asian + civil-law + post-Soviet-republic-cluster + last-Soviet-republic-to-declare-independence-1991-distinctive + Kazakh-SSR-1936 + Nazarbayev-presidency-1991-2019 + Tokayev-presidency-since-2019-+-Bloody-January-2022-protests + Constitution-of-Kazakhstan-1995-+-Constitutional-Council-+-Constitutional-Court-2023-restructure + Code-on-Marriage-and-Family-2011-No-518-IV + Law-on-Rights-of-the-Child-2002 + bilingual-Kazakh-Russian-post-Soviet-language-policy + Hague-Convention-accession-2013 + post-Soviet-codification-trajectory-with-Russia-Belarus-Ukraine clusters within the corpus."
   ]
 }

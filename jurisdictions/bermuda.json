@@ -53,24 +53,59 @@
   "anonymisation_convention": "Bermudian family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1609,
+      "title": "Sea Venture wreck + Somers Isles + founding framework",
+      "description": "Sea Venture wreck 28 July 1609 — Admiral Sir George Somers and Virginia Company colonists shipwrecked on Bermuda reefs — substantively distinctive globally English-accidental-colonisation framework. Foundational pre-1620-House-of-Assembly framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1620,
       "title": "House of Assembly — oldest legislature in Western Hemisphere",
-      "description": "Bermuda House of Assembly traditionally dated to 1620 — oldest continuously self-governing legislature in the Western Hemisphere."
+      "description": "Bermuda House of Assembly traditionally dated to 1 August 1620 — substantively distinctive globally oldest continuously self-governing legislature in the Western Hemisphere (406+ years through 2026). Foundational substantive parliamentary-democracy framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1684,
+      "title": "Crown Colony status + post-Somers-Isles-Company framework",
+      "description": "Bermuda Company dissolved 1684 with Crown Colony status established — substantively distinctive North Atlantic Crown-Colony-with-self-governing-legislature framework. Foundational constitutional-administrative framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1968,
+      "title": "Constitution of Bermuda 1968 + self-government framework",
+      "description": "Constitution of Bermuda 1968 substantively reforming political-institutional framework — establishing internal self-government with UK retaining external affairs, defence, internal security, and police. Substantive Premier-of-Bermuda framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1974,
-      "title": "Matrimonial Causes Act",
-      "description": "Federal matrimonial-causes statute enacted."
+      "title": "Matrimonial Causes Act 1974",
+      "description": "Federal matrimonial-causes statute enacted. Foundational substantive matrimonial-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1995,
+      "title": "Bermuda independence referendum 1995 + UK-status-confirmation framework",
+      "description": "Bermuda independence referendum 16 August 1995 — substantively distinctive North Atlantic 73.6% in favour of remaining a UK Overseas Territory (vs independence). Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1998,
-      "title": "Children Act 1998",
-      "description": "Federal Children Act enacted drawing on English Children Act 1989 model."
+      "title": "Children Act 1998 + UK UNCRC-extension framework",
+      "description": "Federal Children Act 1998 enacted drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions. UK ratified UNCRC 16 December 1991 with extension to Bermuda — establishing welfare-of-the-child substantive doctrine within UK-derivative common-law framework applicable to Bermuda."
     },
     {
       "year": 1999,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by UK to Bermuda effective 1 March 1999."
+      "description": "Hague Convention 1980 territorial extension by UK to Bermuda effective 1 March 1999 — establishing North Atlantic Hague Convention jurisdiction framework within UK BOT framework."
+    },
+    {
+      "year": 2018,
+      "title": "Domestic Partnership Act 2018 + same-sex-marriage-cycle framework",
+      "description": "Bermuda Domestic Partnership Act 7 February 2018 — substantively distinctive globally first-jurisdiction-to-revoke-same-sex-marriage framework following 2017 Godwin and DeRoche v Registrar General (allowing same-sex marriage). Subsequent 2018 Supreme Court ruling restoring same-sex marriage + 2022 Privy Council ruling upholding Domestic Partnership Act marriage-revocation. Substantive Privy-Council-marriage-equality-jurisprudence framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Burt premiership + Bermuda Human Rights Commission + Department of Child and Family Services",
+      "description": "David Burt (PLP) continuing-premiership 2017-onwards framework consolidation through 2023. Bermuda Human Rights Commission institutional position addressing PA-related issues within Children Act 1998 + Matrimonial Causes Act 1974 framework. Department of Child and Family Services institutional position substantively significant for family-law adjudication. Substantively significant Caribbean/North Atlantic BOT institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Bermuda + JCPC — welfare-of-the-child substantive register + continuing-BOT-framework",
+      "description": "Court of Appeal of Bermuda and Judicial Committee of the Privy Council continue to develop welfare-of-the-child jurisprudence under Children Act 1998 s. 3 + Matrimonial Causes Act 1974 + Hague Convention 1980 framework in custody disputes within continuing-BOT framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -107,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Bermuda jurisdiction sidecar — common-law North Atlantic BOT (Children Act 1998 + Matrimonial Causes Act 1974 + House of Assembly 1620 oldest-Western-Hemisphere-legislature + JCPC final-appellate + Hague via UK territorial extension 1999).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins North Atlantic + common-law + BOT cluster + oldest-Western-Hemisphere-legislature-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+    "Bermuda jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Sea-Venture-1609-to-continuing-BOT-framework trajectory: 1609-Sea-Venture-wreck-+-Somers-Isles + 1620-House-of-Assembly-oldest-Western-Hemisphere-legislature + 1684-Crown-Colony-status + 1968-Constitution-of-Bermuda-+-self-government + 1974-Matrimonial-Causes-Act + 1995-Bermuda-independence-referendum-73.6-percent-against + 1998-Children-Act-+-UK-UNCRC-extension + 1999-Hague-Convention-1980-territorial-extension + 2018-Domestic-Partnership-Act-+-same-sex-marriage-cycle + 2024-Court-of-Appeal-+-JCPC-welfare.",
+    "Common-law North Atlantic BOT (Children Act 1998 + Matrimonial Causes Act 1974 + House of Assembly 1620 oldest-Western-Hemisphere-legislature + JCPC final-appellate + Hague via UK territorial extension 1999). 406+ years continuously self-governing legislature globally distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children Act 1998 s. 3 + Matrimonial Causes Act 1974 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins North Atlantic + common-law + BOT-cluster + House-of-Assembly-1620-oldest-Western-Hemisphere-legislature-406-years-globally-distinctive + Sea-Venture-1609-accidental-colonisation + Bermuda-Company-1684-Crown-Colony-transition + Bermuda-independence-referendum-1995-73.6-percent-against-distinctive + Domestic-Partnership-Act-2018-first-jurisdiction-to-revoke-same-sex-marriage-distinctive + Godwin-2017-+-Privy-Council-2022-marriage-equality-jurisprudence + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
   ]
 }

@@ -59,19 +59,59 @@
   "anonymisation_convention": "Cypriot family-law decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Cyprus independence + Constitution 1960",
+      "description": "Cyprus achieved independence 16 August 1960 from United Kingdom following Zurich-London Agreements. Constitution of the Republic of Cyprus adopted establishing consociational power-sharing framework between Greek-Cypriot and Turkish-Cypriot communities. Council of Europe founding membership pursued; ratified ECHR 6 October 1962 (effective)."
+    },
+    {
+      "year": 1974,
+      "title": "Turkish invasion + de facto division + Northern Cyprus declared 1983",
+      "description": "Turkish military invasion 20 July 1974 following Greek military coup 15 July 1974 — substantively divided island into Greek-Cypriot south and Turkish-Cypriot north. Turkish Republic of Northern Cyprus declared 15 November 1983 (recognised only by Türkiye). Republic of Cyprus exercises de jure jurisdiction over entire island including northern occupied territories but de facto only southern Greek-Cypriot area."
+    },
+    {
+      "year": 1991,
+      "title": "Cyprus ratifies UN Convention on the Rights of the Child + Hague Convention 1980 accession",
+      "description": "Cyprus ratified the UNCRC on 7 February 1991. Concurrently, Cyprus acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 February 1995. Substantively significant for cross-border-displacement custody matters."
+    },
+    {
       "year": 1990,
-      "title": "Family Courts Law 1990",
-      "description": "Specialised Family Courts established."
+      "title": "Family Courts Law 23/1990",
+      "description": "Specialised Family Courts (Οικογενειακά Δικαστήρια) established under Family Courts Law 23/1990 — providing specialised first-instance family-law-adjudication framework with integrated psychological-social assessment."
     },
     {
       "year": 1995,
-      "title": "Psychologists Registration Law 1995",
-      "description": "Federal statutory psychology profession regulation."
+      "title": "Psychologists Registration Law 68(I)/1995",
+      "description": "Federal statutory psychology profession regulation establishing the Cyprus Psychologists' Board (Συμβούλιο Εγγραφής Ψυχολόγων). Statutory registration framework with disciplinary jurisdiction. Among the earlier dedicated psychology-regulation statutes in EU Mediterranean region."
     },
     {
       "year": 2004,
-      "title": "EU accession",
-      "description": "Cyprus acceded to the European Union 1 May 2004."
+      "title": "European Union accession + EU acquis communautaire integration",
+      "description": "Cyprus joined the European Union 1 May 2004 — substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111) for cross-border child-abduction and custody matters. EU membership effectively only applies to government-controlled southern area; Protocol 10 to Act of Accession suspends acquis application to Turkish-occupied north."
+    },
+    {
+      "year": 2008,
+      "title": "Eurozone accession + EU-acquis acceleration",
+      "description": "Cyprus joined the Eurozone 1 January 2008 — substantively accelerating EU-acquis-family-law-harmonisation trajectory. Schengen Area accession pending."
+    },
+    {
+      "year": 2013,
+      "title": "Cyprus financial crisis + bailout context",
+      "description": "Cyprus financial crisis March 2013 with EU/IMF bailout programme — substantively constraining policy-reform trajectory during recovery period. Substantive demographic and economic stress affecting family-court caseload."
+    },
+    {
+      "year": 2015,
+      "title": "Civil Partnership Law (Law 184(I)/2015)",
+      "description": "Civil Cohabitation Law (Σύμφωνο Συμβίωσης) extended to same-sex couples by Law 184(I)/2015 — establishing registered civil-cohabitation framework. Subsequent debates on same-sex marriage and family-form interpretation under Constitution Art. 22."
+    },
+    {
+      "year": 2023,
+      "title": "Commissioner for the Rights of the Child institutional position + family-law implementation framework",
+      "description": "Commissioner for the Rights of the Child (Επίτροπος Προστασίας των Δικαιωμάτων του Παιδιού) institutional position addressing PA-related issues within Children Law Cap. 352 + Family Courts Law 1990 framework. Multiple Supreme Court decisions 2022-2023 developing welfare-of-the-child interpretation including allegations of one-parent obstruction of the other-parent relationship. Substantively significant Mediterranean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court — welfare-of-the-child substantive register + EU-integrated context",
+      "description": "Supreme Court of Cyprus continues to develop welfare-of-the-child jurisprudence under Children Law Cap. 352 + Family Courts Law 1990 + Constitution + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within deeply-EU-integrated Mediterranean mixed-legal-system framework + ongoing de-facto-division-Northern-Cyprus jurisdiction-complication context."
     }
   ],
   "structural_findings": [
@@ -106,8 +146,9 @@
     }
   ],
   "editorial_notes": [
-    "Cyprus jurisdiction sidecar — Mediterranean mixed-legal-system framework. Children Law Cap. 352 + Family Courts Law 1990 + Psychologists Registration Law 1995 + Supreme Court as Constitutional Court.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Mediterranean mixed-jurisdiction + federal-statutory psychology regulator clusters within the corpus."
+    "Cyprus jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full independence-to-contemporary trajectory: 1960-Cyprus-independence-+-Constitution-+-ECHR-ratification + 1974-Turkish-invasion-+-de-facto-division + 1990-Family-Courts-Law-23-1990 + 1991-UNCRC-ratification-+-Hague-1980-accession + 1995-Psychologists-Registration-Law-68-I-1995 + 2004-EU-accession + 2008-Eurozone-accession + 2013-Cyprus-financial-crisis + 2015-Civil-Cohabitation-Law-Law-184-I-2015 + 2024-Supreme-Court-welfare-of-the-child-EU-integrated.",
+    "Mediterranean mixed-legal-system framework (Children Law Cap. 352 + Family Courts Law 1990 + Psychologists Registration Law 1995 + Supreme Court as Constitutional Court + Constitution 1960 + Council of Europe/ECHR + Hague Convention 1980 + EU acquis + Eurozone).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children Law Cap. 352 + Family Courts Law 1990 + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins Mediterranean-mixed-jurisdiction + post-British-colonial-mixed-legal-system + Council-of-Europe-founding-member-ECHR-1962 + Hague-1980-Eastern-Mediterranean + EU-member-state-2004 + Eurozone-2008 + federal-statutory psychology regulator (Cyprus Psychologists' Board with Greek Law 991/1979, Romanian CPR, Croatian HPK) + de-facto-division-Northern-Cyprus-jurisdiction-complication-globally-distinctive + EU-Protocol-10-suspended-acquis-Northern-Cyprus + 1974-Turkish-invasion-foundational-political-disruption + consociational-power-sharing-1960-Greek-Turkish-Cypriot clusters within the corpus."
   ]
 }

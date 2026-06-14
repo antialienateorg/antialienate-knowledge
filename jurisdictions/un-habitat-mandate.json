@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "id": "un-habitat-mandate",
+  "name": "UN-Habitat Mandate 1978 (UN Human Settlements Programme)",
+  "jurisdiction_code": "UHB",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-08",
+  "summary": "The United Nations Human Settlements Programme (UN-Habitat) is a global supranational meta-framework foundational-UN-Habitat framework established by the UN General Assembly — structurally distinctive globally as the only modern global supranational framework operating on formal international-sustainable-urbanization framework + only UN agency operating on urbanization framework (UN-Habitat established 19 December 1977 by UN General Assembly Resolution 32/162 as UN Centre for Human Settlements UNCHS Habitat + UN-Habitat operations began 1978 + UN-Habitat reformed 2001 by UN General Assembly Resolution 56/206 elevating to UN-Habitat Programme + UN-Habitat reformed 2018 by UN General Assembly Resolution 73/239 establishing UN-Habitat Assembly framework — formal foundational UN-Habitat framework establishing comprehensive UN-Habitat organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational framework operating on formal international-sustainable-urbanization framework + only UN agency operating on urbanization framework + only modern global supranational framework operating formal Habitat I Vancouver 1976 + Habitat II Istanbul 1996 + Habitat III Quito 2016 quadrennial-Habitat-Conferences framework + only modern global supranational framework operating formal New Urban Agenda 2016 framework + only modern global supranational framework operating formal SDG 11 Sustainable Cities and Communities framework + only modern global supranational framework operating formal World Urban Forum WUF biennial framework via WUF1 2002 Nairobi to WUF12 2024 Cairo + WUF13 2026 framework + only modern global supranational framework operating formal World Habitat Day October framework + only modern global supranational framework operating formal World Cities Report annual framework + only modern global supranational framework operating formal Adequate Housing Special Rapporteur framework + only modern global supranational framework operating formal UN-Habitat Assembly 2018 framework + only modern global supranational framework operating formal Anaclaudia Rossbach UN-Habitat Executive Director 2024-2027 framework + only modern global supranational framework operating formal 55% global urbanization 2024-2050 framework + only modern global supranational framework operating formal Trump-administration-UN-Habitat-funding-cuts 2025 framework). The UN-Habitat Mandate is operating upon 90+ countries field operations + global coverage framework — comprehensive universal coverage framework. The Mandate is silent on 'parental alienation' as a statutory label, though formal UN-Habitat Adequate Housing framework operates limited intersection with parental-alienation framework via formal cross-border-housing-displacement-of-families-of-separated-parents framework. The UN-Habitat Assembly + UN-Habitat Executive Board + UN-Habitat Executive Director + UN-Habitat Secretariat are the formal UN-Habitat bodies; national-level apex courts operate as judicial bodies. The UN-Habitat Mandate is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UN-Habitat Founding Resolution 1977 (UN General Assembly Resolution 32/162)",
+      "title": "UN-Habitat Founding Resolution",
+      "year": 1977,
+      "url": "https://unhabitat.org/",
+      "relevance": "UN-Habitat established 19 December 1977 by UN General Assembly Resolution 32/162 as UN Centre for Human Settlements UNCHS Habitat — formal foundational UN-Habitat framework establishing comprehensive UN-Habitat organisation framework."
+    },
+    {
+      "citation": "UN-Habitat Reform Resolution 2001 (UN General Assembly Resolution 56/206)",
+      "title": "UN-Habitat Reform Resolution",
+      "year": 2001,
+      "url": "https://unhabitat.org/",
+      "relevance": "UN-Habitat reformed 2001 by UN General Assembly Resolution 56/206 elevating to UN-Habitat Programme — formal UN-Habitat 2001 reform framework."
+    },
+    {
+      "citation": "New Urban Agenda 2016",
+      "title": "New Urban Agenda",
+      "year": 2016,
+      "url": "https://unhabitat.org/",
+      "relevance": "New Urban Agenda adopted 20 October 2016 at Habitat III Quito Ecuador — formal foundational New Urban Agenda framework."
+    },
+    {
+      "citation": "UN-Habitat Assembly Resolution 2018 (UN General Assembly Resolution 73/239)",
+      "title": "UN-Habitat Assembly Resolution",
+      "year": 2018,
+      "url": "https://unhabitat.org/",
+      "relevance": "UN-Habitat reformed 2018 by UN General Assembly Resolution 73/239 establishing UN-Habitat Assembly framework — formal UN-Habitat 2018 reform framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UN-Habitat Assembly",
+      "seat": "Nairobi",
+      "url": "https://unhabitat.org/about-us/un-habitat-assembly",
+      "role": "Formal supreme decision-making body for UN-Habitat — established 2018 by UN General Assembly Resolution 73/239."
+    },
+    {
+      "name": "UN-Habitat Executive Board",
+      "seat": "Nairobi",
+      "url": "https://unhabitat.org/",
+      "role": "Formal executive body for UN-Habitat composed of 36 members."
+    },
+    {
+      "name": "UN-Habitat Executive Director",
+      "seat": "Nairobi",
+      "url": "https://unhabitat.org/",
+      "role": "Formal administrative head body for UN-Habitat — Anaclaudia Rossbach Brazil UN-Habitat Executive Director 2024-2027 framework."
+    },
+    {
+      "name": "UN-Habitat Secretariat",
+      "seat": "Nairobi",
+      "url": "https://unhabitat.org/",
+      "role": "Formal administrative body for UN-Habitat."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UN-Habitat Secretariat",
+      "url": "https://unhabitat.org/",
+      "role": "UN-Habitat Mandate implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UN-Habitat-related communications operate via state-state framework via UN-Habitat Assembly + Executive Board; individual communications not formally accepted under UN-Habitat framework.",
+  "key_developments": [
+    {
+      "year": 1976,
+      "title": "Habitat I Vancouver",
+      "description": "Habitat I UN Conference on Human Settlements held 31 May - 11 June 1976 in Vancouver Canada — predecessor framework to UN-Habitat."
+    },
+    {
+      "year": 1977,
+      "title": "UN-Habitat established as UNCHS",
+      "description": "UN-Habitat established 19 December 1977 by UN General Assembly Resolution 32/162 as UN Centre for Human Settlements UNCHS Habitat — formal foundational UN-Habitat framework operational."
+    },
+    {
+      "year": 1978,
+      "title": "UN-Habitat operations begin in Nairobi",
+      "description": "UN-Habitat operations began 1978 in Nairobi Kenya — formal foundational UN-Habitat operational framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "Habitat II Istanbul",
+      "description": "Habitat II UN Conference on Human Settlements held 3-14 June 1996 in Istanbul Turkey + Istanbul Declaration on Human Settlements + Habitat Agenda framework — formal Habitat II framework operational."
+    },
+    {
+      "year": 2001,
+      "title": "UN-Habitat 2001 reform + UN-Habitat Programme",
+      "description": "UN-Habitat reformed 2001 by UN General Assembly Resolution 56/206 elevating to UN-Habitat Programme + renamed United Nations Human Settlements Programme UN-Habitat — formal UN-Habitat 2001 reform framework operational."
+    },
+    {
+      "year": 2002,
+      "title": "WUF1 World Urban Forum Nairobi",
+      "description": "WUF1 World Urban Forum held 29 April - 3 May 2002 in Nairobi Kenya — formal first WUF framework operational."
+    },
+    {
+      "year": 2016,
+      "title": "Habitat III Quito + New Urban Agenda",
+      "description": "Habitat III UN Conference on Housing and Sustainable Urban Development held 17-20 October 2016 in Quito Ecuador + New Urban Agenda adopted 20 October 2016 — formal Habitat III + New Urban Agenda framework operational."
+    },
+    {
+      "year": 2018,
+      "title": "UN-Habitat Assembly + 2018 reform",
+      "description": "UN-Habitat reformed 2018 by UN General Assembly Resolution 73/239 establishing UN-Habitat Assembly framework — formal UN-Habitat 2018 reform + Assembly framework operational."
+    },
+    {
+      "year": 2024,
+      "title": "Anaclaudia Rossbach UN-Habitat Executive Director + WUF12 Cairo",
+      "description": "Anaclaudia Rossbach Brazil became UN-Habitat Executive Director 2024 + WUF12 World Urban Forum held 4-8 November 2024 in Cairo Egypt — formal Anaclaudia Rossbach + WUF12 Cairo framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-UN-Habitat-cuts + UN80",
+      "description": "Trump-administration-UN-Habitat-funding-cuts 2025 + UN80 Reform Process 2025-2026 framework — formal Trump-cuts + UN80 framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UN-Habitat Mandate operates a supranational global framework — places UN-Habitat Mandate in the global supranational-meta-framework cluster.",
+    "Only modern global supranational framework operating on formal international-sustainable-urbanization framework + only UN agency operating on urbanization framework is structurally distinctive globally — only modern global supranational framework operating on formal international-sustainable-urbanization framework + only UN agency operating on urbanization framework + only modern global supranational framework operating formal Habitat I Vancouver 1976 + Habitat II Istanbul 1996 + Habitat III Quito 2016 quadrennial-Habitat-Conferences framework + only modern global supranational framework operating formal New Urban Agenda 2016 framework + only modern global supranational framework operating formal SDG 11 Sustainable Cities and Communities framework + only modern global supranational framework operating formal WUF biennial 2002-2026 framework + only modern global supranational framework operating formal World Habitat Day October framework + only modern global supranational framework operating formal World Cities Report annual framework + only modern global supranational framework operating formal Adequate Housing Special Rapporteur framework + only modern global supranational framework operating formal UN-Habitat Assembly 2018 framework + only modern global supranational framework operating formal Anaclaudia Rossbach UN-Habitat Executive Director 2024-2027 framework + only modern global supranational framework operating formal 55% global urbanization 2024-2050 framework + only modern global supranational framework operating formal Trump-administration-UN-Habitat-funding-cuts 2025 framework.",
+    "Central jurisdiction of formal Habitat-Conferences framework is structurally distinctive globally — only modern global supranational framework operating formal Habitat I Vancouver 1976 + Habitat II Istanbul 1996 + Habitat III Quito 2016 quadrennial-Habitat-Conferences framework.",
+    "Central jurisdiction of formal New Urban Agenda 2016 framework is structurally distinctive globally — only modern global supranational framework operating formal New Urban Agenda framework.",
+    "Central jurisdiction of formal UN-Habitat Assembly 2018 framework is structurally distinctive globally — only modern global supranational framework operating formal UN-Habitat Assembly framework.",
+    "90+ countries field operations + global coverage framework is structurally distinctive globally — comprehensive universal coverage framework.",
+    "1976 Habitat I + 1977 UN-Habitat + 1978 operations Nairobi + 1996 Habitat II + 2001 reform + UN-Habitat Programme + 2002 WUF1 + 2016 Habitat III + New Urban Agenda + 2018 UN-Habitat Assembly + 2024 Anaclaudia Rossbach + WUF12 Cairo + 2025 Trump-cuts + UN80 UN-Habitat-framework-development sequence is structurally distinctive globally.",
+    "UN-Habitat Mandate + Habitat I + Habitat II + Habitat III + New Urban Agenda + SDG 11 + UN-Habitat Assembly + WUF + Adequate Housing Special Rapporteur formal nonet framework with limited PA-intersection framework via formal cross-border-housing-displacement-of-families-of-separated-parents framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "jurisdiction:un-general-assembly",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UN-Habitat",
+      "url": "https://unhabitat.org/",
+      "publisher": "UN-Habitat Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UN-Habitat Mandate jurisdiction sidecar — supranational global international-sustainable-urbanization foundational-UN-Habitat meta-framework (UN-Habitat Founding Resolution 1977 + Habitat I Vancouver 1976 predecessor + Habitat II Istanbul 1996 + Habitat III Quito 2016 + New Urban Agenda 2016 + 2001 reform + UN-Habitat Programme + 2018 reform + UN-Habitat Assembly + WUF biennial 2002-2026 + SDG 11 + Anaclaudia Rossbach 2024 + WUF12 Cairo + 1978 operations + Trump-cuts 2025). Only modern global supranational framework operating on formal international-sustainable-urbanization framework + only UN agency operating on urbanization framework + only modern global supranational framework operating formal Habitat I Vancouver 1976 + Habitat II Istanbul 1996 + Habitat III Quito 2016 quadrennial + only modern global supranational framework operating formal New Urban Agenda 2016 + only modern global supranational framework operating formal SDG 11 Sustainable Cities and Communities + only modern global supranational framework operating formal WUF biennial 2002-2026 + only modern global supranational framework operating formal World Habitat Day October + only modern global supranational framework operating formal World Cities Report annual + only modern global supranational framework operating formal Adequate Housing Special Rapporteur + only modern global supranational framework operating formal UN-Habitat Assembly 2018 + only modern global supranational framework operating formal Anaclaudia Rossbach UN-Habitat Executive Director 2024-2027 + only modern global supranational framework operating formal 55% global urbanization 2024-2050 + only modern global supranational framework operating formal Trump-UN-Habitat-cuts 2025 + central jurisdiction of formal Habitat-Conferences + central jurisdiction of formal New Urban Agenda 2016 + central jurisdiction of formal UN-Habitat Assembly 2018 + 90+ countries field operations + UN-Habitat Headquartered Nairobi + 1976 Habitat I + 1977 UN-Habitat + 1978 operations Nairobi + 1996 Habitat II + 2001 reform + UN-Habitat Programme + 2002 WUF1 + 2016 Habitat III + New Urban Agenda + 2018 UN-Habitat Assembly + 2024 Anaclaudia Rossbach + WUF12 Cairo + 2025 Trump-cuts + UN80 UN-Habitat-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UN-Habitat Adequate Housing framework operates limited intersection with parental-alienation framework via formal cross-border-housing-displacement-of-families-of-separated-parents framework.",
+    "Joins global + supranational + international-sustainable-urbanization-foundational-UN-Habitat cluster + UN-Habitat-only-global-supranational-framework-on-international-urbanization-globally-distinctive + only-UN-agency-on-urbanization + Habitat-I-Vancouver-1976 + Habitat-II-Istanbul-1996 + Habitat-III-Quito-2016 + New-Urban-Agenda-2016 + SDG-11-Sustainable-Cities-Communities + WUF-biennial-2002-2026-WUF1-Nairobi-WUF12-Cairo-2024-WUF13-2026 + World-Habitat-Day-October + World-Cities-Report-annual + Adequate-Housing-Special-Rapporteur + UN-Habitat-Assembly-2018-Resolution-73-239 + Anaclaudia-Rossbach-Brazil-UN-Habitat-Executive-Director-2024-2027 + 55-percent-global-urbanization-2024 + UN-Centre-for-Human-Settlements-UNCHS-Habitat-1977-2001 + UN-Habitat-Programme-2001-Resolution-56-206 + 90+-countries-field-operations + UN-Habitat-Headquartered-Nairobi + Trump-UN-Habitat-cuts-2025 + cross-border-housing-displacement-of-families-of-separated-parents-PA-intersection clusters within the corpus."
+  ]
+}

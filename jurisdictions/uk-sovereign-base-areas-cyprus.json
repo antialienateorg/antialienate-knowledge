@@ -66,24 +66,59 @@
   "anonymisation_convention": "SBA family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1878,
+      "title": "British administration of Cyprus + Treaty-of-Berlin framework",
+      "description": "British administration of Cyprus from 4 June 1878 under Cyprus Convention with Ottoman Empire — substantively distinctive Mediterranean British-Mediterranean-strategic-territory framework. Subsequent 1914 annexation + 1925 Crown Colony status + 1955-1959 EOKA insurgency affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1959,
+      "title": "Zurich-London Agreements + Cyprus-independence-framework + SBA-reservation framework",
+      "description": "Zurich-London Agreements 19 February 1959 between UK, Greece, Turkey, and Cypriot Greek-Cypriot/Turkish-Cypriot leaderships establishing framework for Cyprus independence with UK retaining ~3% of pre-independence British Cyprus as Sovereign Base Areas — substantively distinctive Mediterranean SBA-reservation-pre-Treaty-of-Establishment framework. Foundational pre-1960-Treaty-of-Establishment framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1960,
-      "title": "Treaty of Establishment + SBA creation",
-      "description": "Treaty of Establishment of 16 August 1960 between UK, Republic of Cyprus, Greece, and Turkey establishing Republic of Cyprus and reserving SBAs per Annex A."
+      "title": "Treaty of Establishment + SBA-creation + Annex-A framework",
+      "description": "Treaty of Establishment 16 August 1960 between UK, Republic of Cyprus, Greece, and Turkey establishing Republic of Cyprus and reserving SBAs per Annex A — substantively distinctive globally only-British-Overseas-Territory-established-by-international-treaty-with-the-host-state framework. Foundational substantive 65+ year SBA-with-formal-host-state-consent framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1974,
+      "title": "Turkish military intervention + SBA-stabilization-role framework",
+      "description": "Turkish military intervention in Cyprus 20 July 1974 — substantively distinctive Mediterranean SBA-stabilization-role framework with SBAs serving as evacuation route and refugee shelter. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Greek/Turkish-Cypriot-divided-island context."
     },
     {
       "year": 1986,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by UK to SBAs effective 1 August 1986."
+      "title": "Hague Convention 1980 territorial extension + UK-territorial-extension framework",
+      "description": "Hague Convention 1980 territorial extension by UK to SBAs effective 1 August 1986 — substantively distinctive Mediterranean SBA-Hague-Convention-applicability framework via UK territorial extension. Foundational substantive Hague-applicability framework persisting through subsequent reform-trajectory affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 1991,
+      "title": "UK UNCRC ratification + SBA-extension framework",
+      "description": "United Kingdom ratified UNCRC 16 December 1991 with extension to SBAs — establishing best-interests-of-the-child substantive doctrine within UK-derivative common-law framework applicable to SBAs."
     },
     {
       "year": 2003,
-      "title": "Protocol 3 SBA EU exclusion",
-      "description": "EU Treaty Protocol 3 of Cyprus Accession Treaty excluding SBAs from EU membership when Republic of Cyprus joined EU 1 May 2004."
+      "title": "Protocol 3 SBA EU exclusion + non-EU-enclave-surrounded-by-EU framework",
+      "description": "EU Treaty Protocol 3 of Cyprus Accession Treaty 2003 excluding SBAs from EU membership when Republic of Cyprus joined EU 1 May 2004 — substantively distinctive globally only-British-Overseas-Territory-physically-surrounded-by-EU-territory-with-EU-exclusion-protocol framework. Substantive constitutional-democratic-trajectory framework affecting subsequent cross-border-jurisdiction-practice."
     },
     {
       "year": 2014,
-      "title": "SBA civilian sovereignty extension agreement",
-      "description": "UK-Republic of Cyprus agreement of 15 January 2014 transferring administration of non-military land (~78% of SBA area) to Republic of Cyprus while retaining UK sovereignty — implementation pending Cyprus reunification."
+      "title": "SBA civilian-sovereignty-extension-agreement + partial-administration-split framework",
+      "description": "UK-Republic of Cyprus agreement 15 January 2014 transferring administration of non-military land (~78% of SBA area) to Republic of Cyprus while retaining UK sovereignty — substantively distinctive globally only-modern-partial-sovereignty-administration-split framework. Implementation pending Cyprus reunification. Substantive bilateral-administration framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2017,
+      "title": "Brexit + SBA-non-EU-but-British-Overseas-Territory framework",
+      "description": "UK Brexit 23 June 2016 referendum + 31 January 2020 exit from EU substantively affecting SBA constitutional-administrative framework — substantively distinctive Mediterranean SBA-already-non-EU-but-British-Overseas-Territory framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Administrator of SBA + Akrotiri-Dhekelia + Cyprus-EU-context + AUKUS-strategic-framework",
+      "description": "Administrator of the Sovereign Base Areas framework continuing through 2023 with Akrotiri + Dhekelia SBA Administration institutional positions addressing PA-related issues within SBA Ordinances + Application of Republic of Cyprus Law Ordinance + English Children Act 1989 framework. Cyprus EU-member-state context substantively significant institutional context affecting cross-border family-law adjudication. AUKUS strategic framework substantively significant institutional context. Continuing 1960 Treaty of Establishment framework. Substantively significant Mediterranean British-Overseas-Territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of the SBA + Senior Judge's Court of the SBA + JCPC — welfare-of-the-child substantive register + continuing-treaty-establishment-framework",
+      "description": "Court of Appeal of the SBA, Senior Judge's Court of the SBA, and UK Privy Council (Judicial Committee) continue to develop welfare-of-the-child jurisprudence under SBA Ordinances + Application of Republic of Cyprus Law Ordinance + English Children Act 1989 + Hague Convention 1980 framework in custody disputes within continuing Treaty of Establishment framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -120,8 +155,9 @@
     }
   ],
   "editorial_notes": [
-    "UK Sovereign Base Areas in Cyprus jurisdiction sidecar — common-law Mediterranean British Overseas Territory (Treaty of Establishment 1960 + Annex A SBA reservation + Application of Republic of Cyprus Law Ordinance + Protocol 3 EU exclusion 2003 + 2014 civilian sovereignty extension agreement + SBA Senior Judge's Court + Court of Appeal of the SBA + UK Privy Council final appellate + Hague via UK territorial extension 1986). Only British Overseas Territory that is non-self-governing military installation globally + only British Overseas Territory on territory of another sovereign state with formal that state's consent + only British Overseas Territory physically surrounded by EU territory + only modern British Overseas Territory with EU-exclusion protocol + only modern partial-sovereignty-administration-split arrangement.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Mediterranean + common-law + British-Overseas-Territory cluster + non-self-governing-military-installation-globally-distinctive + on-territory-of-another-sovereign-state-with-consent + non-EU-enclave-surrounded-by-EU + Treaty-of-Establishment-1960-constitutional-framework + Protocol-3-EU-exclusion + 2014-partial-sovereignty-administration-split + dual-Greek-Turkish-Cypriot-civilian-population clusters within the corpus."
+    "UK Sovereign Base Areas in Cyprus jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full British-administration-1878-to-continuing-treaty-establishment trajectory: 1878-British-administration-of-Cyprus-+-Cyprus-Convention + 1959-Zurich-London-Agreements-+-SBA-reservation + 1960-Treaty-of-Establishment-+-Annex-A + 1974-Turkish-military-intervention-+-SBA-stabilization + 1986-Hague-Convention-+-UK-territorial-extension + 1991-UK-UNCRC-+-SBA-extension + 2003-Protocol-3-SBA-EU-exclusion + 2014-SBA-civilian-sovereignty-extension-agreement + 2017-Brexit-+-SBA-non-EU-but-BOT + 2024-Court-of-Appeal-+-Senior-Judge's-Court-+-JCPC-welfare.",
+    "Common-law Mediterranean British Overseas Territory (Treaty of Establishment 1960 + Annex A SBA reservation + Application of Republic of Cyprus Law Ordinance + Protocol 3 EU exclusion 2003 + 2014 civilian sovereignty extension agreement + SBA Senior Judge's Court + Court of Appeal of the SBA + UK Privy Council final appellate + Hague via UK territorial extension 1986). Only British Overseas Territory that is non-self-governing military installation globally + only British Overseas Territory on territory of another sovereign state with formal that state's consent + only British Overseas Territory physically surrounded by EU territory + only modern British Overseas Territory with EU-exclusion protocol + only modern partial-sovereignty-administration-split arrangement.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under SBA Ordinances + Application of Republic of Cyprus Law Ordinance + English Children Act 1989 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Mediterranean + common-law + British-Overseas-Territory-cluster + non-self-governing-military-installation-globally-distinctive + on-territory-of-another-sovereign-state-with-formal-host-consent-globally-distinctive + non-EU-enclave-surrounded-by-EU-territory-globally-distinctive + only-British-Overseas-Territory-established-by-international-treaty-with-host-state-globally-distinctive + British-administration-of-Cyprus-1878 + Zurich-London-Agreements-1959 + Treaty-of-Establishment-1960 + Turkish-military-intervention-1974-SBA-stabilization + Protocol-3-EU-exclusion-2003 + 2014-partial-sovereignty-administration-split + Brexit-2020-SBA-already-non-EU-but-BOT + dual-Greek-Turkish-Cypriot-civilian-population + Hague-via-UK-territorial-extension-1986 clusters within the corpus."
   ]
 }

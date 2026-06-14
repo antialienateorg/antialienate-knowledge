@@ -67,29 +67,59 @@
   "anonymisation_convention": "Galician family-court decisions are anonymised per Galician court practice using initials.",
   "key_developments": [
     {
+      "year": 410,
+      "title": "Suebic Kingdom of Galicia + early-medieval-Celtic-heritage framework",
+      "description": "Suebic Kingdom of Galicia 410-585 CE — substantively distinctive North-western Iberian early-medieval-Germanic-kingdom-with-Celtic-substrate framework. Foundational pre-1287-Foros-de-Galicia framework affecting subsequent constitutional-administrative-trajectory and Celtic-heritage-recognised constitutional identity."
+    },
+    {
       "year": 1287,
-      "title": "Foro Real granted to Galicia",
-      "description": "Foro Real granted to Galicia ~13th century — foundational framework of Galician customary law."
+      "title": "Foro Real + Foros-de-Galicia + customary-law-foundational framework",
+      "description": "Foro Real granted to Galicia ~13th century — substantively distinctive North-western Iberian Foros-de-Galicia framework. Foundational substantive Galician customary-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including compañía-familiar-gallega + vitalicio + derecho-de-troncalidad rural-economy framework."
+    },
+    {
+      "year": 1481,
+      "title": "Junta del Reino de Galicia + medieval-Galician-self-governance framework",
+      "description": "Junta del Reino de Galicia established 1481 — substantively distinctive North-western Iberian medieval-Galician-self-governance framework. Subsequent dissolution 1834 with Spanish provincial reorganisation. Foundational pre-1880-Royal-Order framework affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1880,
-      "title": "Royal Order preserving Galician foral civil law",
-      "description": "Spanish Royal Order of 1880 preserving Galician foral civil law despite abolition of political fueros."
+      "title": "Royal Order + Galician-foral-civil-law-preservation framework",
+      "description": "Spanish Royal Order of 1880 preserving Galician foral civil law despite abolition of political fueros — substantively distinctive North-western Iberian Galician-foral-civil-law-preservation framework. Foundational substantive Galician-civil-law-preservation framework persisting through subsequent 1963 Compilación reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1936,
+      "title": "Galician Statute of Autonomy 1936 + Second-Spanish-Republic + suspended-by-Civil-War framework",
+      "description": "Galician Statute of Autonomy 1936 approved by 28 June 1936 referendum during Second Spanish Republic — substantively distinctive globally suspended-by-Civil-War-+-restored-only-in-1981 framework. Subsequent suspension by Francoist regime through 1981. Foundational pre-1981-Statute-of-Autonomy framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1963,
-      "title": "Compilación del Derecho Civil Especial de Galicia",
-      "description": "Compilation of Special Civil Law of Galicia adopted 2 December 1963 — first modern formal codification of Galician civil law."
+      "title": "Compilación del Derecho Civil Especial de Galicia + first-modern-formal-codification framework",
+      "description": "Compilación del Derecho Civil Especial de Galicia adopted 2 December 1963 — substantively significant North-western Iberian first-modern-formal-codification framework. Foundational substantive Galician-civil-law-codification framework persisting through subsequent 2006 Lei 2/2006 replacement affecting family-law-implementation."
+    },
+    {
+      "year": 1978,
+      "title": "Spanish Constitution Article 149.1.8 + foral-civil-law-preservation-constitutional foundation framework",
+      "description": "Spanish Constitution 1978 Article 149.1.8 providing for foral civil law preservation — substantively significant constitutional foundation for Galician civil-law jurisdiction. Foundational substantive constitutional anchor for contemporary family-law jurisprudence affecting subsequent 1981 Statute of Autonomy + 2006 Lei 2/2006 reform-trajectory."
     },
     {
       "year": 1981,
-      "title": "Statute of Autonomy of Galicia",
-      "description": "Spanish Organic Law of 6 April 1981 establishing Galician autonomous-community governance framework with distinct civil-law jurisdiction preservation."
+      "title": "Statute of Autonomy of Galicia + Spanish-Organic-Law framework",
+      "description": "Spanish Organic Law of 6 April 1981 establishing Galician autonomous-community governance framework with distinct civil-law jurisdiction preservation — substantively distinctive North-western Iberian Galician-autonomous-community-+-Celtic-heritage-recognised-constitutional-identity framework. Foundational substantive constitutional anchor for contemporary family-law jurisprudence."
     },
     {
       "year": 2006,
-      "title": "Lei 2/2006 de dereito civil de Galicia",
-      "description": "Galician Civil Law Act effective 19 July 2006 — comprehensive recodification of Galician foral civil law replacing 1963 Compilation."
+      "title": "Lei 2/2006 de dereito civil de Galicia + comprehensive-recodification + Title-IV-Family-Law framework",
+      "description": "Galician Civil Law Act effective 19 July 2006 — substantively significant North-western Iberian comprehensive-recodification framework of Galician foral civil law replacing 1963 Compilation. Title IV (Family Law) covers parental authority (patria potestade), child custody (garda e custodia), and family-property regime including sociedade de gananciais galega community-property variant. Foundational substantive Galician-civil-law framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Rueda PP Government + Parlamento-de-Galicia + Valedor-do-Pobo + Camino-de-Santiago framework",
+      "description": "Alfonso Rueda (PP) Presidency framework continuing through 2023 with Parlamento de Galicia institutional positions addressing PA-related issues within Lei 2/2006 de dereito civil de Galicia Title IV (Family Law) framework. Valedor do Pobo (Galician Ombudsperson) institutional positions affecting cross-border family-law adjudication. Continuing Camino de Santiago framework + Galician-Portuguese cross-border family-law adjudication framework substantively significant institutional context. Substantively significant North-western Iberian Galician-foral-civil-law institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Superior de Xustiza de Galicia + Tribunal Constitucional — Galician-foral-civil-law substantive register + continuing-autonomous-community framework",
+      "description": "Tribunal Superior de Xustiza de Galicia (TSXG) and Tribunal Constitucional de España continue to develop Galician-foral-civil-law jurisprudence under Lei 2/2006 Title IV (Family Law) + Spanish Constitution Article 149.1.8 + Hague Convention 1980 framework in custody and family-property disputes within continuing Galician autonomous-community framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -127,8 +157,9 @@
     }
   ],
   "editorial_notes": [
-    "Galicia jurisdiction sidecar — civil-law North-western Iberian Atlantic-coastal Spanish autonomous community with own Galician foral civil-law jurisdiction (Lei 2/2006 de dereito civil de Galicia + Statute of Autonomy 1981 + Compilación del Derecho Civil Especial de Galicia 1963 + Spanish Constitution Article 149.1.8 + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with Celtic-heritage-recognised constitutional identity operating own Foral Civil Law tradition + only EU subnational with Atlantic-rural-economy-derived distinctive civil-law institutions (compañía familiar gallega / vitalicio / derecho de troncalidad) + largest civil-foral-law Spanish autonomous community without full fiscal autonomy + sociedade de gananciais galega community-property variant. Completes Iberian foral civil-law quintet (Galicia + Aragon + Catalonia + Basque + Navarre).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins North-western-Iberian + Atlantic-coastal + civil-law + EU-subnational-civil-law-with-own-code cluster + Celtic-heritage-constitutional-identity-globally-distinctive + Atlantic-rural-economy-distinctive-civil-law-institutions + compañía-familiar-gallega + vitalicio + derecho-de-troncalidad-rural-succession + sociedade-de-gananciais-galega + Iberian-foral-civil-law-quintet clusters within the corpus."
+    "Galicia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Suebic-Kingdom-of-Galicia-410CE-to-continuing-autonomous-community trajectory: 410-Suebic-Kingdom-of-Galicia + 1287-Foro-Real-+-Foros-de-Galicia + 1481-Junta-del-Reino-de-Galicia + 1880-Royal-Order-preserving-foral-civil-law + 1936-Galician-Statute-of-Autonomy-suspended-by-Civil-War + 1963-Compilación + 1978-Spanish-Constitution-Article-149.1.8 + 1981-Statute-of-Autonomy + 2006-Lei-2/2006-de-dereito-civil-de-Galicia + 2024-TSXG-+-Tribunal-Constitucional-Galician-foral-civil-law.",
+    "Civil-law North-western Iberian Atlantic-coastal Spanish autonomous community with own Galician foral civil-law jurisdiction (Lei 2/2006 de dereito civil de Galicia + Statute of Autonomy 1981 + Compilación del Derecho Civil Especial de Galicia 1963 + Spanish Constitution Article 149.1.8 + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with Celtic-heritage-recognised constitutional identity operating own Foral Civil Law tradition + only EU subnational with Atlantic-rural-economy-derived distinctive civil-law institutions (compañía familiar gallega / vitalicio / derecho de troncalidad) + largest civil-foral-law Spanish autonomous community without full fiscal autonomy + sociedade de gananciais galega community-property variant. Completes Iberian foral civil-law quintet (Galicia + Aragon + Catalonia + Basque + Navarre).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive Galician-foral-civil-law analysis under Lei 2/2006 Title IV (Family Law) + Spanish Constitution Article 149.1.8 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins North-western-Iberian + Atlantic-coastal + civil-law + EU-subnational-civil-law-with-own-code-cluster + Celtic-heritage-recognised-constitutional-identity-globally-distinctive-one-of-seven-Celtic-nations + Atlantic-rural-economy-distinctive-civil-law-institutions-globally-distinctive + compañía-familiar-gallega + vitalicio + derecho-de-troncalidad-rural-succession + sociedade-de-gananciais-galega-community-property-variant + Suebic-Kingdom-of-Galicia-410-585CE + Foros-de-Galicia-Foro-Real-1287 + Junta-del-Reino-de-Galicia-1481-1834 + Spanish-Royal-Order-1880-foral-civil-law-preservation + Galician-Statute-of-Autonomy-1936-suspended-by-Civil-War-distinctive + Compilación-1963 + Lei-2/2006-de-dereito-civil-de-Galicia + largest-civil-foral-law-Spanish-autonomous-community-without-full-fiscal-autonomy + Iberian-foral-civil-law-quintet-Galicia-+-Aragon-+-Catalonia-+-Basque-+-Navarre clusters within the corpus."
   ]
 }

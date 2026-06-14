@@ -53,24 +53,59 @@
   "anonymisation_convention": "TRNC family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Republic of Cyprus independence + Zurich-London-Agreements framework",
+      "description": "Republic of Cyprus independence 16 August 1960 from the United Kingdom under Zurich-London Agreements with Greek-Cypriot-Turkish-Cypriot power-sharing framework — substantively distinctive Mediterranean post-Ottoman-British-protectorate framework. Foundational pre-1974-intervention framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1963,
+      "title": "Bloody Christmas + intercommunal-violence + Turkish-Cypriot-withdrawal framework",
+      "description": "Bloody Christmas 21-26 December 1963 — substantively distinctive Mediterranean intercommunal-violence framework. Turkish-Cypriot withdrawal from Republic of Cyprus government following constitutional crisis. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1974,
-      "title": "Turkish military intervention",
-      "description": "Turkish military intervention following Greek-Cypriot coup; division of Cyprus."
+      "title": "Turkish military intervention + Operation-Atilla framework",
+      "description": "Greek Cypriot Junta-backed coup 15 July 1974 followed by Turkish military intervention 20 July 1974 (Operation Atilla) — substantively distinctive Mediterranean Turkish-military-intervention-+-division framework. UN Security Council Resolution 353 demanded withdrawal. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1975,
+      "title": "Turkish Federated State of Cyprus + autonomous-administration framework",
+      "description": "Turkish Federated State of Cyprus declared 13 February 1975 — substantively distinctive Mediterranean autonomous-administration framework as precursor to TRNC. Foundational pre-1983-TRNC-declaration framework affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1983,
-      "title": "Unilateral declaration of independence",
-      "description": "TRNC unilaterally declared independence; recognised only by Turkey."
+      "title": "Unilateral declaration of independence + UN-Resolution-541-non-recognition framework",
+      "description": "TRNC unilaterally declared independence 15 November 1983 — substantively distinctive Mediterranean unilateral-declaration framework. UN Security Council Resolution 541 of 18 November 1983 declared the declaration legally invalid and called on all states not to recognise TRNC. Recognised only by Turkey. Substantive distinctive Mediterranean most-narrowly-recognised-jurisdiction framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1985,
-      "title": "TRNC Constitution",
-      "description": "Constitution establishing TRNC institutional framework."
+      "title": "TRNC Constitution 1985 + Anayasa Mahkemesi framework",
+      "description": "TRNC Constitution adopted by referendum 7 May 1985 establishing TRNC institutional framework with Supreme Court and Constitutional Court (Anayasa Mahkemesi). Substantive constitutional anchor for contemporary family-law jurisprudence within Turkish-civil-law-+-English-common-law-procedural framework."
     },
     {
       "year": 1998,
-      "title": "Family Law 1/1998",
-      "description": "TRNC Family Law enacted drawing on Turkish civil-law substantive heritage with English common-law procedural inheritance."
+      "title": "TRNC Family Law 1/1998 + Turkish-civil-law-substantive framework",
+      "description": "TRNC Family (Marriage and Divorce) Law 1/1998 enacted drawing on Turkish civil-law substantive heritage with English common-law procedural inheritance via pre-1974 Cyprus framework. Part V governs parental authority and child custody. Substantively significant Mediterranean Turkish-civil-law-+-English-common-law hybrid framework."
+    },
+    {
+      "year": 2004,
+      "title": "Annan Plan referendum + Republic-of-Cyprus-EU-accession framework",
+      "description": "Annan Plan referendum 24 April 2004 — TRNC 64.9% in favour of reunification; Republic of Cyprus 75.8% against. Subsequent Republic of Cyprus EU accession 1 May 2004 with TRNC area subject to Protocol 10 (EU acquis suspension pending reunification). Substantively distinctive Mediterranean within-island-EU-membership-bifurcation framework affecting subsequent cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2014,
+      "title": "Wölfgang Eberhardt v Cyprus + ECtHR-TRNC-Loizidou-line framework",
+      "description": "European Court of Human Rights TRNC-related decisions including Loizidou v Turkey 1996 + Cyprus v Turkey 2014 — substantively distinctive Mediterranean Turkey-responsible-for-TRNC-acts framework. Substantive ECtHR jurisdictional framework affecting subsequent cross-border-family-law-jurisdiction practice."
+    },
+    {
+      "year": 2023,
+      "title": "Tatar presidency + Turkey-alignment framework + UN reunification negotiations stalemate",
+      "description": "Ersin Tatar (UBP) presidency 2020-onwards framework consolidation through 2023. Turkey-alignment framework substantively significant institutional context affecting cross-border family-law adjudication. UN reunification negotiations stalemate framework substantively significant institutional context affecting subsequent constitutional-democratic-trajectory. Substantively significant Mediterranean de-facto-state institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Yüksek Mahkeme + Anayasa Mahkemesi — welfare-of-the-child substantive register + continuing-non-recognition framework",
+      "description": "Supreme Court (Yüksek Mahkeme) and Constitutional Court (Anayasa Mahkemesi) continue to develop welfare-of-the-child jurisprudence under Family Law 1/1998 Part V + Constitution 1985 framework in custody disputes within continuing-non-recognition framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -101,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Northern Cyprus jurisdiction sidecar — mixed-legal-system Mediterranean disputed-status (Turkish civil-law substantive + English common-law procedural + Family Law 1998 + non-Hague-due-to-recognition). Recognised only by Turkey.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Mediterranean + mixed-legal-system + most-narrowly-recognised-in-corpus + Turkish-English-hybrid + non-Hague-by-recognition clusters within the corpus."
+    "Northern Cyprus jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Republic-of-Cyprus-independence-1960-to-continuing-non-recognition trajectory: 1960-Republic-of-Cyprus-independence-+-Zurich-London-Agreements + 1963-Bloody-Christmas-+-intercommunal-violence + 1974-Turkish-military-intervention-+-Operation-Atilla + 1975-Turkish-Federated-State-of-Cyprus + 1983-unilateral-declaration-+-UN-Resolution-541-non-recognition + 1985-TRNC-Constitution + 1998-TRNC-Family-Law-1/1998 + 2004-Annan-Plan-referendum-+-Republic-of-Cyprus-EU-accession + 2014-Cyprus-v-Turkey-ECtHR-TRNC-Loizidou-line + 2024-Yüksek-Mahkeme-+-Anayasa-Mahkemesi-welfare.",
+    "Mixed-legal-system Mediterranean disputed-status (Turkish civil-law substantive + English common-law procedural inheritance + Family Law 1/1998 + Constitution 1985 + non-Hague-due-to-recognition). Recognised only by Turkey — most narrowly-recognised jurisdiction in corpus + only within-island-EU-membership-bifurcation globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Family Law 1/1998 Part V + Constitution 1985 framework without doctrinal 'parental alienation' label.",
+    "Joins Mediterranean + mixed-legal-system + most-narrowly-recognised-in-corpus-only-Turkey + Turkish-civil-law-+-English-common-law-procedural-hybrid + Republic-of-Cyprus-Zurich-London-Agreements-1960 + Bloody-Christmas-1963 + Turkish-military-intervention-Operation-Atilla-1974 + Turkish-Federated-State-of-Cyprus-1975 + UN-Resolution-541-non-recognition-1983 + Constitution-1985 + Family-Law-1/1998 + Annan-Plan-referendum-2004-+-Protocol-10-EU-acquis-suspension + Cyprus-v-Turkey-ECtHR-2014-Loizidou-line-Turkey-responsibility + non-Hague-Convention-due-to-recognition clusters within the corpus."
   ]
 }

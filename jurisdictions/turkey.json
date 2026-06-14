@@ -60,25 +60,73 @@
   "anonymisation_convention": "Turkish family-law decisions are anonymised per Yargıtay practice; published Yargıtay and Anayasa Mahkemesi decisions use initials or single-letter labels. Family-court decisions are not generally published in full.",
   "key_developments": [
     {
+      "year": 1923,
+      "title": "Republic of Türkiye proclaimed + Atatürk modernisation",
+      "description": "Republic of Türkiye proclaimed 29 October 1923 by Mustafa Kemal Atatürk ending Ottoman Empire framework. Foundational political-institutional transition: 1924 abolition of caliphate + 1925 secularisation reforms + 1926 Civil Code adoption + 1928 Constitution amendment removing Islam as state religion + 1937 secularism (laiklik) constitutional codification — most radical legal-system reset in modern Muslim-majority states globally."
+    },
+    {
+      "year": 1926,
+      "title": "Civil Code 1926 (Türk Medeni Kanunu — Swiss Civil Code adoption)",
+      "description": "Civil Code adopted 17 February 1926 by Law 743 — substantively a translation of the Swiss Civil Code 1912 (with limited modifications). Radical replacement of Ottoman Sharia personal-status framework with secular Swiss-derived civil-law family-law framework — among the most distinctive legal-system reset moments globally. Operated as the substantive family-law framework for 75 years until replacement by TMK 4721/2001."
+    },
+    {
+      "year": 1937,
+      "title": "Constitutional codification of laiklik (secularism)",
+      "description": "Constitutional amendment 1937 codified laiklik (secularism) as fundamental principle of the Turkish Republic — substantively reinforcing the secular-civil-law family-law framework against any restoration attempts. Subsequent constitutions (1961, 1982) reaffirmed laiklik with Constitution 1982 Art. 2 declaring Türkiye a democratic, secular, social, rule-of-law state."
+    },
+    {
+      "year": 1954,
+      "title": "Türkiye ratifies European Convention on Human Rights",
+      "description": "Türkiye ratified the European Convention on Human Rights 18 May 1954 as a founding Council of Europe member (joined 9 August 1949). ECHR engagement subsequently became a major source of family-law jurisprudence including Article 8 (right to respect for family life) and Article 6 (fair trial) decisions affecting custody and visitation matters."
+    },
+    {
+      "year": 1995,
+      "title": "Türkiye ratifies UN Convention on the Rights of the Child",
+      "description": "Türkiye ratified the UNCRC on 4 April 1995 with reservations to Arts. 17, 29, and 30 — providing the international children's-rights-monitoring register and substantive framework for child-welfare jurisprudence under TMK family-law framework."
+    },
+    {
       "year": 2001,
-      "title": "Türk Medeni Kanunu 4721/2001",
-      "description": "New Turkish Civil Code enacted 22 November 2001, in force 1 January 2002 — substantial modernisation of family law including parental authority (velâyet) framework."
+      "title": "Türk Medeni Kanunu 4721/2001 (current operative Civil Code)",
+      "description": "New Turkish Civil Code enacted 22 November 2001, in force 1 January 2002 — substantial modernisation of family law including parental authority (velâyet) framework, marriage and divorce provisions, gender-equality provisions, and contemporary family-law framework. Replaced 1926 Swiss-derived Civil Code after 75 years. Book Two covers Family Law (arts. 118-494)."
     },
     {
       "year": 2003,
-      "title": "Law 4787/2003 — Family Courts",
-      "description": "Specialised Aile Mahkemeleri (Family Courts) established under Law 4787/2003 in force 18 January 2003."
+      "title": "Law 4787/2003 — Aile Mahkemeleri (Family Courts) established",
+      "description": "Specialised Aile Mahkemeleri (Family Courts) established under Law 4787/2003 in force 18 January 2003. Family courts are first-instance specialised courts with integrated psychological-social assessment (uzman raporu) and mediation. Appeals lie to the Bölge Adliye Mahkemesi (regional appellate court) and ultimately Yargıtay. Places Türkiye within the European specialised-Family-Court cluster."
+    },
+    {
+      "year": 2011,
+      "title": "Cengiz Kılıç v Turkey ECHR judgment + Article 8 family-life jurisprudence",
+      "description": "European Court of Human Rights judgment Cengiz Kılıç v Turkey App. No. 16192/06, 6 December 2011 — held Türkiye violated Article 8 (right to respect for family life) of ECHR by failing to take adequate measures to maintain contact between non-custodial father and child. Cited in PA-jurisprudence-relevant ECHR contact-enforcement cases. Among multiple subsequent Article 8 ECHR judgments against Türkiye in family-law context."
     },
     {
       "year": 2012,
       "title": "Anayasa Mahkemesi individual-application jurisdiction",
-      "description": "Constitutional Court individual-application jurisdiction in force 23 September 2012 — provides constitutional-rights review pathway."
+      "description": "Constitutional Court individual-application jurisdiction in force 23 September 2012 (Constitutional amendments 2010) — provides constitutional-rights review pathway for family-court determinations engaging Constitutional rights and ECHR provisions. Strasbourg-adjacent constitutional-review framework places Türkiye structurally adjacent to the Convention-incorporated jurisdictions."
+    },
+    {
+      "year": 2021,
+      "title": "Istanbul Convention withdrawal — structurally distinctive globally only formal withdrawal framework",
+      "description": "Türkiye formal withdrawal from Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Istanbul Convention) effective 1 July 2021 by Presidential Decree 3718 of 19 March 2021 — structurally distinctive globally only modern state to formally withdraw from Istanbul Convention. Substantive Istanbul Convention withdrawal framework affecting subsequent gender-violence + family-law cooperation framework + foundation for ongoing Türkiye-Council-of-Europe gender-violence-protection-debate. Substantive context for ongoing Yargıtay + Anayasa Mahkemesi family-life Article 8 jurisprudence operating without Istanbul Convention substantive register."
+    },
+    {
+      "year": 2022,
+      "title": "Çocuk Koruma Kanunu reforms + 6284 sayılı Kanun framework continuation",
+      "description": "Çocuk Koruma Kanunu (Child Protection Law 5395/2005) framework reforms and 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun (Law on Protection of Family and Prevention of Violence Against Women 2012) framework continuation post-Istanbul-Convention-withdrawal. Substantively significant for ongoing Türkiye family-law DV-protection framework operating without Istanbul Convention substantive register — establishing trajectory toward post-withdrawal Yargıtay + Anayasa Mahkemesi jurisprudence."
+    },
+    {
+      "year": 2024,
+      "title": "Yargıtay + Anayasa Mahkemesi — çocuğun üstün yararı substantive register + 2026 contemporary jurisprudence",
+      "description": "Yargıtay and Anayasa Mahkemesi continue to develop çocuğun üstün yararı (best-interests-of-the-child) jurisprudence under TMK 4721/2001 arts. 182, 323, 335-336 in custody and contact-enforcement disputes including allegations of one-parent obstruction of the other-parent relationship. Anayasa Mahkemesi individual-application jurisdiction generates regular Article 8 family-life-and-contact jurisprudence within constitutional-rights framework without adopting the 'parental alienation' label as a doctrinal term."
     }
   ],
   "structural_findings": [
-    "Türkiye sits at the boundary of the European civil-law cluster and the Middle-Eastern jurisdictions. TMK 2001 represents a substantial modernisation of family law along civil-law lines; specialised Aile Mahkemeleri operate as first-instance courts. Distinct from the federal-statutory psychology regulator regimes elsewhere in the corpus.",
-    "Anayasa Mahkemesi individual-application jurisdiction since 2012 provides a Strasbourg-adjacent constitutional-review pathway for family-court determinations engaging ECHR rights. This places Türkiye structurally adjacent to the Convention-incorporated jurisdictions while operating as a Council of Europe member with regular ECHR family-law jurisprudence (e.g. Cengiz Kılıç v. Turkey ECHR 2011 documented in the corpus practitioner-base notes).",
-    "Psychology profession regulation is structurally less comprehensive than the federal-statutory regimes elsewhere in the corpus — Ministry of Health licensing + YÖK training requirements + TPD peak-body ethics oversight rather than a unified statutory professional-order regime."
+    "Türkiye sits at the boundary of the European civil-law cluster and the Middle-Eastern jurisdictions. TMK 2001 represents a substantial modernisation of family law along civil-law lines (replacing Swiss-derived TMK 1926 after 75 years); specialised Aile Mahkemeleri operate as first-instance courts. Distinct from the federal-statutory psychology regulator regimes elsewhere in the corpus.",
+    "Among the most distinctive legal-system reset moments globally: 1923-Republic + 1924-caliphate-abolition + 1926-Swiss-Civil-Code-adoption + 1928-Constitution-amendment-removing-Islam-state-religion + 1937-laiklik-secularism-constitutional-codification — places Türkiye within the secular-civil-law-reset-from-Sharia-substrate cluster (with Tunisia 1957 Code of Personal Status as the closest comparator).",
+    "Anayasa Mahkemesi individual-application jurisdiction since 2012 provides a Strasbourg-adjacent constitutional-review pathway for family-court determinations engaging ECHR rights. This places Türkiye structurally adjacent to the Convention-incorporated jurisdictions while operating as a Council of Europe member with regular ECHR family-law jurisprudence — Cengiz Kılıç v Turkey 2011 + subsequent Article 8 contact-enforcement judgments cited in PA-jurisprudence-relevant ECHR documentation.",
+    "Multi-layer substantive-statutory framework: 1923-Republic + 1926-Swiss-Civil-Code + 1937-laiklik + 1954-ECHR-ratification + 1995-UNCRC-ratification + 2001-TMK-4721 + 2003-Aile-Mahkemeleri + 2011-Cengiz-Kılıç-ECHR + 2012-Anayasa-Mahkemesi-individual-application + 2024-Yargıtay-Anayasa-Mahkemesi-best-interests — gradual modernisation within secular-civil-law framework.",
+    "Aile Mahkemeleri (Family Courts) with integrated uzman raporu (expert report) framework places Türkiye within the European specialised-Family-Court cluster (with Germany Familiengericht, Netherlands kinderrechter, France juge aux affaires familiales).",
+    "Psychology profession regulation is structurally less comprehensive than the federal-statutory regimes elsewhere in the corpus — Ministry of Health licensing + YÖK (Council of Higher Education) training requirements + TPD peak-body ethics oversight rather than a unified statutory professional-order regime. Distinct from German Psychotherapeutengesetz model and UK HCPC."
   ],
   "references": [
     "jurisdiction:european-convention-on-human-rights",
@@ -113,8 +161,10 @@
     }
   ],
   "editorial_notes": [
-    "Türkiye jurisdiction sidecar — civil-law framework (TMK 4721/2001 + Law 4787/2003 Family Courts + Anayasa Mahkemesi individual-application 2012).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
+    "Türkiye jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Republic-to-contemporary trajectory: 1923-Republic-of-Türkiye-proclaimed-Atatürk-modernisation + 1926-Civil-Code-Swiss-adoption + 1937-laiklik-secularism-constitutional-codification + 1954-ECHR-ratification-Council-of-Europe-founding-member + 1995-UNCRC-ratification + 2001-TMK-4721-current-Civil-Code + 2003-Law-4787-Aile-Mahkemeleri-Family-Courts + 2011-Cengiz-Kılıç-v-Turkey-ECHR-Article-8 + 2012-Anayasa-Mahkemesi-individual-application + 2024-Yargıtay-Anayasa-Mahkemesi-çocuğun-üstün-yararı.",
+    "Secular-civil-law framework (TMK 4721/2001 + Swiss-civil-code-1926-replaced + Law 4787/2003 Family Courts + Anayasa Mahkemesi individual-application 2012 + ECHR-adjacent constitutional-review).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive çocuğun üstün yararı (best-interests-of-the-child) analysis under TMK arts. 182, 323, 335-336 without doctrinal 'parental alienation' label.",
+    "Joins MENA-boundary + European-civil-law-cluster + Swiss-Civil-Code-derivative + secular-civil-law-reset-from-Sharia (with Tunisia) + laiklik-constitutional-secularism + Council-of-Europe-member-ECHR-adjacent + Strasbourg-adjacent-constitutional-review-individual-application + European-specialised-Family-Court (with Germany, Netherlands, France) + UNCRC-Art-17-29-30-reservations + Cengiz-Kılıç-Article-8-contact-enforcement clusters within the corpus.",
     "Psychology profession regulation less comprehensive than federal-statutory regimes elsewhere in corpus."
   ]
 }

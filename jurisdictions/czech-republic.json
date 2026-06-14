@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "czech-republic",
+  "name": "Czech Republic (Česká republika)",
+  "jurisdiction_code": "CZ",
+  "legal_system": "civil-law",
+  "language": ["cs"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "The Czech Republic is a civil-law jurisdiction whose family courts (okresní soudy — věci rodinné) operate under the Občanský zákoník (Civil Code) Act No. 89/2012 Coll. (effective 1 January 2014) § 855-927 (rodičovská odpovědnost / parental responsibility) and the Zákon o zvláštních řízeních soudních (ZŘS) Act No. 292/2013 Coll. The statutory framework is silent on the 'rodičovské odcizení' label as a diagnostic category. The Ústavní soud (Constitutional Court) and Nejvyšší soud (Supreme Court) have addressed contact-refusal cases applying nejlepší zájem dítěte (best-interests-of-the-child) standard. The Ombudsman (Veřejný ochránce práv) and Czech Helsinki Committee have informed institutional position. Czech Republic operates within EU Brussels IIb 2019/1111 framework for cross-border family-law coordination. The 2014 Občanský zákoník recodification represented substantially transformative civil-law reform replacing socialist-era 1964 Civil Code framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "critique"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Občanský zákoník (Act No. 89/2012 Coll.) § 855-927",
+      "title": "Czech Civil Code — parental responsibility framework",
+      "year": 2012,
+      "url": "https://www.zakonyprolidi.cz/cs/2012-89",
+      "relevance": "Primary statutory basis for parental responsibility — Občanský zákoník enacted 3 February 2012 effective 1 January 2014 replacing socialist-era 1964 Civil Code and Family Act 1963. § 855-927 establishing rodičovská odpovědnost framework, nejlepší zájem dítěte standard, and post-divorce care framework."
+    },
+    {
+      "citation": "Zákon o zvláštních řízeních soudních (ZŘS) Act No. 292/2013 Coll.",
+      "title": "Special Proceedings Act",
+      "year": 2013,
+      "url": "https://www.zakonyprolidi.cz/cs/2013-292",
+      "relevance": "Special Proceedings Act effective 1 January 2014 establishing procedural framework for family-law matters. Substantively significant procedural reform paralleling 2014 Občanský zákoník recodification."
+    },
+    {
+      "citation": "Listina základních práv a svobod čl. 32",
+      "title": "Charter of Fundamental Rights and Freedoms — family-rights framework",
+      "year": 1993,
+      "url": "https://www.psp.cz/docs/laws/listina.html",
+      "relevance": "Listina základních práv a svobod (Charter of Fundamental Rights and Freedoms) constitutionally entrenched 16 December 1992 (constituent of constitutional order under Constitution čl. 3). Charter čl. 32 establishing family-and-child-rights framework with constitutional grounding."
+    },
+    {
+      "citation": "Zákon o sociálně-právní ochraně dětí (Act No. 359/1999 Coll.)",
+      "title": "Social-Legal Child-Protection Act",
+      "year": 1999,
+      "url": "https://www.zakonyprolidi.cz/cs/1999-359",
+      "relevance": "Social-Legal Child-Protection Act 1999 establishing OSPOD (Orgán sociálně-právní ochrany dětí) framework — substantively significant child-protection institutional framework intersecting with family-court adjudication."
+    },
+    {
+      "citation": "EU Regulation 2019/1111 (Brussels IIb)",
+      "title": "Cross-border family-law coordination framework",
+      "year": 2019,
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111",
+      "relevance": "EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters. Operationally significant for Czech-Slovak + Czech-Austrian + Czech-German cross-border family-law cases."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Ústavní soud České republiky",
+      "seat": "Brno",
+      "role": "Apex constitutional court; final authority on Listina základních práv čl. 32 family-rights framework interpretation"
+    },
+    {
+      "name": "Nejvyšší soud České republiky",
+      "seat": "Brno",
+      "role": "Apex civil-law court; reviews appellate-court decisions via dovolání"
+    },
+    {
+      "name": "Okresní soudy — věci rodinné",
+      "seat": "Nationwide",
+      "role": "Specialised first-instance family courts within district courts"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1964,
+      "title": "Zákon o rodině 1963 + socialist-era 1964 Civil Code — pre-1989 family-law foundation",
+      "description": "Zákon o rodině (Family Act) Act No. 94/1963 Coll. + Civil Code Act No. 40/1964 Coll. establishing socialist-era Czechoslovak family-law framework. Substantively foundational pre-Velvet-Revolution family-law architecture continuing through 1990s reforms until 2014 Občanský zákoník recodification."
+    },
+    {
+      "year": 1991,
+      "title": "Listina základních práv a svobod 1991 — Charter of Fundamental Rights",
+      "description": "Listina základních práv a svobod 1991 (constitutionally entrenched 16 December 1992 effective 1 January 1993) establishing post-Velvet-Revolution charter framework including čl. 32 family-and-child-rights framework. Substantively foundational post-democratic-transition constitutional framework."
+    },
+    {
+      "year": 1993,
+      "title": "Czech Republic ratifies UN CRC + Czechoslovak dissolution",
+      "description": "Czech Republic (post-1 January 1993 Czechoslovak dissolution) inherited UN CRC ratification from Czechoslovakia (ratified 7 January 1991 by Czechoslovakia). Substantively significant international child-rights framework subsequently incorporated via Listina + Občanský zákoník framework."
+    },
+    {
+      "year": 1998,
+      "title": "Zákon o rodině amendment 1998 + shared-custody framework introduction",
+      "description": "Zákon o rodině amendment 1998 introducing shared-custody (střídavá péče) framework as elective option. Substantively significant pre-2014-recodification reform establishing the trajectory toward modernization."
+    },
+    {
+      "year": 1999,
+      "title": "Zákon o sociálně-právní ochraně dětí — OSPOD framework established",
+      "description": "Zákon o sociálně-právní ochraně dětí (Social-Legal Child-Protection Act) Act No. 359/1999 Coll. establishing OSPOD (Orgán sociálně-právní ochrany dětí) framework. Substantively significant child-protection institutional framework — operationally significant for subsequent PA-related dispute resolution."
+    },
+    {
+      "year": 2004,
+      "title": "Czech Republic EU accession + Brussels II framework integration",
+      "description": "Czech Republic EU accession 1 May 2004 — operationally integrating Czech family-law framework with Council Regulation (EC) 2201/2003 Brussels IIa (subsequently Brussels IIb 2019/1111). Substantively significant cross-border family-law coordination framework."
+    },
+    {
+      "year": 2012,
+      "title": "Občanský zákoník Act No. 89/2012 Coll. — comprehensive civil-law recodification",
+      "description": "Občanský zákoník enacted 3 February 2012 effective 1 January 2014 replacing socialist-era 1964 Civil Code and Family Act 1963. Substantively transformative civil-law recodification — among the most substantial post-socialist civil-law reforms regionally."
+    },
+    {
+      "year": 2014,
+      "title": "Občanský zákoník + ZŘS operational + rodičovská odpovědnost framework",
+      "description": "Občanský zákoník + Special Proceedings Act effective 1 January 2014 establishing rodičovská odpovědnost (parental responsibility) framework replacing prior parental-authority framework. Substantively transformative family-law modernization."
+    },
+    {
+      "year": 2018,
+      "title": "Ústavní soud + Nejvyšší soud post-2014-recodification jurisprudence",
+      "description": "Multiple Ústavní soud and Nejvyšší soud decisions 2014-2018 developing post-2014-recodification rodičovská odpovědnost framework interpretation including contact-refusal cases. Substantively significant apex-court jurisprudential development on Czech family-law framework."
+    },
+    {
+      "year": 2022,
+      "title": "EU Regulation 2019/1111 (Brussels IIb) operational + Ukraine refugee framework",
+      "description": "EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters. Substantial Ukrainian refugee influx 2022+ operationally significant for Czech family-court jurisdiction over Ukrainian-national family-law matters."
+    },
+    {
+      "year": 2023,
+      "title": "Ústavní soud nejlepší zájem dítěte + střídavá péče jurisprudence refinement",
+      "description": "Multiple Ústavní soud (Constitutional Court) decisions 2022-2023 substantively developing nejlepší zájem dítěte interpretation under Listina čl. 32 + Občanský zákoník framework including střídavá péče (shared custody) jurisprudence refinement. Substantively significant constitutional-court jurisprudence applicable to subsequent PA-related contact-refusal cases — establishing trajectory toward 2024 Veřejný ochránce práv + Czech Helsinki Committee institutional substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Ústavní soud + Veřejný ochránce práv institutional position — nejlepší zájem dítěte substantive register",
+      "description": "Ústavní soud and Nejvyšší soud jurisprudence continue developing nejlepší zájem dítěte interpretation under Občanský zákoník + Listina čl. 32 + EU Brussels IIb framework. Veřejný ochránce práv (Ombudsman) and Czech Helsinki Committee informed institutional position. Substantive analysis without doctrinal 'rodičovské odcizení' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Czech Republic operates a structurally distinctive civil-law family-law framework — Občanský zákoník Act No. 89/2012 Coll. + ZŘS Act No. 292/2013 Coll. + Listina čl. 32 + EU Brussels IIb framework — with substantive nejlepší zájem dítěte analysis without doctrinal 'rodičovské odcizení' label adoption.",
+    "2014 Občanský zákoník recodification represented substantially transformative civil-law reform replacing socialist-era 1964 Civil Code framework — among the most substantial post-socialist civil-law reforms regionally.",
+    "OSPOD (Orgán sociálně-právní ochrany dětí) framework under 1999 Social-Legal Child-Protection Act operates as substantively distinctive Central European child-protection institutional framework — operationally significant for PA-related dispute resolution within family-court adjudication."
+  ],
+  "editorial_notes": [
+    "Czech Republic's 2014 Občanský zákoník recodification represents the most substantial post-socialist family-law modernization regionally — substantively distinguishing Czech framework from neighbouring Slovak (Občiansky zákonník 1964 retention with amendments) and Polish (KRO 1964 retention with amendments) frameworks.",
+    "Czech rodičovská odpovědnost framework operates as substantively distinctive Central European parental-responsibility codification — making Czech Republic a critical comparative-law data point for post-socialist civil-law family-law architecture."
+  ]
+}

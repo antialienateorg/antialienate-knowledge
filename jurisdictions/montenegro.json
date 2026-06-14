@@ -46,14 +46,68 @@
   "anonymisation_convention": "Montenegrin family-law decisions are anonymised per Vrhovni sud practice using initials.",
   "key_developments": [
     {
+      "year": 1992,
+      "title": "Yugoslav dissolution + Federal Republic of Yugoslavia (Montenegro + Serbia)",
+      "description": "Following SFR Yugoslavia dissolution 1991-1992, Montenegro remained federated with Serbia in Federal Republic of Yugoslavia (FRY) proclaimed 27 April 1992. Pre-2007 SFR Yugoslav-era family-law substrate substantially retained as transitional framework."
+    },
+    {
+      "year": 2003,
+      "title": "State Union of Serbia and Montenegro + Council of Europe membership",
+      "description": "FRY transformed into State Union of Serbia and Montenegro 4 February 2003. Council of Europe membership granted (with Serbia) 3 April 2003 — ECHR ratified 3 March 2004 effective."
+    },
+    {
+      "year": 2006,
+      "title": "Montenegro independence + Constitution 2007 + UNCRC succession",
+      "description": "Montenegro independence 3 June 2006 following independence referendum 21 May 2006 (55.5% in favour of independence, exceeding 55% threshold). Constitution of Montenegro adopted 19 October 2007 — establishing parliamentary republic framework. UNCRC succession by Montenegro 23 October 2006 (succession to earlier SFR Yugoslavia 1991 accession)."
+    },
+    {
       "year": 2007,
-      "title": "Porodični zakon 2007",
-      "description": "Family Code enacted."
+      "title": "Porodični zakon 2007 (Family Code)",
+      "description": "Family Code enacted 14 August 2007 — substantively modernising family-law within post-independence framework. Arts. 60-94 govern parental rights with joint exercise during marriage as statutory default. Welfare standard codified."
+    },
+    {
+      "year": 2010,
+      "title": "Hague Convention 1980 succession",
+      "description": "Montenegro succession to Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 December 2010 (succession to earlier SFR Yugoslavia 1991 accession). Places Montenegro within the Hague-Western-Balkans cluster."
+    },
+    {
+      "year": 2010,
+      "title": "EU candidate status granted + accession negotiations opened",
+      "description": "EU candidate status granted 17 December 2010 — accession negotiations opened 29 June 2012. Most-advanced Western Balkans EU-accession trajectory among the corpus jurisdictions."
+    },
+    {
+      "year": 2017,
+      "title": "NATO membership + Western political-alignment trajectory",
+      "description": "Montenegro joined NATO 5 June 2017 — among the most explicit Western-political-alignment moves within Western Balkans. Subsequent substantive EU-acquis alignment in family-law and constitutional-rights frameworks."
+    },
+    {
+      "year": 2020,
+      "title": "Same-sex Partnership Law + civil-rights modernisation",
+      "description": "Law on Life Partnership of Persons of the Same Sex enacted 1 July 2020, in force 15 July 2021 — first Western Balkans state to recognise same-sex registered partnerships. Substantively distinctive within Western Balkans Christian-Orthodox-Muslim demographic cluster."
+    },
+    {
+      "year": 2022,
+      "title": "Constitutional Court reform + judicial-system contestation",
+      "description": "Constitutional Court operational tension 2022 with subsequent reform — substantively affecting individual-constitutional-complaint pathway for family-court determinations. Broader judicial-system contestation linked to EU-rule-of-law engagement."
+    },
+    {
+      "year": 2023,
+      "title": "Milatović presidency + 2030 EU-accession framework + Zaštitnik ljudskih prava i sloboda institutional position",
+      "description": "Jakov Milatović (Europe Now) presidency 20 May 2023-onwards substantively distinctive Western Balkans political-transition framework. 2030 EU-accession target framework substantively significant Balkans EU-integration framework. Zaštitnik ljudskih prava i sloboda (Ombudsperson for Human Rights and Freedoms) institutional position addressing PA-related issues within Porodični zakon framework. Substantively significant Western Balkans institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Vrhovni sud + Ustavni sud — najbolji interes djeteta substantive register + EU-accession-advanced context",
+      "description": "Vrhovni sud and Ustavni sud continue to develop najbolji interes djeteta (best-interests-of-the-child) jurisprudence under Porodični zakon arts. 60-94 + Constitution + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within most-advanced Western Balkans EU-accession harmonisation trajectory."
     }
   ],
   "structural_findings": [
-    "Montenegro sits structurally within the Western Balkans civil-law cluster alongside Serbia + Croatia + Slovenia + Albania + N. Macedonia — Family Code 2007 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction.",
-    "Psychology profession regulation operates through Ministry of Health framework + CDP peak-body ethics oversight."
+    "Montenegro sits structurally within the Western Balkans civil-law cluster alongside Serbia + Croatia + Slovenia + Bosnia + Albania + N. Macedonia + Kosovo — Family Code 2007 + welfare-standard family-court framework + Constitutional Court individual-complaint jurisdiction + Council of Europe / ECHR engagement + Hague Convention 1980.",
+    "Most-advanced Western Balkans EU-accession trajectory — candidate status 2010, accession negotiations 2012 — places Montenegro at the leading edge of EU-acquis-family-law-harmonisation among Western Balkans (with Albania, N. Macedonia, Serbia, BiH, Kosovo behind).",
+    "NATO membership 2017 + Western-political-alignment-trajectory substantively distinguishes Montenegro within Western Balkans cluster — places Montenegro within the Western-political-alignment cluster (with Slovenia, Croatia, Albania, N. Macedonia NATO members; distinct from Serbia, BiH, Kosovo non-NATO).",
+    "Law on Life Partnership of Persons of the Same Sex (2020/2021) first Western Balkans state to recognise same-sex registered partnerships — substantively distinctive globally given Western Balkans Christian-Orthodox-Muslim demographic cluster.",
+    "Multi-layer substantive-statutory framework: 1992-Yugoslav-dissolution-FRY + 2003-State-Union-of-Serbia-and-Montenegro-+-Council-of-Europe-membership + 2006-Montenegro-independence-+-UNCRC-succession-+-2007-Constitution + 2007-Porodični-zakon + 2010-Hague-1980-succession + 2010-EU-candidate-status + 2017-NATO-membership + 2020-Law-on-Life-Partnership-Same-Sex + 2022-Constitutional-Court-reform + 2024-Vrhovni-sud-Ustavni-sud-najbolji-interes-djeteta-EU-accession-advanced — gradual modernisation within Western Balkans civil-law framework.",
+    "Psychology profession regulation operates through Ministry of Health framework + CDP peak-body ethics oversight rather than unified statutory professional-chamber regime."
   ],
   "references": [
     "jurisdiction:serbia",
@@ -82,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Montenegro jurisdiction sidecar — Western Balkans civil-law framework. Porodični zakon 2007 + Constitutional Court individual-complaint + CDP peak-body psychology regulation.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Western Balkans civil-law cluster within the corpus."
+    "Montenegro jurisdiction sidecar v1.1 — deepened 2026-06-08 from 1 to 10 key_developments with full Yugoslav-dissolution-to-contemporary trajectory: 1992-Yugoslav-dissolution-FRY + 2003-State-Union-of-Serbia-and-Montenegro-Council-of-Europe + 2006-Montenegro-independence-+-UNCRC-succession-+-2007-Constitution + 2007-Porodični-zakon + 2010-Hague-1980-succession-+-EU-candidate-status + 2017-NATO-membership + 2020-Law-on-Life-Partnership-Same-Sex-first-Western-Balkans + 2022-Constitutional-Court-reform + 2024-Vrhovni-sud-Ustavni-sud-najbolji-interes-djeteta-EU-accession-advanced.",
+    "Western Balkans civil-law framework + Porodični zakon 2007 + Constitution 2007 + Constitutional Court individual-complaint + CDP peak-body psychology regulation + Hague Convention 1980 + Council of Europe/ECHR + EU-candidate-state advanced trajectory + NATO member.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive najbolji interes djeteta analysis under Porodični zakon arts. 60-94 + Constitution + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins Western-Balkans-civil-law-cluster + post-Yugoslav-civil-law + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Western-Balkans + EU-candidate-state-family-law-harmonisation-most-advanced-Western-Balkans + NATO-member-Western-political-alignment + first-Western-Balkans-same-sex-registered-partnership + smallest-Western-Balkans-jurisdiction-622k-population clusters within the corpus."
   ]
 }

@@ -54,19 +54,59 @@
   "anonymisation_convention": "South Sudanese family-court decisions are anonymised per Supreme Court practice using initials where available.",
   "key_developments": [
     {
+      "year": 1955,
+      "title": "First Sudanese Civil War 1955-1972 + Anyanya rebellion framework",
+      "description": "First Sudanese Civil War 1955-1972 between Sudanese government and southern Anyanya rebels. Substantively distinctive 17-year African armed-conflict framework affecting demographic and family-law-implementation framework. Foundational pre-Addis-Ababa Agreement framework affecting subsequent South-Sudan-independence-trajectory."
+    },
+    {
+      "year": 1983,
+      "title": "Second Sudanese Civil War 1983-2005 + SPLA framework + 22-year-conflict",
+      "description": "Second Sudanese Civil War 1983-2005 between Sudanese government and Sudan People's Liberation Army (SPLA) led by John Garang. Substantive 22-year African armed-conflict framework with estimated 2 million killed substantially affected demographic and family-law-implementation framework. Substantively distinctive globally one of longest African civil wars."
+    },
+    {
       "year": 2005,
-      "title": "Comprehensive Peace Agreement",
-      "description": "Comprehensive Peace Agreement between Sudan government and Sudan People's Liberation Movement ending 22-year second civil war and establishing path to South Sudan independence."
+      "title": "Comprehensive Peace Agreement + Naivasha-CPA framework",
+      "description": "Comprehensive Peace Agreement (Naivasha CPA) signed 9 January 2005 between Sudan government and Sudan People's Liberation Movement ending 22-year second civil war. Substantive South-Sudan-autonomy framework establishing path to 2011 independence. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2008,
+      "title": "Penal Code 2008 + family-law-adjacent statutory framework",
+      "description": "Federal Penal Code 2008 enacted applicable in family-law adjacent matters (child protection, domestic violence). Substantively significant statutory framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2011,
-      "title": "Independence + Transitional Constitution",
-      "description": "South Sudan declared independence on 9 July 2011 following independence referendum; Transitional Constitution adopted establishing secular framework distinct from pre-independence Sharia framework."
+      "title": "South Sudan independence + Transitional Constitution + Salva Kiir presidency",
+      "description": "South Sudan declared independence 9 July 2011 following 2011 independence referendum (98.83% in favour). Transitional Constitution adopted establishing secular framework distinct from pre-independence Sharia framework. Salva Kiir Mayardit first president. Substantively distinctive globally youngest sovereign state in corpus. UN admitted member 14 July 2011."
+    },
+    {
+      "year": 2013,
+      "title": "South Sudanese Civil War 2013-2018 + Kiir-Machar conflict framework",
+      "description": "South Sudanese Civil War 15 December 2013 – 12 September 2018 between Salva Kiir government and Riek Machar opposition. Substantive 5-year armed-conflict framework with estimated 400,000 killed substantially affected demographic and family-law-implementation framework. Foundational pre-Revitalized-Agreement framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2015,
+      "title": "South Sudan ratifies UN Convention on the Rights of the Child",
+      "description": "South Sudan ratified the UNCRC on 23 January 2015 (with reservations consistent with customary-law) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration applied through Transitional Constitution + customary-law framework."
     },
     {
       "year": 2018,
-      "title": "Revitalized Agreement on Resolution of Conflict",
-      "description": "Revitalized Agreement on Resolution of Conflict in South Sudan signed."
+      "title": "Revitalized Agreement on Resolution of Conflict (R-ARCSS)",
+      "description": "Revitalized Agreement on Resolution of Conflict in South Sudan signed 12 September 2018 substantively ending civil war. Subsequent transitional-government framework 2020 establishing post-civil-war reconstruction trajectory affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2020,
+      "title": "Transitional Government of National Unity + Machar Vice-Presidency framework",
+      "description": "Transitional Government of National Unity established 22 February 2020 — Riek Machar assumed First Vice-Presidency. Substantive post-civil-war power-sharing framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation. Election 2026 scheduled framework substantively delayed."
+    },
+    {
+      "year": 2023,
+      "title": "Sudan Civil War spillover initiation + UNMISS framework + South Sudan Human Rights Commission",
+      "description": "Sudan Civil War 15 April 2023-onwards spillover initiation substantively significant Horn of Africa institutional context affecting demographic and family-law adjudication including refugee-influx framework. UN Mission in South Sudan (UNMISS) framework substantively significant for institutional capacity. South Sudan Human Rights Commission institutional position addressing PA-related issues within Transitional Constitution + Penal Code 2008 framework. Substantively significant Horn of Africa institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of South Sudan + Customary Courts — welfare-of-the-child substantive register + 2024-Sudan-Civil-War-spillover framework",
+      "description": "Supreme Court of South Sudan and Customary Courts (Dinka, Nuer, Bari, Azande and other ethnic communities) continue to develop welfare-of-the-child jurisprudence under Transitional Constitution + Penal Code 2008 + customary-law framework in custody disputes. Sudan Civil War 2023-onwards substantially affecting South Sudan via refugee influx and cross-border-armed-conflict framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -96,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "South Sudan jurisdiction sidecar — mixed-legal-system Northeast Africa (Transitional Constitution 2011 + Penal Code 2008 + multi-ethnic customary-law via Customary Courts + non-Hague). Youngest state in corpus (2011 independence).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Northeast African + mixed-legal-system + multi-ethnic-customary-law-distinctive + youngest-state-2011 + non-Hague Convention clusters within the corpus."
+    "South Sudan jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full pre-independence-conflict-to-contemporary trajectory: 1955-First-Sudanese-Civil-War-+-Anyanya + 1983-Second-Sudanese-Civil-War-+-SPLA-+-22-year + 2005-Comprehensive-Peace-Agreement-+-Naivasha + 2008-Penal-Code-+-family-law-adjacent + 2011-South-Sudan-independence-+-Transitional-Constitution-+-Salva-Kiir + 2013-South-Sudanese-Civil-War-+-Kiir-Machar + 2015-UNCRC-ratification + 2018-Revitalized-Agreement-on-Resolution-of-Conflict + 2020-Transitional-Government-of-National-Unity + 2024-Supreme-Court-+-Customary-Courts-+-Sudan-Civil-War-spillover.",
+    "Mixed-legal-system Northeast Africa (Transitional Constitution 2011 + Penal Code 2008 + multi-ethnic customary-law via Customary Courts + non-Hague). Youngest state in corpus (2011 independence).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Transitional Constitution + Penal Code 2008 + multi-ethnic customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Northeast-African + mixed-legal-system + multi-ethnic-customary-law-Dinka-Nuer-Bari-Azande-distinctive + youngest-sovereign-state-in-corpus-2011-distinctive-globally + First-Sudanese-Civil-War-1955-1972-+-Second-Sudanese-Civil-War-1983-2005-22-year-2-million-killed-one-of-longest-African-civil-wars + 2011-independence-referendum-98.83-percent + South-Sudanese-Civil-War-2013-2018-Kiir-Machar-400000-killed + R-ARCSS-2018-+-Transitional-Government-of-National-Unity-2020 + Sudan-Civil-War-2023-spillover-+-refugee-influx + non-Hague-Convention clusters within the corpus."
   ]
 }

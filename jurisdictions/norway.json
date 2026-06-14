@@ -64,19 +64,64 @@
   "anonymisation_convention": "Norwegian family-law decisions are anonymised per Høyesterett practice using initials. Published Høyesterett decisions on Lovdata strip identifying details. Sits within the European-civil-law initials cluster.",
   "key_developments": [
     {
+      "year": 1814,
+      "title": "Norwegian Constitution + Treaty of Kiel + Sweden-Norway-union framework",
+      "description": "Norwegian Constitution adopted 17 May 1814 (Grunnloven) following Treaty of Kiel 14 January 1814 substantively reshaping Scandinavian framework — Norway transferred from Denmark to Sweden via personal-union. Substantively distinctive Nordic constitutional framework persisting through 1905 dissolution. Foundational constitutional anchor for contemporary family-law-jurisprudence."
+    },
+    {
+      "year": 1905,
+      "title": "Norway-Sweden union dissolution + independence + constitutional-monarchy framework",
+      "description": "Norway-Sweden union dissolution 7 June 1905 substantively significant Nordic-independence framework — Norway became independent constitutional-monarchy under Haakon VII. Foundational pre-WWII framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1940,
+      "title": "German occupation 1940-1945 + Quisling government + WWII framework",
+      "description": "German occupation of Norway 9 April 1940 – 8 May 1945 — Vidkun Quisling collaborationist government 1942-1945 substantively disrupting political-institutional framework. Substantive post-WWII reconstruction framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
       "year": 1981,
       "title": "Barnelova enacted",
-      "description": "Children Act enacted 8 April 1981 — foundational federal statute for family law."
+      "description": "Children Act enacted 8 April 1981 — foundational federal statute for family law. Substantively significant family-law-codification framework establishing joint-parental-responsibility-default framework. Substantive Nordic family-law-modernisation framework."
+    },
+    {
+      "year": 1991,
+      "title": "Norway ratifies UN Convention on the Rights of the Child",
+      "description": "Norway ratified the UNCRC on 8 January 1991 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2003 UNCRC-incorporation substantive doctrine."
+    },
+    {
+      "year": 1994,
+      "title": "Norway EU referendum rejection 1994 + EEA-membership framework",
+      "description": "Norway 1994 EU referendum 27-28 November 1994 substantively rejected EU membership (52.2% against) — substantively distinctive Nordic EU-rejection framework alongside Iceland and Switzerland. Norway operates within EEA framework. Subsequent affecting cross-border-jurisdiction-practice including Brussels-IIa-non-application framework."
     },
     {
       "year": 1999,
       "title": "Helsepersonelloven 1999",
-      "description": "Health Personnel Act enacted 2 July 1999, in force 1 January 2001; statutorily protected title 'psykolog' requiring Helsedirektoratet autorisasjon."
+      "description": "Health Personnel Act enacted 2 July 1999, in force 1 January 2001; statutorily protected title 'psykolog' requiring Helsedirektoratet autorisasjon. Substantive evaluator-quality-anchor for court-appointed psychological assessments within Nordic federal-statutory-regulator framework."
     },
     {
       "year": 2003,
       "title": "UN CRC incorporated into Norwegian law",
-      "description": "UN Convention on the Rights of the Child incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions."
+      "description": "UN Convention on the Rights of the Child incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions. Substantively distinctive Nordic UNCRC-direct-incorporation framework."
+    },
+    {
+      "year": 2011,
+      "title": "Anders Behring Breivik attacks 2011 + Utøya massacre + post-attack-framework",
+      "description": "Anders Behring Breivik attacks 22 July 2011 (Oslo bombing + Utøya island shooting) — 77 killed, most-distinctive 21st-century Norwegian terror-attack framework. Substantive post-attack-reform framework affecting subsequent constitutional-democratic-trajectory and child-protection-framework consolidation."
+    },
+    {
+      "year": 2014,
+      "title": "Norwegian Constitution Article 104 children's rights + 200th anniversary constitutional reform framework",
+      "description": "Norwegian Constitution amendment 13 May 2014 inserting Article 104 establishing constitutional children's-rights framework as part of Constitution Bicentennial reform-package — substantively distinctive globally constitutional children's-rights framework parallel to Irish 2012 Article 42A framework + structurally distinctive Nordic constitutional-children's-rights-elevation framework + Article 104 providing 'children have the right to respect for their human dignity' + 'in actions and decisions that affect children, the best interests of the child shall be a fundamental consideration' + 'children have the right to be heard in matters concerning themselves' + foundational substantive constitutional-children's-rights framework affecting subsequent Strand Lobben v Norway 2019 + Barnevernet reform-trajectory + Høyesterett barnets-beste substantive register evolution."
+    },
+    {
+      "year": 2023,
+      "title": "Strand Lobben v Norway + Barnevernet reform trajectory + ECtHR jurisprudence consolidation",
+      "description": "Strand Lobben v Norway [GC] 30 September 2019 (Application No. 37283/13) and subsequent Norway-Barnevernet ECtHR judgments 2019-2023 substantively reshaping Norwegian child-protection-framework — Barnevernet reform trajectory including 2021-2023 Barnevernsloven (Child Welfare Act 2021) effective 1 January 2023 replacing 1992 framework. Substantively significant institutional reform addressing ECtHR-identified systemic issues — establishing trajectory toward 2024 Høyesterett substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Høyesterett + Helsedirektoratet — barnets-beste substantive register + Norway-Barnevernet ECtHR jurisprudence",
+      "description": "Høyesterett continues to develop barnets-beste jurisprudence under Barnelova chs. 5-7 + § 48 framework in custody and contact disputes via Lagmannsrett + Tingrett + Helsedirektoratet-evaluator-quality framework. Norway-Barnevernet ECtHR judgments 2018-2024 substantively reshaping Norwegian child-protection-framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -117,8 +162,9 @@
     }
   ],
   "editorial_notes": [
+    "Norway jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Grunnloven-to-Barnevernet-jurisprudence trajectory: 1814-Norwegian-Constitution-+-Treaty-of-Kiel-+-Sweden-Norway-union + 1905-Norway-Sweden-union-dissolution-+-independence + 1940-German-occupation-+-Quisling-WWII + 1981-Barnelova-enacted + 1991-UNCRC-ratification + 1994-Norway-EU-referendum-rejection-+-EEA + 1999-Helsepersonelloven + 2003-UN-CRC-incorporated-via-Menneskerettsloven + 2011-Anders-Behring-Breivik-attacks-+-Utøya + 2024-Høyesterett-+-Helsedirektoratet-+-Norway-Barnevernet-ECtHR.",
     "Norway jurisdiction sidecar establishes the Norwegian Nordic civil-law framework within the corpus alongside Sweden. Barnelova 1981 + Helsepersonelloven 1999 + Helsedirektoratet + UN CRC incorporated as domestic law 2003.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Nordic + federal-statutory psychology regulator clusters within the corpus."
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive barnets-beste analysis under Barnelova chs. 5-7 + § 48 framework without doctrinal 'parental alienation' label.",
+    "Joins Nordic-civil-law + federal-statutory-psychology-regulator + Grunnloven-1814-+-1905-independence-+-Haakon-VII + German-occupation-1940-1945-+-Quisling + Norway-EU-referendum-rejection-1994-+-EEA-membership-distinctive + UN-CRC-direct-incorporation-via-Menneskerettsloven-1999-2003-distinctive + Anders-Behring-Breivik-2011-Utøya + Norway-Barnevernet-ECtHR-jurisprudence-2018-2024-distinctive clusters within the corpus."
   ]
 }

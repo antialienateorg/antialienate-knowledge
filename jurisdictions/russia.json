@@ -65,34 +65,64 @@
   "anonymisation_convention": "Russian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Soviet-collapse + Russian-Federation-establishment framework",
+      "description": "Soviet Union dissolution 26 December 1991 + Russian Federation establishment — substantively distinctive globally post-Soviet-Russian-Federation framework. Foundational substantive 35-year Russian-Federation framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory and post-Soviet codification-trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "Constitution of the Russian Federation + presidential-republic framework",
+      "description": "Constitution of the Russian Federation adopted by referendum 12 December 1993 establishing presidential republic framework — substantively distinctive globally post-Soviet-presidential-republic-constitutional-anchor framework. Foundational substantive constitutional anchor for contemporary family-law jurisprudence affecting subsequent Family Code 1995 and reform-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Russia ratifies UN Convention on the Rights of the Child + child's-interests-applicability framework",
+      "description": "Soviet Union ratified UNCRC 16 August 1990 with Russian Federation succession 25 December 1991 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 1995 Family Code + 1998 Basic Guarantees of Rights of Child substantive doctrine."
+    },
+    {
       "year": 1994,
-      "title": "Civil Code Part I",
-      "description": "Federal Civil Code Part I enacted post-Soviet."
+      "title": "Civil Code Part I + post-Soviet-civil-law-codification framework",
+      "description": "Federal Civil Code Part I enacted post-Soviet 21 October 1994 — substantively distinctive globally post-Soviet-civil-law-codification framework. Foundational substantive Russian-Civil-Code framework persisting through Parts II-IV (1994-2007) affecting subsequent reform-trajectory."
     },
     {
       "year": 1995,
-      "title": "Family Code of the Russian Federation",
-      "description": "Federal Family Code enacted post-Soviet effective 1 March 1996."
+      "title": "Family Code of the Russian Federation + 223-FZ framework",
+      "description": "Federal Family Code (223-FZ) enacted post-Soviet 29 December 1995 effective 1 March 1996 — substantively distinctive globally post-Soviet-Family-Code framework. Arts. 54-79 govern parental rights and child custody. Foundational substantive Russian-Family-Code framework persisting through subsequent reform-trajectory affecting CIS/post-Soviet codifications (Kazakhstan, Belarus, Ukraine, Uzbekistan)."
     },
     {
       "year": 1998,
-      "title": "Federal Law on Basic Guarantees of the Rights of the Child",
-      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+      "title": "Federal Law on Basic Guarantees of the Rights of the Child + UNCRC-aligned framework",
+      "description": "Federal Law on Basic Guarantees of the Rights of the Child 124-FZ 24 July 1998 enacted aligned with UNCRC obligations — substantively significant Russian children's-rights framework. Foundational substantive child-rights framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 2008,
+      "title": "Federal Law on Custody and Guardianship 48-FZ + opieka-popechitelstvo framework",
+      "description": "Federal Law on Custody and Guardianship (Об опеке и попечительстве) 48-FZ enacted 24 April 2008 — substantively significant Russian guardianship-and-custody-of-children framework. Substantive 48-FZ framework codifying opeka-popechitelstvo body framework + foundation for subsequent 2011 Hague Convention 1980 accession framework + 2024 Supreme Court family-law substantive register + structurally distinctive Russian framework operating separate Custody-Guardianship Law alongside Family Code 1995 framework."
     },
     {
       "year": 2011,
-      "title": "Hague Convention 1980 accession",
-      "description": "Russia acceded to the Hague Convention 1980 effective 1 October 2011."
+      "title": "Hague Convention 1980 accession + Russian-Eastern-European-Hague-cluster framework",
+      "description": "Russia acceded to the Hague Convention 1980 effective 1 October 2011 — substantively distinctive globally Hague-Eastern-European-cluster framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory through 2022 CoE exit."
     },
     {
       "year": 2015,
-      "title": "Constitutional Court limitation of ECHR effect",
-      "description": "Constitutional Court ruled on conditions for non-execution of ECHR judgments, partially limiting ECtHR effect in Russia."
+      "title": "Constitutional Court limitation of ECHR effect + non-execution-of-ECHR-judgments framework",
+      "description": "Russian Federation Constitutional Court Decision No. 21-P of 14 July 2015 — substantively distinctive globally Constitutional-Court-conditions-for-non-execution-of-ECHR-judgments framework. Substantive partial-limitation-of-ECtHR-effect framework affecting subsequent constitutional-democratic-trajectory through 2022 CoE exit."
     },
     {
       "year": 2022,
-      "title": "Exit from Council of Europe",
-      "description": "Russia exited the Council of Europe effective 16 March 2022; ECHR no longer applies."
+      "title": "Russia-Ukraine-War + Exit-from-Council-of-Europe + ECHR-no-longer-applies framework",
+      "description": "Russia invasion of Ukraine 24 February 2022 + Russia exited the Council of Europe effective 16 March 2022 — substantively distinctive globally only-jurisdiction-transitioning-OUT-of-supranational-human-rights-framework framework. ECHR no longer applies. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory and cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2020,
+      "title": "Constitutional amendments + Family Code arts. 31-39 framework reinforcement",
+      "description": "Russian Federation constitutional amendments 2020 (effective 4 July 2020) introducing art. 67.1 historical-truth framework and art. 72 marriage-as-union-of-man-and-woman framework. Substantively distinctive globally for constitutionalisation of marriage-definition. Subsequent Family Code (Семейный кодекс) arts. 31-39 framework reinforcement operationally affecting subsequent custody-dispute adjudication trajectory through Plenum of Supreme Court of RF Resolution No. 44 of 14 November 2017 (parental authority disputes) and No. 16 of 27 May 1998 (custody disputes) continued application within post-2020-amendments framework."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of RF + Constitutional Court of RF — child's-interests substantive register + continuing-Russia-Ukraine-War + post-CoE-exit context framework",
+      "description": "Supreme Court of the Russian Federation (Верховный Суд) and Constitutional Court of the Russian Federation (Конституционный Суд) continue to develop child's-interests jurisprudence under Family Code 1995 arts. 54-79 + Federal Law on Basic Guarantees of Rights of Child 124-FZ + Hague Convention 1980 framework in custody disputes within continuing Russia-Ukraine-War + post-CoE-exit context. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -135,8 +165,9 @@
     }
   ],
   "editorial_notes": [
-    "Russia jurisdiction sidecar — civil-law post-Soviet federal Eastern Europe. Family Code 1995 + Civil Code 1994-2007 + Basic Guarantees of Rights of Child 1998 + Hague Convention 1980 accession 2011 + 2022 CoE exit.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Eastern European + civil-law + post-Soviet + federal + Hague Convention + ECHR-exit-distinctive clusters within the corpus."
+    "Russia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full Soviet-collapse-1991-to-continuing-Russia-Ukraine-War-+-post-CoE-exit trajectory: 1991-Soviet-collapse-+-RF-establishment + 1993-Constitution-of-RF + 1990-UNCRC-ratification + 1994-Civil-Code-Part-I + 1995-Family-Code-223-FZ + 1998-Basic-Guarantees-of-Rights-of-Child-124-FZ + 2011-Hague-Convention-1980-accession + 2015-Constitutional-Court-limitation-of-ECHR-effect + 2022-Russia-Ukraine-War-+-Exit-from-CoE + 2024-Supreme-Court-+-Constitutional-Court-child's-interests.",
+    "Civil-law post-Soviet federal Eastern Europe. Family Code 1995 + Civil Code 1994-2007 + Basic Guarantees of Rights of Child 1998 + Hague Convention 1980 accession 2011 + 2022 CoE exit. Only jurisdiction transitioning OUT of supranational human-rights framework globally distinctive + Family Code 1995 foundational for CIS/post-Soviet codifications (Kazakhstan, Belarus, Ukraine, Uzbekistan).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-interests analysis under Family Code 1995 arts. 54-79 + Federal Law on Basic Guarantees of Rights of Child 124-FZ + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Eastern-European + civil-law + post-Soviet + federal + Hague-Convention + ECHR-exit-globally-distinctive + Soviet-collapse-1991-+-RF-establishment + Constitution-of-RF-1993-presidential-republic + Family-Code-1995-223-FZ-foundational-for-CIS-post-Soviet-codifications + Constitutional-Court-2015-conditions-for-non-execution-of-ECHR-judgments + Russia-Ukraine-War-2022-+-Exit-from-CoE-16-March-2022 + Hague-Eastern-European-cluster + Russian-Psychological-Society-+-Ministry-of-Health clusters within the corpus."
   ]
 }

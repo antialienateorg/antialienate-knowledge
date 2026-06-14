@@ -53,14 +53,59 @@
   "anonymisation_convention": "Caymanian family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1962,
+      "title": "Cayman Islands separation from Jamaica + BOT consolidation",
+      "description": "Cayman Islands administratively separated from Jamaica following Jamaican independence 6 August 1962 — becoming separate British Dependent Territory rather than joining independent Jamaica. Substantively distinctive Caribbean BOT-status-retention pattern. Foundational constitutional framework for subsequent self-government-trajectory."
+    },
+    {
+      "year": 1972,
+      "title": "Cayman Islands Constitution 1972 + ministerial-government framework",
+      "description": "Cayman Islands Constitution Order 1972 (substantially amended 1994, 2003, 2009) establishing internal-self-government framework with Executive Council and Legislative Assembly. Foundational pre-2009-constitutional-reform framework for contemporary constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "UK ratifies UN Convention on the Rights of the Child + BOT extension",
+      "description": "United Kingdom ratified the UNCRC on 16 December 1991 with extension to Cayman Islands — establishing best-interests-of-the-child substantive doctrine within UK-derivative common-law framework applicable to Cayman Islands."
+    },
+    {
       "year": 1998,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by UK to Cayman Islands effective 1 August 1998."
+      "description": "Hague Convention 1980 territorial extension by UK to Cayman Islands effective 1 August 1998 — establishing Caribbean Hague Convention jurisdiction framework within UK BOT framework."
+    },
+    {
+      "year": 2001,
+      "title": "British Overseas Territories Act 2002 + British citizenship + offshore-finance framework",
+      "description": "British Overseas Territories Act 2002 (effective 26 February 2002) substantively renamed British Dependent Territories to British Overseas Territories. British citizenship extended to Caymanian BOT citizens substantively affecting cross-border-family-law mobility framework. Cayman Islands continues as among the most-distinctive Caribbean offshore-finance-centres globally."
     },
     {
       "year": 2003,
       "title": "Children Law 2003",
-      "description": "Federal Children Law enacted drawing on English Children Act 1989 model."
+      "description": "Federal Children Law enacted drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions. Substantively significant statutory-modernisation within Caribbean BOT framework."
+    },
+    {
+      "year": 2004,
+      "title": "Hurricane Ivan 2004 + reconstruction trajectory + climate-resilience framework",
+      "description": "Hurricane Ivan 11-12 September 2004 substantively devastated Cayman Islands — among the most-distinctive Caribbean BOT climate-disaster events. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory. Subsequent climate-resilience policy framework consolidation."
+    },
+    {
+      "year": 2009,
+      "title": "Cayman Islands Constitution 2009 + Premier-framework + Bill of Rights",
+      "description": "Cayman Islands Constitution Order 2009 (effective 6 November 2009) substantively reforming political-institutional framework — establishing Premier-led government framework with substantive Bill of Rights, Freedoms and Responsibilities. Substantive constitutional anchor for contemporary family-law jurisprudence including human-rights framework."
+    },
+    {
+      "year": 2022,
+      "title": "Same-sex partnership recognition + Day v Governor 2019 jurisprudence",
+      "description": "Day v The Governor of the Cayman Islands 2019 — substantively significant litigation on same-sex marriage recognition. JCPC final decision March 2022 ruling against constitutional right to same-sex marriage; Civil Partnership Law 2020 establishing same-sex civil partnership framework. Substantively distinctive Caribbean BOT human-rights jurisprudence pattern."
+    },
+    {
+      "year": 2023,
+      "title": "Panton premiership + Office of the Ombudsman + offshore-financial framework",
+      "description": "Wayne Panton (PPM) premiership 2021-2025 framework consolidation through 2023. Office of the Ombudsman institutional position addressing PA-related issues within Children Law 2003 + Matrimonial Causes Law framework. Offshore-financial framework substantively significant institutional context affecting cross-border family-law asset-tracing matters. Substantively significant Caribbean BOT institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cayman Islands Court of Appeal + JCPC — welfare-of-the-child substantive register",
+      "description": "Cayman Islands Court of Appeal and Judicial Committee of the Privy Council continue to develop welfare-of-the-child jurisprudence under Children Law 2003 s. 3 + Matrimonial Causes Law 2005 Revision + Hague Convention 1980 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within Caribbean-BOT-common-law + JCPC-final-appellate framework."
     }
   ],
   "structural_findings": [
@@ -96,8 +141,9 @@
     }
   ],
   "editorial_notes": [
-    "Cayman Islands jurisdiction sidecar — common-law Caribbean BOT (Children Law 2003 + Matrimonial Causes Law 2005 Revision + JCPC final-appellate + Hague via UK territorial extension 1998).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + common-law + BOT cluster + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+    "Cayman Islands jurisdiction sidecar v1.1 — deepened 2026-06-09 from 2 to 10 key_developments with full Jamaica-separation-to-Day-v-Governor trajectory: 1962-Cayman-Islands-separation-from-Jamaica + 1972-Cayman-Islands-Constitution-+-ministerial-government + 1991-UNCRC-+-BOT-extension + 1998-Hague-Convention-1980-territorial-extension + 2001-British-Overseas-Territories-Act-+-British-citizenship-+-offshore-finance + 2003-Children-Law + 2004-Hurricane-Ivan-+-reconstruction + 2009-Cayman-Islands-Constitution-+-Premier-framework-+-Bill-of-Rights + 2022-same-sex-partnership-+-Day-v-Governor-2019-jurisprudence + 2024-Court-of-Appeal-+-JCPC-welfare-of-the-child.",
+    "Common-law Caribbean BOT (Children Law 2003 + Matrimonial Causes Law 2005 Revision + JCPC final-appellate + Hague via UK territorial extension 1998).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children Law 2003 s. 3 + Matrimonial Causes Law framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + common-law + BOT-cluster + Cayman-separation-from-Jamaica-1962-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension + offshore-finance-centre-most-distinctive-Caribbean + Hurricane-Ivan-2004 + Constitution-2009-Bill-of-Rights + Day-v-Governor-2019-same-sex-marriage-JCPC-ruling-2022 + Civil-Partnership-Law-2020 clusters within the corpus."
   ]
 }

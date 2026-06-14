@@ -53,19 +53,64 @@
   "anonymisation_convention": "Bulgarian family-law decisions are anonymised per Supreme Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1989,
+      "title": "Bulgaria democratic transition + Zhivkov resignation + post-Communist legal framework",
+      "description": "Bulgaria democratic transition began 10 November 1989 with Todor Zhivkov's resignation ending 35 years of Communist rule. Foundational political-institutional moment for democratic-transition trajectory and subsequent constitutional + civil-code modernisation."
+    },
+    {
+      "year": 1991,
+      "title": "Constitution of the Republic of Bulgaria 1991 + UNCRC ratification + Council of Europe membership",
+      "description": "Constitution of the Republic of Bulgaria adopted 12 July 1991 — establishing parliamentary republic framework with Art. 14 codifying family-protection-clauses, Art. 32 right to private and family life, and Art. 47 family-protection. Bulgaria ratified UNCRC 3 June 1991. Council of Europe membership 7 May 1992 — ECHR ratified 7 September 1992 effective."
+    },
+    {
       "year": 2000,
-      "title": "Child Protection Act",
-      "description": "Federal child-protection statute enacted."
+      "title": "Child Protection Act + EU candidate trajectory",
+      "description": "Federal Child Protection Act enacted 13 June 2000 — codifying CRC-aligned child-protection mechanisms, juvenile-justice principles, child-development standards. State Agency for Child Protection established. Concurrently, EU accession negotiations opened 15 February 2000 — substantively accelerating EU-acquis harmonisation trajectory."
+    },
+    {
+      "year": 2003,
+      "title": "Hague Convention 1980 accession",
+      "description": "Bulgaria acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 August 2003. Places Bulgaria within the Hague-Eastern-European cluster."
+    },
+    {
+      "year": 2004,
+      "title": "NATO membership + EU acquis alignment acceleration",
+      "description": "Bulgaria joined NATO 29 March 2004 — substantively accelerating Western political-alignment trajectory. EU acquis harmonisation acceleration including family-law and constitutional-rights framework alignment."
+    },
+    {
+      "year": 2007,
+      "title": "European Union accession + Brussels IIa framework",
+      "description": "Bulgaria joined the European Union 1 January 2007 — substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111) for cross-border child-abduction and custody matters. Schengen Area accession partial (1 January 2025 land-borders). Eurozone accession pending."
     },
     {
       "year": 2009,
-      "title": "Family Code 2009 in force",
-      "description": "Семеен кодекс 2009 in force 1 October 2009 — substantial modernisation of family law including parental-rights framework."
+      "title": "Семеен кодекс 2009 (Family Code) in force",
+      "description": "Family Code adopted 12 June 2009, in force 1 October 2009 — substantively modernising family-law replacing 1985 Communist-era Family Code. Arts. 122-138 govern parental rights and obligations with joint exercise during marriage as statutory default. Art. 59 governs determination of parental rights on divorce."
     },
     {
       "year": 2010,
-      "title": "Mincheva v. Bulgaria (ECHR)",
-      "description": "Strasbourg Article 8 positive-obligations decision on Bulgarian contact-enforcement — included in the corpus's Strasbourg-Article-8 jurisprudence cluster."
+      "title": "Mincheva v. Bulgaria ECHR judgment + Article 8 contact-enforcement jurisprudence",
+      "description": "European Court of Human Rights judgment Mincheva v Bulgaria App. No. 21558/03, 2 September 2010 — held Bulgaria violated Article 8 (right to respect for family life) by failing to take adequate measures to maintain contact between mother and child following abduction by father. Among the foundational Article 8 contact-enforcement positive-obligations decisions cited in the corpus's Strasbourg-Article-8 jurisprudence cluster."
+    },
+    {
+      "year": 2022,
+      "title": "Russian-invasion-spillover + Bulgarian-political-instability + 5-elections-in-2-years framework",
+      "description": "Russian invasion of Ukraine 24 February 2022 substantively affecting Bulgaria — substantively distinctive Eastern European Russia-Ukraine-war-spillover framework + structurally distinctive globally Bulgarian-political-instability framework with 5 parliamentary elections in 2 years (2021-2023) + GERB-Continuing-Change-Democratic-Bulgaria coalition framework 2023 + structurally distinctive globally only modern EU member-state with 5-elections-in-2-years framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and Hague Convention 1980 cross-border implementation framework + Семеен кодекс 2009 family-law-implementation framework affecting Ukrainian-displaced-family family-court adjudication framework + Върховен касационен съд substantive register evolution."
+    },
+    {
+      "year": 2018,
+      "title": "Constitutional Court Istanbul Convention decision + family-form constitutional debates",
+      "description": "Constitutional Court of Bulgaria decision 27 July 2018 — held Istanbul Convention (Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence) unconstitutional based on gender-form interpretation under Constitution Art. 6. Substantive constitutional debates around family-form interpretation."
+    },
+    {
+      "year": 2023,
+      "title": "Schengen partial accession + EU-rule-of-law contestation + judicial reform",
+      "description": "Bulgaria partial Schengen accession (air and sea borders) effective 31 March 2024 (announced December 2023). EU-rule-of-law contestation continuing through 2022-2023 affecting judicial framework legitimacy under VSS (Visshia sudeben sastav) governance framework. Multiple ВКС and Konstitutsionen sad decisions developing nay-dobria interes na deteto interpretation. Substantively significant institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Върховен касационен съд + Конституционен съд — най-добрия интерес на детето substantive register",
+      "description": "Върховен касационен съд and Конституционен съд continue to develop най-добрия интерес на детето (best-interests-of-the-child) jurisprudence under Семеен кодекс arts. 122-138 + Constitution + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within deeply-EU-integrated post-Communist framework."
     }
   ],
   "structural_findings": [
@@ -100,8 +145,9 @@
     }
   ],
   "editorial_notes": [
-    "Bulgaria jurisdiction sidecar — CEE/Balkan civil-law framework. Family Code 2009 + Child Protection Act 2000 + Mincheva v. Bulgaria Strasbourg Article 8 jurisprudence.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins CEE/Balkan + Strasbourg-Article-8 jurisprudence clusters within the corpus."
+    "Bulgaria jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full democratic-transition-to-contemporary trajectory: 1989-Bulgaria-democratic-transition-Zhivkov-resignation + 1991-Constitution-+-UNCRC-ratification-+-Council-of-Europe-membership + 2000-Child-Protection-Act-+-EU-candidate-trajectory + 2003-Hague-1980-accession + 2004-NATO-membership + 2007-EU-accession + 2009-Семеен-кодекс-in-force + 2010-Mincheva-v-Bulgaria-ECHR-Article-8-contact-enforcement + 2018-Constitutional-Court-Istanbul-Convention-decision + 2024-Върховен-касационен-съд-Конституционен-съд-най-добрия-интерес-на-детето.",
+    "CEE/Balkan civil-law framework (Family Code 2009 + Child Protection Act 2000 + Constitution 1991 + Council of Europe/ECHR + Hague Convention 1980 + EU acquis + NATO + Mincheva v. Bulgaria Strasbourg Article 8 jurisprudence).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive най-добрия интерес на детето analysis under Семеен кодекс arts. 122-138 + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins CEE-Balkan-civil-law-cluster + post-Communist-democratic-transition + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Eastern-European + EU-member-state-2007 + NATO-member + Mincheva-Strasbourg-Article-8-contact-enforcement-foundational (with Italy Bondavalli/Improta/Strumia triptych) + Constitutional-Court-Istanbul-Convention-rejection (substantively distinctive within EU) + Schengen-land-borders-2025 clusters within the corpus."
   ]
 }

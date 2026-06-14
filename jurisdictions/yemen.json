@@ -47,25 +47,70 @@
   "anonymisation_convention": "Yemeni family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1962,
+      "title": "Yemen Arab Republic (North Yemen) established",
+      "description": "Yemen Arab Republic (North Yemen) established 26 September 1962 following 1962 revolution ending Zaydi-Imamate-millennium-rule (897-1962 — among the longest single-religious-dynasty rules globally). Pre-1962 personal-status under Zaydi Imamate jurisprudence; post-1962 codification trajectory toward modern statutory framework."
+    },
+    {
+      "year": 1967,
+      "title": "People's Democratic Republic of Yemen (South Yemen) established",
+      "description": "People's Democratic Republic of Yemen (South Yemen) established 30 November 1967 following independence from United Kingdom (Aden Protectorate). Operated socialist-influenced family-law framework distinctly modernised including Family Law 1974 with progressive women's-rights provisions — substantially modernised relative to North Yemen during the parallel-state period 1967-1990."
+    },
+    {
+      "year": 1974,
+      "title": "South Yemen Family Law (PDRY) — most progressive Arab family-law 1974",
+      "description": "PDRY Family Law 1974 enacted under socialist administration — substantially modernised family-law including women's-rights expansion, anti-polygamy provisions, judicial divorce framework, minimum-marriage-age. Among the most progressive Arab family-laws of the 1970s — substantively reversed post-1990 unification in favor of Shafi'i + Zaydi Shia framework."
+    },
+    {
       "year": 1990,
-      "title": "Republic of Yemen formation",
-      "description": "Unification of North Yemen (Yemen Arab Republic) and South Yemen (People's Democratic Republic of Yemen) establishing Republic of Yemen."
+      "title": "Republic of Yemen formation — unification of North and South",
+      "description": "Republic of Yemen established 22 May 1990 by unification of North Yemen (Yemen Arab Republic) and South Yemen (PDRY). Unification triggered comprehensive legal-system harmonisation including replacement of progressive PDRY Family Law 1974 with more conservative North-Yemen-aligned Personal Status Law trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Constitution of the Republic of Yemen 1991 + Yemen ratifies UN Convention on the Rights of the Child",
+      "description": "Constitution of the Republic of Yemen adopted 1991, substantially amended 1994 — establishing republican framework with Art. 2 declaring Islam the state religion and Art. 3 declaring Shariah the source of all legislation. Yemen ratified the UNCRC on 1 May 1991 — among the earliest MENA-Muslim-majority ratifications globally."
     },
     {
       "year": 1992,
-      "title": "Personal Status Law 20/1992",
-      "description": "Federal Personal Status Law enacted post-unification codifying personal-status matters on Shafi'i + Zaydi Shia jurisprudential basis."
+      "title": "Personal Status Law 20/1992 (Shafi'i + Zaydi Shia post-unification codification)",
+      "description": "Federal Personal Status Law 20/1992 enacted post-unification codifying personal-status matters primarily on Shafi'i jurisprudential basis (Sunni-Shafi'i predominant in former South Yemen and southern North Yemen) and Zaydi Shia jurisprudence (Zaydi-Shia predominant in northern North Yemen — distinctive to Yemen globally). Arts. 138-158 govern hadana (custody) and wilaya (guardianship). Substantively replaced PDRY Family Law 1974 progressive framework."
     },
     {
       "year": 2002,
       "title": "Rights of the Child Law 45/2002",
-      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+      "description": "Federal Rights of the Child Law 45/2002 enacted aligned with UNCRC obligations — codifying CRC-aligned child-protection mechanisms, juvenile-justice principles, child-development standards. Operates alongside Personal Status Law 20/1992 as the substantive child-welfare anchor for family-law jurisprudence."
+    },
+    {
+      "year": 2011,
+      "title": "Arab Spring + Yemeni Revolution + Gulf-Cooperation-Council initiative",
+      "description": "Yemeni Revolution 2011-2012 (Arab Spring period) under President Ali Abdullah Saleh administration — ending with GCC-brokered transition agreement and Saleh's resignation February 2012. President Abdrabbuh Mansur Hadi succession; National Dialogue Conference 2013-2014 reform process attempting comprehensive constitutional and family-law reform."
+    },
+    {
+      "year": 2015,
+      "title": "Yemeni Civil War begins (2015-present) + judicial-administrative disruption",
+      "description": "Yemeni Civil War began March 2015 following Houthi takeover of Sana'a (September 2014) — substantially disrupted Yemeni judicial-administrative framework with parallel governance frameworks (Houthi-controlled north, internationally-recognised-government-controlled south, STC-controlled Aden). Personal Status Law 20/1992 formally remains operative across jurisdictions but implementation substantially constrained and increasingly regionally fragmented."
+    },
+    {
+      "year": 2023,
+      "title": "PLC framework + UN-OCHA refugee coordination + Houthi parallel-jurisdiction development",
+      "description": "Presidential Leadership Council (PLC) framework continuation through 2023 with constrained operational capacity. UN-OCHA refugee coordination framework substantively significant for displaced-family family-law adjudication including cross-border (Saudi Arabia/Oman) coordination. Houthi parallel-jurisdiction development including Sana'a-based family-law adjudication framework. Substantively significant Arabian Peninsula institutional context affecting fragmented family-law implementation."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court / regional courts — welfare-of-the-child substantive register in constrained context",
+      "description": "Supreme Court and regional courts continue to develop welfare-of-the-child jurisprudence under Personal Status Law 20/1992 arts. 138-158 in the constrained operational context of ongoing civil war. Substantive analysis under Shafi'i-jurisprudence (Sunni) and Zaydi-Shia-jurisprudence (Shia) frameworks without doctrinal 'parental alienation' label adoption. Regional implementation substantially fragmented (Houthi-controlled vs IRG-controlled vs STC-controlled)."
     }
   ],
   "structural_findings": [
-    "Yemen operates a structurally distinctive Shafi'i + Zaydi Shia religious-law framework — Zaydi Shia jurisprudence is distinctive to Yemen within the MENA religious-law cluster; no other jurisdiction in the corpus has Zaydi-primary personal-status.",
-    "Non-Hague Convention status places Yemen in the non-Hague MENA cluster.",
-    "Post-unification 1990 codification (Personal Status Law 1992) integrated previously parallel North/South Yemen legal frameworks."
+    "Yemen operates a structurally distinctive Shafi'i + Zaydi Shia religious-law framework — Zaydi Shia jurisprudence is distinctive to Yemen within the MENA religious-law cluster; no other jurisdiction in the corpus has Zaydi-primary personal-status. Zaydi Imamate rule 897-1962 (1065 years) is among the longest single-religious-dynasty rules globally.",
+    "Pre-1990 parallel-state-legal-system: North Yemen (Yemen Arab Republic 1962-1990, Zaydi-influenced) + South Yemen (PDRY 1967-1990, socialist-influenced) — structurally distinctive globally. PDRY Family Law 1974 was among the most progressive Arab family-laws of the 1970s, substantively replaced post-1990 unification.",
+    "Post-unification 1990 codification (Personal Status Law 1992) integrated previously parallel North/South Yemen legal frameworks — generally toward more conservative North-Yemen-aligned framework. Foundational moment in legal-system harmonisation.",
+    "Constitution 1991/1994 Art. 3 (Shariah as source of all legislation) places Yemen within the Shariah-as-supreme-source constitutional cluster (with Saudi Arabia, Iran, Brunei MIB-2014, Sudan, Afghanistan-Taliban-2021, Maldives) — distinct from Shariah-as-principal-source-among-others (UAE, Qatar, Kuwait, Bahrain, Syria, Jordan).",
+    "Multi-layer substantive-statutory framework: 897-1962-Zaydi-Imamate-millennium-rule + 1962-North-Yemen-revolution-Yemen-Arab-Republic + 1967-PDRY-South-Yemen-establishment + 1974-PDRY-Family-Law-most-progressive-Arab + 1990-Republic-of-Yemen-unification + 1991-Constitution-+-UNCRC-ratification + 1992-Personal-Status-Law-20-1992-Shafi'i-Zaydi-Shia + 2002-Rights-of-the-Child-Law-45-2002 + 2011-Arab-Spring-Yemeni-Revolution + 2015-Yemeni-Civil-War-judicial-administrative-disruption + 2024-Supreme-Court-regional-courts-welfare-of-the-child.",
+    "Post-2015 civil-war operational-context substantially constrains substantive family-law jurisprudence development — Houthi-controlled / internationally-recognised-government-controlled / STC-controlled parallel governance affects family-court access and implementation. Structurally distinctive contemporary-political-fragmentation pattern within MENA religious-law cluster (alongside Syria, post-2021-Afghanistan).",
+    "Non-Hague-1980-Convention status places Yemen in the non-Hague-MENA cluster alongside Saudi Arabia, Iran, Iraq, Syria, Lebanon, Jordan.",
+    "UNCRC ratification 1991 among the earliest MENA-Muslim-majority ratifications — places Yemen within the early-UNCRC-MENA-ratifier cluster."
   ],
   "references": [
     "jurisdiction:saudi-arabia",
@@ -95,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Yemen jurisdiction sidecar — Shafi'i + Zaydi Shia religious-law framework. Personal Status Law 20/1992 + Rights of the Child Law 2002 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins MENA + religious-law + Zaydi-Shia distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Yemen jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Zaydi-Imamate-to-civil-war trajectory: 1962-North-Yemen-Yemen-Arab-Republic-revolution-ends-Zaydi-Imamate-millennium + 1967-PDRY-South-Yemen-establishment + 1974-PDRY-Family-Law-most-progressive-Arab + 1990-Republic-of-Yemen-unification + 1991-Constitution-+-UNCRC-ratification + 1992-Personal-Status-Law-20-1992-Shafi'i-Zaydi-Shia + 2002-Rights-of-the-Child-Law-45-2002 + 2011-Arab-Spring-Yemeni-Revolution + 2015-Yemeni-Civil-War-judicial-administrative-disruption + 2024-Supreme-Court-regional-courts-welfare-of-the-child.",
+    "Shafi'i + Zaydi Shia religious-law framework + Personal Status Law 20/1992 + Rights of the Child Law 45/2002 + Constitution 1991/1994 Art. 3 Shariah-supreme-source + Zaydi-Imamate-millennium-rule-897-1962-legacy + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Personal Status Law arts. 138-158 Shafi'i + Zaydi-Shia codified framework without doctrinal 'parental alienation' label.",
+    "Joins MENA + religious-law + Zaydi-Shia-distinctive-globally + Shariah-as-supreme-source-constitutional (with Saudi Arabia, Iran, Brunei, Sudan, Afghanistan-Taliban, Maldives) + pre-1990-parallel-state-legal-system-distinctive + post-2015-civil-war-operational-fragmentation (with Syria, post-2021-Afghanistan) + non-Hague-MENA-Convention + early-UNCRC-MENA-ratifier clusters within the corpus."
   ]
 }

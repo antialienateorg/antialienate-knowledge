@@ -53,19 +53,59 @@
   "anonymisation_convention": "Mauritanian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Mauritania independence + Daddah founding-presidency",
+      "description": "Mauritania independence 28 November 1960 from France — establishing Islamic Republic framework. Moktar Ould Daddah first president 1960-1978 substantively distinctive Sahel African founding-presidency framework. Foundational pre-1978-coup framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1978,
+      "title": "1978 Mauritania coup + Western-Sahara-context + recurring-coup-pattern",
+      "description": "1978 Mauritania coup 10 July 1978 ending Daddah presidency — substantively distinctive Sahel recurring-coup pattern (1978, 1984, 2005, 2008). Substantive Western-Sahara War context substantially affecting political-institutional framework. Foundational recurring-instability framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1981,
+      "title": "Mauritania slavery abolition + last-state-globally framework",
+      "description": "Mauritania abolished slavery 9 November 1981 — substantively distinctive globally last-state-formally-abolishing-slavery framework. Subsequent slavery-criminalisation 2007 + 2015 anti-slavery-law strengthening framework substantively affecting demographic and family-law-implementation framework."
+    },
+    {
       "year": 1991,
-      "title": "Constitution + Islamic Republic",
-      "description": "Constitution adopted establishing Islamic Republic of Mauritania with Islam as state religion and Sharia as source of law."
+      "title": "Constitution 1991 + Islamic Republic + multi-party-transition framework",
+      "description": "Constitution adopted 12 July 1991 establishing Islamic Republic of Mauritania with Islam as state religion and Sharia as source of law. Substantive multi-party transition framework. Foundational constitutional anchor for contemporary family-law jurisprudence including Maliki Islamic-law framework."
+    },
+    {
+      "year": 1991,
+      "title": "Mauritania ratifies UN Convention on the Rights of the Child",
+      "description": "Mauritania ratified the UNCRC on 16 May 1991 (with reservations consistent with Islamic Sharia) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2001 Personal Status Code substantive doctrine."
     },
     {
       "year": 2001,
       "title": "Personal Status Code 2001 (Law 2001-052)",
-      "description": "Federal Personal Status Code enacted drawing on Maliki Islamic-law jurisprudence with codification."
+      "description": "Federal Personal Status Code enacted 19 July 2001 drawing on Maliki Islamic-law jurisprudence with codification. Arts. 124-145 govern hadana (custody) and wilaya (guardianship). Substantively distinctive Sahel Maliki-Islamic-law-codification framework affecting family-law-implementation."
+    },
+    {
+      "year": 2005,
+      "title": "2005 Mauritania coup + Vall transitional-government framework",
+      "description": "2005 Mauritania coup 3 August 2005 ending Ould Taya 20-year-presidency — substantively distinctive Sahel-recurring-coup framework. Subsequent democratic-transition 2005-2007 leading to 2007 elections affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2008,
+      "title": "2008 Mauritania coup + Aziz framework + 11-year-presidency",
+      "description": "2008 Mauritania coup 6 August 2008 led by General Mohamed Ould Abdel Aziz ending Abdallahi presidency. Subsequent Aziz presidency 2009-2019 substantively distinctive Sahel African long-presidency framework. Substantive recurring-coup pattern affecting constitutional-democratic-trajectory."
     },
     {
       "year": 2017,
-      "title": "Constitution revision 2017",
-      "description": "Constitutional revision."
+      "title": "Constitution revision 2017 + Senate-abolition framework",
+      "description": "Constitutional revision August 2017 substantively reforming political-institutional framework including Senate abolition. Substantive constitutional anchor affecting subsequent constitutional-democratic-trajectory and family-law-cross-cutting-areas."
+    },
+    {
+      "year": 2023,
+      "title": "Commission Nationale des Droits de l'Homme + slavery legacy framework + Mali refugee context",
+      "description": "Commission Nationale des Droits de l'Homme (CNDH) institutional position addressing PA-related issues within Personal Status Code 2001 + Maliki Islamic-law framework. Continuing slavery-legacy framework affecting institutional context including anti-slavery framework operationalisation. Mali refugee context affecting cross-border family-law adjudication with Sahel cluster. Substantively significant Maghreb-Sahel institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour Suprême + Conseil Constitutionnel — welfare-of-the-child substantive register + Ghazouani re-election",
+      "description": "Cour Suprême and Conseil Constitutionnel continue to develop welfare-of-the-child jurisprudence under Personal Status Code 2001 arts. 124-145 + Maliki Islamic-law framework in custody disputes. Mohamed Ould Ghazouani re-elected 29 June 2024 — substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -101,8 +141,9 @@
     }
   ],
   "editorial_notes": [
-    "Mauritania jurisdiction sidecar — religious-law Maliki-Sunni Islamic Republic Sahel West Africa (Personal Status Code 2001 + Constitution 1991 Islam-as-state-religion + non-Hague). Only Islamic Republic in West Africa.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Sahel West African + religious-law + Maliki-Sunni + Islamic-Republic-distinctive + non-Hague Convention clusters within the corpus."
+    "Mauritania jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Daddah-to-Ghazouani trajectory: 1960-Mauritania-independence-+-Daddah + 1978-1978-Mauritania-coup-+-Western-Sahara-context + 1981-Mauritania-slavery-abolition-+-last-state-globally + 1991-Constitution-+-Islamic-Republic-+-multi-party-transition + 1991-UNCRC-ratification + 2001-Personal-Status-Code-Law-2001-052 + 2005-2005-Mauritania-coup-+-Vall-transitional + 2008-2008-Mauritania-coup-+-Aziz + 2017-Constitution-revision-+-Senate-abolition + 2024-Cour-Suprême-+-Conseil-Constitutionnel-+-Ghazouani-re-election.",
+    "Religious-law Maliki-Sunni Islamic Republic Sahel West Africa (Personal Status Code 2001 + Constitution 1991 Islam-as-state-religion + non-Hague). Only Islamic Republic in West Africa.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Personal Status Code 2001 arts. 124-145 + Maliki Islamic-law framework without doctrinal 'parental alienation' label.",
+    "Joins Sahel-West-African + religious-law + Maliki-Sunni + only-Islamic-Republic-in-West-Africa-distinctive + Mauritania-slavery-abolition-1981-last-state-globally-formally-abolishing-slavery-distinctive + slavery-criminalisation-2007-+-2015-strengthening + recurring-coup-pattern-1978-1984-2005-2008 + Western-Sahara-War-context + Senate-abolition-2017 + non-Hague-Convention clusters within the corpus."
   ]
 }

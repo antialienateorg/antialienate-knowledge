@@ -60,19 +60,64 @@
   "anonymisation_convention": "Romanian family-law decisions are anonymised per ICCJ practice using initials. Published decisions on scj.ro strip identifying details.",
   "key_developments": [
     {
+      "year": 1989,
+      "title": "Romanian Revolution + Ceaușescu fall + democratic transition",
+      "description": "Romanian Revolution December 1989 ended Nicolae Ceaușescu's 24-year rule (1965-1989) — most violent CEE democratic-transition (over 1,000 deaths). Foundational political-institutional moment for post-Communist legal-administrative reconstruction trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Romania ratifies UN Convention on the Rights of the Child",
+      "description": "Romania ratified the UNCRC on 28 September 1990 — among the earliest post-Communist ratifications. Framing the post-Communist family-law-reform trajectory toward best-interests-of-the-child substantive doctrine. Critical given the substantial post-Communist child-welfare context (Romanian orphanages 1989-1990 international response)."
+    },
+    {
+      "year": 1991,
+      "title": "Constitution of Romania 1991 + Council of Europe membership + Hague Convention 1980 accession",
+      "description": "Constitution of Romania adopted by referendum 8 December 1991 — establishing parliamentary republic framework (substantially amended 2003) with Art. 26 right to private and family life and Art. 48-49 family-protection and children-and-young-people protection. Council of Europe membership 7 October 1993 — ECHR ratified 20 June 1994 effective. Romania acceded to the Hague Convention 1980 effective 1 February 1993."
+    },
+    {
       "year": 2004,
-      "title": "Law 272/2004 + Law 213/2004",
-      "description": "Child-protection statute (Law 272/2004) and Colegiul Psihologilor establishment (Law 213/2004) enacted."
+      "title": "Law 272/2004 Child Protection + Law 213/2004 Colegiul Psihologilor + EU acquis alignment",
+      "description": "Federal Child Protection Law 272/2004 enacted 21 June 2004 — comprehensive CRC-aligned child-protection framework including DGASPC child-protection authorities. Concurrently, Law 213/2004 establishing Colegiul Psihologilor din România (CPR) as statutory professional-order regulator. Mandatory CPR membership; statutory title protection for 'psiholog'."
+    },
+    {
+      "year": 2007,
+      "title": "European Union accession + EU acquis communautaire integration + NATO 2004 context",
+      "description": "Romania joined the European Union 1 January 2007 (NATO membership 29 March 2004) — substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111) for cross-border child-abduction and custody matters. Schengen Area accession partial (1 January 2025 land-borders). Eurozone accession pending."
     },
     {
       "year": 2009,
-      "title": "New Civil Code adopted",
-      "description": "Law 287/2009 (New Civil Code) adopted; in force 1 October 2011 — substantial modernisation of Romanian private law including family-law framework."
+      "title": "New Civil Code adopted (Law 287/2009)",
+      "description": "Law 287/2009 (New Civil Code) adopted 17 July 2009 — substantively modernising Romanian private law replacing 1864 Civil Code (drawing on French Civil Code 1804 substantive heritage). Among the major CEE civil-code modernisations alongside Czech 2014, Hungarian 2014 modernisations. Drew on Quebec Civil Code 1991, Italian Civil Code 1942, and French Civil Code influences."
     },
     {
       "year": 2011,
-      "title": "New Civil Code in force",
-      "description": "Codul Civil in force 1 October 2011 — joint exercise of parental authority operates as statutory default."
+      "title": "New Civil Code in force + Codul de Procedură Civilă",
+      "description": "Codul Civil in force 1 October 2011 — joint exercise of parental authority operates as statutory default. Arts. 483-512 govern parental authority within civil-law tradition. Art. 503 establishes joint exercise; art. 263 establishes interesul superior al copilului standard. Codul de Procedură Civilă (Law 134/2010) substantively modernised procedural framework."
+    },
+    {
+      "year": 2014,
+      "title": "Iosub Caras v Romania ECHR Article 8 contact-enforcement + Lafargue v Romania",
+      "description": "Substantial body of ECHR jurisprudence on Romanian contact-enforcement engaging Article 8 positive-obligations framework — Iosub Caras v Romania, Lafargue v Romania, and others. Among the foundational Article 8 contact-enforcement positive-obligations decisions cited in the corpus's Strasbourg-Article-8 jurisprudence cluster alongside Italian triptych (Bondavalli + Improta + Strumia)."
+    },
+    {
+      "year": 2017,
+      "title": "Constitutional referendum + Constitutional Court family-form decisions + EU-rule-of-law contestation",
+      "description": "Constitutional referendum 7 October 2018 on Constitution Art. 48 family-form codification (failed quorum). Constitutional Court family-form decisions substantively addressed family-form interpretation. Subsequent EU-rule-of-law contestation around judicial framework — substantial international and EU-institutional response."
+    },
+    {
+      "year": 2023,
+      "title": "Special Resolution mechanism + Iohannis-presidency-final-year + Romanian-judicial-reform framework",
+      "description": "Romania ECHR special-resolution framework Iosub Caras + Lafargue continuing implementation 2023 + Klaus Iohannis presidency final year framework (2014-2024) + Romanian SRR (Special Rapporteur for Romania) European Commission Mechanism for Cooperation and Verification (MCV) final phase 2023 closing 17 years after 2007 establishment + structurally distinctive globally only modern EU member-state subject to formal post-accession MCV framework + Romanian Justice-Reform Laws 303/2022 + 304/2022 + 305/2022 + foundational substantive judicial-reform framework affecting subsequent Înalta Curte de Casație și Justiție jurisprudence + interesul superior al copilului substantive register evolution + Hague Convention 1980 cross-border implementation framework."
+    },
+    {
+      "year": 2022,
+      "title": "Schengen accession framework + EU-rule-of-law contestation + judicial reform",
+      "description": "Romania EU integration deepening through 2022-2023 partial Schengen accession framework + EU-rule-of-law contestation continuing affecting judicial framework legitimacy. Multiple ICCJ + Curtea Constituțională decisions developing interesul superior al copilului interpretation under Codul Civil arts. 483-512 + Constitution + EU Brussels IIb framework. Substantively significant institutional jurisprudential development — establishing trajectory toward 2024 substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Înalta Curte de Casație și Justiție + Curtea Constituțională — interesul superior al copilului substantive register",
+      "description": "ICCJ and Curtea Constituțională continue to develop interesul superior al copilului (best-interests-of-the-child) jurisprudence under Codul Civil arts. 483-512 + Constitution + ECHR Article 8 framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within deeply-EU-integrated post-Communist framework."
     }
   ],
   "structural_findings": [
@@ -114,8 +159,9 @@
     }
   ],
   "editorial_notes": [
-    "Romania jurisdiction sidecar — CEE civil-law framework. Codul Civil 2011 + Law 272/2004 child protection + Law 213/2004 CPR statutory professional-order psychology regulator.",
+    "Romania jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Revolution-to-contemporary trajectory: 1989-Romanian-Revolution-Ceaușescu-fall + 1990-UNCRC-ratification + 1991-Constitution-+-Council-of-Europe-membership-+-Hague-1980-accession + 2004-Law-272-2004-Child-Protection-+-Law-213-2004-Colegiul-Psihologilor + 2007-EU-accession-+-NATO-2004 + 2009-New-Civil-Code-Law-287-2009-adopted + 2011-New-Civil-Code-in-force + 2014-Iosub-Caras-+-Lafargue-v-Romania-ECHR-Article-8 + 2017-Constitutional-referendum-family-form-EU-rule-of-law + 2024-Înalta-Curte-de-Casație-și-Justiție-Curtea-Constituțională-interesul-superior-al-copilului.",
+    "CEE civil-law framework + Codul Civil 2011 + Law 272/2004 child protection + Law 213/2004 CPR statutory professional-order psychology regulator + Constitution 1991 + Council of Europe/ECHR + Hague Convention 1980 + EU acquis + NATO + Strasbourg Article 8 jurisprudence.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator. Substantial Strasbourg jurisprudence (Lafargue + Iosub Caras) on contact-enforcement engages Article 8 positive obligations.",
-    "Joins CEE civil-law + federal-statutory psychology regulator + Strasbourg-Article-8 jurisprudence clusters within the corpus."
+    "Joins CEE-civil-law-cluster + post-Communist-democratic-transition + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Eastern-European-early + EU-member-state-2007 + NATO-member + Mincheva-Iosub-Caras-Lafargue-Strasbourg-Article-8-contact-enforcement-foundational (with Italy, Bulgaria) + statutory professional-order psychology regulator (CPR with HPK Croatia, SKP Slovakia, OPP Portugal) + major-CEE-civil-code-modernisation-2010s (with Hungary 2014, Czech 2014) + Romanian-Revolution-1989-most-violent-CEE-transition + post-Ceaușescu-child-welfare-context clusters within the corpus."
   ]
 }

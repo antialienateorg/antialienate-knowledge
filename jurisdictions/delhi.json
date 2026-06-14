@@ -74,39 +74,59 @@
   "anonymisation_convention": "Delhi family-court decisions are anonymised per Indian court practice using initials.",
   "key_developments": [
     {
+      "year": 1192,
+      "title": "Delhi Sultanate foundation",
+      "description": "Delhi Sultanate foundation 1192 following Muhammad of Ghor's victory at Second Battle of Tarain — pivotal medieval Islamic-sultanate framework over Delhi 1206-1526 + foundation for subsequent ~700-year continuous Delhi capital status spanning Delhi Sultanate + Mughal Empire + British India + Independent India + structurally distinctive globally only state-level entity with continuous capital status spanning multiple medieval Islamic + colonial + modern frameworks."
+    },
+    {
       "year": 1638,
       "title": "Mughal Shahjahanabad founded",
-      "description": "Mughal Emperor Shah Jahan founded Shahjahanabad (Old Delhi) on 12 May 1638 — Mughal capital 1638-1857."
+      "description": "Mughal Emperor Shah Jahan founded Shahjahanabad (Old Delhi) on 12 May 1638 — Mughal capital 1638-1857 + pivotal pre-modern Mughal-imperial framework foundation + foundation for subsequent 1857 Indian Rebellion + British India 1911 transfer + Independent India 1947 continuity."
+    },
+    {
+      "year": 1857,
+      "title": "Indian Rebellion + End of Mughal Empire",
+      "description": "Indian Rebellion of 1857 (Sepoy Mutiny) — Bahadur Shah II (last Mughal Emperor) exiled to Burma May 1858 ending Mughal Empire after 1638-1857 Mughal capital framework + foundation for subsequent British East India Company-to-Crown direct rule framework (Government of India Act 1858) + pivotal Delhi-capital framework continuity context preceding subsequent 1911 British India capital transfer to Delhi."
     },
     {
       "year": 1911,
       "title": "British India capital transfer to Delhi",
-      "description": "British India capital transferred from Calcutta to Delhi on 12 December 1911 — Delhi Durbar."
+      "description": "British India capital transferred from Calcutta to Delhi on 12 December 1911 at Delhi Durbar (King George V coronation) — pivotal modern British India capital framework foundation + foundation for subsequent 1947 Independent India capital continuity + foundation for New Delhi architectural framework by Edwin Lutyens + Herbert Baker."
     },
     {
       "year": 1947,
       "title": "Partition + Independent India capital",
-      "description": "Delhi continued as capital of newly independent India on 15 August 1947."
+      "description": "Delhi continued as capital of newly independent India on 15 August 1947 + Partition refugee influx framework + significant Delhi demographic transformation framework (~500,000 Muslim refugees departed + ~500,000 Hindu/Sikh refugees arrived) + foundation for subsequent Part-C State 1950-1956 + Union Territory 1956-1991 + NCT 1991+ frameworks."
+    },
+    {
+      "year": 1956,
+      "title": "States Reorganisation Act + Union Territory status",
+      "description": "States Reorganisation Act 1956 effective 1 November 1956 — Delhi reorganised as Union Territory 1956-1991 + pivotal modern Union Territory framework foundation + foundation for subsequent 1991 Constitution 69th Amendment Article 239AA NCT framework."
     },
     {
       "year": 1991,
       "title": "Constitution 69th Amendment + Article 239AA",
-      "description": "Constitution (Sixty-Ninth Amendment) Act 1991 inserting Article 239AA establishing National Capital Territory of Delhi framework."
+      "description": "Constitution (Sixty-Ninth Amendment) Act 1991 inserting Article 239AA establishing National Capital Territory of Delhi framework + Government of National Capital Territory of Delhi Act 1991 establishing NCT Legislative Assembly framework + structurally distinctive globally only Indian Union Territory with constitutional Article 239AA special-status framework."
     },
     {
       "year": 2018,
       "title": "Delhi v Union of India + constitutional jurisdiction definition",
-      "description": "Indian Supreme Court Constitution Bench judgment of 4 July 2018 in Government of NCT of Delhi v Union of India — first major constitutional definition of NCT-vs-Lieutenant-Governor jurisdiction."
+      "description": "Indian Supreme Court Constitution Bench judgment of 4 July 2018 in Government of NCT of Delhi v Union of India — first major constitutional definition of NCT-vs-Lieutenant-Governor jurisdiction + Chief Justice Dipak Misra-led 5-judge Bench unanimously held Lieutenant Governor's role limited and elected NCT Government has executive authority on most matters."
     },
     {
       "year": 2023,
       "title": "Delhi services judgment",
-      "description": "Indian Supreme Court Constitution Bench judgment of 11 May 2023 in Government of NCT of Delhi v Union of India regarding services jurisdiction."
+      "description": "Indian Supreme Court Constitution Bench judgment of 11 May 2023 in Government of NCT of Delhi v Union of India regarding services jurisdiction — held NCT Government has legislative-executive competence over services subject + within 7 days Indian Federal Government issued ordinance reversing judgment + subsequent Government of NCT of Delhi (Amendment) Act 2023 + 2023 controversial federal-vs-NCT contestation framework continuation."
+    },
+    {
+      "year": 2025,
+      "title": "BJP Delhi-Assembly-election-win + Rekha Gupta CM + post-AAP-decade framework",
+      "description": "BJP Delhi Assembly election win February 2025 ending AAP 12-year framework + Rekha Gupta Chief Minister February 2025 framework + continuing post-AAP-decade Delhi NCT framework with continuing GNCTD Amendment Act 2021 + Delhi Services Act 2023 federal-vs-NCT contestation framework + Delhi High Court + Supreme Court of India institutional positions addressing PA-related issues within Hindu Marriage Act 1955 + Guardians and Wards Act 1890 framework. Substantively significant North Indian-Union-Territory institutional jurisprudential development."
     },
     {
       "year": 2024,
-      "title": "GNCTD Amendment Act 2021 challenges (ongoing)",
-      "description": "Ongoing Indian Supreme Court challenges to GNCTD Amendment Act 2021 framework."
+      "title": "GNCTD Amendment Act 2021 challenges + ongoing constitutional contestation",
+      "description": "Ongoing Indian Supreme Court challenges to GNCTD Amendment Act 2021 framework + Delhi Services Act 2023 framework + ongoing NCT-vs-Lieutenant-Governor constitutional contestation framework + AAP Government under Arvind Kejriwal continuing federal-vs-NCT framework contestation + structurally distinctive globally most contested modern Indian sub-state-vs-federal constitutional jurisdiction."
     }
   ],
   "structural_findings": [
@@ -141,7 +161,7 @@
     }
   ],
   "editorial_notes": [
-    "Delhi NCT jurisdiction sidecar — common-law North Indian Indian Union Territory + national capital (Indian Constitution Article 239AA + Government of NCT of Delhi Act 1991 + GNCTD Amendment Act 2021 + Government of NCT of Delhi v Union of India 2018/2023/2024 Constitutional Bench cases + Delhi High Court 1966 + Mughal Shahjahanabad 1638 + British India capital 1911 + Independent India capital 1947 + Indian non-Hague-1980). Only Indian Union Territory with constitutional Article 239AA special-status framework globally + seat of Indian Federal Government + largest Indian metropolitan jurisdiction (~33 million Delhi NCR) + second-largest metropolitan area in the world + most contested modern Indian sub-state-vs-federal constitutional jurisdiction + only state-level entity with continuous capital status spanning Mughal + British + Independent India.",
+    "Delhi NCT jurisdiction sidecar v1.1 — common-law North Indian Indian Union Territory + national capital (1192 Delhi Sultanate foundation + 1638 Mughal Shahjahanabad + 1857 Indian Rebellion + 1911 British India capital transfer + 1947 Partition + Independent India capital + 1956 States Reorganisation Act + 1991 Constitution 69th Amendment Article 239AA + 2018 Delhi v Union of India + 2023 Delhi services judgment + Federal ordinance reversal + 2024 GNCTD Amendment Act 2021 + Delhi Services Act 2023 challenges). Only Indian Union Territory with constitutional Article 239AA special-status framework globally + seat of Indian Federal Government + largest Indian metropolitan jurisdiction (~33 million Delhi NCR) + second-largest metropolitan area in the world + most contested modern Indian sub-state-vs-federal constitutional jurisdiction + only state-level entity with continuous capital status spanning Delhi Sultanate + Mughal + British + Independent India.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins North-Indian + common-law + Indian-Union-Territory cluster + Article-239AA-special-status-framework-globally-distinctive + seat-of-Indian-Federal-Government + largest-Indian-metropolitan-jurisdiction + second-largest-global-metropolitan-area + Government-of-NCT-of-Delhi-v-Union-of-India-2018-2023-2024 + Constitution-69th-Amendment-1991 + GNCTD-Amendment-Act-2021 + Mughal-British-Independent-India-continuous-capital-status + Delhi-High-Court-1966 + Indian-non-Hague-1980 clusters within the corpus."
   ]

@@ -46,13 +46,64 @@
   "anonymisation_convention": "Burundian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1962,
+      "title": "Burundi independence + Mwami Mwambutsa IV monarchy",
+      "description": "Burundi achieved independence 1 July 1962 from Belgium under United Nations trusteeship — alongside Rwanda as Ruanda-Urundi separation. Mwami (King) Mwambutsa IV constitutional monarchy 1962-1966 — among the latest African monarchies. Substantively distinctive Tutsi-monarchy framework operating alongside Belgian civil-law inheritance."
+    },
+    {
+      "year": 1966,
+      "title": "Republic proclamation + Micombero coup + first-republic era",
+      "description": "Captain Michel Micombero deposed Mwami Ntare V 28 November 1966 — abolishing monarchy and proclaiming First Republic. Substantively distinctive Tutsi-military-elite political-institutional framework. Foundational ethnic-political-tension pattern affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 1972,
+      "title": "Ikiza genocide 1972 + Hutu mass-killing + political-institutional disruption",
+      "description": "Ikiza ('the catastrophe') April-August 1972 — estimated 100,000-300,000 Hutu killed by Tutsi-dominant army following Hutu rebellion. Among the most-distinctive African 20th-century mass-atrocity events. Substantive demographic and family-law-implementation disruption persisting through subsequent decades."
+    },
+    {
+      "year": 1990,
+      "title": "Burundi ratifies UN Convention on the Rights of the Child",
+      "description": "Burundi ratified the UNCRC on 19 October 1990 — among the early African ratifications globally. Framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine within Belgian-civil-law framework."
+    },
+    {
       "year": 1993,
-      "title": "Persons and Family Code 1993 (Decree-Law 1/024)",
-      "description": "Federal Persons and Family Code enacted drawing on Belgian civil-law substantive heritage."
+      "title": "Persons and Family Code 1993 (Decree-Law 1/024) + Ndadaye assassination + Civil War 1993-2005",
+      "description": "Federal Persons and Family Code enacted 28 April 1993 (Decree-Law 1/024) drawing on Belgian civil-law substantive heritage. Arts. 309-339 govern parental authority and child custody. Melchior Ndadaye (first Hutu president) assassinated 21 October 1993 triggering Burundian Civil War 1993-2005 — among most-prolonged African civil wars. Substantial political-institutional disruption affecting family-law-implementation framework."
+    },
+    {
+      "year": 2000,
+      "title": "Arusha Peace and Reconciliation Agreement 2000 + ethnic-power-sharing framework",
+      "description": "Arusha Peace and Reconciliation Agreement signed 28 August 2000 — substantively reforming political-institutional framework with Tutsi-Hutu ethnic-power-sharing-quota provisions. Subsequent transitional government 2001-2005 framework. Substantively distinctive ethnic-quota-based political-institutional framework affecting family-law-cross-cutting-areas."
+    },
+    {
+      "year": 2005,
+      "title": "Constitution of Burundi 2005 + Nkurunziza presidency + post-civil-war transition",
+      "description": "Constitution of Burundi adopted 18 March 2005 by referendum (substantially amended 2018) — establishing Tutsi-Hutu ethnic-quota presidential republic framework. Pierre Nkurunziza (CNDD-FDD Hutu rebel-leader-turned-president) elected 26 August 2005 — substantive post-civil-war transition framework."
+    },
+    {
+      "year": 2015,
+      "title": "2015 constitutional crisis + Nkurunziza third-term + EU sanctions",
+      "description": "Pierre Nkurunziza third-term candidacy 2015 triggered constitutional crisis — substantial political contestation including failed coup attempt 13 May 2015. EU sanctions imposed 2016. Substantively distinctive contested-third-term political-institutional disruption pattern affecting family-law-cross-border-jurisdiction-cooperation."
+    },
+    {
+      "year": 2018,
+      "title": "Constitutional referendum 2018 + Nkurunziza-Ndayishimiye succession 2020",
+      "description": "Constitutional referendum 17 May 2018 substantively reformed political-institutional framework. Pierre Nkurunziza died 8 June 2020 — Évariste Ndayishimiye assumed presidency 18 June 2020 in dynastic-CNDD-FDD-continuation framework. Subsequent diplomatic-normalisation trajectory with EU and international partners."
+    },
+    {
+      "year": 2023,
+      "title": "Ndayishimiye government + Ombudsman + EAC framework + diplomatic-normalisation framework",
+      "description": "Évariste Ndayishimiye (CNDD-FDD) presidency framework continuing through 2023 with diplomatic-normalisation trajectory including EU restoration of cooperation 2022-2023 + East African Community institutional framework deepening. Ombudsman institutional positions addressing PA-related issues within Persons and Family Code 1993 arts. 309-339 framework. Substantively significant Central/East-African Belgian-derivative institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour Suprême + Cour Constitutionnelle — interest-of-the-child substantive register + post-civil-war reconstruction",
+      "description": "Cour Suprême and Cour Constitutionnelle continue to develop interest-of-the-child jurisprudence under Persons and Family Code arts. 309-339 framework in custody disputes within post-civil-war reconstruction context under Ndayishimiye presidency. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
     "Burundi operates a Belgian-civil-law family-law framework — places Burundi in the Central African Belgian-derivative cluster with DRC and Rwanda within the corpus. Completes Belgian-derivative Central African sub-cluster (DRC+RW+BI).",
+    "Bilingual official-language framework (French + Kirundi, with English added 2014) reflects post-colonial language-policy heritage and East African Community membership context.",
     "Non-Hague Convention status places Burundi in the non-Hague Central African cluster."
   ],
   "references": [
@@ -83,8 +134,9 @@
     }
   ],
   "editorial_notes": [
-    "Burundi jurisdiction sidecar — civil-law Central/East African Belgian-derivative (Persons and Family Code 1993 + non-Hague). Completes Belgian-derivative Central African sub-cluster (DRC+RW+BI).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central/East African + Francophone + civil-law + Belgian-derivative cluster + non-Hague Convention clusters within the corpus."
+    "Burundi jurisdiction sidecar v1.1 — deepened 2026-06-09 from 1 to 10 key_developments with full Mwambutsa-IV-to-Ndayishimiye trajectory: 1962-Burundi-independence-+-Mwami-Mwambutsa-IV-monarchy + 1966-Republic-proclamation-+-Micombero-coup + 1972-Ikiza-genocide-Hutu-mass-killing + 1990-UNCRC-ratification + 1993-Persons-and-Family-Code-+-Ndadaye-assassination-+-Civil-War-1993-2005 + 2000-Arusha-Peace-Agreement + 2005-Constitution-+-Nkurunziza-presidency + 2015-constitutional-crisis-+-third-term-+-EU-sanctions + 2018-Constitutional-referendum-+-Nkurunziza-Ndayishimiye-succession + 2024-Cour-Suprême-+-Cour-Constitutionnelle-interest-of-the-child.",
+    "Civil-law Central/East African Belgian-derivative (Persons and Family Code 1993 + Belgian-civil-law-substrate + post-civil-war + non-Hague Convention). Completes Belgian-derivative Central African sub-cluster (DRC+RW+BI).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Persons and Family Code arts. 309-339 framework within post-civil-war reconstruction context without doctrinal 'parental alienation' label.",
+    "Joins Central/East-African + Francophone + civil-law + Belgian-derivative-cluster (with DRC, Rwanda) + Mwami-monarchy-1962-1966 + Ikiza-genocide-1972-distinctive + Burundian-Civil-War-1993-2005 + Arusha-Peace-Agreement-2000-ethnic-quota + Nkurunziza-third-term-constitutional-crisis-2015 + Nkurunziza-Ndayishimiye-CNDD-FDD-succession + non-Hague-Convention clusters within the corpus."
   ]
 }

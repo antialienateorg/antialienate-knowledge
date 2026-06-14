@@ -59,23 +59,58 @@
   "key_developments": [
     {
       "year": 1904,
-      "title": "Divorce Act",
-      "description": "Federal colonial-era divorce statute enacted."
+      "title": "Divorce Act + Buganda-Protectorate colonial-era framework",
+      "description": "Federal colonial-era Divorce Act enacted within Buganda Protectorate framework drawing on English-divorce-statute substantive heritage. Foundational pre-independence statutory framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1962,
+      "title": "Uganda independence + Milton Obote founding-prime-minister",
+      "description": "Uganda independence 9 October 1962 from the United Kingdom — Milton Obote first prime minister 1962-1971. Substantively distinctive East African independence framework. Foundational pre-Amin-era framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1971,
+      "title": "Idi Amin coup + 8-year-authoritarian-regime framework",
+      "description": "Idi Amin coup d'état 25 January 1971 ending Obote presidency — substantively distinctive globally 8-year authoritarian-regime framework with estimated 300,000-500,000 killed. Substantive 1972 Asian-expulsion substantially affecting demographic and family-law-implementation framework. Foundational pre-Tanzania-Uganda-War framework."
+    },
+    {
+      "year": 1986,
+      "title": "Museveni-NRM-victory + Bush War end + continuing-presidency framework",
+      "description": "Yoweri Museveni (National Resistance Movement) assumed presidency 29 January 1986 ending Bush War 1981-1986 — substantively distinctive globally one of longest-current-presidencies-in-Africa framework (40+ years through 2026). Substantial post-Bush-War reconstruction framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Uganda ratifies UN Convention on the Rights of the Child",
+      "description": "Uganda ratified the UNCRC on 17 August 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 1997 Children Act substantive doctrine."
+    },
+    {
+      "year": 1995,
+      "title": "Constitution of Uganda 1995 + multi-party-democratic framework",
+      "description": "Constitution of Uganda 1995 adopted 8 October 1995 substantively reforming political-institutional framework. Foundational substantive-constitutional anchor for contemporary family-law jurisprudence affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1997,
       "title": "Children Act enacted",
-      "description": "Federal Children's Act codifying welfare-of-the-child principle and parental responsibility."
+      "description": "Federal Children's Act codifying welfare-of-the-child principle (s. 3) and parental responsibility provisions. Substantively significant family-law-modernisation framework within East African common-law cluster."
+    },
+    {
+      "year": 2009,
+      "title": "Lord's Resistance Army end + Joseph Kony + Northern-Uganda-conflict framework",
+      "description": "Lord's Resistance Army (LRA) insurgency 1987-2006/2009 substantively distinctive globally LRA child-soldier-abduction framework — Joseph Kony substantive ICC arrest warrant 2005. Substantive Northern-Uganda armed-conflict framework affecting demographic and family-law-implementation framework."
     },
     {
       "year": 2016,
-      "title": "Children Act revision",
-      "description": "Substantial revision of Children Act provisions."
+      "title": "Children Act revision + Anti-Homosexuality-Act-context framework",
+      "description": "Substantial revision of Children Act provisions Children (Amendment) Act 2016. Subsequent Anti-Homosexuality Act 2023 substantively distinctive Africa LGBTQ-criminalisation framework substantively affecting subsequent family-law-cross-cutting-areas including same-sex-relationship status."
     },
     {
       "year": 2022,
-      "title": "Hague Convention 1980 accession",
-      "description": "Uganda acceded to the Hague Convention 1980 effective 1 August 2022."
+      "title": "Hague Convention 1980 accession + Museveni 40-year-continuing-presidency framework",
+      "description": "Uganda acceded to the Hague Convention 1980 effective 1 August 2022 — substantively significant Hague East African late-accession framework. Museveni 40-year-continuing-presidency framework. Subsequent constitutional-democratic-trajectory affecting subsequent family-law-implementation including 2026 elections."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal + Children's Court + Uganda Human Rights Commission — welfare-of-the-child substantive register",
+      "description": "Court of Appeal of Uganda and Children's Court continue to develop welfare-of-the-child jurisprudence under Children Act Cap. 59 s. 3 + Divorce Act + Marriage and Divorce of Mohammedans Act + Customary Marriage (Registration) Act framework. Uganda Human Rights Commission (UHRC) institutional position addressing PA-related issues within multi-track marriage/divorce framework. Substantive analysis without doctrinal 'parental alienation' label adoption — East African common-law framework within Museveni continuing-presidency context."
     }
   ],
   "structural_findings": [
@@ -105,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Uganda jurisdiction sidecar — common-law East African framework. Children Act 1997 (rev 2016) + Divorce Act 1904 + multi-track marriage/divorce framework + Hague Convention 1980 accession 2022.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins East African + common-law + multi-track-marriage + Hague Convention clusters within the corpus."
+    "Uganda jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Divorce-Act-to-Museveni-40-year trajectory: 1904-Divorce-Act-+-Buganda-Protectorate + 1962-Uganda-independence-+-Milton-Obote + 1971-Idi-Amin-coup-+-8-year-authoritarian + 1986-Museveni-NRM-victory-+-Bush-War-end + 1990-UNCRC-ratification + 1995-Constitution-of-Uganda-+-multi-party-democratic + 1997-Children-Act + 2009-LRA-end-+-Joseph-Kony-+-Northern-Uganda + 2016-Children-Act-revision-+-Anti-Homosexuality-Act-context + 2022-Hague-Convention-1980-accession-+-Museveni-40-year-continuing-presidency.",
+    "Common-law East African framework. Children Act 1997 (rev 2016) + Divorce Act 1904 + multi-track marriage/divorce framework + Hague Convention 1980 accession 2022.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children Act 1997 s. 3 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins East-African + common-law + multi-track-marriage-Christian-+-customary-+-Mohammedan + Museveni-40-year-continuing-presidency-1986-2026-one-of-longest-current-presidencies-Africa-distinctive + Idi-Amin-8-year-1971-1979-300000-500000-killed-distinctive + 1972-Asian-expulsion + Lord's-Resistance-Army-Joseph-Kony-ICC-arrest-warrant-2005-child-soldier-abduction-distinctive-globally + Anti-Homosexuality-Act-2023-Africa-LGBTQ-criminalisation-context + Hague-Convention-1980-accession-2022-late-acceding-African-newest-Hague-African clusters within the corpus."
   ]
 }

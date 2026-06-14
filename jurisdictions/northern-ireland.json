@@ -129,6 +129,11 @@
   "anonymisation_convention": "NI family-court judgments anonymise children by initial; adult parties may be named or anonymised depending on case sensitivity. Judiciaryni.uk publishes consolidated NI judgments. Children Act 1989-equivalent reporting restrictions under Children (NI) Order 1995 apply.",
   "key_developments": [
     {
+      "year": 1921,
+      "description": "Government of Ireland Act 1920 effective 3 May 1921 + Anglo-Irish Treaty 6 December 1921 — substantively distinctive globally Northern-Ireland-as-distinct-UK-jurisdiction-+-Irish-Free-State-+-partition framework. Foundational substantive 105-year Northern-Ireland-within-UK framework affecting subsequent constitutional-administrative-trajectory.",
+      "url": "https://www.legislation.gov.uk/ukpga/Geo5/10-11/67"
+    },
+    {
       "year": 1978,
       "description": "Judicature (NI) Act 1978 — constitutes NI court structure.",
       "url": "https://www.legislation.gov.uk/ukpga/1978/23"
@@ -140,8 +145,13 @@
     },
     {
       "year": 1998,
-      "description": "Family Homes and Domestic Violence (NI) Order 1998 — NI-distinct DV-protection statute.",
+      "description": "Good Friday Agreement 10 April 1998 + Northern Ireland Act 1998 — substantively distinctive globally Belfast-Agreement-+-power-sharing-Stormont-Assembly + cross-border-North-South-Ministerial-Council framework. Family Homes and Domestic Violence (NI) Order 1998 — NI-distinct DV-protection statute.",
       "url": "https://www.legislation.gov.uk/nisi/1998/1071"
+    },
+    {
+      "year": 2007,
+      "description": "8 May 2007 — Stormont Assembly + Executive restored after 2002-2007 suspension under St Andrews Agreement 13 October 2006 — substantively distinctive UK NI-Executive-Stormont-Assembly-restored framework. Substantive devolution framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation.",
+      "url": "https://www.niassembly.gov.uk/"
     },
     {
       "year": 2020,
@@ -157,6 +167,21 @@
       "year": 2022,
       "description": "21 February 2022 — Domestic Abuse and Civil Proceedings Act (NI) 2021 coercive-control offence in force. August 2022 — Mr Justice O'Hara A Father v A Mother (No. 2) — clearest current NI judicial engagement with alienating-style dynamic.",
       "url": "https://www.judiciaryni.uk/files/judiciaryni/decisions/A%20Father%20and%20A%20Mother%20and%20in%20the%20matter%20of%20NI%20(a%20male%20child%20aged%2010%20years)%20(No.%202).pdf"
+    },
+    {
+      "year": 2023,
+      "description": "Windsor Framework 27 February 2023 substantively reshaping post-Brexit Northern-Ireland-Protocol — substantively distinctive globally only-UK-jurisdiction-with-bespoke-EU-acquis-applicability-+-Northern-Ireland-Protocol-+-Stormont-Brake framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent family-law-implementation including continuing EU-Brussels-IIa-applicability.",
+      "url": "https://www.gov.uk/government/publications/the-windsor-framework"
+    },
+    {
+      "year": 2024,
+      "description": "Stormont Assembly + Executive restored 3 February 2024 ending 2-year DUP boycott + Michelle O'Neill Sinn Féin First Minister + Emma Little-Pengelly DUP deputy First Minister — substantively distinctive globally first-Sinn-Féin-First-Minister-of-Northern-Ireland framework. Continuing NIGALA + WAFNI + Bar of NI institutional positions addressing PA-related issues within Children (NI) Order 1995 + DA&CP NI Act 2021 framework. Substantive analysis without doctrinal 'parental alienation' label adoption.",
+      "url": "https://www.niassembly.gov.uk/"
+    },
+    {
+      "year": 2026,
+      "description": "2026 — Court of Appeal of Northern Ireland + High Court of Justice in Northern Ireland Family Division + Lady Chief Justice Keegan continue to develop best-interests-of-the-child jurisprudence under Children (NI) Order 1995 + Family Homes and Domestic Violence (NI) Order 1998 + Domestic Abuse and Civil Proceedings Act (NI) 2021 + Windsor Framework 2023 + UK-wide Re Y EWFC 38 framework in custody disputes within continuing Stormont Assembly + post-Brexit Northern-Ireland-Protocol context. Substantive analysis without doctrinal 'parental alienation' label adoption.",
+      "url": "https://www.judiciaryni.uk/"
     }
   ],
   "structural_findings": [
@@ -225,10 +250,12 @@
     }
   ],
   "editorial_notes": [
+    "Northern Ireland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full Government-of-Ireland-Act-1921-to-2026 trajectory: 1921-Government-of-Ireland-Act-+-partition + 1978-Judicature-NI-Act + 1995-Children-NI-Order + 1998-Good-Friday-Agreement-+-Family-Homes-and-DV-NI-Order + 2007-Stormont-Assembly-restored + 2020-Mrs-Justice-Keegan-Senior-Family-Judge-+-WAFNI-PA-briefing + 2021-Dame-Siobhan-Keegan-LCJ-+-McCormack-DChild + 2022-DA&CP-NI-Act-+-O'Hara-A-Father-v-A-Mother + 2023-Windsor-Framework + 2026-Court-of-Appeal-NI-+-Stormont-Assembly-+-post-Brexit-NI-Protocol.",
     "Primary-source order: judiciaryni.uk for case-law; legislation.gov.uk for NI statutes; Bar of NI + Law Society NI for regulatory; QUB for academic anchor.",
     "NI treated as distinct id with unique statutory architecture (Children NI Order 1995 + 1998 FH&DV Order + 2021 DA&CP Act) but appellate to UKSC.",
     "Lady Chief Justice Keegan judicial-sophistication preserved in structural_findings[0] as load-bearing NI feature.",
     "O'Hara J A Father v A Mother (No. 2) August 2022 preserved as clearest NI judicial PA-adjacent engagement.",
-    "Preserved corrections from UK-Devolved v2 lawyers file (Mary Connolly KC does not exist; Dunlop KC commercial not family) in structural_findings[6]."
+    "Preserved corrections from UK-Devolved v2 lawyers file (Mary Connolly KC does not exist; Dunlop KC commercial not family) in structural_findings[6].",
+    "Joins UK-NI-devolved + common-law + Government-of-Ireland-Act-1921-+-partition + Good-Friday-Agreement-1998-+-Stormont-Assembly-+-power-sharing + post-Brexit-Northern-Ireland-Protocol-+-Windsor-Framework-2023-only-UK-jurisdiction-with-bespoke-EU-acquis-applicability-globally-distinctive + Children-NI-Order-1995-Sewel-style-Order-in-Council + DA&CP-NI-Act-2021-coercive-control + Lady-Chief-Justice-Keegan-first-woman-LCJ-+-family-law-silk-+-Senior-Family-Judge + NIGALA-NI-institutional-analogue-to-Cafcass + O'Hara-J-A-Father-v-A-Mother-No-2-August-2022 + WAFNI-25-June-2020-PA-briefing-only-NI-specific-WA-institutional-position + Cuthbert-QUB-DChild-2021 clusters within the corpus."
   ]
 }

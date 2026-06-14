@@ -53,14 +53,59 @@
   "anonymisation_convention": "BVI family-court decisions are anonymised per ECSC practice using initials.",
   "key_developments": [
     {
+      "year": 1956,
+      "title": "BVI separation from Leeward Islands Federation + administrative-restructuring",
+      "description": "BVI administratively separated from Leeward Islands Federation 1956 — becoming separate British Dependent Territory. Foundational constitutional-restructuring framework for subsequent self-government trajectory."
+    },
+    {
+      "year": 1967,
+      "title": "BVI Constitution 1967 + ministerial-government framework",
+      "description": "BVI Constitution Order 1967 establishing ministerial-government framework with Chief Minister and Legislative Council. Substantively distinctive Caribbean BOT internal-self-government framework. Foundational pre-constitutional-reform framework for contemporary constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "UK ratifies UN Convention on the Rights of the Child + BOT extension",
+      "description": "United Kingdom ratified the UNCRC on 16 December 1991 with extension to BVI — establishing best-interests-of-the-child substantive doctrine within UK-derivative common-law framework applicable to BVI."
+    },
+    {
+      "year": 1995,
+      "title": "Matrimonial Proceedings and Property Act 1995 + statutory consolidation",
+      "description": "Matrimonial Proceedings and Property Act 1995 enacted — federal matrimonial-proceedings statute codifying matrimonial property and parental responsibility provisions drawing on English-statutory-heritage. Foundational statutory framework for divorce-related family-law-jurisdiction."
+    },
+    {
       "year": 1998,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by UK to BVI effective 1 August 1998."
+      "description": "Hague Convention 1980 territorial extension by UK to BVI effective 1 August 1998 — establishing Caribbean Hague Convention jurisdiction framework within UK BOT framework."
+    },
+    {
+      "year": 2001,
+      "title": "British Overseas Territories Act 2002 + British citizenship + status framework",
+      "description": "British Overseas Territories Act 2002 (effective 26 February 2002) substantively renamed British Dependent Territories to British Overseas Territories. British citizenship extended to BVI BOT citizens substantively affecting cross-border-family-law mobility framework."
+    },
+    {
+      "year": 2007,
+      "title": "BVI Constitution 2007 + constitutional reform + premiership framework",
+      "description": "Virgin Islands Constitution Order 2007 (effective 15 June 2007) substantively reforming political-institutional framework — establishing Premier-led government framework. Substantive reform of BOT internal-self-government framework affecting subsequent family-law-cross-cutting-areas."
     },
     {
       "year": 2014,
-      "title": "Status of Children Act",
-      "description": "Federal statute on legal status of children enacted."
+      "title": "Status of Children Act 2014 + child-protection-framework consolidation",
+      "description": "Status of Children Act 2014 enacted — federal statute on legal status of children. Substantively significant statutory-modernisation within Caribbean BOT framework."
+    },
+    {
+      "year": 2022,
+      "title": "BVI Commission of Inquiry 2022 + Premier-Fahie-arrest + UK-direct-rule debate",
+      "description": "BVI Commission of Inquiry report April 2022 substantively documented governance failures; Premier Andrew Fahie arrested 28 April 2022 by US DEA on drug-trafficking charges in Miami. Substantive UK-direct-rule debate subsequently averted through reform package. Substantively distinctive BOT-governance-failure-and-reform pattern."
+    },
+    {
+      "year": 2023,
+      "title": "Wheatley premiership + Social Development Department + post-CoI reform implementation",
+      "description": "Natalio Wheatley (VIP) premiership 2022-onwards framework consolidation through 2023 within post-Commission of Inquiry reform framework. Social Development Department institutional position addressing PA-related issues within Matrimonial Proceedings Act 1995 + Status of Children Act 2014 framework. Post-CoI reform implementation framework substantively significant institutional context. Substantively significant Caribbean BOT institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "ECSC + JCPC — welfare-of-the-child substantive register + post-CoI-reform framework",
+      "description": "Eastern Caribbean Supreme Court and Judicial Committee of the Privy Council continue to develop welfare-of-the-child jurisprudence under Matrimonial Proceedings Act 1995 + Status of Children Act 2014 framework in custody disputes within post-Commission-of-Inquiry-reform framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -98,8 +143,9 @@
     }
   ],
   "editorial_notes": [
-    "BVI jurisdiction sidecar — common-law Caribbean BOT (Matrimonial Proceedings Act 1995 + Status of Children Act 2014 + ECSC OECS-shared + JCPC + Hague via UK territorial extension 1998). Only BOT in OECS-shared-judicial-system.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + common-law + BOT cluster + OECS-shared-judicial-system + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+    "BVI jurisdiction sidecar v1.1 — deepened 2026-06-09 from 2 to 10 key_developments with full Leeward-Islands-Federation-to-post-CoI trajectory: 1956-BVI-separation-from-Leeward-Islands-Federation + 1967-BVI-Constitution-+-ministerial-government + 1991-UNCRC-+-BOT-extension + 1995-Matrimonial-Proceedings-and-Property-Act + 1998-Hague-Convention-1980-territorial-extension + 2001-British-Overseas-Territories-Act-+-British-citizenship + 2007-BVI-Constitution-+-Premier-framework + 2014-Status-of-Children-Act + 2022-BVI-Commission-of-Inquiry-+-Premier-Fahie-arrest-+-UK-direct-rule-debate + 2024-ECSC-+-JCPC-welfare-of-the-child-+-post-CoI-reform.",
+    "Common-law Caribbean BOT (Matrimonial Proceedings Act 1995 + Status of Children Act 2014 + ECSC OECS-shared + JCPC + Hague via UK territorial extension 1998). Only BOT in OECS-shared-judicial-system.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Matrimonial Proceedings Act 1995 + Status of Children Act 2014 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + common-law + BOT-cluster + only-BOT-in-OECS-shared-judicial-system-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension + Premier-Fahie-arrest-2022-BVI-CoI-distinctive + offshore-financial-centre-context + Hague-via-UK-territorial-extension clusters within the corpus."
   ]
 }

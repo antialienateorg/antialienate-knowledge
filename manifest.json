@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "antialienateorg/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-13T22:54:21Z",
+  "generated": "2026-06-14T13:24:24Z",
   "schemas": {
     "practitioner": "https://knowledge.antialienate.com/schemas/practitioner.schema.json",
     "case-study": "https://knowledge.antialienate.com/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 526,
+    "jurisdictions": 536,
     "evidence_pages": 27
   },
   "indexes": {
@@ -233,7 +233,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/australia.json",
       "schema_version": "1.0",
       "jurisdiction_code": "AU",
-      "name": "Australia"
+      "name": "Australia (Commonwealth of Australia)"
     },
     {
       "id": "australian-antarctic-territory",
@@ -337,7 +337,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/belgium.json",
       "schema_version": "1.0",
       "jurisdiction_code": "BE",
-      "name": "Belgium"
+      "name": "Belgium (Royaume de Belgique / Koninkrijk België)"
     },
     {
       "id": "belize",
@@ -417,7 +417,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/brazil.json",
       "schema_version": "1.0",
       "jurisdiction_code": "BR",
-      "name": "Brazil"
+      "name": "Brazil (República Federativa do Brasil)"
     },
     {
       "id": "british-antarctic-territory",
@@ -609,7 +609,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/colombia.json",
       "schema_version": "1.0",
       "jurisdiction_code": "CO",
-      "name": "Colombia"
+      "name": "Colombia (República de Colombia)"
     },
     {
       "id": "comoros",
@@ -873,7 +873,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/france.json",
       "schema_version": "1.0",
       "jurisdiction_code": "FR",
-      "name": "France"
+      "name": "France (République française)"
     },
     {
       "id": "french-guiana",
@@ -961,7 +961,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/ghana.json",
       "schema_version": "1.0",
       "jurisdiction_code": "GH",
-      "name": "Ghana"
+      "name": "Ghana (Republic of Ghana)"
     },
     {
       "id": "gibraltar",
@@ -1129,7 +1129,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/india.json",
       "schema_version": "1.0",
       "jurisdiction_code": "IN",
-      "name": "India"
+      "name": "India (Republic of India / भारत गणराज्य)"
     },
     {
       "id": "indonesia",
@@ -1193,7 +1193,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/italy.json",
       "schema_version": "1.0",
       "jurisdiction_code": "IT",
-      "name": "Italy"
+      "name": "Italy (Repubblica Italiana)"
     },
     {
       "id": "ivory-coast",
@@ -1225,7 +1225,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/japan.json",
       "schema_version": "1.0",
       "jurisdiction_code": "JP",
-      "name": "Japan (日本)"
+      "name": "Japan (日本国 / Nihon-koku)"
     },
     {
       "id": "jersey",
@@ -1257,7 +1257,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/kenya.json",
       "schema_version": "1.0",
       "jurisdiction_code": "KE",
-      "name": "Kenya"
+      "name": "Kenya (Republic of Kenya / Jamhuri ya Kenya)"
     },
     {
       "id": "kiribati",
@@ -1665,7 +1665,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/netherlands.json",
       "schema_version": "1.0",
       "jurisdiction_code": "NL",
-      "name": "Netherlands"
+      "name": "Netherlands (Koninkrijk der Nederlanden)"
     },
     {
       "id": "new-caledonia",
@@ -1681,7 +1681,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/new-zealand.json",
       "schema_version": "1.0",
       "jurisdiction_code": "NZ",
-      "name": "New Zealand (Aotearoa)"
+      "name": "New Zealand (Aotearoa New Zealand)"
     },
     {
       "id": "nicaragua",
@@ -1705,7 +1705,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/nigeria.json",
       "schema_version": "1.0",
       "jurisdiction_code": "NG",
-      "name": "Nigeria"
+      "name": "Nigeria (Federal Republic of Nigeria)"
     },
     {
       "id": "niue",
@@ -1889,7 +1889,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/poland.json",
       "schema_version": "1.0",
       "jurisdiction_code": "PL",
-      "name": "Poland (Polska)"
+      "name": "Poland (Rzeczpospolita Polska)"
     },
     {
       "id": "portugal",
@@ -2193,7 +2193,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/singapore.json",
       "schema_version": "1.0",
       "jurisdiction_code": "SG",
-      "name": "Singapore"
+      "name": "Singapore (Republic of Singapore / 新加坡共和国)"
     },
     {
       "id": "sint-maarten",
@@ -2249,7 +2249,7 @@
       "json_url": "https://knowledge.antialienate.com/jurisdictions/south-africa.json",
       "schema_version": "1.0",
       "jurisdiction_code": "ZA",
-      "name": "South Africa"
+      "name": "South Africa (Republic of South Africa)"
     },
     {
       "id": "south-georgia-and-south-sandwich-islands",
@@ -3059,6 +3059,13 @@
       "jurisdiction_code": "CST"
     },
     {
+      "id": "czech-republic",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/czech-republic.json",
+      "schema_version": "1.0",
+      "name": "Czech Republic (Česká republika)",
+      "jurisdiction_code": "CZ"
+    },
+    {
       "id": "dadra-nagar-haveli-daman-diu",
       "json_url": "https://knowledge.antialienate.com/jurisdictions/dadra-nagar-haveli-daman-diu.json",
       "schema_version": "1.0",
@@ -3183,6 +3190,13 @@
       "schema_version": "1.0",
       "name": "Graubünden / Grisons / Grigioni / Grischun (Three Leagues)",
       "jurisdiction_code": "CH-GR"
+    },
+    {
+      "id": "guadeloupe",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/guadeloupe.json",
+      "schema_version": "1.0",
+      "name": "Guadeloupe (Région et Département de la Guadeloupe / French DOM-ROM)",
+      "jurisdiction_code": "GP"
     },
     {
       "id": "guangxi",
@@ -3318,6 +3332,13 @@
       "jurisdiction_code": "ICJ"
     },
     {
+      "id": "ifad-agreement",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/ifad-agreement.json",
+      "schema_version": "1.0",
+      "name": "IFAD Agreement 1976 (International Fund for Agricultural Development)",
+      "jurisdiction_code": "IFD"
+    },
+    {
       "id": "igad-treaty",
       "json_url": "https://knowledge.antialienate.com/jurisdictions/igad-treaty.json",
       "schema_version": "1.0",
@@ -3414,6 +3435,13 @@
       "schema_version": "1.0",
       "name": "Lakshadweep (लक्षद्वीप)",
       "jurisdiction_code": "IN-LD"
+    },
+    {
+      "id": "luxembourg",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/luxembourg.json",
+      "schema_version": "1.0",
+      "name": "Luxembourg (Grand-Duché de Luxembourg / Großherzogtum Luxemburg)",
+      "jurisdiction_code": "LU"
     },
     {
       "id": "melilla",
@@ -3717,6 +3745,20 @@
       "jurisdiction_code": "GCV"
     },
     {
+      "id": "un-global-compact",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/un-global-compact.json",
+      "schema_version": "1.0",
+      "name": "UN Global Compact 2000 (Corporate Sustainability Initiative)",
+      "jurisdiction_code": "UGC"
+    },
+    {
+      "id": "un-habitat-mandate",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/un-habitat-mandate.json",
+      "schema_version": "1.0",
+      "name": "UN-Habitat Mandate 1978 (UN Human Settlements Programme)",
+      "jurisdiction_code": "UHB"
+    },
+    {
       "id": "un-icped",
       "json_url": "https://knowledge.antialienate.com/jurisdictions/un-icped.json",
       "schema_version": "1.0",
@@ -3750,6 +3792,13 @@
       "schema_version": "1.0",
       "name": "UN Security Council 1945 (UNSC under UN Charter Chapter V)",
       "jurisdiction_code": "USC"
+    },
+    {
+      "id": "un-sr-sale-children",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/un-sr-sale-children.json",
+      "schema_version": "1.0",
+      "name": "UN Special Rapporteur on Sale and Sexual Exploitation of Children 1990",
+      "jurisdiction_code": "USC-CH"
     },
     {
       "id": "un-uncac",
@@ -3878,6 +3927,13 @@
       "jurisdiction_code": "UCF"
     },
     {
+      "id": "unido-constitution",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/unido-constitution.json",
+      "schema_version": "1.0",
+      "name": "UNIDO Constitution 1979 (UN Industrial Development Organization)",
+      "jurisdiction_code": "UID"
+    },
+    {
       "id": "unodc-mandate",
       "json_url": "https://knowledge.antialienate.com/jurisdictions/unodc-mandate.json",
       "schema_version": "1.0",
@@ -3890,6 +3946,13 @@
       "schema_version": "1.0",
       "name": "UNRWA Mandate 1949 (UN Relief and Works Agency for Palestine Refugees in the Near East)",
       "jurisdiction_code": "URW"
+    },
+    {
+      "id": "unwto-statutes",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/unwto-statutes.json",
+      "schema_version": "1.0",
+      "name": "UN Tourism Statutes 1970/1975 (UN Tourism — formerly UNWTO)",
+      "jurisdiction_code": "UTO"
     },
     {
       "id": "upu-constitution",
@@ -3939,6 +4002,13 @@
       "schema_version": "1.0",
       "name": "WIPO Convention 1967 (World Intellectual Property Organization)",
       "jurisdiction_code": "WPO"
+    },
+    {
+      "id": "wmo-convention",
+      "json_url": "https://knowledge.antialienate.com/jurisdictions/wmo-convention.json",
+      "schema_version": "1.0",
+      "name": "WMO Convention 1947 (World Meteorological Organization)",
+      "jurisdiction_code": "WMO"
     },
     {
       "id": "world-bank-ibrd-articles",

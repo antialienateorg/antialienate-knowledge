@@ -53,25 +53,74 @@
   "anonymisation_convention": "Uzbek family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Uzbekistan independence + Karimov era begins",
+      "description": "Republic of Uzbekistan declared independence 1 September 1991 from Soviet Union under President Islam Karimov (1991-2016). Pre-1991 Soviet Uzbek SSR Code on Marriage and Family 1969 substantively retained as transitional framework pending post-Soviet codification trajectory."
+    },
+    {
+      "year": 1992,
+      "title": "Constitution of the Republic of Uzbekistan 1992",
+      "description": "Constitution of the Republic of Uzbekistan adopted 8 December 1992 (substantially amended 2002, 2007, 2014, 2017, 2023) — establishing presidential republic framework with Art. 65 codifying family-protection-clauses, Art. 67 gender-equality, and Art. 64 child-protection principles. Foundational constitutional anchor for subsequent codified family-law jurisprudence."
+    },
+    {
+      "year": 1994,
+      "title": "Uzbekistan ratifies UN Convention on the Rights of the Child",
+      "description": "Uzbekistan ratified the UNCRC on 29 June 1994 — framing the post-Soviet family-law-reform trajectory toward best-interest-of-the-child substantive doctrine. CRC engagement subsequently expanded as primary international children's-rights-monitoring register."
+    },
+    {
       "year": 1998,
-      "title": "Family Code 1998",
-      "description": "Federal Family Code enacted post-Soviet codifying marriage, parental rights and child custody."
+      "title": "Family Code 1998 (Oilaviy Kodeks)",
+      "description": "Federal Family Code enacted 30 April 1998 post-Soviet codifying marriage, parental rights and child custody. Arts. 65-87 govern parental rights and child custody within post-Soviet civil-law tradition. Substantially amended over subsequent decades."
     },
     {
       "year": 2000,
-      "title": "Hague Convention 1980 accession",
-      "description": "Uzbekistan acceded to the Hague Convention 1980 effective 1 August 2000 — earliest Central Asian accession in the corpus."
+      "title": "Hague Convention 1980 accession — earliest Central Asian",
+      "description": "Uzbekistan acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 August 2000 — earliest Central Asian Hague accession in the corpus (preceded only by Türkmenistan non-accession, Tajikistan non-accession, Turkmenistan non-accession; followed by Kazakhstan 2013, Kyrgyzstan)."
     },
     {
       "year": 2008,
-      "title": "Law on the Rights of the Child",
-      "description": "Federal children's rights statute enacted aligned with UNCRC obligations."
+      "title": "Law on the Rights of the Child + Law on Guarantees of Rights of the Child",
+      "description": "Federal Law on the Rights of the Child enacted 7 January 2008 — codifying CRC-aligned child-protection mechanisms, juvenile-justice principles, child-development standards. Operates alongside Family Code 1998 as the substantive child-welfare anchor."
+    },
+    {
+      "year": 2016,
+      "title": "Mirziyoyev presidential transition + Action Strategy reforms",
+      "description": "Shavkat Mirziyoyev assumed presidency 14 December 2016 following Karimov's death September 2016 — substantial reform stream including Action Strategy 2017-2021 for socio-economic development, judicial reform, women's-rights expansion, religious-policy liberalisation. Marks substantive shift from Karimov-era closed framework toward gradual liberalisation."
+    },
+    {
+      "year": 2019,
+      "title": "Law on Protection of Women from Harassment and Violence",
+      "description": "Federal Law on Protection of Women from Harassment and Violence enacted 2 September 2019 — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. Among the more substantial Central-Asian women's-protection statutes."
+    },
+    {
+      "year": 2023,
+      "title": "Constitutional amendments 2023 + family-law-relevant constitutional reforms",
+      "description": "Constitutional amendments adopted by referendum 30 April 2023 — substantially modernising Constitution including expanded child-protection provisions, gender-equality reinforcement, and modernised family-protection framework. Among the more substantial post-Soviet constitutional reform packages in Central Asia."
+    },
+    {
+      "year": 2022,
+      "title": "Constitutional Court reform + Children's Rights Ombudsperson + Mirziyoyev modernization stream",
+      "description": "Constitutional Court of Uzbekistan reform 2022 establishing original constitutional-review jurisdiction. Children's Rights Ombudsperson institutional framework addressing PA-related issues within Family Code 1998 + Constitution framework. Shavkat Mirziyoyev modernization reform stream 2017-onwards substantively reshaping institutional context. Substantively significant Central Asian institutional jurisprudential development establishing trajectory toward 2023 constitutional amendments + 2024 substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court — child's-interests substantive register",
+      "description": "Supreme Court of Uzbekistan continues to develop child's-interests jurisprudence under Family Code 1998 arts. 65-87 + Constitution 2023 amendments in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within post-Soviet civil-law tradition + Mirziyoyev-era-reform-stream framework."
+    },
+    {
+      "year": 2005,
+      "title": "Andijan massacre + post-Karimov-isolation + family-law-implementation context framework",
+      "description": "Andijan massacre 13 May 2005 — substantively distinctive Central Asian human-rights-rupture framework + structurally distinctive globally only modern Uzbek-Karimov-era massive-state-violence framework with 187-1,500 estimated fatalities + EU sanctions framework 2005-2009 + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Family Code 1998 framework + foundational pre-Mirziyoyev-2016-transition framework + Hague Convention 1980 cross-border implementation framework affecting Uzbek-diaspora family-law-implementation framework. Substantive Karimov-era-isolation framework affecting subsequent reform-trajectory."
     }
   ],
   "structural_findings": [
-    "Uzbekistan operates a post-Soviet civil-law framework — Family Code 1998 reflects post-Soviet codification trajectory shared with Kazakhstan, Russia, Belarus, Ukraine within the corpus.",
-    "Hague Convention 1980 accession 2000 places Uzbekistan as the earliest Central Asian Hague accession within the corpus — structurally distinctive early-mover.",
-    "Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Uzbekistan from MENA religious-law cluster despite Muslim-majority demography."
+    "Uzbekistan operates a post-Soviet civil-law framework — Family Code 1998 reflects post-Soviet codification trajectory shared with Russia, Belarus, Kazakhstan, Ukraine, Tajikistan, Turkmenistan, Kyrgyzstan within the corpus.",
+    "Hague-1980-Convention accession 2000 places Uzbekistan as the earliest Central Asian Hague accession within the corpus — structurally distinctive early-mover (preceded Türkiye 2017, Kazakhstan 2013).",
+    "Mirziyoyev-era reform stream 2016-present represents substantive shift from Karimov-era 1991-2016 closed framework toward gradual liberalisation including women's-rights expansion, religious-policy liberalisation, and judicial reform — places Uzbekistan within the Central-Asian-reform-trajectory cluster.",
+    "Constitution 2023 amendments are among the more substantial post-Soviet Central Asian constitutional reform packages — places Uzbekistan within the post-Soviet-constitutional-reform-2020s cluster (with Kazakhstan 2022 amendments).",
+    "Multi-layer substantive-statutory framework: 1991-Uzbekistan-independence-Karimov-era + 1992-Constitution + 1994-UNCRC-ratification + 1998-Family-Code-Oilaviy-Kodeks + 2000-Hague-1980-accession-earliest-Central-Asian + 2008-Law-on-Rights-of-Child + 2016-Mirziyoyev-presidential-transition-Action-Strategy + 2019-Law-on-Protection-of-Women-from-Harassment-and-Violence + 2023-Constitutional-amendments-family-law-reforms + 2024-Supreme-Court-child's-interests — gradual modernisation within post-Soviet civil-law framework.",
+    "Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Uzbekistan from MENA religious-law cluster despite Muslim-majority demography (88% Sunni-Hanafi). Pattern shared with Tajikistan, Turkmenistan, Kazakhstan, Kyrgyzstan, Azerbaijan — Central-Asian-secular-civil-law-Muslim-majority cluster.",
+    "Most populous Central Asian state (~36 million) — places Uzbekistan within the largest-Central-Asian-jurisdiction cluster with substantive demographic weight in regional family-law trajectories."
   ],
   "references": [
     "jurisdiction:kazakhstan",
@@ -101,8 +150,9 @@
     }
   ],
   "editorial_notes": [
-    "Uzbekistan jurisdiction sidecar — civil-law post-Soviet Central Asia. Family Code 1998 + Law on Rights of the Child 2008 + Hague Convention 1980 accession 2000 (earliest Central Asian).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central Asian + civil-law + post-Soviet + early-Hague Convention clusters within the corpus."
+    "Uzbekistan jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full independence-to-contemporary trajectory: 1991-Uzbekistan-independence-Karimov-era + 1992-Constitution + 1994-UNCRC-ratification + 1998-Family-Code-Oilaviy-Kodeks + 2000-Hague-1980-accession-earliest-Central-Asian + 2008-Law-on-Rights-of-Child + 2016-Mirziyoyev-presidential-transition-Action-Strategy + 2019-Law-on-Protection-of-Women-from-Harassment-and-Violence + 2023-Constitutional-amendments + 2024-Supreme-Court-child's-interests.",
+    "Civil-law post-Soviet Central Asia framework (Family Code 1998 + Constitution 1992-2023 + UNCRC 1994 + Hague Convention 1980 accession 2000 earliest-Central-Asian + Law on Rights of Child 2008 + Law on Protection of Women from Harassment and Violence 2019).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-interests analysis under Family Code arts. 65-87 + Constitution 2023 framework without doctrinal 'parental alienation' label.",
+    "Joins Central-Asian + civil-law + post-Soviet + Central-Asian-secular-civil-law-Muslim-majority (with Tajikistan, Turkmenistan, Kazakhstan, Kyrgyzstan, Azerbaijan) + early-Hague-1980-Convention (earliest Central Asian) + Mirziyoyev-era-reform-trajectory + post-Soviet-constitutional-reform-2020s (with Kazakhstan) + largest-Central-Asian-jurisdiction-36-million clusters within the corpus."
   ]
 }

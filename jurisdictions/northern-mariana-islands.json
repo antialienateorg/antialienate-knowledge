@@ -60,19 +60,59 @@
   "anonymisation_convention": "CNMI family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1947,
+      "title": "Trust Territory of the Pacific Islands + UN-Trusteeship framework",
+      "description": "Trust Territory of the Pacific Islands (TTPI) established 18 July 1947 as UN Strategic Trusteeship under US administration following Japanese colonial framework (Nan'yō Guntō). Substantively distinctive Pacific UN-Trusteeship framework persisting through 1976 Covenant. Foundational pre-Commonwealth framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1976,
-      "title": "Covenant to Establish a Commonwealth",
-      "description": "Federal Covenant establishing CNMI Commonwealth status (effective 1986) with substantial customary-land protection."
+      "title": "Covenant to Establish a Commonwealth + distinctive-status framework",
+      "description": "Federal Covenant to Establish a Commonwealth of the Northern Mariana Islands signed 15 February 1975 (US Public Law 94-241 of 24 March 1976) establishing CNMI Commonwealth status (effective 1986) with substantial customary-land protection. Substantively distinctive globally only-UN-Trust-Territory-Commonwealth-transition framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1978,
       "title": "CNMI Constitution + Article XII customary-land protection",
-      "description": "Constitution adopted with Article XII protecting customary-land ownership by persons of Northern Marianas descent."
+      "description": "Constitution adopted 6 December 1977 (effective 9 January 1978) with Article XII protecting customary-land ownership by persons of Northern Marianas descent. Substantively distinctive globally only-state-with-constitutional-customary-land-protection-by-descent framework. Foundational substantive-constitutional framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1986,
+      "title": "Commonwealth status effective + US citizenship framework",
+      "description": "CNMI Commonwealth status effective 3 November 1986 — substantively distinctive globally end-of-UN-Trusteeship-and-effective-US-Commonwealth framework. US citizenship extended to CNMI residents. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
     },
     {
       "year": 1988,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by US to CNMI effective 1 July 1988."
+      "description": "Hague Convention 1980 territorial extension by US to CNMI effective 1 July 1988 — establishing Pacific Hague Convention jurisdiction framework within US-territorial framework."
+    },
+    {
+      "year": 1995,
+      "title": "US UNCRC signed-not-ratified + CNMI context",
+      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified — substantively distinctive US-non-ratification framework. Substantive best-interests-of-the-child framework applicable through US-derivative-common-law-substrate without UNCRC-treaty-direct-effect in CNMI."
+    },
+    {
+      "year": 2009,
+      "title": "US immigration-law extension 2009 + Commonwealth-Only-Transitional-Worker framework",
+      "description": "US immigration law extension to CNMI effective 28 November 2009 — substantively distinctive Pacific Commonwealth-US-immigration-integration framework. Substantive Commonwealth-Only Transitional Worker (CW-1) framework substantially affecting demographic and family-law-implementation framework. Substantive transition affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2018,
+      "title": "Super Typhoon Yutu 2018 + reconstruction trajectory framework",
+      "description": "Super Typhoon Yutu 25 October 2018 substantively devastated CNMI (Tinian and Saipan) — substantively distinctive Pacific Category-5 climate-disaster framework affecting demographic and family-law-implementation framework through post-disaster reconstruction trajectory."
+    },
+    {
+      "year": 2020,
+      "title": "Casino Tourism collapse + Imperial Pacific framework + economic-distress",
+      "description": "Casino Tourism collapse 2019-2020 substantively affecting CNMI economic framework — Imperial Pacific International casino bankruptcy substantively distinctive Pacific Commonwealth economic-distress framework. Subsequent COVID-19 context affecting subsequent constitutional-democratic-trajectory and family-law-cross-cutting-areas."
+    },
+    {
+      "year": 2023,
+      "title": "Arnold Palacios Government + CNMI-Legislature + Public Auditor + post-COVID-recovery framework",
+      "description": "Arnold Palacios (Independent) Governor framework January 2023-onwards with CNMI Legislature institutional positions addressing PA-related issues within CNMI Code Title 8 (Domestic Relations) + Article XII customary-land framework applied via Superior Court Family Court Division. Public Auditor + CNMI Department of Public Health institutional positions affecting cross-border family-law adjudication. Post-COVID-recovery framework + Imperial Pacific casino bankruptcy continuing operational framework substantively significant institutional context. Substantively significant Pacific US-Commonwealth institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of CNMI + 9th Circuit — welfare-of-the-child substantive register + Article-XII jurisprudence framework",
+      "description": "Supreme Court of CNMI and US Court of Appeals for the Ninth Circuit continue to develop welfare-of-the-child jurisprudence under CNMI Code Title 8 + Article XII customary-land framework in custody disputes within Pacific US-Commonwealth framework. Substantive analysis without doctrinal 'parental alienation' label adoption — within US-derivative common-law + Article XII customary-land protection framework."
     }
   ],
   "structural_findings": [
@@ -109,8 +149,9 @@
     }
   ],
   "editorial_notes": [
-    "CNMI jurisdiction sidecar — common-law Pacific US Commonwealth (CNMI Code Title 8 + Covenant 1976 + Constitution Article XII customary-land protection + Hague via US territorial extension 1988). Only US Commonwealth Pacific Island state with UN Trust Territory transition.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific Island + common-law + US-Commonwealth-distinctive + UN-Trust-Territory-transition + Article-XII-customary-land-protection-distinctive + Hague-via-US-territorial-extension clusters within the corpus."
+    "CNMI jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Trust-Territory-to-contemporary trajectory: 1947-Trust-Territory-of-the-Pacific-Islands-+-UN-Trusteeship + 1976-Covenant-to-Establish-a-Commonwealth + 1978-CNMI-Constitution-+-Article-XII-customary-land-protection + 1986-Commonwealth-status-effective-+-US-citizenship + 1988-Hague-Convention-1980-territorial-extension + 1995-US-UNCRC-signed-not-ratified + 2009-US-immigration-law-extension-+-Commonwealth-Only-Transitional-Worker + 2018-Super-Typhoon-Yutu + 2020-Casino-Tourism-collapse-+-Imperial-Pacific + 2024-Supreme-Court-+-9th-Circuit-+-Article-XII-jurisprudence.",
+    "Common-law Pacific US Commonwealth (CNMI Code Title 8 + Covenant 1976 + Constitution Article XII customary-land protection + Hague via US territorial extension 1988). Only US Commonwealth Pacific Island state with UN Trust Territory transition.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under CNMI Code Title 8 + Article XII customary-land framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific-Island + common-law + only-US-Commonwealth-Pacific-Island-state-distinctive-globally + only-UN-Trust-Territory-Commonwealth-transition-in-corpus + Article-XII-constitutional-customary-land-protection-by-descent-distinctive-globally + Japanese-colonial-Nan'yō-Guntō-pre-1947 + US-immigration-law-extension-2009-+-CW-1-framework + Super-Typhoon-Yutu-2018-Category-5 + Casino-Tourism-collapse-Imperial-Pacific-2020 + Hague-via-US-territorial-extension clusters within the corpus."
   ]
 }

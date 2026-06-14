@@ -67,34 +67,59 @@
   "anonymisation_convention": "Kuril Islands decisions are anonymised per Russian court practice using initials.",
   "key_developments": [
     {
+      "year": 1855,
+      "title": "Treaty of Shimoda + first Russo-Japanese border",
+      "description": "Treaty of Shimoda of 7 February 1855 between Russian Empire and Tokugawa Shogunate — first formal Russo-Japanese border treaty establishing border between Iturup (Japanese) and Urup (Russian), placing Iturup + Kunashir + Shikotan + Habomai under Japanese sovereignty + remaining Kuril Islands under Russian sovereignty + Sakhalin Island under shared sovereignty. Pivotal pre-modern foundation framework — Japan's modern Northern Territories claim grounded in 1855 framework as 'never historically Russian'."
+    },
+    {
       "year": 1875,
       "title": "Treaty of Saint Petersburg",
-      "description": "Treaty of Saint Petersburg of 7 May 1875 between Russian Empire and Empire of Japan — Russia ceded all Kuril Islands to Japan in exchange for Japanese renunciation of claims to Sakhalin Island."
+      "description": "Treaty of Saint Petersburg of 7 May 1875 between Russian Empire and Empire of Japan — Russia ceded all Kuril Islands to Japan in exchange for Japanese renunciation of claims to Sakhalin Island — placed all 56 Kuril Islands under undisputed Japanese sovereignty until 1945."
+    },
+    {
+      "year": 1905,
+      "title": "Treaty of Portsmouth + Russo-Japanese War aftermath",
+      "description": "Treaty of Portsmouth of 5 September 1905 ending Russo-Japanese War (1904-1905) — Russia ceded southern Sakhalin (Karafuto) to Japan + retained northern Sakhalin. Did not affect Kuril Islands which remained Japanese per 1875 framework. Important context as foundation for subsequent 1945 Soviet revanche framework targeting both Sakhalin and Kurils."
     },
     {
       "year": 1945,
       "title": "Soviet-Japanese War + Soviet occupation",
-      "description": "Soviet Union entered war against Japan on 8 August 1945 — Soviet forces occupied Kuril Islands including four southernmost islands in August-September 1945."
+      "description": "Soviet Union entered war against Japan on 8 August 1945 (three months after Germany's surrender per Yalta secret protocol of 11 February 1945) — Soviet forces occupied Kuril Islands including four southernmost islands in August-September 1945 + occupied southern Sakhalin. Pivotal occupation origin of modern dispute framework."
     },
     {
       "year": 1951,
       "title": "San Francisco Peace Treaty",
-      "description": "San Francisco Peace Treaty of 8 September 1951 — Japan renounced 'all right, title and claim to the Kuril Islands' (Article 2(c)) but USSR did not sign treaty."
+      "description": "San Francisco Peace Treaty of 8 September 1951 — Japan renounced 'all right, title and claim to the Kuril Islands' (Article 2(c)) but USSR did not sign treaty. Pivotal ambiguity — Japanese position: 1855 framework's Northern Territories (four southernmost islands) excluded from 'Kuril Islands' definition; Soviet/Russian position: all islands renounced."
     },
     {
       "year": 1956,
       "title": "Soviet-Japanese Joint Declaration",
-      "description": "Joint Declaration of 19 October 1956 ending state of war between USSR and Japan — Article 9 offered Shikotan and Habomai return to Japan upon conclusion of peace treaty; never implemented."
+      "description": "Joint Declaration of 19 October 1956 ending state of war between USSR and Japan — Article 9 offered Shikotan and Habomai return to Japan upon conclusion of peace treaty; never implemented due to Cold War US-Japan-USSR triangular framework + 1960 US-Japan Mutual Cooperation and Security Treaty prompting Soviet retraction. Structurally distinctive only modern bilateral declaration offering return of disputed territory subject to peace-treaty condition that remains unfulfilled."
+    },
+    {
+      "year": 1991,
+      "title": "Gorbachev visit + post-Cold War negotiation framework",
+      "description": "Mikhail Gorbachev visit to Japan 16-19 April 1991 — first Soviet/Russian leader visit to Japan since 1945 — Tokyo Declaration acknowledged 'territorial issue' regarding four southernmost islands as bilateral negotiation issue. Pivotal post-Cold War framework opening + acknowledged Japanese claim legitimacy without resolution."
+    },
+    {
+      "year": 2010,
+      "title": "Medvedev visit + first Russian leader Kuril visit",
+      "description": "Russian President Dmitry Medvedev visited Kunashir Island 1 November 2010 — first Russian/Soviet leader visit to disputed Kuril Islands since 1945 — Japanese government formally protested. Marked significant Russian assertion of de-facto sovereignty + significant deterioration of post-Cold War Japan-Russia diplomatic framework."
     },
     {
       "year": 2020,
       "title": "Russian Federation Constitutional Amendment + territorial-alienation prohibition",
-      "description": "Russian Federation Constitutional Amendment effective 4 July 2020 prohibiting alienation of Russian Federation territory — significantly raising constitutional bar to any future Kuril Islands return to Japan."
+      "description": "Russian Federation Constitutional Amendment effective 4 July 2020 prohibiting alienation of Russian Federation territory (Article 67.2.1) — significantly raising constitutional bar to any future Kuril Islands return to Japan. Structurally distinctive globally only constitutional-bar-to-territorial-alienation framework explicitly raising bar to disputed-territory return."
     },
     {
       "year": 2022,
       "title": "Russian suspension of Japan peace treaty negotiations",
-      "description": "Russia formally suspended Japan peace treaty negotiations on 21 March 2022 following Japanese sanctions over Russian invasion of Ukraine."
+      "description": "Russia formally suspended Japan peace treaty negotiations on 21 March 2022 following Japanese sanctions over Russian invasion of Ukraine — Russian Foreign Ministry statement also suspended visa-free travel framework for former Japanese residents of disputed islands + joint economic activity framework. First modern formal suspension of peace-treaty negotiations between G7-aligned and G20 economies + structurally distinctive globally as Russia-Ukraine-war-cascading-impact on unrelated Russia-Japan disputed-territory framework."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing Russian Federation occupation + Kishida-Ishiba Japan-position + 80-year-no-peace-treaty framework",
+      "description": "Russian Federation continuing occupation framework 2024 with Sakhalin Oblast institutional positions addressing PA-related issues within Russian Federation Family Code 1995 chapters 11-12 framework. Fumio Kishida-Shigeru Ishiba Japanese-Government continuing four-island return framework + continuing 80-year-no-peace-treaty framework. Continuing Russia-Ukraine-war-cascading-impact framework substantively significant institutional context. Substantively significant Sea-of-Okhotsk Russian-administered-disputed-territory institutional jurisprudential development."
     }
   ],
   "structural_findings": [
@@ -131,7 +156,7 @@
     }
   ],
   "editorial_notes": [
-    "Kuril Islands / Northern Territories jurisdiction sidecar — civil-law Russian-administered Sea of Okhotsk-Pacific disputed archipelago (Russian Federation Family Code 1995 + San Francisco Peace Treaty 1951 + Soviet-Japanese Joint Declaration 1956 + Russian Constitutional Amendment 2020 territorial-alienation prohibition + 2022 peace-treaty-negotiation suspension + Sakhalin Oblast three-district administrative framework + Russian Hague Convention 1980 accession 2011 with Japan-non-recognition). Only major modern territorial dispute originating in WWII Soviet occupation preventing formal peace treaty between two of world's largest economies for over 80 years + only constitutional-bar-to-territorial-alienation framework + only modern formal peace-treaty-negotiation suspension between G7-aligned and G20 economies.",
+    "Kuril Islands / Northern Territories jurisdiction sidecar v1.1 — civil-law Russian-administered Sea of Okhotsk-Pacific disputed archipelago (1855 Treaty of Shimoda first Russo-Japanese border + 1875 Treaty of Saint Petersburg + 1905 Treaty of Portsmouth + 1945 Soviet-Japanese War + 1951 San Francisco Peace Treaty + 1956 Joint Declaration + 1991 Gorbachev Tokyo Declaration + 2010 Medvedev Kunashir visit + 2020 Russian Constitutional Amendment territorial-alienation prohibition + 2022 peace-treaty-negotiation suspension + Russian Hague Convention 1980 accession 2011 with Japan-non-recognition). Only major modern territorial dispute originating in WWII Soviet occupation preventing formal peace treaty between two of world's largest economies for over 80 years + only constitutional-bar-to-territorial-alienation framework + only modern formal peace-treaty-negotiation suspension between G7-aligned and G20 economies + Russia-Ukraine-war-cascading-impact on unrelated Russia-Japan disputed-territory framework.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins Sea-of-Okhotsk + civil-law + Russian-administered-disputed-territory cluster + WWII-origin-disputed-territory-globally-distinctive + 80-year-no-peace-treaty + constitutional-territorial-alienation-prohibition + 1956-Joint-Declaration-Shikotan-Habomai-return-framework + 2022-peace-treaty-negotiation-suspension + Russian-Hague-2011-accession-with-Japan-non-recognition clusters within the corpus."
   ]

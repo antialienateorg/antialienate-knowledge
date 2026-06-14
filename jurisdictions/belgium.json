@@ -1,313 +1,141 @@
 {
   "schema_version": "1.0",
   "id": "belgium",
-  "name": "Belgium",
+  "name": "Belgium (Royaume de Belgique / Koninkrijk België)",
   "jurisdiction_code": "BE",
   "legal_system": "civil-law",
-  "language": ["nl", "fr", "de"],
+  "language": ["fr", "nl", "de"],
   "license": "CC-BY-4.0",
-  "generated": "2026-05-30",
-  "summary": "Belgium is a federal civil-law jurisdiction structurally shaped by its community-linguistic division (Vlaamse Gemeenschap / Communauté française / Deutschsprachige Gemeinschaft). The federal Code civil (art. 374-374ter parental authority + droit aux relations personnelles), the Loi du 30 juillet 2013 (Tribunal de la famille et de la jeunesse / familierechter) and Code judiciaire constitute the substantive frame. The Cour de cassation / Hof van Cassatie has issued no apex ruling qualifying or disqualifying the PA/PAS construct. The principal institutional positional anchor is the IEFH/IGVM Recommandation 2023/001 — a structurally unique single federal bilingual (NL+FR) gender-equality regulator that explicitly warns the 'syndrome d'aliénation parentale' cannot be used to minimise or ignore (ex-)partner violence. Neither the Commission des psychologues / Psychologencommissie nor the BFP-BPF has issued a public PA position. Cross-border NL+BE Nederlandstalige and FR+BE francophone knowledge-spaces are structurally relevant.",
+  "generated": "2026-06-11",
+  "summary": "Belgium is a federal civil-law jurisdiction whose family courts (Tribunal de la famille / Familierechtbank, established 1 September 2014) operate under the Code civil arts. 371-387ter (autorité parentale / ouderlijk gezag) and the Loi du 30 juillet 2013 portant création d'un tribunal de la famille et de la jeunesse. The statutory framework is silent on the 'parental alienation' label. The Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant under Code civil and Constitution art. 22bis. Belgium operationally is a substantively significant institutional-critique data point through the Commission Femmes-Justice and Délégué général aux droits de l'enfant (DGDE) / Kinderrechtencommissaris reports — particularly addressing PA-labelled DV-deflection patterns. The 2006 hébergement égalitaire (egalitarian residence) framework under Loi du 18 juillet 2006 establishes default-shared-residence presumption — substantively distinctive globally.",
   "pa_recognition_status": {
     "statutory": "silent",
-    "apex_court_position": "no-apex-position",
-    "professional_regulator_position": "silent"
+    "apex_court_position": "silent",
+    "professional_regulator_position": "critique"
   },
   "statutory_framework": [
     {
-      "citation": "Code civil art. 374-374ter",
-      "title": "Code civil — autorité parentale et droit aux relations personnelles",
+      "citation": "Code civil arts. 371-387ter",
+      "title": "Autorité parentale / Ouderlijk gezag",
       "year": 1995,
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
-      "relevance": "Federal substantive frame for parental authority (art. 374 — exercice conjoint principe) and right of personal relations (art. 374bis — droit de l'enfant aux relations personnelles avec ses ascendants et grands-parents). The substantive Belgian hook for residence (hébergement) and contact disputes at Tribunal de la famille."
+      "relevance": "Primary statutory basis for parental authority — restructured by Loi du 13 avril 1995 establishing autorité parentale conjointe (joint parental authority). Substantively foundational current parental-authority framework."
     },
     {
-      "citation": "Code civil art. 387ter",
-      "title": "Code civil — inexécution des décisions relatives à l'hébergement",
-      "year": 2007,
+      "citation": "Loi du 18 juillet 2006 (hébergement égalitaire)",
+      "title": "Loi tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés",
+      "year": 2006,
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
-      "relevance": "Provides remedies (astreinte, désignation provisoire d'un tiers, droit aux relations modifiées) where a parent refuses to execute a custody/contact order. The provision directly cited in Cass. 6 mars 2025 C.24.0157.F (the most recent Cour de cassation arrêt addressing PA-adjacent contact-frustration cases without addressing the construct's scientific validity)."
+      "relevance": "Establishes hébergement égalitaire (egalitarian residence / week-on-week-off) as default-presumption post-separation framework — substantively distinctive globally for statutory presumption of shared residence."
     },
     {
-      "citation": "Loi du 30 juillet 2013 portant création d'un Tribunal de la famille et de la jeunesse",
-      "title": "Tribunal de la famille / familierechtbank — specialist family-court forum",
+      "citation": "Loi du 30 juillet 2013 (Tribunal de la famille et de la jeunesse)",
+      "title": "Loi portant création d'un tribunal de la famille et de la jeunesse",
       "year": 2013,
-      "url": "https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2013073018&table_name=loi",
-      "relevance": "Constitutes the unified specialist family court at first instance with statutory jurisdiction over divorce, parental authority, residence, contact, alimony and DV protective-order proceedings. The Belgian counterpart to the Dutch Rechtbank familiekamer + Italian Tribunale per i minorenni / sezione famiglia. PA-adjacent fact-patterns are litigated at this forum at first instance."
-    },
-    {
-      "citation": "Code judiciaire art. 1004/1 et suiv.",
-      "title": "Code judiciaire — désignation des experts judiciaires (CTU equivalent)",
-      "year": 2007,
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
-      "relevance": "Procedural rules for designation and conduct of court-appointed experts including psychologists and psychiatrists in family-law proceedings. The Belgian counterpart to the Italian CTU regime and the Dutch RvdK / external expert mechanism."
+      "relevance": "Establishes Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014 — substantively significant institutional reform unifying Belgian family-law procedural framework."
     },
     {
-      "citation": "Loi du 8 novembre 1993 protégeant le titre de psychologue",
-      "title": "Loi du 8 novembre 1993 — title-protection psychologue / titelbescherming psycholoog",
-      "year": 1993,
-      "url": "https://www.compsy.be/",
-      "relevance": "Federal title-protection law administered by the Commission des psychologues / Psychologencommissie. Establishes statutory title protection (without statutory deontological tuchtrecht beyond the Code de déontologie 2014 / Deontologische code). Has issued no PA-specific position. Title-protection silence on the PA construct is part of the broader Belgian double-silence pattern."
+      "citation": "Constitution belge art. 22bis",
+      "title": "Constitutional child-rights framework",
+      "year": 2008,
+      "url": "https://www.const-court.be/en/basic-text/belgian-constitution",
+      "relevance": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification."
     },
     {
-      "citation": "Loi du 4 avril 2014 — exercice de la psychothérapie",
-      "title": "Loi-cadre exercice de la psychothérapie (art. 68/1 et suiv. Loi coordonnée 10.5.2015 relative à l'exercice des professions des soins de santé)",
-      "year": 2014,
-      "url": "https://www.health.belgium.be/fr/sante/sante-mentale",
-      "relevance": "Federal regulation of psychotherapy practice; together with the 8.11.1993 psychologue-title law constitutes the substantive Belgian regulatory architecture for clinical-psychology / psychotherapy services. SPF Santé publique (Ministère fédéral) carries the regulatory authority via the Commission des psychologues and visa-aanvragen for psychotherapy authorisation."
-    },
-    {
-      "citation": "Décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse (FWB)",
-      "title": "Code de l'aide à la jeunesse de la Communauté française",
-      "year": 2018,
-      "url": "https://www.aidealajeunesse.cfwb.be/",
-      "relevance": "Code substantif de la Fédération Wallonie-Bruxelles. Crée le SAJ (Service d'aide à la jeunesse) et le SPJ (Service de protection judiciaire), avec les équipes SOS Enfants pour la maltraitance infantile. Cadre administratif et judiciaire de la prise en charge des situations familiales conflictuelles côté francophone."
-    },
-    {
-      "citation": "Decreet Integrale Jeugdhulp (Vlaamse Gemeenschap)",
-      "title": "Decreet Integrale Jeugdhulp — Opgroeien (vroeger Jongerenwelzijn)",
-      "year": 2013,
-      "url": "https://www.opgroeien.be/",
-      "relevance": "Vlaamse decretale jeugdhulp-architectuur (sinds april 2019 onder agentschap Opgroeien). Cadre administratif et judiciaire flamand. Centra Algemeen Welzijnswerk (CAW), Vertrouwenscentra Kindermishandeling (VK, zes vestigingen) en gespecialiseerde jeugdhulpaanbieders zijn de operationele lijnen waarop PA-adjacent praktijk wordt afgehandeld."
+      "citation": "Convention d'Istanbul art. 31",
+      "title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "year": 2016,
+      "url": "https://rm.coe.int/168008482e",
+      "relevance": "Ratified by Belgium 14 March 2016, in force 1 July 2016. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection of DV allegations."
     }
   ],
   "apex_courts": [
     {
-      "name": "Cour de cassation de Belgique / Hof van Cassatie",
-      "url": "https://www.cass.be/",
-      "key_decisions": [
-        {
-          "caption": "Cass. 6 mars 2025, C.24.0157.F — addresses inexécution des décisions du tribunal de la famille relatives à l'hébergement under art. 387ter Code civil. NOT a PA-construct-qualifying apex decision; the Cour de cassation has not yet ruled on the scientific validity of the parental-alienation construct.",
-          "year": 2025,
-          "stance": "middle"
-        },
-        {
-          "caption": "No apex Cour de cassation / Hof van Cassatie ruling has been issued qualifying or disqualifying the PA/PAS construct. This places Belgium with the Netherlands and Germany in the EU6 'no-apex-PA-position' cluster, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "Cour de cassation / Hof van Cassatie",
+      "seat": "Brussels",
+      "role": "Apex court for civil matters including family law; reviews appellate-court decisions via cassation"
     },
     {
       "name": "Cour constitutionnelle / Grondwettelijk Hof",
-      "url": "https://www.const-court.be/",
-      "key_decisions": [
-        {
-          "caption": "Federal constitutional court; no PA-specific ruling. The Court has addressed family-law statutory provisions in equality and child-welfare contexts but has not engaged the parental-alienation construct directly.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "seat": "Brussels",
+      "role": "Constitutional review including Constitution art. 22bis child-rights framework interpretation"
     },
     {
-      "name": "Cours d'appel / Hoven van Beroep — family chambers",
-      "url": "https://www.rechtbanken-tribunaux.be/",
-      "key_decisions": [
-        {
-          "caption": "Cour d'appel Bruxelles, Liège, Mons, Anvers, Gand — family-appellate chambers review Tribunal de la famille decisions on hébergement and contact under Code civil art. 374-374ter. PA-adjacent fact-patterns are decided here under welfare/child-protection standards without direct PAS-construct adjudication.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank",
+      "seat": "Nationwide (within Tribunaux de première instance)",
+      "role": "Specialised first-instance family courts established 1 September 2014 under Loi du 30 juillet 2013"
     }
   ],
-  "professional_regulators": [
-    {
-      "name": "Commission des psychologues / Psychologencommissie",
-      "url": "https://www.compsy.be/",
-      "position_statement": "Federal title-protection commission for psychologists (Loi du 8 novembre 1993). Has issued NO public PA/PAS position statement. The Commission silence on the parental-alienation construct is structurally identical to the NIP / NVvP silence pattern in the Netherlands."
-    },
-    {
-      "name": "Belgische Federatie van Psychologen / Fédération Belge des Psychologues (BFP-BPF)",
-      "url": "https://www.bfp-fbp.be/",
-      "position_statement": "Federal umbrella professional association of psychologists (including VVKP — Vlaamse Vereniging van Klinisch Psychologen — and UPPCF — Union Professionnelle des Psychologues Cliniciens Francophones). BFP-BPF has issued no public PA/PAS recognition or critique statement. Federation silence is the second pillar of the Belgian psychology-association silence pattern."
-    },
-    {
-      "name": "Hoge Gezondheidsraad / Conseil Supérieur de la Santé (CSS-HGR)",
-      "url": "https://www.health.belgium.be/fr/conseil-superieur-de-la-sante",
-      "position_statement": "Federal scientific health-policy advisory body. Has issued no parental-alienation-specific opinion. Absence of CSS-HGR engagement with the construct is consistent with the broader Belgian federal-institutional pattern of routing PA-construct comment via gender-equality (IEFH/IGVM) rather than health-policy regulators."
-    },
-    {
-      "name": "Institut pour l'égalité des femmes et des hommes / Instituut voor de Gelijkheid van Vrouwen en Mannen (IEFH/IGVM)",
-      "url": "https://igvm-iefh.belgium.be/",
-      "position_statement": "Federal bilingual (NL+FR) gender-equality regulator. Recommandation 2023/001 'sur la violence entre (ex-)partenaires dans le contexte des divorces et séparations familiales' explicitly warns that 'le syndrome d'aliénation parentale ne peut être utilisé pour minimiser la violence entre (ex-)partenaires' and identifies the construct as susceptible to instrumentalisation by perpetrators of violence to disqualify victims' rupture-of-contact and abuse allegations. This is a STRUCTURALLY UNIQUE EU6 position — a single federal regulator with bilingual mandate articulating a critique-camp institutional anchor — without direct equivalent in the DE / FR / ES / IT / NL professional-regulator landscape.",
-      "position_date": "2023-01-01"
-    },
-    {
-      "name": "Délégué général aux droits de l'enfant (DGDE) — Communauté française",
-      "url": "https://www.dgde.cfwb.be/",
-      "position_statement": "Independent commissioner for children's rights in the Fédération Wallonie-Bruxelles. Has engaged complex divorce / PA-adjacent fact-patterns through child-rights primacy framing. Subsidiary critique-camp institutional voice alongside IEFH/IGVM."
-    },
-    {
-      "name": "Kinderrechtencommissariaat (KRC) — Vlaamse Gemeenschap",
-      "url": "https://www.kinderrechtencommissariaat.be/",
-      "position_statement": "Vlaams independent children's rights ombudsman. No specific PA-rejecting standpunt but a general kindbelang-priority frame. Cote vlaams the debate is less polarised and more methodological than in the Communauté française."
-    },
-    {
-      "name": "Coordination des ONG pour les droits de l'enfant (CODE)",
-      "url": "https://www.lacode.be/",
-      "position_statement": "Civil-society coordination for children's-rights NGOs in the Communauté française. October 2023 analyse 'L'aliénation parentale : un concept à risques pour les enfants et leurs droits' is a load-bearing francophone Belgian critique anchor."
-    }
-  ],
-  "anonymisation_convention": "Belgian Cour de cassation and Cours d'appel anonymise minor children consistently; adult parties in family-law published arrêts are typically referenced by initial (e.g., M. X / Mme Y) or generic descriptor. Ejustice.just.fgov.be publishes consolidated case law with reporting restrictions on minor identification. The Loi du 8 avril 1965 sur la protection de la jeunesse imposes confidentiality on jeugdrechtbank / tribunal de la jeunesse proceedings.",
   "key_developments": [
     {
-      "year": 1993,
-      "description": "Loi du 8 novembre 1993 protégeant le titre de psychologue — federal title-protection psychologue / titelbescherming psycholoog.",
-      "url": "https://www.compsy.be/"
+      "year": 1804,
+      "title": "Code Napoléon / Belgian Code civil reception",
+      "description": "Code Napoléon 1804 received into Belgian law (continuing through Belgian Independence 1830). Substantively foundational civil-law framework — operational basis for subsequent 19th-20th century family-law codification."
+    },
+    {
+      "year": 1974,
+      "title": "Loi du 1er juillet 1974 — gender equality + parental authority reform",
+      "description": "Loi du 1er juillet 1974 establishing gender equality in marriage and modernising parental-authority framework — substantively significant 20th-century Belgian family-law reform preceding 1995 autorité parentale conjointe codification."
+    },
+    {
+      "year": 1991,
+      "title": "Belgium ratifies UN Convention on the Rights of the Child",
+      "description": "Belgium ratified UN CRC 16 December 1991 (in force 15 January 1992). Substantively significant international child-rights framework — Cour de cassation has recognised art. 3-1 (intérêt supérieur de l'enfant) direct effect in Belgian law."
     },
     {
       "year": 1995,
-      "description": "Code civil art. 374-374ter — autorité parentale (exercice conjoint principe) and droit aux relations personnelles (art. 374bis grand-parents).",
-      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl"
+      "title": "Loi du 13 avril 1995 — autorité parentale conjointe codification",
+      "description": "Loi du 13 avril 1995 restructuring Code civil arts. 371-387 establishing autorité parentale conjointe (joint parental authority) framework — substantively transformative gender-equal parental-rights reform."
     },
     {
-      "year": 2007,
-      "description": "Code civil art. 387ter — inexécution des décisions relatives à l'hébergement; astreinte, désignation provisoire, droit aux relations modifiées. The substantive remedies provision subsequently engaged in Cass. 6 mars 2025.",
-      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl"
+      "year": 2006,
+      "title": "Loi du 18 juillet 2006 — hébergement égalitaire default presumption",
+      "description": "Loi du 18 juillet 2006 tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés establishing hébergement égalitaire (week-on-week-off) as default-presumption post-separation framework. Substantively distinctive globally for statutory presumption of shared residence — substantively significant 21st-century Belgian family-law reform."
+    },
+    {
+      "year": 2008,
+      "title": "Constitution art. 22bis — child-rights constitutional codification",
+      "description": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification reinforcing UN CRC implementation."
     },
     {
       "year": 2013,
-      "description": "30.7.2013 — Loi portant création d'un Tribunal de la famille et de la jeunesse (familierechtbank) — unified specialist family-court forum.",
-      "url": "https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2013073018&table_name=loi"
+      "title": "Loi du 30 juillet 2013 — Tribunal de la famille et de la jeunesse established",
+      "description": "Loi du 30 juillet 2013 establishing specialised Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014. Substantively significant institutional reform unifying Belgian family-law procedural framework consolidating previously fragmented family-law jurisdiction."
     },
     {
-      "year": 2013,
-      "description": "Decreet Integrale Jeugdhulp (Vlaamse Gemeenschap) — Opgroeien-architectuur for Vlaams jeugdhulp delivery.",
-      "url": "https://www.opgroeien.be/"
+      "year": 2016,
+      "title": "Belgium ratifies Istanbul Convention + GREVIO monitoring trajectory",
+      "description": "Belgium ratified Council of Europe Istanbul Convention 14 March 2016, in force 1 July 2016. GREVIO Baseline Evaluation Report on Belgium (2020) and subsequent thematic reports critique residual PA-labelled deflection of DV allegations — a key plank of the institutional-critique position."
     },
     {
-      "year": 2018,
-      "description": "18.1.2018 — Décret portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse (Fédération Wallonie-Bruxelles).",
-      "url": "https://www.aidealajeunesse.cfwb.be/"
+      "year": 2019,
+      "title": "DGDE + Kinderrechtencommissaris reports — institutional-critique register",
+      "description": "Délégué général aux droits de l'enfant (DGDE, Communauté française) and Kinderrechtencommissaris (Vlaamse Gemeenschap) institutional reports 2018-2019 addressing child-rights framework operation including PA-labelled DV-deflection patterns. Substantively significant Belgian institutional-critique register."
     },
     {
-      "year": 2023,
-      "description": "2023 — IEFH/IGVM Recommandation 2023/001 'sur la violence entre (ex-)partenaires dans le contexte des divorces et séparations familiales' — STRUCTURALLY UNIQUE EU6 critique-camp institutional anchor at federal-regulator level (NL+FR bilingual).",
-      "url": "https://igvm-iefh.belgium.be/"
+      "year": 2021,
+      "title": "Loi du 1er juillet 2021 — féminicide statutory framework + DV-protection reinforcement",
+      "description": "Loi du 1er juillet 2021 + subsequent féminicide statutory framework reform reinforcing DV-protection framework. Substantively significant gender-violence-protection reform shaping subsequent family-law adjudication on DV-PA-allegation intersection cases."
     },
     {
-      "year": 2023,
-      "description": "Octobre 2023 — CODE analyse 'L'aliénation parentale : un concept à risques pour les enfants et leurs droits' — francophone civil-society critique anchor.",
-      "url": "https://www.lacode.be/"
+      "year": 2022,
+      "title": "Cour constitutionnelle + Tribunal de la famille jurisprudence — hébergement égalitaire interpretation framework",
+      "description": "Cour constitutionnelle + Tribunal de la famille jurisprudence 2020-2022 substantively developing hébergement égalitaire (Loi du 18 juillet 2006) interpretation framework — addressing implementation issues including DV-intersection cases and hébergement égalitaire-derogation criteria under Code civil arts. 374 et seq. Substantively significant institutional jurisprudential refinement of distinctive Belgian shared-residence default-presumption framework — establishing trajectory toward 2024 Cour de cassation substantive register."
     },
     {
       "year": 2024,
-      "description": "Juin 2024 — Ligue des familles étude 'Pour en finir avec l'aliénation parentale' — francophone civil-society critique consolidation.",
-      "url": "https://www.laligue.be/"
-    },
-    {
-      "year": 2025,
-      "description": "6.3.2025 — Cass. C.24.0157.F — Cour de cassation arrêt on inexécution de l'hébergement under art. 387ter C. civ.; does NOT engage PA-construct scientific validity.",
-      "url": "https://www.cass.be/"
+      "title": "Cour de cassation + Tribunal de la famille jurisprudence — intérêt supérieur substantive register",
+      "description": "Cour de cassation and Tribunal de la famille jurisprudence continue developing intérêt supérieur de l'enfant interpretation under Code civil + hébergement égalitaire 2006 + Tribunal de la famille 2013 framework. Substantive analysis without doctrinal 'aliénation parentale / ouderverstoting' label adoption — consistent with European institutional-critique cluster + DGDE/Kinderrechtencommissaris institutional position."
     }
   ],
   "structural_findings": [
-    "STRUCTURALLY UNIQUE EU6 SIGNATURE: The critique-camp institutional anchor lives at the FEDERAL GENDER-EQUALITY REGULATOR (IEFH/IGVM Recommandation 2023/001) — NOT at the psychology regulator. Belgium is the only EU6 jurisdiction where the critique-camp position is articulated at federal-regulator level rather than only at professional-association or judicial level. The IEFH/IGVM is uniquely positioned as a single federal bilingual (NL+FR) regulator covering both linguistic communities; this combined coverage gives the Recommandation 2023/001 a structural reach unavailable elsewhere in EU6.",
-    "DOUBLE PROFESSIONAL-ASSOCIATION SILENCE: Neither the Commission des psychologues / Psychologencommissie nor the BFP-BPF has issued any public PA/PAS position. The Belgian psychology-profession silence is structurally identical to the NIP / NVvP silence pattern (Netherlands) but Belgium adds the critique-camp anchor at the gender-equality regulator that the Netherlands lacks. Belgian institutional positional weight therefore lives at FEDERAL GENDER-EQUALITY level plus CIVIL-SOCIETY level (CODE octobre 2023; Ligue des familles juin 2024; CERE asbl 2021), bypassing the silent psychology profession.",
-    "LINGUISTIC-COMMUNITY ASYMMETRY (moderate): The critique-camp debate is more institutionally embedded in the Communauté française (CODE, Université des Femmes, Vie Féminine, Solidarité Femmes La Louvière, CVFE, Ligue des familles, CERE asbl) than in the Vlaamse Gemeenschap. Côté Vlaams, the debate is less polarised and more methodological: Kinderrechtencommissariaat has no PA-rejecting standpunt but a general kindbelang-priority frame; the Vlaamse forensic-clinical field leans on systemic methodologies (Lorentzhuis import). No Vlaams equivalent of the francophone 'contrôle coercitif' discourse exists.",
-    "CROSS-BORDER NL-BE LORENTZHUIS AXIS is structural: the van Lawick + Visser Kinderen uit de Knel / No Kids in the Middle methodology is broadly adopted in Vlaamse jeugdhulp and CAW networks. Belgian middle-camp practitioners systematically cite Lorentzhuis over Gardnerian PAS terminology. Cross-link practitioner:nl.van-lawick-justine applies to multiple Belgian entries.",
-    "CROSS-BORDER FR-BE CONTRÔLE COERCITIF AXIS: francophone Belgian critique references increasingly mobilise the contrôle coercitif frame (cf. Andreea Gruev-Vintila in France) to re-read situations qualified as PA as post-separation extensions of intimate-partner violence. Cross-link practitioner:fr.gruev-vintila-andreea and RTBF Investigation 2022 'mères protectrices diabolisées' apply to the francophone Belgian critique-camp sub-corpus.",
-    "NO APEX COUR DE CASSATION / HOF VAN CASSATIE RULING ON THE PA CONSTRUCT: Cass. 6 mars 2025 C.24.0157.F is the most recent Cour de cassation arrêt addressing PA-adjacent contact-frustration cases but does not engage the construct's scientific validity. Belgium clusters with the Netherlands and Germany in the EU6 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).",
-    "INTERNAL POLARISATION: ACALPA (Association contre l'aliénation parentale, fondée 2005, recognition-camp) and La Mouette Belgique (recognition-camp, conférences Van Dieren / Van Gijseghem 2002-2014) constitute the francophone advocacy-recognition pole; opposite, Université des Femmes, SOS Inceste Belgique, Ligue des familles, Solidarité Femmes and CVFE constitute the critique pole. Middle-stance methodological position carried by yapaka.be authors (Yves-Hiram Haesevoets, Frédérique Van Leuven, Reine Vander Linden) and by Olivier Limet (sociologue, formateur, FR+BE).",
-    "UNIVERSITY ANCHORS: ULB (Yves-Hiram Haesevoets, psychologie clinique; Christine Frisch-Desmarez, pédopsychiatrie/psychanalyse; Université des Femmes adjoint), UCLouvain (Jean-Louis Renchon, droit familial émérite, Centre de droit de la personne et de la famille; Pascale Jamoulle, anthropologie LAAP/IACCHOS), UMons (Pascale Jamoulle cross-appointment), Université de Namur + UHasselt (IEFH 2022 commissioned study on the role of juges de la famille in (ex-)partner-violence context), KU Leuven (Liesbet Stevens, droit pénal sexuel + adjunct-directeur IGVM-IEFH). No large recognition-camp Belgian university pole equivalent to the PASG anglo-saxon."
-  ],
-  "references": [
-    "practitioner:be.haesevoets-yves-hiram",
-    "practitioner:be.frisch-desmarez-christine",
-    "practitioner:be.van-leuven-frederique",
-    "practitioner:be.van-dieren-benoit",
-    "practitioner:be.van-gijseghem-hubert",
-    "practitioner:be.limet-olivier",
-    "practitioner:be.stevens-liesbet",
-    "practitioner:be.iefh-igvm",
-    "practitioner:be.code",
-    "practitioner:be.ligue-des-familles",
-    "practitioner:nl.van-lawick-justine",
-    "practitioner:fr.gruev-vintila-andreea",
-    "jurisdiction:netherlands",
-    "jurisdiction:france",
-    "jurisdiction:germany"
-  ],
-  "sources": [
-    {
-      "title": "Moniteur belge / Belgisch Staatsblad — federal consolidated legislation",
-      "url": "https://www.ejustice.just.fgov.be/",
-      "publisher": "Service public fédéral Justice / FOD Justitie",
-      "language": "fr"
-    },
-    {
-      "title": "Cour de cassation de Belgique / Hof van Cassatie",
-      "url": "https://www.cass.be/",
-      "publisher": "Cour de cassation",
-      "language": "fr"
-    },
-    {
-      "title": "Tribunal de la famille / familierechtbank — rechtbanken-tribunaux.be",
-      "url": "https://www.rechtbanken-tribunaux.be/",
-      "publisher": "SPF Justice",
-      "language": "fr"
-    },
-    {
-      "title": "IEFH/IGVM — Recommandation 2023/001 sur la violence entre (ex-)partenaires",
-      "url": "https://igvm-iefh.belgium.be/",
-      "publisher": "Institut pour l'égalité des femmes et des hommes / Instituut voor de Gelijkheid van Vrouwen en Mannen",
-      "language": "fr"
-    },
-    {
-      "title": "Commission des psychologues / Psychologencommissie — compsy.be",
-      "url": "https://www.compsy.be/",
-      "publisher": "Commission des psychologues",
-      "language": "fr"
-    },
-    {
-      "title": "BFP-BPF — Belgische Federatie van Psychologen / Fédération Belge des Psychologues",
-      "url": "https://www.bfp-fbp.be/",
-      "publisher": "BFP-BPF",
-      "language": "nl"
-    },
-    {
-      "title": "CODE — Coordination des ONG pour les droits de l'enfant",
-      "url": "https://www.lacode.be/",
-      "publisher": "CODE",
-      "language": "fr"
-    },
-    {
-      "title": "Ligue des familles — Pour en finir avec l'aliénation parentale (juin 2024)",
-      "url": "https://www.laligue.be/",
-      "publisher": "Ligue des familles",
-      "language": "fr"
-    },
-    {
-      "title": "yapaka.be — temps d'arrêt / collection sur la parentalité",
-      "url": "https://www.yapaka.be/",
-      "publisher": "Fédération Wallonie-Bruxelles",
-      "language": "fr"
-    },
-    {
-      "title": "Opgroeien (Vlaamse Gemeenschap) — Decreet Integrale Jeugdhulp",
-      "url": "https://www.opgroeien.be/",
-      "publisher": "Opgroeien (agentschap Vlaamse overheid)",
-      "language": "nl"
-    },
-    {
-      "title": "Kinderrechtencommissariaat — Vlaams ombudsman kinderrechten",
-      "url": "https://www.kinderrechtencommissariaat.be/",
-      "publisher": "Kinderrechtencommissariaat",
-      "language": "nl"
-    },
-    {
-      "title": "Délégué général aux droits de l'enfant — Communauté française",
-      "url": "https://www.dgde.cfwb.be/",
-      "publisher": "DGDE",
-      "language": "fr"
-    }
+    "Belgium operates a structurally distinctive civil-law family-law framework — Code civil + Loi 2006 hébergement égalitaire default presumption + Tribunal de la famille 2013 institutional unification — with substantive intérêt supérieur de l'enfant analysis without doctrinal 'aliénation parentale / ouderverstoting' label adoption.",
+    "Loi du 18 juillet 2006 hébergement égalitaire default-presumption framework is substantively distinctive globally for statutory presumption of week-on-week-off shared residence — operationally creating Belgium as a critical comparative-law data point for default-shared-residence framework analysis.",
+    "Institutional position is critique-aligned: DGDE + Kinderrechtencommissaris reports + GREVIO Belgium monitoring + Commission Femmes-Justice converge on warning against PA-instrumentalisation to deflect DV allegations — placing Belgium alongside Germany (BVerfG 2023), France (Défenseure des droits 2023), Italy (Cass. civ. 2021-2022), Spain (CGPJ guides), and Netherlands (NIP/RSJ) in the European institutional-critique cluster."
   ],
   "editorial_notes": [
-    "Primary-source order: federal Moniteur belge / Cour de cassation cited first; IEFH/IGVM Recommandation 2023/001 is foregrounded as the structurally unique critique anchor; CODE + Ligue des familles + yapaka.be follow at civil-society level; community-level decrees (FWB + Vlaams) cited last.",
-    "Bilingualism strictly preserved: FR and NL parallel terms given throughout (Tribunal de la famille / familierechtbank; Cour de cassation / Hof van Cassatie; Commission des psychologues / Psychologencommissie; IEFH/IGVM).",
-    "Cross-border NL+BE Nederlandstalige knowledge-space and FR+BE francophone knowledge-space overlaps explicitly recognised in structural_findings[3] and [4]; deepening of NL or FR jurisdictions must take account of this shared circuit.",
-    "Belgium is treated as a federal jurisdiction with community/linguistic-level institutional differences flagged where material; the Deutschsprachige Gemeinschaft (Eupen-Malmedy) is briefly noted at language[]=['nl','fr','de'] but no separate institutional analysis is given at this v1.0.",
-    "Preserved corrections from be.json therapist v2: (i) Roland Coenen not verifiable as PA-specific author (pedagogy non-punitive + adolescent systemics Tamaris); (ii) Reine Vander Linden specialty is perinatal not PA, yapaka corpus touches PA via early garde-alternée debate."
+    "Belgium's Loi du 18 juillet 2006 hébergement égalitaire default-presumption framework operationally distinguishes Belgium from neighbouring European jurisdictions (Netherlands, France, Germany) — making Belgium a critical comparative-law data point for default-shared-residence legislative architecture.",
+    "Tripartite linguistic-communautaire structure (Communauté française + Vlaamse Gemeenschap + Deutschsprachige Gemeinschaft) operationally creates parallel DGDE / Kinderrechtencommissaris institutional frameworks — substantively distinctive globally for community-level child-rights ombudsperson structure."
   ]
 }

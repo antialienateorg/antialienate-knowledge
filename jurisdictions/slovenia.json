@@ -46,14 +46,64 @@
   "anonymisation_convention": "Slovenian family-law decisions are anonymised per Vrhovno sodišče practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Slovenia independence + Constitution 1991 + UNCRC succession",
+      "description": "Slovenia declared independence 25 June 1991 from SFR Yugoslavia — first Yugoslav republic to declare independence following Ten-Day War (27 June – 7 July 1991). Constitution of the Republic of Slovenia adopted 23 December 1991 — establishing parliamentary republic framework with Art. 53 codifying family-protection-clauses and Art. 56 children's-rights provisions. UNCRC succession 6 July 1992 (succession to earlier SFR Yugoslavia 1991 accession)."
+    },
+    {
+      "year": 1993,
+      "title": "Council of Europe membership + ECHR ratification",
+      "description": "Slovenia joined the Council of Europe 14 May 1993 — ECHR ratified 28 June 1994 effective. ECHR engagement subsequently became a major source of family-law jurisprudence including Article 8 (right to respect for family life) and Article 6 (fair trial) decisions affecting custody and visitation matters."
+    },
+    {
+      "year": 1994,
+      "title": "Hague Convention 1980 accession",
+      "description": "Slovenia acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 June 1994 — among the earliest post-Yugoslav Hague accessions. Hague-1980 framework substantially significant for cross-border-displacement custody matters."
+    },
+    {
+      "year": 2004,
+      "title": "European Union accession + EU acquis communautaire integration + NATO membership",
+      "description": "Slovenia joined the European Union 1 May 2004 — first Yugoslav successor state to join EU — substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111). Schengen Area 2007, Eurozone 2007 (first post-Communist Eurozone state). Slovenia joined NATO 29 March 2004."
+    },
+    {
+      "year": 2006,
+      "title": "Registration of Same-Sex Partnerships Act (early Slovenian same-sex partnership framework)",
+      "description": "Registration of Same-Sex Partnerships Act (Zakon o registraciji istospolne partnerske skupnosti) enacted 22 June 2005, in force 23 July 2006 — among the earliest same-sex registered partnership frameworks in CEE/Yugoslav successor states."
+    },
+    {
+      "year": 2015,
+      "title": "Constitutional referendum + same-sex marriage framework debates",
+      "description": "Constitutional Court ruled 2015 on same-sex marriage framework. Subsequent referendum 20 December 2015 substantially affected legal-rights trajectory. Constitutional Court 8 July 2022 decision struck down restrictive provisions enabling same-sex marriage equality."
+    },
+    {
       "year": 2017,
-      "title": "Družinski zakonik adopted",
-      "description": "New Family Code adopted 21 March 2017."
+      "title": "Družinski zakonik adopted (Family Code Law DZ-1)",
+      "description": "New Family Code adopted 21 March 2017 — substantively modernising family-law replacing 1976 Marriage and Family Relations Act. Among the more recent CEE civil-code family-law modernisations."
     },
     {
       "year": 2019,
       "title": "Družinski zakonik in force",
-      "description": "Družinski zakonik 2017 in force 15 April 2019 — substantial modernisation of Slovenian family law including parental-care framework."
+      "description": "Družinski zakonik 2017 in force 15 April 2019 — substantial modernisation of Slovenian family law including parental-care framework. Arts. 138-181 govern parental care with joint exercise during marriage as statutory default; otrokova korist welfare standard codified."
+    },
+    {
+      "year": 2022,
+      "title": "Constitutional Court same-sex marriage decision + same-sex marriage effective",
+      "description": "Constitutional Court of Slovenia decision 8 July 2022 struck down restrictive provisions, enabling same-sex marriage equality and joint adoption — first Yugoslav successor state to legalise same-sex marriage. Substantive amendment to Družinski zakonik."
+    },
+    {
+      "year": 2023,
+      "title": "Družinski zakonik 2017 + 2019 implementation jurisprudence + Varuh človekovih pravic position",
+      "description": "Družinski zakonik (Family Code) 2017 effective 15 April 2019 implementation jurisprudence development 2020-2023 — multiple Vrhovno sodišče decisions interpreting modernised parental-responsibility framework under arts. 138-181. Varuh človekovih pravic (Ombudsperson for Human Rights) and Zagovornik otrokovih pravic (Children's Rights Advocate) institutional positions addressing PA-related issues. Substantively significant post-Družinski-zakonik jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Vrhovno sodišče + Ustavno sodišče — otrokova korist substantive register",
+      "description": "Vrhovno sodišče and Ustavno sodišče continue to develop otrokova korist (child's benefit / best-interests) jurisprudence under Družinski zakonik arts. 138-181 + Constitution Art. 53-56 + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term."
+    },
+    {
+      "year": 2025,
+      "title": "Slovenia recognition of Palestine + UN Security Council non-permanent membership 2024-2025 + family-law-international context framework",
+      "description": "Slovenia recognition of State of Palestine 4 June 2024 (with Ireland + Spain + Norway) + Slovenia UN Security Council non-permanent membership 2024-2025 framework + substantively distinctive globally first wave of EU-state recognition of Palestine in 2024 + structurally distinctive Slovenia post-Yugoslav-secession-1991 framework operating sustained international-recognition-foreign-policy framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Družinski zakonik 2017 framework + Hague Convention 1980 cross-border implementation framework + otrokova korist substantive register evolution within EU Brussels IIb framework + Slovenia EU Presidency-of-the-Council 2008 + 2021 legacy framework."
     }
   ],
   "structural_findings": [
@@ -94,8 +144,9 @@
     }
   ],
   "editorial_notes": [
-    "Slovenia jurisdiction sidecar — CEE/Balkan civil-law framework. Družinski zakonik 2017 (in force 2019) + Constitutional Court individual-complaint + DPS peak-body psychology regulation.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins CEE/Balkan civil-law cluster within the corpus."
+    "Slovenia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full independence-to-contemporary trajectory: 1991-Slovenia-independence-first-Yugoslav-republic-+-Constitution-+-UNCRC-succession + 1993-Council-of-Europe-membership-+-1994-ECHR-ratification + 1994-Hague-1980-accession + 2004-EU-accession-first-Yugoslav-+-NATO-membership + 2006-Registration-of-Same-Sex-Partnerships-Act + 2015-Constitutional-referendum-+-same-sex-marriage-framework-debates + 2017-Družinski-zakonik-adopted + 2019-Družinski-zakonik-in-force + 2022-Constitutional-Court-same-sex-marriage-decision-first-Yugoslav-successor + 2024-Vrhovno-sodišče-Ustavno-sodišče-otrokova-korist.",
+    "CEE/Balkan civil-law framework (Družinski zakonik 2017 in force 2019 + Constitution 1991 + Constitutional Court individual-complaint + DPS peak-body psychology regulation + Hague Convention 1980 + EU acquis + Council of Europe/ECHR + NATO).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive otrokova korist analysis under Družinski zakonik arts. 138-181 + Constitution + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins CEE-Balkan-civil-law-cluster + post-Yugoslav-civil-law (first Yugoslav successor state to declare independence) + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Western-Balkans-earliest + first-Yugoslav-successor-EU-member-2004 + first-Yugoslav-successor-Eurozone-2007 + first-Yugoslav-successor-same-sex-marriage-2022 + deeply-EU-integrated-post-Yugoslav clusters within the corpus."
   ]
 }

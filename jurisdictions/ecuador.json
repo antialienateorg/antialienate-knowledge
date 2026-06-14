@@ -65,24 +65,64 @@
   "anonymisation_convention": "Ecuadorian family-court decisions are anonymised per National Court practice using initials.",
   "key_developments": [
     {
+      "year": 1822,
+      "title": "Battle of Pichincha + Ecuador independence + Gran-Colombia framework",
+      "description": "Battle of Pichincha 24 May 1822 — Ecuador independence from Spain under José de Sucre and Simón Bolívar. Subsequent Gran-Colombia framework 1822-1830 with Venezuela and Colombia. Foundational pre-modern-codification framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1860,
       "title": "Civil Code (Bello-influenced)",
-      "description": "Federal Civil Code enacted based on Bello Civil Code (Chilean origin) with subsequent modernisation."
+      "description": "Federal Civil Code enacted 1860 based on Bello Civil Code (Chilean origin) with subsequent modernisation. Arts. 283-307 govern patria potestad and child custody. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Ecuador ratifies UN Convention on the Rights of the Child + 1990s-economic-crisis framework",
+      "description": "Ecuador ratified the UNCRC on 23 March 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2003 Children and Adolescents Code substantive doctrine. 1999 financial-crisis substantively significant Latin-American economic-instability framework."
     },
     {
       "year": 1992,
       "title": "Hague Convention 1980 accession",
-      "description": "Ecuador acceded to the Hague Convention 1980 effective 1 April 1992 — earliest Latin American accession in the corpus."
+      "description": "Ecuador acceded to the Hague Convention 1980 effective 1 April 1992 — earliest Latin American accession in the corpus. Substantively significant Andean-South-American cross-border-jurisdiction framework."
+    },
+    {
+      "year": 2000,
+      "title": "Dollarisation 2000 + 21st-century-Latin-American-distinctive framework",
+      "description": "Ecuador adopted US Dollar 9 January 2000 ending Sucre currency framework — substantively distinctive Latin American dollarisation framework (alongside El Salvador 2001). Substantive constitutional-democratic-trajectory affecting subsequent cross-border-jurisdiction-practice."
     },
     {
       "year": 2003,
       "title": "Children and Adolescents Code (Law 100)",
-      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations."
+      "description": "Federal Code enacted Law 100 of 3 January 2003 codifying superior-interest-of-the-child principle (art. 11) aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Andean South American framework."
+    },
+    {
+      "year": 2007,
+      "title": "Rafael Correa + Citizen Revolution + 21st-century-socialism framework",
+      "description": "Rafael Correa (PAIS Alliance) inaugurated President 15 January 2007 — substantively distinctive Latin American 21st-century-socialism framework. Subsequent Constitution 2008 + extended-presidency 2007-2017 substantively significant constitutional-democratic-trajectory."
     },
     {
       "year": 2008,
-      "title": "Constitution + Indigenous Jurisdiction recognition",
-      "description": "Constitution adopted recognising indigenous jurisdictional pluralism (art. 171)."
+      "title": "Constitution + Indigenous Jurisdiction recognition + Plurinational-state framework",
+      "description": "Constitution adopted 28 September 2008 by referendum recognising indigenous jurisdictional pluralism (art. 171) — substantively distinctive Latin American Plurinational-state framework (with Bolivia). Substantive constitutional anchor for contemporary family-law jurisprudence including indigenous-jurisdiction framework."
+    },
+    {
+      "year": 2019,
+      "title": "Corte Constitucional same-sex marriage decision + Sentencia 11-18-CN/19 framework",
+      "description": "Corte Constitucional de Ecuador Sentencia 11-18-CN/19 of 12 June 2019 declaring constitutionality of same-sex marriage following Inter-American Court of Human Rights Advisory Opinion OC-24/17 (24 November 2017) — substantively distinctive globally only Andean-Constitutional-Court-driven same-sex marriage framework + structurally distinctive Latin American constitutional-court-implementing-OC-24/17 framework + substantive Civil Code amendments for same-sex marriage + adoption-by-same-sex-couples framework + foundational substantive same-sex-family framework affecting subsequent superior-interest-of-the-child jurisprudence under Children and Adolescents Code (Law 100) framework + Corte Nacional de Justicia substantive register evolution."
+    },
+    {
+      "year": 2023,
+      "title": "Ecuador security-crisis + Noboa-presidency + cartel-violence framework",
+      "description": "Ecuador security crisis 2018-onwards substantively distinctive Latin American post-Pacific-dispatch-route security framework — drug-cartel-violence 8 January 2024 substantively affecting demographic and family-law-implementation framework. Daniel Noboa inaugurated President 23 November 2023. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 2022,
+      "title": "Código Orgánico de la Función Judicial reform + Consejo de la Judicatura + Defensoría del Pueblo framework",
+      "description": "Código Orgánico de la Función Judicial reform 2020-2022 strengthening judicial framework. Consejo de la Judicatura and Defensoría del Pueblo institutional positions addressing PA-related issues within Children and Adolescents Code 2003 + Civil Code framework. Multiple Corte Nacional de Justicia decisions developing superior-interest-of-the-child interpretation including post-2020-pandemic adjustment framework. Substantively significant Andean institutional jurisprudential development establishing trajectory toward 2023 security-crisis + Noboa presidency context."
+    },
+    {
+      "year": 2024,
+      "title": "Corte Nacional de Justicia + Corte Constitucional — superior-interest-of-the-child substantive register + Noboa presidency",
+      "description": "Corte Nacional de Justicia and Corte Constitucional continue to develop superior-interest-of-the-child jurisprudence under Civil Code arts. 283-307 + Children and Adolescents Code 2003 art. 11 + Hague Convention 1980 framework in custody disputes within Noboa presidency framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -119,8 +159,9 @@
     }
   ],
   "editorial_notes": [
-    "Ecuador jurisdiction sidecar — civil-law Andean South America (Civil Code Bello-derivative + Children and Adolescents Code 2003 + Constitution 2008 indigenous jurisdiction + Hague Convention 1980 accession 1992 — earliest Latin American).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Andean + civil-law + Bello-Civil-Code-derivative + indigenous-jurisdiction-recognition + earliest-Latin-American-Hague Convention clusters within the corpus."
+    "Ecuador jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Battle-of-Pichincha-to-Noboa trajectory: 1822-Battle-of-Pichincha-+-Ecuador-independence-+-Gran-Colombia + 1860-Civil-Code-Bello-influenced + 1990-UNCRC-ratification + 1992-Hague-Convention-1980-accession-earliest-Latin-American + 2000-Dollarisation + 2003-Children-and-Adolescents-Code + 2007-Rafael-Correa-+-Citizen-Revolution-+-21st-century-socialism + 2008-Constitution-+-Indigenous-Jurisdiction-+-Plurinational-state + 2023-Ecuador-security-crisis-+-Noboa-+-cartel-violence + 2024-Corte-Nacional-+-Corte-Constitucional.",
+    "Civil-law Andean South America (Civil Code Bello-derivative + Children and Adolescents Code 2003 + Constitution 2008 indigenous jurisdiction + Hague Convention 1980 accession 1992 — earliest Latin American).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Civil Code arts. 283-307 + Children and Adolescents Code 2003 art. 11 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Andean + civil-law + Bello-Civil-Code-derivative (with Chile, Colombia) + indigenous-jurisdiction-constitutional-recognition-art-171-Plurinational-state (with Bolivia) + earliest-Latin-American-Hague-Convention-1992 + Dollarisation-2000-Latin-American-distinctive (with El Salvador 2001) + Rafael-Correa-21st-century-socialism + Battle-of-Pichincha-1822-+-Gran-Colombia-1822-1830 + Ecuador-security-crisis-2018-onwards-+-drug-cartel-violence-2024-distinctive + Noboa-presidency-2023 clusters within the corpus."
   ]
 }

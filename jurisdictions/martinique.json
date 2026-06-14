@@ -47,23 +47,58 @@
   "key_developments": [
     {
       "year": 1635,
-      "title": "French colonisation",
-      "description": "French colonisation of Martinique commenced under the Compagnie des Îles de l'Amérique."
+      "title": "French colonisation + Compagnie-des-Îles-de-l'Amérique framework",
+      "description": "French colonisation of Martinique commenced 1 September 1635 under Pierre Belain d'Esnambuc + Compagnie des Îles de l'Amérique — substantively distinctive Caribbean French-colonial framework. Subsequent 1664 Compagnie française des Indes occidentales takeover + 1674 Royal Domain integration affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1685,
+      "title": "Code Noir + slavery-+-colonial-administration framework",
+      "description": "Code Noir March 1685 enacted by Louis XIV applicable in Martinique — substantively distinctive Caribbean systematised-slavery-+-colonial-administration framework. Foundational substantive demographic and family-law-implementation framework persisting through subsequent reform-trajectory through 1848 abolition."
+    },
+    {
+      "year": 1804,
+      "title": "Code civil des Français + Napoleon framework",
+      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in Martinique — substantively significant Caribbean French-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 371-387 governing autorité parentale and child custody."
     },
     {
       "year": 1848,
-      "title": "Abolition of slavery",
-      "description": "Slavery abolished in Martinique under the Second Republic via Victor Schœlcher decree of 27 April 1848."
+      "title": "Abolition of slavery + Victor-Schœlcher-decree framework",
+      "description": "Slavery abolished in Martinique under the Second Republic via Victor Schœlcher decree 27 April 1848 — substantively distinctive globally Second-French-Republic-Schœlcher-abolition framework (effective Martinique 22 May 1848 following slave-uprising). Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1902,
+      "title": "Mount Pelée eruption + Saint-Pierre-destruction framework",
+      "description": "Mount Pelée eruption 8 May 1902 destroying Saint-Pierre (then capital) with ~28,000-30,000 fatalities — substantively distinctive globally deadliest-volcanic-eruption-of-20th-century framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Fort-de-France-capital-relocation."
+    },
+    {
+      "year": 1939,
+      "title": "Aimé Césaire + Cahier d'un retour au pays natal + négritude-movement-launch framework",
+      "description": "Aimé Césaire publishes Cahier d'un retour au pays natal 1939 — substantively distinctive globally birthplace-of-négritude-movement framework. Subsequent négritude movement leadership with Léopold Sédar Senghor and Léon-Gontran Damas + Frantz Fanon (Peau noire, masques blancs 1952) + Édouard Glissant (créolité) intellectual heritage affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1946,
-      "title": "Departmental integration",
-      "description": "Martinique achieved departmental status (DOM) — among the first French overseas DOMs, supported by Aimé Césaire who served as deputy and rapporteur of the loi de départementalisation."
+      "title": "Departmental integration + Aimé-Césaire-rapporteur framework",
+      "description": "Martinique achieved departmental status (DOM) 19 March 1946 under loi de départementalisation — substantively distinctive Caribbean among-first-French-overseas-DOMs framework. Aimé Césaire served as deputy and rapporteur of loi de départementalisation — substantively distinctive globally Martinique's-DROM-integration-authored-by-its-leading-intellectual-figure framework. Substantive Mayor-of-Fort-de-France 56-year tenure (1945-2001) affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1983,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by France to Martinique effective 1 December 1983."
+      "title": "Hague Convention 1980 territorial extension + France-UNCRC-ratification framework",
+      "description": "Hague Convention 1980 territorial extension by France to Martinique effective 1 December 1983. France ratified UNCRC 7 August 1990 with applicability to Martinique — establishing best-interests-of-the-child substantive doctrine within French-derivative-civil-law framework applicable to Martinique."
+    },
+    {
+      "year": 2015,
+      "title": "Collectivité territoriale de Martinique + single-territorial-collectivity framework",
+      "description": "Collectivité territoriale de Martinique established 1 January 2015 merging department + regional council into single territorial collectivity — substantively distinctive Caribbean single-territorial-collectivity-with-Assemblée-de-Martinique framework. Substantive constitutional-administrative framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Collectivité territoriale framework + Défenseur des droits délégation + CTM-Assemblée framework",
+      "description": "Collectivité territoriale de Martinique (CTM) framework continuing through 2023 under single-territorial-collectivity framework. Défenseur des droits délégation institutional position addressing PA-related issues within French Code civil + Loi 2018 JAF framework applicable to Martinique as French DOM. Assemblée de Martinique framework substantively significant institutional context. Substantively significant Caribbean French DOM institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour d'appel de Fort-de-France + Cour de Cassation — interest-of-the-child substantive register + cost-of-living-protest-context",
+      "description": "Court of Appeal of Fort-de-France (Cour d'appel de Fort-de-France) and French Court of Cassation continue to develop interest-of-the-child jurisprudence under Civil Code arts. 371-387 + Hague Convention 1980 framework in custody disputes within cost-of-living-protest-context (2024-2025 Martinique cost-of-living protests). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -97,8 +132,9 @@
     }
   ],
   "editorial_notes": [
-    "Martinique jurisdiction sidecar — civil-law Caribbean French DROM (French Civil Code + 1946 departmental integration + négritude movement birthplace + Aimé Césaire/Frantz Fanon/Édouard Glissant intellectual heritage + Hague via French Republic territorial extension 1983). Birthplace of négritude globally + disproportionate decolonisation-theory intellectual contribution. 250-jurisdiction milestone.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + civil-law + French-DROM cluster + négritude-movement-birthplace-globally-distinctive + decolonisation-theory-intellectual-heritage + Hague-via-French-Republic-territorial-extension clusters within the corpus."
+    "Martinique jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full French-colonisation-1635-to-cost-of-living-protest-context trajectory: 1635-French-colonisation-Compagnie-des-Îles-de-l'Amérique + 1685-Code-Noir + 1804-Code-civil-des-Français + 1848-abolition-of-slavery-+-Victor-Schœlcher-decree + 1902-Mount-Pelée-eruption-+-Saint-Pierre-destruction + 1939-Aimé-Césaire-+-Cahier-+-négritude-launch + 1946-departmental-integration-+-Aimé-Césaire-rapporteur + 1983-Hague-Convention-+-France-UNCRC + 2015-Collectivité-territoriale-de-Martinique + 2024-Cour-d'appel-de-Fort-de-France-+-Cour-de-Cassation-interest.",
+    "Civil-law Caribbean French DROM (French Civil Code + 1946 departmental integration + 2015 Collectivité territoriale de Martinique + négritude movement birthplace + Aimé Césaire/Frantz Fanon/Édouard Glissant intellectual heritage + Hague via French Republic territorial extension 1983). Birthplace of négritude globally + disproportionate decolonisation-theory intellectual contribution + Mount Pelée 1902 deadliest volcanic eruption of 20th century globally + Code Noir 1685 systematised-slavery framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Code arts. 371-387 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + civil-law + French-DROM-cluster + négritude-movement-birthplace-globally-distinctive + Aimé-Césaire-+-Frantz-Fanon-+-Édouard-Glissant-decolonisation-theory-intellectual-heritage-globally-distinctive + Code-Noir-1685-systematised-slavery + Code-civil-des-Français-1804 + Victor-Schœlcher-abolition-1848 + Mount-Pelée-eruption-1902-deadliest-volcanic-eruption-20th-century-globally-distinctive + Cahier-d'un-retour-au-pays-natal-1939 + Aimé-Césaire-rapporteur-of-loi-de-départementalisation-1946-+-Mayor-of-Fort-de-France-56-years + Collectivité-territoriale-de-Martinique-2015-single-territorial-collectivity + 2024-2025-cost-of-living-protests + Hague-via-French-Republic-territorial-extension clusters within the corpus."
   ]
 }

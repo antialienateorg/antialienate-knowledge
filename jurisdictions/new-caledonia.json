@@ -60,34 +60,59 @@
   "anonymisation_convention": "New Caledonian family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1853,
+      "title": "French annexation of New Caledonia",
+      "description": "Admiral Auguste Febvrier-Despointes formally annexed New Caledonia for France on 24 September 1853 — beginning of French sovereignty + foundation for subsequent colonial-administrative-then-sui-generis framework."
+    },
+    {
+      "year": 1878,
+      "title": "Kanak Revolt of 1878 + colonial violence framework",
+      "description": "Kanak Revolt of 1878 led by Chief Ataï June-December 1878 — first major Kanak resistance to French colonisation — ~1,200 Kanak and ~200 French casualties — pivotal pre-modern foundation for subsequent Kanak indigenous-rights framework and modern customary-status framework consolidation."
+    },
+    {
+      "year": 1946,
+      "title": "Citizenship extension + colonial-to-overseas-territory transition",
+      "description": "French citizenship extended to all Kanak residents 1946 under post-WWII French Union framework — pivotal transition from colonial to overseas-territory framework + foundation for subsequent indigenous-rights consolidation."
+    },
+    {
       "year": 1983,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by France to New Caledonia effective 1 December 1983."
+      "description": "Hague Convention 1980 territorial extension by France to New Caledonia effective 1 December 1983 — applies to common-law civil-status (statut civil de droit commun) framework + bilateral framework with Kanak customary-status framework."
+    },
+    {
+      "year": 1988,
+      "title": "Matignon-Oudinot Accords",
+      "description": "Matignon-Oudinot Accords of 26 June 1988 between French government and pro-independence FLNKS and anti-independence RPCR — pivotal post-Ouvéa-cave-massacre framework establishing 10-year transitional autonomy framework + foundation for subsequent 1998 Nouméa Accord."
     },
     {
       "year": 1998,
       "title": "Nouméa Accord",
-      "description": "Nouméa Accord establishing path toward New Caledonian self-determination including constitutional Kanak customary-status recognition."
+      "description": "Nouméa Accord of 5 May 1998 establishing path toward New Caledonian self-determination including constitutional Kanak customary-status recognition — pivotal modern foundation framework for sui generis collectivity status + foundation for subsequent three independence referendums framework."
     },
     {
       "year": 1999,
       "title": "Statute of New Caledonia (Organic Law 99-209)",
-      "description": "Federal Organic Law implementing 1998 Nouméa Accord establishing New Caledonia's sui generis collectivity status with constitutionally-protected partial sovereignty."
+      "description": "Federal Organic Law 99-209 of 19 March 1999 implementing 1998 Nouméa Accord establishing New Caledonia's sui generis collectivity status with constitutionally-protected partial sovereignty — structurally distinctive globally only sui generis collectivity within French Republic with constitutionally-protected partial sovereignty and customary-status framework."
     },
     {
       "year": 2018,
-      "title": "Independence referendum — remain",
-      "description": "First independence referendum (2018) resulted in maintaining current status."
-    },
-    {
-      "year": 2020,
-      "title": "Independence referendum — remain",
-      "description": "Second independence referendum (2020) resulted in maintaining current status."
+      "title": "First independence referendum",
+      "description": "First independence referendum 4 November 2018 — 56.7% maintain current status / 43.3% independence — pivotal first of three Nouméa-Accord-mandated referendums."
     },
     {
       "year": 2021,
-      "title": "Independence referendum — remain",
-      "description": "Third independence referendum (2021) resulted in maintaining current status (boycotted by independence movement)."
+      "title": "Third independence referendum (boycotted)",
+      "description": "Third independence referendum 12 December 2021 — 96.5% maintain current status (boycotted by independence movement) — pivotal final Nouméa-Accord-mandated referendum + dispute over French government's refusal to delay referendum to mourning period for COVID-19 deaths."
+    },
+    {
+      "year": 2024,
+      "title": "Constitutional electoral reform unrest + Bougival Accord context",
+      "description": "May 2024 unrest in New Caledonia following French National Assembly Constitutional Bill electoral roll reform proposal — violent protests + 13 deaths + state of emergency + significant pivotal context for ongoing sui generis collectivity status framework + subsequent November-December 2024 Bougival Accord negotiations + continuing constitutional reform framework."
+    },
+    {
+      "year": 2024,
+      "title": "Cour d'appel de Nouméa + Cour de Cassation + customary-Kanak framework — interest-of-the-child substantive register",
+      "description": "Court of Appeal of Nouméa and French Court of Cassation continue to develop interest-of-the-child jurisprudence under Civil Code arts. 371-387 + Statute of Nouméa Accord 1998 + customary-Kanak framework (Civil Status of Personal Law) in custody disputes within continuing sui generis collectivity status framework. Substantive analysis without doctrinal 'parental alienation' label adoption — within French Pacific sui generis collectivity + dual personal-status (common Civil Code + customary Kanak) framework."
     }
   ],
   "structural_findings": [
@@ -118,7 +143,7 @@
     }
   ],
   "editorial_notes": [
-    "New Caledonia jurisdiction sidecar — civil-law Pacific French sui generis collectivity (French Civil Code + Statute of New Caledonia 1999 + constitutionally-recognised Kanak customary-status + customary Sessions + three independence referendums + Hague via French Republic territorial extension 1983). Only sui generis collectivity within French Republic globally.",
+    "New Caledonia jurisdiction sidecar v1.1 — civil-law Pacific French sui generis collectivity (1853 French annexation + 1878 Kanak Revolt Chief Ataï + 1946 French citizenship extension + 1983 Hague Convention territorial extension + 1988 Matignon-Oudinot Accords + 1998 Nouméa Accord + 1999 Organic Law 99-209 + 2018 first independence referendum + 2021 third referendum + 2024 constitutional electoral reform unrest + Bougival Accord context). Only sui generis collectivity within French Republic globally with constitutionally-protected partial sovereignty + Kanak customary-status framework + three Nouméa-Accord-mandated independence referendums all maintaining current status + 2024 unrest 13-death state-of-emergency context.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins Pacific Island + French-civil-law + sui-generis-collectivity-globally-distinctive cluster + Kanak-customary-status-constitutional-recognition + Hague-via-French-Republic-territorial-extension clusters within the corpus."
   ]

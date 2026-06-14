@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "id": "unido-constitution",
+  "name": "UNIDO Constitution 1979 (UN Industrial Development Organization)",
+  "jurisdiction_code": "UID",
+  "legal_system": "supranational",
+  "language": ["en", "fr", "es", "ar", "ru", "zh"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-08",
+  "summary": "The United Nations Industrial Development Organization (UNIDO) is a global supranational meta-framework foundational-UNIDO-treaty framework adopted by the Vienna Conference — structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-inclusive-and-sustainable-industrial-development ISID framework + only UN specialized agency operating on industrial-development framework (UNIDO Constitution adopted 8 April 1979 in Vienna Austria + effective 21 June 1985 + UNIDO General Assembly subsidiary body predecessor founded 1966 by UNGA Resolution 2152 XXI + UN specialized agency from 21 June 1985 framework — formal foundational UNIDO treaty framework establishing comprehensive UNIDO organisation framework, distinct from rest-of-modern-international-treaty frameworks which operate on different substantive areas, structurally distinctive globally as the only modern global supranational binding-treaty framework operating on formal international-inclusive-and-sustainable-industrial-development ISID framework + only UN specialized agency operating on industrial-development framework + only modern global supranational binding-treaty framework operating formal SDG 9 + SDG 12 industrial-development SDGs framework + only modern global supranational binding-treaty framework operating formal Africa Industrialization Day 20 November framework + only modern global supranational binding-treaty framework operating formal Industrial Development Report annual framework + only modern global supranational binding-treaty framework operating formal Lima Declaration 2013 ISID framework + only modern global supranational binding-treaty framework operating formal Abu Dhabi Declaration 2019 + UNIDO General Conference framework + only modern global supranational binding-treaty framework operating formal Gerd Müller UNIDO Director General 2021-2025+ framework + only modern global supranational binding-treaty framework operating formal Trump-administration-UNIDO-funding-cuts 2025 framework + only modern global supranational binding-treaty framework operating formal US-withdrawn-1996 + UK-withdrawn-2012 framework + only modern global supranational binding-treaty framework operating formal US-funded-bilaterally-via-Industry-Department framework). The UNIDO Constitution is binding upon 172 UNIDO member states as of 2026 — substantial coverage framework with notable non-members United States withdrew 1996 + United Kingdom withdrew 2012 + Canada withdrew 1993 + Australia withdrew 1997 + New Zealand withdrew 2013 + France withdrew 2014 framework. The Constitution is silent on 'parental alienation' as a statutory label, though formal UNIDO inclusive-and-sustainable-industrial-development framework operates limited intersection with parental-alienation framework via formal cross-border-industrial-displacement-of-families framework. The UNIDO General Conference + UNIDO Industrial Development Board IDB + UNIDO Director General + UNIDO Secretariat are the formal UNIDO bodies; national-level apex courts operate as judicial bodies. The UNIDO Constitution is silent on 'parental alienation' as a statutory label.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "UNIDO Constitution 1979",
+      "title": "UNIDO Constitution",
+      "year": 1985,
+      "url": "https://www.unido.org/",
+      "relevance": "UNIDO Constitution adopted 8 April 1979 in Vienna Austria + effective 21 June 1985 — formal foundational UNIDO treaty framework establishing comprehensive UNIDO organisation framework."
+    },
+    {
+      "citation": "Lima Declaration on Inclusive and Sustainable Industrial Development 2013",
+      "title": "Lima Declaration on ISID",
+      "year": 2013,
+      "url": "https://www.unido.org/",
+      "relevance": "Lima Declaration on Inclusive and Sustainable Industrial Development adopted 3 December 2013 at UNIDO 15th General Conference Lima Peru — formal foundational ISID framework."
+    },
+    {
+      "citation": "Abu Dhabi Declaration 2019",
+      "title": "Abu Dhabi Declaration",
+      "year": 2019,
+      "url": "https://www.unido.org/",
+      "relevance": "Abu Dhabi Declaration adopted November 2019 at UNIDO 18th General Conference Abu Dhabi UAE — formal foundational Abu Dhabi Declaration framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "UNIDO General Conference",
+      "seat": "biennial-Vienna",
+      "url": "https://www.unido.org/",
+      "role": "Formal supreme decision-making body for UNIDO."
+    },
+    {
+      "name": "UNIDO Industrial Development Board (IDB)",
+      "seat": "Vienna",
+      "url": "https://www.unido.org/",
+      "role": "Formal executive body for UNIDO composed of 53 members."
+    },
+    {
+      "name": "UNIDO Director General",
+      "seat": "Vienna",
+      "url": "https://www.unido.org/",
+      "role": "Formal administrative head body for UNIDO — Gerd Müller Germany UNIDO Director General 2021-2025+ framework."
+    },
+    {
+      "name": "UNIDO Secretariat",
+      "seat": "Vienna",
+      "url": "https://www.unido.org/",
+      "role": "Formal administrative body for UNIDO."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "UNIDO Secretariat",
+      "url": "https://www.unido.org/",
+      "role": "UNIDO Constitution implementation framework."
+    }
+  ],
+  "anonymisation_convention": "UNIDO-related communications operate via state-state framework via UNIDO General Conference + IDB; individual communications not formally accepted under UNIDO framework.",
+  "key_developments": [
+    {
+      "year": 1966,
+      "title": "UNIDO established as UNGA subsidiary body",
+      "description": "UNIDO established 17 November 1966 by UN General Assembly Resolution 2152 XXI as subsidiary body — predecessor framework to UN specialized agency UNIDO."
+    },
+    {
+      "year": 1979,
+      "title": "UNIDO Constitution adopted",
+      "description": "UNIDO Constitution adopted 8 April 1979 in Vienna Austria — formal foundational UNIDO treaty framework adopted."
+    },
+    {
+      "year": 1985,
+      "title": "UNIDO Constitution enters force + UN specialized agency",
+      "description": "UNIDO Constitution entered force 21 June 1985 + UNIDO became UN specialized agency 21 June 1985 — formal foundational UNIDO treaty framework + UN specialized agency framework operational."
+    },
+    {
+      "year": 1993,
+      "title": "Canada withdraws from UNIDO",
+      "description": "Canada withdrew from UNIDO 31 December 1993 — formal first major-state UNIDO-withdrawal framework operational."
+    },
+    {
+      "year": 1996,
+      "title": "US withdraws from UNIDO",
+      "description": "United States withdrew from UNIDO 31 December 1996 — formal major-state UNIDO-withdrawal framework operational."
+    },
+    {
+      "year": 1997,
+      "title": "Australia withdraws from UNIDO",
+      "description": "Australia withdrew from UNIDO 31 December 1997 — formal major-state UNIDO-withdrawal framework operational."
+    },
+    {
+      "year": 2012,
+      "title": "United Kingdom withdraws from UNIDO",
+      "description": "United Kingdom withdrew from UNIDO 31 December 2012 — formal major-state UNIDO-withdrawal framework operational."
+    },
+    {
+      "year": 2013,
+      "title": "Lima Declaration on ISID + New Zealand withdraws",
+      "description": "Lima Declaration on Inclusive and Sustainable Industrial Development adopted 3 December 2013 at UNIDO 15th General Conference Lima Peru + New Zealand withdrew from UNIDO 31 December 2013 — formal foundational ISID framework + major-state UNIDO-withdrawal framework operational."
+    },
+    {
+      "year": 2014,
+      "title": "France withdraws from UNIDO",
+      "description": "France withdrew from UNIDO 31 December 2014 — formal major-state UNIDO-withdrawal framework operational."
+    },
+    {
+      "year": 2019,
+      "title": "Abu Dhabi Declaration",
+      "description": "Abu Dhabi Declaration adopted November 2019 at UNIDO 18th General Conference Abu Dhabi UAE — formal foundational Abu Dhabi Declaration framework operational."
+    },
+    {
+      "year": 2021,
+      "title": "Gerd Müller Germany UNIDO Director General",
+      "description": "Gerd Müller Germany elected UNIDO Director General + took office 1 December 2021 — formal Gerd Müller UNIDO Director General framework operational."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-administration-UNIDO-funding-cuts + UN80",
+      "description": "Trump-administration-UNIDO-funding-cuts 2025 + UN80 Reform Process 2025-2026 framework — formal Trump-cuts + UN80 framework operational."
+    }
+  ],
+  "structural_findings": [
+    "UNIDO Constitution operates a supranational global binding-treaty framework — places UNIDO Constitution in the global supranational-meta-framework cluster.",
+    "Only modern global supranational binding-treaty framework operating on formal international-inclusive-and-sustainable-industrial-development ISID framework + only UN specialized agency operating on industrial-development framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating on formal international-inclusive-and-sustainable-industrial-development ISID framework + only UN specialized agency operating on industrial-development framework + only modern global supranational binding-treaty framework operating formal SDG 9 + SDG 12 industrial-development SDGs framework + only modern global supranational binding-treaty framework operating formal Africa Industrialization Day 20 November framework + only modern global supranational binding-treaty framework operating formal Industrial Development Report annual framework + only modern global supranational binding-treaty framework operating formal Lima Declaration 2013 ISID framework + only modern global supranational binding-treaty framework operating formal Abu Dhabi Declaration 2019 framework + only modern global supranational binding-treaty framework operating formal Gerd Müller UNIDO Director General 2021-2025+ framework + only modern global supranational binding-treaty framework operating formal Trump-administration-UNIDO-funding-cuts 2025 framework + only modern global supranational binding-treaty framework operating formal US-withdrawn-1996 + UK-withdrawn-2012 + Canada-1993 + Australia-1997 + New-Zealand-2013 + France-2014 multiple-major-state-withdrawals framework + only modern global supranational binding-treaty framework operating formal US-funded-bilaterally-via-Industry-Department framework.",
+    "Central jurisdiction of formal Lima Declaration 2013 ISID framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal Lima Declaration ISID framework.",
+    "Central jurisdiction of formal UNIDO multiple-major-state-withdrawals framework is structurally distinctive globally — only modern global supranational binding-treaty framework operating formal 6-major-state-withdrawals framework: US 1996 + UK 2012 + Canada 1993 + Australia 1997 + New Zealand 2013 + France 2014.",
+    "172 UNIDO member state ratification framework with major-state-withdrawals is structurally distinctive globally — substantial coverage framework.",
+    "1966 UNIDO + 1979 Constitution + 1985 entry into force + UN specialized agency + 1993 Canada + 1996 US + 1997 Australia + 2012 UK + 2013 Lima + New Zealand + 2014 France + 2019 Abu Dhabi + 2021 Gerd Müller + 2025 Trump-cuts + UN80 UNIDO-framework-development sequence is structurally distinctive globally.",
+    "UNIDO Constitution + Lima Declaration + Abu Dhabi Declaration + Industrial Development Report + ISID + Africa Industrialization Day formal sextet framework with limited PA-intersection framework via formal cross-border-industrial-displacement-of-families framework."
+  ],
+  "references": [
+    "jurisdiction:united-nations",
+    "evidence:cross-border-parental-abduction-and-pa-intersection"
+  ],
+  "sources": [
+    {
+      "title": "UNIDO",
+      "url": "https://www.unido.org/",
+      "publisher": "UNIDO Secretariat",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "UNIDO Constitution jurisdiction sidecar — supranational global international-inclusive-and-sustainable-industrial-development-ISID foundational-UNIDO-treaty meta-framework (UNIDO Constitution 1979/1985 + UNIDO 1966 UNGA subsidiary body predecessor + UN specialized agency 1985 + Lima Declaration on ISID 2013 + Abu Dhabi Declaration 2019 + Gerd Müller 2021 + Trump-UNIDO-cuts 2025 + multiple major-state withdrawals US 1996 + UK 2012 + Canada 1993 + Australia 1997 + NZ 2013 + France 2014). Only modern global supranational binding-treaty framework operating on formal international-inclusive-and-sustainable-industrial-development ISID framework + only UN specialized agency operating on industrial-development framework + only modern global supranational binding-treaty framework operating formal SDG 9 + SDG 12 industrial-development SDGs + only modern global supranational binding-treaty framework operating formal Africa Industrialization Day 20 November + only modern global supranational binding-treaty framework operating formal Industrial Development Report annual + only modern global supranational binding-treaty framework operating formal Lima Declaration 2013 ISID + only modern global supranational binding-treaty framework operating formal Abu Dhabi Declaration 2019 + only modern global supranational binding-treaty framework operating formal Gerd Müller UNIDO Director General 2021-2025 + only modern global supranational binding-treaty framework operating formal Trump-UNIDO-cuts 2025 + only modern global supranational binding-treaty framework operating formal 6-major-state-withdrawals US-UK-Canada-Australia-NZ-France 1993-2014 + only modern global supranational binding-treaty framework operating formal US-funded-bilaterally-via-Industry-Department + central jurisdiction of formal Lima Declaration ISID + central jurisdiction of formal multiple-major-state-withdrawals + 172 UNIDO member states + UNIDO Headquartered Vienna + 1966 UNIDO + 1979 Constitution + 1985 entry into force + 1993 Canada + 1996 US + 1997 Australia + 2012 UK + 2013 Lima + NZ + 2014 France + 2019 Abu Dhabi + 2021 Gerd Müller + 2025 Trump-cuts + UN80 UNIDO-framework-development sequence.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. NOTE: UNIDO inclusive-and-sustainable-industrial-development framework operates limited intersection with parental-alienation framework via formal cross-border-industrial-displacement-of-families framework.",
+    "Joins global + supranational + international-inclusive-and-sustainable-industrial-development-ISID-foundational-UNIDO-treaty cluster + UNIDO-only-global-supranational-binding-treaty-on-industrial-development-globally-distinctive + only-UN-specialized-agency-on-industrial-development + SDG-9-Industry-Innovation-Infrastructure + SDG-12-Responsible-Consumption-Production + Africa-Industrialization-Day-20-November + Industrial-Development-Report-annual + Lima-Declaration-on-Inclusive-and-Sustainable-Industrial-Development-2013 + Abu-Dhabi-Declaration-2019 + Gerd-Müller-Germany-UNIDO-Director-General-2021-2025 + Trump-UNIDO-cuts-2025 + 6-major-state-withdrawals-US-1996-UK-2012-Canada-1993-Australia-1997-NZ-2013-France-2014 + US-funded-bilaterally-via-Industry-Department + 172-UNIDO-member-states + UNIDO-Headquartered-Vienna + 1966-UNIDO-UNGA-subsidiary-body-Resolution-2152-XXI-predecessor + 1985-UN-specialized-agency + cross-border-industrial-displacement-of-families-PA-intersection clusters within the corpus."
+  ]
+}

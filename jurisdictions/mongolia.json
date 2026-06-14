@@ -53,25 +53,67 @@
   "anonymisation_convention": "Mongolian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1206,
+      "title": "Yeke Mongol Ulus + Yassa framework",
+      "description": "Genghis Khan proclaimed Yeke Mongol Ulus (Great Mongol State) at 1206 Khuriltai — promulgated Yassa (Mongol Imperial Code) codifying customary-law framework including kinship + parental authority + child protection. Pivotal medieval foundation framework predating modern Mongolian civil-law evolution + structurally significant pre-modern East Asian legal-framework foundation."
+    },
+    {
+      "year": 1921,
+      "title": "Mongolian People's Republic founding + Soviet-era framework",
+      "description": "Mongolian People's Republic founded 26 November 1924 (following 1921 People's Revolution) — Soviet-aligned socialist republic 1924-1990 — Mongolian Constitution 1940 + 1960 + 1992 framework evolution. Pivotal modern state-formation framework foundation predating subsequent 1990 democratic transition framework + foundation for subsequent post-Soviet civil-law evolution."
+    },
+    {
+      "year": 1990,
+      "title": "Mongolia ratifies UN Convention on the Rights of the Child",
+      "description": "Mongolia ratified the UNCRC on 5 July 1990, among the earliest state parties — one year after CRC adoption 20 November 1989. The UNCRC ratification framed the post-communist family-law-reform trajectory toward best-interest-of-the-child substantive doctrine."
+    },
+    {
+      "year": 1992,
+      "title": "Constitution of Mongolia (1992) — family protection clauses",
+      "description": "Mongolia's democratic Constitution adopted 13 January 1992 establishes parliamentary republic framework and codifies family-protection-clauses in Art. 16 (right to safe and healthy environment) and Art. 17 (citizen rights/duties), forming the constitutional anchor for post-communist family-law jurisprudence including parental rights and child custody."
+    },
+    {
       "year": 1999,
       "title": "Family Law of Mongolia enacted",
-      "description": "Federal family-law statute enacted replacing prior Soviet-era code."
+      "description": "Federal family-law statute (Law No. 71 of 1999) enacted 11 June 1999 replacing prior Soviet-era code. The 1999 Family Law codifies marriage, divorce, parental rights, child custody (arts. 24-37), maintenance, adoption, and guardianship within the post-Soviet civil-law framework."
+    },
+    {
+      "year": 2002,
+      "title": "Civil Code of Mongolia enacted + post-Soviet civil-codification framework",
+      "description": "Civil Code of Mongolia (Иргэний хууль) enacted 10 January 2002 + effective 1 September 2002 replacing 1994 Civil Code + post-Soviet civil-law-codification framework — substantively significant Mongolian post-Soviet civil-law modernisation framework. Substantive Civil Code 2002 framework codifying contract + property + family-adjacent + tort + inheritance frameworks in modern civil-law structure + foundation for subsequent 2016 Children's Rights Law + 2019 Family Law revision + 2024 Supreme Court family-law substantive register. Structurally distinctive within post-Soviet Central Asian civil-law modernisation cluster alongside Russia (1994/1995 Civil Code Parts I/II), Kazakhstan (1994 Civil Code), and Uzbekistan (1996 Civil Code) frameworks."
+    },
+    {
+      "year": 2008,
+      "title": "Mongolia signs the Hague Convention on the International Recovery of Child Support 2007",
+      "description": "Mongolia became a signatory to the Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007 — illustrating selective Hague-instrument engagement focused on cross-border-maintenance rather than the 1980 Child Abduction Convention which Mongolia has not joined."
     },
     {
       "year": 2016,
       "title": "Law on the Rights of the Child",
-      "description": "Federal children's-rights statute aligned with UNCRC."
+      "description": "Federal children's-rights statute (Law of 5 February 2016) aligned with UNCRC obligations, codifying child-protection, child-development, and child-participation principles. Operates alongside the Family Law to provide the substantive best-interest-of-the-child grounding for custody and visitation rulings."
+    },
+    {
+      "year": 2016,
+      "title": "Law on Combating Domestic Violence (revised)",
+      "description": "Federal anti-DV law substantively revised 2016 establishing protection orders, multi-disciplinary response teams, and explicit recognition of psychological violence within the family unit. The law substantively reaches inter-parental conduct affecting children but operates parallel to — not as a replacement of — the Family Law custody framework."
     },
     {
       "year": 2019,
       "title": "Family Law revision",
-      "description": "Substantive revision of Family Law provisions on parental rights and custody."
+      "description": "Substantive revision of Family Law provisions on parental rights, custody, child support, and visitation — modernising the 1999 framework with explicit best-interest-of-the-child criteria and updated procedural rules for District (Sum) Court family proceedings."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court Family Chamber — best-interest substantive register",
+      "description": "Supreme Court of Mongolia continues to develop best-interest-of-the-child jurisprudence within the civil-law framework, addressing custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. The substantive analysis focuses on the child's interest under Family Law art. 25 and parental rights under arts. 24-37."
     }
   ],
   "structural_findings": [
-    "Mongolia operates a civil-law framework rooted in post-Soviet legal-transition family-law reform — Family Law 1999 (revised 2019) replaced Soviet-era code.",
-    "Non-Hague Convention status places Mongolia in the non-Hague East Asian cluster.",
-    "Psychology profession regulation operates through Ministry of Health framework + MPA peak body — lacks unified federal-statutory psychology regulator."
+    "Mongolia operates a civil-law framework rooted in post-Soviet legal-transition family-law reform — Family Law 1999 (revised 2019) replaced Soviet-era code, anchored by the democratic Constitution of 1992 and CRC ratification 1990.",
+    "Non-Hague-1980-Abduction-Convention status places Mongolia in the non-Hague-1980-East-Asian cluster alongside China, Vietnam, North Korea, and the Central Asian republics; however, Mongolia has engaged with the Hague-2007-Child-Support-Convention as a signatory — illustrating selective-Hague-engagement pattern.",
+    "Three-layer constitutional + statutory framework: Constitution 1992 family-protection-anchor + Family Law 1999 (revised 2019) codified-custody-framework + Law on Rights of the Child 2016 CRC-aligned-welfare-anchor — supplemented by the revised Law on Combating Domestic Violence 2016 anti-DV layer.",
+    "Psychology profession regulation operates through Ministry of Health framework + MPA peak body — lacks unified federal-statutory psychology regulator with disciplinary authority (similar pattern to several post-Soviet Central Asian jurisdictions).",
+    "Post-1990 democratic-transition trajectory: 1990 CRC-ratification → 1992 democratic-Constitution → 1999 Family-Law → 2016 Child-Rights-Law + DV-Law-revision → 2019 Family-Law-revision — gradual modernisation within civil-law framework."
   ],
   "references": [
     "jurisdiction:south-korea",
@@ -100,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Mongolia jurisdiction sidecar — civil-law framework. Family Law 1999 (revised 2019) + Law on Rights of the Child 2016 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central/East Asian + civil-law + post-Soviet-transition + non-Hague Convention clusters within the corpus."
+    "Mongolia jurisdiction sidecar v1.2 — deepened from 3 to 10 key_developments with comprehensive medieval-to-modern timeline: Yeke-Mongol-Ulus-1206 + Mongolian-People's-Republic-1921 + CRC-1990 + Constitution-1992 + Family-Law-1999 + Hague-2007-Child-Support-signatory-2008 + Child-Rights-Law-2016 + DV-Law-revision-2016 + Family-Law-revision-2019 + Supreme-Court-best-interest-2024.",
+    "Post-Soviet democratic-transition civil-law framework + selective-Hague-engagement pattern (2007 Child Support signatory but non-Hague-1980-Abduction-Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interest-of-the-child analysis under Family Law art. 25 without doctrinal 'parental alienation' label.",
+    "Joins Central-Asian + East-Asian + civil-law + post-Soviet-transition + non-Hague-1980-East-Asian + selective-Hague-engagement clusters within the corpus."
   ]
 }

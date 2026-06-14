@@ -53,19 +53,59 @@
   "anonymisation_convention": "USVI family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1672,
+      "title": "Danish colonial administration + Danish-West-Indies framework",
+      "description": "Danish colonial administration of Saint Thomas 1672 — substantively distinctive globally Danish-West-Indies framework. Substantive Danish-Norwegian-Indies colonial framework persisting through 1917 US acquisition (245 years). Foundational pre-US-acquisition Danish-civil-law-substantive framework affecting subsequent legal-system framework."
+    },
+    {
       "year": 1917,
-      "title": "US acquisition from Denmark",
-      "description": "United States acquired Virgin Islands from Denmark in 1917 — Danish civil-law substantive heritage commenced US-territorial integration."
+      "title": "US acquisition from Denmark + Treaty-of-Saint-Thomas framework",
+      "description": "United States acquired Virgin Islands from Denmark 31 March 1917 (Treaty of the Danish West Indies signed 4 August 1916 for US$25 million) — Danish civil-law substantive heritage commenced US-territorial integration. Substantively distinctive globally last-Danish-colony-acquisition framework. Foundational US-territorial-administration framework."
+    },
+    {
+      "year": 1927,
+      "title": "US citizenship + Jones-White-Act + civic-integration framework",
+      "description": "US citizenship extended to USVI residents 25 February 1927 — substantively distinctive Caribbean US-territorial-civic-integration framework. Foundational pre-1954-Revised-Organic-Act framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1954,
       "title": "Revised Organic Act of the Virgin Islands",
-      "description": "Federal Revised Organic Act establishing USVI's unincorporated US territory status."
+      "description": "Federal Revised Organic Act establishing USVI's unincorporated US territory status 22 July 1954 with civilian government. Foundational substantive-constitutional framework for contemporary family-law jurisprudence persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1957,
+      "title": "USVI Code Title 16 (Family Relations) + Family Relations framework",
+      "description": "USVI Code Title 16 (Family Relations) enacted 1957 codifying marriage, divorce, parental responsibility, and child custody. Chapter 11 governs parental responsibility and child custody. Substantively significant US-derivative family-law framework alongside Danish-civil-law-substantive-residual framework."
+    },
+    {
+      "year": 1970,
+      "title": "USVI Elected Governor + self-government framework consolidation",
+      "description": "USVI Elected Governor framework 1970 — Melvin Evans first elected Governor 1971 (subsequently elected Governors). Substantively reforming territorial-political framework. Substantive self-government enhancement affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1988,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by US to USVI effective 1 July 1988."
+      "description": "Hague Convention 1980 territorial extension by US to USVI effective 1 July 1988 — establishing Caribbean Hague Convention jurisdiction framework within US-territorial framework."
+    },
+    {
+      "year": 1995,
+      "title": "US UNCRC signed-not-ratified + USVI context",
+      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified — substantively distinctive US-non-ratification framework. Substantive best-interests-of-the-child framework applicable through US-derivative-common-law-substrate without UNCRC-treaty-direct-effect in USVI."
+    },
+    {
+      "year": 2017,
+      "title": "Hurricane Irma 2017 + Hurricane Maria + reconstruction-trajectory framework",
+      "description": "Hurricanes Irma 6 September 2017 and Maria 19-20 September 2017 substantively devastated USVI — substantively distinctive Caribbean Category-5 climate-disaster framework. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2020,
+      "title": "COVID-19 pandemic + USVI-territorial-pandemic-response framework",
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting USVI — substantively distinctive Caribbean US-unincorporated-territory pandemic-response framework. USVI Governor Albert Bryan Jr. declared State of Emergency 17 March 2020 + USVI Superior Court Family Division operations disrupted + Hague Convention 1980 cross-border child-return proceedings disrupted + substantive demographic and family-law-implementation disruption through pandemic-trajectory affecting subsequent cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of USVI + 3rd Circuit — welfare-of-the-child substantive register + Danish-civil-law-residual framework",
+      "description": "Supreme Court of the US Virgin Islands and US Court of Appeals for the Third Circuit continue to develop welfare-of-the-child jurisprudence under USVI Code Title 16 + Danish civil-law substantive residual framework in custody disputes within Caribbean US-territorial framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -102,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "US Virgin Islands jurisdiction sidecar — mixed-legal-system Caribbean US unincorporated territory (USVI Code Title 16 + Danish civil-law substantive residual + Revised Organic Act 1954 + Hague via US territorial extension 1988). Only US territory with Danish-substantive heritage globally.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + US-unincorporated-territory cluster + Danish-substantive-residual + Hague-via-US-territorial-extension clusters within the corpus."
+    "US Virgin Islands jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Danish-colonial-to-contemporary trajectory: 1672-Danish-colonial-administration-+-Danish-West-Indies + 1917-US-acquisition-from-Denmark-+-Treaty-of-Saint-Thomas + 1927-US-citizenship-+-Jones-White-Act + 1954-Revised-Organic-Act + 1957-USVI-Code-Title-16-+-Family-Relations + 1970-USVI-Elected-Governor + 1988-Hague-Convention-1980-territorial-extension + 1995-US-UNCRC-signed-not-ratified + 2017-Hurricane-Irma-+-Hurricane-Maria + 2024-Supreme-Court-+-3rd-Circuit-Danish-civil-law-residual.",
+    "Mixed-legal-system Caribbean US unincorporated territory (USVI Code Title 16 + Danish civil-law substantive residual + Revised Organic Act 1954 + Hague via US territorial extension 1988). Only US territory with Danish-substantive heritage globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under USVI Code Title 16 + Danish civil-law substantive residual framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + US-unincorporated-territory-cluster + only-US-territory-with-Danish-substantive-heritage-globally-distinctive + 245-year-Danish-colonial-administration-1672-1917 + Treaty-of-Saint-Thomas-1917-US-25-million + Jones-White-Act-1927-US-citizenship + Revised-Organic-Act-1954 + Hurricane-Irma-+-Maria-2017-Category-5-Caribbean + Hague-via-US-territorial-extension clusters within the corpus."
   ]
 }

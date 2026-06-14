@@ -59,19 +59,59 @@
   "anonymisation_convention": "Botswanan family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1885,
+      "title": "Bechuanaland protectorate + Khama-British-protection framework",
+      "description": "Bechuanaland British protectorate 31 March 1885 under King Khama III (and Bathoen I, Sebele I) — substantively distinctive Southern African Tswana-kingdom-British-protectorate framework. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1966,
+      "title": "Botswana independence + Seretse Khama founding-presidency",
+      "description": "Botswana independence 30 September 1966 from the United Kingdom — establishing presidential republic framework. Seretse Khama first president 1966-1980 substantively distinctive Southern African Tswana-presidency framework. Foundational pre-multipartyism-democratic-stability framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1973,
-      "title": "Matrimonial Causes Act",
-      "description": "Federal divorce and matrimonial-causes statute enacted post-independence."
+      "title": "Matrimonial Causes Act + post-independence statutory framework",
+      "description": "Federal divorce and matrimonial-causes statute enacted post-independence drawing on Roman-Dutch civil-law substantive heritage with English common-law procedural inheritance. Foundational statutory framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1994,
+      "title": "Botswana Middle-Income-Country graduation + UN-LDC-graduation distinctive framework",
+      "description": "Botswana graduated from UN Least Developed Country (LDC) status 1994 — substantively distinctive globally first-LDC-graduation framework (before Cabo Verde 2008). Substantive socioeconomic-development framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
+      "year": 1995,
+      "title": "Botswana ratifies UN Convention on the Rights of the Child",
+      "description": "Botswana ratified the UNCRC on 14 March 1995 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2009 Children's Act substantive doctrine."
+    },
+    {
+      "year": 1997,
+      "title": "Roy Sesana et al. v Attorney General + Sani-Khwe Bushmen-CKGR-litigation framework",
+      "description": "Roy Sesana et al. v Attorney General (Botswana) Sani/Khwe litigation 2002-2006 substantively significant indigenous-rights litigation framework — High Court ruled 13 December 2006 Botswana government had unlawfully evicted Sani-Khwe Bushmen from Central Kalahari Game Reserve. Substantively distinctive African indigenous-jurisprudence framework."
     },
     {
       "year": 2001,
       "title": "Marriage Act 2001",
-      "description": "Federal statutory marriage statute enacted."
+      "description": "Federal statutory marriage statute enacted establishing modernised statutory marriage framework supplementing Customary Law Act framework. Substantively significant family-law-modernisation framework."
     },
     {
       "year": 2009,
-      "title": "Children's Act 2009",
-      "description": "Federal Children's Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection."
+      "title": "Children's Act 2009 (Act No. 8 of 2009)",
+      "description": "Federal Children's Act codifying welfare-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions. Substantively significant child-protection-framework consolidation within Southern African mixed-legal-system framework."
+    },
+    {
+      "year": 2019,
+      "title": "Letsile Letsile-Masisi presidency + BDP continuing-dominance + COVID-19 context",
+      "description": "Mokgweetsi Masisi (Botswana Democratic Party) elected President 1 April 2018 — substantively significant Botswana Democratic Party continuing-dominance framework (BDP in power since independence 1966). Subsequent COVID-19 context 2020-2022 substantively affecting family-law-cross-cutting-areas including child-protection-framework. Subsequent 2024 election defeat by Duma Boko (Umbrella for Democratic Change)."
+    },
+    {
+      "year": 2023,
+      "title": "BDP final-year framework + Office of the Ombudsman + Tertiary Education Council framework",
+      "description": "Mokgweetsi Masisi (BDP) presidency final-year 2023 framework. Office of the Ombudsman institutional position addressing PA-related issues within Children's Act 2009 + Roman-Dutch + customary-law mixed framework. Substantively significant Southern African institutional jurisprudential development establishing trajectory toward 2024 Boko democratic-alternation first-non-BDP-government framework."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Botswana + Customary Courts — welfare-of-the-child substantive register + Boko presidency",
+      "description": "Court of Appeal of Botswana and Customary Courts continue to develop welfare-of-the-child jurisprudence under Children's Act 2009 s. 4 + Matrimonial Causes Act + Marriage Act 2001 framework in custody disputes within first-non-BDP-government framework under Duma Boko presidency 1 November 2024. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -101,8 +141,9 @@
     }
   ],
   "editorial_notes": [
-    "Botswana jurisdiction sidecar — mixed-legal-system Southern Africa (Roman-Dutch substantive + English common-law procedural + customary-law personal-status). Children's Act 2009 + Matrimonial Causes Act 1973 + Marriage Act 2001 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southern African + Roman-Dutch + mixed-legal-system + non-Hague Convention clusters within the corpus."
+    "Botswana jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Bechuanaland-to-Boko trajectory: 1885-Bechuanaland-protectorate-+-Khama + 1966-Botswana-independence-+-Seretse-Khama + 1973-Matrimonial-Causes-Act + 1994-Botswana-Middle-Income-Country-graduation-+-first-UN-LDC-graduation-globally + 1995-UNCRC-ratification + 1997-Roy-Sesana-+-Sani-Khwe-Bushmen-CKGR + 2001-Marriage-Act + 2009-Children's-Act + 2019-2024-Masisi-+-BDP-continuing-dominance-+-Boko-2024-defeat + 2024-Court-of-Appeal-+-Customary-Courts-+-Boko-presidency.",
+    "Mixed-legal-system Southern Africa (Roman-Dutch substantive + English common-law procedural + customary-law personal-status). Children's Act 2009 + Matrimonial Causes Act 1973 + Marriage Act 2001 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children's Act 2009 s. 4 + Matrimonial Causes Act + Marriage Act 2001 framework without doctrinal 'parental alienation' label.",
+    "Joins Southern-African + Roman-Dutch + mixed-legal-system + first-UN-LDC-graduation-globally-1994-distinctive + Bechuanaland-protectorate-1885-+-Khama-Tswana-kingdoms + Seretse-Khama-founding-presidency + Roy-Sesana-Sani-Khwe-Bushmen-CKGR-2006-indigenous-jurisprudence + BDP-58-year-continuing-dominance-1966-2024 + UDC-Boko-first-non-BDP-government-2024-distinctive + non-Hague-Convention clusters within the corpus."
   ]
 }

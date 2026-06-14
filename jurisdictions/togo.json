@@ -53,14 +53,59 @@
   "anonymisation_convention": "Togolese family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Togo independence + Gnassingbé Eyadéma presidency context",
+      "description": "Togo achieved independence 27 April 1960 from France. Pre-1960 French civil-law framework substantively retained as foundational legal-system substrate. Subsequent Gnassingbé Eyadéma presidency 1967-2005 (38 years — among longest African presidencies) substantially affected political-institutional framework."
+    },
+    {
+      "year": 1990,
+      "title": "Togo ratifies UN Convention on the Rights of the Child",
+      "description": "Togo ratified the UNCRC on 1 August 1990 — among the early African ratifications globally. Framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine."
+    },
+    {
+      "year": 1992,
+      "title": "Constitution of the Fourth Republic 1992 + multi-party transition",
+      "description": "Constitution of the Fourth Republic adopted by referendum 27 September 1992 (substantially amended 2002, 2019) — establishing semi-presidential republic framework with codified family-protection and children's-rights provisions. Foundational constitutional anchor for subsequent codified family-law jurisprudence."
+    },
+    {
+      "year": 2005,
+      "title": "Faure Gnassingbé presidency succession + dynastic-presidency-continuation",
+      "description": "Faure Gnassingbé assumed presidency 4 May 2005 following death of father Gnassingbé Eyadéma — controversial transition initially through military intervention then constitutionally-amended. Subsequent re-elections 2010, 2015, 2020 — substantively distinctive African dynastic-presidency-continuation pattern."
+    },
+    {
       "year": 2007,
       "title": "Children's Code 2007 (Law 2007-017)",
-      "description": "Federal Children's Code enacted aligned with UNCRC obligations."
+      "description": "Federal Children's Code enacted 6 July 2007 (Law 2007-017) — codifying CRC-aligned child-protection mechanisms, juvenile-justice principles, child-development standards. Operates alongside (then-forthcoming) Persons and Family Code 2012 as the substantive child-welfare anchor for family-law jurisprudence."
     },
     {
       "year": 2012,
       "title": "Persons and Family Code 2012 (Law 2012-014)",
-      "description": "Federal Persons and Family Code enacted with substantial modernisation including gender equality codification."
+      "description": "Federal Persons and Family Code enacted 6 July 2012 (Law 2012-014) — substantively modernising family-law with substantial gender-equality codification and customary-law marriage provisions. Arts. 269-302 govern parental authority and child custody. Among more recent comprehensive family-law codifications in West African Francophone cluster."
+    },
+    {
+      "year": 2017,
+      "title": "Anti-Domestic Violence Law + 2017-2018 anti-government protests context",
+      "description": "Subsequent anti-domestic violence framework consolidated through 2010s. 2017-2018 anti-government protests substantively challenged Gnassingbé presidency but did not result in regime change. Constitutional debates around term-limits substantively engaged."
+    },
+    {
+      "year": 2019,
+      "title": "Constitutional amendments 2019 + presidential term reform",
+      "description": "Constitutional amendments adopted by referendum 9 May 2019 — substantively reinstated presidential term limits but reset clock allowing Faure Gnassingbé continued candidacy. 2020 elections continued Gnassingbé presidency. Substantive contested constitutional reform within ECOWAS democratic-trajectory framework."
+    },
+    {
+      "year": 2024,
+      "title": "Constitutional reform 2024 + parliamentary-republic transition + Council of Ministers framework",
+      "description": "Major constitutional reform March-April 2024 — substantively transitioning from semi-presidential to parliamentary republic framework with President of Council of Ministers role created. Substantively distinctive constitutional-reform pattern within ECOWAS framework. Faure Gnassingbé appointed President of Council of Ministers May 2024 — continued executive power within new constitutional architecture."
+    },
+    {
+      "year": 2023,
+      "title": "Commission Nationale des Droits de l'Homme + ECOWAS framework + 5e République framework preparation",
+      "description": "Commission Nationale des Droits de l'Homme (CNDH) institutional position addressing PA-related issues within Persons and Family Code + Children's Code 2007 framework. ECOWAS framework engagement substantively significant institutional context. 5e République framework preparation 2023 establishing trajectory toward 2024 constitutional reform parliamentary-republic transition. Substantively significant West African institutional jurisprudential development."
+    },
+    {
+      "year": 2025,
+      "title": "Cour Suprême + Cour Constitutionnelle — interest-of-the-child substantive register + parliamentary-republic context",
+      "description": "Cour Suprême and Cour Constitutionnelle continue to develop interest-of-the-child jurisprudence under Persons and Family Code arts. 269-302 + Children's Code 2007 + Constitution 1992/2024 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within post-2024 parliamentary-republic constitutional framework."
     }
   ],
   "structural_findings": [
@@ -96,8 +141,9 @@
     }
   ],
   "editorial_notes": [
-    "Togo jurisdiction sidecar — civil-law West African Francophone (Persons and Family Code 2012 + Children's Code 2007 + non-Hague).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins West African + Francophone + civil-law + French-derivative + non-Hague Convention clusters within the corpus."
+    "Togo jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full Eyadéma-to-Gnassingbé-dynasty trajectory: 1960-Togo-independence-+-Gnassingbé-Eyadéma-presidency-context + 1990-UNCRC-ratification + 1992-Constitution-of-the-Fourth-Republic-+-multi-party-transition + 2005-Faure-Gnassingbé-presidency-succession-+-dynastic-presidency-continuation + 2007-Children's-Code-Law-2007-017 + 2012-Persons-and-Family-Code-Law-2012-014 + 2017-Anti-Domestic-Violence-+-2017-2018-anti-government-protests + 2019-Constitutional-amendments-+-presidential-term-reform + 2024-Constitutional-reform-+-parliamentary-republic-transition + 2025-Cour-Suprême-+-Cour-Constitutionnelle-interest-of-the-child-parliamentary-republic-context.",
+    "Civil-law West African Francophone (Persons and Family Code 2012 + Children's Code 2007 + Constitution 1992/2024 + non-Hague Convention).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Persons and Family Code arts. 269-302 + Children's Code 2007 framework without doctrinal 'parental alienation' label.",
+    "Joins West-African + Francophone + civil-law + French-derivative + Eyadéma-Gnassingbé-dynastic-presidency-continuation-58-years + 2024-parliamentary-republic-constitutional-reform-distinctive + post-Constitutional-Council-2024-President-of-Council-of-Ministers-framework + Children's-Code-pre-Persons-and-Family-Code-codification-sequence + non-Hague-Convention clusters within the corpus."
   ]
 }

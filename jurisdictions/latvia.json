@@ -59,18 +59,63 @@
   "key_developments": [
     {
       "year": 1937,
-      "title": "Civillikums originally enacted",
-      "description": "Civil Law (Civillikums) originally enacted 1937."
+      "title": "Civillikums originally enacted (pre-Soviet)",
+      "description": "Civil Law (Civillikums) originally enacted 1937 during inter-war First Republic of Latvia (1918-1940) — substantially drawing on German BGB + Baltic-province civil-law traditions. Pre-Soviet substantive substrate that was substantially restored in post-1991 trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Latvia restoration of independence + UNCRC ratification",
+      "description": "Latvia restored independence 21 August 1991 from Soviet Union. Latvia ratified the UNCRC on 14 April 1992 — among the earliest post-Soviet ratifications. Pre-1940 pre-Soviet legal-system substrate substantially restored as foundational legal-system substrate — substantively distinct from purely post-Soviet codification trajectory of CIS post-Soviet states."
     },
     {
       "year": 1992,
       "title": "Civillikums re-enacted post-independence",
-      "description": "Civillikums re-enacted 1992-1993 following Latvian independence from the Soviet Union."
+      "description": "Civillikums re-enacted 1992-1993 following Latvian independence from the Soviet Union — substantively restoring pre-1940 Civillikums substantive substrate (Family Law Part I arts. 177-208) with modernised provisions. Currently operative framework. Among the most distinctive post-Soviet restoration-of-pre-Soviet-civil-law approaches."
+    },
+    {
+      "year": 1993,
+      "title": "Constitution restoration (Satversme 1922) + Constitutional Court establishment",
+      "description": "Constitution of the Republic of Latvia (Satversme) of 1922 restored 6 July 1993 — substantively restoring pre-Soviet constitutional framework. Constitutional Court (Satversmes tiesa) established 1996 with original jurisdiction over constitutional review."
+    },
+    {
+      "year": 1995,
+      "title": "Council of Europe membership + ECHR ratification",
+      "description": "Latvia joined the Council of Europe 10 February 1995 — ECHR ratified 27 June 1997 effective. ECHR engagement subsequently became a major source of family-law jurisprudence."
+    },
+    {
+      "year": 2002,
+      "title": "Hague Convention 1980 accession",
+      "description": "Latvia acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 February 2002 — among the early post-Soviet Baltic Hague accessions (Estonia 2001, Lithuania 2002)."
+    },
+    {
+      "year": 2004,
+      "title": "European Union accession + EU acquis communautaire integration",
+      "description": "Latvia joined the European Union 1 May 2004 — substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111). Schengen Area 2007, Eurozone 2014, OECD 2016."
+    },
+    {
+      "year": 2014,
+      "title": "Cohabitation Act discussions + Constitutional family-form framework",
+      "description": "Latvia subsequently engaged in constitutional debate around family-form including amendment 19 December 2013 codifying Constitution Art. 110 marriage as union between a man and a woman. Subsequent Cohabitation Act discussions and Constitutional Court 2020 decision substantively addressed family-form interpretation."
     },
     {
       "year": 2017,
       "title": "Psihologu likums 2017",
-      "description": "Psychologists Act adopted 18 May 2017 establishing statutory certification regime."
+      "description": "Psychologists Act adopted 18 May 2017 establishing the Psihologu sertifikācijas padome (Psychologists Certification Council) and statutory certification regime. Places Latvia among the federal-statutory psychology regulator group within the corpus."
+    },
+    {
+      "year": 2024,
+      "title": "Constitutional Court Civil Union recognition + Notikumu Reģistra Likums + family-law-modernisation framework",
+      "description": "Latvia Constitutional Court (Satversmes tiesa) judgment 12 November 2020 (Case No. 2019-33-01) requiring legislature to provide legal protection for same-sex families + Civil Union Law (Notikumu Reģistra Likums / Civilās savienības likums) enacted 9 November 2023 effective 1 July 2024 — substantively distinctive Baltic Constitutional-Court-driven same-sex civil-union framework + structurally distinctive globally only modern Baltic-Constitutional-Court-ordered civil-union framework + substantive Civillikums framework integration affecting subsequent Latvia same-sex-parenting + adoption-by-same-sex-couples framework debate + foundational substantive same-sex-family framework affecting subsequent Augstākā tiesa bērna vislabākajām interesēm substantive register evolution + Hague Convention 1980 implementation framework."
+    },
+    {
+      "year": 2023,
+      "title": "Latvia border with Russia/Belarus securitisation + Tiesībsargs institutional position + family-law implementation framework",
+      "description": "Latvia border with Russia and Belarus securitisation 2022-2023 substantively affecting demographic and family-law-implementation framework including cross-border family-law cases. Tiesībsargs (Ombudsperson) institutional position addressing PA-related issues within Civillikums + Satversme Art. 110 framework. Substantively significant Baltic institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Augstākā tiesa + Satversmes tiesa — bērna vislabākajām interesēm substantive register",
+      "description": "Augstākā tiesa and Satversmes tiesa continue to develop bērna vislabākajām interesēm (best-interests-of-the-child) jurisprudence under Civillikums arts. 177-208 + Satversme Art. 110 + ECHR Article 8 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term."
     }
   ],
   "structural_findings": [
@@ -105,8 +150,9 @@
     }
   ],
   "editorial_notes": [
-    "Latvia jurisdiction sidecar — Baltic civil-law framework. Civillikums (1937/1992 re-enacted) + Psihologu likums 2017 + Augstākā tiesa apex + Constitutional Court.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Baltic civil-law + federal-statutory psychology regulator clusters within the corpus."
+    "Latvia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full inter-war-Republic-to-contemporary trajectory: 1937-Civillikums-originally-enacted + 1991-restoration-of-independence-+-UNCRC-ratification + 1992-Civillikums-re-enacted + 1993-Constitution-Satversme-restoration-+-Constitutional-Court + 1995-Council-of-Europe-membership-+-1997-ECHR-ratification + 2002-Hague-1980-accession + 2004-EU-accession + 2014-Cohabitation-Act-discussions-+-Constitutional-family-form-framework + 2017-Psihologu-likums + 2024-Augstākā-tiesa-Satversmes-tiesa-bērna-vislabākajām-interesēm.",
+    "Baltic civil-law framework + pre-Soviet-restoration (Civillikums 1937/1992 re-enacted + Psihologu likums 2017 + Satversme 1922 restored + Augstākā tiesa apex + Constitutional Court + Council of Europe/ECHR + Hague Convention 1980 + EU acquis).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive bērna vislabākajām interesēm analysis under Civillikums arts. 177-208 + Satversme + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins Baltic-civil-law-cluster + restoration-of-independence (with Estonia, Lithuania) + restoration-of-pre-Soviet-civil-law (Civillikums 1937 restored) + restoration-of-pre-Soviet-Constitution (Satversme 1922 restored) + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Baltic + deeply-EU-integrated-post-Soviet + federal-statutory psychology regulator (with Estonia, Lithuania, Israel, Iran) + traditional-marriage-constitutional-codification (with Hungary, Slovakia) clusters within the corpus."
   ]
 }

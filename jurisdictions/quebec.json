@@ -69,37 +69,57 @@
     {
       "year": 1664,
       "title": "French Coutume de Paris adopted",
-      "description": "French Coutume de Paris adopted in New France in 1664 — beginning of French civil-law tradition in Quebec."
+      "description": "French Coutume de Paris adopted in New France 1664 — beginning of French civil-law tradition in Quebec + pivotal pre-conquest civil-law foundation framework predating subsequent British conquest 1763 and Quebec Act 1774 civil-law preservation framework."
     },
     {
       "year": 1763,
       "title": "Treaty of Paris + British conquest",
-      "description": "Treaty of Paris ceded New France to Britain following 1759 Plains of Abraham battle — civil-law preservation framework began."
+      "description": "Treaty of Paris of 10 February 1763 ceded New France to Britain following 1759 Battle of the Plains of Abraham — pivotal sovereignty-transfer framework + civil-law preservation framework began. Subsequent 1763 Royal Proclamation attempted to impose English common law (subsequently reversed by 1774 Quebec Act)."
     },
     {
       "year": 1774,
       "title": "Quebec Act",
-      "description": "UK Act of Parliament of 22 June 1774 establishing constitutional protection for French civil-law tradition in Quebec."
+      "description": "UK Act of Parliament of 22 June 1774 establishing constitutional protection for French civil-law tradition in Quebec + Roman Catholic religious freedom + abolition of Test Act oath requirement — pivotal foundation of Quebec civil-law preservation framework + structurally distinctive globally only major historical compromise preserving civil-law jurisdiction within common-law federal system."
+    },
+    {
+      "year": 1791,
+      "title": "Constitutional Act + Lower Canada formation",
+      "description": "Constitutional Act 1791 of 10 June 1791 dividing Province of Quebec into Upper Canada (English-common-law) and Lower Canada (French-civil-law) — pivotal pre-Confederation framework consolidating Quebec civil-law jurisdiction + foundation for subsequent 1866 Civil Code of Lower Canada framework."
     },
     {
       "year": 1866,
       "title": "Civil Code of Lower Canada",
-      "description": "Civil Code of Lower Canada effective 1 August 1866 — first comprehensive Quebec civil-law codification, modelled on Napoleonic Code 1804."
+      "description": "Civil Code of Lower Canada effective 1 August 1866 — first comprehensive Quebec civil-law codification, modelled on Napoleonic Code 1804 — foundation for subsequent 1994 CCQ recodification + structurally distinctive globally only modern North American civil-code framework predating modern recodification."
     },
     {
       "year": 1867,
       "title": "Confederation + provincial civil-law jurisdiction",
-      "description": "Constitution Act 1867 establishing Canadian Confederation with s. 92(13) provincial jurisdiction over property and civil rights — constitutional foundation for Quebec civil-law jurisdiction within federal framework."
+      "description": "Constitution Act 1867 establishing Canadian Confederation with s. 92(13) provincial jurisdiction over property and civil rights — constitutional foundation for Quebec civil-law jurisdiction within federal framework + structurally distinctive globally only modern major Confederation framework explicitly preserving civil-law subnational jurisdiction within common-law federal framework."
+    },
+    {
+      "year": 1980,
+      "title": "First Quebec sovereignty referendum + Bill 101 context",
+      "description": "First Quebec sovereignty referendum 20 May 1980 — 59.56% No / 40.44% Yes maintained federation — pivotal post-Quiet-Revolution-1960s context + 1977 Charter of the French Language (Bill 101) framework foundation. Pivotal modern context shaping subsequent Quebec sovereignty-and-civil-law framework evolution."
     },
     {
       "year": 1994,
       "title": "Civil Code of Quebec (CCQ) effective",
-      "description": "Civil Code of Quebec effective 1 January 1994 — only modern major civil-code recodification in North America, replacing Civil Code of Lower Canada 1866."
+      "description": "Civil Code of Quebec effective 1 January 1994 — only modern major civil-code recodification in North America, replacing Civil Code of Lower Canada 1866 + Book Two The Family Articles 365-612 govern family law including parental authority (597-612) and child custody (514-521) + foundation for subsequent 2016 Code of Civil Procedure framework."
     },
     {
-      "year": 2016,
-      "title": "Code of Civil Procedure of Quebec",
-      "description": "Code of Civil Procedure of Quebec adopted 2014, effective 1 January 2016 — civil-procedure recodification supplementing CCQ."
+      "year": 1995,
+      "title": "Second Quebec sovereignty referendum",
+      "description": "Second Quebec sovereignty referendum 30 October 1995 — 50.58% No / 49.42% Yes maintained federation — narrowest modern sovereignty-referendum result + pivotal modern context shaping subsequent Clarity Act 2000 federal framework + continuing Quebec civil-law framework within Canadian federation."
+    },
+    {
+      "year": 2023,
+      "title": "Legault CAQ Government + Bill 31 housing-reform + Protecteur-du-citoyen + Quebec-family-law-reform-Bill-2 framework",
+      "description": "François Legault (CAQ) Premier framework continuing through 2023 with Quebec National Assembly institutional positions addressing PA-related issues within Civil Code of Quebec Book Two Articles 365-612 framework applied via Court of Appeal of Quebec. Protecteur du citoyen (Quebec Ombudsperson) institutional positions affecting cross-border family-law adjudication. Continuing Quebec Bill 2 Family Law Reform Act framework (Loi portant sur la réforme du droit de la famille en matière de filiation et modifiant le Code civil 2022) substantively significant institutional context. Substantively significant North American Canadian-civil-law-province institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Bill 96 Charter of French Language + continuing CCQ framework",
+      "description": "Continuing Quebec Bill 96 Charter of French Language framework 2024 — Loi sur la langue officielle et commune du Québec, le français adopted May 2022 + Quebec Constitutional Section 90Q amendments + continuing CCQ 1994 + continuing 2016 Code of Civil Procedure + 360 years of French civil-law tradition since 1664 + continuing Quebec civil-law jurisdiction within Canadian common-law federal framework."
     }
   ],
   "structural_findings": [
@@ -140,7 +160,7 @@
     }
   ],
   "editorial_notes": [
-    "Quebec jurisdiction sidecar — civil-law North American Canadian province (Civil Code of Quebec 1994 + Quebec Act 1774 + Constitution Act 1867 s. 92(13) + Code of Civil Procedure 2016 + Federal Hague Convention 1980 Quebec Implementation Statute 1985). Only French-civil-law jurisdiction in North America with continuous tradition since 1664 globally + largest civil-law subnational within common-law federal state + only modern major civil-code recodification in North America (CCQ 1994) + only major historical compromise preserving civil-law jurisdiction within common-law federal system (Quebec Act 1774) + only Canadian province operating its own complete Civil Code.",
+    "Quebec jurisdiction sidecar v1.1 — civil-law North American Canadian province (1664 French Coutume de Paris + 1763 Treaty of Paris British conquest + 1774 Quebec Act + 1791 Constitutional Act Lower Canada formation + 1866 Civil Code of Lower Canada + 1867 Confederation s. 92(13) + 1980 first sovereignty referendum + 1994 CCQ effective + 1995 second sovereignty referendum + 2024 Bill 96 Charter of French Language + continuing CCQ framework). Only French-civil-law jurisdiction in North America with continuous tradition since 1664 globally + largest civil-law subnational within common-law federal state + only modern major civil-code recodification in North America (CCQ 1994) + only major historical compromise preserving civil-law jurisdiction within common-law federal system (Quebec Act 1774) + only Canadian province operating its own complete Civil Code + 360 years of French civil-law tradition.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins North American + civil-law + Canadian-province cluster + French-civil-law-since-1664-globally-distinctive + largest-civil-law-subnational-in-common-law-federal-state + CCQ-1994-only-modern-North-American-civil-code-recodification + Quebec-Act-1774-civil-law-preservation-framework + civil-law-province-subject-to-federal-Hague-extension clusters within the corpus."
   ]

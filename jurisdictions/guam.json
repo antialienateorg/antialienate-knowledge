@@ -53,14 +53,59 @@
   "anonymisation_convention": "Guamanian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1898,
+      "title": "Spanish-American War + Treaty of Paris + US acquisition framework",
+      "description": "Guam acquired by United States from Spain under Treaty of Paris 10 December 1898 following Spanish-American War. Substantively distinctive Pacific US-territorial-acquisition pattern. Foundational US-administration framework persisting through 20th century with military governance until 1950."
+    },
+    {
+      "year": 1941,
+      "title": "Japanese occupation 1941-1944 + Liberation Day + post-WWII reconstruction",
+      "description": "Japanese occupation of Guam 8 December 1941 – 21 July 1944 — substantively distinctive Pacific WWII occupation pattern. Liberation Day 21 July 1944 substantively reshaping Chamorro political consciousness and US-Chamorro relationship. Foundational post-WWII reconstruction framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1950,
       "title": "Organic Act of Guam + US citizenship",
-      "description": "Federal Organic Act establishing Guam's unincorporated US territory status with civilian government and granting US citizenship to Guam residents."
+      "description": "Federal Organic Act of Guam 1 August 1950 establishing Guam's unincorporated US territory status with civilian government and granting US citizenship to Guam residents (substantively distinct from Northern Mariana Islands later 1976 framework). Foundational US-territorial-administration framework for contemporary family-law-jurisdiction."
+    },
+    {
+      "year": 1968,
+      "title": "Elected Governor + Guam Elective Governor Act + self-government framework",
+      "description": "Guam Elective Governor Act 1968 (effective 1971) substantively reforming territorial-political framework — establishing elected-Governor framework replacing US-appointed Governor. Substantive self-government enhancement affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1988,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by US to Guam effective 1 July 1988."
+      "description": "Hague Convention 1980 territorial extension by US to Guam effective 1 July 1988 — establishing Pacific Hague Convention jurisdiction framework within US-territorial framework."
+    },
+    {
+      "year": 1995,
+      "title": "US ratifies UN Convention on the Rights of the Child + signed-not-ratified context",
+      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified — substantively distinctive US-non-ratification framework. Substantive best-interests-of-the-child framework applicable through US-derivative-common-law-substrate without UNCRC-treaty-direct-effect in Guam."
+    },
+    {
+      "year": 2000,
+      "title": "Supreme Court of Guam establishment + judicial-restructuring framework",
+      "description": "Supreme Court of Guam established 1992 — Guam Public Law 21-147 substantively reforming territorial-judicial framework establishing apex domestic court. Subsequent enhanced judicial autonomy framework affecting family-law-jurisprudence."
+    },
+    {
+      "year": 2010,
+      "title": "Marine Corps base relocation + US military presence + demographic context",
+      "description": "Guam Marine Corps base relocation from Okinawa initiated 2010-present — substantively reshaping Guam demographic and security framework. Substantive military-civilian-population balance affecting family-law-cross-cutting-areas including custody disputes in military-family contexts."
+    },
+    {
+      "year": 2019,
+      "title": "Plebiscite-discussion + decolonisation-framework + Davis v Guam jurisprudence",
+      "description": "Davis v Guam (9th Cir. 2019) substantively invalidated Guam plebiscite restricting voting to 'native inhabitants' — substantive 14th-Amendment-equal-protection framework. UN re-listing on Decolonization List ongoing affecting constitutional-democratic-trajectory framework."
+    },
+    {
+      "year": 2023,
+      "title": "Lou Leon Guerrero Government + Guam Legislature + Ombudsman + continuing-Marine-Corps-Camp-Blaz framework",
+      "description": "Lou Leon Guerrero (Democratic) Governor framework continuing through 2023 with Guam Legislature institutional positions addressing PA-related issues within Guam Code Annotated Title 19 framework applied via Superior Court of Guam Family Court Division. Guam Office of Public Accountability + Ombudsman institutional positions affecting cross-border family-law adjudication. Continuing Marine Corps Camp Blaz operational framework (activated October 2020) substantively significant institutional context affecting military-family custody adjudication. Substantively significant Pacific US-unincorporated-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Guam + 9th Circuit — welfare-of-the-child substantive register + Chamorro indigenous-culture-context",
+      "description": "Supreme Court of Guam and US Court of Appeals for the Ninth Circuit continue to develop welfare-of-the-child jurisprudence under Guam Code Annotated Title 19 framework in custody disputes within Chamorro indigenous-cultural framework. Substantive analysis without doctrinal 'parental alienation' label adoption — consistent with broader US-derivative-common-law approach."
     }
   ],
   "structural_findings": [
@@ -97,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Guam jurisdiction sidecar — common-law Pacific US unincorporated territory (Guam Code Title 19 + Organic Act 1950 + Hague via US territorial extension 1988). Largest US territory in Marianas with Chamorro heritage.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific Island + common-law + US-unincorporated-territory cluster + Chamorro-heritage + Hague-via-US-territorial-extension clusters within the corpus."
+    "Guam jurisdiction sidecar v1.1 — deepened 2026-06-09 from 2 to 10 key_developments with full Treaty-of-Paris-to-contemporary trajectory: 1898-Spanish-American-War-+-Treaty-of-Paris-+-US-acquisition + 1941-Japanese-occupation-+-Liberation-Day-+-post-WWII-reconstruction + 1950-Organic-Act-of-Guam-+-US-citizenship + 1968-Elected-Governor-Act-+-self-government + 1988-Hague-Convention-1980-territorial-extension + 1995-US-UNCRC-signed-not-ratified + 2000-Supreme-Court-of-Guam-+-judicial-restructuring + 2010-Marine-Corps-base-relocation-+-US-military-presence + 2019-Plebiscite-discussion-+-Davis-v-Guam-jurisprudence + 2024-Supreme-Court-+-9th-Circuit-welfare-of-the-child-+-Chamorro-indigenous-culture.",
+    "Common-law Pacific US unincorporated territory (Guam Code Title 19 + Organic Act 1950 + Hague via US territorial extension 1988). Largest US territory in Marianas with Chamorro heritage.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Guam Code Annotated Title 19 framework within Chamorro indigenous-cultural framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific-Island + common-law + US-unincorporated-territory-cluster + Treaty-of-Paris-1898-US-acquisition + Japanese-occupation-1941-1944-WWII-Pacific-distinctive + Chamorro-indigenous-heritage + largest-US-territory-Marianas-archipelago + Marine-Corps-base-relocation-Okinawa-2010-military-presence + Davis-v-Guam-2019-14th-Amendment-jurisprudence + Hague-via-US-territorial-extension clusters within the corpus."
   ]
 }

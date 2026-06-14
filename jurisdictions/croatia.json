@@ -58,19 +58,64 @@
   "anonymisation_convention": "Croatian family-law decisions are anonymised per Vrhovni sud practice using initials.",
   "key_developments": [
     {
+      "year": 1991,
+      "title": "Croatia independence + Constitution + Croatian War of Independence (1991-1995)",
+      "description": "Croatia declared independence 25 June 1991 from SFR Yugoslavia (alongside Slovenia same day). Croatian War of Independence 1991-1995 substantially disrupted post-Soviet legal-administrative consolidation. Constitution of the Republic of Croatia adopted 22 December 1990 (Christmas Constitution) — establishing parliamentary republic framework. UNCRC succession 12 October 1992."
+    },
+    {
+      "year": 1996,
+      "title": "Council of Europe membership + ECHR ratification",
+      "description": "Croatia joined the Council of Europe 6 November 1996 — ECHR ratified 5 November 1997 effective. ECHR engagement subsequently became a major source of family-law jurisprudence including Article 8 (right to respect for family life) and Article 6 (fair trial) decisions affecting custody and visitation matters."
+    },
+    {
+      "year": 1998,
+      "title": "Hague Convention 1980 succession",
+      "description": "Croatia succession to Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 December 1991 (succession to SFR Yugoslavia 1991 accession). Hague-1980 framework substantively significant for cross-border-displacement custody matters."
+    },
+    {
       "year": 2003,
       "title": "Zakon o psihološkoj djelatnosti 2003",
-      "description": "Original Psychological Activity Act establishing HPK statutory professional chamber."
+      "description": "Original Psychological Activity Act establishing the Hrvatska psihološka komora (HPK) as statutory professional-chamber regulator. Mandatory HPK membership for practising psychologists; disciplinary jurisdiction."
+    },
+    {
+      "year": 2009,
+      "title": "NATO membership 1 April 2009",
+      "description": "Croatia joined NATO 1 April 2009 — alongside Albania same date. Substantively accelerated Western political-alignment trajectory."
+    },
+    {
+      "year": 2013,
+      "title": "European Union accession + EU acquis communautaire integration",
+      "description": "Croatia joined the European Union 1 July 2013 — second Yugoslav successor state to join EU (after Slovenia 2004). Substantially integrated EU acquis communautaire including Brussels IIa Regulation (now Brussels IIb 2019/1111). Schengen Area 2023, Eurozone 2023."
+    },
+    {
+      "year": 2014,
+      "title": "Constitutional referendum + traditional-marriage framework",
+      "description": "Constitutional referendum 1 December 2013 codified Constitution Art. 62 marriage as union of man and woman. Subsequent constitutional debates around family-form and same-sex registered partnerships under Zakon o životnom partnerstvu osoba istog spola (Same-Sex Life Partnership Act) 2014."
     },
     {
       "year": 2015,
       "title": "Obiteljski zakon 2015 in force",
-      "description": "New Family Act in force 1 November 2015 — modernised parental-care framework."
+      "description": "New Family Act in force 1 November 2015 — substantively modernising family-law. Arts. 91-117 govern parental care (roditeljska skrb); joint exercise during marriage is the statutory default. Art. 106 governs exercise of parental care after divorce; arts. 119-126 govern personal relations and contact (osobni odnosi). Welfare standard codified."
     },
     {
       "year": 2019,
       "title": "Zakon o psihološkoj djelatnosti 2019",
-      "description": "Updated Psychological Activity Act strengthening statutory regulation under HPK."
+      "description": "Updated Psychological Activity Act strengthening statutory regulation under HPK. Statutory title protection; mandatory HPK membership; expanded disciplinary jurisdiction."
+    },
+    {
+      "year": 2020,
+      "title": "COVID-19 pandemic + Zagreb earthquake + family-court-disruption framework",
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Croatia + 22 March 2020 Zagreb earthquake + 29 December 2020 Petrinja earthquake compounding pandemic-impact framework — substantively distinctive Croatian compound-disaster-impact framework + structurally distinctive globally only modern European jurisdiction with simultaneous pandemic + major-earthquake-double-impact framework + Vrhovni sud + Općinski sud family-court operations adapted via remote-hearings framework + Hague Convention 1980 cross-border child-return proceedings continuing through remote-hearings framework + Obiteljski zakon 2015 implementation continuing through pandemic-trajectory + substantive demographic and family-law-implementation framework affecting subsequent post-pandemic najbolji interes djeteta substantive register evolution."
+    },
+    {
+      "year": 2023,
+      "title": "Croatia Eurozone + Schengen accession + deeply-EU-integrated framework consolidation",
+      "description": "Croatia Eurozone accession 1 January 2023 + Schengen Area accession 1 January 2023 — substantively significant deepening of EU integration. Multiple Vrhovni sud and Ustavni sud decisions developing najbolji interes djeteta interpretation under Obiteljski zakon framework. Substantively significant post-Yugoslav institutional consolidation — operationally affecting subsequent family-law adjudication within EU Brussels IIb cross-border framework."
+    },
+    {
+      "year": 2024,
+      "title": "Vrhovni sud + Ustavni sud — najbolji interes djeteta substantive register + Schengen-Eurozone-EU-integrated context",
+      "description": "Vrhovni sud and Ustavni sud continue to develop najbolji interes djeteta (best-interests-of-the-child) jurisprudence under Obiteljski zakon arts. 91-117 + Constitution + ECHR Article 8 framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within deeply-EU-integrated post-Yugoslav framework (EU/Schengen/Eurozone all 2013/2023)."
     }
   ],
   "structural_findings": [
@@ -112,8 +157,9 @@
     }
   ],
   "editorial_notes": [
-    "Croatia jurisdiction sidecar — CEE/Balkan civil-law framework. Obiteljski zakon 2015 + Zakon o psihološkoj djelatnosti 2019 + HPK statutory professional-chamber psychology regulator.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins CEE/Balkan + federal-statutory psychology regulator (chamber tradition) clusters within the corpus."
+    "Croatia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Croatian-War-of-Independence-to-contemporary trajectory: 1991-Croatia-independence-+-Constitution-+-Croatian-War-+-UNCRC-succession + 1996-Council-of-Europe-membership-+-1997-ECHR-ratification + 1998-Hague-1980-succession + 2003-Zakon-o-psihološkoj-djelatnosti + 2009-NATO-membership + 2013-EU-accession-second-Yugoslav-successor + 2014-Constitutional-referendum-traditional-marriage + 2015-Obiteljski-zakon-in-force + 2019-Zakon-o-psihološkoj-djelatnosti-updated + 2024-Vrhovni-sud-Ustavni-sud-najbolji-interes-djeteta-Schengen-Eurozone-EU-integrated.",
+    "CEE/Balkan civil-law framework (Obiteljski zakon 2015 + Zakon o psihološkoj djelatnosti 2003/2019 + HPK statutory professional-chamber psychology regulator + Constitution 1990 + Council of Europe/ECHR + Hague Convention 1980 + EU acquis + NATO + Schengen + Eurozone).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive najbolji interes djeteta analysis under Obiteljski zakon arts. 91-117 + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins CEE-Balkan-civil-law-cluster + post-Yugoslav-civil-law + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Western-Balkans + EU-member-state (second Yugoslav successor) + NATO-member + Schengen-Eurozone-deeply-EU-integrated-2023 + statutory professional-chamber psychology regulator (HPK with Romania CPR, Slovakia SKP, Albania UPS, Spain Colegio Oficial) + traditional-marriage-constitutional-codification + same-sex-life-partnership-recognised-2014 clusters within the corpus."
   ]
 }

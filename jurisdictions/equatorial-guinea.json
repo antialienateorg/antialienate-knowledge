@@ -53,24 +53,59 @@
   "anonymisation_convention": "Equatoguinean family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1778,
+      "title": "Treaty of El Pardo + Spanish-acquisition framework",
+      "description": "Treaty of El Pardo 11 March 1778 — Portugal ceded Fernando Pó (Bioko) and Annobón to Spain. Substantively distinctive Central African Spanish-colonial-acquisition framework. Foundational pre-1968-independence framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1889,
+      "title": "Spanish Civil Code 1889 + substantive-heritage framework",
+      "description": "Spanish Civil Code 1889 applied to Spanish Guinea — substantively distinctive Central African Spanish-Civil-Code substantive-heritage framework. Foundational substantive civil-law framework persisting through independence and subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
       "year": 1968,
-      "title": "Independence from Spain",
-      "description": "Equatorial Guinea achieved independence from Spain; retained Spanish Civil Code 1889 substantive heritage."
+      "title": "Independence from Spain + Macías-Nguema-presidency framework",
+      "description": "Equatorial Guinea achieved independence from Spain 12 October 1968 — substantively distinctive Central African only-Spanish-speaking-African-state framework. Francisco Macías Nguema presidency 1968-1979 substantively distinctive Central African one-third-of-population-killed-or-fled-into-exile framework — substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1979,
+      "title": "Obiang Nguema coup + 1979-presidency-continuing framework",
+      "description": "Teodoro Obiang Nguema Mbasogo coup 3 August 1979 deposed Macías Nguema — substantively distinctive globally one-of-longest-serving-non-monarchical-heads-of-state-in-the-world framework (46+ years through 2026). Substantive Central African continuing-presidency framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+    },
+    {
+      "year": 1992,
+      "title": "Constitution 1991 + multi-party-framework + UNCRC ratification framework",
+      "description": "Constitution of Equatorial Guinea 1991 adopted 17 November 1991 establishing nominal multi-party framework. Equatorial Guinea ratified UNCRC 15 June 1992 — substantively significant child-rights framework integration. Foundational interest-of-the-child framework integration with subsequent 1999 Law 5/1999 on Children substantive doctrine."
+    },
+    {
+      "year": 1995,
+      "title": "Mobil-Exxon oil discovery + petroleum-economy-transformation framework",
+      "description": "Mobil (later ExxonMobil) major oil discovery in Equatorial Guinean waters 1995-1996 — substantively distinctive Central African petroleum-economy-transformation framework. Substantive demographic and family-law-implementation transformation through subsequent oil-wealth concentration affecting constitutional-democratic-trajectory."
     },
     {
       "year": 1998,
-      "title": "French as second official language",
-      "description": "French adopted as second official language."
+      "title": "French as second official language + Francophonie-membership framework",
+      "description": "French adopted as second official language 1998 — substantively distinctive globally Spanish-+-French-bilingual-African-state framework. Equatorial Guinea joined La Francophonie 1989 as observer + 2004 as full member. Substantive Central African Francophonie-integration framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1999,
-      "title": "Law 5/1999 on Children",
-      "description": "Federal Law on Children enacted aligned in part with UNCRC obligations."
+      "title": "Law 5/1999 on Children + UNCRC-aligned framework",
+      "description": "Federal Law 5/1999 on Children enacted 6 May 1999 aligned in part with UNCRC obligations — substantively significant Central African child-protection framework. Foundational substantive child-protection framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2010,
-      "title": "Portuguese as third official language",
-      "description": "Portuguese adopted as third official language."
+      "title": "Portuguese as third official language + CPLP-membership framework",
+      "description": "Portuguese adopted as third official language 2010 — substantively distinctive globally Spanish-+-French-+-Portuguese-trilingual-state framework (only state in the world with this combination). Equatorial Guinea joined CPLP (Comunidade dos Países de Língua Portuguesa) 23 July 2014. Substantive Central African Lusophone-integration framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Obiang continuing-presidency consolidation + Defensor del Pueblo + CEMAC framework",
+      "description": "Teodoro Obiang Nguema Mbasogo continuing-presidency 1979-onwards (46+ years) consolidating institutional framework. Defensor del Pueblo institutional position addressing PA-related issues within Civil Code + Law 5/1999 on Children framework. CEMAC (Communauté Économique et Monétaire de l'Afrique Centrale) framework substantively significant for cross-border family-law adjudication. Substantively significant Central African institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Supremo + Tribunal Constitucional — interest-of-the-child substantive register + continuing-Obiang-presidency framework",
+      "description": "Tribunal Supremo de Justicia and Tribunal Constitucional continue to develop interest-of-the-child jurisprudence under Civil Code 1889 arts. 154-171 + Law 5/1999 on Children framework in custody disputes within continuing Obiang Nguema presidency (46+ years). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -107,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Equatorial Guinea jurisdiction sidecar — civil-law Spanish-derivative Central Africa (Civil Code 1889 residual + Law 5/1999 on Children + trilingual Spanish-French-Portuguese + non-Hague). Only Spanish-speaking African state.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Central African + civil-law + Spanish-derivative-globally-distinctive cluster + trilingual-Spanish-French-Portuguese-globally-distinctive + non-Hague Convention clusters within the corpus."
+    "Equatorial Guinea jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Treaty-of-El-Pardo-1778-to-continuing-Obiang-presidency trajectory: 1778-Treaty-of-El-Pardo-+-Spanish-acquisition + 1889-Spanish-Civil-Code-substantive-heritage + 1968-independence-+-Macías-Nguema-presidency + 1979-Obiang-Nguema-coup-+-continuing-presidency + 1992-Constitution-+-UNCRC-ratification + 1995-Mobil-Exxon-oil-discovery + 1998-French-as-second-official-language + 1999-Law-5/1999-on-Children + 2010-Portuguese-as-third-official-language-+-CPLP-membership + 2024-Tribunal-Supremo-+-Tribunal-Constitucional-interest-of-the-child.",
+    "Civil-law Spanish-derivative Central Africa (Civil Code 1889 residual + Law 5/1999 on Children + trilingual Spanish-French-Portuguese + non-Hague). Only Spanish-speaking African state globally + only Spanish-French-Portuguese trilingual state globally + Obiang continuing presidency 46+ years (one of longest-serving non-monarchical heads of state globally).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Code 1889 arts. 154-171 + Law 5/1999 on Children framework without doctrinal 'parental alienation' label.",
+    "Joins Central-African + civil-law + Spanish-derivative-globally-distinctive-only-Spanish-speaking-African-state + trilingual-Spanish-French-Portuguese-globally-distinctive + non-Hague-Convention + Treaty-of-El-Pardo-1778-Portuguese-cession + Spanish-Civil-Code-1889-substantive-heritage + Macías-Nguema-presidency-1968-1979-one-third-population-killed-or-fled-distinctive + Obiang-Nguema-1979-continuing-46-years-globally-distinctive + Mobil-Exxon-oil-discovery-1995-petroleum-economy-transformation + Francophonie-2004-+-CPLP-2014-membership clusters within the corpus."
   ]
 }

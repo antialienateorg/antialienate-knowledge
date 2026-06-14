@@ -54,29 +54,59 @@
   "anonymisation_convention": "Sierra Leonean family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1787,
+      "title": "Province of Freedom + Sierra-Leone-Company + freed-slave-settlement framework",
+      "description": "Province of Freedom established 22 May 1787 by Sierra Leone Company under abolitionist Granville Sharp — substantively distinctive globally British-abolitionist-freed-slave-settlement-on-African-coast framework. Foundational pre-1808-Crown-Colony framework affecting subsequent constitutional-administrative-trajectory and West African common-law substantive heritage."
+    },
+    {
+      "year": 1808,
+      "title": "Sierra Leone Crown Colony + British-administration framework",
+      "description": "Sierra Leone Crown Colony established 1 January 1808 with Freetown as capital — substantively distinctive West African British-Crown-Colony framework. Subsequent 1896 British Protectorate over Sierra Leone hinterland. Foundational pre-1961-independence framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1961,
-      "title": "Independence",
-      "description": "Sierra Leone achieved independence from the United Kingdom."
+      "title": "Independence + Westminster-framework + Commonwealth-realm framework",
+      "description": "Sierra Leone achieved independence from the United Kingdom 27 April 1961 — substantively distinctive West African Westminster-framework-+-Commonwealth-realm framework with Queen Elizabeth II as initial Queen of Sierra Leone. Foundational pre-1971-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1971,
-      "title": "Republic transition",
-      "description": "Sierra Leone became a republic."
+      "title": "Republic transition + Stevens-presidency + APC-one-party-state framework",
+      "description": "Sierra Leone became a republic 19 April 1971 under Siaka Stevens presidency — substantively distinctive West African Commonwealth-republic-+-APC-one-party-state framework. Foundational pre-1991-2002-Civil-War framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Sierra Leone ratifies UN Convention on the Rights of the Child + UNCRC-applicability framework",
+      "description": "Sierra Leone ratified UNCRC 18 June 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2007 Child Rights Act substantive doctrine."
+    },
+    {
+      "year": 1991,
+      "title": "Sierra Leone Civil War + RUF-+-Foday-Sankoh-+-blood-diamonds framework",
+      "description": "Sierra Leone Civil War 23 March 1991-18 January 2002 — substantively distinctive West African post-Cold-War-civil-war framework. RUF (Revolutionary United Front) under Foday Sankoh with Charles Taylor backing. Estimated 50,000-300,000 deaths + 2.6 million displaced substantively reshaping demographic framework. Substantive blood-diamonds framework affecting subsequent constitutional-democratic-trajectory and Special Court for Sierra Leone establishment 2002."
     },
     {
       "year": 2007,
-      "title": "Child Rights Act + Devolution of Estates Act",
-      "description": "Federal Child Rights Act and Devolution of Estates Act enacted codifying child welfare and inheritance provisions."
+      "title": "Child Rights Act + Devolution-of-Estates-Act framework",
+      "description": "Federal Child Rights Act 2007 enacted codifying best-interests-of-the-child principle (s. 1), parental responsibility, custody, and children's protection provisions. Devolution of Estates Act 2007 codifying inheritance provisions. Substantively significant West African child-rights-+-inheritance-modernisation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2009,
-      "title": "Customary Marriage and Divorce Act",
-      "description": "Federal statute on customary marriage and divorce enacted."
+      "title": "Customary Marriage and Divorce Act + multi-track-marriage-framework consolidation",
+      "description": "Customary Marriage and Divorce Act 2009 enacted establishing federal statute on customary marriage and divorce — substantively significant West African multi-track-marriage-framework consolidation (Christian + Mohammedan + Civil + Customary). Substantive family-law-implementation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2011,
-      "title": "Local Courts Act",
-      "description": "Federal statute establishing Local Courts for customary-law jurisdiction."
+      "title": "Local Courts Act + customary-law-jurisdiction framework",
+      "description": "Local Courts Act 2011 enacted establishing Local Courts for customary-law jurisdiction — substantively significant West African customary-court framework. Foundational substantive customary-court framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 2023,
+      "title": "Bio re-election + HRC-SL + GEWE Act 2022 framework",
+      "description": "Julius Maada Bio re-elected 27 June 2023 substantively significant continuing-presidency framework. Human Rights Commission of Sierra Leone (HRC-SL) institutional position addressing PA-related issues within Child Rights Act 2007 + Customary Marriage and Divorce Act 2009 framework. Gender Equality and Women's Empowerment (GEWE) Act 2022 substantively significant for women's-rights framework affecting family-law adjudication. Substantively significant West African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Sierra Leone + Local Courts — best-interests-of-the-child substantive register + Bio-presidency framework",
+      "description": "Supreme Court of Sierra Leone and Local Courts continue to develop best-interests-of-the-child jurisprudence under Child Rights Act 2007 s. 1 + Customary Marriage and Divorce Act 2009 + Local Courts Act 2011 framework in custody disputes within Julius Maada Bio (SLPP) presidency since 4 April 2018 (re-elected 27 June 2023). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -106,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Sierra Leone jurisdiction sidecar — mixed-legal-system West Africa (English common-law substantive + multi-track marriage frameworks + customary-law via Local Courts). Child Rights Act 2007 + Customary Marriage Act 2009 + Local Courts Act 2011 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins West African + common-law + multi-track-marriage + non-Hague Convention clusters within the corpus."
+    "Sierra Leone jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Province-of-Freedom-1787-to-Bio-presidency trajectory: 1787-Province-of-Freedom-+-Sierra-Leone-Company + 1808-Sierra-Leone-Crown-Colony + 1961-independence-from-UK + 1971-republic-transition-+-Stevens-presidency + 1990-Sierra-Leone-UNCRC-ratification + 1991-Sierra-Leone-Civil-War-+-RUF + 2007-Child-Rights-Act-+-Devolution-of-Estates-Act + 2009-Customary-Marriage-and-Divorce-Act + 2011-Local-Courts-Act + 2024-Supreme-Court-+-Local-Courts-+-Bio-presidency.",
+    "Mixed-legal-system West Africa (English common-law substantive + multi-track marriage frameworks (Christian + Mohammedan + Civil + Customary) + customary-law via Local Courts). Child Rights Act 2007 + Customary Marriage Act 2009 + Local Courts Act 2011 + non-Hague Convention. Province of Freedom 1787 abolitionist-freed-slave-settlement globally distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Child Rights Act 2007 s. 1 + Customary Marriage and Divorce Act 2009 + Local Courts Act 2011 framework without doctrinal 'parental alienation' label.",
+    "Joins West-African + common-law + multi-track-marriage-Christian-+-Mohammedan-+-Civil-+-Customary + Province-of-Freedom-1787-Sierra-Leone-Company-+-Granville-Sharp-abolitionist-globally-distinctive + Sierra-Leone-Crown-Colony-1808-+-British-Protectorate-1896 + independence-from-UK-1961 + republic-transition-1971-+-Stevens-presidency + Sierra-Leone-Civil-War-1991-2002-RUF-+-Foday-Sankoh-+-blood-diamonds-+-50000-300000-deaths + Special-Court-for-Sierra-Leone-2002 + Child-Rights-Act-2007 + Customary-Marriage-and-Divorce-Act-2009 + Local-Courts-Act-2011 + Bio-SLPP-2018-2024-presidency + non-Hague-Convention clusters within the corpus."
   ]
 }

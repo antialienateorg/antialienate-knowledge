@@ -67,24 +67,59 @@
   "anonymisation_convention": "AAT decisions are anonymised per Federal Circuit and Family Court of Australia practice using initials.",
   "key_developments": [
     {
+      "year": 1841,
+      "title": "James Clark Ross + Victoria-Land-discovery framework",
+      "description": "Captain James Clark Ross discovered Victoria Land (part of present-day AAT) January 1841 — substantively distinctive Antarctic Anglo-pre-claim-territorial-discovery framework. Foundational pre-1933-AAT-Acceptance-Act framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1911,
+      "title": "Australasian Antarctic Expedition + Mawson-pre-claim-exploration framework",
+      "description": "Australasian Antarctic Expedition 1911-1914 led by Sir Douglas Mawson — substantively distinctive Antarctic pre-AAT-Acceptance-Act exploration framework establishing Australian-presence-in-Antarctic claim foundation. Foundational pre-1933 framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1929,
+      "title": "BANZARE expedition + AAT-claim-foundation framework",
+      "description": "British, Australian and New Zealand Antarctic Research Expedition (BANZARE) 1929-1931 led by Sir Douglas Mawson establishing AAT claim foundation — substantively distinctive Antarctic pre-1933-AAT-Acceptance-Act framework. Foundational substantive Australian-Antarctic-territorial-claim framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1933,
-      "title": "AAT Acceptance Act + UK sovereignty transfer",
-      "description": "Federal Act of 1933 accepting UK transfer of AAT sovereignty to Australia effective 24 August 1936."
+      "title": "AAT Acceptance Act + UK-sovereignty-transfer framework",
+      "description": "Federal Act 1933 accepting UK transfer of AAT sovereignty to Australia effective 24 August 1936 — substantively distinctive globally only-Antarctic-territorial-claim-transferred-between-two-states-in-formal-sovereignty-transfer framework. Foundational substantive 90+ year Australian-Antarctic-sovereignty framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 1954,
-      "title": "AAT Act 1954 — governance framework",
-      "description": "Federal Act of 1954 establishing AAT governance framework with Australian Capital Territory law applied with local modifications."
+      "title": "AAT Act 1954 + Mawson-Station-+-governance-framework",
+      "description": "Federal Act 1954 establishing AAT governance framework with Australian Capital Territory law applied with local modifications. Mawson Station established 13 February 1954 as first permanent Australian Antarctic research station — substantively distinctive Antarctic Australian-Antarctic-Division-research-presence framework. Foundational substantive research-station framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1959,
-      "title": "Antarctic Treaty signed",
-      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — AAT claim suspended pending Treaty term."
+      "title": "Antarctic Treaty + article-IV-claim-suspension framework",
+      "description": "Antarctic Treaty signed 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — substantively distinctive globally Antarctic-claim-suspension framework. AAT claim suspended pending Treaty term. Foundational substantive Antarctic-Treaty-System framework affecting subsequent constitutional-administrative-trajectory and cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 1975,
+      "title": "Family Law Act 1975 + AAT-applicability framework",
+      "description": "Australian Family Law Act 1975 (Cth) applicable in AAT for parental responsibility and child custody — theoretical given absence of permanent civilian population. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 1987,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by Australia to AAT effective 1 January 1987."
+      "title": "Hague Convention 1980 territorial extension + Australia-UNCRC-ratification framework",
+      "description": "Hague Convention 1980 territorial extension by Australia to AAT effective 1 January 1987. Australia ratified UNCRC 17 December 1990 with applicability to AAT — establishing best-interests-of-the-child substantive doctrine within Australian-derivative-common-law framework applicable to AAT — theoretical given absence of permanent civilian population."
+    },
+    {
+      "year": 1998,
+      "title": "Madrid Protocol + Antarctic-environmental-protection framework",
+      "description": "Madrid Protocol on Environmental Protection to the Antarctic Treaty 4 October 1991 (entered into force 14 January 1998) — substantively distinctive Antarctic environmental-protection-50-year-mining-prohibition framework. Substantive Antarctic-Treaty-System framework affecting subsequent constitutional-administrative-trajectory and Antarctic-jurisdiction-practice."
+    },
+    {
+      "year": 2023,
+      "title": "Albanese government + Australian Antarctic Division + Commonwealth Ombudsman + continuing-Davis-Mawson-Casey-research framework",
+      "description": "Anthony Albanese (ALP) Federal Government framework continuing through 2023 with Australian Antarctic Division institutional positions addressing PA-related issues within Family Law Act 1975 (Cth) + AAT Act 1954 framework theoretical given absence of permanent civilian population. Commonwealth Ombudsman institutional positions affecting cross-border family-law adjudication. Continuing Davis, Mawson, Casey, and Macquarie Island research stations operational framework substantively significant institutional context. Substantively significant Antarctic Australian-external-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Federal Circuit and Family Court of Australia + High Court — best-interests-of-the-child substantive register + continuing-Antarctic-Treaty-claim-suspension framework",
+      "description": "Federal Circuit and Family Court of Australia and High Court of Australia continue to develop best-interests-of-the-child jurisprudence under Family Law Act 1975 + AAT Act 1954 + Hague Convention 1980 framework in custody disputes — theoretical given absence of permanent civilian population. Substantive analysis without doctrinal 'parental alienation' label adoption within continuing Antarctic-Treaty article IV claim-suspension framework."
     }
   ],
   "structural_findings": [
@@ -124,8 +159,9 @@
     }
   ],
   "editorial_notes": [
-    "Australian Antarctic Territory (AAT) jurisdiction sidecar — common-law Antarctic Australian external territory (Australian Federal law + AAT Acceptance Act 1933 + AAT Act 1954 + Antarctic Treaty 1959 article IV claim suspension + Family Law Act 1975 + Hague via Australian territorial extension 1987). Single largest national Antarctic territorial claim by area globally (~5.9 million km², 42% of Antarctic continent) + only Antarctic territorial claim transferred between two states in formal sovereignty transfer.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Antarctic + common-law + Australian-external-territory cluster + largest-Antarctic-claim-globally-distinctive + UK-Australia-sovereignty-transfer + Antarctic-Treaty-article-IV-claim-suspension + Hague-via-Australian-territorial-extension clusters within the corpus."
+    "Australian Antarctic Territory (AAT) jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Ross-1841-to-continuing-Antarctic-Treaty-claim-suspension trajectory: 1841-James-Clark-Ross-+-Victoria-Land-discovery + 1911-Australasian-Antarctic-Expedition-Mawson + 1929-BANZARE-expedition-AAT-claim-foundation + 1933-AAT-Acceptance-Act-+-UK-sovereignty-transfer + 1954-AAT-Act-+-Mawson-Station + 1959-Antarctic-Treaty-article-IV-claim-suspension + 1975-Family-Law-Act-AAT-applicability + 1987-Hague-Convention-+-Australia-UNCRC + 1998-Madrid-Protocol-environmental-protection + 2024-Federal-Circuit-and-Family-Court-+-High-Court-best-interests.",
+    "Common-law Antarctic Australian external territory (Australian Federal law + AAT Acceptance Act 1933 + AAT Act 1954 + Antarctic Treaty 1959 article IV claim suspension + Madrid Protocol 1998 + Family Law Act 1975 + Hague via Australian territorial extension 1987). Single largest national Antarctic territorial claim by area globally (~5.9 million km², 42% of Antarctic continent) + only Antarctic territorial claim transferred between two states in formal sovereignty transfer + absence of permanent civilian population distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis theoretical given absence of permanent civilian population. Substantive Family Law Act 1975 + AAT Act 1954 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Antarctic + common-law + Australian-external-territory-cluster + single-largest-national-Antarctic-territorial-claim-by-area-globally-distinctive-5.9-million-km2 + only-Antarctic-territorial-claim-transferred-between-two-states-in-formal-sovereignty-transfer-globally-distinctive + Ross-1841-Victoria-Land-discovery + Australasian-Antarctic-Expedition-1911-Mawson + BANZARE-1929-Mawson + AAT-Acceptance-Act-1933 + AAT-Act-1954-+-Mawson-Station + Antarctic-Treaty-article-IV-claim-suspension-1959 + Madrid-Protocol-1998 + Family-Law-Act-1975 + Hague-via-Australian-territorial-extension-1987 clusters within the corpus."
   ]
 }

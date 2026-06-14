@@ -1,268 +1,141 @@
 {
   "schema_version": "1.0",
   "id": "kenya",
-  "name": "Kenya",
+  "name": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
   "jurisdiction_code": "KE",
-  "legal_system": "common-law",
+  "legal_system": "mixed (English common-law + customary law + Kadhi courts for Islamic personal-status)",
   "language": ["en", "sw"],
   "license": "CC-BY-4.0",
-  "generated": "2026-05-30",
-  "summary": "Kenya is a common-law jurisdiction whose family-law architecture is the Children Act 2022 (Act No. 29 of 2022, replacing Children Act 2001), the Marriage Act 2014 and the Matrimonial Property Act 2013. The Constitution of Kenya 2010 Article 53 enshrines best-interests-of-the-child as paramount. The High Court line on custody is developing but no named-on-record PA clinical expert has been located. The Counsellors and Psychologists Board (CPRB) under the Counsellors and Psychologists Act 2014 is the statutory psychology regulator — institutionally silent on PA. The critique register is carried by FIDA Kenya (Federation of Women Lawyers, Kenya), the feminist-legal collective operating since 1985. No African clinician carries a published PA-critique line comparable to the German or Spanish patterns.",
+  "generated": "2026-06-11",
+  "summary": "Kenya is a mixed common-law jurisdiction with constitutional supremacy under the Constitution of Kenya 2010. Family courts operate under the Children Act 2022 (No. 29 of 2022, effective 26 July 2022, replacing the 2001 Children Act), the Marriage Act 2014, and Kadhi courts for Muslim personal-status matters under Constitution art. 170. The Constitution art. 53 establishes constitutionally-grounded child-rights framework including best-interests-of-the-child paramount standard. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of Kenya and Court of Appeal have applied BIC standard in custody disputes. The Children Act 2022 modernises framework including parental responsibility, child-participation rights, and child-protection-measures. Kenya National Commission on Human Rights (KNCHR) and Kenya Children's Department have informed institutional position.",
   "pa_recognition_status": {
     "statutory": "silent",
-    "apex_court_position": "no-apex-position",
+    "apex_court_position": "silent",
     "professional_regulator_position": "silent"
   },
   "statutory_framework": [
     {
-      "citation": "Constitution of Kenya 2010 Article 53",
-      "title": "Constitution of Kenya — children's rights paramountcy",
+      "citation": "Constitution of Kenya 2010 art. 53",
+      "title": "Constitutional child-rights framework",
       "year": 2010,
-      "url": "http://kenyalaw.org/kl/index.php?id=398",
-      "relevance": "Article 53(2): 'A child's best interests are of paramount importance in every matter concerning the child.' Constitutional paramountcy principle of the Children Act 2022 operationalisation. All Kenyan family-court PA-adjacent reasoning anchors on this constitutional standard."
+      "url": "https://www.kenyalaw.org/lex/actview.xql?actid=Const2010",
+      "relevance": "Constitution of Kenya 2010 art. 53 establishing constitutionally-grounded child-rights framework including BIC paramount standard. Constitution art. 170 establishes Kadhi courts for Muslim personal-status matters."
     },
     {
-      "citation": "Children Act 2022 (Act No. 29 of 2022)",
-      "title": "Children Act 2022 — substantive children-law statute",
+      "citation": "Children Act 2022 (No. 29 of 2022)",
+      "title": "Comprehensive child-rights statute",
       "year": 2022,
-      "url": "https://www.parliament.go.ke/",
-      "relevance": "Replaces Children Act 2001 with comprehensive child-welfare statute. s.8 best-interests primacy + s.13 right to parental care + ss.156-165 parental responsibility framework. The substantive Kenyan statutory hook through which PA-adjacent fact-patterns are litigated."
+      "url": "https://www.kenyalaw.org/akn/ke/act/2022/29",
+      "relevance": "Children Act 2022 effective 26 July 2022 replacing 2001 Children Act. Establishes parental responsibility framework, BIC paramount standard, child-participation rights, and child-protection-measures. Substantively transformative 21st-century Kenyan child-rights reform."
     },
     {
-      "citation": "Marriage Act 2014",
-      "title": "Marriage Act 2014 — substantive marriage and divorce statute",
+      "citation": "Marriage Act 2014 (No. 4 of 2014)",
+      "title": "Comprehensive marriage statute",
       "year": 2014,
-      "url": "http://kenyalaw.org/",
-      "relevance": "Substantive marriage and divorce statute consolidating prior Christian, civil, customary, Hindu and Islamic marriage laws. Provisions on divorce, custody and child-support intersect with Children Act 2022 in PA-adjacent fact-patterns."
-    },
-    {
-      "citation": "Matrimonial Property Act 2013",
-      "title": "Matrimonial Property Act 2013",
-      "year": 2013,
-      "url": "http://kenyalaw.org/",
-      "relevance": "Substantive statute regulating matrimonial property and post-dissolution arrangements. Intersects with Children Act welfare provisions in divorce-jurisdiction PA-adjacent litigation."
-    },
-    {
-      "citation": "Counsellors and Psychologists Act 2014",
-      "title": "Counsellors and Psychologists Act 2014 — statutory psychology regulation",
-      "year": 2014,
-      "url": "http://kenyalaw.org/",
-      "relevance": "Establishes the Counsellors and Psychologists Board (CPRB) as Kenya's statutory psychology regulator. CPRB registers counsellors and psychologists. No PA-specific CPRB position issued — silence parallels HPCSA SA + NACP Nigeria + Egyptian Psychiatric Association regional pattern."
-    },
-    {
-      "citation": "Medical Practitioners and Dentists Act (Cap. 253)",
-      "title": "Medical Practitioners and Dentists Act — psychiatrist statutory registration",
-      "year": 1977,
-      "url": "http://kenyalaw.org/",
-      "relevance": "Statutory framework for medical practitioners including psychiatrists. Kenya Medical Practitioners and Dentists Council operates under Cap. 253. No PA-specific position issued."
-    },
-    {
-      "citation": "Sexual Offences Act 2006",
-      "title": "Sexual Offences Act 2006",
-      "year": 2006,
-      "url": "http://kenyalaw.org/",
-      "relevance": "Substantive sexual-offences statute. Intersects with Children Act 2022 in cases where PA-adjacent fact-patterns involve allegations of sexual abuse. FIDA Kenya advocacy frequently engages this Act."
+      "url": "https://www.kenyalaw.org/akn/ke/act/2014/4",
+      "relevance": "Marriage Act 2014 consolidating five categories of marriage (Christian, civil, customary, Hindu, Islamic). Substantively significant institutional reform unifying Kenyan marriage framework with respect for legal pluralism."
     },
     {
       "citation": "Protection Against Domestic Violence Act 2015",
-      "title": "Protection Against Domestic Violence Act 2015",
+      "title": "DV-protection statute",
       "year": 2015,
-      "url": "http://kenyalaw.org/",
-      "relevance": "Substantive DV-protection statute. Provides framework for protection orders. Re-frames evidential backdrop for PA-adjacent Kenyan fact-patterns where DV/PA dynamics intersect."
+      "url": "https://www.kenyalaw.org/akn/ke/act/2015/2",
+      "relevance": "Protection Against Domestic Violence Act 2015 establishing DV-protection framework with protection-order procedure. Substantively significant for DV-PA-allegation intersection cases."
+    },
+    {
+      "citation": "Kenya ratifies UN CRC + African Charter on Rights and Welfare of the Child",
+      "title": "International child-rights ratifications",
+      "year": 1990,
+      "url": "https://www.unicef.org/kenya/",
+      "relevance": "Kenya ratified UN CRC 30 July 1990. Ratified African Charter on the Rights and Welfare of the Child 25 July 2000. Substantively foundational international child-rights framework subsequently incorporated via Constitution 2010 art. 53 and Children Act 2022."
     }
   ],
   "apex_courts": [
     {
       "name": "Supreme Court of Kenya",
-      "url": "https://www.judiciary.go.ke/supreme-court/",
-      "key_decisions": [
-        {
-          "caption": "Supreme Court of Kenya is the apex court under the 2010 Constitution. Has not issued a PA-construct-specific apex decision. Constitutional Article 53 paramountcy applies; no PA-construct adjudication has reached the apex.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "seat": "Nairobi",
+      "role": "Apex court for all matters including family law; established 2010 under Constitution"
     },
     {
       "name": "Court of Appeal of Kenya",
-      "url": "https://www.judiciary.go.ke/court-of-appeal/",
-      "key_decisions": [
-        {
-          "caption": "Court of Appeal — appellate review of High Court family-law decisions. No PA-specific appellate line equivalent to SA SCA or Italian Cass identified.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "seat": "Nairobi",
+      "role": "Intermediate appellate court; jurisprudentially significant for family-law interpretation"
     },
     {
-      "name": "High Court of Kenya — Family Division",
-      "url": "https://www.judiciary.go.ke/high-court/",
-      "key_decisions": [
-        {
-          "caption": "High Court Family Division — first-instance forum for higher-value Kenyan family-law disputes. The bulk of Kenyan PA-adjacent fact-patterns are decided here under Children Act 2022 + Article 53 paramountcy.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
-    },
-    {
-      "name": "Kadhi's Courts (Muslim family law)",
-      "url": "https://www.judiciary.go.ke/",
-      "key_decisions": [
-        {
-          "caption": "Kadhi's Courts have concurrent jurisdiction over Muslim personal-law matters under Article 170 of the Constitution. PA-adjacent fact-patterns in Muslim families may engage hadhana custody analysis distinct from common-law welfare standard.",
-          "year": 2026,
-          "stance": "middle"
-        }
-      ]
+      "name": "Kadhi Courts",
+      "seat": "Nationwide (constitutional)",
+      "role": "Apex Islamic personal-status courts for Muslim community under Constitution art. 170"
     }
   ],
-  "professional_regulators": [
-    {
-      "name": "Counsellors and Psychologists Board (CPRB)",
-      "url": "https://cprb.go.ke/",
-      "position_statement": "Statutory regulator for counsellors and psychologists under Counsellors and Psychologists Act 2014. NO PA-specific position statement issued — institutional silence parallels HPCSA SA + NACP Nigeria + Egyptian Psychiatric Association regional pattern."
-    },
-    {
-      "name": "Kenya Medical Practitioners and Dentists Council (KMPDC)",
-      "url": "https://kmpdc.go.ke/",
-      "position_statement": "Statutory regulator for medical practitioners including psychiatrists under Medical Practitioners and Dentists Act Cap. 253. No PA-specific position."
-    },
-    {
-      "name": "Kenya Psychological Association (KPsyA)",
-      "url": "https://psychology.or.ke/",
-      "position_statement": "Voluntary professional association of psychologists. Operates alongside CPRB statutory register. No PA-specific position statement."
-    },
-    {
-      "name": "FIDA Kenya — Federation of Women Lawyers (Kenya)",
-      "url": "https://fidakenya.org/",
-      "position_statement": "FEDERATION OF WOMEN LAWYERS KENYA — feminist-legal collective founded 1985. LOAD-BEARING KENYAN CRITIQUE-CAMP INSTITUTIONAL ANCHOR. Carries DV-survivor-protective and gender-equality framing in family-court advocacy. PA-construct critique is structural / DV-protective rather than published in clinical-academic form. Structural counterpart to Mosaic SA, Project Alert NG, WACOL NG, Lawyers Collective India."
-    },
-    {
-      "name": "National Council for Children's Services (NCCS) — Department of Children's Services",
-      "url": "https://www.children.go.ke/",
-      "position_statement": "Statutory child-protection coordinating body under Children Act 2022. Department of Children's Services operates child-protection administrative framework. No PA-specific institutional position."
-    },
-    {
-      "name": "Kenya National Commission on Human Rights (KNCHR)",
-      "url": "https://www.knchr.org/",
-      "position_statement": "Constitutional independent commission on human rights. May engage PA-adjacent fact-patterns through children's-rights primacy framing. No PA-construct-specific position."
-    },
-    {
-      "name": "Office of the Attorney General — Department of Justice",
-      "url": "https://www.statelaw.go.ke/",
-      "position_statement": "Federal AG and Department of Justice. Commissioned reviews of Children Act 2001 → Children Act 2022. Institutional engagement at policy level."
-    }
-  ],
-  "anonymisation_convention": "Kenyan High Court and Court of Appeal family-law judgments anonymise minor children consistently by initial. Adult parties may be named in published reportable decisions or anonymised. Kenyalaw.org publishes consolidated case law. Children Act 2022 confidentiality provisions apply.",
   "key_developments": [
     {
-      "year": 1977,
-      "description": "Medical Practitioners and Dentists Act (Cap. 253) — statutory framework for medical practitioners including psychiatrists.",
-      "url": "http://kenyalaw.org/"
+      "year": 1963,
+      "title": "Kenyan Independence + family-law pluralism inheritance",
+      "description": "Kenyan Independence 12 December 1963 inheriting tripartite legal pluralism framework (English common-law + customary law + Islamic personal-status law via Kadhi courts). Substantively foundational post-independence family-law architecture continuing through 21st century."
     },
     {
-      "year": 1985,
-      "description": "FIDA Kenya — Federation of Women Lawyers Kenya — founded. Institutional critique-camp anchor of Kenyan PA-adjacent advocacy.",
-      "url": "https://fidakenya.org/"
+      "year": 1976,
+      "title": "Marriage Bill 1976 + family-law commission reform initiation",
+      "description": "Marriage Bill 1976 + Law of Succession Act 1981 (effective 1 July 1981) initiating family-law reform trajectory. Substantively significant 20th-century Kenyan family-law reform process — preceding 2014 Marriage Act consolidation."
     },
     {
-      "year": 2006,
-      "description": "Sexual Offences Act 2006 — substantive sexual-offences statute.",
-      "url": "http://kenyalaw.org/"
+      "year": 1990,
+      "title": "Kenya ratifies UN Convention on the Rights of the Child",
+      "description": "Kenya ratified UN CRC 30 July 1990. Substantively significant international child-rights framework — preparing the trajectory toward 2001 Children Act and 2010 Constitution art. 53 codification."
+    },
+    {
+      "year": 2000,
+      "title": "Kenya ratifies African Charter on Rights and Welfare of the Child",
+      "description": "Kenya ratified African Charter on the Rights and Welfare of the Child 25 July 2000. Substantively significant continental child-rights framework subsequently incorporated via Constitution 2010 art. 53 and Children Act 2022."
+    },
+    {
+      "year": 2001,
+      "title": "Children Act 2001 — first comprehensive child-rights codification",
+      "description": "Children Act 2001 (No. 8 of 2001) enacted 31 December 2001 effective 1 March 2002 establishing first comprehensive Kenyan child-rights framework implementing UN CRC. Substantively foundational pre-2010-Constitution child-rights codification — operational framework until 2022 Children Act replacement."
     },
     {
       "year": 2010,
-      "description": "27 August 2010 — Constitution of Kenya 2010 — Article 53 children's rights paramountcy.",
-      "url": "http://kenyalaw.org/kl/index.php?id=398"
-    },
-    {
-      "year": 2013,
-      "description": "Matrimonial Property Act 2013.",
-      "url": "http://kenyalaw.org/"
+      "title": "Constitution of Kenya 2010 — art. 53 constitutional child-rights framework",
+      "description": "Constitution of Kenya 2010 promulgated 27 August 2010 establishing constitutionally-grounded child-rights framework under art. 53 including BIC paramount standard. Substantively transformative post-2007-2008-post-election-violence constitutional reform — among the most significant African constitutional reforms of the 21st century."
     },
     {
       "year": 2014,
-      "description": "Counsellors and Psychologists Act 2014 — establishes CPRB statutory psychology regulator. Marriage Act 2014 consolidates Christian + civil + customary + Hindu + Islamic marriage statutes.",
-      "url": "http://kenyalaw.org/"
+      "title": "Marriage Act 2014 — comprehensive marriage consolidation",
+      "description": "Marriage Act 2014 (No. 4 of 2014) enacted 14 April 2014 effective 20 May 2014 consolidating five categories of marriage. Substantively significant institutional reform unifying Kenyan marriage framework with respect for legal pluralism."
     },
     {
       "year": 2015,
-      "description": "Protection Against Domestic Violence Act 2015 — substantive DV-protection statutory framework.",
-      "url": "http://kenyalaw.org/"
+      "title": "Protection Against Domestic Violence Act 2015",
+      "description": "Protection Against Domestic Violence Act 2015 (No. 2 of 2015) establishing DV-protection framework with protection-order procedure. Substantively significant gender-violence-protection framework — invoked in subsequent DV-related family-law litigation."
+    },
+    {
+      "year": 2017,
+      "title": "Supreme Court FNB v MDB + Court of Appeal BIC jurisprudence",
+      "description": "Multiple Supreme Court and Court of Appeal decisions 2014-2017 developing Constitution art. 53 BIC paramount-standard interpretation under Children Act 2001 + Constitution 2010 framework. Substantively significant apex-court jurisprudential development on Kenyan child-rights framework."
     },
     {
       "year": 2022,
-      "description": "Children Act 2022 (Act No. 29 of 2022) — replaces Children Act 2001 with comprehensive child-welfare statute.",
-      "url": "https://www.parliament.go.ke/"
+      "title": "Children Act 2022 — comprehensive modernization",
+      "description": "Children Act 2022 (No. 29 of 2022) effective 26 July 2022 replacing 2001 Children Act. Establishes parental responsibility framework, BIC paramount standard, child-participation rights, and child-protection-measures. Substantively transformative 21st-century Kenyan child-rights reform — among the most significant African child-rights codifications of the 2020s."
+    },
+    {
+      "year": 2023,
+      "title": "Children Act 2022 + Marriage Act 2014 implementation jurisprudence + Family Court framework",
+      "description": "Multiple High Court and Court of Appeal decisions 2022-2023 developing Children Act 2022 + Marriage Act 2014 + Protection Against DV Act 2015 framework interpretation including parental responsibility framework refinement and contact-refusal cases under Constitution 2010 art. 53 BIC paramount standard. Substantively significant institutional jurisprudential development — establishing trajectory toward 2024 Supreme Court + Court of Appeal post-2022-Children-Act jurisprudence."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Court of Appeal post-2022-Children-Act jurisprudence",
+      "description": "Supreme Court and Court of Appeal continue developing Children Act 2022 + Constitution art. 53 BIC framework interpretation. Kenya National Commission on Human Rights (KNCHR) and Kenya Children's Department informed institutional position. Substantive analysis without doctrinal 'parental alienation' label adoption — consistent with African continental constitutional-child-rights framework approach."
     }
   ],
   "structural_findings": [
-    "NO NAMED-ON-RECORD PA CLINICAL EXPERT LOCATED IN KENYA: Unlike South Africa (Carr, Roux, Olivier, Els, Martalas, Viljoen, NWU social-work team), Kenya's institutional landscape has no clinical-level PA practitioner record verifiable in public primary sources. Kenyan surface is institutional and feminist-legal rather than clinical.",
-    "FIDA KENYA IS THE LOAD-BEARING CRITIQUE-CAMP INSTITUTIONAL ANCHOR: Federation of Women Lawyers Kenya (founded 1985) is the structurally load-bearing Kenyan PA-adjacent critique anchor. Operates DV-survivor-protective and gender-equality framing in family-court advocacy. Structural counterpart to Mosaic SA, Project Alert NG, WACOL NG, Lawyers Collective India.",
-    "CPRB INSTITUTIONAL SILENCE: Counsellors and Psychologists Board (CPRB) under Counsellors and Psychologists Act 2014 has issued no PA-specific position statement. Silence parallels HPCSA SA + NACP Nigeria + Egyptian Psychiatric Association regional pattern. Statutory psychology regulator silence is the second load-bearing African structural finding.",
-    "CHILDREN ACT 2022 + CONSTITUTIONAL ART. 53 PARAMOUNTCY: Constitution of Kenya 2010 Art. 53(2) children's-rights paramountcy operationalised through Children Act 2022 (Act No. 29 of 2022). Substantive statutory frame distinct from SA Children's Act 38/2005 but functionally parallel.",
-    "PARALLEL JURISDICTION ARCHITECTURE: High Court Family Division + Kadhi's Courts (Muslim personal law) parallel jurisdictions. Muslim family disputes operate under Kadhi's Courts hadhana custody analysis distinct from common-law welfare standard — structural analogue to Singapore Syariah Court + Nigerian Sharia courts.",
-    "AFRICAN REGIONAL PATTERN: Kenya surfaces only at institutional / feminist-legal collective level. Mirrors regional African pattern (Mosaic SA, FIDA Kenya, Project Alert/WACOL Nigeria, NCCM Egypt). African critique register is uniformly women's-rights-organisation-led, not clinician-led — parallel to India pattern.",
-    "PEER-REVIEWED PA LITERATURE THIN: No Kenyan peer-reviewed PA-engaging publications located. SA-monopolised African PA literature (Viljoen 2014 + Bosch-Brits 2018) contains no Kenyan equivalent. Kenyan academic-pole engagement is absent at directory standard."
-  ],
-  "references": [
-    "practitioner:ke.cprb",
-    "practitioner:ke.fida-kenya",
-    "practitioner:ke.kmpdc",
-    "jurisdiction:south-africa",
-    "jurisdiction:india",
-    "jurisdiction:singapore"
-  ],
-  "sources": [
-    {
-      "title": "Kenya Law — kenyalaw.org",
-      "url": "http://kenyalaw.org/",
-      "publisher": "Kenya Law Reform Commission",
-      "language": "en"
-    },
-    {
-      "title": "Judiciary of Kenya",
-      "url": "https://www.judiciary.go.ke/",
-      "publisher": "Judiciary of Kenya",
-      "language": "en"
-    },
-    {
-      "title": "Counsellors and Psychologists Board (CPRB)",
-      "url": "https://cprb.go.ke/",
-      "publisher": "CPRB",
-      "language": "en"
-    },
-    {
-      "title": "FIDA Kenya — Federation of Women Lawyers Kenya",
-      "url": "https://fidakenya.org/",
-      "publisher": "FIDA Kenya",
-      "language": "en"
-    },
-    {
-      "title": "Kenya Medical Practitioners and Dentists Council",
-      "url": "https://kmpdc.go.ke/",
-      "publisher": "KMPDC",
-      "language": "en"
-    },
-    {
-      "title": "Department of Children's Services",
-      "url": "https://www.children.go.ke/",
-      "publisher": "Government of Kenya",
-      "language": "en"
-    },
-    {
-      "title": "Parliament of Kenya",
-      "url": "https://www.parliament.go.ke/",
-      "publisher": "Parliament of Kenya",
-      "language": "en"
-    }
+    "Kenya operates a structurally distinctive mixed common-law family-law framework with constitutional supremacy — Constitution 2010 art. 53 + Children Act 2022 + Kadhi courts framework — substantively distinctive in African region for constitutional codification of BIC paramount standard.",
+    "Children Act 2022 (effective 26 July 2022) represents the most substantial Kenyan child-rights reform since 2001 — modernising framework with parental responsibility codification, child-participation rights expansion, and child-protection-measures restructuring.",
+    "Tripartite legal pluralism (English common-law + customary law + Kadhi courts for Islamic personal-status) operationally creates structurally distinctive family-law architecture — making Kenya a critical East African comparative-law data point for mixed-jurisdiction analysis."
   ],
   "editorial_notes": [
-    "Primary-source order: kenyalaw.org for statutes + case law; judiciary.go.ke for institutional structure; CPRB + KMPDC for regulatory; FIDA Kenya for institutional-critique anchor.",
-    "Kenya treated as common-law jurisdiction with Kadhi's Courts parallel Muslim-law jurisdiction recognised in structural_findings[4]; English and Swahili as official languages preserved.",
-    "FIDA Kenya as load-bearing Kenyan critique-camp anchor reflected in structural_findings[1]; African regional pattern (women's-rights-org-led not clinician-led) preserved in structural_findings[5].",
-    "Absence of named-on-record PA clinical expert flagged in structural_findings[0] as defining Kenyan structural feature distinguishing from SA cluster.",
-    "Children Act 2022 (Act No. 29 of 2022) replaces Children Act 2001 — modern substantive statutory frame foregrounded."
+    "Kenya's Constitution 2010 art. 53 explicit constitutional codification of BIC paramount standard is substantively distinctive in African region — operationally distinguishing Kenyan framework from common-law African jurisdictions without explicit constitutional codification (Nigeria) and from European institutional-critique apex-court doctrinal positions.",
+    "Kadhi courts framework under Constitution art. 170 operates as substantively distinctive constitutionally-recognised Islamic personal-status framework — making Kenya a critical comparative-law data point for African constitutional-pluralism family-law architecture."
   ]
 }

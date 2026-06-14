@@ -54,18 +54,58 @@
   "key_developments": [
     {
       "year": 1900,
-      "title": "US territorial status",
-      "description": "American Samoa established as US unincorporated territory."
+      "title": "US territorial status + 1899 Tripartite Convention framework",
+      "description": "American Samoa established as US unincorporated territory 17 April 1900 following 1899 Tripartite Convention between US, Germany, UK partitioning Samoa. Substantively distinctive Pacific colonial-partition framework establishing American-Samoa-Western-Samoa division. Foundational pre-Constitution framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1929,
+      "title": "American Samoa territorial-administration + US Navy framework",
+      "description": "US Navy administration of American Samoa 1900-1951 substantively distinctive Pacific US-territorial-administration framework. Subsequent Department of Interior administration 1951-onwards. Foundational pre-self-government framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1967,
       "title": "American Samoa Constitution + fa'a Samoa protection",
-      "description": "Constitution establishing American Samoa's institutional framework and fa'a Samoa customary-law protection."
+      "description": "American Samoa Constitution 1967 establishing American Samoa's institutional framework and fa'a Samoa customary-law protection. Substantively distinctive Pacific US-territory-constitutional-fa'a-Samoa-protection framework. Foundational constitutional anchor for contemporary family-law jurisprudence including matai-title and customary-land framework."
+    },
+    {
+      "year": 1977,
+      "title": "Elected Governor + self-government framework consolidation",
+      "description": "American Samoa first elected governor 1978 (Peter Tali Coleman) — substantively reforming territorial-political framework. Substantive self-government enhancement affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1981,
+      "title": "American Samoa Code Annotated Title 42 + Domestic Relations framework",
+      "description": "American Samoa Code Annotated Title 42 (Domestic Relations) codifying marriage, divorce, parental responsibility, and child custody. Chapter 1 governs Domestic Relations and parental responsibility. Substantively significant US-derivative family-law framework alongside fa'a Samoa customary-law framework."
     },
     {
       "year": 1988,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by US to American Samoa effective 1 July 1988."
+      "description": "Hague Convention 1980 territorial extension by US to American Samoa effective 1 July 1988 — establishing Pacific Hague Convention jurisdiction framework within US-territorial framework."
+    },
+    {
+      "year": 1995,
+      "title": "US UNCRC signed-not-ratified + American Samoa context",
+      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified — substantively distinctive US-non-ratification framework. Substantive best-interests-of-the-child framework applicable through US-derivative-common-law-substrate without UNCRC-treaty-direct-effect in American Samoa."
+    },
+    {
+      "year": 2014,
+      "title": "American Samoa birthright-citizenship-jurisprudence + Tuaua v United States 2015",
+      "description": "Tuaua v United States 2015 — substantively distinctive US-circuit-court ruling that American Samoans are US nationals (not US citizens) by default. Substantively distinctive globally only-US-territory-where-birthright-citizenship-does-not-apply framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2019,
+      "title": "Fitisemanu v United States 2019 + birthright-citizenship-litigation framework",
+      "description": "Fitisemanu v United States December 2019 — US District Court Utah ruled American Samoans are US citizens by birthright. Subsequent 10th Circuit reversal 2021. Supreme Court declined cert 2022. Substantively distinctive ongoing globally constitutional-birthright-citizenship framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Lemanu Mauga administration + Fono framework + continuing-fa'a-Samoa-+-US-national-status framework",
+      "description": "Governor Lemanu Peleti Mauga administration 2021-onwards framework continuing through 2023 with American Samoa Fono (Legislature) institutional positions addressing PA-related issues within ASCA Title 42 Domestic Relations + fa'a Samoa customary-law framework. Substantive continuing US-national-status (not US-citizen-by-default) framework affecting cross-border family-law adjudication. Substantively significant Pacific US-unincorporated-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "High Court of American Samoa + Land and Titles Division — welfare-of-the-child + fa'a Samoa substantive register",
+      "description": "High Court of American Samoa and Land and Titles Division continue to develop welfare-of-the-child jurisprudence under ASCA Title 42 + fa'a Samoa customary-law framework in custody disputes within Pacific US-territorial framework. Substantive analysis without doctrinal 'parental alienation' label adoption — within US-derivative common-law + fa'a Samoa customary-law framework."
     }
   ],
   "structural_findings": [
@@ -96,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "American Samoa jurisdiction sidecar — mixed-legal-system Pacific US unincorporated territory (ASCA Title 42 + Constitution 1967 + fa'a Samoa customary-law via Land and Titles Division + US nationals (not citizens by default) distinctive + Hague via US territorial extension 1988). Only US territory where birthright citizenship does not apply globally.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific Island + mixed-legal-system + US-unincorporated-territory cluster + no-birthright-citizenship-distinctive + fa'a Samoa-customary-law + Hague-via-US-territorial-extension clusters within the corpus."
+    "American Samoa jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full territorial-status-to-contemporary trajectory: 1900-US-territorial-status-+-1899-Tripartite-Convention + 1929-American-Samoa-+-US-Navy + 1967-American-Samoa-Constitution-+-fa'a-Samoa-protection + 1977-Elected-Governor-+-self-government + 1981-American-Samoa-Code-Annotated-Title-42 + 1988-Hague-Convention-1980-territorial-extension + 1995-US-UNCRC-signed-not-ratified + 2014-Tuaua-v-United-States-2015 + 2019-Fitisemanu-v-United-States + 2024-High-Court-+-Land-and-Titles-Division.",
+    "Mixed-legal-system Pacific US unincorporated territory (ASCA Title 42 + Constitution 1967 + fa'a Samoa customary-law via Land and Titles Division + US nationals (not citizens by default) distinctive + Hague via US territorial extension 1988). Only US territory where birthright citizenship does not apply globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under ASCA Title 42 + fa'a Samoa customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific-Island + mixed-legal-system + US-unincorporated-territory-cluster + only-US-territory-where-birthright-citizenship-does-not-apply-globally-distinctive + fa'a-Samoa-customary-law-+-matai-title-+-Land-and-Titles-Division + Tuaua-2015-+-Fitisemanu-2019-constitutional-birthright-citizenship-litigation + 1899-Tripartite-Convention-Samoa-partition-American-Samoa-Western-Samoa + Hague-via-US-territorial-extension clusters within the corpus."
   ]
 }

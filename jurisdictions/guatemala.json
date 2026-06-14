@@ -53,19 +53,59 @@
   "anonymisation_convention": "Guatemalan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1821,
+      "title": "Guatemala independence + Central-American-Federation framework",
+      "description": "Guatemala independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1954,
+      "title": "1954 Guatemalan coup d'état + CIA-backed Castillo Armas + Cold-War framework",
+      "description": "1954 Guatemalan coup d'état 18-27 June 1954 — CIA-backed (Operation PBSUCCESS) overthrow of democratically-elected Jacobo Árbenz. Substantively distinctive Cold-War-era US-Latin-American intervention pattern. Foundational pre-civil-war framework affecting subsequent political-institutional-trajectory."
+    },
+    {
+      "year": 1960,
+      "title": "Guatemalan Civil War 1960-1996 + indigenous-genocide framework",
+      "description": "Guatemalan Civil War 1960-1996 — substantive 36-year conflict between government forces and leftist guerrilla groups with estimated 200,000 killed and 45,000 'disappeared'. Substantively distinctive Latin-American indigenous-genocide pattern documented by CEH Commission for Historical Clarification — particularly affecting Maya population (83% of victims) substantially affecting demographic and family-law-implementation framework."
+    },
+    {
       "year": 1963,
       "title": "Civil Code 1963",
-      "description": "Federal Civil Code enacted codifying personal-status, family, and inheritance provisions."
+      "description": "Federal Civil Code enacted Decreto Ley 106 of 14 September 1963 codifying personal-status, family, and inheritance provisions. Arts. 252-282 govern patria potestad and child custody."
+    },
+    {
+      "year": 1985,
+      "title": "Constitution 1985 + democratic-transition framework",
+      "description": "Constitution of Guatemala 1985 adopted 31 May 1985 (effective 14 January 1986) — substantively reforming political-institutional framework establishing contemporary constitutional-democratic framework. Foundational pre-1996-Peace-Accords framework affecting subsequent family-law-modernisation trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Guatemala ratifies UN Convention on the Rights of the Child",
+      "description": "Guatemala ratified the UNCRC on 6 June 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2003 Children and Adolescents Protection Code substantive doctrine."
+    },
+    {
+      "year": 1996,
+      "title": "Guatemala Peace Accords + post-civil-war democratic-trajectory",
+      "description": "Guatemala Peace Accords signed 29 December 1996 ending 36-year Guatemalan Civil War. Substantive democratic-transition framework establishing contemporary constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
     },
     {
       "year": 2002,
       "title": "Hague Convention 1980 accession",
-      "description": "Guatemala acceded to the Hague Convention 1980 effective 1 May 2002."
+      "description": "Guatemala acceded to the Hague Convention 1980 effective 1 May 2002 — substantively significant Hague Central American accession affecting cross-border-jurisdiction-practice."
     },
     {
       "year": 2003,
-      "title": "Children and Adolescents Protection Code",
-      "description": "Federal Code enacted codifying superior-interest-of-the-child principle and child-protection provisions aligned with UNCRC."
+      "title": "Children and Adolescents Protection Code (Decreto 27-2003) + UNCRC-aligned framework",
+      "description": "Federal Children and Adolescents Protection Code enacted Decreto 27-2003 of 4 June 2003 codifying superior-interest-of-the-child principle (art. 5) and child-protection provisions aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Latin-American UNCRC-comprehensive-children's-protection-code wave."
+    },
+    {
+      "year": 2023,
+      "title": "Arévalo election + democratic transition + Procuraduría de los Derechos Humanos framework",
+      "description": "Bernardo Arévalo (Movimiento Semilla) elected 20 August 2023 with subsequent democratic transition under attempted institutional obstruction 2023-2024. Procuraduría de los Derechos Humanos (PDH) institutional position addressing PA-related issues within Children and Adolescents Protection Code 2003 + Civil Code framework. Substantively significant Central American institutional jurisprudential development establishing trajectory toward 2024 Arévalo presidency substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Corte Suprema de Justicia + Corte de Constitucionalidad — superior-interest-of-the-child substantive register + Arévalo presidency",
+      "description": "Corte Suprema de Justicia and Corte de Constitucionalidad continue to develop superior-interest-of-the-child jurisprudence under Civil Code 1963 + Children and Adolescents Protection Code 2003 art. 5 + Hague Convention 1980 framework in custody disputes within Bernardo Arévalo presidency 14 January 2024-present (Semilla Movement). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -101,8 +141,9 @@
     }
   ],
   "editorial_notes": [
-    "Guatemala jurisdiction sidecar — civil-law Central America (Civil Code 1963 + Children and Adolescents Protection Code 2003 + Hague Convention 1980 accession 2002).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Latin American + civil-law + Central American + Hague Convention clusters within the corpus."
+    "Guatemala jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full independence-to-Arévalo trajectory: 1821-Guatemala-independence-+-Central-American-Federation + 1954-1954-Guatemalan-coup-+-CIA-+-Castillo-Armas + 1960-Guatemalan-Civil-War-+-indigenous-genocide + 1963-Civil-Code + 1985-Constitution-+-democratic-transition + 1990-UNCRC-ratification + 1996-Guatemala-Peace-Accords + 2002-Hague-Convention-1980-accession + 2003-Children-and-Adolescents-Protection-Code + 2024-Corte-Suprema-+-Corte-de-Constitucionalidad-+-Arévalo-presidency.",
+    "Civil-law Central America (Civil Code 1963 + Children and Adolescents Protection Code 2003 + Hague Convention 1980 accession 2002).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Civil Code 1963 + Children and Adolescents Protection Code 2003 art. 5 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Latin-American + civil-law + Central-American + 1954-CIA-backed-coup-Cold-War-distinctive + Guatemalan-Civil-War-1960-1996-36-year-200000-killed + indigenous-genocide-Maya-83-percent-CEH-Commission-distinctive + Guatemala-Peace-Accords-1996 + Bernardo-Arévalo-Semilla-Movement-2024 + Hague-Convention clusters within the corpus."
   ]
 }

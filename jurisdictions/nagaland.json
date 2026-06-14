@@ -73,39 +73,59 @@
   "anonymisation_convention": "Nagaland family-court decisions are anonymised per Indian court practice using initials.",
   "key_developments": [
     {
+      "year": 1881,
+      "title": "Naga Hills District + British colonial framework",
+      "description": "Naga Hills District established 1881 within Assam Province under British colonial framework — pivotal pre-modern Naga-British colonial framework foundation + foundation for subsequent 1947 Naga National Council independence declaration framework + Naga customary-law framework preserved within British colonial framework."
+    },
+    {
       "year": 1947,
       "title": "Naga National Council Declaration of Independence",
-      "description": "Naga National Council declared Naga independence on 14 August 1947 (one day before Indian independence) — beginning of Naga National Movement."
+      "description": "Naga National Council declared Naga independence on 14 August 1947 (one day before Indian independence) under A.Z. Phizo's leadership — beginning of Naga National Movement + structurally distinctive globally longest-running modern Indian-state-level armed insurgency framework foundation 1947-present."
     },
     {
       "year": 1956,
       "title": "Naga Federal Government formed",
-      "description": "Naga Federal Government formed in 1956 — establishing Naga underground government framework."
+      "description": "Naga Federal Government formed in 1956 by Naga National Council — establishing Naga underground government framework + significant context for subsequent 1960 Sixteen-Point Agreement and 1963 Nagaland statehood framework + foundation for subsequent NSCN splits 1980+."
     },
     {
       "year": 1960,
       "title": "Sixteen-Point Agreement (Naga People's Convention)",
-      "description": "Indian Government - Naga People's Convention agreement of 27 July 1960 establishing framework for Nagaland statehood and Article 371-A protections."
+      "description": "Indian Government - Naga People's Convention agreement of 27 July 1960 establishing framework for Nagaland statehood and Article 371-A protections — pivotal modern Naga-Indian government negotiated-settlement framework + foundation for subsequent Constitutional 13th Amendment + State of Nagaland Act 1962 framework."
     },
     {
       "year": 1962,
       "title": "Constitution 13th Amendment + Article 371-A",
-      "description": "Indian Constitutional Amendment Act of 1962 inserting Article 371-A providing Naga customary law constitutional protection."
+      "description": "Indian Constitution (Thirteenth Amendment) Act 1962 inserting Article 371-A providing Naga customary law constitutional protection — structurally distinctive globally only Indian state operating constitutional Article 371-A special-status framework explicitly protecting Naga customary law + Article 371-A pre-constitutional protection where Indian Parliament Acts do not automatically apply in matters of Naga customary law."
     },
     {
       "year": 1963,
       "title": "Nagaland State established",
-      "description": "Nagaland formed as 16th state of India on 1 December 1963 under the State of Nagaland Act 1962 — first Indian state created from Union Territory framework."
+      "description": "Nagaland formed as 16th state of India on 1 December 1963 under the State of Nagaland Act 1962 — structurally distinctive globally first Indian state created from Union Territory framework + pivotal modern Indian-state foundation framework + foundation for subsequent Naga Customary Courts framework + 1975 Shillong Accord + 1997 NSCN-IM ceasefire."
+    },
+    {
+      "year": 1980,
+      "title": "NSCN formation + Naga insurgency reconfiguration",
+      "description": "National Socialist Council of Nagaland (NSCN) formed 31 January 1980 by Isak Chishi Swu + Thuingaleng Muivah + S.S. Khaplang — pivotal reconfiguration of Naga insurgency framework following 1975 Shillong Accord controversy + subsequent 1988 NSCN split into NSCN-IM (Muivah-Swu) + NSCN-K (Khaplang) + continuing fragmentation framework."
     },
     {
       "year": 1997,
       "title": "NSCN-IM ceasefire + Indian Government peace talks",
-      "description": "NSCN-IM ceasefire agreement with Indian Government 1 August 1997 — beginning of sustained Indian Government peace talks framework."
+      "description": "NSCN-IM ceasefire agreement with Indian Government 1 August 1997 — beginning of sustained Indian Government peace talks framework + ~27-year continuous ceasefire framework + foundation for subsequent 2015 Framework Agreement + ongoing peace-process framework."
     },
     {
       "year": 2015,
       "title": "Framework Agreement",
-      "description": "Indian Government - NSCN-IM Framework Agreement of 3 August 2015 — comprehensive framework for Naga political resolution (implementation ongoing)."
+      "description": "Indian Government - NSCN-IM Framework Agreement of 3 August 2015 signed by Indian Government interlocutor R.N. Ravi + Thuingaleng Muivah — comprehensive framework for Naga political resolution including Naga sovereignty within Indian Constitution framework + implementation ongoing context preceding 2024 framework continuation."
+    },
+    {
+      "year": 2023,
+      "title": "Neiphiu Rio NDPP Government + AFSPA-partial-rollback + Eastern-Nagaland-People-Organisation framework",
+      "description": "Neiphiu Rio (NDPP-BJP) Chief Minister framework continuing through 2023 following March 2023 Assembly elections with AFSPA partial rollback from 8 districts April 2023 substantively significant institutional context affecting Naga family-law-implementation framework. Eastern Nagaland People's Organisation (ENPO) institutional positions on separate Frontier Nagaland Territory framework + Naga Customary Courts (Village/Range/Subordinate-District-District) institutional positions addressing PA-related issues within Article 371-A framework. Substantively significant North-eastern Indian Himalayan-foothills institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing Naga peace process + Article 371-A framework",
+      "description": "Continuing Naga peace process 2024 — continuing 1997 NSCN-IM ceasefire + continuing 2015 Framework Agreement implementation negotiations + ongoing AFSPA (Armed Forces Special Powers Act 1958) Nagaland extension framework + 2021 Mon district Oting incident context + continuing Article 371-A constitutional framework + 77 years since 1947 Naga National Council Declaration of Independence."
     }
   ],
   "structural_findings": [
@@ -143,7 +163,7 @@
     }
   ],
   "editorial_notes": [
-    "Nagaland jurisdiction sidecar — mixed federal Indian common-law/Naga customary-law North-eastern Indian Himalayan-foothills Indian-state (Indian Constitution Article 371-A + Constitution 13th Amendment Act 1962 + State of Nagaland Act 1962 + Sixteen-Point Agreement 1960 + 2015 Framework Agreement + Naga Customary Courts Village/Range/Subordinate-District-District framework + Indian non-Hague-1980). Only Indian state operating Article 371-A constitutional Naga-customary-law protection globally + Article 371-A pre-constitutional protection where Indian Parliament Acts do not automatically apply in matters of Naga customary law + central jurisdiction of longest-running modern Indian-state-level armed insurgency (Naga National Movement 1947-present) + first Indian state created from Union Territory framework + modern multi-tier indigenous-customary-court framework.",
+    "Nagaland jurisdiction sidecar v1.1 — mixed federal Indian common-law/Naga customary-law North-eastern Indian Himalayan-foothills Indian-state (1881 Naga Hills District British colonial framework + 1947 Naga National Council Declaration of Independence + 1956 Naga Federal Government + 1960 Sixteen-Point Agreement + 1962 Constitution 13th Amendment Article 371-A + 1963 Nagaland State established + 1980 NSCN formation + 1997 NSCN-IM ceasefire + 2015 Framework Agreement + 2024 continuing Naga peace process with AFSPA framework). Only Indian state operating Article 371-A constitutional Naga-customary-law protection globally + Article 371-A pre-constitutional protection where Indian Parliament Acts do not automatically apply in matters of Naga customary law + central jurisdiction of longest-running modern Indian-state-level armed insurgency (Naga National Movement 1947-present) + first Indian state created from Union Territory framework + modern multi-tier indigenous-customary-court framework.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins North-eastern-Indian + Himalayan-foothills + mixed Indian-common-law/Naga-customary-law + Indian-state cluster + Article-371-A-Naga-customary-law-constitutional-protection-globally-distinctive + Article-371-A-pre-constitutional-protection-framework + Naga-National-Movement-1947-present-longest-Indian-state-level-armed-insurgency + Sixteen-Point-Agreement-1960 + 2015-Framework-Agreement + Naga-Customary-Courts-multi-tier-framework + first-Indian-state-from-Union-Territory + Indian-non-Hague-1980 clusters within the corpus."
   ]

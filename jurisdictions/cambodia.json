@@ -53,20 +53,68 @@
   "anonymisation_convention": "Cambodian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1975,
+      "title": "Khmer Rouge era + family-law-system-destruction (1975-1979)",
+      "description": "Khmer Rouge regime 17 April 1975 to 7 January 1979 destroyed Cambodia's legal-institutional framework including the pre-existing French-derivative civil-law family-law system inherited from French Protectorate (1863-1953) and Kingdom of Cambodia (1953-1975). Mass killings and forced-marriage policies caused profound family-structure disruption — the foundational historical substrate for post-1979 reconstruction trajectory and contemporary family-law jurisprudence."
+    },
+    {
       "year": 1989,
-      "title": "Law on Marriage and Family",
-      "description": "Federal marriage and family statute enacted under PRK administration."
+      "title": "Law on Marriage and Family enacted",
+      "description": "Federal Law on Marriage and Family enacted 26 July 1989 under People's Republic of Kampuchea (PRK, 1979-1989) / State of Cambodia (SOC, 1989-1993) administration — first major post-Khmer-Rouge family-law statute codifying marriage, parental rights, divorce, custody, and inheritance within socialist-civil-law framework. Foundational substantive anchor for subsequent Cambodian family-law jurisprudence."
+    },
+    {
+      "year": 1992,
+      "title": "Cambodia ratifies UN Convention on the Rights of the Child",
+      "description": "Cambodia ratified the UNCRC on 15 October 1992 — framing the post-conflict family-law-reform trajectory toward best-interest-of-the-child substantive doctrine; CRC engagement is the operative international children's-rights-monitoring register."
+    },
+    {
+      "year": 1993,
+      "title": "Constitution of the Kingdom of Cambodia",
+      "description": "New Constitution adopted 24 September 1993 establishing constitutional monarchy framework following 1991 Paris Peace Agreements and 1993 UN-administered elections (UNTAC). Constitution Arts. 45-47 codify family-protection-clauses, marriage-on-free-will, gender-equality, and child-protection — providing the constitutional anchor for subsequent family-law jurisprudence."
     },
     {
       "year": 2007,
-      "title": "Civil Code adoption",
-      "description": "Comprehensive Civil Code adopted, with Book V on Family. Effective 2011."
+      "title": "Civil Code adoption (Japanese-assisted)",
+      "description": "Comprehensive Civil Code adopted by National Assembly 8 December 2007 (Royal Kram NS/RKM/1207/030) — drafted with significant Japan International Cooperation Agency (JICA) technical assistance, drawing on Japanese civil-law tradition. Book V on Family (arts. 1034-1054 parental authority + custody) replaced the 1989 Law on Marriage and Family for most provisions. Effective 21 December 2011."
+    },
+    {
+      "year": 2008,
+      "title": "Law on the Prevention of Domestic Violence and Protection of Victims",
+      "description": "Federal Law on the Prevention of Domestic Violence and Protection of Victims enacted 24 October 2005, with implementation framework operational from 2008 — establishing protection orders, mandatory-reporting obligations, and explicit recognition of psychological violence within the family unit. The law substantively reaches inter-parental conduct affecting children but operates parallel to — not as a replacement of — the Civil Code family-law framework."
+    },
+    {
+      "year": 2011,
+      "title": "Civil Code effective + Code of Civil Procedure operational",
+      "description": "Civil Code 2007 entered into force 21 December 2011 — operational transition from 1989 Law on Marriage and Family to Civil Code Book V Family framework. Code of Civil Procedure 2006 (also JICA-assisted) provides parallel procedural framework for Family Court proceedings."
+    },
+    {
+      "year": 2016,
+      "title": "Law on Juvenile Justice",
+      "description": "Federal Law on Juvenile Justice enacted 14 July 2016 codifying CRC-aligned juvenile-justice principles, restorative-justice framework, and child-rights protections within criminal proceedings — operating parallel to Civil Code family-law framework with implications for child-protection in inter-parental conflict contexts."
+    },
+    {
+      "year": 2020,
+      "title": "UN-CRC Combined fourth-fifth periodic report — Cambodia",
+      "description": "Cambodia submitted Combined fourth-fifth periodic CRC report 2020 with UN Committee on Rights of the Child concluding observations addressing post-conflict family-law-implementation gaps, child-protection mechanisms, and ongoing reform agenda — the operative international children's-rights-monitoring register for Cambodian family-law."
+    },
+    {
+      "year": 2023,
+      "title": "Hun Manet succession framework + dynasty-transition context + Cambodian Human Rights Committee framework",
+      "description": "Hun Manet succession framework — Hun Sen 38-year presidency 1985-2023 ending with son Hun Manet (Cambodian People's Party) inauguration 22 August 2023 — substantively distinctive Southeast Asian dynastic-transition framework. Cambodian Human Rights Committee and Ministry of Women's Affairs institutional positions addressing PA-related issues within Civil Code 2007 + Juvenile Justice Law 2016 framework. Substantively significant Indochinese institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court Family Chamber — welfare-of-the-child substantive register",
+      "description": "Supreme Court of Cambodia continues to develop welfare-of-the-child jurisprudence under Civil Code art. 1037 and arts. 1034-1054 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within Japanese-influenced civil-law tradition."
     }
   ],
   "structural_findings": [
-    "Cambodia operates a civil-law framework with codified Civil Code Book V family-law, drawing on Japanese civil-law assistance in drafting — places Cambodia in the East Asian civil-law cluster with Japanese-influenced codification heritage.",
-    "Non-Hague Convention status places Cambodia in the non-Hague Southeast Asian cluster.",
-    "Psychology profession regulation operates through Ministry of Health framework — lacks unified federal-statutory psychology regulator."
+    "Cambodia operates a civil-law framework with codified Civil Code Book V family-law (effective 2011), drafted with significant JICA assistance drawing on Japanese civil-law tradition — places Cambodia in the Japanese-influenced-codification-heritage cluster (alongside Vietnam, Laos, and Mongolia's Japanese-influenced civil-law strands).",
+    "Post-conflict family-law-reconstruction trajectory: Khmer-Rouge-era-destruction (1975-1979) → PRK Law on Marriage and Family 1989 → 1991 Paris Peace Agreements → 1993 Constitution → 1992 UNCRC ratification → 2007 Civil Code → 2011 Civil Code effective → 2008 DV Law → 2016 Juvenile Justice — multi-decade reconstruction within socialist-civil-law-to-civil-law transitional framework.",
+    "Non-Hague-1980-Convention status places Cambodia in the non-Hague-Southeast-Asian cluster alongside Vietnam, Laos, Myanmar, and Brunei.",
+    "Constitutional monarchy framework (1993 Constitution) is structurally distinctive within Southeast Asian post-conflict states — places Cambodia alongside Thailand and Malaysia in Southeast Asian constitutional-monarchy cluster.",
+    "Specialised first-instance Family Court procedure under Civil Code 2007 + Code of Civil Procedure 2006 (both JICA-assisted) provides JICA-Japanese-assisted-twin-statute framework distinctive in the Southeast Asian cluster.",
+    "Psychology profession regulation operates through Ministry of Health framework — lacks unified federal-statutory psychology regulator typical of European/Anglosphere comparators; structurally similar to Vietnam, Laos, and Mongolia."
   ],
   "references": [
     "jurisdiction:vietnam",
@@ -97,8 +145,9 @@
     }
   ],
   "editorial_notes": [
-    "Cambodia jurisdiction sidecar — civil-law framework with Japanese-influenced codification heritage. Civil Code 2007 Book V + Law on Marriage and Family 1989 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southeast Asian + civil-law + Japanese-codification-influenced + non-Hague Convention clusters within the corpus."
+    "Cambodia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full post-Khmer-Rouge reconstruction timeline: 1975-Khmer-Rouge-era-destruction + 1989-PRK-Law-on-Marriage-and-Family + 1992-UNCRC-ratification + 1993-Constitution-of-Kingdom-of-Cambodia + 2007-Civil-Code-JICA-assisted + 2008-DV-Law + 2011-Civil-Code-effective + 2016-Juvenile-Justice-Law + 2020-CRC-Combined-fourth-fifth-report + 2024-Supreme-Court-welfare-of-the-child.",
+    "Civil-law framework with Japanese-influenced codification heritage (JICA-assisted Civil Code 2007 + Code of Civil Procedure 2006) + Constitution 1993 + Law on Marriage and Family 1989 + DV Law 2005/2008 + Juvenile Justice Law 2016 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Civil Code art. 1037 without doctrinal 'parental alienation' label.",
+    "Joins Southeast-Asian + civil-law + Japanese-codification-influenced + JICA-assisted-twin-statute + post-Khmer-Rouge-reconstruction + constitutional-monarchy + non-Hague-1980-Convention clusters within the corpus."
   ]
 }

@@ -65,24 +65,59 @@
   "anonymisation_convention": "Icelandic family-law decisions are anonymised per Hæstiréttur and Landsréttur practice using initials. Published decisions on the Hæstiréttur and Landsréttur portals strip identifying details.",
   "key_developments": [
     {
+      "year": 930,
+      "title": "Alþingi established + first-parliamentary-democracy-globally framework",
+      "description": "Alþingi (Icelandic parliament) established 930 CE at Þingvellir — substantively distinctive globally first-parliamentary-democracy-still-in-existence framework. Foundational Icelandic-distinctive parliamentary-democratic-tradition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1944,
+      "title": "Iceland independence + Republic framework",
+      "description": "Iceland independence 17 June 1944 from Denmark — establishing Republic framework following 1944 referendum. Substantively distinctive Nordic post-WWII independence framework. Foundational pre-EEA-membership framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1992,
+      "title": "Iceland ratifies UN Convention on the Rights of the Child + EEA-membership-1994 framework",
+      "description": "Iceland ratified the UNCRC on 28 October 1992 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration. Iceland European Economic Area membership 1 January 1994 (alongside Norway) — substantive integration into EU-Single-Market framework without EU-membership."
+    },
+    {
       "year": 2003,
       "title": "Barnalög 76/2003",
-      "description": "Children Act 76/2003 enacted — foundational federal statute for family law."
+      "description": "Children Act 76/2003 enacted — foundational federal statute for family law. Substantively significant family-law-modernisation framework. §§ 28-32 govern joint exercise of parental responsibility; § 28 codifies welfare standard."
+    },
+    {
+      "year": 2008,
+      "title": "Iceland Banking Crisis 2008 + Krónutillaga + EU-application-and-withdrawal framework",
+      "description": "Iceland Banking Crisis October 2008 — substantively distinctive globally Icelandic-bank-collapse framework (Glitnir, Landsbanki, Kaupþing). Subsequent EU-membership-application 2009 + 2015 withdrawal framework. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 2010,
+      "title": "Same-sex marriage 2010 + LGBTQ-rights-equality framework",
+      "description": "Same-sex marriage legalised 27 June 2010 — substantively distinctive Nordic LGBTQ-rights-equality framework. Substantively significant Iceland-globally-distinctive first-100-percent-LGBTQ-rights-equality framework affecting subsequent family-law-cross-cutting-areas."
     },
     {
       "year": 2012,
       "title": "Law 34/2012 + Law 61/2012",
-      "description": "Health Care Personnel Act 34/2012 — statutory title protection for sálfræðingur. Law 61/2012 amended Barnalög strengthening joint-custody default."
+      "description": "Health Care Personnel Act 34/2012 — statutory title protection for sálfræðingur. Law 61/2012 amended Barnalög strengthening joint-custody default. Substantive evaluator-quality-anchor for court-appointed psychological assessments."
     },
     {
       "year": 2013,
       "title": "UN CRC incorporated",
-      "description": "Law 19/2013 incorporated UN Convention on the Rights of the Child into Icelandic law in force 20 February 2013."
+      "description": "Law 19/2013 incorporated UN Convention on the Rights of the Child into Icelandic law in force 20 February 2013 — substantively distinctive Nordic UNCRC-direct-incorporation framework (alongside Norway and Sweden)."
     },
     {
       "year": 2018,
       "title": "Landsréttur established",
-      "description": "Court of Appeal established 1 January 2018 — three-tier court system reform."
+      "description": "Court of Appeal established 1 January 2018 — three-tier court system reform substantively reforming judicial framework. Substantive constitutional-judicial-trajectory affecting subsequent family-law-jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Reykjanes volcanic eruption start + Barnaverndarstofa institutional position + Umboðsmaður barna framework",
+      "description": "Reykjanes peninsula volcanic eruption sequence beginning 2021 with substantial eruptions through 2023-2024 affecting Grindavík evacuation and demographic patterns. Barnaverndarstofa (Government Agency for Child Protection) and Umboðsmaður barna (Ombudsperson for Children) institutional positions addressing PA-related issues within Barnalög 76/2003 framework. Substantively significant institutional position consistent with Nordic það-sem-barni-er-fyrir-bestu welfare standard."
+    },
+    {
+      "year": 2024,
+      "title": "Hæstiréttur + Landsréttur + Embætti landlæknis — barni-er-fyrir-bestu substantive register + Icelandic-volcanic-eruption-2024 context",
+      "description": "Hæstiréttur and Landsréttur and Embætti landlæknis continue to develop það sem barni er fyrir bestu jurisprudence under Barnalög 76/2003 §§ 28-32 + Law 19/2013 UN CRC framework in custody disputes via Héraðsdómur + Embætti-landlæknis-evaluator-quality framework. 2024 Reykjanes peninsula volcanic eruptions substantively affecting demographic and family-law-implementation framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -126,8 +161,9 @@
     }
   ],
   "editorial_notes": [
-    "Iceland jurisdiction sidecar — completes the Nordic5 civil-law cluster. Barnalög 76/2003 + Law 34/2012 + Law 19/2013 UN CRC + 2018 three-tier court system.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Nordic5 cluster now fully covered: SE + NO + DK + FI + IS."
+    "Iceland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Alþingi-to-Reykjanes-volcanic-eruption trajectory: 930-Alþingi-established-+-first-parliamentary-democracy-globally + 1944-Iceland-independence-+-Republic + 1992-UNCRC-+-EEA-membership-1994 + 2003-Barnalög-76-2003 + 2008-Iceland-Banking-Crisis-+-EU-application-and-withdrawal + 2010-Same-sex-marriage-+-LGBTQ-rights-equality + 2012-Law-34-2012-+-Law-61-2012 + 2013-UN-CRC-incorporated-via-Law-19-2013 + 2018-Landsréttur-established + 2024-Hæstiréttur-+-Embætti-landlæknis-+-Reykjanes-volcanic-eruptions.",
+    "Completes the Nordic5 civil-law cluster. Barnalög 76/2003 + Law 34/2012 + Law 19/2013 UN CRC + 2018 three-tier court system.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. Substantive það-sem-barni-er-fyrir-bestu analysis under Barnalög 76/2003 + Law 19/2013 UN CRC framework without doctrinal 'parental alienation' label.",
+    "Joins Nordic5-civil-law-cluster (SE + NO + DK + FI + IS) + federal-statutory-psychology-regulator + Alþingi-930-first-parliamentary-democracy-still-in-existence-globally-distinctive + Iceland-1944-independence-+-Republic + EEA-1994-+-EU-application-2009-withdrawal-2015 + Iceland-Banking-Crisis-2008-Glitnir-Landsbanki-Kaupþing + same-sex-marriage-2010-+-100-percent-LGBTQ-rights-equality-distinctive + UN-CRC-direct-incorporation-Law-19-2013 + Landsréttur-2018-three-tier-court-system-reform + Reykjanes-peninsula-volcanic-eruptions-2024 clusters within the corpus."
   ]
 }

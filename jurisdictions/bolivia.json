@@ -60,19 +60,59 @@
   "anonymisation_convention": "Bolivian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1825,
+      "title": "Bolivia independence + Bolívar-Sucre-foundational framework",
+      "description": "Bolivia declared independence 6 August 1825 from Spain under Simón Bolívar and Antonio José de Sucre — substantively distinctive Latin-American-revolutionary-republican framework named after Bolívar. Foundational republican-constitutional framework persisting through 20th-21st-century political-institutional reform-trajectory affecting subsequent family-law-codification."
+    },
+    {
+      "year": 1879,
+      "title": "War of the Pacific + Bolivia coastal-loss + landlocked-state framework",
+      "description": "War of the Pacific 1879-1884 substantively reshaping Bolivia territorial framework — Bolivia lost coastal Atacama region to Chile becoming landlocked state. Foundational territorial-loss framework affecting subsequent Bolivian political-institutional-trajectory and geopolitical positioning."
+    },
+    {
+      "year": 1952,
+      "title": "Bolivian National Revolution 1952 + universal-suffrage + agrarian-reform",
+      "description": "Bolivian National Revolution 9 April 1952 substantively reshaping political-institutional framework — universal-suffrage (including women and indigenous populations), agrarian-reform, mining-nationalisation. Substantive 20th-century Latin-American-revolutionary framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1972,
-      "title": "Original Family Code 1972",
-      "description": "Federal Family Code enacted under military government."
+      "title": "Original Family Code 1972 + Banzer-era military-government framework",
+      "description": "Federal Family Code enacted 1972 under Hugo Banzer Suárez military government (1971-1978). Substantive family-law-codification within Spanish-civil-law-derivative framework persisting through 2014 reform-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Bolivia ratifies UN Convention on the Rights of the Child",
+      "description": "Bolivia ratified the UNCRC on 26 June 1990 — substantively significant child-rights framework integration with subsequent 2014 Niñez y Adolescencia Code substantive doctrine. Foundational best-interests-of-the-child framework integration."
+    },
+    {
+      "year": 2005,
+      "title": "Evo Morales presidency + MAS + indigenous-majority-government framework",
+      "description": "Evo Morales (Movimiento al Socialismo) elected President 18 December 2005 — substantively distinctive globally first indigenous president of Bolivia (Aymara). Subsequent extended-presidency 2006-2019 substantively reshaping political-institutional framework affecting subsequent constitutional-democratic-trajectory and indigenous-jurisdiction framework."
     },
     {
       "year": 2009,
-      "title": "Plurinational Constitution + JIOC recognition",
-      "description": "Plurinational Constitution adopted recognising Indigenous Originary Peasant Jurisdiction (JIOC) as parallel jurisdiction — structurally distinctive within the corpus."
+      "title": "Plurinational Constitution + JIOC recognition + plurinational-state framework",
+      "description": "Plurinational Constitution adopted 7 February 2009 — substantively reforming political-institutional framework establishing Plurinational State of Bolivia with constitutional recognition of Indigenous Originary Peasant Jurisdiction (JIOC) as parallel jurisdiction (arts. 190-192). Substantively distinctive globally most-pluri-jurisdictional-indigenous-recognition framework within the corpus."
     },
     {
       "year": 2014,
       "title": "Family Code (Law 603) + Niñez y Adolescencia Code (Law 548)",
-      "description": "Comprehensive Family Code replacing 1972 statute and Children and Adolescents Code aligned with UNCRC obligations enacted."
+      "description": "Comprehensive Family and Family-Procedural Code (Law 603 of 19 November 2014) replacing 1972 statute and Children and Adolescents Code (Law 548 of 17 July 2014) aligned with UNCRC obligations enacted. Arts. 35-49 govern parental authority and child custody; Niñez y Adolescencia Code art. 12 codifies superior-interest-of-the-child principle."
+    },
+    {
+      "year": 2019,
+      "title": "Bolivian political crisis 2019 + Morales resignation + Áñez interim-government",
+      "description": "Bolivian political crisis October-November 2019 — Evo Morales resignation 10 November 2019 following contested election + OAS audit. Jeanine Áñez interim-government 2019-2020. Substantively distinctive Latin-American political-institutional-disruption framework affecting subsequent constitutional-democratic-trajectory. Luis Arce (MAS-IPSP) elected November 2020 restoring MAS framework."
+    },
+    {
+      "year": 2023,
+      "title": "Arce presidency + Defensoría del Pueblo + MAS-IPSP family-law framework",
+      "description": "Luis Arce (MAS-IPSP) presidency continuing through 2023 under plurinational-state framework. Defensoría del Pueblo institutional position addressing PA-related issues within Family Code 2014 + Niñez y Adolescencia Code framework. Multiple TSJ and TCP decisions developing superior-interest-of-the-child interpretation including JIOC (Jurisdicción Indígena Originaria Campesina) cross-recognition framework. Substantively significant plurinational institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunal Supremo de Justicia + Tribunal Constitucional Plurinacional + JIOC — superior-interest-of-the-child substantive register",
+      "description": "Tribunal Supremo de Justicia and Tribunal Constitucional Plurinacional continue to develop superior-interest-of-the-child jurisprudence under Family Code 2014 arts. 35-49 + Niñez y Adolescencia Code art. 12 + JIOC framework in custody disputes within plurinational-state framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -108,8 +148,9 @@
     }
   ],
   "editorial_notes": [
-    "Bolivia jurisdiction sidecar — mixed-legal-system Andean (Spanish civil-law substantive + Indigenous Originary Peasant Jurisdiction (JIOC) constitutional recognition). Family Code 2014 + Niñez y Adolescencia Code 2014 + Constitution 2009 JIOC + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Andean + civil-law + Indigenous-jurisdiction-constitutional-recognition distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Bolivia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Bolívar-to-Arce trajectory: 1825-Bolivia-independence-+-Bolívar-Sucre + 1879-War-of-the-Pacific-+-coastal-loss-+-landlocked + 1952-Bolivian-National-Revolution-+-universal-suffrage + 1972-Original-Family-Code-+-Banzer-era + 1990-UNCRC-ratification + 2005-Evo-Morales-+-MAS-+-indigenous-majority-government + 2009-Plurinational-Constitution-+-JIOC-recognition + 2014-Family-Code-Law-603-+-Niñez-y-Adolescencia-Code-Law-548 + 2019-political-crisis-+-Morales-resignation-+-Áñez + 2024-Tribunal-Supremo-+-Tribunal-Constitucional-Plurinacional-+-JIOC-superior-interest-of-the-child.",
+    "Mixed-legal-system Andean (Spanish civil-law substantive + Indigenous Originary Peasant Jurisdiction (JIOC) constitutional recognition). Family Code 2014 + Niñez y Adolescencia Code 2014 + Constitution 2009 JIOC + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code 2014 + Niñez y Adolescencia Code 2014 art. 12 + JIOC framework without doctrinal 'parental alienation' label.",
+    "Joins Andean + civil-law + Indigenous-Originary-Peasant-Jurisdiction-JIOC-constitutional-recognition-most-pluri-jurisdictional-indigenous-recognition-framework-distinctive + Plurinational-State-2009-distinctive + Evo-Morales-first-indigenous-president-2005-distinctive + War-of-the-Pacific-1879-landlocked-state + Bolivian-National-Revolution-1952 + Bolivian-political-crisis-2019-OAS-audit + non-Hague-Convention-Andean (with Ecuador) clusters within the corpus."
   ]
 }

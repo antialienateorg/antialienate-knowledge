@@ -60,19 +60,59 @@
   "anonymisation_convention": "Malagasy family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Madagascar independence + Tsiranana founding-presidency",
+      "description": "Madagascar independence 26 June 1960 from France — establishing presidential republic framework. Philibert Tsiranana first president 1960-1972 substantively significant founding-presidency framework. Foundational pre-1972-revolution framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1972,
+      "title": "1972 Madagascar revolution + Ramanantsoa + post-Tsiranana framework",
+      "description": "1972 Madagascar revolution May 1972 substantively ending Tsiranana presidency — General Gabriel Ramanantsoa assumed leadership. Substantive political-institutional disruption affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1975,
+      "title": "Ratsiraka + Democratic Republic of Madagascar + Marxist-Leninist framework",
+      "description": "Didier Ratsiraka assumed presidency 21 December 1975 establishing Democratic Republic of Madagascar (Repoblika Demokratika Malagasy) under Marxist-Leninist framework. Substantively distinctive Indian Ocean African Marxist-Leninist framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Madagascar ratifies UN Convention on the Rights of the Child + democratic-transition framework",
+      "description": "Madagascar ratified the UNCRC on 19 March 1991 — substantively significant child-rights framework integration. Substantive democratic-transition 1991-1993 establishing contemporary constitutional-democratic-trajectory. Foundational best-interests-of-the-child framework integration."
+    },
+    {
+      "year": 1992,
+      "title": "Constitution of Madagascar 1992 + Third Republic framework",
+      "description": "Constitution of Madagascar 1992 adopted 19 August 1992 by referendum — substantively reforming political-institutional framework establishing Third Republic (subsequently amended 2010 establishing Fourth Republic). Substantive constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
       "year": 2004,
       "title": "Hague Convention 1980 accession",
-      "description": "Madagascar acceded to the Hague Convention 1980 effective 1 September 2004."
+      "description": "Madagascar acceded to the Hague Convention 1980 effective 1 September 2004 — substantively significant Hague Indian Ocean accession affecting cross-border-jurisdiction-practice with France and other Hague-party states."
     },
     {
       "year": 2007,
       "title": "Family-Law Reform Package — Laws 2007-022, 2007-023, 2007-024",
-      "description": "Federal Family-Law Reform Package — Laws on Marriage, Filiation, and Parental Authority enacted as comprehensive reform."
+      "description": "Federal Family-Law Reform Package 20 August 2007 — Law 2007-022 on Marriage, Law 2007-023 on Filiation, Law 2007-024 on Parental Authority enacted as comprehensive reform. Substantively distinctive within African corpus multi-statute family-law-reform approach. Arts. 1-30 of Law 2007-024 govern parental authority."
+    },
+    {
+      "year": 2009,
+      "title": "2009 Madagascar political crisis + Rajoelina-Ravalomanana succession + Fourth Republic 2010",
+      "description": "2009 Madagascar political crisis January-March 2009 substantively disrupting political-institutional framework — Marc Ravalomanana resigned 17 March 2009. Andry Rajoelina assumed power 17 March 2009. Subsequent Constitution 2010 Fourth Republic establishing contemporary constitutional framework. Substantive AU-suspension 2009-2014."
     },
     {
       "year": 2017,
-      "title": "Law on Child Protection",
-      "description": "Federal Law on Child Protection enacted aligned with UNCRC obligations."
+      "title": "Law on Child Protection (Law 2017-014) + UNCRC-aligned framework",
+      "description": "Federal Law on Child Protection enacted Law 2017-014 aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Indian Ocean civil-law framework."
+    },
+    {
+      "year": 2023,
+      "title": "Rajoelina re-election + Médiateur de la République + 2030 fokontony framework",
+      "description": "Andry Rajoelina re-election 16 November 2023 substantively significant continuing-presidency framework. Médiateur de la République (Ombudsperson) institutional position addressing PA-related issues within Law 2007-024 + Law 2017-014 framework. Fokontony (traditional community council) institutional framework operating alongside formal jurisdiction. Substantively significant Indian Ocean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour Suprême + Haute Cour Constitutionnelle — interest-of-the-child substantive register + Rajoelina continuing-presidency",
+      "description": "Cour Suprême and Haute Cour Constitutionnelle continue to develop interest-of-the-child jurisprudence under Law 2007-024 + Law 2017-014 + Hague Convention 1980 framework in custody disputes within Andry Rajoelina presidency (since 2019). Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -108,8 +148,9 @@
     }
   ],
   "editorial_notes": [
-    "Madagascar jurisdiction sidecar — civil-law Indian Ocean (French civil-law substantive + customary-law codification + 2007 Family-Law Reform Package + Law on Child Protection 2017 + Hague Convention 1980 accession 2004).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Indian Ocean + civil-law + French-derivative + multi-statute-family-law-distinctive + Hague Convention clusters within the corpus."
+    "Madagascar jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Tsiranana-to-Rajoelina trajectory: 1960-Madagascar-independence-+-Tsiranana + 1972-1972-Madagascar-revolution-+-Ramanantsoa + 1975-Ratsiraka-+-Democratic-Republic-+-Marxist-Leninist + 1991-UNCRC-+-democratic-transition + 1992-Constitution-+-Third-Republic + 2004-Hague-Convention-1980-accession + 2007-Family-Law-Reform-Package-Laws-2007-022-023-024 + 2009-2009-Madagascar-political-crisis-+-Rajoelina-Ravalomanana + 2017-Law-on-Child-Protection-Law-2017-014 + 2024-Cour-Suprême-+-Haute-Cour-Constitutionnelle-+-Rajoelina-continuing-presidency.",
+    "Civil-law Indian Ocean (French civil-law substantive + customary-law codification + 2007 Family-Law Reform Package + Law on Child Protection 2017 + Hague Convention 1980 accession 2004).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Law 2007-024 + Law 2017-014 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Indian-Ocean + civil-law + French-derivative + multi-statute-family-law-distinctive-vs-single-Family-Code + Merina-Betsileo-customary-law-codification + fitampoha-marriage-property-tradition + Ratsiraka-Marxist-Leninist-1975-1991-distinctive + 1972-Madagascar-revolution + 2009-political-crisis-+-AU-suspension + Hague-Convention-1980-accession-2004-Indian-Ocean clusters within the corpus."
   ]
 }

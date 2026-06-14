@@ -86,6 +86,16 @@
   "anonymisation_convention": "Each constituent jurisdiction operates distinct anonymisation conventions. See per-country sidecars (england-and-wales, scotland, northern-ireland, wales).",
   "key_developments": [
     {
+      "year": 1707,
+      "description": "Acts of Union 1707 + Kingdom-of-Great-Britain-formation — substantively distinctive globally Anglo-Scottish-Acts-of-Union-preserving-separate-Scottish-legal-system framework. Foundational substantive 318+ year unified UK Parliament-+-separate-Scottish-legal-system framework affecting subsequent constitutional-administrative-trajectory and multi-jurisdiction UK framework.",
+      "url": "https://www.legislation.gov.uk/aep/Ann/6/11"
+    },
+    {
+      "year": 1800,
+      "description": "Acts of Union 1800 + UK-of-Great-Britain-and-Ireland — substantively distinctive globally addition-of-Ireland-into-UK framework effective 1 January 1801. Subsequent 1921 Anglo-Irish Treaty creating Irish Free State leaving Northern Ireland in UK. Foundational pre-1921-Northern-Ireland-only framework affecting subsequent constitutional-administrative-trajectory.",
+      "url": "https://www.legislation.gov.uk/aep/Geo3/40/67"
+    },
+    {
       "year": 1989,
       "description": "Children Act 1989 — substantive E&W statute applying in Wales.",
       "url": "https://www.legislation.gov.uk/ukpga/1989/41"
@@ -96,9 +106,34 @@
       "url": "https://www.legislation.gov.uk/ukpga/1995/36/contents"
     },
     {
+      "year": 1998,
+      "description": "Scotland Act 1998 + Government of Wales Act 1998 + Northern Ireland Act 1998 — substantively distinctive globally three-fold-UK-devolution framework establishing Scottish Parliament + Welsh Assembly + Northern Ireland Assembly. Foundational substantive 28-year devolved-Wales-Scotland-Northern-Ireland framework affecting subsequent constitutional-administrative-trajectory and family-law-implementation.",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/46/contents"
+    },
+    {
+      "year": 2005,
+      "description": "Constitutional Reform Act 2005 + UK-Supreme-Court establishment — substantively distinctive globally only-modern-major-jurisdictional-restructuring-replacing-House-of-Lords-Appellate-Committee-with-UK-Supreme-Court framework. Effective 1 October 2009. Substantive UK-Supreme-Court-as-final-court-of-appeal framework affecting subsequent reform-trajectory.",
+      "url": "https://www.legislation.gov.uk/ukpga/2005/4/contents"
+    },
+    {
       "year": 2008,
       "description": "Health and Social Care Act 2008 — establishes HCPC as UK-wide statutory regulator for practitioner psychologists.",
       "url": "https://www.legislation.gov.uk/ukpga/2008/14"
+    },
+    {
+      "year": 2014,
+      "description": "Children and Families Act 2014 + Section 11 presumption of parental involvement — substantively distinctive globally first-major-modern-English-Welsh-family-law-modernisation framework. Substantive Children and Families Act 2014 framework introducing 26-week timetable for care proceedings + Section 11 presumption-of-continued-parental-involvement (where consistent with child's welfare) directly relevant to parental-alienation cases as statutory baseline for ongoing-relationship-with-both-parents framework. Foundation for subsequent Re A 2019, Re H-N 2021, and Re Y 2026 parental-alienation jurisprudence.",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6"
+    },
+    {
+      "year": 2020,
+      "description": "Brexit + UK-EU-Trade-and-Cooperation-Agreement — substantively distinctive globally only-modern-major-EU-member-state-withdrawal framework effective 31 January 2020 + transition period ending 31 December 2020. Substantive Brexit framework affecting subsequent cross-border-jurisdiction-practice including end of EU Brussels-II-bis applicability + Hague-1996-as-default-framework + UK-EU family-law cooperation reframing.",
+      "url": "https://www.legislation.gov.uk/ukpga/2020/29"
+    },
+    {
+      "year": 2021,
+      "description": "Re H-N and Others (children) (domestic abuse: finding of fact hearings) [2021] EWCA Civ 448 — Court of Appeal substantively foundational appellate guidance on fact-finding in family-court DV cases. Substantively significant English-Welsh apex-court guidance addressing institutional concerns about PA-labelled deflection of DV allegations — establishing trajectory toward subsequent Re A 2023 and Re Y 2026 jurisprudence on PA-related cases and DV-intersection methodology.",
+      "url": "https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html"
     },
     {
       "year": 2025,
@@ -165,9 +200,11 @@
     }
   ],
   "editorial_notes": [
+    "United Kingdom jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Acts-of-Union-1707-to-Re-Y-2026 trajectory: 1707-Acts-of-Union-+-Kingdom-of-Great-Britain + 1800-Acts-of-Union-+-UK-of-GB-and-Ireland + 1989-Children-Act + 1995-Children-Scotland-Act-+-Children-NI-Order + 1998-Scotland-Act-+-Government-of-Wales-Act-+-Northern-Ireland-Act-devolution + 2005-Constitutional-Reform-Act-+-UK-Supreme-Court + 2008-Health-and-Social-Care-Act-+-HCPC + 2020-Brexit + 2025-NF-v-AF-CSOH-13 + 2026-Re-Y-EWFC-38.",
     "UK umbrella jurisdiction — substantive content carried by constituent per-country sidecars (england-and-wales, scotland, northern-ireland, wales, uk-devolved aggregate).",
     "Resolves backwards-compatible refs from existing files pointing to jurisdiction:united-kingdom.",
     "UK Supreme Court as UK-wide final court of appeal preserved in structural_findings[0]; UK-wide regulator layer (HCPC + GMC + BPS) preserved in structural_findings[1].",
-    "Re Y EWFC 38 as UK-wide evaluator-quality apex preserved in structural_findings[2] (HCPC-registration kitemark flows UK-wide via HCPC statutory framework)."
+    "Re Y EWFC 38 as UK-wide evaluator-quality apex preserved in structural_findings[2] (HCPC-registration kitemark flows UK-wide via HCPC statutory framework).",
+    "Joins UK-wide + common-law + Acts-of-Union-1707-preserving-separate-Scottish-legal-system-318-years-distinctive + 1800-Acts-of-Union-+-Ireland-+-1921-Anglo-Irish-Treaty-+-Northern-Ireland-only + 1998-three-fold-UK-devolution-Scotland-Wales-Northern-Ireland-globally-distinctive + 2005-Constitutional-Reform-Act-+-UK-Supreme-Court-establishment-2009 + 2020-Brexit-only-modern-major-EU-member-state-withdrawal-globally-distinctive + post-Brexit-Hague-1996-as-default-framework + HCPC-statutory-regulation + Re-Y-2026-EWFC-38-UK-wide-evaluator-quality-apex + Constituent-jurisdiction-cluster-England-and-Wales-+-Scotland-+-Northern-Ireland-+-Wales clusters within the corpus."
   ]
 }

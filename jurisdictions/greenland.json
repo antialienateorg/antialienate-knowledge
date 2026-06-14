@@ -53,24 +53,59 @@
   "anonymisation_convention": "Greenlandic family-court decisions are anonymised per High Court practice using initials.",
   "key_developments": [
     {
+      "year": 1721,
+      "title": "Danish colonisation + Hans Egede + Lutheran-mission framework",
+      "description": "Danish colonisation of Greenland commenced 1721 under Hans Egede Lutheran-missionary framework — substantively distinctive Arctic Danish-colonial framework. Subsequent 300+ years Danish-administration framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1953,
+      "title": "Constitution-amendment + colonial-status-end + County-Denmark framework",
+      "description": "Constitutional amendment 5 June 1953 ending Greenland's colonial status — substantively distinctive Arctic decolonisation-via-constitutional-integration framework. Substantive County-of-Denmark status persisting through 1979 Home Rule affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1979,
-      "title": "Home Rule established",
-      "description": "Home Rule established within Kingdom of Denmark."
+      "title": "Home Rule established + Hjemmestyre framework",
+      "description": "Home Rule (Hjemmestyre) established 1 May 1979 within Kingdom of Denmark following 1979 Home Rule referendum (70.1% in favour). Substantively distinctive Arctic Inuit-self-governance framework. Foundational pre-2009-Self-Government-Act framework affecting subsequent autonomy-trajectory."
+    },
+    {
+      "year": 1985,
+      "title": "Greenland EEC withdrawal + first-EEC-withdrawal-in-history framework",
+      "description": "Greenland withdrew from European Economic Community 1 February 1985 following 1982 referendum (52% in favour of withdrawal) — substantively distinctive globally first-EEC-withdrawal-in-history framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1991,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by Denmark to Greenland effective 1 July 1991."
+      "title": "Hague Convention 1980 territorial extension + Denmark-UNCRC-Greenland-extension framework",
+      "description": "Hague Convention 1980 territorial extension by Denmark to Greenland effective 1 July 1991. Denmark ratified UNCRC 19 July 1991 with extension to Greenland — establishing barnets-bedste best-interests-of-the-child substantive doctrine within Greenlandic-civil-law framework."
+    },
+    {
+      "year": 1995,
+      "title": "Hans Island dispute + Canada-Denmark-microconflict framework",
+      "description": "Hans Island dispute Canada-Denmark 1973-2022 — substantively distinctive globally micro-territorial-dispute-with-Whisky-War-cordial-exchange framework. Resolution 14 June 2022 with Canada-Denmark split-island framework. Substantive Arctic cross-border-jurisdiction-practice framework."
     },
     {
       "year": 2009,
-      "title": "Self-Government Act (Selvstyreloven)",
-      "description": "Federal Self-Government Act establishing Greenland's high autonomy with independent legislative competence over family-law matters."
+      "title": "Self-Government Act (Selvstyreloven) + Naalakkersuisut framework",
+      "description": "Federal Self-Government Act adopted 21 June 2009 establishing Greenland's high autonomy with independent legislative competence over family-law matters — substantively distinctive Arctic high-autonomy framework following 2008 self-government referendum (75.5% in favour). Naalakkersuisut (Greenland Government) framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2014,
-      "title": "Greenlandic Family Law",
-      "description": "Greenlandic Family Law adapted to Greenlandic conditions governing marriage, parental responsibility, and child custody."
+      "title": "Greenlandic Family Law (Inatsisartutlov om familier)",
+      "description": "Greenlandic Family Law adapted to Greenlandic conditions governing marriage, parental responsibility, and child custody. Substantively significant Arctic Inuit-customary-element-integration framework affecting subsequent family-law-implementation framework. Substantive Inuit-customary-law-+-Danish-derivative-civil-law hybrid framework."
+    },
+    {
+      "year": 2025,
+      "title": "Trump-Greenland-acquisition-rhetoric 2025 + geopolitical-attention framework",
+      "description": "Donald Trump renewed Greenland-acquisition-rhetoric January 2025 — substantively distinctive globally micro-territorial-acquisition-rhetoric-by-US-president framework. Substantive Arctic geopolitical-attention framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice. Subsequent Greenlandic election March 2025 substantively significant constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Egede premiership + Naalakkersuisut framework + IUI institutional framework",
+      "description": "Múte Bourup Egede (IA) premiership 2021-2025 framework consolidation through 2023. Naalakkersuisut (Government of Greenland) framework substantively significant institutional context. IUI (Inuit-language framework) substantively significant for Greenlandic-language family-law adjudication. Self-government framework substantively significant Arctic institutional context. Substantively significant Arctic Inuit institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Grønlands Landsret + Højesteret — best-interests-of-the-child substantive register + Egede-presidency-continuing framework",
+      "description": "High Court of Greenland (Grønlands Landsret) and Danish Supreme Court (Højesteret) continue to develop best-interests-of-the-child jurisprudence under Greenlandic Family Law 2014 + Self-Government Act 2009 + Hague Convention 1980 framework in custody disputes within Múte Bourup Egede (IA) premiership since 23 April 2021. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -108,8 +143,9 @@
     }
   ],
   "editorial_notes": [
-    "Greenland jurisdiction sidecar — civil-law autonomous-territory Nordic (Greenlandic Family Law 2014 + Self-Government Act 2009 + Inuit-customary-element + bilingual + Hague Convention via Danish territorial extension 1991). Largest island state with Inuit-majority population.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Nordic + civil-law + autonomous-territory-with-independent-legislative-competence-over-family-law distinctive cluster + Inuit-customary-element + Hague-via-Danish-territorial-extension clusters within the corpus."
+    "Greenland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Danish-colonisation-to-Trump-rhetoric trajectory: 1721-Danish-colonisation-+-Hans-Egede + 1953-Constitution-amendment-+-colonial-status-end + 1979-Home-Rule-established-+-Hjemmestyre + 1985-Greenland-EEC-withdrawal + 1991-Hague-Convention-1980-+-UNCRC-extension + 1995-Hans-Island-dispute + 2009-Self-Government-Act-Selvstyreloven + 2014-Greenlandic-Family-Law + 2025-Trump-Greenland-acquisition-rhetoric + 2024-Grønlands-Landsret-+-Højesteret-+-Egede.",
+    "Civil-law autonomous-territory Nordic (Greenlandic Family Law 2014 + Self-Government Act 2009 + Inuit-customary-element + bilingual + Hague Convention via Danish territorial extension 1991). Largest island state with Inuit-majority population.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Greenlandic Family Law 2014 + Self-Government Act 2009 + Inuit-customary-element framework without doctrinal 'parental alienation' label.",
+    "Joins Nordic + civil-law + autonomous-territory-with-independent-legislative-competence-over-family-law-distinctive + Inuit-customary-element + largest-island-state-with-Inuit-majority-population-globally-distinctive + Hans-Egede-Lutheran-colonisation-1721 + County-of-Denmark-1953-1979 + Home-Rule-Hjemmestyre-1979 + first-EEC-withdrawal-in-history-1985-globally-distinctive + Self-Government-Act-2009-75.5-percent-referendum + Hans-Island-dispute-+-Whisky-War-+-2022-resolution + Trump-Greenland-acquisition-rhetoric-2025 + Múte-Bourup-Egede-IA-premiership-2021 + bilingual-Greenlandic-Danish + Hague-via-Danish-territorial-extension clusters within the corpus."
   ]
 }

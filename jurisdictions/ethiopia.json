@@ -65,19 +65,59 @@
   "anonymisation_convention": "Ethiopian family-court decisions are anonymised per Federal Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1931,
+      "title": "Ethiopian Constitution 1931 + Haile Selassie + first written constitution + civil-law-influence",
+      "description": "Ethiopian Constitution 1931 promulgated 16 July 1931 under Emperor Haile Selassie — first written constitution of Ethiopia. Substantively significant pre-Italian-occupation framework establishing foundational constitutional-modernisation trajectory affecting subsequent civil-codification framework. Distinctive non-colonial African constitutional-modernisation pattern."
+    },
+    {
       "year": 1960,
-      "title": "Civil Code of Ethiopia",
-      "description": "Federal Civil Code enacted drawing on French civil-law and Swiss codification traditions; including Book II family-law provisions."
+      "title": "Civil Code of Ethiopia 1960 + René David Swiss-French-codification framework",
+      "description": "Federal Civil Code enacted 1960 drawing on French civil-law and Swiss codification traditions — drafted by Professor René David (French jurist). Substantively distinctive globally non-colonial civil-law-transplant pattern within African corpus. Including Book II family-law provisions persisting through 2000 reform."
+    },
+    {
+      "year": 1974,
+      "title": "Derg revolution + Haile Selassie deposition + Marxist-Leninist-era",
+      "description": "Derg revolution 12 September 1974 deposing Emperor Haile Selassie ending 1,500-year Solomonic dynasty (most-distinctive African continuous-monarchical lineage globally). Subsequent Marxist-Leninist People's Democratic Republic of Ethiopia 1974-1991 substantively disrupting political-institutional framework. Foundational political-institutional-disruption framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "EPRDF victory + Derg overthrow + ethnic-federal-framework establishment",
+      "description": "Ethiopian People's Revolutionary Democratic Front (EPRDF) coalition overthrew Derg 28 May 1991. Substantively distinctive ethnic-federal framework framework establishment. Transitional Government 1991-1995 substantively reshaping political-institutional framework affecting subsequent family-law-modernisation trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Ethiopia ratifies UN Convention on the Rights of the Child",
+      "description": "Ethiopia ratified the UNCRC on 14 May 1991 — substantively significant child-rights framework integration with subsequent Revised Family Code 2000 substantive doctrine."
+    },
+    {
+      "year": 1993,
+      "title": "Eritrea independence + Eritrea-Ethiopia border conflict context",
+      "description": "Eritrea independence 24 May 1993 from Ethiopia following 1991 EPRDF victory. Subsequent Eritrea-Ethiopia border war 1998-2000 substantially affecting demographic and family-law-implementation framework. Substantively distinctive Horn-of-Africa-secession framework."
     },
     {
       "year": 1995,
-      "title": "FDRE Constitution",
-      "description": "Federal constitution recognising Sharia courts for Muslim personal-status matters where parties consent (art. 78(5))."
+      "title": "FDRE Constitution + ethnic-federal framework + Sharia court constitutional recognition",
+      "description": "Federal Democratic Republic of Ethiopia Constitution adopted 8 December 1994 (effective 21 August 1995) — establishing nine ethnic-federal states framework with art. 78(5) constitutionally recognising Sharia courts for Muslim personal-status matters where parties consent. Substantively distinctive globally ethnic-federalism framework."
     },
     {
       "year": 2000,
-      "title": "Revised Family Code",
-      "description": "Federal Family Code enacted replacing 1960 Civil Code Book II family-law provisions; codifying gender-equal marriage and parental-rights provisions."
+      "title": "Revised Family Code 2000 + gender-equal-marriage framework",
+      "description": "Federal Family Code enacted 4 July 2000 (Proclamation 213/2000) replacing 1960 Civil Code Book II family-law provisions. Arts. 215-272 govern parental rights, custody, and child welfare. Substantively distinctive codifying gender-equal marriage and parental-rights provisions framework — substantive child-protection-framework reform. Mirrored by state-level Family Codes in regional states."
+    },
+    {
+      "year": 2018,
+      "title": "Abiy Ahmed PM accession + reform-era political-context framework",
+      "description": "Abiy Ahmed Ali sworn in as Prime Minister 2 April 2018 — initiating reform-era political transition including 2018 Eritrea-Ethiopia rapprochement (Nobel Peace Prize 2019), Prosperity Party formation December 2019 superseding EPRDF ethnic-federal coalition framework, and structural political-context shift affecting subsequent Revised Family Code 2000 implementation trajectory. Substantively significant Horn-of-Africa political-context framework affecting subsequent Tigray War 2020 framework."
+    },
+    {
+      "year": 2020,
+      "title": "Tigray War 2020-2022 + Pretoria Agreement + post-conflict reconstruction",
+      "description": "Tigray War 4 November 2020 – 3 November 2022 substantively disrupting Ethiopian federal framework — substantively significant 21st-century African armed-conflict. Pretoria Agreement 3 November 2022 establishing cessation-of-hostilities framework. Substantive demographic and family-law-implementation disruption affecting subsequent reconstruction trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Federal Supreme Court + House of Federation + Sharia courts — welfare-of-the-child substantive register + post-Tigray-War context",
+      "description": "Federal Supreme Court and House of Federation continue to develop welfare-of-the-child jurisprudence under Revised Family Code 2000 arts. 215-272 + FDRE Constitution art. 78(5) Sharia court framework in custody disputes within post-Tigray-War reconstruction context under Prime Minister Abiy Ahmed. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -114,8 +154,9 @@
     }
   ],
   "editorial_notes": [
-    "Ethiopia jurisdiction sidecar — civil-law federal framework. Revised Family Code 2000 + Civil Code 1960 residual + Sharia court constitutional recognition + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins East African + civil-law (non-colonial transplant) + federal + Sharia-court-constitutional-recognition + non-Hague Convention clusters within the corpus."
+    "Ethiopia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Haile-Selassie-to-post-Tigray trajectory: 1931-Ethiopian-Constitution-+-Haile-Selassie-+-first-written-constitution + 1960-Civil-Code-of-Ethiopia-+-René-David-Swiss-French-codification + 1974-Derg-revolution-+-Haile-Selassie-deposition + 1991-EPRDF-victory-+-Derg-overthrow-+-ethnic-federal + 1991-UNCRC-ratification + 1993-Eritrea-independence-+-border-conflict + 1995-FDRE-Constitution-+-ethnic-federal-+-Sharia-court + 2000-Revised-Family-Code-+-gender-equal-marriage + 2020-Tigray-War-+-Pretoria-Agreement + 2024-Federal-Supreme-Court-+-House-of-Federation-+-Sharia-courts-welfare.",
+    "Civil-law federal framework. Revised Family Code 2000 + Civil Code 1960 residual + Sharia court constitutional recognition + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Revised Family Code 2000 arts. 215-272 + Sharia court framework without doctrinal 'parental alienation' label.",
+    "Joins East-African + civil-law-non-colonial-transplant-globally-distinctive + federal-ethnic-federal-9-states + Sharia-court-constitutional-recognition-art-78-5 + Solomonic-dynasty-1500-years-distinctive + Derg-Marxist-Leninist-1974-1991 + Eritrea-independence-1993 + Tigray-War-2020-2022 + Pretoria-Agreement-2022 + René-David-Civil-Code-1960 + non-Hague-Convention clusters within the corpus."
   ]
 }

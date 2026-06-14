@@ -61,33 +61,58 @@
   "key_developments": [
     {
       "year": 1898,
-      "title": "US acquisition + Spanish Civil Code retention",
-      "description": "Puerto Rico acquired by US following Spanish-American War; Spanish Civil Code 1889 retained as substantive law."
+      "title": "US acquisition + Treaty-of-Paris-+-Spanish-Civil-Code-retention framework",
+      "description": "Puerto Rico acquired by US 10 December 1898 following Spanish-American War (Treaty of Paris) — substantively distinctive globally Spanish-Civil-Code-1889-retained-as-substantive-law-under-US-sovereignty framework. Foundational substantive 128-year Spanish-civil-law-substantive-heritage-+-US-derivative-procedural-inheritance framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1917,
+      "title": "Jones-Shafroth Act + US-citizenship-extension framework",
+      "description": "Jones-Shafroth Act 2 March 1917 extending US citizenship to Puerto Ricans — substantively distinctive Caribbean unincorporated-territory-+-US-citizenship framework. Foundational pre-1952-Commonwealth-status framework affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1930,
-      "title": "Puerto Rico Civil Code 1930",
-      "description": "Federal Civil Code drawing on Spanish civil-law substantive heritage."
+      "title": "Puerto Rico Civil Code 1930 + Spanish-civil-law-substantive-heritage framework",
+      "description": "Federal Civil Code 1930 drawing on Spanish civil-law substantive heritage — substantively significant Caribbean Spanish-Civil-Code-derivative framework. Foundational substantive Puerto-Rican-Civil-Code framework persisting through subsequent reform-trajectory through 2020 replacement affecting family-law-implementation."
     },
     {
       "year": 1952,
-      "title": "Commonwealth / Estado Libre Asociado status",
-      "description": "Puerto Rico achieved Commonwealth status (Estado Libre Asociado) within US framework."
+      "title": "Commonwealth / Estado Libre Asociado status + Constitution-+-Federal-Relations-Act framework",
+      "description": "Puerto Rico achieved Commonwealth status (Estado Libre Asociado) 25 July 1952 under Constitution of the Commonwealth of Puerto Rico — substantively distinctive globally Commonwealth-Estado-Libre-Asociado-+-Federal-Relations-Act-67-of-1950 framework. Foundational substantive 74-year Commonwealth framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1983,
-      "title": "Junta Examinadora de Psicólogos Law",
-      "description": "Federal statute establishing the Junta Examinadora de Psicólogos."
+      "title": "Junta Examinadora de Psicólogos Law + Spanish-speaking-US-territory-psychology-regulation framework",
+      "description": "Federal Law 96-1983 establishing Junta Examinadora de Psicólogos — substantively significant Caribbean US-Commonwealth-psychology-regulation framework. Foundational substantive psychology-profession-regulation framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 1988,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by US to Puerto Rico effective 1 July 1988."
+      "title": "Hague Convention 1980 territorial extension + US-territorial-extension-+-ICARA framework",
+      "description": "Hague Convention 1980 territorial extension by US to Puerto Rico effective 1 July 1988 — substantively significant Caribbean US-Hague-applicability framework via unincorporated-territory status. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "US ratifies UN Convention on the Rights of the Child + Puerto-Rico-applicability framework",
+      "description": "United States signed UNCRC 16 February 1995 + Puerto-Rico applicability via US Commonwealth-status — substantively significant Caribbean child-rights framework integration. Note US never formally ratified UNCRC at Federal level; Puerto Rico applies UNCRC principles via Children's Bill of Rights Law 2018 + Civil Code 2020 reform."
+    },
+    {
+      "year": 2016,
+      "title": "PROMESA + Federal-fiscal-oversight-+-debt-restructuring framework",
+      "description": "Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) 30 June 2016 establishing Federal Oversight Board for Puerto Rico's debt restructuring — substantively distinctive globally only-Commonwealth-with-Federal-fiscal-oversight-board framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2018,
+      "title": "Children's Bill of Rights Law 2018 + UNCRC-aligned-Carta-de-Derechos-de-la-Niñez framework",
+      "description": "Federal Children's Bill of Rights Law 2018 (Carta de Derechos de la Niñez y Adolescencia) — substantively significant Caribbean child-rights framework aligned with UNCRC principles. Foundational substantive children's-rights framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 2020,
-      "title": "Puerto Rico Civil Code 2020 (Law 55-2020)",
-      "description": "Comprehensive Civil Code reform replacing 1930 Civil Code with Spanish civil-law + US-influenced substantive provisions."
+      "title": "Puerto Rico Civil Code 2020 + Law-55-2020-+-Spanish-civil-law-+-US-influenced framework",
+      "description": "Comprehensive Civil Code reform (Law 55-2020) of 1 June 2020 replacing 1930 Civil Code — substantively distinctive Caribbean Spanish-civil-law-+-US-influenced-comprehensive-reform framework. Arts. 504-544 govern patria potestad and child custody. Among the more recent comprehensive Spanish-civil-law-derivative Civil Code reforms within the corpus. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Pedro Pierluisi Government + status-plebiscite-discussions + Federal-Oversight-Board-continuing framework",
+      "description": "Pedro Pierluisi (PNP) Governor framework continuing through 2023 with Puerto Rico Legislative Assembly institutional positions addressing PA-related issues within Civil Code 2020 (Law 55-2020) Arts. 504-544 + Children's Bill of Rights 2018 framework applied via Supreme Court of Puerto Rico. Continuing Federal Oversight Board PROMESA framework substantively significant institutional context. Status-plebiscite (Puerto Rico Status Act) discussions in US Congress 2023 substantively significant institutional context. Substantively significant Caribbean US-Commonwealth institutional jurisprudential development."
     }
   ],
   "structural_findings": [
@@ -124,8 +149,9 @@
     }
   ],
   "editorial_notes": [
-    "Puerto Rico jurisdiction sidecar — mixed-legal-system Caribbean US Commonwealth (Civil Code 2020 Spanish-civil-law substantive + US-derivative common-law procedural + Children's Bill of Rights 2018 + Junta Examinadora de Psicólogos 1983 + Hague via US territorial extension 1988). Most layered Spanish-US legal-system hybrid globally.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Caribbean + mixed-legal-system + Spanish-civil-law-substantive + US-derivative-procedural + Commonwealth-distinctive + Hague-via-US-territorial-extension clusters within the corpus."
+    "Puerto Rico jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full US-acquisition-1898-to-Civil-Code-2020 trajectory: 1898-US-acquisition-+-Treaty-of-Paris + 1917-Jones-Shafroth-Act + 1930-Puerto-Rico-Civil-Code + 1952-Commonwealth-status + 1983-Junta-Examinadora-de-Psicólogos + 1988-Hague-Convention-territorial-extension + 1990-UNCRC-applicability + 2016-PROMESA + 2018-Children's-Bill-of-Rights + 2020-Puerto-Rico-Civil-Code-55-2020.",
+    "Mixed-legal-system Caribbean US Commonwealth (Civil Code 2020 Spanish-civil-law substantive + US-derivative common-law procedural + Children's Bill of Rights 2018 + Junta Examinadora de Psicólogos 1983 + Hague via US territorial extension 1988 + PROMESA Federal-fiscal-oversight 2016). Most layered Spanish-US legal-system hybrid globally + only Commonwealth with Federal fiscal oversight board globally distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Civil Code 2020 arts. 504-544 + Children's Bill of Rights 2018 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + mixed-legal-system + Spanish-civil-law-substantive + US-derivative-procedural + Commonwealth-Estado-Libre-Asociado-distinctive + Hague-via-US-territorial-extension + Spanish-American-War-+-Treaty-of-Paris-1898 + Jones-Shafroth-Act-1917-US-citizenship + Civil-Code-1930-+-2020-reform-Law-55-2020 + Commonwealth-status-1952-+-Federal-Relations-Act-67-of-1950 + Junta-Examinadora-de-Psicólogos-1983 + PROMESA-2016-Federal-fiscal-oversight-only-Commonwealth-globally-distinctive + Children's-Bill-of-Rights-2018-Carta-de-Derechos-de-la-Niñez clusters within the corpus."
   ]
 }

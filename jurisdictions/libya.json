@@ -47,19 +47,59 @@
   "anonymisation_convention": "Libyan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1911,
+      "title": "Italian colonial framework + Italo-Turkish War + Libya-Italia 1911-1943",
+      "description": "Italy invaded Libya 29 September 1911 in Italo-Turkish War. Italian-Libya (Libia Italiana) 1911-1943 substantively distinctive Maghreb Italian-colonial framework establishing Italian-civil-law inheritance. Foundational pre-independence colonial framework affecting subsequent legal-system framework."
+    },
+    {
+      "year": 1951,
+      "title": "Libya independence + King Idris I + Federal-Kingdom framework",
+      "description": "Libya independence 24 December 1951 from UN administration following Italian-territorial-loss WWII — establishing federal Kingdom of Libya under King Idris I. Substantively distinctive Maghreb federal-monarchy framework. Foundational pre-Gaddafi framework affecting subsequent constitutional-trajectory."
+    },
+    {
       "year": 1953,
       "title": "Civil Code 1953",
-      "description": "Federal Civil Code enacted drawing on French civil-law via Egyptian transplant + Italian civil-law colonial inheritance."
+      "description": "Federal Civil Code enacted drawing on French civil-law via Egyptian Civil Code transplant (Sanhuri framework) + Italian civil-law colonial inheritance. Foundational substantive-civil-law framework for contemporary family-law-jurisprudence persisting through subsequent regime-changes."
+    },
+    {
+      "year": 1969,
+      "title": "Gaddafi coup d'état + Libyan Arab Jamahiriya + 42-year-revolutionary framework",
+      "description": "Muammar Gaddafi coup d'état 1 September 1969 ending Idris I monarchy. Subsequent Libyan Arab Jamahiriya 1977-2011 — substantively distinctive Maghreb revolutionary-state framework. Foundational 42-year Gaddafi-era framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1984,
       "title": "Marriage, Divorce and Related Matters Law 10/1984",
-      "description": "Federal personal-status statute enacted codifying personal-status matters on Maliki jurisprudential basis."
+      "description": "Federal personal-status statute enacted codifying personal-status matters on Maliki jurisprudential basis. Arts. 62-72 govern hadana (custody) and wilaya (guardianship). Foundational Islamic-law personal-status framework."
+    },
+    {
+      "year": 1993,
+      "title": "Libya ratifies UN Convention on the Rights of the Child",
+      "description": "Libya ratified the UNCRC on 15 April 1993 (with reservations consistent with Islamic Sharia) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration applied through Marriage, Divorce and Related Matters Law + Maliki Islamic-law framework."
+    },
+    {
+      "year": 2011,
+      "title": "Libyan Revolution + Gaddafi-fall + NATO-intervention + Civil-War framework",
+      "description": "Libyan Revolution 17 February 2011 substantively ending 42-year Gaddafi era. NATO-intervention 19 March-31 October 2011 (Operation Unified Protector). Gaddafi death 20 October 2011. Substantive 21st-century Arab-Spring framework substantially disrupting political-institutional framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2014,
+      "title": "Libyan Civil War 2014-2020 + dual-government framework + Skhirat Agreement 2015",
+      "description": "Libyan Civil War 2014-2020 substantively distinctive Maghreb post-revolution dual-government framework — Government of National Accord (Tripoli) vs Libyan National Army (Tobruk). Skhirat Agreement 17 December 2015 substantially affecting political-institutional framework. Substantive political-institutional disruption affecting family-law-implementation."
     },
     {
       "year": 2015,
-      "title": "Marriage, Divorce and Related Matters Law amendments",
-      "description": "Substantial amendments to personal-status provisions."
+      "title": "Marriage, Divorce and Related Matters Law amendments + civil-war-era statutory framework",
+      "description": "Substantial amendments to personal-status provisions during civil-war-era — substantively affecting custody (hadana) and guardianship (wilaya) framework. Substantive statutory-reform within turbulent political-institutional context."
+    },
+    {
+      "year": 2023,
+      "title": "Derna flood disaster + dual-government framework + LPA framework continuation",
+      "description": "Derna flood disaster 10-11 September 2023 (Storm Daniel) — substantively distinctive Maghreb climate-disaster framework affecting 11,000+ deaths and 10,000+ missing. Dual-government framework continuing under Tripoli-based Government of National Unity (GNU) and Tobruk-based House of Representatives + LNA framework. Libyan Political Agreement (LPA) framework continuation affecting institutional-context for family-law adjudication. Substantively significant Maghreb institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Constitutional Court — substantive register + post-civil-war framework",
+      "description": "Supreme Court of Libya and Constitutional Court continue to develop family-law jurisprudence under Marriage, Divorce and Related Matters Law 10/1984 (as amended 2015) + Civil Code 1953 + Maliki Islamic-law framework in custody disputes within post-civil-war-framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -96,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Libya jurisdiction sidecar — mixed-legal-system Maghreb (French/Italian civil-law substantive via Egyptian transplant + Italian colonial heritage + Maliki Islamic-law personal-status). Marriage, Divorce and Related Matters Law 10/1984 + 2015 amendments + Civil Code 1953 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins North African/Maghreb + Maliki + Italian-colonial-heritage distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Libya jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Italian-colonial-to-contemporary trajectory: 1911-Italian-colonial-framework + 1951-Libya-independence-+-King-Idris-I-+-Federal-Kingdom + 1953-Civil-Code + 1969-Gaddafi-coup-+-Libyan-Arab-Jamahiriya + 1984-Marriage-Divorce-Related-Matters-Law + 1993-UNCRC-ratification + 2011-Libyan-Revolution-+-Gaddafi-fall-+-NATO-intervention + 2014-Libyan-Civil-War-+-Skhirat-Agreement-2015 + 2015-Marriage-Divorce-Related-Matters-Law-amendments + 2024-Supreme-Court-+-Constitutional-Court-post-civil-war.",
+    "Mixed-legal-system Maghreb (French/Italian civil-law substantive via Egyptian transplant + Italian colonial heritage + Maliki Islamic-law personal-status). Marriage, Divorce and Related Matters Law 10/1984 + 2015 amendments + Civil Code 1953 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Marriage, Divorce and Related Matters Law 10/1984 + Civil Code 1953 + Maliki Islamic-law framework without doctrinal 'parental alienation' label.",
+    "Joins North-African/Maghreb + Maliki + Italian-colonial-heritage-1911-1943-distinctive + Libyan-Arab-Jamahiriya-1977-2011-Gaddafi-42-year + Libyan-Revolution-2011-+-NATO-intervention + Libyan-Civil-War-2014-2020-+-dual-government-Tripoli-Tobruk-+-Skhirat-2015 + Sanhuri-Egyptian-Civil-Code-derivative + non-Hague-Convention clusters within the corpus."
   ]
 }

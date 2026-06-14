@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "luxembourg",
+  "name": "Luxembourg (Grand-Duché de Luxembourg / Großherzogtum Luxemburg)",
+  "jurisdiction_code": "LU",
+  "legal_system": "civil-law",
+  "language": ["fr", "de", "lb"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "Luxembourg is a civil-law jurisdiction whose family courts (Tribunal d'arrondissement — Juge aux affaires familiales / JAF) operate under the Code civil (Napoleonic-inheritance with substantial reform) and the Loi du 27 juin 2018 instituant le juge aux affaires familiales. The statutory framework is silent on the 'aliénation parentale' label. The Cour de cassation and Cour d'appel develop intérêt supérieur de l'enfant jurisprudence under Code civil + EU Brussels IIb framework. Luxembourg's trilingual (French/German/Luxembourgish) framework + EU-institution-hosting position + substantial cross-border family-law caseload (expatriate population ~47% of residents) operationally creates distinctive Western European cross-border family-law adjudication framework.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Code civil arts. 372-387ter",
+      "title": "Autorité parentale",
+      "year": 1995,
+      "url": "https://legilux.public.lu/eli/etat/leg/code/civil/",
+      "relevance": "Primary statutory basis for parental authority — restructured by Loi du 22 décembre 1993 + subsequent amendments establishing autorité parentale conjointe (joint parental authority). Substantively foundational current parental-authority framework."
+    },
+    {
+      "citation": "Loi du 27 juin 2018 (juge aux affaires familiales)",
+      "title": "Loi instituant le juge aux affaires familiales",
+      "year": 2018,
+      "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a589/jo",
+      "relevance": "Loi du 27 juin 2018 (in force 1 November 2018) establishing juge aux affaires familiales (JAF) framework — substantively significant institutional reform consolidating Luxembourgish family-law procedural framework."
+    },
+    {
+      "citation": "Code civil + Brussels IIb Regulation 2019/1111",
+      "title": "EU Regulation 2019/1111 Brussels IIb",
+      "year": 2019,
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111",
+      "relevance": "EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters — operationally significant for Luxembourg's substantial expatriate-population family-law caseload."
+    },
+    {
+      "citation": "Convention d'Istanbul",
+      "title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "year": 2018,
+      "url": "https://rm.coe.int/168008482e",
+      "relevance": "Ratified by Luxembourg 7 August 2018, in force 1 December 2018. Art. 31 requires contact/custody decisions take account of violence."
+    },
+    {
+      "citation": "Luxembourg ratifies UN CRC",
+      "title": "United Nations Convention on the Rights of the Child",
+      "year": 1993,
+      "url": "https://gouvernement.lu/",
+      "relevance": "Luxembourg ratified UN CRC 7 March 1994. Establishes intérêt supérieur de l'enfant standard with international-treaty grounding."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Cour de cassation",
+      "seat": "Luxembourg",
+      "role": "Apex court for civil matters including family law"
+    },
+    {
+      "name": "Cour d'appel",
+      "seat": "Luxembourg",
+      "role": "Intermediate appellate court; jurisprudentially significant for family-law interpretation"
+    },
+    {
+      "name": "Tribunal d'arrondissement — Juge aux affaires familiales (JAF)",
+      "seat": "Luxembourg + Diekirch",
+      "role": "Specialised family-court framework established 2018"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1804,
+      "title": "Code Napoléon / Luxembourg Code civil reception",
+      "description": "Code Napoléon 1804 received into Luxembourgish law (continuing through Luxembourg Independence 1839). Substantively foundational civil-law framework — operational basis for subsequent 19th-20th century family-law codification."
+    },
+    {
+      "year": 1957,
+      "title": "EU founding member + Treaty of Rome framework",
+      "description": "Luxembourg founding member of European Economic Community 25 March 1957 — substantively foundational European integration framework affecting subsequent cross-border family-law adjudication trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "Loi du 22 décembre 1993 — autorité parentale conjointe framework",
+      "description": "Loi du 22 décembre 1993 establishing autorité parentale conjointe (joint parental authority) framework — substantively significant gender-equal parental-rights reform."
+    },
+    {
+      "year": 1994,
+      "title": "Luxembourg ratifies UN Convention on the Rights of the Child",
+      "description": "Luxembourg ratified UN CRC 7 March 1994. Substantively significant international child-rights framework — establishes intérêt supérieur de l'enfant standard with international-treaty grounding."
+    },
+    {
+      "year": 2004,
+      "title": "Loi du 9 juillet 2004 — same-sex partenariat framework",
+      "description": "Loi du 9 juillet 2004 relative aux effets légaux de certains partenariats establishing partenariat (registered partnership) framework including same-sex couples. Subsequent Loi du 4 juillet 2014 ouvrant le mariage aux couples de personnes de même sexe (effective 1 January 2015) — Luxembourg becoming first country to legalise same-sex marriage with Prime Minister (Xavier Bettel) marrying his partner."
+    },
+    {
+      "year": 2008,
+      "title": "Loi du 16 décembre 2008 — assistance éducative + Office National de l'Enfance framework",
+      "description": "Loi du 16 décembre 2008 relative à l'aide à l'enfance et à la famille establishing assistance éducative framework + Office National de l'Enfance (ONE) institutional framework. Substantively significant child-protection institutional consolidation."
+    },
+    {
+      "year": 2014,
+      "title": "Loi du 4 juillet 2014 — same-sex marriage legalisation",
+      "description": "Loi du 4 juillet 2014 ouvrant le mariage aux couples de personnes de même sexe (effective 1 January 2015) substantively significant Western European Catholic-Reformed-tradition same-sex marriage legalisation framework."
+    },
+    {
+      "year": 2018,
+      "title": "Loi du 27 juin 2018 — juge aux affaires familiales established",
+      "description": "Loi du 27 juin 2018 (in force 1 November 2018) establishing juge aux affaires familiales (JAF) framework — substantively significant institutional reform consolidating Luxembourgish family-law procedural framework. Substantively significant Western European institutional reform."
+    },
+    {
+      "year": 2018,
+      "title": "Istanbul Convention ratification + GREVIO monitoring trajectory",
+      "description": "Luxembourg ratified Council of Europe Istanbul Convention 7 August 2018, in force 1 December 2018. GREVIO Baseline Evaluation Report on Luxembourg (2022) substantively significant institutional-critique register affecting subsequent JAF adjudication context."
+    },
+    {
+      "year": 2022,
+      "title": "EU Regulation 2019/1111 (Brussels IIb) operational + Ombudsman fir Kanner a Jugendlecher framework",
+      "description": "EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters — operationally significant for Luxembourg's substantial expatriate-population family-law caseload (~47% non-Luxembourgish residents). Ombudsman fir Kanner a Jugendlecher (OKAJU) institutional position addressing PA-related issues within Code civil + Loi 2018 JAF framework."
+    },
+    {
+      "year": 2024,
+      "title": "Cour de cassation + Cour d'appel + JAF — intérêt supérieur de l'enfant substantive register + cross-border-EU framework",
+      "description": "Cour de cassation, Cour d'appel, and JAF continue to develop intérêt supérieur de l'enfant jurisprudence under Code civil + Loi 2018 + Brussels IIb framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'aliénation parentale' label as a doctrinal term. Substantive analysis within trilingual + EU-institutional + expatriate-population context."
+    }
+  ],
+  "structural_findings": [
+    "Luxembourg operates a structurally distinctive civil-law family-law framework — Code civil + Loi 2018 juge aux affaires familiales + EU Brussels IIb framework — with substantive intérêt supérieur de l'enfant analysis without doctrinal 'aliénation parentale' label adoption.",
+    "Luxembourg's expatriate-population framework (~47% non-Luxembourgish residents) operationally creates distinctive Western European cross-border family-law adjudication framework — substantively significant for cross-border family-law adjudication including EU-institution-staff family-law cases.",
+    "Trilingual framework (French/German/Luxembourgish) operationally creates structurally distinctive linguistic-context affecting family-law adjudication — substantively significant Western European institutional framework."
+  ],
+  "editorial_notes": [
+    "Luxembourg's expatriate-population family-law framework operationally creates distinctive cross-border family-law adjudication context — making Luxembourg a critical European cross-border family-law data point.",
+    "Loi du 27 juin 2018 juge aux affaires familiales framework operationally consolidates Luxembourgish family-law procedural framework — substantively significant Western European institutional reform."
+  ]
+}

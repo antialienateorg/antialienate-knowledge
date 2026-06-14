@@ -59,19 +59,64 @@
   "anonymisation_convention": "Danish family-law decisions are anonymised per Højesteret and Landsret practice using initials. Published decisions on Domstol.dk and Retsinformation strip identifying details.",
   "key_developments": [
     {
+      "year": 1849,
+      "title": "Danish Constitution 1849 + Junigrundloven + constitutional-monarchy framework",
+      "description": "Danish Constitution (Junigrundloven) adopted 5 June 1849 substantively reforming Danish absolute-monarchy framework to constitutional-monarchy. Foundational constitutional anchor persisting through subsequent constitutional-amendment-trajectory affecting contemporary family-law-jurisprudence."
+    },
+    {
+      "year": 1953,
+      "title": "Constitution of Denmark 1953 + modernised constitutional framework",
+      "description": "Constitution of the Kingdom of Denmark (Danmarks Riges Grundlov) adopted 5 June 1953 substantially modernising 1849 framework — single-chamber parliament (Folketinget), female monarchical succession reform. Foundational contemporary constitutional framework for family-law-jurisprudence."
+    },
+    {
+      "year": 1973,
+      "title": "EEC accession + EU integration framework",
+      "description": "Denmark European Economic Community accession 1 January 1973 — substantive integration into EU-treaty-framework affecting cross-border-jurisdiction-practice including subsequent Brussels IIa/IIbis Regulation framework for family-law-matters with Denmark's opt-out provisions."
+    },
+    {
+      "year": 1991,
+      "title": "Denmark ratifies UN Convention on the Rights of the Child",
+      "description": "Denmark ratified the UNCRC on 19 July 1991 — establishing barnets bedste best-interests-of-the-child substantive doctrine within Danish civil-law framework. Subsequent reservation framework affecting some UNCRC provisions affecting Danish family-law-implementation."
+    },
+    {
       "year": 1993,
       "title": "Psykologloven 1993",
-      "description": "Psychology Act 1993 enacted; statutorily protected title 'psykolog' with autorisasjon under Ministry of Social Affairs."
+      "description": "Psychology Act 1993 enacted; statutorily protected title 'psykolog' with autorisasjon under Ministry of Social Affairs. Substantive evaluator-quality-anchor for court-appointed psychological assessments."
     },
     {
       "year": 2007,
       "title": "Forældreansvarsloven 2007",
-      "description": "Parental Responsibility Act consolidated joint-custody-default and welfare-standard framework."
+      "description": "Parental Responsibility Act consolidated joint-custody-default and barnets-bedste welfare-standard framework. § 4 establishes joint parental responsibility as the default; § 17 governs residence decisions; §§ 19-21 govern contact. Substantively significant family-law-modernisation framework."
+    },
+    {
+      "year": 2012,
+      "title": "Same-sex marriage legalisation + Marriage Act amendment + family-law-modernisation framework",
+      "description": "Denmark same-sex marriage legalisation 7 June 2012 effective 15 June 2012 — substantively distinctive Nordic post-registered-partnership-1989 framework + structurally distinctive globally first country to introduce registered partnership 1989 framework progression to full same-sex marriage 2012 + substantive Marriage Act (Ægteskabsloven) amendment + Lutheran Church-of-Denmark religious-marriage framework integration + foundational substantive same-sex-parenting + adoption-by-same-sex-couples framework affecting subsequent Forældreansvarsloven 2007 implementation framework + Familieretshuset 2019 administrative-first pathway framework for same-sex-family disputes."
+    },
+    {
+      "year": 2014,
+      "title": "Brussels IIa Regulation + 2019 Brussels IIb framework + cross-border-jurisdiction",
+      "description": "Brussels IIa Regulation (EC 2201/2003) framework operating in Denmark via parallel agreement (Denmark family-law-opt-out within EU framework). Subsequent Brussels IIb Regulation (EU 2019/1111) framework substantively reforming cross-border-jurisdiction-and-recognition-and-enforcement for matrimonial-and-parental-responsibility-matters."
     },
     {
       "year": 2019,
       "title": "Familieretshuset reform in force",
-      "description": "Lov om Familieretshuset 2018 in force 1 April 2019 — single-entry administrative-and-judicial pathway for family disputes through Familieretshuset (administrative) and Familieretten (judicial)."
+      "description": "Lov om Familieretshuset 2018 in force 1 April 2019 — single-entry administrative-and-judicial pathway for family disputes through Familieretshuset (administrative) and Familieretten (judicial). Substantively distinctive Nordic administrative-first family-law-architecture."
+    },
+    {
+      "year": 2022,
+      "title": "Familieretshuset evaluation 2022 + reform-recommendations + ongoing-implementation",
+      "description": "Familieretshuset evaluation 2022 substantively documenting implementation-challenges including processing-delays and case-management framework. Subsequent reform recommendations 2023-2025 affecting Familieretshuset operational framework."
+    },
+    {
+      "year": 2023,
+      "title": "Familieretshuset capacity reform + Børns Vilkår institutional position",
+      "description": "Familieretshuset capacity reform 2022-2023 addressing processing-delays identified in 2022 evaluation framework with substantial resourcing increase. Børns Vilkår (Children's Welfare Council) and Børnerådet (Children's Council) institutional positions addressing PA-related issues within Forældreansvarsloven 2007 framework. Substantively significant Nordic institutional position consistent with barnets-bedste welfare standard."
+    },
+    {
+      "year": 2024,
+      "title": "Højesteret + Familieretshuset + Familieretten — barnets-bedste substantive register + post-2019-reform context",
+      "description": "Højesteret continues to develop barnets-bedste jurisprudence under Forældreansvarsloven 2007 + Familieretshuset 2019 framework in custody and contact disputes via Landsret + Familieretten + Familieretshuset administrative-first pathway. Substantive analysis without doctrinal 'parental alienation' label adoption within Nordic civil-law + administrative-first framework."
     }
   ],
   "structural_findings": [
@@ -113,8 +158,9 @@
     }
   ],
   "editorial_notes": [
-    "Denmark jurisdiction sidecar — Nordic civil-law framework. Forældreansvarsloven 2007 + Familieretshuset 2019 + Psykologloven 1993.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Nordic + federal-statutory psychology regulator + administrative-first-pathway distinctive clusters."
+    "Denmark jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Junigrundloven-to-contemporary trajectory: 1849-Danish-Constitution-Junigrundloven + 1953-Constitution-of-Denmark + 1973-EEC-accession + 1991-UNCRC-ratification + 1993-Psykologloven + 2007-Forældreansvarsloven + 2014-2019-Brussels-IIa-IIb-cross-border-jurisdiction + 2019-Familieretshuset-reform-in-force + 2022-Familieretshuset-evaluation + 2024-Højesteret-+-Familieretshuset-+-Familieretten-barnets-bedste.",
+    "Nordic civil-law framework. Forældreansvarsloven 2007 + Familieretshuset 2019 + Psykologloven 1993.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive barnets-bedste analysis under Forældreansvarsloven 2007 + Familieretshuset 2019 framework without doctrinal 'parental alienation' label.",
+    "Joins Nordic-civil-law (with Sweden, Norway, Finland, Iceland) + federal-statutory-psychology-regulator + administrative-first-Familieretshuset-pathway-2019-distinctive + EU-1973-accession-+-Denmark-family-law-opt-out + Junigrundloven-1849-constitutional-monarchy + Brussels-IIa-IIb-parallel-agreement clusters within the corpus."
   ]
 }

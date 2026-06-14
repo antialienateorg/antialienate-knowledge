@@ -54,29 +54,59 @@
   "anonymisation_convention": "Liberian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1822,
+      "title": "American Colonization Society + Americo-Liberian-settlement framework",
+      "description": "American Colonization Society established Americo-Liberian settlement at Cape Mesurado (later Monrovia) 1822 — substantively distinctive globally only-state-founded-by-freed-American-slaves framework. Foundational pre-1847-independence framework affecting subsequent constitutional-administrative-trajectory and mixed-legal-system-trajectory."
+    },
+    {
       "year": 1847,
-      "title": "Liberian independence",
-      "description": "Liberia declared independence; legal-system inheritance via Americo-Liberian settlers from US legal tradition (rather than direct British colonial inheritance) — structurally distinctive in African corpus."
+      "title": "Liberian independence + earliest-African-independence-in-corpus framework",
+      "description": "Liberia declared independence 26 July 1847 — substantively distinctive globally earliest-African-independence-+-only-state-founded-by-freed-American-slaves framework. Legal-system inheritance via Americo-Liberian settlers from US legal tradition (rather than direct British colonial inheritance) — substantively distinctive within African corpus US-style-common-law-substantive-heritage framework. Foundational substantive 178+ year independent-republic framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1944,
+      "title": "Tubman-presidency + Unification-Policy + indigenous-integration framework",
+      "description": "William V.S. Tubman presidency 1944-1971 — substantively distinctive globally Unification-Policy-Americo-Liberian-indigenous-integration framework. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1956,
-      "title": "Customary Marriage Law",
-      "description": "Federal statute on customary marriage enacted."
+      "title": "Customary Marriage Law + customary-law-codification framework",
+      "description": "Customary Marriage Law of 1956 enacted establishing federal statute on customary marriage — substantively significant West African customary-marriage-codification framework. Foundational substantive customary-marriage framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 1973,
-      "title": "Liberian Code of Laws Revised",
-      "description": "Comprehensive Liberian Code revision including Domestic Relations Law Title 9."
+      "title": "Liberian Code of Laws Revised + Domestic Relations Law Title 9 framework",
+      "description": "Comprehensive Liberian Code revision 1973 including Domestic Relations Law Title 9 — substantively significant West African US-derivative-domestic-relations-law framework. Foundational substantive domestic-relations-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1989,
+      "title": "First-Liberian-Civil-War + Charles-Taylor-+-Doe-Samuel-+-NPFL framework",
+      "description": "First Liberian Civil War December 1989-August 1996 — substantively distinctive West African post-Cold-War-civil-war framework. Estimated 200,000+ deaths and 1 million+ displaced substantively reshaping demographic framework. Subsequent Second Liberian Civil War 1999-2003. Foundational pre-2003-Comprehensive-Peace-Agreement framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "Liberia ratifies UN Convention on the Rights of the Child + UNCRC-applicability framework",
+      "description": "Liberia ratified UNCRC 4 June 1993 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2011 Children's Law substantive doctrine."
     },
     {
       "year": 1998,
-      "title": "Equal Rights of Customary Marriage Law",
-      "description": "Federal statute codifying gender-equality in customary marriages enacted."
+      "title": "Equal Rights of Customary Marriage Law + gender-equality-customary-marriage framework",
+      "description": "Equal Rights of Customary Marriage Law 1998 enacted codifying gender-equality provisions in customary marriages — substantively significant West African gender-equality-customary-marriage framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2011,
-      "title": "Children's Law",
-      "description": "Federal Children's Law enacted codifying best-interests principle and child-protection provisions."
+      "title": "Children's Law + best-interests-of-the-child-codification framework",
+      "description": "Federal Children's Law 2011 enacted codifying best-interests-of-the-child principle (s. 1.4), parental responsibility, custody, and children's protection provisions. Substantively significant West African children's-law-codification framework. Foundational substantive children's-law framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Boakai election + INCHR + War-and-Economic-Crimes Court framework",
+      "description": "Joseph Boakai (UP) elected President 14 November 2023 substantively distinctive West African democratic-alternation framework ending Weah presidency. Independent National Commission on Human Rights (INCHR) institutional position addressing PA-related issues within Children's Law 2011 + Domestic Relations Law 1973 framework. War and Economic Crimes Court framework 2024 substantively significant transitional-justice framework. Substantively significant West African institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Liberia + Tribal Courts — best-interests-of-the-child substantive register + Boakai-presidency framework",
+      "description": "Supreme Court of Liberia and Tribal Courts continue to develop best-interests-of-the-child jurisprudence under Children's Law 2011 s. 1.4 + Domestic Relations Law 1973 + Customary Marriage Law 1956 framework in custody disputes within Joseph Boakai (UP) presidency since 22 January 2024. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -106,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Liberia jurisdiction sidecar — mixed-legal-system West Africa (US-style common-law substantive via Americo-Liberian settler-inheritance + customary-law personal-status). Children's Law 2011 + Domestic Relations Law 1973 + Equal Rights of Customary Marriage Law 1998 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins West African + US-style-common-law distinctive cluster + earliest-African-independence + non-Hague Convention clusters within the corpus."
+    "Liberia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full American-Colonization-Society-1822-to-Boakai-presidency trajectory: 1822-American-Colonization-Society-+-Americo-Liberian-settlement + 1847-Liberian-independence-earliest-African + 1944-Tubman-presidency-+-Unification-Policy + 1956-Customary-Marriage-Law + 1973-Liberian-Code-of-Laws-Revised + 1989-First-Liberian-Civil-War + 1993-Liberia-UNCRC-ratification + 1998-Equal-Rights-of-Customary-Marriage-Law + 2011-Children's-Law + 2024-Supreme-Court-+-Tribal-Courts-+-Boakai-presidency.",
+    "Mixed-legal-system West Africa (US-style common-law substantive via Americo-Liberian settler-inheritance + customary-law personal-status). Children's Law 2011 + Domestic Relations Law 1973 + Equal Rights of Customary Marriage Law 1998 + non-Hague Convention. Only state founded by freed American slaves globally distinctive + earliest African independence 1847 in corpus.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Children's Law 2011 s. 1.4 + Domestic Relations Law 1973 + Customary Marriage Law 1956 framework without doctrinal 'parental alienation' label.",
+    "Joins West-African + US-style-common-law-distinctive-only-in-African-corpus + earliest-African-independence-1847-globally-distinctive + only-state-founded-by-freed-American-slaves-globally-distinctive + American-Colonization-Society-1822 + Americo-Liberian-settler-heritage + Tubman-presidency-1944-1971-+-Unification-Policy + Customary-Marriage-Law-1956 + Liberian-Code-of-Laws-Revised-1973-Domestic-Relations-Law-Title-9 + First-Liberian-Civil-War-1989-1996-+-Second-Liberian-Civil-War-1999-2003 + Equal-Rights-of-Customary-Marriage-Law-1998 + Children's-Law-2011 + Boakai-UP-2024-presidency + non-Hague-Convention clusters within the corpus."
   ]
 }

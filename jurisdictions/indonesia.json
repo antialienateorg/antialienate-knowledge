@@ -60,24 +60,64 @@
   "anonymisation_convention": "Indonesian family-court decisions are anonymised per Mahkamah Agung practice using initials.",
   "key_developments": [
     {
+      "year": 1945,
+      "title": "Indonesia independence + Sukarno-Hatta + Constitution-1945 framework",
+      "description": "Indonesia declared independence 17 August 1945 from Japanese occupation. Sukarno first president 1945-1967 + Mohammad Hatta first vice-president. Constitution of Indonesia 1945 (UUD 1945) adopted 18 August 1945 establishing presidential republic framework. Foundational constitutional anchor persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1965,
+      "title": "1965 Indonesian mass killings + Suharto-New-Order framework + 32-year-authoritarianism",
+      "description": "1965 Indonesian mass killings 1 October 1965-March 1966 estimated 500,000-1,000,000 killed (PKI Communist Party members and alleged sympathisers). Subsequent Suharto New-Order regime 1967-1998 substantively distinctive 32-year-authoritarian framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1974,
       "title": "Marriage Law 1/1974",
-      "description": "Federal Marriage Law enacted."
+      "description": "Federal Marriage Law enacted 2 January 1974 governing marriage and parental responsibilities. Arts. 41-49 govern parental rights and obligations including custody on dissolution of marriage. Foundational substantive-statutory framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Indonesia ratifies UN Convention on the Rights of the Child",
+      "description": "Indonesia ratified the UNCRC on 5 September 1990 (with reservations) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2002 Child Protection Law substantive doctrine."
     },
     {
       "year": 1991,
       "title": "Kompilasi Hukum Islam 1991",
-      "description": "Compilation of Islamic Law promulgated for use in Religious Courts."
+      "description": "Compilation of Islamic Law promulgated 10 June 1991 (Presidential Instruction 1/1991) for use in Religious Courts (Pengadilan Agama). Arts. 105-112 govern hadana (custody) provisions on Shafi'i jurisprudential basis. Foundational dual-personal-status framework substrate."
+    },
+    {
+      "year": 1998,
+      "title": "Reformasi + Suharto-fall + democratic-transition framework",
+      "description": "1998 Indonesian protests May 1998 substantively ending Suharto 32-year-authoritarian framework — Reformasi (Reformation) era. Substantively distinctive globally Indonesian democratic-transition framework affecting subsequent constitutional-democratic-trajectory including subsequent 1999-2002 constitutional-amendments."
+    },
+    {
+      "year": 1999,
+      "title": "East Timor independence-referendum + Aceh-conflict context",
+      "description": "East Timor independence-referendum 30 August 1999 — 78.5% in favour of independence. Subsequent independence 2002. Substantively distinctive globally Indonesian-secession framework. Aceh-conflict 1976-2005 ending Helsinki MoU 15 August 2005 substantively significant Indonesian armed-conflict framework affecting demographic and family-law-implementation."
+    },
+    {
+      "year": 2002,
+      "title": "Child Protection Law 23/2002 + UNCRC-aligned framework",
+      "description": "Child Protection Law 23/2002 enacted 22 October 2002 — substantively significant child-protection-framework consolidation aligned with UNCRC obligations. Subsequent Law 35/2014 amendments substantively distinctive child-welfare-modernisation framework."
+    },
+    {
+      "year": 2012,
+      "title": "Constitutional Court Decision 46/PUU-VIII/2010 + non-marital child rights framework",
+      "description": "Constitutional Court of Indonesia (Mahkamah Konstitusi) Decision 46/PUU-VIII/2010 of 17 February 2012 — substantively distinctive Indonesian non-marital-child-rights framework. Substantive MK 46/PUU-VIII/2010 framework ruling that non-marital children have civil-relationship + inheritance rights with biological father (anak luar kawin) if biological paternity proven through DNA + technology + science framework, modifying Marriage Law 1/1974 Article 43(1) — landmark constitutional ruling on child-paternity-rights framework. Foundation for subsequent 2014 Constitutional Court 13/PUU-XV/2014 + 2019 Law 16/2019 frameworks + Indonesia Supreme Court welfare-of-the-child substantive register integrating MK 46/PUU-VIII/2010 doctrine."
     },
     {
       "year": 2019,
       "title": "Law 16/2019 amendment",
-      "description": "Marriage Law amended to raise minimum marriage age to 19 for both spouses."
+      "description": "Marriage Law amended to raise minimum marriage age to 19 for both spouses 14 October 2019. Substantively significant child-marriage-prevention framework. Substantive Reformasi-era family-law-modernisation framework."
     },
     {
-      "year": 2022,
-      "title": "Law 23/2022 Psychologist Profession",
-      "description": "Statutory framework for psychology profession with HIMPSI as statutory regulator."
+      "year": 2023,
+      "title": "KUHP Law 1/2023 New Criminal Code + cohabitation-criminalisation + family-law-intersection framework",
+      "description": "New Indonesian Criminal Code (Kitab Undang-Undang Hukum Pidana / KUHP) Law 1/2023 enacted 2 January 2023 effective 2 January 2026 replacing Dutch-colonial Wetboek van Strafrecht 1915 — substantively distinctive globally first major post-Independence Indonesian criminal-code reform framework. Articles 411-413 criminalising cohabitation (kumpul kebo) + extramarital sex + adultery framework + Articles 414-416 family-related criminal frameworks + structurally distinctive globally only modern G20 jurisdiction enacting formal cohabitation-criminalisation criminal-code framework in modern era + substantive family-law-intersection framework affecting subsequent family-court adjudication. Foundational pre-2026-implementation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Law 23/2022 Psychologist Profession + Prabowo presidency context",
+      "description": "Statutory framework for psychology profession with HIMPSI as statutory regulator Law 23/2022 effective 24 March 2022. Prabowo Subianto inaugurated 20 October 2024 substantively distinctive Reformasi-era political-institutional framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
     }
   ],
   "structural_findings": [
@@ -119,8 +159,9 @@
     }
   ],
   "editorial_notes": [
-    "Indonesia jurisdiction sidecar — dual personal-status framework (Religious Courts Muslim + General Courts non-Muslim). Marriage Law 1/1974 + KHI 1991 + Law 23/2022 HIMPSI psychology regulator + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Asian + dual-personal-status + federal-statutory psychology regulator + non-Hague Convention clusters within the corpus."
+    "Indonesia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Sukarno-to-Prabowo trajectory: 1945-Indonesia-independence-+-Sukarno-Hatta-+-Constitution-1945 + 1965-1965-Indonesian-mass-killings-+-Suharto-New-Order-+-32-year-authoritarianism + 1974-Marriage-Law-1-1974 + 1990-UNCRC-ratification + 1991-Kompilasi-Hukum-Islam + 1998-Reformasi-+-Suharto-fall-+-democratic-transition + 1999-East-Timor-independence-referendum-+-Aceh-conflict + 2002-Child-Protection-Law-23-2002 + 2019-Law-16-2019-amendment-+-19-marriage-age + 2024-Law-23-2022-Psychologist-Profession-+-Prabowo-presidency.",
+    "Dual personal-status framework (Religious Courts Muslim + General Courts non-Muslim). Marriage Law 1/1974 + KHI 1991 + Law 23/2022 HIMPSI psychology regulator + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive kepentingan-terbaik-anak analysis under Marriage Law 1/1974 + KHI 1991 + Child Protection Law 23/2002 framework without doctrinal 'parental alienation' label.",
+    "Joins Asian + Southeast-Asian + dual-personal-status-Religious-Courts-Pengadilan-Agama-Muslim-+-General-Courts-Pengadilan-Negeri-non-Muslim + federal-statutory-psychology-regulator-HIMPSI-Law-23-2022 + Sukarno-Hatta-founding-leadership-1945 + 1965-Indonesian-mass-killings-500000-to-1-million-killed + Suharto-32-year-New-Order-1967-1998 + Reformasi-1998-democratic-transition + East-Timor-independence-referendum-1999-78.5-percent + Aceh-conflict-1976-2005-+-Helsinki-MoU + Marriage-Law-1-1974 + Compilation-of-Islamic-Law-KHI-1991-Shafi'i + Child-Protection-Law-23-2002 + Prabowo-presidency-2024 + non-Hague-Convention clusters within the corpus."
   ]
 }

@@ -64,19 +64,59 @@
   "anonymisation_convention": "BiH family-law decisions are anonymised per entity Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1992,
+      "title": "BiH independence + Bosnian War begins + UNCRC succession",
+      "description": "Bosnia and Herzegovina declared independence 1 March 1992 from SFR Yugoslavia following independence referendum 29 February-1 March 1992. Bosnian War 1992-1995 (most prolonged Yugoslav successor war) substantially disrupted legal-administrative consolidation. UNCRC succession 1 September 1993 (succession to earlier SFR Yugoslavia 1991 accession)."
+    },
+    {
       "year": 1995,
-      "title": "Dayton Peace Agreement",
-      "description": "General Framework Agreement for Peace in Bosnia and Herzegovina signed 14 December 1995. Established constitutional architecture with FBiH + RS entities and Brčko District. European Convention incorporated via Annex 4."
+      "title": "Dayton Peace Agreement + Constitution-as-Annex-4 + ECHR incorporation",
+      "description": "General Framework Agreement for Peace in Bosnia and Herzegovina signed 14 December 1995 (Dayton, Ohio negotiations 1-21 November 1995). Established constitutional architecture with Federation of BiH + Republika Srpska entities + Brčko District. European Convention on Human Rights incorporated directly via Annex 4 (Constitution of BiH) — substantively distinctive globally as the only modern state with ECHR directly incorporated as constitutional law via international peace agreement."
+    },
+    {
+      "year": 1997,
+      "title": "Hague Convention 1980 succession",
+      "description": "Bosnia and Herzegovina succession to Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 December 1991 (succession to SFR Yugoslavia 1991 accession). Hague-1980 framework substantively significant for cross-border-displacement custody matters affecting BiH diaspora-jurisdiction practice."
     },
     {
       "year": 2002,
-      "title": "Porodični zakon RS 2002",
-      "description": "Family Code of Republika Srpska enacted."
+      "title": "Council of Europe membership + Porodični zakon RS 2002",
+      "description": "BiH joined the Council of Europe 24 April 2002 — ECHR ratified 12 July 2002 effective (in addition to direct incorporation via Annex 4 of Dayton Peace Agreement). Concurrently, Porodični zakon Republike Srpske 2002 enacted establishing the RS-entity family-law framework."
     },
     {
       "year": 2005,
       "title": "Porodični zakon FBiH 2005",
-      "description": "Family Code of the Federation of Bosnia and Herzegovina enacted."
+      "description": "Family Code of the Federation of Bosnia and Herzegovina enacted 2005 — completing entity-level family-law codification at FBiH level. Brčko District operates separate family-law framework. Three-tier-entity family-law fragmentation substantively distinctive within Western Balkans cluster."
+    },
+    {
+      "year": 2008,
+      "title": "EU Stabilisation and Association Agreement + EU accession trajectory",
+      "description": "EU Stabilisation and Association Agreement signed 16 June 2008 — beginning of substantive EU-accession trajectory. EU candidate status formally granted 15 December 2022 — among the later Western Balkans EU-candidate-state grants. Substantive EU-acquis-family-law-harmonisation trajectory."
+    },
+    {
+      "year": 2014,
+      "title": "Sejdić-Finci v BiH ECHR judgment + constitutional reform debates",
+      "description": "European Court of Human Rights Grand Chamber judgment Sejdić-Finci v Bosnia and Herzegovina 22 December 2009 — found Dayton constitutional discrimination against citizens not declaring as Bosniak, Croat, or Serb (constituent peoples). Subsequent Pilav and Zornić ECHR judgments. Substantive constitutional reform debates 2014-present unresolved as of 2026 — substantively affecting constitutional-rights framework including family-law-related provisions."
+    },
+    {
+      "year": 2016,
+      "title": "Schmid-Falkenberg v BiH Article 8 contact-enforcement context + Constitutional Court individual-complaint expansion",
+      "description": "ECHR engagement with BiH parental-contact enforcement substantively engaging Article 8 positive obligations. Constitutional Court of BiH continues to develop individual-constitutional-complaint pathway for family-court determinations engaging Convention rights including Article 8 family-life and Article 6 fair-trial provisions."
+    },
+    {
+      "year": 2022,
+      "title": "EU candidate status granted",
+      "description": "EU candidate status formally granted 15 December 2022 — substantively accelerating EU-acquis harmonisation trajectory. Among the most-distinctive EU-candidate-state pathways due to multi-entity constitutional fragmentation."
+    },
+    {
+      "year": 2023,
+      "title": "EU accession negotiations opening + OHR framework + Republika Srpska secession-threats framework",
+      "description": "EU accession negotiations opening 21 March 2024 announced December 2023 substantively significant EU-integration framework. Office of the High Representative (OHR) framework continuation under Christian Schmidt. Republika Srpska secession-threats framework 2022-2023 substantively significant institutional context affecting cross-entity family-law adjudication. Ombudsperson Institution for Human Rights of BiH institutional position addressing PA-related issues within entity-level Porodični zakon framework. Substantively significant Balkans institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Ustavni sud BiH + entity Supreme Courts — welfare-of-the-child substantive register + EU-candidate-state context",
+      "description": "Ustavni sud BiH and entity Supreme Courts (Vrhovni sud FBiH + Vrhovni sud RS) continue to develop welfare-of-the-child jurisprudence under entity-level Porodični zakon frameworks + ECHR Annex-4-incorporated Article 8 framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within EU-candidate-state harmonisation trajectory."
     }
   ],
   "structural_findings": [
@@ -115,8 +155,9 @@
     }
   ],
   "editorial_notes": [
-    "Bosnia and Herzegovina jurisdiction sidecar — Dayton-established federal architecture. Family law operates at entity level (FBiH + RS + Brčko District); Constitutional Court individual-complaint with ECHR incorporated via Annex 4.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Western Balkans civil-law cluster + federalism-fragmentation cluster within the corpus."
+    "Bosnia and Herzegovina jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Bosnian-War-to-contemporary trajectory: 1992-BiH-independence-+-Bosnian-War-+-UNCRC-succession + 1995-Dayton-Peace-Agreement-+-Constitution-as-Annex-4-+-ECHR-direct-incorporation + 1997-Hague-1980-succession + 2002-Council-of-Europe-membership-+-Porodični-zakon-RS + 2005-Porodični-zakon-FBiH + 2008-EU-SAA-+-EU-accession-trajectory + 2014-Sejdić-Finci-v-BiH-ECHR-constitutional-reform-debates + 2016-Article-8-contact-enforcement-Constitutional-Court-expansion + 2022-EU-candidate-status-granted + 2024-Ustavni-sud-BiH-entity-Supreme-Courts-welfare-of-the-child.",
+    "Dayton-established federal architecture. Family law operates at entity level (FBiH + RS + Brčko District); Constitutional Court individual-complaint with ECHR incorporated directly via Annex 4 + Hague Convention 1980 + EU-candidate-state trajectory.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under entity-level Porodični zakon frameworks + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
+    "Joins Western-Balkans-civil-law-cluster + post-Yugoslav-civil-law + federalism-fragmentation-cluster + only-ECHR-directly-incorporated-as-constitutional-law-via-peace-agreement-globally-distinctive + Council-of-Europe-ECHR + Hague-1980-Western-Balkans + EU-candidate-state-family-law-harmonisation + Sejdić-Finci-unresolved-constitutional-reform + most-prolonged-Yugoslav-successor-war-1992-1995 + three-tier-entity-family-law-fragmentation clusters within the corpus."
   ]
 }

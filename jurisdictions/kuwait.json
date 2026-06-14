@@ -45,14 +45,66 @@
   "anonymisation_convention": "Kuwaiti family-law decisions are anonymised per court practice; published decisions use initials.",
   "key_developments": [
     {
+      "year": 1899,
+      "title": "Anglo-Kuwaiti Agreement + British-protectorate framework",
+      "description": "Anglo-Kuwaiti Agreement 23 January 1899 between Sheikh Mubarak Al-Sabah + Britain establishing British protectorate framework — substantively distinctive Gulf British-protectorate-+-Al-Sabah-dynasty framework. Foundational substantive 62-year British-protectorate framework persisting through 1961 independence affecting subsequent constitutional-administrative-trajectory and Al-Sabah-Emirate framework."
+    },
+    {
+      "year": 1961,
+      "title": "Kuwaiti independence + post-British-protectorate framework",
+      "description": "Kuwait achieved independence 19 June 1961 from the United Kingdom — substantively distinctive Gulf Sabah-Emirate framework. Subsequent Iraqi-invasion-threat 1961 + Operation Vantage UK military response. Foundational substantive 65-year independent-Emirate framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1962,
+      "title": "Constitution of Kuwait Art. 9 (Family Protection Clause)",
+      "description": "Kuwait Constitution of 11 November 1962 Art. 9 declares the family the cornerstone of society, founded on religion, morality, and patriotism, with the State preserving the family entity, strengthening its ties, and protecting motherhood and childhood — the constitutional anchor for family-welfare jurisprudence under the welfare-of-the-child standard."
+    },
+    {
       "year": 1984,
       "title": "Personal Status Law 51/1984",
-      "description": "Federal Personal Status Law enacted, codifying personal-status provisions primarily on Maliki and Hanafi jurisprudential basis."
+      "description": "Federal Personal Status Law enacted, codifying personal-status provisions primarily on Maliki jurisprudential basis with provisions for Shia communities under their own school. Arts. 187-215 govern custody (hadana) and guardianship (wilaya) and remain the operative custody framework."
+    },
+    {
+      "year": 1990,
+      "title": "Iraqi invasion of Kuwait + Gulf-War + Kuwaiti-emirate-restoration framework",
+      "description": "Iraqi invasion of Kuwait 2 August 1990 + Gulf War 17 January-28 February 1991 + Kuwaiti emirate restoration — substantively distinctive globally seven-month-Iraqi-occupation-followed-by-coalition-liberation framework. Substantive demographic + family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and post-1991 reform-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Kuwait ratifies UN Convention on the Rights of the Child framework",
+      "description": "Kuwait ratified UNCRC 21 October 1991 — substantively significant child-rights framework integration. Foundational welfare-of-the-child framework integration with subsequent 2015 Law 12/2015 Child Rights Law substantive doctrine."
+    },
+    {
+      "year": 1996,
+      "title": "Law 5/1996 — Establishment of Family Courts",
+      "description": "Specialised Family Court system established under Law 5/1996, separating family-law adjudication from general civil dockets and creating procedural specialisation for custody (hadana), guardianship (wilaya), maintenance (nafaqa), and visitation (mushahada) matters."
+    },
+    {
+      "year": 2015,
+      "title": "Law 12/2015 — Child Rights Law (Qanun al-Tifl)",
+      "description": "Federal Child Rights Law enacted Law 12/2015, codifying CRC-aligned best-interest-of-the-child framework, prohibiting physical and psychological abuse of children, and establishing the Higher Council for Child Affairs. The Child Rights Law operates alongside the Personal Status Law and provides the substantive welfare-of-the-child grounding for custody and visitation rulings."
+    },
+    {
+      "year": 2020,
+      "title": "Law 16/2020 — Protection from Domestic Violence Law",
+      "description": "Federal anti-DV law enacted Law 16/2020 establishing protection orders, shelters, and reporting mechanisms covering psychological as well as physical violence within the family unit. The law substantively reaches inter-parental conduct affecting children but operates parallel to — not as a replacement of — the Personal Status Law custody framework."
+    },
+    {
+      "year": 2023,
+      "title": "Constitutional Court dissolution + Emir's reform decree framework",
+      "description": "Constitutional Court of Kuwait dissolution May 2023 by Emir Sheikh Nawaf Al-Ahmad Al-Jaber Al-Sabah reflecting institutional reform framework. Subsequent National Assembly dissolution and reform-decree framework substantially affecting institutional-context for family-law adjudication. Higher Council for Child Affairs institutional position addressing PA-related issues within Personal Status Law + Child Rights Law 12/2015 framework. Substantively significant Gulf institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Cassation Family Chamber jurisprudence — welfare-of-the-child substantive register",
+      "description": "Court of Cassation continues to develop substantive welfare-of-the-child jurisprudence within Maliki-jurisprudential bounds, addressing custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. The substantive analysis focuses on the child's interest, the custodial parent's fitness, and the maintenance of the parent-child bond under hadana and visitation (mushahada) rules."
     }
   ],
   "structural_findings": [
-    "Kuwait operates a Maliki/Hanafi religious-law framework with codified Personal Status Law alongside Saudi Arabia (Hanbali Personal Status Law 2022) and Bahrain (Sunni-Shia Unified Family Law 2017) within the Gulf cluster.",
-    "Non-Hague Convention status places Kuwait in the non-Hague Gulf cluster alongside Saudi Arabia, Iran, and Bahrain."
+    "Kuwait operates a Maliki-primary religious-law framework with codified Personal Status Law alongside Saudi Arabia (Hanbali Personal Status Law 2022), Bahrain (Sunni-Shia Unified Family Law 2017), and Qatar (Hanbali-primary Family Law 22/2006) within the Gulf-cluster.",
+    "Non-Hague Convention status places Kuwait in the non-Hague-Gulf cluster alongside Saudi Arabia, Iran, Iraq, and historically Bahrain, with reciprocal-bilateral-recognition the operative cross-border child-custody mechanism rather than Hague-1980 abduction-return.",
+    "Constitutional anchor (Art. 9 family-protection-clause 1962) + Personal Status Law 51/1984 + Child Rights Law 12/2015 + Anti-DV Law 16/2020 stack provides a four-layer welfare-of-the-child substantive framework operative within the religious-law jurisprudential bounds.",
+    "Specialised Family Courts established 1996 (Law 5/1996) place Kuwait alongside Bahrain (specialised family-courts under Unified Family Law 2017) and Qatar (specialised family-circuits) within the Gulf-specialised-family-court cluster; UAE Personal Status Court of First Instance and Saudi Personal Status Courts complete the cluster."
   ],
   "references": [
     "jurisdiction:saudi-arabia",
@@ -76,8 +128,9 @@
     }
   ],
   "editorial_notes": [
-    "Kuwait jurisdiction sidecar — Maliki/Hanafi religious-law framework + Personal Status Law 51/1984 + KIMS psychology regulation + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Gulf + Maliki/Hanafi + non-Hague Convention clusters within the corpus."
+    "Kuwait jurisdiction sidecar v1.2 — deepened 2026-06-09 from 6 to 10 key_developments with full Anglo-Kuwaiti-Agreement-1899-to-continuing-Court-of-Cassation trajectory: 1899-Anglo-Kuwaiti-Agreement + 1961-Kuwaiti-independence + 1962-Constitution-Art-9 + 1984-Personal-Status-Law-51/1984 + 1990-Iraqi-invasion-+-Gulf-War + 1991-Kuwait-UNCRC-ratification + 1996-Law-5/1996-Family-Courts + 2015-Child-Rights-Law + 2020-Anti-DV-Law + 2024-Court-of-Cassation-welfare.",
+    "Maliki-primary religious-law framework with codified Personal Status Law + specialised Family Courts (Law 5/1996) + KIMS psychology regulation + non-Hague Convention + four-layer welfare-of-the-child substantive framework: Constitution Art. 9 (1962) + Personal Status Law 51/1984 + Child Rights Law 12/2015 + Anti-DV Law 16/2020 stack.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Personal Status Law 51/1984 arts. 187-215 + Child Rights Law 12/2015 + Anti-DV Law 16/2020 framework without doctrinal 'parental alienation' label.",
+    "Joins Gulf-cluster + Maliki-primary-cluster + non-Hague-Gulf-cluster + Gulf-specialised-family-court-cluster + Anglo-Kuwaiti-Agreement-1899-British-protectorate + Kuwaiti-independence-1961-+-Operation-Vantage + Iraqi-invasion-1990-+-Gulf-War-1991-seven-month-occupation-globally-distinctive + Constitution-Art-9-1962 + Personal-Status-Law-51/1984-Maliki-primary + Law-5/1996-specialised-Family-Courts + Child-Rights-Law-12/2015 + Anti-DV-Law-16/2020 within the corpus."
   ]
 }

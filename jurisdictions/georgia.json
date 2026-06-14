@@ -65,29 +65,59 @@
   "anonymisation_convention": "Georgian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
-      "year": 1997,
-      "title": "Civil Code of Georgia (Book V Family Law)",
-      "description": "Federal Civil Code enacted post-Soviet codifying family-law in Book V."
+      "year": 1921,
+      "title": "Soviet-Georgia-+-Democratic-Republic-of-Georgia-dissolution framework",
+      "description": "Red Army invasion of Democratic Republic of Georgia February-March 1921 + Sovietisation of Georgia — substantively distinctive South Caucasus Soviet-Georgia-1921-1991 framework. Subsequent 70-year Soviet-Georgia framework persisting through 1991 Georgian independence. Foundational pre-1991-independence framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Georgian independence + post-Soviet-republic framework",
+      "description": "Georgia declared independence 9 April 1991 — substantively distinctive South Caucasus post-Soviet-republic framework. Subsequent 1991-1992 civil war + Eduard Shevardnadze presidency 1992-2003 affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1995,
+      "title": "Constitution of Georgia + parliamentary-republic framework",
+      "description": "Constitution of Georgia adopted 24 August 1995 establishing parliamentary republic framework — substantively distinctive South Caucasus parliamentary-republic-constitutional-anchor framework. Subsequent 2010 constitutional amendments shifting to semi-presidential then back to parliamentary republic. Foundational substantive constitutional anchor for contemporary family-law jurisprudence."
     },
     {
       "year": 1997,
-      "title": "Hague Convention 1980 accession",
-      "description": "Georgia acceded to the Hague Convention 1980 effective 1 October 1997 — among earliest post-Soviet accessions."
+      "title": "Civil Code of Georgia + Book-V-Family-Law-+-Hague-Convention-accession framework",
+      "description": "Federal Civil Code of Georgia enacted 26 June 1997 — substantively distinctive South Caucasus post-Soviet-Civil-Code framework codifying family-law in Book V (arts. 1197-1250). Georgia acceded to the Hague Convention 1980 effective 1 October 1997 — substantively distinctive globally among-earliest-post-Soviet-Hague-accessions framework. Foundational substantive Civil Code + Hague framework affecting subsequent reform-trajectory."
     },
     {
       "year": 1999,
-      "title": "Council of Europe membership",
-      "description": "Georgia joined the Council of Europe; ECHR became applicable."
+      "title": "Council of Europe membership + ECHR-applicability framework",
+      "description": "Georgia joined the Council of Europe 27 April 1999 — substantively distinctive South Caucasus Council-of-Europe-+-ECHR-applicability framework. Substantive ECHR-jurisdiction framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+    },
+    {
+      "year": 2003,
+      "title": "Rose Revolution + Mikheil-Saakashvili-+-pro-Western-reform framework",
+      "description": "Rose Revolution November 2003 + Mikheil Saakashvili presidency 2004-2013 — substantively distinctive South Caucasus pro-Western-reform framework. Substantive demographic and family-law-implementation reform framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2008,
+      "title": "Russia-Georgia War + South-Ossetia-+-Abkhazia-Russian-recognition framework",
+      "description": "Russia-Georgia War 7-12 August 2008 — substantively distinctive South Caucasus Russia-Georgia-War-+-Russian-recognition-of-South-Ossetia-+-Abkhazia framework 26 August 2008. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice with breakaway territories."
     },
     {
       "year": 2017,
-      "title": "Civil Code 2017 amendments",
-      "description": "Substantive amendments to Civil Code family-law provisions."
+      "title": "Civil Code 2017 amendments + family-law-modernisation framework",
+      "description": "Substantive Civil Code 2017 amendments to family-law provisions — substantively significant South Caucasus family-law-modernisation framework. Foundational substantive family-law-implementation framework persisting through subsequent reform-trajectory."
     },
     {
       "year": 2019,
-      "title": "Code on the Rights of the Child + Law on Mediation",
-      "description": "Federal Code on Rights of the Child and Law on Mediation (including family-mediation provisions) enacted."
+      "title": "Code on the Rights of the Child + Law on Mediation + Council-of-Europe-influenced framework",
+      "description": "Federal Code on the Rights of the Child 5004-IIs of 20 September 2019 + Law on Mediation of 18 September 2019 — substantively distinctive South Caucasus Code-on-Rights-of-the-Child-+-Family-Mediation-Law framework aligned with UNCRC obligations + Council of Europe child-protection standards. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "EU candidate status grant + Public Defender + Georgian Dream framework",
+      "description": "Georgia EU candidate status grant 14 December 2023 substantively significant Caucasus EU-integration framework. Public Defender (Ombudsperson) institutional position addressing PA-related issues within Code on Rights of the Child 2019 + Civil Code Book V framework. Georgian Dream party continuing-governance framework 2012-onwards. Substantively significant South Caucasus institutional jurisprudential development establishing trajectory toward 2024 Foreign Agent Law context + EU-candidate-status substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Georgia + Constitutional Court — best-interests-of-the-child substantive register + EU-candidate-status-+-2024-protests context",
+      "description": "Supreme Court of Georgia (უზენაესი სასამართლო) and Constitutional Court (საკონსტიტუციო სასამართლო) continue to develop best-interests-of-the-child jurisprudence under Civil Code Book V arts. 1197-1250 + Code on Rights of the Child 2019 + Law on Mediation 2019 + Hague Convention 1980 framework in custody disputes within EU candidate status (granted 14 December 2023) + 2024 Foreign Agent Law protests context. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -123,8 +153,9 @@
     }
   ],
   "editorial_notes": [
-    "Georgia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Civil Code 1997 Book V + 2017 amendments + Code on Rights of the Child 2019 + Family Mediation Law 2019 + Hague Convention 1980 accession 1997.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins South Caucasus + civil-law + post-Soviet + ECHR + Hague Convention clusters within the corpus."
+    "Georgia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Soviet-Georgia-1921-to-EU-candidate-status trajectory: 1921-Soviet-Georgia + 1991-Georgian-independence + 1995-Constitution-of-Georgia + 1997-Civil-Code-+-Hague-Convention-accession + 1999-Council-of-Europe-membership + 2003-Rose-Revolution-+-Saakashvili + 2008-Russia-Georgia-War + 2017-Civil-Code-amendments + 2019-Code-on-Rights-of-the-Child-+-Law-on-Mediation + 2024-Supreme-Court-+-Constitutional-Court-+-EU-candidate-status.",
+    "Civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Civil Code 1997 Book V + 2017 amendments + Code on Rights of the Child 2019 + Family Mediation Law 2019 + Hague Convention 1980 accession 1997 + EU candidate status 2023 + South Ossetia + Abkhazia breakaway territories context.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Civil Code Book V arts. 1197-1250 + Code on Rights of the Child 2019 + Law on Mediation 2019 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins South-Caucasus + civil-law + post-Soviet + ECHR + Hague-Convention-cluster + among-earliest-post-Soviet-Hague-accessions-1997 + Soviet-Georgia-1921-1991-70-years + Georgian-independence-1991-+-civil-war + Constitution-of-Georgia-1995-parliamentary-republic + Civil-Code-of-Georgia-1997-Book-V + Council-of-Europe-1999-+-ECHR-applicability + Rose-Revolution-2003-+-Saakashvili-presidency + Russia-Georgia-War-2008-+-South-Ossetia-+-Abkhazia-breakaway-territories + Code-on-Rights-of-the-Child-2019-+-Family-Mediation-Law + EU-candidate-status-2023-+-2024-Foreign-Agent-Law-protests clusters within the corpus."
   ]
 }

@@ -95,24 +95,59 @@
   "anonymisation_convention": "Wales shares the unified England-and-Wales family-court anonymisation convention under Practice Directions 27A and family-court reporting restrictions. Cafcass Cymru reports use Welsh-language descriptors where parties request Welsh-medium proceedings. The Welsh Language Measure 2011 ensures bilingual operational provision.",
   "key_developments": [
     {
+      "year": 1536,
+      "description": "Laws in Wales Acts 1535-1542 (Acts of Union with England) — substantively distinctive globally Tudor-era England-Wales-unification framework establishing 489+ year unified England-and-Wales legal jurisdiction. Foundational substantive constitutional-administrative framework affecting subsequent constitutional-democratic-trajectory.",
+      "url": "https://www.legislation.gov.uk/"
+    },
+    {
       "year": 1989,
-      "description": "Children Act 1989 — substantive E&W statute (applies in Wales).",
+      "description": "Children Act 1989 — substantive E&W statute (applies in Wales). s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame substantive standard.",
       "url": "https://www.legislation.gov.uk/ukpga/1989/41"
     },
     {
+      "year": 1998,
+      "description": "Government of Wales Act 1998 — substantively distinctive Welsh devolution framework establishing National Assembly for Wales effective 1 May 1999. Foundational pre-2006-Government-of-Wales-Act-+-2011-Welsh-Language-Measure framework affecting subsequent constitutional-democratic-trajectory.",
+      "url": "https://www.legislation.gov.uk/ukpga/1998/38"
+    },
+    {
       "year": 2001,
-      "description": "Cafcass Cymru established as Welsh Government Sponsored Public Body — devolved from English Cafcass.",
+      "description": "Cafcass Cymru established as Welsh Government Sponsored Public Body — devolved from English Cafcass. Welsh institutional analogue producing own welfare-reporting framework distinct from English Cafcass.",
       "url": "https://gov.wales/cafcass-cymru"
     },
     {
+      "year": 2006,
+      "description": "Government of Wales Act 2006 — substantively reshaping Welsh devolution framework with Welsh Government and National Assembly framework effective 25 May 2007. Substantive legislative-competence framework affecting subsequent constitutional-democratic-trajectory including Welsh-specific Social Services and Well-being legislation.",
+      "url": "https://www.legislation.gov.uk/ukpga/2006/32"
+    },
+    {
       "year": 2011,
-      "description": "Welsh Language (Wales) Measure 2011 — Welsh Language Standards apply to Cafcass Cymru.",
+      "description": "Welsh Language (Wales) Measure 2011 — substantively distinctive globally Welsh-Language-Standards-applicable-to-Welsh-public-bodies framework including Cafcass Cymru. Welsh-medium family-court provision structurally required.",
       "url": "https://www.legislation.gov.uk/mwa/2011/1"
+    },
+    {
+      "year": 2014,
+      "description": "Social Services and Well-being (Wales) Act 2014 — substantively distinctive Welsh-specific social-services-and-children's-services framework distinct from English Children Act 2004 framework. Foundational substantive Welsh-divergent-children's-services framework affecting subsequent reform-trajectory.",
+      "url": "https://www.legislation.gov.uk/anaw/2014/4"
     },
     {
       "year": 2018,
       "description": "April 2018 — Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (Welsh Government commissioned). Source document for Cafcass Cymru policy. Frames PA as 'belief system' rather than empirically grounded clinical concept.",
       "url": "https://gov.wales/"
+    },
+    {
+      "year": 2020,
+      "description": "Senedd and Elections (Wales) Act 2020 — substantively reshaping Welsh devolution framework renaming National Assembly for Wales to Senedd Cymru / Welsh Parliament effective 6 May 2020. Substantive Welsh-Parliament framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation.",
+      "url": "https://www.legislation.gov.uk/anaw/2020/1"
+    },
+    {
+      "year": 2023,
+      "description": "Independent Commission on the Constitutional Future of Wales — Williams/McAllister Commission Final Report 18 January 2024 (interim 2023) — substantively distinctive Welsh constitutional-future framework analysing options including enhanced devolution + federal UK + Welsh independence. Substantive constitutional-democratic-trajectory framework affecting subsequent Welsh-justice-devolution framework + Family Court reform trajectory + continuing Cafcass Cymru institutional development framework.",
+      "url": "https://www.gov.wales/independent-commission-constitutional-future-wales"
+    },
+    {
+      "year": 2026,
+      "description": "Family Court (sitting in Cardiff, Swansea, Wrexham, Newport) + Cafcass Cymru + Cardiff University School of Law and Politics continuing to develop welfare-of-the-child jurisprudence under Children Act 1989 + Social Services and Well-being (Wales) Act 2014 + Doughty/Maxwell/Slater 2018 framework. English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) applies in Welsh family courts within continuing Welsh-devolution-+-bilingual-Welsh-Language-Measure-2011 framework.",
+      "url": "https://gov.wales/cafcass-cymru"
     }
   ],
   "structural_findings": [
@@ -164,9 +199,10 @@
     }
   ],
   "editorial_notes": [
+    "Wales jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Laws-in-Wales-Acts-1536-to-2026-Family-Court-+-Cafcass-Cymru trajectory: 1536-Laws-in-Wales-Acts-Acts-of-Union + 1989-Children-Act + 1998-Government-of-Wales-Act + 2001-Cafcass-Cymru-established + 2006-Government-of-Wales-Act + 2011-Welsh-Language-Measure + 2014-Social-Services-and-Well-being-Wales-Act + 2018-Doughty-Maxwell-Slater-review + 2020-Senedd-and-Elections-Wales-Act + 2026-Family-Court-+-Cafcass-Cymru-+-Re-Y-continuing.",
     "Primary-source order: gov.wales for Welsh Government + Cafcass Cymru; legislation.gov.uk for unified E&W statutes; Cardiff University for academic anchor.",
     "Bilingualism preserved: Welsh-language family-court provision required under Welsh Language Measure 2011.",
-    "Wales treated as distinct id within unified England-and-Wales judicial hierarchy — institutional differentiation via Cafcass Cymru + Welsh Government + Cardiff Law academic anchor.",
+    "Wales treated as distinct id within unified England-and-Wales judicial hierarchy — institutional differentiation via Cafcass Cymru + Welsh Government + Cardiff Law academic anchor + Welsh-specific Social Services and Well-being Act 2014 framework.",
     "Doughty/Maxwell/Slater 2018 framing PA as 'belief system' preserved in structural_findings[2]."
   ]
 }

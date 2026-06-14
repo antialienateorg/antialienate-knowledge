@@ -67,34 +67,59 @@
   "anonymisation_convention": "Costa Rican family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1821,
+      "title": "Costa Rican independence + Central-American-Federation framework",
+      "description": "Costa Rican independence 15 September 1821 from Spain + subsequent Central American Federation membership 1823-1838 — substantively distinctive Central American post-Spanish-independence framework. Foundational pre-1948-army-abolition framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1948,
+      "title": "Costa Rican-Civil-War + army-abolition + 1949-Constitution framework",
+      "description": "Costa Rican Civil War March-April 1948 + José Figueres Ferrer junta + army abolition 1 December 1948 (Article 12 of Constitution) — substantively distinctive globally only-Central-American-state-without-standing-army-since-1948 framework. Constitution of Costa Rica 7 November 1949 establishing presidential republic + Sala Constitucional foundation. Foundational substantive 78-year demilitarised-republic framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1973,
-      "title": "Family Code 1973",
-      "description": "Federal Family Code enacted — among earlier comprehensive Latin American Family Codes."
+      "title": "Family Code 1973 + early-Latin-American-Family-Code framework",
+      "description": "Federal Family Code 5476 of 21 December 1973 — substantively distinctive globally among-earlier-comprehensive-Latin-American-Family-Codes framework. Foundational substantive Costa-Rican-Family-Code framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 1977,
-      "title": "Psychology Professional College Law",
-      "description": "Federal statute establishing Colegio de Profesionales en Psicología — among earliest Latin American statutory psychology regulation."
+      "title": "Psychology Professional College Law + earliest-Latin-American-statutory-psychology-regulation framework",
+      "description": "Federal Law 6144 of 28 November 1977 establishing Colegio de Profesionales en Psicología de Costa Rica — substantively distinctive globally among-earliest-Latin-American-statutory-psychology-regulation framework. Foundational substantive psychology-profession-regulation framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Costa Rica ratifies UN Convention on the Rights of the Child framework",
+      "description": "Costa Rica ratified UNCRC 21 August 1990 — substantively significant child-rights framework integration. Foundational superior-interest-of-the-child framework integration with subsequent 1998 Children and Adolescents Code substantive doctrine."
     },
     {
       "year": 1997,
-      "title": "Family Code Reform Law 7689",
-      "description": "Substantive reform of Family Code provisions."
+      "title": "Family Code Reform Law 7689 + family-law-modernisation framework",
+      "description": "Substantive Family Code reform Law 7689 1997 — substantively significant Central American family-law-modernisation framework. Substantive family-law-implementation framework affecting subsequent 1998 Children and Adolescents Code reform-trajectory."
     },
     {
       "year": 1998,
-      "title": "Children and Adolescents Code (Law 7739)",
-      "description": "Federal Code enacted codifying superior-interest principle aligned with UNCRC."
+      "title": "Children and Adolescents Code (Law 7739) + superior-interest-codification framework",
+      "description": "Federal Code (Ley 7739, Código de la Niñez y la Adolescencia) 30 January 1998 enacted codifying superior-interest-of-the-child principle (art. 5) aligned with UNCRC obligations — substantively significant Central American child-protection framework. Foundational substantive children's-rights framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 1999,
-      "title": "Hague Convention 1980 accession",
-      "description": "Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999."
+      "title": "Hague Convention 1980 accession + earlier-Latin-American-Hague-accession framework",
+      "description": "Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999 — substantively distinctive Central American among-earlier-Latin-American-Hague-accessions framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2001,
-      "title": "Responsible Parenthood Law (Law 8101)",
-      "description": "Federal statute on responsible parenthood and paternity establishment — structurally distinctive Latin American codification."
+      "title": "Responsible Parenthood Law (Law 8101) + earliest-Latin-American-responsible-parenthood-codification framework",
+      "description": "Federal Law 8101 (Ley de Paternidad Responsable) of 27 April 2001 enacted establishing responsible parenthood and paternity establishment as legal obligation — substantively distinctive globally among-earliest-Latin-American-codifications-addressing-responsible-parenthood-and-paternity-establishment-as-legal-obligation framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Chaves presidency + PANI institutional framework + same-sex marriage operationalisation",
+      "description": "Rodrigo Chaves Robles (PPSD) presidency inauguration 8 May 2022. Patronato Nacional de la Infancia (PANI) institutional framework addressing PA-related issues within Children and Adolescents Code 1998 + Family Code 1973 framework. Same-sex marriage (effective 26 May 2020) operationalisation continuing through 2022 — Costa Rica distinctive as first Central American state to legalise same-sex marriage. Substantively significant Central American institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Corte Suprema de Justicia + Sala Constitucional + Juzgados de Familia — superior-interest-of-the-child substantive register + Chaves presidency framework",
+      "description": "Supreme Court of Justice (Corte Suprema de Justicia), Constitutional Chamber (Sala Constitucional), and Family Courts (Juzgados de Familia) continue to develop superior-interest-of-the-child jurisprudence under Family Code 1973 arts. 140-160 + Children and Adolescents Code 1998 art. 5 + Responsible Parenthood Law 2001 + Hague Convention 1980 framework in custody disputes within Rodrigo Chaves Robles (PPSD) presidency since 8 May 2022. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -124,8 +149,9 @@
     }
   ],
   "editorial_notes": [
-    "Costa Rica jurisdiction sidecar — civil-law Central America (Family Code 1973 + Children and Adolescents Code 1998 + Responsible Parenthood Law 2001 + Psychology Professional College Law 1977 — earliest Latin American + Hague Convention 1980 accession 1999).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Latin American + civil-law + Central American + early-Latin-American-psychology-regulation distinctive cluster + Hague Convention clusters within the corpus."
+    "Costa Rica jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full Costa-Rican-independence-1821-to-Chaves-presidency trajectory: 1821-Costa-Rican-independence + 1948-Civil-War-+-army-abolition-+-1949-Constitution + 1973-Family-Code + 1977-Psychology-Professional-College-Law + 1990-Costa-Rica-UNCRC-ratification + 1997-Family-Code-Reform-7689 + 1998-Children-and-Adolescents-Code-7739 + 1999-Hague-Convention-accession + 2001-Responsible-Parenthood-Law-8101 + 2024-Corte-Suprema-+-Sala-Constitucional-+-Chaves-presidency.",
+    "Civil-law Central America (Family Code 1973 + Children and Adolescents Code 1998 + Responsible Parenthood Law 2001 + Psychology Professional College Law 1977 — earliest Latin American + Hague Convention 1980 accession 1999). Only Central American state without standing army since 1948 globally distinctive + among earliest Latin American Family Codes + among earliest Latin American statutory psychology regulations + among earliest Latin American Hague accessions.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive superior-interest-of-the-child analysis under Family Code 1973 arts. 140-160 + Children and Adolescents Code 1998 art. 5 + Responsible Parenthood Law 2001 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Latin-American + civil-law + Central-American + only-Central-American-state-without-standing-army-since-1948-globally-distinctive + early-Latin-American-psychology-regulation-distinctive + Costa-Rican-independence-1821-+-Central-American-Federation + 1948-Civil-War-José-Figueres-Ferrer-+-army-abolition-Article-12 + Constitution-of-Costa-Rica-1949 + Family-Code-1973-+-1997-reform + Children-and-Adolescents-Code-1998-7739 + Responsible-Parenthood-Law-2001-earliest-Latin-American-distinctive + Hague-Convention-1980-accession-1999 + Sala-Constitucional-+-Corte-Suprema-de-Justicia + Chaves-PPSD-2022-presidency clusters within the corpus."
   ]
 }

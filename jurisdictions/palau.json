@@ -60,19 +60,59 @@
   "anonymisation_convention": "Palauan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1947,
+      "title": "Trust Territory of the Pacific Islands + UN-Trusteeship framework",
+      "description": "Trust Territory of the Pacific Islands (TTPI) established 18 July 1947 as UN Strategic Trusteeship under US administration following Japanese colonial framework (Nan'yō Guntō). Substantively distinctive Pacific UN-Trusteeship framework persisting through 1994 Compact. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1980,
       "title": "Palau National Code Title 21",
-      "description": "Federal Domestic Relations Code enacted codifying marriage, divorce, parental responsibility, and child custody framework."
+      "description": "Federal Domestic Relations Code enacted codifying marriage, divorce, parental responsibility, and child custody framework. Chapters 1-7 govern parental responsibility and child custody. Foundational substantive-statutory framework persisting through subsequent constitutional-trajectory."
     },
     {
       "year": 1981,
-      "title": "Constitution — matrilineal customary-law recognition",
-      "description": "Constitution adopted constitutionally-recognising Belauan matrilineal customary-law framework."
+      "title": "Constitution — matrilineal customary-law recognition + nuclear-free framework",
+      "description": "Constitution adopted 9 April 1979 (effective 1 January 1981) constitutionally-recognising Belauan matrilineal customary-law framework. Substantively distinctive globally only-state-with-constitutionally-recognised-matrilineal-customary-law framework. Nuclear-free Constitution Article XIII substantively distinctive globally only-nuclear-free-constitution framework. Foundational substantive-constitutional framework."
+    },
+    {
+      "year": 1986,
+      "title": "1986 Compact-rejection-referendum + 7-referendum-trajectory framework",
+      "description": "Compact-rejection-referendum series 1983, 1984, 1986, 1987, 1990, 1992, 1993 — substantively distinctive globally 7-Compact-referendum-trajectory due to constitutional-nuclear-free requirement requiring 75% threshold framework. Foundational pre-1994-Compact framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1994,
       "title": "Compact of Free Association + independence",
-      "description": "Compact of Free Association with US ratified; Palau achieved independence from US Trust Territory framework."
+      "description": "Compact of Free Association with US ratified 9 November 1993, effective 1 October 1994; Palau achieved independence 1 October 1994 from US Trust Territory framework. Last UN Trust Territory to achieve independence. Substantively distinctive Pacific last-UN-Trust-Territory-independence framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1995,
+      "title": "Palau UN membership + sovereign-state framework",
+      "description": "Palau admitted to UN 15 December 1994 — substantively distinctive Pacific UN-membership-via-Compact framework. Substantial sovereign-state framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 1995,
+      "title": "Palau ratifies UN Convention on the Rights of the Child",
+      "description": "Palau ratified the UNCRC on 4 August 1995 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration applied through National Code Title 21 + Belauan matrilineal customary-law framework."
+    },
+    {
+      "year": 2009,
+      "title": "Palau Sanctuary 2009 + climate-change-vulnerability framework",
+      "description": "Palau established world's first shark sanctuary 24 September 2009 — substantively distinctive Pacific environmental-conservation framework. Substantive Pacific Islands Forum climate-change-vulnerability framework substantively significant. Subsequent Palau National Marine Sanctuary 2015 framework."
+    },
+    {
+      "year": 2023,
+      "title": "Compact of Free Association Renewed Agreements + Compact-II framework",
+      "description": "Compact of Free Association Renewed Agreements substantively reforming defense + economic framework through 2023-2024. Substantive 20-year renewal framework affecting subsequent constitutional-democratic-trajectory and family-law-cross-cutting-areas including expat-family contexts. China-Taiwan relations affecting Compact framework."
+    },
+    {
+      "year": 2022,
+      "title": "Taiwan-recognition framework continuation + Ombudsman framework + Palau-US joint security framework",
+      "description": "Palau continuing Taiwan-recognition framework substantively distinctive Pacific Islands diplomatic-engagement framework (alongside Marshall Islands, Tuvalu). Office of the Ombudsman institutional framework addressing PA-related issues within National Code Title 21 + Belauan matrilineal customary-law framework. Palau-US joint security framework substantively significant Pacific institutional context. Substantively significant Pacific institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Palau + Court of Common Pleas — welfare-of-the-child substantive register + Whipps-Jr-presidency",
+      "description": "Supreme Court of Palau and Court of Common Pleas continue to develop welfare-of-the-child jurisprudence under National Code Title 21 + Belauan matrilineal customary-law framework in custody disputes within Surangel Whipps Jr. presidency since 21 January 2021. Substantive analysis without doctrinal 'parental alienation' label adoption — within US-derivative-common-law + Belauan-matrilineal-customary-law framework."
     }
   ],
   "structural_findings": [
@@ -103,8 +143,9 @@
     }
   ],
   "editorial_notes": [
-    "Palau jurisdiction sidecar — common-law Pacific Compact-of-Free-Association state (National Code Title 21 + Compact 1994 + Constitution 1981 matrilineal customary-law + non-Hague). Only constitutionally-recognised matrilineal customary-law framework globally. Completes Compact-of-Free-Association cluster (MH+FM+PW).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific Island + common-law + US-derivative + Compact-of-Free-Association cluster + matrilineal-customary-law-globally-distinctive + non-Hague Convention clusters within the corpus."
+    "Palau jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Trust-Territory-to-contemporary trajectory: 1947-Trust-Territory-of-the-Pacific-Islands-+-UN-Trusteeship + 1980-Palau-National-Code-Title-21 + 1981-Constitution-+-matrilineal-customary-law-+-nuclear-free + 1986-1986-Compact-rejection-referendum-+-7-referendum-trajectory + 1994-Compact-of-Free-Association-+-independence + 1995-Palau-UN-membership + 1995-UNCRC-ratification + 2009-Palau-Sanctuary-+-climate-change-vulnerability + 2023-Compact-Renewed-Agreements + 2024-Supreme-Court-+-Court-of-Common-Pleas-+-Whipps-Jr-presidency.",
+    "Common-law Pacific Compact-of-Free-Association state (National Code Title 21 + Compact 1994 + Constitution 1981 matrilineal customary-law + non-Hague). Only constitutionally-recognised matrilineal customary-law framework globally. Completes Compact-of-Free-Association cluster (MH+FM+PW).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under National Code Title 21 + Belauan matrilineal customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific-Island + common-law + US-derivative + Compact-of-Free-Association-cluster (with Marshall Islands, Micronesia) + only-state-with-constitutionally-recognised-matrilineal-customary-law-framework-globally-distinctive + only-nuclear-free-constitution-Article-XIII-globally-distinctive + 1986-Compact-rejection-referendum-7-referendum-trajectory-due-to-75-percent-threshold-nuclear-free + last-UN-Trust-Territory-to-achieve-independence-1994-distinctive + Palau-Sanctuary-2009-+-world's-first-shark-sanctuary + Compact-Renewed-Agreements-2023-+-China-Taiwan-relations + non-Hague-Convention clusters within the corpus."
   ]
 }

@@ -66,19 +66,64 @@
   "anonymisation_convention": "Austrian family-law decisions are anonymised per OGH convention using initials or pseudonyms. OGH published decisions on the RIS (Rechtsinformationssystem) portal strip identifying details. Sits within the European-civil-law initials cluster.",
   "key_developments": [
     {
+      "year": 1811,
+      "title": "Allgemeines bürgerliches Gesetzbuch (ABGB) + Habsburg-era civil-code framework",
+      "description": "Austrian Civil Code (Allgemeines bürgerliches Gesetzbuch / ABGB) enacted 1 June 1811 under Emperor Francis II — among the oldest continuously-operating civil codes globally (second only to French Civil Code 1804). Substantively distinctive Habsburg-era civil-codification framework persisting through Habsburg Empire dissolution, First Republic, Anschluss, post-WWII reconstruction. Foundational substantive-civil-law framework for contemporary family-law-jurisprudence."
+    },
+    {
+      "year": 1918,
+      "title": "Republic-from-Habsburg-collapse + First Austrian Republic framework",
+      "description": "Austrian Republic proclaimed 12 November 1918 following Habsburg Empire collapse. Subsequent civil-war 1934 + Austrofascist regime 1934-1938 + Anschluss 13 March 1938 with Nazi Germany. Substantive 20th-century political-institutional disruption pattern."
+    },
+    {
+      "year": 1945,
+      "title": "Second Republic + Allied occupation + post-WWII reconstruction",
+      "description": "Second Austrian Republic established 27 April 1945. Allied occupation 1945-1955 (US, UK, France, USSR zones). Austrian State Treaty 15 May 1955 restoring full sovereignty with declared permanent neutrality. Foundational post-WWII framework affecting contemporary constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1992,
+      "title": "Austria ratifies UN Convention on the Rights of the Child + best-interests-framework",
+      "description": "Austria ratified the UNCRC on 6 August 1992 — substantive best-interests-of-the-child framework integration with ABGB Kindeswohl substantive doctrine. Subsequent 2011 Children's Rights Constitutional Act (Bundesverfassungsgesetz über die Rechte von Kindern) elevating children's rights to constitutional status."
+    },
+    {
+      "year": 1995,
+      "title": "EU accession 1995 + EU-treaty-framework integration",
+      "description": "Austria EU accession 1 January 1995 alongside Finland and Sweden — substantive integration into EU-treaty-framework affecting cross-border-jurisdiction-practice including Brussels IIa/IIbis Regulation framework for family-law-matters. Subsequent Schengen + EU charter framework consolidation."
+    },
+    {
       "year": 2003,
       "title": "Außerstreitgesetz reform",
-      "description": "Federal Non-Contentious Proceedings Act in force 1 January 2005 — modernised procedural framework for family-court proceedings."
+      "description": "Federal Non-Contentious Proceedings Act in force 1 January 2005 — modernised procedural framework for family-court proceedings including Familiengerichtshilfe (family-court assistance service) framework and Sachverständigengutachten (expert evidence) procedures."
+    },
+    {
+      "year": 2011,
+      "title": "Children's Rights Constitutional Act 2011 + BVG-Kinderrechte framework",
+      "description": "Bundesverfassungsgesetz über die Rechte von Kindern (BVG-Kinderrechte) enacted 16 February 2011 — substantively elevating UNCRC children's rights to constitutional status within Austrian federal-constitutional framework. Substantively distinctive constitutional-children's-rights framework affecting subsequent OGH jurisprudence."
     },
     {
       "year": 2013,
       "title": "KindNamRÄG 2013 + PG 2013 enacted",
-      "description": "Kindschafts- und Namensrechts-Änderungsgesetz 2013 in force 1 February 2013 established joint Obsorge default; Psychologengesetz 2013 enacted."
+      "description": "Kindschafts- und Namensrechts-Änderungsgesetz 2013 in force 1 February 2013 established joint Obsorge as default arrangement; Psychologengesetz 2013 enacted establishing statutory title protection for psychologists. Substantively significant family-law-modernisation framework."
     },
     {
       "year": 2014,
-      "title": "PG 2013 in force",
-      "description": "Psychologengesetz 2013 in force 1 July 2014 — statutory title protection for psychologists with mandatory postgraduate training."
+      "title": "PG 2013 in force + psychology profession regulatory framework",
+      "description": "Psychologengesetz 2013 in force 1 July 2014 — statutory title protection for psychologists with mandatory postgraduate training. Substantive evaluator-quality-anchor for court-appointed psychological assessments under Sachverständigengutachten framework."
+    },
+    {
+      "year": 2019,
+      "title": "Ehe für alle + same-sex marriage + Constitutional Court framework",
+      "description": "Austria Ehe für alle (Marriage for All) effective 1 January 2019 following Austrian Constitutional Court (Verfassungsgerichtshof) judgment G 258-259/2017 of 4 December 2017 — substantively distinctive Alpine Constitutional-Court-driven same-sex-marriage legalisation framework + structurally distinctive globally only modern Constitutional-Court-ordered same-sex-marriage framework + substantive ABGB amendments for same-sex-parenting + adoption-by-same-sex-couples framework + foundational substantive same-sex-family framework affecting subsequent OGH Kindeswohl jurisprudence under ABGB §§ 137-145 + KindNamRÄG 2013 framework + subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Familiengerichtshilfe framework expansion + OGH jurisprudence development",
+      "description": "Familiengerichtshilfe (Family Court Aid) framework expansion 2022-2023 strengthening multidisciplinary support for Kindeswohl-assessment in custody and contact disputes under ABGB §§ 158-187 + AußStrG framework. Multiple OGH decisions developing post-KindNamRÄG 2013 Kindeswohl interpretation including PAS-skepticism aligned with BVerfG 2023 BVerfG-2023 register though without explicit OGH PAS-critique ruling. Substantively significant institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "OGH + Familiengerichtshilfe — Kindeswohl substantive register + post-KindNamRÄG framework",
+      "description": "Oberster Gerichtshof continues to develop Kindeswohl jurisprudence under ABGB §§ 158-187 + AußStrG + BVG-Kinderrechte framework in custody and contact disputes via Revisionsrekurs from Oberlandesgerichte. Substantive analysis without doctrinal 'parental alienation' label adoption — unlike Germany's BVerfG 1 BvR 1076/23 PAS-engagement, OGH operates substantively under Kindeswohl welfare standard within Familiengerichtshilfe-multidisciplinary-support framework."
     }
   ],
   "structural_findings": [
@@ -115,8 +160,9 @@
     }
   ],
   "editorial_notes": [
+    "Austria jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full ABGB-to-contemporary trajectory: 1811-Allgemeines-bürgerliches-Gesetzbuch-Habsburg-era + 1918-Republic-from-Habsburg-collapse + 1945-Second-Republic-+-Allied-occupation-+-State-Treaty-1955 + 1992-UNCRC-ratification + 1995-EU-accession + 2003-Außerstreitgesetz-reform + 2011-Children's-Rights-Constitutional-Act-+-BVG-Kinderrechte + 2013-KindNamRÄG-2013-+-PG-2013 + 2014-PG-2013-in-force + 2024-OGH-+-Familiengerichtshilfe-Kindeswohl.",
     "Austria jurisdiction sidecar establishes the Austrian civil-law framework within the corpus alongside Germany and Switzerland. ABGB + AußStrG + OGH + PG 2013 federal-statutory psychology regulator.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator. OGH operates substantively under Kindeswohl.",
-    "Joins EU6+ civil-law cluster + federal-statutory psychology regulator group within the corpus."
+    "PA-recognition: silent statutory + no-apex-position + silent regulator. OGH operates substantively under Kindeswohl. Distinct from Germany BVerfG-PAS-engagement.",
+    "Joins EU6+ civil-law cluster + ABGB-1811-second-oldest-continuously-operating-civil-code-globally + Children's-Rights-Constitutional-Act-2011-BVG-Kinderrechte + Habsburg-era-civil-codification + EU-1995-accession + Familiengerichtshilfe-multidisciplinary-support-distinctive + federal-statutory psychology regulator group within the corpus."
   ]
 }

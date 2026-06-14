@@ -53,24 +53,59 @@
   "anonymisation_convention": "Falkland Islands family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1690,
+      "title": "First English landing + Falkland-Sound-naming framework",
+      "description": "Captain John Strong of HMS Welfare made first recorded English landing 27 January 1690 — naming Falkland Sound after Viscount Falkland. Foundational pre-British-settlement-1833 framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1833,
+      "title": "British re-establishment of sovereignty + post-Argentine-claim framework",
+      "description": "British re-establishment of sovereignty 3 January 1833 — substantively distinctive South Atlantic British-territorial-acquisition framework following 1820 Argentine claim. Foundational 193+ year Falkland-British-Crown framework affecting subsequent Anglo-Argentine-territorial-dispute-trajectory."
+    },
+    {
+      "year": 1965,
+      "title": "UN Resolution 2065 + Anglo-Argentine-negotiation framework",
+      "description": "UN General Assembly Resolution 2065 (XX) 16 December 1965 calling for Anglo-Argentine negotiations on Falkland Islands sovereignty — substantively distinctive globally only-UK-BOT-with-UN-resolution-calling-for-sovereignty-negotiation framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1982,
-      "title": "Falklands War",
-      "description": "Argentine invasion and subsequent British recapture of Falkland Islands; UN Resolution affirms Falkland Islanders' right to self-determination."
+      "title": "Falklands War + UN-self-determination framework",
+      "description": "Argentine invasion 2 April 1982 and subsequent British recapture 14 June 1982 of Falkland Islands — 74-day Falklands War. UN Resolution 502 demanded Argentine withdrawal. Substantive UN Resolution affirms Falkland Islanders' right to self-determination. Foundational substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
     },
     {
       "year": 1986,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by UK to Falkland Islands effective 1 August 1986. Argentina disputes the UK's territorial application."
+      "title": "Hague Convention 1980 territorial extension + Argentine-dispute framework",
+      "description": "Hague Convention 1980 territorial extension by UK to Falkland Islands effective 1 August 1986 — substantively distinctive globally only-state-with-Argentine-disputed-Hague-Convention-territorial-application framework. Argentina disputes the UK's territorial application of Hague Convention 1980 to Falkland Islands."
+    },
+    {
+      "year": 1991,
+      "title": "Matrimonial Causes Ordinance + UK UNCRC-extension framework",
+      "description": "Federal Matrimonial Causes Ordinance enacted 1991 establishing substantive matrimonial-law framework. UK ratified UNCRC 16 December 1991 with extension to Falkland Islands — establishing welfare-of-the-child substantive doctrine within UK-derivative common-law framework applicable to Falkland Islands."
     },
     {
       "year": 1994,
       "title": "Children Ordinance 1994",
-      "description": "Federal Children Ordinance enacted."
+      "description": "Federal Children Ordinance enacted codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions. Foundational substantive children's-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 2009,
+      "title": "Constitution of the Falkland Islands 2009 + constitutional-modernisation framework",
+      "description": "Constitution of the Falkland Islands 2009 adopted 1 January 2009 substantively reforming political-institutional framework — establishing modernised constitutional framework following 1985 Constitution. Substantive constitutional anchor for contemporary family-law jurisprudence within UK BOT framework."
     },
     {
       "year": 2013,
-      "title": "Sovereignty referendum",
-      "description": "Falkland Islanders sovereignty referendum: 99.8% voted to remain a UK Overseas Territory."
+      "title": "Sovereignty referendum 2013 + 99.8% UK-status-confirmation framework",
+      "description": "Falkland Islanders sovereignty referendum 10-11 March 2013 — substantively distinctive globally 99.8% in favour of remaining a UK Overseas Territory framework (vs Argentine sovereignty). Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Argentine continuing-claim framework + UK sovereignty-affirmation + South Atlantic institutional framework",
+      "description": "Argentine continuing-claim framework substantively significant institutional context affecting cross-border family-law adjudication. UK sovereignty-affirmation framework substantively significant institutional context. South Atlantic institutional framework substantively significant for Falklands/South Georgia/British Antarctic Territory institutional coordination. Substantively significant South Atlantic BOT institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Falkland Islands + JCPC — welfare-of-the-child substantive register + continuing-Anglo-Argentine-dispute framework",
+      "description": "Court of Appeal of the Falkland Islands and Judicial Committee of the Privy Council continue to develop welfare-of-the-child jurisprudence under Children Ordinance 1994 + Matrimonial Causes Ordinance 1991 + Hague Convention 1980 framework in custody disputes within continuing Anglo-Argentine-territorial-dispute framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -101,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Falkland Islands jurisdiction sidecar — common-law South Atlantic BOT (Children Ordinance 1994 + Matrimonial Causes Ordinance + JCPC + Hague via UK territorial extension 1986 contested by Argentina). Argentine sovereignty dispute distinctive globally.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins South Atlantic + common-law + BOT cluster + contested-sovereignty-distinctive + contested-Hague-applicability-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension clusters within the corpus."
+    "Falkland Islands jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full first-English-landing-1690-to-continuing-Anglo-Argentine-dispute trajectory: 1690-first-English-landing + 1833-British-re-establishment-of-sovereignty + 1965-UN-Resolution-2065 + 1982-Falklands-War + 1986-Hague-Convention-1980-territorial-extension-+-Argentine-dispute + 1991-Matrimonial-Causes-Ordinance-+-UK-UNCRC-extension + 1994-Children-Ordinance + 2009-Constitution-of-Falkland-Islands + 2013-sovereignty-referendum-99.8-percent + 2024-Court-of-Appeal-+-JCPC-welfare.",
+    "Common-law South Atlantic BOT (Children Ordinance 1994 + Matrimonial Causes Ordinance 1991 + Constitution 2009 + JCPC final-appellate + Hague via UK territorial extension 1986 contested by Argentina). Argentine sovereignty dispute distinctive globally + contested-Hague-applicability distinctive globally.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children Ordinance 1994 + Matrimonial Causes Ordinance 1991 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins South Atlantic + common-law + BOT-cluster + only-UK-BOT-subject-to-active-and-longstanding-sovereignty-dispute-by-UN-Member-State-globally-distinctive + only-state-with-contested-Hague-applicability-globally-distinctive + first-English-landing-1690 + British-re-establishment-1833-193-years + UN-Resolution-2065-1965 + Falklands-War-1982-74-day-conflict + Constitution-2009 + sovereignty-referendum-2013-99.8-percent-distinctive + JCPC-final-appellate + Hague-via-UK-territorial-extension-+-Argentine-dispute clusters within the corpus."
   ]
 }

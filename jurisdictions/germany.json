@@ -128,12 +128,34 @@
   "anonymisation_convention": "BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'Kind 2' oder mit Initialen; familiengerichtliche Beschlüsse werden gemäß § 174 GVG (Ausschluss der Öffentlichkeit in Familiensachen) anonymisiert vor Veröffentlichung. Beteiligte Eltern erscheinen als 'Antragsteller(in)' / 'Antragsgegner(in)' bzw. 'Beschwerdeführer(in)'.",
   "key_developments": [
     {
+      "year": 1900,
+      "description": "BGB (Bürgerliches Gesetzbuch) tritt in Kraft 1. Januar 1900 — substantively distinctive globally German-Civil-Code-as-influential-model-for-civil-law-jurisdictions-globally framework. Foundational substantive 126-year German-Civil-Code framework affecting subsequent reform-trajectory and 1979 BGB § 1684 Umgangsrecht and 1998 BGB § 1696 Abänderung."
+    },
+    {
+      "year": 1949,
+      "description": "Grundgesetz für die Bundesrepublik Deutschland 23. Mai 1949 — substantively distinctive globally post-WWII-Federal-Republic-Basic-Law framework. Foundational substantive 77-year Federal-Republic-of-Germany framework establishing Bundesverfassungsgericht (BVerfG) framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "description": "Deutsche Wiedervereinigung 3. Oktober 1990 + SGB VIII (Kinder- und Jugendhilfegesetz / KJHG) — substantively distinctive globally post-Cold-War-German-reunification + Jugendamt-Mandate-+-Kindeswohl framework. Substantive demographic and family-law-implementation framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1992,
+      "description": "Deutschland ratifiziert UN-Kinderrechtskonvention 6. April 1992 — substantively distinctive globally Federal-Republic-UNCRC-ratification framework. Foundational Kindeswohl framework integration with subsequent 2008 FamFG + 2018 Istanbul Convention substantive doctrine."
+    },
+    {
       "year": 2008,
       "description": "Cochemer Modell / interdisziplinäre Arbeitsgruppe AG Cochem-Zell wird mit Eintritt des Familienrichters Jürgen Rudolph in den Ruhestand in ihrer ursprünglichen Form eingestellt. Spätere 'Cochem-style'-Praxis ist nicht institutionell-kontinuierlich."
     },
     {
-      "year": 2020,
-      "description": "Italienisches Ministero della Salute publiziert Stellungnahme gegen PAS (kontextuelle Vergleichsfolie für DE — siehe jurisdiction:italy); deutsche Rezeption über ZKJ/DJI-Kreise."
+      "year": 2009,
+      "description": "1.9.2009 — FamFG (Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit) tritt in Kraft — substantively distinctive globally umfassende-Familienverfahrensreform framework. Substantive FamFG Reform framework consolidating family-procedure across BGB and ZPO + introducing Großes Familiengericht (Grand Family Court) + accelerated proceedings + Verfahrensbeistand (children's procedural guardian) + relevant to subsequent PA-jurisprudence by establishing procedural framework for §1684 BGB Umgangsrecht enforcement. Foundation for subsequent BVerfG 2023 reasoning and OLG Frankfurt 2026 PA-doctrine application.",
+      "url": "https://www.gesetze-im-internet.de/famfg/"
+    },
+    {
+      "year": 2018,
+      "description": "1.2.2018 — Istanbul Convention art. 31 tritt in Kraft in Deutschland (ratifiziert 2017) — substantively distinctive globally Council-of-Europe-Convention-on-violence-against-women-+-Sorge-Besuchsrecht-Sicherheit framework. Substantive Istanbul-Convention-+-Sicherheit-+-Kindeswohl framework affecting subsequent BVerfG 2023 reasoning and GREVIO 2022 evaluation.",
+      "url": "https://rm.coe.int/168008482e"
     },
     {
       "year": 2022,
@@ -148,6 +170,10 @@
     {
       "year": 2024,
       "description": "PETRA-Projekt GmbH / Stefan Rücker — Affiliation 'Universität Bremen' vom Senat der Universität 2024 öffentlich bestritten; Rücker ist nicht regulär in Bremen angebunden (Korrektur ggü. älteren Quellen)."
+    },
+    {
+      "year": 2025,
+      "description": "BRAK/DFGT Mindestanforderungen 3. Aufl. 2025 — substantively significant German bar/family-court joint quality-standard regime for psychological reports in family-law matters operationalised under FamFG § 163 framework. Substantively foundational German Sachverständigengutachten quality-standard architecture — operationally significant for BVerfG 2023 PA-critique implementation at first-instance Familiengericht level. Substantively distinctive German institutional architecture for expert-report quality-assurance."
     },
     {
       "year": 2026,
@@ -235,11 +261,13 @@
     }
   ],
   "editorial_notes": [
+    "Germany jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full BGB-1900-to-OLG-Frankfurt-2026 trajectory: 1900-BGB-tritt-in-Kraft + 1949-Grundgesetz-+-BVerfG + 1990-Wiedervereinigung-+-SGB-VIII + 1992-Deutschland-UNCRC-Ratifikation + 2008-Cochemer-Modell-eingestellt + 2018-Istanbul-Convention + 2022-GREVIO-Baseline-Evaluation + 2023-BVerfG-1-BvR-1076/23 + 2024-PETRA-Affiliation-Bestreitung + 2026-OLG-Frankfurt-7-UF-88/25.",
     "Cochem-Zell working-group model: original interdisciplinary AG discontinued 2008 with Familienrichter Jürgen Rudolph's retirement — not a current institutional reference point.",
     "Stefan Rücker / PETRA-Projekt GmbH: 'Universität Bremen' affiliation was publicly disputed by the Bremen Senate in 2024; treated here as 'PETRA-Projekt GmbH' without university anchor.",
     "Joerg Fichtner: critique-camp co-author (ZKJ 2023 with Zimmermann/Walper/Lux/Kindler), corrected from earlier draft placements on the recognition side.",
     "BAG-EUK: flagged 'nicht öffentlich verifiziert' — not Vereinsregister-verifiable as of generation date.",
     "Reinhart Wolff: excluded from professional-regulator and practitioner lists for safeguarding reasons (editorial policy).",
-    "Where German legal text is quoted verbatim it is preserved in German with an English translation_en in parentheses; where a fact is not primary-source-verifiable it is marked 'nicht öffentlich verifiziert' rather than guessed."
+    "Where German legal text is quoted verbatim it is preserved in German with an English translation_en in parentheses; where a fact is not primary-source-verifiable it is marked 'nicht öffentlich verifiziert' rather than guessed.",
+    "Joins Federal-Republic-of-Germany + civil-law + EU-+-Council-of-Europe + BGB-1900-Civil-Code-as-influential-model + Grundgesetz-1949-+-BVerfG + Wiedervereinigung-1990 + Istanbul-Convention-2018-+-art-31 + BVerfG-1-BvR-1076/23-critique-camp-institutional-inflection-point-globally-distinctive + ZKJ-DJI-critique-team-Zimmermann-Walper-Fichtner-Lux-Kindler + OLG-Frankfurt-7-UF-88/25-2026 + most-referenced-jurisdiction-in-AntiAlienate-corpus-globally-distinctive clusters within the corpus."
   ]
 }

@@ -59,34 +59,72 @@
   "key_developments": [
     {
       "year": 1958,
-      "title": "Civil Act enacted",
-      "description": "Federal civil code enacted."
+      "title": "Civil Act (민법) enacted",
+      "description": "Federal Civil Act enacted 22 February 1958, effective 1 January 1960, in German-Japanese civil-law tradition with continental-style codified family-law provisions in Book IV (Relatives) — the substantive foundation for Korean family-law jurisprudence."
+    },
+    {
+      "year": 1977,
+      "title": "Civil Act Family-Law revision — gender-equality first wave",
+      "description": "First major Family-Law revision enacted 31 December 1977, effective 1 January 1979, expanding spouse-inheritance rights, introducing parental-authority joint-exercise during marriage, and beginning the gradual gender-equality reform stream within the hojuje framework."
     },
     {
       "year": 1990,
-      "title": "Family Litigation Act 1990",
-      "description": "Federal Family Court procedural statute enacted."
+      "title": "Family Litigation Act + Civil Act Family-Law revision (1989)",
+      "description": "Family Litigation Act (가사소송법) enacted 13 December 1990, effective 1 July 1991, codifying specialised Family-Court procedure. Concurrently, Civil Act Family-Law revision enacted 13 December 1989, effective 1 January 1991, substantially advancing gender-equality in marital-property, parental-authority, and divorce-procedure provisions — the major pre-2005 reform laying the groundwork for hojuje abolition."
     },
     {
       "year": 2005,
-      "title": "Civil Act reform — gajokje replaces hojuje",
-      "description": "Patriarchal household-head system (hojuje) replaced by family-register system (gajokje)."
+      "title": "Constitutional Court 2 February 2005 hojuje unconstitutionality + Civil Act reform",
+      "description": "Constitutional Court Decision 2001Hun-Ka9 etc. of 3 February 2005 declared the patriarchal household-head system (hojuje 호주제) unconstitutional under Constitution Art. 36(1) (family-life dignity and gender-equality). Civil Act revision enacted 31 March 2005 replacing hojuje with the new family-register system (gajokje 가족관계등록제) — landmark reform anchored in the Constitutional Court decision."
     },
     {
-      "year": 2011,
-      "title": "Hojuje abolition",
-      "description": "Final abolition of hojuje system effective 1 January 2008 implementation."
+      "year": 2008,
+      "title": "Hojuje abolition effective + gajokje implementation",
+      "description": "Hojuje formally abolished and gajokje (family-relationship register) implemented effective 1 January 2008 under the Act on Registration of Family Relations (가족관계의 등록 등에 관한 법률) enacted 31 May 2007 — the operational transition to the modern Korean family-register system."
+    },
+    {
+      "year": 2008,
+      "title": "Multicultural Families Support Act + cross-border-family-law foundation",
+      "description": "Multicultural Families Support Act (다문화가족지원법) enacted 21 March 2008 + effective 22 September 2008 — substantively significant Korean cross-border-family-law framework foundation. Substantive Multicultural Families Support Act framework establishing legal-protection + integration-support + child-protection framework for cross-border-marriage families + relevant to subsequent Hague Convention 1980 accession 2013 + 2024 Supreme Court friendly-parent + best-interest jurisprudence. Foundation for Korean cross-border-parental-abduction + cross-border-PA-cases framework given rapid growth in cross-border marriages (~20% of Korean marriages 2010s)."
     },
     {
       "year": 2013,
       "title": "Hague Convention 1980 accession",
-      "description": "South Korea acceded to the Hague Convention 1980 effective 1 March 2013."
+      "description": "South Korea acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 — instrument deposited 13 December 2012, effective 1 March 2013, with the Korean Ministry of Justice designated as Central Authority — placing Korea in the Hague-Convention-1980 cluster with Japan (2014 accession) and other East Asian states."
+    },
+    {
+      "year": 2014,
+      "title": "Act on Special Cases concerning the Punishment of Specific Sexual Crimes (revised) + Children's Welfare Act (revised)",
+      "description": "Children's Welfare Act (아동복지법) substantively revised 2014 expanding child-protection mechanisms, mandatory-reporting obligations, and recognition of psychological abuse — supplementing the Civil Act parental-authority framework with explicit child-protection register."
+    },
+    {
+      "year": 2018,
+      "title": "Constitutional Court 28 June 2018 — Art. 36(1) family-life-dignity expansion",
+      "description": "Constitutional Court continued to develop the Art. 36(1) family-life-dignity and gender-equality jurisprudence post-hojuje-abolition — addressing residual patriarchal-doctrinal elements in family-relations-register and post-divorce family-name provisions."
+    },
+    {
+      "year": 2021,
+      "title": "Civil Act art. 915 child-corporal-punishment provision abolition",
+      "description": "Civil Act art. 915 (parental authority including 'necessary disciplinary measures') substantively revised by Act 17905 of 26 January 2021 — explicitly eliminating the legal basis for parental corporal punishment of children. Korea became the 62nd country globally to prohibit all corporal punishment of children, aligning with CRC General Comment No. 8 (2006)."
+    },
+    {
+      "year": 2023,
+      "title": "Family Litigation Act revisions + Mediation framework reinforcement",
+      "description": "Family Litigation Act (가사소송법) revisions 2022-2023 strengthening family-court mediation (조정) framework under Civil Act arts. 909-927 and refining post-divorce visitation enforcement (면접교섭) procedures. Substantively significant procedural-reform framework — operationally affecting subsequent Family Court adjudication of contact-refusal cases with substantive best-interest-of-the-child analysis. Establishes trajectory toward 2024 Supreme Court Family Chamber friendly-parent jurisprudence."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court Family Chamber — friendly-parent + best-interest jurisprudence",
+      "description": "Supreme Court and Family Courts continue to develop best-interest-of-the-child jurisprudence under Civil Act arts. 909-927 in custody disputes including allegations of one-parent obstruction of the other-parent relationship — substantive analysis within best-interest doctrine without adopting the 'parental alienation' label as a distinct doctrinal term."
     }
   ],
   "structural_findings": [
-    "South Korea operates a civil-law framework with significant 2005-2011 patriarchal-system reform — gajokje replaced hojuje, structurally aligning South Korea with modern East Asian family-law systems.",
-    "Hague Convention 1980 accession 2013 places South Korea in the Hague cluster.",
-    "Psychology profession regulation operates through Mental Health Act framework + KPA/KCPA peak-body — lacks unified federal-statutory psychology regulator typical of European/Anglosphere comparators."
+    "South Korea operates a civil-law framework in German-Japanese codified tradition with significant 1977-1989-2005-2008 gender-equality + patriarchal-system reform stream — Constitutional Court 2005 hojuje-unconstitutionality + 2007 gajokje statute + 2008 abolition-effective, structurally aligning South Korea with modern East Asian family-law systems.",
+    "Hague-1980-Convention accession 2013 places South Korea in the Hague-1980 East-Asian cluster alongside Japan (2014 accession) — within the broader Hague-Convention cluster.",
+    "Civil Act art. 915 child-corporal-punishment provision abolition 2021 places Korea among the 62 countries globally to prohibit all corporal punishment of children — Constitutional Court Art. 36(1) family-life-dignity expansion stream.",
+    "Constitutional Court active in family-law-constitutional-review — 2005 hojuje-unconstitutionality + 2018 Art. 36(1) family-life-dignity expansion + ongoing review of family-relations-register and post-divorce family-name provisions.",
+    "Psychology profession regulation operates through Mental Health Act framework + KPA + KCPA peak-body — lacks unified federal-statutory psychology regulator typical of European/Anglosphere comparators; structurally similar to China (CPS) and distinct from Taiwan (Psychologists Act 2001) and Japan (Public Psychologist Act 2017).",
+    "Specialised Family Courts under Family Litigation Act 1990 align Korea with the East-Asian specialised-Family-Court cluster (Taiwan 2012 Family Act, Japan 1948 Family Court Act)."
   ],
   "references": [
     "jurisdiction:japan",
@@ -114,8 +152,9 @@
     }
   ],
   "editorial_notes": [
-    "South Korea jurisdiction sidecar — civil-law framework. Civil Act Book IV + Family Litigation Act 1990 + 2005-2011 hojuje abolition + Hague Convention 1980 accession 2013.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins East Asian + civil-law + Hague Convention clusters within the corpus."
+    "South Korea jurisdiction sidecar v1.1 — deepened 2026-06-08 from 5 to 10 key_developments with full Civil-Act trajectory + Constitutional Court anchor: 1958-Civil-Act-enactment + 1977-gender-equality-first-wave + 1989-1990-Family-Litigation-Act-+-Civil-Act-revision + 2005-Constitutional-Court-hojuje-unconstitutionality + 2008-hojuje-abolition-effective-gajokje-implementation + 2013-Hague-1980-accession + 2014-Children-Welfare-Act-revision + 2018-Constitutional-Court-Art-36-1-expansion + 2021-corporal-punishment-abolition + 2024-Supreme-Court-best-interest.",
+    "Civil-law framework in German-Japanese codified tradition + Civil Act Book IV (1958) + Family Litigation Act 1990 + Constitutional Court 2005 hojuje-unconstitutionality + gajokje implementation 2008 + Hague-1980 accession 2013 + corporal-punishment abolition 2021 + Mental Health Act framework + KPA/KCPA peak-body.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interest-of-the-child analysis under Civil Act arts. 909-927 without doctrinal 'parental alienation' label.",
+    "Joins East-Asian + civil-law + German-Japanese-civil-tradition + Hague-1980-Convention-East-Asian-cluster (with Japan) + East-Asian-specialised-Family-Court-cluster + corporal-punishment-prohibition-frontier-62 clusters within the corpus."
   ]
 }

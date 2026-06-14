@@ -46,14 +46,59 @@
   "anonymisation_convention": "Burkinabé family-court decisions are anonymised per Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1960,
+      "title": "Upper Volta independence + renamed Burkina Faso 1984",
+      "description": "Upper Volta (Haute-Volta) achieved independence 5 August 1960 from France. Pre-1960 French civil-law framework substantively retained as foundational legal-system substrate. Country renamed Burkina Faso ('Land of Honest People') 4 August 1984 under Thomas Sankara revolutionary government (1983-1987)."
+    },
+    {
+      "year": 1984,
+      "title": "Sankara presidency + revolutionary reforms (1983-1987)",
+      "description": "Thomas Sankara assumed presidency 4 August 1983 — substantively distinctive revolutionary-Marxist-Pan-African presidency including women's-rights reforms, land redistribution, anti-colonial policies. Assassinated 15 October 1987 by Blaise Compaoré coup. Sankara reforms substantively affected family-law reform pipeline that resulted in 1989 Persons and Family Code."
+    },
+    {
       "year": 1989,
-      "title": "Persons and Family Code 1989",
-      "description": "Federal Persons and Family Code enacted under Compaoré government with codification of customary-law and Islamic-law marriage provisions."
+      "title": "Persons and Family Code 1989 + post-Sankara codification",
+      "description": "Federal Persons and Family Code enacted 1989 under Compaoré government with codification of customary-law and Islamic-law marriage provisions for relevant communities. Arts. 510-565 govern parental authority and child custody. Drew substantively on Sankara-era women's-rights reform agenda including monogamy promotion and customary-law modernisation."
+    },
+    {
+      "year": 1990,
+      "title": "Burkina Faso ratifies UN Convention on the Rights of the Child",
+      "description": "Burkina Faso ratified the UNCRC on 31 August 1990 — among the earliest African ratifications globally. Framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine."
+    },
+    {
+      "year": 1991,
+      "title": "Constitution 1991 + multi-party transition",
+      "description": "Constitution of the Fourth Republic adopted 2 June 1991 by referendum (substantially amended 2012) — establishing semi-presidential republic framework. Codifies family-protection-clauses and children's-rights provisions. Compaoré presidency 1987-2014."
     },
     {
       "year": 1992,
-      "title": "Hague Convention 1980 accession",
-      "description": "Burkina Faso acceded to the Hague Convention 1980 effective 1 May 1992 — earliest African Hague accession in the corpus."
+      "title": "Hague Convention 1980 accession — earliest African",
+      "description": "Burkina Faso acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 May 1992 — earliest African Hague accession in the corpus. Structurally distinctive within African corpus as early Hague-Africa-mover."
+    },
+    {
+      "year": 2014,
+      "title": "Popular Uprising + Compaoré ouster + democratic transition",
+      "description": "Popular Uprising 30-31 October 2014 ousted Blaise Compaoré after 27 years (1987-2014) — democratic transition trajectory establishing transitional civilian-military framework. Subsequent multi-party elections 2015 won by Roch Marc Christian Kaboré."
+    },
+    {
+      "year": 2022,
+      "title": "Coup d'état 2022 + military junta + Traoré presidency",
+      "description": "Two coups d'état 2022 — January 2022 (Damiba) and September 2022 (Traoré). Ibrahim Traoré assumed presidency 30 September 2022 establishing military junta framework. Substantially affected international engagement including EU/Western relations. Substantive jihadist insurgency context affecting family-law-implementation in northern regions."
+    },
+    {
+      "year": 2024,
+      "title": "ECOWAS withdrawal + Sahel States Alliance + regional realignment",
+      "description": "Burkina Faso (with Mali, Niger) announced ECOWAS withdrawal January 2024 (effective January 2025) and formed Sahel States Alliance (Alliance of Sahel States, AES) — substantively distinctive regional-realignment affecting cross-border family-law engagement. Substantive demographic displacement context affecting family-law-implementation."
+    },
+    {
+      "year": 2023,
+      "title": "Insurrection populaire framework + Sankaranist-revival institutional context + family-law continuity in Ouagadougou",
+      "description": "Ibrahim Traoré sankaranist-revival institutional framework 2023 affecting institutional context for family-law adjudication. Conseil National de la Transition framework. Burkina Faso Commission Nationale des Droits Humains continuing institutional position addressing PA-related issues within Persons and Family Code framework. Family-law continuity in Ouagadougou + non-jihadist-affected regions. Substantively significant Sahel institutional context."
+    },
+    {
+      "year": 2025,
+      "title": "Court of Cassation + Constitutional Council — interest-of-the-child substantive register in constrained operational context",
+      "description": "Court of Cassation and Constitutional Council continue to develop interest-of-the-child jurisprudence under Persons and Family Code arts. 510-565 in custody disputes within constrained operational context of ongoing jihadist insurgency and military-junta governance. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -89,8 +134,9 @@
     }
   ],
   "editorial_notes": [
-    "Burkina Faso jurisdiction sidecar — civil-law Sahel Francophone West Africa (French civil-law substantive + Persons and Family Code 1989 customary-law-Islamic-law-codified + Hague Convention 1980 accession 1992 — earliest African).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Sahel Francophone West African + civil-law + customary-Islamic-law-codified-distinctive + earliest-African-Hague Convention clusters within the corpus."
+    "Burkina Faso jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full Upper-Volta-to-Sahel-Alliance trajectory: 1960-Upper-Volta-independence-renamed-Burkina-Faso-1984 + 1984-Sankara-presidency-revolutionary-reforms + 1989-Persons-and-Family-Code-post-Sankara-codification + 1990-UNCRC-ratification + 1991-Constitution-multi-party + 1992-Hague-1980-accession-earliest-African + 2014-Popular-Uprising-Compaoré-ouster + 2022-Coup-d'état-+-Traoré-presidency + 2024-ECOWAS-withdrawal-+-Sahel-States-Alliance + 2025-Court-of-Cassation-Constitutional-Council-interest-of-the-child-constrained-context.",
+    "Civil-law Sahel Francophone West Africa (French civil-law substantive + Persons and Family Code 1989 customary-law-Islamic-law-codified + Constitution 1991 + Hague Convention 1980 accession 1992 — earliest African + post-2022-military-junta + post-2024-Sahel-States-Alliance).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Persons and Family Code arts. 510-565 framework within constrained operational context without doctrinal 'parental alienation' label.",
+    "Joins Sahel-Francophone-West-African + civil-law + customary-Islamic-law-codified-distinctive + earliest-African-Hague-Convention-1992 + Sankara-revolutionary-presidency-legacy (1983-1987) + post-2022-military-junta-governance + post-2024-Sahel-States-Alliance-with-Mali-Niger-ECOWAS-withdrawal + ongoing-jihadist-insurgency-constrained-operational-context + Traoré-youngest-African-leader (different from Faye Senegal) clusters within the corpus."
   ]
 }

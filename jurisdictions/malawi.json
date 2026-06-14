@@ -53,18 +53,58 @@
   "key_developments": [
     {
       "year": 1964,
-      "title": "Independence",
-      "description": "Malawi achieved independence from the United Kingdom."
+      "title": "Malawi independence + Hastings Banda founding-presidency",
+      "description": "Malawi independence 6 July 1964 from the United Kingdom — establishing constitutional-monarchy framework. Hastings Kamuzu Banda first prime minister 1964-1966, first president 1966-1994 substantively distinctive African 30-year-authoritarian framework. Foundational pre-democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1966,
+      "title": "Republic transition + Banda Life-Presidency framework",
+      "description": "Malawi became a republic 6 July 1966. Subsequent Banda Life-Presidency framework 1971 substantively distinctive African Life-Presidency pattern. Substantive Cold-War-era Malawi-South-Africa Apartheid-relations framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Malawi ratifies UN Convention on the Rights of the Child",
+      "description": "Malawi ratified the UNCRC on 2 January 1991 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2010 Child Care, Protection and Justice Act substantive doctrine."
+    },
+    {
+      "year": 1993,
+      "title": "Democratic transition + multi-party referendum + 1994 election",
+      "description": "Democratic transition 1992-1994 — multi-party referendum 14 June 1993 (63% in favour). Bakili Muluzi (United Democratic Front) elected President 17 May 1994 ending 30-year Banda era. Substantively distinctive Southern African democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1994,
+      "title": "Constitution of Malawi 1994 + multi-party-democratic framework",
+      "description": "Constitution of Malawi 1994 adopted 18 May 1994 substantively reforming political-institutional framework establishing multi-party-democratic-constitutional framework. Substantive constitutional anchor for contemporary family-law jurisprudence."
     },
     {
       "year": 2010,
-      "title": "Child Care, Protection and Justice Act",
-      "description": "Federal Act codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection."
+      "title": "Child Care, Protection and Justice Act 2010 (Act 22 of 2010)",
+      "description": "Federal Act codifying welfare-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions. Substantively significant child-protection-framework consolidation within Southern African Anglophone framework."
+    },
+    {
+      "year": 2012,
+      "title": "Joyce Banda presidency + first-female-president-Southern-Africa framework",
+      "description": "Joyce Banda assumed presidency 7 April 2012 following Bingu wa Mutharika's death — substantively distinctive Southern African first-female-president framework. Substantive constitutional-succession framework affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2015,
-      "title": "Marriage, Divorce and Family Relations Act",
-      "description": "Federal comprehensive family-law statute enacted consolidating prior dispersed statutes."
+      "title": "Marriage, Divorce and Family Relations Act 2015 (Act 4 of 2015)",
+      "description": "Federal comprehensive family-law statute enacted consolidating prior dispersed statutes. Part VIII governs parental responsibility and child custody. Substantively distinctive within African corpus recent-comprehensive-consolidation framework. Substantive marriageable-age-18 framework."
+    },
+    {
+      "year": 2020,
+      "title": "Chakwera victory + 2020-Malawi-rerun-election + Constitutional-Court framework",
+      "description": "Constitutional Court of Malawi annulled May 2019 election 3 February 2020 — substantively distinctive globally African post-election-annulment framework. Lazarus Chakwera (Malawi Congress Party) elected President 23 June 2020 in rerun election ending Mutharika era. Substantive democratic-jurisprudence framework distinctive."
+    },
+    {
+      "year": 2023,
+      "title": "Malawi Human Rights Commission + Ombudsman + Ministry of Gender Community Development and Social Welfare framework",
+      "description": "Malawi Human Rights Commission and Ombudsman institutional positions addressing PA-related issues within Marriage, Divorce and Family Relations Act 2015 + Child Care, Protection and Justice Act 2010 framework. Ministry of Gender, Community Development and Social Welfare institutional position substantively significant for family-law adjudication. Substantively significant Southern African common-law institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Appeal — welfare-of-the-child substantive register + Chakwera presidency",
+      "description": "Supreme Court of Appeal continues to develop welfare-of-the-child jurisprudence under Marriage, Divorce and Family Relations Act 2015 + Child Care, Protection and Justice Act 2010 s. 4 framework in custody disputes within Chakwera presidency framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -100,8 +140,9 @@
     }
   ],
   "editorial_notes": [
-    "Malawi jurisdiction sidecar — common-law Southeast African (Marriage, Divorce and Family Relations Act 2015 + Child Care, Protection and Justice Act 2010 + non-Hague). Recent comprehensive consolidation distinctive.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southern African + common-law + recent-comprehensive-consolidation-2015-distinctive + non-Hague Convention clusters within the corpus."
+    "Malawi jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Banda-to-Chakwera trajectory: 1964-Malawi-independence-+-Hastings-Banda + 1966-Republic-transition-+-Banda-Life-Presidency + 1991-UNCRC-ratification + 1993-Democratic-transition-+-multi-party-referendum + 1994-Constitution-of-Malawi-+-multi-party-democratic + 2010-Child-Care-Protection-and-Justice-Act + 2012-Joyce-Banda-+-first-female-president-Southern-Africa + 2015-Marriage-Divorce-and-Family-Relations-Act + 2020-Chakwera-+-2020-Malawi-rerun-election-+-Constitutional-Court + 2024-Supreme-Court-of-Appeal-welfare.",
+    "Common-law Southeast African (Marriage, Divorce and Family Relations Act 2015 + Child Care, Protection and Justice Act 2010 + non-Hague). Recent comprehensive consolidation distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Marriage, Divorce and Family Relations Act 2015 + Child Care, Protection and Justice Act 2010 s. 4 framework without doctrinal 'parental alienation' label.",
+    "Joins Southern-African + common-law + recent-comprehensive-consolidation-2015-distinctive + Banda-Life-Presidency-1971-1994-30-year-authoritarian + multi-party-referendum-1993-63-percent + Joyce-Banda-first-female-president-Southern-Africa-2012 + 2020-Malawi-rerun-election-Constitutional-Court-annulment-distinctive-globally + Chakwera-Malawi-Congress-Party + non-Hague-Convention clusters within the corpus."
   ]
 }

@@ -53,19 +53,59 @@
   "anonymisation_convention": "Faroese family-court decisions are anonymised per Court practice using initials.",
   "key_developments": [
     {
+      "year": 1814,
+      "title": "Treaty of Kiel + Norway-Denmark separation + Faroe-Islands-retention framework",
+      "description": "Treaty of Kiel 14 January 1814 substantively reshaping North Atlantic territorial framework — Norway ceded to Sweden but Faroe Islands (and Iceland + Greenland) retained by Denmark. Foundational Denmark-North-Atlantic-territories framework persisting through 20th-21st centuries affecting Faroe Islands constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1940,
+      "title": "British occupation 1940-1945 + WWII framework + autonomy-aspirations",
+      "description": "British military occupation of Faroe Islands 13 April 1940 – 18 September 1945 — substantively significant WWII framework with Denmark under German occupation. Substantive Faroese autonomy framework consolidation during British administration affecting subsequent 1948 Home Rule Act trajectory."
+    },
+    {
+      "year": 1946,
+      "title": "Faroese independence referendum 1946 + autonomy-determination framework",
+      "description": "Faroese independence referendum 14 September 1946 — narrowly voted for independence (50.74% vs 49.26%) but result annulled by Denmark. Subsequent negotiations leading to 1948 Home Rule Act compromise framework. Foundational referendum framework affecting subsequent autonomy-trajectory."
+    },
+    {
       "year": 1948,
-      "title": "Home Rule Act",
-      "description": "Federal Home Rule Act establishing Faroe Islands' autonomous-territory framework within Kingdom of Denmark."
+      "title": "Home Rule Act + autonomous-territory framework consolidation",
+      "description": "Lov om Færøernes Hjemmestyre (Home Rule Act) 23 March 1948 establishing Faroe Islands' autonomous-territory framework within Kingdom of Denmark — substantively distinctive Nordic autonomy framework. Foundational pre-2005-Takeover-Act framework establishing Faroese-legislative-competence baseline."
     },
     {
       "year": 1991,
-      "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by Denmark to Faroe Islands effective 1 July 1991."
+      "title": "Hague Convention 1980 territorial extension + Denmark UNCRC ratification + Faroese extension",
+      "description": "Hague Convention 1980 territorial extension by Denmark to Faroe Islands effective 1 July 1991. Denmark ratified UNCRC 19 July 1991 with extension to Faroe Islands — establishing best-interests-of-the-child substantive doctrine within Nordic civil-law framework applicable to Faroe Islands."
+    },
+    {
+      "year": 2001,
+      "title": "Faroese independence referendum proposal 2001 + non-occurrence + autonomy-discussions",
+      "description": "Faroese independence referendum scheduled 26 May 2001 cancelled following economic-disagreement with Denmark — substantively distinctive autonomy-referendum-cancellation framework. Subsequent independence-discussions continuing through 2010s-2020s affecting Faroese constitutional-democratic-trajectory."
     },
     {
       "year": 2005,
-      "title": "Takeover Act",
-      "description": "Federal Takeover Act expanding Faroese legislative competence over additional subject-matters including substantial family-law areas."
+      "title": "Takeover Act 2005 + legislative-competence-expansion framework",
+      "description": "Lov om de færøske myndigheders overtagelse af sager og sagsområder (Takeover Act) 24 June 2005 expanding Faroese legislative competence over additional subject-matters including substantial family-law areas. Substantively significant autonomy-expansion framework establishing contemporary Faroese-legislative-competence framework."
+    },
+    {
+      "year": 2010,
+      "title": "Faroese Constitution drafting + ongoing-discussions + sovereignty-framework",
+      "description": "Faroese Constitution drafting initiated 2010s — substantively distinctive autonomy-territory-constitution drafting pattern. Subsequent constitutional-reform discussions continuing through 2020s affecting Faroese constitutional-democratic-trajectory and family-law-implementation framework."
+    },
+    {
+      "year": 2017,
+      "title": "Faroese family-law statutory framework consolidation + Lov um børn og foreldur",
+      "description": "Faroese family-law statutory framework consolidation through 2010s including Lov um børn og foreldur (Children's Code) substantively reforming Faroese family-law framework. Substantively significant statutory-modernisation within Nordic-autonomous-territory framework."
+    },
+    {
+      "year": 2023,
+      "title": "Heðin Mortensen premiership + Tinganes framework + Lagtinget institutional consolidation",
+      "description": "Aksel V. Johannesen (Javnaðarflokkurin) premiership 2022-onwards framework consolidation through 2023. Lagtinget (Faroese parliament) framework substantively significant institutional context. Faroese Ombudsman framework substantively significant institutional context. Substantively significant Nordic autonomous-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of the Faroe Islands + Højesteret — best-interests-of-the-child substantive register",
+      "description": "Court of the Faroe Islands and Danish Supreme Court (Højesteret) continue to develop best-interests-of-the-child jurisprudence under Faroese family-law statutes + Lov um børn og foreldur + Hague Convention 1980 framework in custody disputes within autonomous-territory framework. Substantive analysis without doctrinal 'parental alienation' label adoption — consistent with broader Nordic civil-law approach."
     }
   ],
   "structural_findings": [
@@ -102,8 +142,9 @@
     }
   ],
   "editorial_notes": [
-    "Faroe Islands jurisdiction sidecar — civil-law autonomous-territory Nordic (Home Rule Act 1948 + Takeover Act 2005 + bilingual Faroese-Danish + Hague Convention via Danish territorial extension 1991).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Nordic + civil-law + autonomous-territory cluster (with Greenland) + Hague-via-Danish-territorial-extension clusters within the corpus."
+    "Faroe Islands jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Treaty-of-Kiel-to-contemporary trajectory: 1814-Treaty-of-Kiel-+-Norway-Denmark-separation-+-Faroe-retention + 1940-British-occupation-+-WWII-+-autonomy-aspirations + 1946-Faroese-independence-referendum-+-Denmark-annulment + 1948-Home-Rule-Act-+-autonomous-territory + 1991-Hague-Convention-1980-territorial-extension-+-UNCRC-extension + 2001-Faroese-independence-referendum-cancellation + 2005-Takeover-Act-+-legislative-competence-expansion + 2010-Faroese-Constitution-drafting + 2017-Faroese-family-law-statutory-consolidation-+-Lov-um-børn-og-foreldur + 2024-Court-of-the-Faroe-Islands-+-Højesteret-best-interests-of-the-child.",
+    "Civil-law autonomous-territory Nordic (Home Rule Act 1948 + Takeover Act 2005 + bilingual Faroese-Danish + Hague Convention via Danish territorial extension 1991).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Faroese family-law statutes + Lov um børn og foreldur framework within autonomous-territory framework without doctrinal 'parental alienation' label.",
+    "Joins Nordic + civil-law + autonomous-territory-cluster (with Greenland) + Faroese-independence-referendum-1946-50.74-percent-annulled-distinctive + Faroese-independence-referendum-2001-cancellation-distinctive + Faroese-Constitution-drafting-ongoing-distinctive + Takeover-Act-2005-expanded-legislative-competence + Treaty-of-Kiel-1814-Denmark-retention + Hague-via-Danish-territorial-extension clusters within the corpus."
   ]
 }

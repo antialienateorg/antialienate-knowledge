@@ -74,34 +74,59 @@
   "anonymisation_convention": "Friuli-Venezia Giulia family-court decisions are anonymised per Italian court practice using initials.",
   "key_developments": [
     {
+      "year": 1797,
+      "title": "Treaty of Campo Formio + Venetian territories transfer",
+      "description": "Treaty of Campo Formio of 17 October 1797 ending War of the First Coalition — Napoleonic France ceded Venetian Republic territories (including Friuli) to Habsburg Austria — pivotal pre-modern foundation framework shaping subsequent Austrian-Italian-Yugoslav border dispute over Trieste-Friuli region."
+    },
+    {
+      "year": 1866,
+      "title": "Third Italian War of Independence + Friuli transfer",
+      "description": "Third Italian War of Independence — Treaty of Vienna of 3 October 1866 transferred Friuli (excluding Trieste-Gorizia) from Austria-Hungary to Kingdom of Italy. Pivotal Italian unification context shaping subsequent Italo-Austrian border framework — Trieste-Gorizia remained Austrian until 1918."
+    },
+    {
       "year": 1947,
       "title": "Free Territory of Trieste establishment",
-      "description": "Treaty of Peace with Italy of 10 February 1947 Annex VI-VII establishing Free Territory of Trieste (FTT) — beginning of post-WWII Italo-Yugoslav border-dispute resolution framework."
+      "description": "Treaty of Peace with Italy of 10 February 1947 Annex VI-VII establishing Free Territory of Trieste (FTT) — beginning of post-WWII Italo-Yugoslav border-dispute resolution framework + Zone A (Italian-administered including Trieste city) + Zone B (Yugoslav-administered including Istrian portion)."
     },
     {
       "year": 1954,
       "title": "London Memorandum of Understanding",
-      "description": "London Memorandum of Understanding of 5 October 1954 establishing provisional Italian/Yugoslav administration of Free Territory zones A and B."
+      "description": "London Memorandum of Understanding of 5 October 1954 establishing provisional Italian/Yugoslav administration of Free Territory zones A and B — pivotal Cold War context resolving Trieste-area sovereignty + Zone A returned to Italy + Zone B retained by Yugoslavia."
     },
     {
       "year": 1963,
       "title": "Statuto Speciale + last Italian autonomous region established",
-      "description": "Italian Constitutional Law 1/1963 of 31 January 1963 establishing the Friuli-Venezia Giulia autonomous-region framework — last Italian autonomous region established."
+      "description": "Italian Constitutional Law 1/1963 of 31 January 1963 establishing the Friuli-Venezia Giulia autonomous-region framework — last Italian autonomous region established (~15 years after first wave) — structurally distinctive globally only Italian autonomous region whose autonomy establishment was delayed due to international border-sovereignty resolution requirements."
     },
     {
       "year": 1975,
       "title": "Treaty of Osimo + Italo-Yugoslav border definitively established",
-      "description": "Treaty of Osimo of 10 November 1975 between Italy and Yugoslavia definitively establishing Italo-Yugoslav border — definitive resolution of Trieste-area sovereignty."
+      "description": "Treaty of Osimo of 10 November 1975 between Italy and Yugoslavia (now Slovenia and Croatia) definitively establishing Italo-Yugoslav border — definitive resolution of Trieste-area sovereignty + foundation for subsequent EU integration framework."
+    },
+    {
+      "year": 1991,
+      "title": "Slovenian independence + Italo-Slovene border continuity",
+      "description": "Slovenian independence 25 June 1991 from Yugoslavia — Friuli-Venezia Giulia becomes immediate Italian frontier with new Slovenian state — pivotal post-Cold-War context cementing Slovene-minority protection framework + foundation for subsequent 2001 Italian Slovene Minority Protection Law framework."
     },
     {
       "year": 1999,
       "title": "Italian Law 482/1999 (Linguistic Minorities Protection)",
-      "description": "Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities applicable in Friuli-Venezia Giulia."
+      "description": "Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities applicable in Friuli-Venezia Giulia — applies to Friulian + Slovene + German minorities + Schengen Agreement implementation framework intersection with linguistic-minority protection."
     },
     {
       "year": 2001,
       "title": "Italian Law 38/2001 (Slovene Minority Protection)",
-      "description": "Italian Law of 23 February 2001 establishing specific protection framework for the Slovene linguistic minority in Friuli-Venezia Giulia."
+      "description": "Italian Law of 23 February 2001 establishing specific protection framework for the Slovene linguistic minority in Friuli-Venezia Giulia — structurally distinctive globally most comprehensive specific Slovene-minority protection framework in EU. Pivotal post-Slovenian-independence context cementing cross-border Slovene-linguistic-minority framework."
+    },
+    {
+      "year": 2023,
+      "title": "Fedriga Lega Government + Consiglio-Regionale + Difensore-Civico + GO!2025 framework",
+      "description": "Massimiliano Fedriga (Lega) President framework continuing 2023-onwards following April 2023 regional elections with Consiglio Regionale del Friuli Venezia Giulia institutional positions addressing PA-related issues within Italian Codice Civile arts. 315-342-bis framework applied via Corte d'Appello di Trieste. Difensore Civico (Regional Ombudsperson) institutional positions affecting cross-border family-law adjudication. GO!2025 Nova Gorica-Gorizia European Capital of Culture cross-border framework substantively significant institutional context. Substantively significant Alpine-Adriatic Italian-autonomous-region institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing autonomous framework + Italo-Slovene-Croatian border continuity",
+      "description": "Continuing Friuli-Venezia Giulia autonomous framework 2024 — continuing four-province framework (Udine + Pordenone + Gorizia + Trieste) + continuing three-linguistic-minority constitutional framework (Friulian + Slovene + German) + Italy-Slovenia-Croatia all EU members within Schengen framework + continuing Trieste-area cross-border integration via European Cooperation Group on Territorial Cohesion framework + 61 years since Statuto Speciale 1963."
     }
   ],
   "structural_findings": [
@@ -137,7 +162,7 @@
     }
   ],
   "editorial_notes": [
-    "Friuli-Venezia Giulia jurisdiction sidecar — civil-law Alpine-Adriatic Italian autonomous region with three constitutionally-protected linguistic minorities (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Friuli-Venezia Giulia 1963 + Italian Law 482/1999 Linguistic Minorities Protection + Italian Law 38/2001 Slovene Minority Protection + Treaty of Osimo 1975 + 1947 Free Territory of Trieste framework + Italian Hague Convention 1980 accession 1985). Only Italian autonomous region with three constitutionally-protected linguistic minorities globally + last Italian autonomous region established (31 January 1963) + central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution + only Italian autonomous region whose autonomy establishment was delayed ~15 years due to international border-sovereignty resolution requirements.",
+    "Friuli-Venezia Giulia jurisdiction sidecar v1.1 — civil-law Alpine-Adriatic Italian autonomous region with three constitutionally-protected linguistic minorities (1797 Treaty of Campo Formio + 1866 Third Italian War of Independence Friuli transfer + 1947 Free Territory of Trieste + 1954 London Memorandum + 1963 Statuto Speciale + 1975 Treaty of Osimo + 1991 Slovenian independence + 1999 Italian Law 482/1999 + 2001 Italian Law 38/2001 Slovene Minority Protection + 2024 continuing autonomous framework with Italo-Slovene-Croatian Schengen border continuity). Only Italian autonomous region with three constitutionally-protected linguistic minorities globally + last Italian autonomous region established (31 January 1963) + central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution + only Italian autonomous region whose autonomy establishment was delayed ~15 years due to international border-sovereignty resolution requirements.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins Alpine-Adriatic + civil-law + Italian-autonomous-region cluster + three-constitutionally-protected-linguistic-minorities-globally-distinctive + last-Italian-autonomous-region-established-1963 + post-WWII-Italo-Yugoslav-border-dispute-resolution + 1947-Free-Territory-of-Trieste + 1954-London-Memorandum + 1975-Treaty-of-Osimo + four-province-framework-Udine-Pordenone-Gorizia-Trieste + Italian-Hague-1985-accession clusters within the corpus."
   ]

@@ -60,34 +60,59 @@
   "anonymisation_convention": "TAAF decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1772,
+      "title": "Kerguelen-Tremarec discovery + Kerguelen claim",
+      "description": "French naval officer Yves-Joseph de Kerguelen-Tremarec discovered Kerguelen Islands on 12 February 1772 — Western discovery + French claim foundation. Pre-modern foundation framework predating subsequent 19th-century French Sub-Antarctic claim consolidation."
+    },
+    {
       "year": 1840,
       "title": "Adélie Land discovery",
-      "description": "Jules Dumont d'Urville discovered Adélie Land in Antarctica on 19 January 1840 — named for his wife Adèle."
+      "description": "Jules Dumont d'Urville discovered Adélie Land in Antarctica on 19 January 1840 — named for his wife Adèle. Pivotal pre-modern foundation framework for subsequent 1924 French formal Adélie Land claim."
     },
     {
       "year": 1924,
       "title": "France formalises Adélie Land claim",
-      "description": "France formally claimed Adélie Land via decree of 27 March 1924."
+      "description": "France formally claimed Adélie Land via decree of 27 March 1924 — pivotal modern claim consolidation framework + foundation for subsequent 1959 Antarctic Treaty article IV claim-suspension framework. Adélie Land claim covers ~432,000 km² between 136°E and 142°E meridians."
+    },
+    {
+      "year": 1949,
+      "title": "Saint-Paul + Amsterdam Islands administrative integration",
+      "description": "French administrative integration of Saint-Paul and Amsterdam Islands 1949 following pre-WWII informal French administration — pivotal pre-TAAF consolidation framework for subsequent 1955 TAAF Statut framework."
     },
     {
       "year": 1955,
       "title": "Loi 55-1052 — TAAF Statut",
-      "description": "Federal Law of 6 August 1955 establishing TAAF as a French overseas territory with sui generis administrative status comprising five districts."
+      "description": "Federal Law of 6 August 1955 establishing TAAF as a French overseas territory (Territoire d'outre-mer / TOM) with sui generis administrative status comprising four districts (Adélie Land + Crozet + Kerguelen + Saint-Paul-Amsterdam) — pivotal modern foundation framework. Scattered Islands added as fifth district in 2007."
     },
     {
       "year": 1959,
       "title": "Antarctic Treaty signed",
-      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — TAAF Adélie Land claim suspended pending Treaty term."
+      "description": "Antarctic Treaty signed on 1 December 1959 in Washington (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — TAAF Adélie Land claim suspended pending Treaty term — France one of twelve original signatories. Article IV provides no acts during Treaty term constitute claim assertion or claim renunciation."
     },
     {
       "year": 1983,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by France to TAAF effective 1 December 1983."
+      "description": "Hague Convention on the Civil Aspects of International Child Abduction 1980 territorial extension by France to TAAF effective 1 December 1983 — applicability theoretical given absence of permanent civilian population."
+    },
+    {
+      "year": 2006,
+      "title": "TAAF Marine Nature Reserve established",
+      "description": "TAAF Marine Nature Reserve (Réserve naturelle nationale des Terres australes françaises) established 3 October 2006 by Decree 2006-1211 — one of largest marine protected areas in world at over 670,000 km² covering Crozet + Kerguelen + Saint-Paul-Amsterdam Sub-Antarctic waters."
     },
     {
       "year": 2007,
       "title": "Scattered Islands added to TAAF",
-      "description": "Scattered Islands (Îles Éparses) — Bassas da India, Europa, Glorioso, Juan de Nova, Tromelin — added as fifth district of TAAF by Loi 2007-224 of 21 February 2007."
+      "description": "Scattered Islands (Îles Éparses) — Bassas da India, Europa, Glorioso, Juan de Nova, Tromelin — added as fifth district of TAAF by Loi 2007-224 of 21 February 2007 — disputed sovereignty claims by Madagascar (Bassas da India, Europa, Juan de Nova, Glorioso) and Mauritius (Tromelin) cement TAAF as administratively-complex multi-district sui generis framework."
+    },
+    {
+      "year": 2023,
+      "title": "Préfet-Administrateur-Supérieur des TAAF + continuing-Saint-Pierre-Réunion-administration + IPEV-research framework",
+      "description": "Préfet-Administrateur Supérieur des TAAF framework continuing through 2023 with continuing TAAF administration from Saint-Pierre Réunion institutional positions addressing PA-related issues within French Civil Code arts. 371-387 framework theoretical given absence of permanent civilian population. Institut Polaire Français Paul-Émile Victor IPEV continuing research-station operational framework across five districts substantively significant institutional context. Continuing Madagascar UNGA-supported claim over Bassas da India + Europa + Juan de Nova + Glorioso + Mauritius claim over Tromelin substantively significant institutional context. Substantively significant Sub-Antarctic + Antarctic French-overseas-territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Continuing TAAF operational framework + Madagascar-Mauritius continuing disputes",
+      "description": "Continuing TAAF operational framework 2024 — five-district structure (Adélie Land + Crozet + Kerguelen + Saint-Paul-Amsterdam + Scattered Islands) + continuing Madagascar UNGA-supported claim over Bassas da India + Europa + Juan de Nova + Glorioso (UNGA Resolution 34/91 December 1979 + subsequent resolutions) + continuing Mauritius claim over Tromelin (Mauritius-France co-management framework declaration June 2010 unratified). Structurally distinctive globally only French overseas territory with two third-state-disputed-sovereignty district frameworks."
     }
   ],
   "structural_findings": [
@@ -128,7 +153,7 @@
     }
   ],
   "editorial_notes": [
-    "TAAF jurisdiction sidecar — civil-law Sub-Antarctic and Antarctic French overseas territory (French Civil Code + TAAF Statut 1955 + five-district sui generis administrative structure + Antarctic Treaty 1959 article IV claim suspension on Adélie Land + Scattered Islands disputed sovereignty + Hague via French Republic territorial extension 1983). Only civil-law Antarctic claim-jurisdiction globally + only French overseas territory with five distinct geographically-separated districts.",
+    "TAAF jurisdiction sidecar v1.1 — civil-law Sub-Antarctic and Antarctic French overseas territory (1772 Kerguelen-Tremarec discovery + 1840 Dumont d'Urville Adélie Land discovery + 1924 French formal Adélie Land claim + 1949 Saint-Paul-Amsterdam administrative integration + 1955 Loi 55-1052 TAAF Statut + 1959 Antarctic Treaty article IV claim suspension + 1983 Hague Convention territorial extension + 2006 TAAF Marine Nature Reserve + 2007 Scattered Islands fifth-district addition + 2024 continuing five-district structure with Madagascar-Mauritius continuing disputes). Only civil-law Antarctic claim-jurisdiction globally + only French overseas territory with five distinct geographically-separated districts + only French overseas territory with two third-state-disputed-sovereignty district frameworks.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator.",
     "Joins Sub-Antarctic + Antarctic + civil-law + French-overseas-territory cluster + civil-law-Antarctic-claim-jurisdiction-globally-distinctive + five-district-sui-generis-structure + Antarctic-Treaty-article-IV-claim-suspension + Scattered-Islands-disputed-sovereignty + Hague-via-French-Republic-territorial-extension clusters within the corpus."
   ]

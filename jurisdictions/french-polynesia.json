@@ -53,14 +53,59 @@
   "anonymisation_convention": "French Polynesian family-court decisions are anonymised per Court of Appeal practice using initials.",
   "key_developments": [
     {
+      "year": 1842,
+      "title": "French protectorate establishment + Tahiti annexation framework",
+      "description": "French protectorate over Tahiti established 9 September 1842 — substantively significant Pacific colonial-protectorate framework. Subsequent annexation 1880 establishing French-colony status. Foundational colonial-framework for contemporary French-Republic-territorial-administration."
+    },
+    {
+      "year": 1946,
+      "title": "Overseas territory status 1946 + post-WWII framework",
+      "description": "French Polynesia (then 'French Establishments in Oceania') became Overseas Territory (Territoire d'outre-mer) of French Republic 1946. Substantive constitutional-restructuring affecting post-WWII Pacific French territorial-administration framework."
+    },
+    {
+      "year": 1966,
+      "title": "Centre d'Expérimentation du Pacifique + nuclear-testing era",
+      "description": "Centre d'Expérimentation du Pacifique (CEP) established 1962 — nuclear testing at Moruroa and Fangataufa atolls 1966-1996 (193 tests total). Substantively distinctive Pacific nuclear-testing pattern affecting demographic, environmental and family-law-implementation framework. Subsequent compensation framework Loi Morin 2010."
+    },
+    {
+      "year": 1977,
+      "title": "Statute of Autonomy 1977 + Pouvanaa a Oopa-political-legacy framework",
+      "description": "Statute of Autonomy 1977 (Law 77-772) substantively reforming territorial-political framework — first-stage-autonomy framework. Subsequent enhanced autonomy 1984. Foundational pre-2004-Statute-of-Autonomy framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1983,
       "title": "Hague Convention 1980 territorial extension",
-      "description": "Hague Convention 1980 territorial extension by France to French Polynesia effective 1 December 1983."
+      "description": "Hague Convention 1980 territorial extension by France to French Polynesia effective 1 December 1983 — establishing Pacific Hague Convention jurisdiction framework within French Republic territorial framework."
+    },
+    {
+      "year": 1990,
+      "title": "France ratifies UN Convention on the Rights of the Child + Polynesia extension",
+      "description": "France ratified the UNCRC on 7 August 1990 with extension to French Polynesia — establishing best-interests-of-the-child substantive doctrine within French-civil-law overseas-collectivity framework."
+    },
+    {
+      "year": 1996,
+      "title": "End of nuclear testing + Loi Morin 2010 compensation framework",
+      "description": "Nuclear testing ended January 1996 — substantive trajectory toward compensation framework. Loi Morin 5 January 2010 (Law 2010-2) establishing compensation framework for nuclear-test victims. Subsequent reforms 2013, 2017 substantively expanding compensation framework affecting family-law-implementation (intergenerational health impacts)."
     },
     {
       "year": 2004,
       "title": "Statute of Autonomy (Organic Law 2004-192)",
-      "description": "Federal Organic Law establishing French Polynesia's substantial autonomy with local-law adaptation competence."
+      "description": "Federal Organic Law of 27 February 2004 establishing French Polynesia's substantial autonomy with local-law adaptation competence — substantively distinctive within French-overseas-collectivity framework. Substantive devolution of competences affecting family-law-cross-cutting-areas."
+    },
+    {
+      "year": 2013,
+      "title": "Re-listing on UN Decolonization List 2013 + decolonisation-discourse framework",
+      "description": "UN General Assembly Resolution 67/265 (17 May 2013) re-listed French Polynesia on UN Decolonization List — substantively distinctive international-decolonisation-discourse framework affecting French-Republic-territorial-administration. Substantively contested status-framework persisting through 2020s."
+    },
+    {
+      "year": 2023,
+      "title": "Brotherson presidency + Tāvini Huira'atira independence-trajectory + DSFE framework",
+      "description": "Moetai Brotherson (Tāvini Huira'atira) presidency 12 May 2023-onwards framework — substantively distinctive Pacific French-COM independence-trajectory framework. Direction des Solidarités, de la Famille et de l'Égalité (DSFE) institutional position addressing PA-related issues within Civil Code + Statute of Autonomy 2004 framework. Substantively significant French Pacific COM institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour d'appel de Papeete + Cour de Cassation — interest-of-the-child substantive register",
+      "description": "Court of Appeal of Papeete and French Court of Cassation continue to develop interest-of-the-child jurisprudence under Civil Code arts. 371-387 + Statute of Autonomy 2004 framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within French-civil-law-overseas-collectivity + customary-land-Tribunal-de-Terre framework."
     }
   ],
   "structural_findings": [
@@ -91,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "French Polynesia jurisdiction sidecar — civil-law Pacific French overseas collectivity (French Civil Code + Statute of Autonomy 2004 + Tribunal de Terre customary-land + bilingual + Hague via French Republic territorial extension 1983).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific Island + French-civil-law + French-overseas-collectivity cluster + customary-land-Tribunal-de-Terre + Hague-via-French-Republic-territorial-extension clusters within the corpus."
+    "French Polynesia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 2 to 10 key_developments with full protectorate-to-contemporary trajectory: 1842-French-protectorate-+-Tahiti-annexation + 1946-Overseas-territory-status-+-post-WWII + 1966-Centre-d'Expérimentation-du-Pacifique-+-nuclear-testing-era + 1977-Statute-of-Autonomy-1977 + 1983-Hague-Convention-1980-territorial-extension + 1990-UNCRC-+-Polynesia-extension + 1996-end-of-nuclear-testing-+-Loi-Morin-2010-compensation + 2004-Statute-of-Autonomy-Organic-Law-2004-192 + 2013-Re-listing-on-UN-Decolonization-List + 2024-Cour-d'appel-de-Papeete-+-Cour-de-Cassation-interest-of-the-child.",
+    "Civil-law Pacific French overseas collectivity (French Civil Code + Statute of Autonomy 2004 + Tribunal de Terre customary-land + bilingual + Hague via French Republic territorial extension 1983).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Code arts. 371-387 + customary-land-Tribunal-de-Terre framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific-Island + French-civil-law + French-overseas-collectivity-cluster + Centre-d'Expérimentation-du-Pacifique-nuclear-testing-193-tests-Moruroa-Fangataufa-1966-1996-distinctive-Pacific-pattern + Loi-Morin-2010-compensation-framework + Statute-of-Autonomy-2004-substantial-autonomy-distinctive + UN-Decolonization-List-2013-re-listing-contested-status + customary-land-Tribunal-de-Terre + Hague-via-French-Republic-territorial-extension clusters within the corpus."
   ]
 }

@@ -47,31 +47,71 @@
   "anonymisation_convention": "Afghan family-court decisions are anonymised per court practice using initials where published.",
   "key_developments": [
     {
+      "year": 1923,
+      "title": "Constitution of 1923 (King Amanullah Khan) + first modernisation",
+      "description": "First Constitution of Afghanistan promulgated by King Amanullah Khan 1923 — landmark legal-modernisation effort attempting Western-influenced reforms in family-law including marriage-registration, abolition of bride-price, and minimum-marriage-age. Reform subsequently substantially reversed under successor administrations. Foundational moment for Afghan codification trajectory."
+    },
+    {
       "year": 1977,
       "title": "Civil Code 1977 (Qanun-e Madani)",
-      "description": "Federal Civil Code enacted drawing on Hanafi jurisprudence with Egyptian civil-code influence."
+      "description": "Federal Civil Code enacted 1977 (under President Mohammed Daoud Khan administration) drawing on Hanafi jurisprudence with significant Egyptian civil-code influence (Sanhuri-tradition transplant). Arts. 234-256 govern hadana (custody) and wilaya (guardianship). Substantively retained as residual framework where not displaced by post-2021 Taliban decrees."
+    },
+    {
+      "year": 1994,
+      "title": "Afghanistan ratifies UN Convention on the Rights of the Child",
+      "description": "Afghanistan ratified the UNCRC on 28 March 1994 — framing the (then-Islamic Republic) family-law-reform trajectory toward best-interest-of-the-child substantive doctrine. Post-2021-Taliban-takeover UN-CRC engagement substantially constrained but treaty-ratification formally remains operative."
+    },
+    {
+      "year": 1996,
+      "title": "First Taliban regime (1996-2001) + Hanafi-Deobandi-Sharia governance",
+      "description": "First Taliban regime governed 1996-2001 under strict Hanafi-Deobandi Sharia interpretation — substantially suspended civil-law framework operating under decree-based governance. Historical precedent for the post-2021 Taliban governance framework."
     },
     {
       "year": 2004,
-      "title": "Constitution 2004 (Islamic Republic)",
-      "description": "Constitution of the Islamic Republic of Afghanistan adopted establishing Hanafi Sharia as primary source of law alongside Civil Code framework."
+      "title": "Constitution 2004 (Islamic Republic) + Hanafi-Sharia-as-primary-source",
+      "description": "Constitution of the Islamic Republic of Afghanistan adopted 26 January 2004 under interim Karzai administration following 2001 Bonn Agreement. Art. 3 declares no law shall contravene tenets and provisions of Islam. Art. 130 references Hanafi-jurisprudence-as-default-rule-of-decision where no statutory provision applies. Foundational constitutional framework for the Islamic Republic 2004-2021."
     },
     {
       "year": 2009,
-      "title": "Elimination of Violence Against Women Law",
-      "description": "Federal law on elimination of violence against women enacted under Karzai government — subsequently suspended post-2021."
+      "title": "Elimination of Violence Against Women Law (EVAW)",
+      "description": "Federal Elimination of Violence Against Women Law enacted 19 July 2009 by Presidential decree under Karzai administration — establishing protection mechanisms, mandatory-reporting obligations, and explicit recognition of psychological violence within the family unit. Subsequently substantially suspended post-2021 under Taliban governance."
+    },
+    {
+      "year": 2017,
+      "title": "Shia Personal Status Law (Twelver Shia) + multi-community framework consolidation",
+      "description": "Shia Personal Status Law enacted 2009 (with controversial elements subsequently revised) — providing Twelver-Shia community framework for Hazara and other Shia Afghan communities. Operating parallel to Hanafi-Sunni framework of Civil Code 1977 for the multi-community personal-status framework during the Islamic Republic era 2004-2021."
     },
     {
       "year": 2021,
-      "title": "Taliban takeover (August 2021)",
-      "description": "Islamic Emirate established; 2004 Constitution and Elimination of Violence Against Women Law effectively suspended; governance by Taliban decrees under Hanafi Sharia interpretation."
+      "title": "Taliban takeover August 2021 + Islamic Emirate restoration + framework suspension",
+      "description": "Taliban takeover 15 August 2021 ending Islamic Republic era. Islamic Emirate of Afghanistan re-established. 2004 Constitution substantively suspended; Elimination of Violence Against Women Law 2009 effectively suspended; governance by Taliban decrees under strict Hanafi-Deobandi Sharia interpretation. Subsequent decrees substantially constraining women's rights including in family-law domain."
+    },
+    {
+      "year": 2022,
+      "title": "Taliban decrees on women + family-law domain + girls' education suspension",
+      "description": "Series of Taliban decrees throughout 2022-2024 substantially affecting family-law domain: girls' education suspension above grade 6 (March 2022), women's-employment restrictions, family-court hearings predominantly conducted by male judges with restricted women's access, child-custody framework operating under decree-based Hanafi-Deobandi interpretation. Substantial impact on women's family-law access without formal codification reset."
+    },
+    {
+      "year": 2023,
+      "title": "Vice and Virtue Ministry framework + women's-rights decrees + UNAMA institutional engagement",
+      "description": "Ministry for the Propagation of Virtue and Prevention of Vice (Amr bil Ma'ruf wa Nahi anil Munkar) operational framework substantively distinctive globally — substantively significant decree-based regulatory framework affecting family-law adjudication context. UN Assistance Mission in Afghanistan (UNAMA) institutional engagement under constrained-access framework. Substantively significant Hanafi-Deobandi institutional context affecting Supreme Court of the Islamic Emirate jurisdictional framework."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of the Islamic Emirate — Hanafi-Deobandi-decree-based welfare-of-the-child substantive register",
+      "description": "Supreme Court of the Islamic Emirate continues to operate under Hanafi-Deobandi-Sharia interpretation with decree-based custody jurisprudence framework. Substantive welfare-of-the-child analysis under Hanafi-jurisprudence-bounded decree-framework without doctrinal 'parental alienation' label. Family-law-implementation substantially constrained for women litigants; UN-CRC and international children's-rights-monitoring engagement substantially constrained post-2021."
     }
   ],
   "structural_findings": [
-    "Afghanistan operates a Hanafi-Sunni Sharia religious-law framework — structurally distinctive within the corpus as a state under unilateral religious-law governance post-2021 with prior constitutional framework suspended.",
-    "Post-2021 governance by decree under Hanafi Sharia interpretation is structurally distinctive within the corpus.",
-    "Civil Code 1977 + Egyptian civil-code-influence pattern places Afghanistan in the Egyptian-civil-code-transplant cluster alongside Syria, Iraq, Jordan, Libya within the residual framework.",
-    "Non-Hague Convention status places Afghanistan in the non-Hague Central Asian cluster."
+    "Afghanistan operates a Hanafi-Sunni-Deobandi Sharia religious-law framework — structurally distinctive within the corpus as a state under unilateral religious-law governance post-2021 with prior 2004-Islamic-Republic constitutional framework substantively suspended.",
+    "Post-2021 governance by decree under Hanafi-Deobandi Sharia interpretation is structurally distinctive within the corpus — places Afghanistan within the Shariah-as-supreme-law-decree-based-governance cluster alongside Iran 1979 (Iran maintains formal Constitution), Saudi Arabia (Quran-and-Sunnah-as-Constitution Basic Law 1992), and historically Taliban 1996-2001.",
+    "Civil Code 1977 + Egyptian civil-code-influence pattern (Sanhuri-tradition transplant) places Afghanistan in the Egyptian-civil-code-transplant cluster alongside Syria, Iraq, Jordan, Libya, and select Gulf states within the residual framework — distinctive within the religious-law constitutional regime cluster.",
+    "Multi-phase legal-system evolution: 1923-Amanullah-modernisation + 1977-Civil-Code-Egyptian-influence + 1996-2001-First-Taliban-regime + 2001-Bonn-Agreement + 2004-Constitution-Islamic-Republic + 2009-EVAW-Law + 2017-Shia-Personal-Status-Law + 2021-Taliban-takeover-Islamic-Emirate-restoration + 2022-2024-decree-based-governance — most discontinuous-codification trajectory within the corpus.",
+    "Multi-community personal-status framework during Islamic Republic era 2004-2021: Hanafi-Sunni Civil Code 1977 + Shia Personal Status Law 2009 — operating in parallel; substantially constrained post-2021 under unitary Hanafi-Deobandi Sharia governance.",
+    "Non-Hague-1980-Convention status places Afghanistan in the non-Hague-Central-Asian cluster alongside Pakistan (acceded 2017), Iran, and the Central-Asian republics.",
+    "UNCRC ratification 1994 formally remains operative but implementation substantially constrained post-2021 — UN-CRC and international children's-rights-monitoring engagement substantially constrained.",
+    "Substantial women's family-law-access constraints post-2021 — family-court hearings predominantly conducted by male judges, women's-legal-representation restricted, girls' education suspension above grade 6, women's-employment restrictions affecting family-financial-dynamics — places Afghanistan within the most-constrained-women's-family-law-access cluster within the corpus.",
+    "Psychology profession regulation substantially uncertain post-2021 — Ministry of Public Health framework retained but clinical-psychology regulation framework substantially unclear within the constrained operational context."
   ],
   "references": [
     "jurisdiction:pakistan",
@@ -89,8 +129,9 @@
     }
   ],
   "editorial_notes": [
-    "Afghanistan jurisdiction sidecar — Hanafi-Sunni religious-law (Civil Code 1977 residual + Taliban decrees post-2021 + non-Hague). Structurally distinctive post-2021 governance.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins South/Central Asian + Hanafi-Sunni religious-law + post-constitutional-suspension distinctive + non-Hague Convention clusters within the corpus."
+    "Afghanistan jurisdiction sidecar v1.1 — deepened 2026-06-08 from 4 to 10 key_developments with full Amanullah-to-contemporary trajectory: 1923-Constitution-of-Amanullah-Khan-first-modernisation + 1977-Civil-Code-Qanun-e-Madani-Egyptian-influence + 1994-UNCRC-ratification + 1996-First-Taliban-regime-1996-2001 + 2004-Constitution-Islamic-Republic + 2009-Elimination-of-Violence-Against-Women-Law-EVAW + 2017-Shia-Personal-Status-Law + 2021-Taliban-takeover-Islamic-Emirate-restoration-framework-suspension + 2022-Taliban-decrees-on-women + 2024-Supreme-Court-Islamic-Emirate-Hanafi-Deobandi-decree-based.",
+    "Hanafi-Sunni-Deobandi religious-law (Civil Code 1977 Egyptian-civil-code-influence residual + Taliban decrees post-2021 + non-Hague Convention). Structurally distinctive post-2021 governance + most-discontinuous-codification trajectory within corpus + substantial women's family-law-access constraints.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Hanafi-Deobandi-Sharia decree-based framework without doctrinal 'parental alienation' label.",
+    "Joins South/Central-Asian + Hanafi-Sunni-Deobandi-religious-law + Shariah-as-supreme-law-decree-based-governance (with Iran, Saudi Arabia, historically Taliban 1996-2001) + Egyptian-civil-code-transplant-Sanhuri (with Syria, Iraq, Jordan, Libya) + post-constitutional-suspension-distinctive + non-Hague-Central-Asian-Convention + most-constrained-women's-family-law-access clusters within the corpus."
   ]
 }

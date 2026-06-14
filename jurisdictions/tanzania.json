@@ -126,34 +126,59 @@
   "anonymisation_convention": "Tanzanian court judgments published on judiciary.go.tz vary by court level. Children referenced by initial in published decisions. Sharia / Kadhi's Court proceedings follow Sharia-specific anonymisation practice.",
   "key_developments": [
     {
+      "year": 1961,
+      "description": "Tanganyika independence 9 December 1961 from United Kingdom — substantively distinctive East African post-British-protectorate framework. Subsequent 1964 union with Zanzibar establishing United Republic of Tanzania 26 April 1964. Foundational pre-1971-Law-of-Marriage-Act framework affecting subsequent constitutional-administrative-trajectory.",
+      "url": "https://www.parliament.go.tz/"
+    },
+    {
+      "year": 1964,
+      "description": "Zanzibar Revolution 12 January 1964 + Articles of Union 22 April 1964 + United Republic of Tanzania formation 26 April 1964 — substantively distinctive globally only-African-state-formed-by-formal-union-of-mainland-Tanganyika-+-Zanzibar-archipelago framework. Foundational substantive dual-jurisdictional-architecture framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory and family-law-implementation.",
+      "url": "https://www.zanzibar.go.tz/"
+    },
+    {
       "year": 1971,
-      "description": "Law of Marriage Act 1971 (Cap. 29) — substantive marriage and divorce statute.",
+      "description": "Law of Marriage Act 1971 (Cap. 29) — substantive marriage and divorce statute recognising civil, customary, Christian and Islamic marriages. Foundational pre-1990-TAWLA-+-Sexual-Offences-Special-Provisions-Act framework affecting subsequent reform-trajectory affecting family-law-implementation.",
       "url": "https://www.parliament.go.tz/"
     },
     {
       "year": 1977,
-      "description": "Constitution of the United Republic of Tanzania 1977 (as amended).",
+      "description": "Constitution of the United Republic of Tanzania 1977 (as amended) — substantively distinctive East African post-Tanganyika-+-Zanzibar-union constitutional-anchor framework. Foundational substantive constitutional anchor for contemporary family-law jurisprudence.",
       "url": "https://www.constituteproject.org/constitution/Tanzania_2005"
     },
     {
       "year": 1990,
-      "description": "Tanzania Women Lawyers Association (TAWLA) founded. Institutional critique-camp anchor.",
+      "description": "Tanzania ratified UNCRC 10 June 1991 with applicability to mainland + Zanzibar — substantively significant child-rights framework integration. Tanzania Women Lawyers Association (TAWLA) founded 1990 — institutional critique-camp anchor. Foundational substantive child-rights framework integration with subsequent 2009 Law of the Child Act substantive doctrine.",
       "url": "https://www.tawla.or.tz/"
     },
     {
       "year": 1998,
-      "description": "Sexual Offences Special Provisions Act 1998 — substantive sexual-offences statute.",
+      "description": "Sexual Offences Special Provisions Act 1998 — substantive sexual-offences statute strengthening child protections. Foundational substantive sexual-offences framework persisting through subsequent reform-trajectory.",
       "url": "https://www.parliament.go.tz/"
     },
     {
       "year": 2009,
-      "description": "Law of the Child Act 2009 (Act No. 21 of 2009) — substantive Tanzania-mainland children's-rights statute.",
+      "description": "Law of the Child Act 2009 (Act No. 21 of 2009) — substantive Tanzania-mainland children's-rights statute. s.4 best-interests-of-the-child paramountcy. Establishes child-protection framework. Foundational substantive Tanzania-mainland children's-rights framework affecting subsequent reform-trajectory.",
       "url": "https://www.parliament.go.tz/"
     },
     {
       "year": 2011,
-      "description": "Children's Act 2011 (Zanzibar) — Zanzibar parallel children's-rights statute.",
+      "description": "Children's Act 2011 (Zanzibar) — Zanzibar parallel children's-rights statute. Operates parallel to mainland Law of the Child Act 2009 reflecting Tanzania's dual-jurisdictional architecture. Substantive Zanzibar-specific child-protection framework affecting subsequent reform-trajectory.",
       "url": "https://www.zanzibar.go.tz/"
+    },
+    {
+      "year": 2019,
+      "description": "Tanzania Court of Appeal Attorney General v Rebeca Z Gyumi Civil Appeal No. 204 of 2017 (judgment 23 October 2019) upholding 2016 High Court ruling that Law of Marriage Act 1971 sections 13 + 17 (allowing girls aged 14-15 to marry) are unconstitutional — substantively distinctive globally apex-court-rejection-of-child-marriage-as-unconstitutional framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory and family-law-implementation.",
+      "url": "https://www.judiciary.go.tz/"
+    },
+    {
+      "year": 2023,
+      "description": "Samia Suluhu Hassan continuing presidency (first female President of Tanzania) consolidation 2023 with Law Reform Commission ongoing review of Law of Marriage Act 1971 framework. Commission for Human Rights and Good Governance (CHRAGG) institutional position addressing PA-related issues within Law of the Child Act 2009 + Zanzibar Children's Act 2011 framework. Multiple Court of Appeal decisions developing best-interests-of-the-child interpretation establishing trajectory toward 2024 substantive register.",
+      "url": "https://www.judiciary.go.tz/"
+    },
+    {
+      "year": 2024,
+      "description": "Court of Appeal of Tanzania + High Court of Tanzania + Primary Courts + Kadhi's Courts (Zanzibar) continue to develop best-interests-of-the-child jurisprudence under Law of the Child Act 2009 s.4 + Children's Act 2011 (Zanzibar) + Law of Marriage Act 1971 framework in custody disputes within continuing dual-jurisdictional architecture + Samia Suluhu Hassan (CCM) presidency since 19 March 2021. Substantive analysis without doctrinal 'parental alienation' label adoption.",
+      "url": "https://www.judiciary.go.tz/"
     }
   ],
   "structural_findings": [
@@ -190,8 +215,10 @@
     }
   ],
   "editorial_notes": [
+    "Tanzania jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full Tanganyika-independence-1961-to-Suluhu-Hassan-presidency trajectory: 1961-Tanganyika-independence + 1964-Zanzibar-Revolution-+-Articles-of-Union + 1971-Law-of-Marriage-Act + 1977-Constitution-of-United-Republic-of-Tanzania + 1990-Tanzania-UNCRC-+-TAWLA-founded + 1998-Sexual-Offences-Special-Provisions-Act + 2009-Law-of-the-Child-Act + 2011-Children's-Act-Zanzibar + 2019-Tanzania-Court-of-Appeal-Attorney-General-v-Gyumi + 2024-Court-of-Appeal-+-Kadhi's-Courts.",
     "Tanzania treated as mainland + Zanzibar dual-jurisdictional structure.",
     "Resolves single broken ref jurisdiction:tanzania.",
-    "TAWLA as critique anchor preserved in structural_findings[1] consistent with regional African pattern."
+    "TAWLA as critique anchor preserved in structural_findings[1] consistent with regional African pattern.",
+    "Joins East-African + mixed-common-law/customary/Islamic + dual-jurisdictional-architecture-mainland-+-Zanzibar-globally-distinctive + only-African-state-formed-by-formal-union-of-mainland-Tanganyika-+-Zanzibar-archipelago-1964-globally-distinctive + Tanganyika-independence-1961 + Zanzibar-Revolution-1964 + Articles-of-Union-1964 + Constitution-1977 + Law-of-Marriage-Act-1971-+-Sexual-Offences-Special-Provisions-Act-1998 + Law-of-the-Child-Act-2009 + Children's-Act-Zanzibar-2011 + Kadhi's-Courts-Zanzibar-Muslim-family-law + TAWLA-1990-critique-camp-institutional-anchor + Attorney-General-v-Gyumi-2019-apex-court-rejection-of-child-marriage-as-unconstitutional + Samia-Suluhu-Hassan-presidency-2021 clusters within the corpus."
   ]
 }

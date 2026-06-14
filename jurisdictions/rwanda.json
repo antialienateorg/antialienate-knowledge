@@ -47,14 +47,59 @@
   "anonymisation_convention": "Rwandan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1962,
+      "title": "Rwanda independence + Belgian civil-law substrate retention",
+      "description": "Rwanda achieved independence 1 July 1962 from Belgian colonial administration (UN trusteeship from 1946 succeeding Belgian colonial period from 1916/1924). Pre-1962 Belgian civil-law framework (Code Napoléon tradition via Belgian Civil Code) substantively retained as substrate for post-independence codification trajectory. Hutu-Tutsi political tensions established framework that would later result in 1994 genocide."
+    },
+    {
+      "year": 1991,
+      "title": "Rwanda ratifies UN Convention on the Rights of the Child",
+      "description": "Rwanda ratified the UNCRC on 24 January 1991 — framing the family-law-reform trajectory toward best-interests-of-the-child substantive doctrine."
+    },
+    {
+      "year": 1994,
+      "title": "Rwandan Genocide + Tutsi-against-Hutu mass violence + RPF takeover",
+      "description": "Rwandan Genocide 7 April – 15 July 1994 — approximately 800,000-1,000,000 Tutsi and moderate-Hutu killed in 100 days. Substantively distinctive within post-Holocaust mass-violence framework. Rwandan Patriotic Front (RPF, Tutsi) under Paul Kagame took power ending genocide. Foundational political-institutional event reshaping Rwandan legal-administrative framework and substantively affecting family-law context (orphans, surviving spouses, property)."
+    },
+    {
+      "year": 2003,
+      "title": "Constitution of the Republic of Rwanda 2003 + post-genocide framework",
+      "description": "Constitution of the Republic of Rwanda adopted by referendum 26 May 2003 (substantially amended 2015) — establishing presidential republic framework. Constitution codifies family-protection-clauses, gender-equality with quota provisions, child-protection, and prohibition of genocide-denial/divisionism. Paul Kagame elected President same year."
+    },
+    {
       "year": 2008,
-      "title": "East African Community accession",
-      "description": "Rwanda acceded to East African Community, triggering substantial common-law procedural transition."
+      "title": "East African Community accession + common-law procedural transition",
+      "description": "Rwanda acceded to East African Community 1 July 2007 (effective 2008), triggering substantial legal-system procedural transition toward common-law influences while retaining Belgian civil-law substantive substrate. Substantive constitutional-legal-system pivot toward English-language framework and common-law procedural influences. Among the most distinctive mid-life legal-system transitions globally."
+    },
+    {
+      "year": 2014,
+      "title": "Anti-Gender-Based Violence Law + comprehensive DV framework",
+      "description": "Law on Prevention and Punishment of Gender-Based Violence Law 59/2008 enacted with subsequent amendments through 2014+ — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. Among the more substantial African DV-prevention statutes."
     },
     {
       "year": 2016,
-      "title": "Law N°32/2016 Persons and Family Law",
-      "description": "Federal Persons and Family Law enacted codifying marriage, parental authority and child custody."
+      "title": "Law N°32/2016 Persons and Family Law + Law N°27/2016 Matrimonial Regimes",
+      "description": "Federal Persons and Family Law enacted N°32/2016 of 28 August 2016 codifying marriage, parental authority and child custody. Arts. 207-235 govern parental authority. Federal Matrimonial Regimes Law N°27/2016 enacted concurrently — substantially modernising family-law within mixed-legal-system framework. Currently operative framework."
+    },
+    {
+      "year": 2019,
+      "title": "Commonwealth of Nations membership + Anglophone-orientation",
+      "description": "Rwanda joined the Commonwealth of Nations 29 November 2009 — substantively distinctive as one of only two members without British colonial heritage (alongside Mozambique). Substantive Anglophone-orientation pivot affecting subsequent EU/English-language legal-system harmonisation."
+    },
+    {
+      "year": 2021,
+      "title": "Gacaca courts legacy + transitional-justice framework consolidation",
+      "description": "Gacaca courts (community courts) operated 2001-2012 processing post-genocide cases — over 1.2 million cases processed. Transitional-justice framework substantively reshaped Rwandan legal-administrative architecture with implications for family-law (orphan inheritance, surviving-spouse rights). Subsequent consolidation of transitional-justice legacy continues affecting contemporary family-law operational context."
+    },
+    {
+      "year": 2023,
+      "title": "30th anniversary genocide framework + NCC + RGB institutional consolidation",
+      "description": "Kwibuka 30 (30th anniversary of 1994 genocide against the Tutsi) commemorations 2023-2024 substantively distinctive framework for transitional-justice institutional consolidation. National Council for Children (NCC) and Rwanda Governance Board (RGB) institutional positions addressing PA-related issues within Persons and Family Law + Anti-GBV Law framework. Substantively significant East African institutional jurisprudential development establishing trajectory toward 2024 Supreme Court substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court — welfare-of-the-child substantive register",
+      "description": "Supreme Court of Rwanda (Urukiko rw'Ikirenga) continues to develop welfare-of-the-child jurisprudence under Persons and Family Law arts. 207-235 + Constitution + Anti-GBV Law framework in custody disputes without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis within Belgian-civil-law-substantive + common-law-procedural-transition framework operating post-genocide-recovery context."
     }
   ],
   "structural_findings": [
@@ -84,8 +129,9 @@
     }
   ],
   "editorial_notes": [
-    "Rwanda jurisdiction sidecar — mixed-legal-system framework (Belgian civil-law substantive + post-2008 common-law procedural transition). Persons and Family Law N°32/2016 + Matrimonial Regimes Law N°27/2016 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins East/Central African + mixed-legal-system + EAC-transition + non-Hague Convention clusters within the corpus."
+    "Rwanda jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full independence-to-contemporary trajectory: 1962-Rwanda-independence-+-Belgian-civil-law-substrate + 1991-UNCRC-ratification + 1994-Rwandan-Genocide-+-RPF-takeover + 2003-Constitution-+-post-genocide-framework + 2008-East-African-Community-accession + 2009-Commonwealth-of-Nations-membership + 2014-Anti-Gender-Based-Violence-Law + 2016-Law-N-32-2016-Persons-and-Family-Law-+-Law-N-27-2016-Matrimonial-Regimes + 2021-Gacaca-courts-legacy-+-transitional-justice + 2024-Supreme-Court-welfare-of-the-child.",
+    "Mixed-legal-system framework (Belgian civil-law substantive + post-2008 common-law procedural transition + post-2009 Commonwealth Anglophone-orientation). Persons and Family Law N°32/2016 + Matrimonial Regimes Law N°27/2016 + Constitution 2003 + Anti-GBV Law 2008 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Persons and Family Law arts. 207-235 framework without doctrinal 'parental alienation' label.",
+    "Joins East/Central-African + mixed-legal-system + Belgian-civil-law-substrate + EAC-transition-common-law-procedural + Commonwealth-membership-without-British-colonial-heritage (with Mozambique) + trilingual-Kinyarwanda-French-English + post-1994-genocide-recovery-transitional-justice-Gacaca + non-Hague-Convention + Kagame-presidency-long-tenure clusters within the corpus."
   ]
 }

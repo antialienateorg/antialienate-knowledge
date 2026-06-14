@@ -66,28 +66,63 @@
   "key_developments": [
     {
       "year": 1930,
-      "title": "Civil Code Book IV enacted",
-      "description": "Federal civil code Book IV on Family enacted."
+      "title": "Civil Code Book IV (Family) enacted",
+      "description": "Republic of China Civil Code Book IV on Family promulgated 26 December 1930, effective 5 May 1931 — German-Japanese civil-law tradition with continental-style codified family-law provisions on marriage, parental rights, adoption, guardianship, and inheritance."
+    },
+    {
+      "year": 1985,
+      "title": "Civil Code Family Revision — gender-equality first wave",
+      "description": "First major post-war Family revision of Civil Code Book IV enacted 3 June 1985 introducing gender-equality reforms in marital-property and parental-authority provisions while retaining father-priority custody presumption — preparing the ground for the 1996 substantive reform."
+    },
+    {
+      "year": 1996,
+      "title": "Civil Code Family Revision — father-priority replaced with best-interest-of-the-child",
+      "description": "Major Civil Code Family revision enacted 25 September 1996 replacing the father-priority custody presumption with the best-interest-of-the-child standard in art. 1055 — the foundational substantive reform anchoring Taiwan's contemporary best-interest jurisprudence and enabling the later 2013 friendly-parent codification."
     },
     {
       "year": 2001,
-      "title": "Psychologists Act",
-      "description": "Federal statute regulating psychology profession enacted."
+      "title": "Psychologists Act (心理師法)",
+      "description": "Federal Psychologists Act enacted 9 November 2001 establishing the Counselling Psychologist and Clinical Psychologist licensing framework under the Ministry of Health and Welfare — federal-statutory psychology regulation with disciplinary authority."
+    },
+    {
+      "year": 2003,
+      "title": "Family Education Act (家庭教育法)",
+      "description": "Federal Family Education Act enacted 2003 mandating family-education resources, parent-education programs, and family-counselling services — providing the educational-administrative infrastructure parallel to the Family Court system."
     },
     {
       "year": 2012,
-      "title": "Family Act establishing Family Courts",
-      "description": "Federal procedural statute establishing specialised Family Courts with integrated psychological assessment and mediation."
+      "title": "Family Act (家事事件法) establishing Family Courts",
+      "description": "Federal procedural statute enacted 11 January 2012, effective 1 June 2012, establishing specialised Family Courts (家事法庭) with integrated psychological assessment, family-investigation officers (家事調查官), and court-attached mediation — bringing Taiwan into the East Asian specialised-Family-Court cluster alongside Japan and Korea."
     },
     {
       "year": 2013,
       "title": "Civil Code art. 1055-1 friendly-parent codification",
-      "description": "Friendly-parent doctrine codified in art. 1055-1 — among the earliest statutory friendly-parent provisions globally."
+      "description": "Friendly-parent doctrine (善意父母原則) codified in Civil Code art. 1055-1 by amendment 8 May 2013 — among the earliest statutory friendly-parent provisions globally, providing courts an explicit doctrinal basis to consider each parent's willingness to facilitate the child's relationship with the other parent within the best-interest-of-the-child analysis."
+    },
+    {
+      "year": 2019,
+      "title": "Family Violence Prevention Act revision",
+      "description": "Domestic Violence Prevention Act (家庭暴力防治法, originally 1998) substantively revised 2019 expanding protection-order scope, strengthening child-protection mechanisms, and explicit recognition of psychological violence within the family unit — operating parallel to the Family Court custody framework."
+    },
+    {
+      "year": 2019,
+      "title": "Act for Implementation of J.Y. Interpretation No. 748 — first Asian same-sex marriage legalization framework",
+      "description": "Act for Implementation of J.Y. Interpretation No. 748 (司法院釋字第七四八號解釋施行法) enacted 22 May 2019 + effective 24 May 2019 — substantively distinctive globally first Asian state to legalize same-sex marriage framework. Substantive same-sex marriage framework following J.Y. Interpretation No. 748 24 May 2017 declaring Civil Code marriage provisions unconstitutional for restricting same-sex marriage + foundation for subsequent same-sex parental rights + adoption framework + 2023 J.Y. Interpretation No. 748 Implementation Act amendments allowing same-sex couples joint adoption framework. Foundation for Taiwan PA-jurisprudence in same-sex-parent custody disputes."
     },
     {
       "year": 2022,
-      "title": "Constitutional Court restructure",
-      "description": "Council of Grand Justices restructured as Constitutional Court (憲法法庭)."
+      "title": "Constitutional Court restructure (憲法法庭)",
+      "description": "Council of Grand Justices restructured as Constitutional Court (憲法法庭) under the Constitutional Court Procedure Act effective 4 January 2022, modernising constitutional adjudication procedure with adversarial-style hearings and judicial-review framework."
+    },
+    {
+      "year": 2023,
+      "title": "Family Education Act revision + Family Court mediation framework",
+      "description": "Family Education Act (家庭教育法) revisions 2022-2023 + Family Act (家事事件法) Family Court mediation framework refinement strengthening pre-court family-mediation procedures under specialised Family Court structure established 2012. Substantively significant procedural-reform framework — operationally affecting subsequent Family Court adjudication of friendly-parent doctrine cases under Civil Code art. 1055-1. Establishes trajectory toward 2024 Supreme Court friendly-parent jurisprudence consolidation."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court / Family Court — friendly-parent jurisprudence consolidation",
+      "description": "Supreme Court and Family Courts continue to develop friendly-parent jurisprudence under Civil Code art. 1055-1 in custody disputes, addressing one-parent obstruction of the other-parent relationship within the codified statutory framework — Taiwan retains the substantive friendly-parent doctrine without adopting the 'parental alienation' label as a distinct doctrinal term."
     }
   ],
   "structural_findings": [
@@ -132,8 +167,9 @@
     }
   ],
   "editorial_notes": [
-    "Taiwan jurisdiction sidecar — civil-law framework. Civil Code Book IV + Family Act 2012 + 2013 friendly-parent codification + Psychologists Act 2001 + non-Hague (UN-status constraint).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator; substantive friendly-parent doctrine codified independently of PA framing.",
-    "Joins East Asian + civil-law + friendly-parent-statutory + federal-psychology-regulator clusters within the corpus."
+    "Taiwan jurisdiction sidecar v1.1 — deepened 2026-06-08 from 5 to 10 key_developments with full Civil-Code-Family-revision timeline: 1930-enactment + 1985-gender-equality-first-wave + 1996-father-priority-replaced-with-best-interest + 2001-Psychologists-Act + 2003-Family-Education-Act + 2012-Family-Act-Family-Courts + 2013-friendly-parent-codification + 2019-DV-Act-revision + 2022-Constitutional-Court-restructure + 2024-friendly-parent-jurisprudence-consolidation.",
+    "Civil-law framework with German-Japanese codified tradition + Civil Code Book IV (1930) + 1996-best-interest-substantive-reform + 2013-friendly-parent-statutory-codification + Family Act 2012 + Psychologists Act 2001 + non-Hague (UN-status constraint, not policy choice).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator; substantive friendly-parent doctrine codified independently of PA framing — Taiwan among the earliest jurisdictions globally to codify the friendly-parent doctrine statutorily.",
+    "Joins East-Asian + civil-law + German-Japanese-civil-tradition + friendly-parent-statutory-codification + East-Asian-specialised-Family-Court + federal-psychology-regulator clusters within the corpus."
   ]
 }

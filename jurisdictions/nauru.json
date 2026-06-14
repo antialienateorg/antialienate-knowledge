@@ -67,34 +67,59 @@
   "anonymisation_convention": "Nauruan family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1888,
+      "title": "German Protectorate + Marshall-Islands-Protectorate-extension framework",
+      "description": "German annexation of Nauru 16 April 1888 as part of Marshall Islands Protectorate — substantively distinctive Pacific German-colonial framework. Subsequent Australian/Japanese WWI/WWII administration affecting subsequent constitutional-administrative-trajectory. Foundational pre-1947-UN-Trust-Territory framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1947,
+      "title": "UN-Trust-Territory + Australia-New-Zealand-UK-joint-administration framework",
+      "description": "UN Trust Territory of Nauru established 1 November 1947 under Australia-New-Zealand-UK joint administration — substantively distinctive Pacific UN-Trust-Territory-tripartite-administration framework. Foundational substantive 21-year UN-Trust-Territory framework persisting through 1968 independence affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1968,
-      "title": "Independence",
-      "description": "Nauru achieved independence from the UN Trust Territory administration (Australia, New Zealand, UK) on 31 January 1968."
+      "title": "Independence + Constitution-of-Nauru-+-republic-establishment framework",
+      "description": "Nauru achieved independence from the UN Trust Territory administration 31 January 1968 + Constitution of Nauru establishing republic constitutional framework — substantively distinctive globally world's-smallest-UN-member-state-by-land-area-21km2 framework. Foundational substantive 58-year Nauruan-republic framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1973,
+      "title": "Family Court Act 1973 + Custody-of-Children-Act framework",
+      "description": "Nauruan Family Court Act 1973 + Custody of Children Act 1973 enacted establishing family-law framework — substantively significant Pacific Nauruan-family-law framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 1976,
-      "title": "Nauru (High Court Appeals) Act — Australia HCA appellate jurisdiction",
-      "description": "Australian Federal Act establishing the High Court of Australia as the apex appellate court for Nauru — unique constitutional arrangement between sovereign Pacific state and Australian apex court."
+      "title": "Nauru (High Court Appeals) Act + Australia-HCA-appellate-jurisdiction-+-bilateral-statute framework",
+      "description": "Australian Federal Act 1976 establishing the High Court of Australia as the apex appellate court for Nauru — substantively distinctive globally only-sovereign-state-appellate-jurisdiction-arrangement-with-another-sovereign-state's-apex-court-via-bilateral-statute framework. Foundational substantive 42-year Australian-HCA-appellate-jurisdiction-for-Nauru framework persisting through 2018 repeal."
+    },
+    {
+      "year": 1994,
+      "title": "Nauru ratifies UN Convention on the Rights of the Child framework",
+      "description": "Nauru ratified UNCRC 27 July 1994 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent family-law-implementation."
     },
     {
       "year": 1999,
-      "title": "UN membership",
-      "description": "Nauru joined the United Nations on 14 September 1999."
+      "title": "UN membership + 188th-UN-member-state framework",
+      "description": "Nauru joined the United Nations 14 September 1999 — substantively distinctive Pacific UN-member-state framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2001,
-      "title": "Australian Pacific Solution Regional Processing Centre established",
-      "description": "Australian Pacific Solution Regional Processing Centre (RPC) established on Nauru 2001-2008 for offshore processing of asylum-seekers — reopened 2012-present."
+      "title": "Australian Pacific Solution Regional Processing Centre + offshore-asylum-processing framework",
+      "description": "Australian Pacific Solution Regional Processing Centre (RPC) established on Nauru 2001-2008 + reopened 2012-present — substantively distinctive globally only-sovereign-state-offshore-asylum-processing-arrangement-with-extensive-international-human-rights-litigation-footprint framework. Substantive demographic and constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2018,
-      "title": "Court of Appeal of Nauru replaces High Court of Australia",
-      "description": "Nauru established its own Court of Appeal in 2018, replacing the High Court of Australia as apex appellate court — Australian Nauru (High Court Appeals) Act 1976 repealed."
+      "title": "Court of Appeal of Nauru + replacement-of-Australia-HCA-+-Nauru-Act-1976-repeal framework",
+      "description": "Nauru established its own Court of Appeal 2018 replacing the High Court of Australia as apex appellate court — substantively distinctive globally Pacific-sovereign-state-replacement-of-bilateral-apex-court-arrangement framework. Australian Nauru (High Court Appeals) Act 1976 repealed. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
     },
     {
       "year": 2024,
-      "title": "Switch of recognition from Taiwan to PRC",
-      "description": "Nauru switched diplomatic recognition from Taiwan (Republic of China) to People's Republic of China (PRC) on 15 January 2024."
+      "title": "Switch of recognition from Taiwan to PRC + Pacific-Belt-and-Road context framework",
+      "description": "Nauru switched diplomatic recognition from Taiwan (Republic of China) to People's Republic of China (PRC) 15 January 2024 — substantively distinctive Pacific Belt-and-Road-Initiative-+-PRC-recognition-pattern framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Nauru + Court of Appeal — welfare-of-the-child substantive register",
+      "description": "Supreme Court of Nauru and Court of Appeal continue to develop welfare-of-the-child jurisprudence under Children, Young Persons and Family Welfare Act 2024 + Births, Deaths and Marriages Registration Act + customary-law framework in custody disputes within RPC institutional framework + Adeang presidency since 30 October 2023. Substantive analysis without doctrinal 'parental alienation' label adoption — within mixed common-law + customary-law Pacific micro-state framework."
     }
   ],
   "structural_findings": [
@@ -131,8 +156,9 @@
     }
   ],
   "editorial_notes": [
-    "Nauru jurisdiction sidecar — mixed common-law/customary-law Pacific independent republic (English-derived common law + Nauruan customary law + Family Court Act 1973 + Custody of Children Act + Nauru (High Court Appeals) Act 1976-2018 Australian HCA appellate jurisdiction + 2018 Court of Appeal establishment + non-Hague-1980). World's smallest UN member state by land area + only sovereign-state appellate-jurisdiction arrangement with another sovereign state's apex court via bilateral statute + Australian Pacific Solution Regional Processing Centre.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Pacific + mixed common-law/customary-law + independent-republic cluster + smallest-UN-member-state-globally-distinctive + sovereign-bilateral-apex-court-arrangement + Pacific-Solution-RPC + phosphate-strip-mining-economy + non-Hague-1980 clusters within the corpus."
+    "Nauru jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full German-Protectorate-1888-to-Taiwan-PRC-switch trajectory: 1888-German-Protectorate + 1947-UN-Trust-Territory + 1968-Independence-+-Constitution-of-Nauru + 1973-Family-Court-Act-+-Custody-of-Children-Act + 1976-Nauru-High-Court-Appeals-Act-Australia-HCA + 1994-Nauru-UNCRC-ratification + 1999-UN-membership + 2001-Australian-Pacific-Solution-RPC + 2018-Court-of-Appeal-of-Nauru + 2024-switch-of-recognition-Taiwan-to-PRC.",
+    "Mixed common-law/customary-law Pacific independent republic (English-derived common law + Nauruan customary law + Family Court Act 1973 + Custody of Children Act + Nauru (High Court Appeals) Act 1976-2018 Australian HCA appellate jurisdiction + 2018 Court of Appeal establishment + non-Hague-1980). World's smallest UN member state by land area + only sovereign-state appellate-jurisdiction arrangement with another sovereign state's apex court via bilateral statute + Australian Pacific Solution Regional Processing Centre globally distinctive + phosphate-strip-mining-economy + ~80% of land area rendered uninhabitable by historical phosphate strip-mining.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Family Court Act 1973 + Custody of Children Act + Constitution of Nauru 1968 framework without doctrinal 'parental alienation' label.",
+    "Joins Pacific + mixed-common-law/customary-law + independent-republic-cluster + world's-smallest-UN-member-state-by-land-area-21km2-globally-distinctive + third-smallest-sovereign-state-overall-after-Vatican-City-+-Monaco + Nauru-High-Court-Appeals-Act-1976-2018-only-sovereign-state-appellate-jurisdiction-arrangement-with-another-sovereign-state's-apex-court-via-bilateral-statute-globally-distinctive + Australian-Pacific-Solution-Regional-Processing-Centre-only-sovereign-state-offshore-asylum-processing-arrangement-globally-distinctive + phosphate-strip-mining-economy-80-percent-of-land-area-uninhabitable + German-Protectorate-1888 + UN-Trust-Territory-1947 + Independence-1968-Constitution + Family-Court-Act-1973-+-Custody-of-Children-Act + Court-of-Appeal-of-Nauru-2018-+-Nauru-Act-1976-repeal + 2024-switch-Taiwan-to-PRC-Belt-and-Road + non-Hague-1980 clusters within the corpus."
   ]
 }

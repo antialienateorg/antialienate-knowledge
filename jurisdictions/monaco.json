@@ -46,24 +46,59 @@
   "anonymisation_convention": "Monegasque family-court decisions are anonymised per Court of Revision practice using initials.",
   "key_developments": [
     {
+      "year": 1297,
+      "title": "Grimaldi dynasty establishment + 700-year-monarchy framework",
+      "description": "Grimaldi dynasty established 8 January 1297 — substantively distinctive globally one-of-longest-continuous-monarchical-dynasties-in-Europe framework (700+ years through 2026). Foundational pre-1880-Civil-Code framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1861,
+      "title": "Franco-Monegasque Treaty + Menton-Roquebrune-loss framework",
+      "description": "Franco-Monegasque Treaty 1861 substantively distinctive Western European treaty framework — Menton and Roquebrune lost to France, Monaco-territory reduced from 24 km² to ~2 km². Foundational pre-Civil-Code framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
       "year": 1880,
       "title": "Civil Code 1880",
-      "description": "Federal Civil Code adopted drawing on French civil-law substantive heritage."
+      "description": "Federal Civil Code adopted drawing on French civil-law substantive heritage. Arts. 297-326 govern autorité parentale and child custody. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory including 2011 Law 1.382 reform."
+    },
+    {
+      "year": 1911,
+      "title": "Constitution 1911 + constitutional-monarchy framework",
+      "description": "Constitution of Monaco 1911 adopted 5 January 1911 substantively reforming political-institutional framework establishing constitutional-monarchy framework. Substantive constitutional anchor for contemporary family-law jurisprudence persisting through subsequent reforms 1962 and 2002."
+    },
+    {
+      "year": 1962,
+      "title": "Constitution 1962 + Grace Kelly-era + post-Rainier-III framework",
+      "description": "Constitution of Monaco 1962 adopted 17 December 1962 substantively reforming political-institutional framework. Substantive Grace Kelly-era (1956-1982) framework substantively reshaping Monaco's international profile. Rainier III reign 1949-2005 affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1993,
-      "title": "Hague Convention 1980 accession",
-      "description": "Monaco acceded to the Hague Convention 1980 effective 1 February 1993 — among earliest Hague accessions in Europe."
+      "title": "Hague Convention 1980 accession + Monaco UN-membership-and-UNCRC-ratification framework",
+      "description": "Monaco acceded to the Hague Convention 1980 effective 1 February 1993 — among earliest Hague accessions in Europe. Monaco UN admission 28 May 1993. Monaco ratified the UNCRC 21 June 1993 — substantively significant child-rights framework integration affecting subsequent family-law-modernisation."
+    },
+    {
+      "year": 2002,
+      "title": "Franco-Monegasque Treaty 2002 + Constitution-amendments framework",
+      "description": "Franco-Monegasque Treaty 24 October 2002 substantively reforming Monaco-France framework — Monaco-independence-from-France-clarified including succession framework. Substantive Constitution-amendments 2002 affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2004,
       "title": "Council of Europe membership",
-      "description": "Monaco joined the Council of Europe; ECHR became applicable."
+      "description": "Monaco joined the Council of Europe 5 October 2004; ECHR became applicable. Substantively significant Western European human-rights-framework integration affecting subsequent family-law-jurisprudence and cross-border-jurisdiction-practice."
     },
     {
       "year": 2011,
       "title": "Civil Code parental authority reform (Law 1.382)",
-      "description": "Substantial reform of Civil Code parental authority provisions."
+      "description": "Substantial reform of Civil Code parental authority provisions Law 1.382 of 20 July 2011. Substantively significant Western European micro-state family-law-modernisation framework affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 2023,
+      "title": "Haut Commissariat à la Protection des Droits + Médiation framework + Monégasque EU association agreement framework",
+      "description": "Haut Commissariat à la Protection des Droits, Libertés et à la Médiation (HCDLM) institutional position addressing PA-related issues within Civil Code + Law 1.382 framework. Monégasque EU association agreement framework negotiations through 2023 substantively significant Western European micro-state institutional context. Substantively significant Mediterranean Riviera institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Cour de Révision + Tribunal Suprême — interest-of-the-child substantive register + Albert II continuing reign",
+      "description": "Cour de Révision and Tribunal Suprême continue to develop interest-of-the-child jurisprudence under Civil Code arts. 297-326 + Law 1.382 + Hague Convention 1980 framework in custody disputes within Albert II continuing reign since 6 April 2005. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -100,8 +135,9 @@
     }
   ],
   "editorial_notes": [
-    "Monaco jurisdiction sidecar — civil-law Western European micro-state (Civil Code French-derivative + 2011 parental authority reform + ECHR + Hague Convention 1980 accession 1993).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Western European + civil-law + French-derivative + ECHR + early-European-Hague Convention + micro-state-distinctive clusters within the corpus."
+    "Monaco jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Grimaldi-1297-to-Albert-II trajectory: 1297-Grimaldi-dynasty-+-700-year-monarchy + 1861-Franco-Monegasque-Treaty-+-Menton-Roquebrune-loss + 1880-Civil-Code + 1911-Constitution-+-constitutional-monarchy + 1962-Constitution-+-Grace-Kelly + 1993-Hague-Convention-1980-accession-+-UN-membership-+-UNCRC + 2002-Franco-Monegasque-Treaty-+-Constitution-amendments + 2004-Council-of-Europe-membership + 2011-Civil-Code-parental-authority-reform-Law-1.382 + 2024-Cour-de-Révision-+-Tribunal-Suprême-+-Albert-II.",
+    "Civil-law Western European micro-state (Civil Code French-derivative + 2011 parental authority reform + ECHR + Hague Convention 1980 accession 1993).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Code arts. 297-326 + Law 1.382 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins Western-European + civil-law + French-derivative + ECHR-2004 + early-European-Hague-Convention-accession-1993 + micro-state-2-km2-36000-population-distinctive + Grimaldi-dynasty-1297-one-of-longest-continuous-monarchical-dynasties-in-Europe-700-years-distinctive + Franco-Monegasque-Treaty-1861-Menton-Roquebrune-loss + Constitution-1962-+-Grace-Kelly-era + Rainier-III-1949-2005 + Albert-II-continuing-reign-2005 + Franco-Monegasque-Treaty-2002-independence-clarified + Council-of-Europe-2004 clusters within the corpus."
   ]
 }

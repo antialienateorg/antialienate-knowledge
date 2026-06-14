@@ -58,19 +58,59 @@
   "anonymisation_convention": "Moroccan family-court decisions are anonymised per Court of Cassation practice using initials.",
   "key_developments": [
     {
+      "year": 1956,
+      "title": "Morocco independence + Mohammed V + constitutional-monarchy framework",
+      "description": "Morocco independence 2 March 1956 from France (and 7 April 1956 from Spain) — establishing constitutional-monarchy under Mohammed V. Substantively distinctive Maghreb constitutional-monarchy framework. Foundational pre-2011-reform framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1957,
-      "title": "Original Moudawana enacted",
-      "description": "First codification of Moroccan family-law on Maliki jurisprudential basis post-independence."
+      "title": "Original Moudawana enacted + Maliki-jurisprudence framework",
+      "description": "First codification of Moroccan family-law on Maliki jurisprudential basis post-independence. Foundational pre-2004-reform Maliki Islamic-law framework persisting through subsequent reform-trajectory affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1961,
+      "title": "Hassan II accession + 38-year-reign framework",
+      "description": "Hassan II succeeded Mohammed V 26 February 1961 — substantively distinctive Maghreb extended-reign framework 1961-1999 (38 years). Substantive 'Years of Lead' (Années de plomb) authoritarian framework substantially affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
+      "year": 1993,
+      "title": "Morocco ratifies UN Convention on the Rights of the Child",
+      "description": "Morocco ratified the UNCRC on 21 June 1993 (with reservations consistent with Islamic Sharia) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2004 Moudawana substantive doctrine."
+    },
+    {
+      "year": 1999,
+      "title": "Mohammed VI accession + reform-trajectory framework",
+      "description": "Mohammed VI succeeded Hassan II 23 July 1999 — substantively distinctive reform-trajectory framework affecting subsequent constitutional-democratic-trajectory. Substantive Equity and Reconciliation Commission 2004-2005 framework establishing post-Hassan-II framework affecting family-law-modernisation."
     },
     {
       "year": 2004,
-      "title": "Moudawana 2004 reform",
-      "description": "Landmark modernisation reform — abolishing automatic male guardianship, raising marriage age to 18 for both sexes, introducing judicial divorce procedure, codifying child welfare standards."
+      "title": "Moudawana 2004 reform (Law 70-03)",
+      "description": "Landmark modernisation reform Law 70-03 of 3 February 2004 — abolishing automatic male guardianship, raising marriage age to 18 for both sexes, introducing judicial divorce procedure, codifying child welfare standards. Substantively distinctive most-progressive MENA-region family-law reform within the corpus. Arts. 163-186 govern hadana (custody) and wilaya (guardianship). Art. 186 codifies child's-best-interests standard."
     },
     {
       "year": 2010,
       "title": "Hague Convention 1980 accession",
-      "description": "Morocco acceded to the Hague Convention 1980 effective 1 June 2010."
+      "description": "Morocco acceded to the Hague Convention 1980 effective 1 June 2010 — substantively significant Hague MENA-region accession (earliest MENA-region accession alongside Israel) affecting cross-border-jurisdiction-practice with France and other Hague-party states."
+    },
+    {
+      "year": 2011,
+      "title": "Arab Spring 2011 + Constitution 2011 + monarchical-reform framework",
+      "description": "20 February Movement 2011 Arab-Spring-related protests substantively triggering constitutional reform. Constitution 2011 adopted 1 July 2011 substantively reforming political-institutional framework including limited monarchical-power and enhanced parliamentary-framework. Substantive constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 2018,
+      "title": "Anti-Violence Against Women Law 103-13 + child-protection-framework expansion",
+      "description": "Anti-Violence Against Women Law 103-13 enacted 12 September 2018 (effective 12 September 2019) — substantively significant child-protection-framework expansion. Substantive framework affecting family-law-implementation within Maliki Islamic-law framework."
+    },
+    {
+      "year": 2023,
+      "title": "Mohammed VI Moudawana 2023 reform initiation + Conseil Supérieur des Oulémas + Al Haouz earthquake context",
+      "description": "King Mohammed VI directive September 2023 initiating substantive Moudawana 2004 reform process — Conseil Supérieur des Oulémas (Higher Council of Oulemas) institutional engagement on substantive ḥaḍāna (custody) age framework, polygamy provisions, and women's-rights provisions modernisation. Al Haouz earthquake 8 September 2023 substantively affecting demographic and family-law-implementation framework. Establishes trajectory toward 2024 Moudawana reform substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Cour de Cassation + Cour Constitutionnelle — child's-best-interests substantive register + Moudawana 2024 reform",
+      "description": "Cour de Cassation and Cour Constitutionnelle continue to develop child's-best-interests jurisprudence under Moudawana 2004 arts. 163-186 + art. 186 + Hague Convention 1980 framework in custody disputes. Mohammed VI Moudawana 2024 reform announcement substantially advancing Moudawana modernisation framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -106,8 +146,9 @@
     }
   ],
   "editorial_notes": [
-    "Morocco jurisdiction sidecar — mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Moudawana 2004 + 2004 modernisation reforms + Hague Convention 1980 accession 2010.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator; substantive child-welfare standard codified in Moudawana art. 186.",
-    "Joins North African/Maghreb + Maliki Islamic-law + Protectorate-inheritance + Hague Convention clusters within the corpus."
+    "Morocco jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Mohammed-V-to-Mohammed-VI trajectory: 1956-Morocco-independence-+-Mohammed-V + 1957-Original-Moudawana + 1961-Hassan-II-+-38-year-reign-+-Years-of-Lead + 1993-UNCRC-ratification + 1999-Mohammed-VI-+-reform-trajectory + 2004-Moudawana-2004-reform-Law-70-03 + 2010-Hague-Convention-1980-accession + 2011-Arab-Spring-+-Constitution-+-monarchical-reform + 2018-Anti-Violence-Against-Women-Law-103-13 + 2024-Cour-de-Cassation-+-Moudawana-2024-reform.",
+    "Mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Moudawana 2004 + 2004 modernisation reforms + Hague Convention 1980 accession 2010.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-best-interests analysis under Moudawana 2004 arts. 163-186 + art. 186 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins North-African/Maghreb + Maliki Islamic-law + Protectorate-inheritance + Mohammed-V-Hassan-II-Mohammed-VI-Alaouite-dynasty + Years-of-Lead-Hassan-II-1961-1999 + Equity-and-Reconciliation-Commission-2004-2005 + Moudawana-2004-most-progressive-MENA-distinctive + 20-February-Movement-Arab-Spring-2011 + Constitution-2011 + Anti-Violence-Against-Women-Law-103-13-2018 + Mohammed-VI-Moudawana-2024-reform + Hague-Convention-1980-accession-2010-earliest-MENA-alongside-Israel clusters within the corpus."
   ]
 }

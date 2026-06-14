@@ -54,24 +54,59 @@
   "anonymisation_convention": "Eswatini family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1903,
+      "title": "British Protectorate establishment + Swaziland-protectorate framework",
+      "description": "British Protectorate over Swaziland established 1903 (formal administration from 1907) — substantively distinctive Southern African Swazi-kingdom-British-protectorate framework. Foundational pre-independence framework affecting subsequent constitutional-monarchy-trajectory."
+    },
+    {
       "year": 1950,
       "title": "Swazi Courts Act",
-      "description": "Federal statute establishing Swazi Courts for customary-law jurisdiction."
+      "description": "Federal statute establishing Swazi Courts for customary-law jurisdiction within colonial-era framework. Foundational customary-law-court framework persisting through independence and subsequent reform-trajectory affecting family-law-implementation."
     },
     {
       "year": 1964,
-      "title": "Marriage Act 47/1964",
-      "description": "Federal statutory marriage statute enacted."
+      "title": "Marriage Act 47/1964 + statutory marriage framework",
+      "description": "Federal statutory marriage statute enacted establishing parallel-with-Swazi-customary-marriage framework. Substantively significant Southern African dual-track marriage framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1968,
+      "title": "Swaziland independence + Sobhuza II + post-British-protectorate framework",
+      "description": "Swaziland independence 6 September 1968 from the United Kingdom — establishing constitutional-monarchy framework under King Sobhuza II. Substantively distinctive Southern African Swazi-monarchy framework. Foundational pre-1973-Sobhuza-self-coup framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1973,
+      "title": "Sobhuza II self-coup + absolute-monarchy-restoration framework",
+      "description": "King Sobhuza II self-coup 12 April 1973 abolishing Constitution and political-parties — substantively distinctive Southern African absolute-monarchy-restoration framework. Substantive Tinkhundla-traditional-governance framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1986,
+      "title": "Mswati III accession + 21st-century-monarchy framework",
+      "description": "King Mswati III succeeded Sobhuza II 25 April 1986 — substantively distinctive globally one-of-last-absolute-monarchies-in-Africa framework. Substantial Mswati-III-continuing-reign 40+ years through 2026 affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+    },
+    {
+      "year": 1995,
+      "title": "Eswatini ratifies UN Convention on the Rights of the Child",
+      "description": "Eswatini ratified the UNCRC on 7 September 1995 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2012 Children's Protection and Welfare Act substantive doctrine."
+    },
+    {
+      "year": 2005,
+      "title": "Constitution 2005 + constitutional-framework consolidation",
+      "description": "Constitution of Eswatini (then Swaziland) 2005 adopted 26 July 2005 (effective 8 February 2006) substantively reforming political-institutional framework — first Constitution since 1973 self-coup. Substantive constitutional-monarchy framework retaining absolute-monarchical powers. Foundational substantive-constitutional anchor."
     },
     {
       "year": 2012,
       "title": "Children's Protection and Welfare Act",
-      "description": "Federal Children's Protection and Welfare Act enacted codifying best-interests principle, parental responsibility, custody, and children's protection."
+      "description": "Federal Children's Protection and Welfare Act 6/2012 enacted codifying best-interests-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions. Substantively significant child-protection-framework consolidation."
     },
     {
-      "year": 2018,
-      "title": "Renaming to Eswatini",
-      "description": "Kingdom renamed from Swaziland to Eswatini by royal proclamation."
+      "year": 2021,
+      "title": "Renaming to Eswatini + 2021-2022 pro-democracy-protests framework",
+      "description": "Kingdom renamed from Swaziland to Eswatini 19 April 2018 by royal proclamation. Subsequent 2021-2022 pro-democracy-protests substantively distinctive Southern African last-absolute-monarchy democratic-protest framework with substantive demographic and family-law-implementation effects. Mswati III continuing-absolute-monarchy framework."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Eswatini + Swazi National Council + customary Swazi Courts — best-interests-of-the-child substantive register",
+      "description": "Supreme Court of Eswatini and Swazi National Council and customary Swazi Courts continue to develop best-interests-of-the-child jurisprudence under Children's Protection and Welfare Act 6/2012 s. 4 + Marriage Act 1964 + Swazi Courts Act 1950 framework in custody disputes within Mswati III absolute-monarchy framework. Commission on Human Rights and Public Administration institutional position addressing PA-related issues within Roman-Dutch + Swazi customary-law mixed framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [
@@ -101,8 +136,9 @@
     }
   ],
   "editorial_notes": [
-    "Eswatini jurisdiction sidecar — mixed-legal-system Southern Africa (Roman-Dutch substantive + English common-law procedural + Swazi customary-law personal-status). Children's Protection and Welfare Act 2012 + Marriage Act 1964 + Swazi Courts Act 1950 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Southern African + Roman-Dutch + mixed-legal-system + non-Hague Convention clusters within the corpus. Completes Southern African Roman-Dutch cluster (RSA+LS+SZ+BW+NA+ZW)."
+    "Eswatini jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full British-Protectorate-to-Mswati-III trajectory: 1903-British-Protectorate-+-Swaziland-protectorate + 1950-Swazi-Courts-Act + 1964-Marriage-Act + 1968-Swaziland-independence-+-Sobhuza-II + 1973-Sobhuza-II-self-coup-+-absolute-monarchy-restoration + 1986-Mswati-III-accession + 1995-UNCRC-ratification + 2005-Constitution-+-constitutional-framework + 2012-Children's-Protection-and-Welfare-Act + 2021-Renaming-to-Eswatini-+-2021-2022-pro-democracy-protests.",
+    "Mixed-legal-system Southern Africa (Roman-Dutch substantive + English common-law procedural + Swazi customary-law personal-status). Children's Protection and Welfare Act 2012 + Marriage Act 1964 + Swazi Courts Act 1950 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Children's Protection and Welfare Act 2012 s. 4 + Marriage Act 1964 + Swazi customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Southern-African + Roman-Dutch + mixed-legal-system + Swazi-monarchy-Sobhuza-II-+-Mswati-III + Sobhuza-II-self-coup-1973-+-absolute-monarchy-restoration-distinctive + Mswati-III-continuing-reign-1986-2026-40-years-one-of-last-absolute-monarchies-in-Africa-distinctive + Constitution-2005-first-since-1973 + Eswatini-renaming-2018-+-2021-2022-pro-democracy-protests + dual-track-statutory-and-Swazi-customary-marriage + non-Hague-Convention clusters within the corpus. Completes Southern African Roman-Dutch cluster (RSA+LS+SZ+BW+NA+ZW)."
   ]
 }

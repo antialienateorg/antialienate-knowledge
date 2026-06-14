@@ -61,30 +61,74 @@
   "key_developments": [
     {
       "year": 1890,
-      "title": "Guardians and Wards Act",
-      "description": "Federal custody/guardianship statute originally enacted under British India."
+      "title": "Guardians and Wards Act 1890",
+      "description": "Federal Guardians and Wards Act 1890 (Act VIII of 1890) originally enacted under British India, retained as Pakistan federal statute post-independence 1947. Sec. 7 codifies the welfare-of-the-minor standard as paramount in custody determinations — the substantive anchor that persists across Pakistan's mixed-legal personal-law framework."
+    },
+    {
+      "year": 1937,
+      "title": "Muslim Personal Law (Shariat) Application Act 1937",
+      "description": "Muslim Personal Law (Shariat) Application Act 1937 originally enacted under British India — declaring Muslim personal-status matters governed by Hanafi-Shariat-law. Foundational substantive anchor for Muslim personal-status framework that persists in Pakistan post-1947-independence."
+    },
+    {
+      "year": 1947,
+      "title": "Pakistan independence + reception of pre-1947 statutory framework",
+      "description": "Pakistan independence 14 August 1947 from British India following Partition. Constitution 1956 (first), 1962 (Ayub Khan), 1973 (current operative). Pre-1947 colonial-era statutory framework substantively retained including GWA 1890, Shariat Application Act 1937, and other personal-status statutes — foundational legal-system substrate for Pakistan's contemporary family-law framework."
     },
     {
       "year": 1961,
-      "title": "Muslim Family Laws Ordinance",
-      "description": "Federal Muslim personal-status reform statute."
+      "title": "Muslim Family Laws Ordinance 1961",
+      "description": "Federal Muslim Family Laws Ordinance enacted 1961 by Ayub Khan administration — among the earliest major Muslim-personal-law reforms in South-Asia, codifying marriage-registration, divorce-procedure (talaq-arbitration-council requirement), polygamy-permission framework, and inheritance reforms. Substantively retained in Bangladesh post-1971-separation."
     },
     {
       "year": 1964,
-      "title": "West Pakistan Family Courts Act",
-      "description": "Specialised Family Courts established."
+      "title": "West Pakistan Family Courts Act 1964",
+      "description": "Federal West Pakistan Family Courts Act enacted 1964 establishing specialised Family Courts with original jurisdiction over family-law matters — marriage, divorce, dower, maintenance, custody, and guardianship. Among the earliest specialised Family Court frameworks in South Asia. Substantively modernised the family-law-adjudication framework alongside continued operation of GWA 1890 + MFLO 1961 substantive law."
+    },
+    {
+      "year": 1973,
+      "title": "Constitution of Pakistan 1973 + Islamic Republic framework",
+      "description": "Constitution of the Islamic Republic of Pakistan adopted 12 April 1973, effective 14 August 1973 — current operative constitutional framework establishing parliamentary democracy, federal structure, Islam as state religion (Art. 2), and Federal Shariat Court framework (Art. 203A-203J, added 1980 by President Zia-ul-Haq). Art. 25 codifies equal-citizenship; Art. 34-35 codify family-protection-clauses including women and children."
+    },
+    {
+      "year": 1990,
+      "title": "Pakistan ratifies UN Convention on the Rights of the Child",
+      "description": "Pakistan ratified the UNCRC on 12 November 1990 (with initial general reservation regarding Shariah-conflicting provisions, subsequently withdrawn 1997) — framing the family-law-reform trajectory toward best-interest-of-the-minor substantive doctrine within Islamic-personal-law framework."
+    },
+    {
+      "year": 2011,
+      "title": "Prevention of Anti-Women Practices Act + Acid Control and Acid Crime Prevention Act",
+      "description": "Prevention of Anti-Women Practices (Criminal Law Amendment) Act 2011 enacted 22 December 2011 + Acid Control and Acid Crime Prevention Act 2011 enacted 28 December 2011 — substantively significant Pakistani women-rights-protection framework. Substantive Anti-Women Practices Act framework criminalising vani + swara + sang-chatti forced-marriage + denial-of-inheritance + women-trafficking practices + Acid Control Act framework criminalising acid attacks + foundation for subsequent 2014 Khyber Pakhtunkhwa + 2016 Punjab Protection of Women against Violence Acts + 2017 Hague Convention 1980 accession + 2024 Supreme Court welfare-of-the-minor substantive register. Pivotal modern Pakistani women-rights framework directly relevant to PA-cases involving women-rights-based custody allegations."
     },
     {
       "year": 2017,
-      "title": "Hague Convention 1980 accession",
-      "description": "Pakistan acceded to the Hague Convention 1980 effective 1 March 2017."
+      "title": "Hague Convention 1980 accession + Pakistan Family Courts (Amendment) Act 2015 framework",
+      "description": "Pakistan acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 March 2017 — one of the more recent South-Asian accessions. Concurrently, Family Courts (Amendment) Act 2015 substantively modernised the Family Courts Act 1964 framework with expedited procedures and updated jurisdictional provisions. Domestic-implementation framework for the Hague Convention being developed through Federal Government regulations."
+    },
+    {
+      "year": 2020,
+      "title": "Zainab Alert, Response and Recovery Act 2020 + Child Protection (ZARRA) framework",
+      "description": "Federal Zainab Alert, Response and Recovery Act 2020 enacted establishing federal child-abduction-response framework (named after Zainab Ansari 2018 case). Provincial Child Protection and Welfare Acts (Punjab 2004, Sindh 2011, KP 2010, Balochistan 2016) provide parallel sub-national child-protection frameworks. CRC engagement through periodic reports (5th-6th 2017, subsequent expected) the operative international monitoring register."
+    },
+    {
+      "year": 2023,
+      "title": "Imran Khan ouster aftermath + Child Marriage Restraint (Amendment) Act 2023 ICT framework + family-court-implementation",
+      "description": "Continuing post-Imran-Khan-ouster context 2023 (April 2022 no-confidence + 9 May 2023 protests + PML-N-PPP coalition framework) substantively affecting Pakistani institutional context + Child Marriage Restraint (Amendment) Act 2023 raising Islamabad Capital Territory minimum-marriage-age to 18 framework (subsequently 2024 Sindh Child Marriage Restraint Amendment Act framework) + Supreme Court and Federal Shariat Court welfare-of-the-minor substantive register evolution + continuing 2017 Hague Convention 1980 implementation framework + substantively significant institutional context affecting subsequent family-law-implementation under Pakistani Islamic-republic-personal-law framework."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Federal Shariat Court — welfare-of-the-minor substantive register",
+      "description": "Supreme Court of Pakistan and Federal Shariat Court continue to develop welfare-of-the-minor jurisprudence under GWA sec. 7 + MFLO 1961 + Family Courts Act 1964 in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. Substantive analysis under Hanafi-Muslim personal-law framework for Muslims and respective community personal-laws for non-Muslims, with welfare-of-the-minor as overriding paramount-standard."
     }
   ],
   "structural_findings": [
-    "Pakistan operates a mixed-legal-system framework — English common-law procedural inheritance + Muslim personal-law substantive heritage + Federal Shariat Court parallel jurisdiction over Islamic conformity of laws. Within the corpus's mixed-jurisdiction cluster.",
-    "Federal Shariat Court parallel jurisdiction is structurally distinctive — provides Islamic-conformity review of statutes alongside ordinary constitutional review by the Supreme Court.",
-    "Hague Convention 1980 accession 2017 places Pakistan in the Hague cluster — relatively recent accession.",
-    "Psychology profession regulation operates through provincial Healthcare Commissions + PPA peak-body ethics — lacks unified federal-statutory psychology regulator."
+    "Pakistan operates a mixed-legal-system framework — English common-law procedural inheritance + Muslim personal-law substantive heritage (Hanafi-primary with Sunni-other-schools and Shia-Ja'fari for relevant communities) + Federal Shariat Court parallel jurisdiction over Islamic conformity of laws. Within the corpus's mixed-jurisdiction cluster + South-Asian-multi-religious-personal-law sub-cluster (with India, Bangladesh, Sri Lanka, Myanmar).",
+    "Federal Shariat Court parallel jurisdiction (added 1980 to Constitution 1973 by Zia-ul-Haq) is structurally distinctive — provides Islamic-conformity review of statutes alongside ordinary constitutional review by the Supreme Court. Shariat Appellate Bench of Supreme Court hears appeals from FSC. Structurally distinctive globally — no other corpus jurisdiction has this dual constitutional + Islamic-conformity-review framework.",
+    "MFLO 1961 + Family Courts Act 1964 substantively retained in Bangladesh post-1971-separation — places Pakistan as origin-jurisdiction for the MFLO-and-Family-Courts framework that persists in both Pakistan and Bangladesh.",
+    "Hague-1980-Convention accession 2017 places Pakistan in the Hague-South-Asian cluster (alongside Sri Lanka 2001) — relatively recent accession. Implementation framework being developed through Federal Government regulations.",
+    "Federal-provincial child-protection framework: Punjab Child Protection and Welfare Act 2004, Sindh 2011, KP 2010, Balochistan 2016 — provides sub-national child-protection layering parallel to federal Zainab Alert, Response and Recovery Act 2020.",
+    "Multi-layer substantive-statutory framework: 1890-Guardians-and-Wards-Act + 1937-Shariat-Application-Act + 1947-Pakistan-independence + 1961-MFLO + 1964-Family-Courts-Act + 1973-Constitution-Islamic-Republic + 1980-Federal-Shariat-Court-Art-203A-203J + 1990-UNCRC-ratification + 2015-Family-Courts-Amendment-Act + 2017-Hague-1980-accession + 2020-Zainab-Alert-Act + 2024-Supreme-Court-FSC-welfare-of-the-minor — gradual modernisation within mixed-legal framework.",
+    "Psychology profession regulation operates through provincial Healthcare Commissions + PPA peak-body ethics — lacks unified federal-statutory psychology regulator typical of European/Anglosphere comparators; structurally similar to Bangladesh and India.",
+    "Specialised Family Courts under 1964 Family Courts Act + 2015 Amendment among the earliest specialised Family Courts in South Asia — places Pakistan within the South-Asian specialised-Family-Court cluster (with Bangladesh 1985 Family Courts Ordinance)."
   ],
   "references": [
     "jurisdiction:india",
@@ -112,8 +156,9 @@
     }
   ],
   "editorial_notes": [
-    "Pakistan jurisdiction sidecar — mixed-legal-system framework (English common-law procedural + Muslim personal-law substantive + Federal Shariat Court parallel jurisdiction). GWA 1890 + MFLO 1961 + Family Courts Act 1964 + Hague Convention 1980 accession 2017.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins South Asian + mixed-jurisdiction + Hague Convention clusters within the corpus."
+    "Pakistan jurisdiction sidecar v1.1 — deepened 2026-06-08 from 4 to 10 key_developments with full colonial-to-contemporary trajectory: 1890-Guardians-and-Wards-Act + 1937-Shariat-Application-Act + 1947-Pakistan-independence + 1961-MFLO-major-Muslim-personal-law-reform + 1964-West-Pakistan-Family-Courts-Act + 1973-Constitution-of-Pakistan-Islamic-Republic-framework + 1990-UNCRC-ratification + 2017-Hague-1980-accession-+-Family-Courts-Amendment-Act-2015 + 2020-Zainab-Alert-Response-and-Recovery-Act + 2024-Supreme-Court-Federal-Shariat-Court-welfare-of-the-minor.",
+    "Mixed-legal-system framework (English common-law procedural + Muslim personal-law substantive Hanafi-primary + Federal Shariat Court parallel Islamic-conformity-review-jurisdiction) + GWA 1890 + Shariat Application Act 1937 + MFLO 1961 + Family Courts Act 1964 + Constitution 1973 + Federal Shariat Court Art. 203A-203J added 1980 + Hague Convention 1980 accession 2017 + Zainab Alert Act 2020.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-minor analysis under GWA sec. 7 + religious-community-personal-law-framework without doctrinal 'parental alienation' label.",
+    "Joins South-Asian + mixed-jurisdiction + post-partition-pre-1947-British-Indian-substrate + multi-religious-personal-law (with India, Bangladesh, Myanmar, Sri Lanka, Maldives) + Hanafi-Muslim-primary-personal-law + Federal-Shariat-Court-parallel-jurisdiction-globally-distinctive + Hague-1980-South-Asian (with Sri Lanka) + South-Asian-specialised-Family-Court (with Bangladesh) + MFLO-Family-Courts-Act-origin-jurisdiction (with Bangladesh) clusters within the corpus."
   ]
 }

@@ -58,25 +58,74 @@
   "anonymisation_convention": "Thai family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1925,
+      "title": "Civil and Commercial Code Books 1-3 enacted",
+      "description": "Civil and Commercial Code Books 1 (General Principles), 2 (Obligations), and 3 (Specific Contracts) enacted 1925 by King Rama VI as part of comprehensive legal modernisation programme — drawing on German Civil Code, Japanese Civil Code (Meiji 1898), and Swiss Civil Code as comparative substrates. Foundational moment in Thai civil-law codification."
+    },
+    {
+      "year": 1932,
+      "title": "Constitutional monarchy + Siamese Revolution",
+      "description": "Siamese Revolution 24 June 1932 ended absolute monarchy and established constitutional monarchy framework. Foundational political-institutional reform that reshaped the legal-administrative context within which the CCC Book 5 (Family) would be enacted three years later."
+    },
+    {
       "year": 1935,
-      "title": "Civil and Commercial Code Book 5",
-      "description": "Family law book of the CCC enacted."
+      "title": "Civil and Commercial Code Book 5 (Family) + Book 6 (Inheritance)",
+      "description": "CCC Book 5 (Family) and Book 6 (Inheritance) enacted 1935 completing the comprehensive civil-code framework — codifying marriage, divorce, parental power (อำนาจปกครอง / amnaj pokkrong arts. 1566-1598/14), custody, child-protection, and adoption. Joint exercise during marriage codified as statutory default. Substantively modernised the Thai family-law framework from pre-existing customary tradition."
+    },
+    {
+      "year": 1976,
+      "title": "Civil and Commercial Code Book 5 substantive revision",
+      "description": "CCC Book 5 substantively revised 1976 expanding gender-equality provisions in marriage, divorce, parental power, and matrimonial-property — significant reform stream within Thailand's gradual modernisation of family-law substantive framework. Subsequent revisions 1991, 1998, 2007 form the ongoing reform stream."
+    },
+    {
+      "year": 1992,
+      "title": "Thailand ratifies UN Convention on the Rights of the Child",
+      "description": "Thailand ratified the UNCRC on 27 March 1992 (with initial reservations to Arts. 7, 22, 29 partially withdrawn over time) — framing the family-law-reform trajectory toward best-interest-of-the-child substantive doctrine and providing the international children's-rights-monitoring register."
     },
     {
       "year": 2002,
-      "title": "Hague Convention 1980 accession",
-      "description": "Thailand acceded to the Hague Convention 1980 on Child Abduction effective 1 November 2002."
+      "title": "Hague Convention 1980 accession + Child Protection Act",
+      "description": "Thailand acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 November 2002 — one of the earlier Asian accessions (preceded only by Hong Kong via territorial extension 1997). Concurrently, Child Protection Act enacted 24 September 2003 codifying expanded CRC-aligned child-protection mechanisms operating alongside CCC Book 5."
+    },
+    {
+      "year": 2007,
+      "title": "Domestic Violence Victim Protection Act + CCC further revision",
+      "description": "Domestic Violence Victim Protection Act enacted 14 August 2007 establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. CCC Book 5 further revised 2007 within ongoing reform stream."
     },
     {
       "year": 2010,
-      "title": "Juvenile and Family Court and Procedure Act",
-      "description": "Specialised Juvenile and Family Courts framework established."
+      "title": "Juvenile and Family Court and Procedure Act 2010",
+      "description": "Federal Juvenile and Family Court and Procedure Act (พระราชบัญญัติ ศาลเยาวชนและครอบครัว และวิธีพิจารณาคดีเยาวชนและครอบครัว พ.ศ. 2553) enacted 22 November 2010 — establishing specialised Juvenile and Family Courts (ศาลเยาวชนและครอบครัว) with integrated psychological-social assessment and mediation. Places Thailand within the East-Asian-Southeast-Asian specialised-Family-Court cluster alongside Japan, Korea, Taiwan, Cambodia, and Macau."
+    },
+    {
+      "year": 2015,
+      "title": "Gender Equality Act + post-coup interim constitutional family-law framework",
+      "description": "Gender Equality Act B.E. 2558 (พระราชบัญญัติความเท่าเทียมระหว่างเพศ พ.ศ. 2558) enacted 9 March 2015 + effective 9 September 2015 + Interim Constitution 2014 post-22-May-2014-coup framework — substantively significant Thai gender-equality framework + foundation for subsequent Constitution 2017 family-protection provisions + 2024 Marriage Equality Act. Substantive Gender Equality Act framework establishing prohibition of gender-based-discrimination + relevant to family-court welfare-of-the-child jurisprudence + structurally distinctive Thai gender-equality framework during post-coup interim constitutional period."
+    },
+    {
+      "year": 2017,
+      "title": "Constitution of Thailand 2017",
+      "description": "Constitution of the Kingdom of Thailand B.E. 2560 (2017) promulgated 6 April 2017 — current constitutional framework with codified fundamental rights including family-protection provisions (Sec. 71 promoting family relationships, child welfare). Constitution post-2014-coup democratic-administration-framework operative for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Pita Limjaroenrat Move Forward Party + post-election context + Srettha Thavisin coalition framework",
+      "description": "Thai general election 14 May 2023 + Move Forward Party (Phak Kao Klai) led by Pita Limjaroenrat substantively winning popular-vote 38% framework + structurally distinctive Thai-Senate-blocked-PM-Pita-nomination framework + Srettha Thavisin (Pheu Thai) coalition Premiership 22 August 2023 + structurally distinctive globally only modern Senate-blocked-popular-vote-winner-premiership framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation including 2024 Marriage Equality Act framework under post-coup Constitution 2017 + Civil and Commercial Code Book 5 + Juvenile and Family Court framework."
+    },
+    {
+      "year": 2024,
+      "title": "Marriage Equality Act + Supreme Court welfare-of-the-child substantive register",
+      "description": "Marriage Equality Act passed by National Assembly June 2024, effective 22 January 2025 — Thailand becoming the first Southeast Asian country to legalise same-sex marriage. Substantive revision of CCC Book 5 marriage provisions, with implications for parental rights and custody jurisprudence in same-sex parent contexts. Supreme Court continues to develop welfare-of-the-child jurisprudence under CCC Book 5 + Juvenile and Family Court framework in custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term."
     }
   ],
   "structural_findings": [
-    "Thailand operates a civil-law framework with substantial reform tradition — CCC Book 5 + specialised Juvenile and Family Courts.",
-    "Hague Convention 1980 accession 2002 places Thailand in the Hague cluster — one of the earlier Asian accessions.",
-    "Psychology profession regulation through Ministry of Public Health framework without statutory professional-order regime."
+    "Thailand operates a civil-law framework with substantial reform tradition — German-Japanese-Swiss civil-law substrate (CCC Books 1-3 1925) + Book 5 Family 1935 + specialised Juvenile and Family Courts 2010 — within the East-Asian-Southeast-Asian German-Japanese-civil-law cluster (with Japan, Korea, Taiwan, Cambodia via JICA-assistance).",
+    "Hague-1980-Convention accession 2002 places Thailand in the Hague-Convention-East-Asian-cluster — one of the earlier Asian accessions (preceded only by Hong Kong via Portuguese-then-PRC territorial extension 1995-1999 and Macau 1995-1999). Subsequently joined by Korea 2013, Japan 2014, and Singapore 2010.",
+    "Specialised Juvenile and Family Courts under JFCPA 2010 align Thailand with the East-Asian-Southeast-Asian specialised-Family-Court cluster (Japan 1948 Family Court Act, Korea 1990 Family Litigation Act, Taiwan 2012 Family Act, Cambodia 2007 Civil Code + 2006 Code of Civil Procedure, Macau 2007 Tribunal de Família e de Menores).",
+    "Marriage Equality Act 2024/2025 places Thailand as first Southeast-Asian country to legalise same-sex marriage — substantively distinctive within the Southeast-Asian cluster where same-sex-marriage remains contested elsewhere (Singapore 377A repeal 2022 without marriage; Vietnam decriminalisation without recognition; Brunei criminalisation under SPC; Indonesia varied provincial framework).",
+    "Constitutional monarchy framework + Constitution 2017 (post-2014 coup) + Constitutional Court framework distinct from Supreme Court places Thailand within the constitutional-court-separate-from-supreme-court cluster (with Korea, Taiwan, Mongolia, Indonesia, Cambodia).",
+    "Multi-layer substantive-statutory framework: 1925-CCC-Books-1-3-German-Japanese-Swiss-substrate + 1932-constitutional-monarchy + 1935-CCC-Book-5-Family + 1976-substantive-revision + 1992-UNCRC-ratification + 2002-Hague-1980-accession + 2003-Child-Protection-Act + 2007-DV-Victim-Protection-Act-+-CCC-further-revision + 2010-Juvenile-and-Family-Court-Procedure-Act + 2017-Constitution + 2024-2025-Marriage-Equality-Act — gradual modernisation within civil-law framework.",
+    "Psychology profession regulation through Ministry of Public Health framework + Mental Health Department + Thai Clinical Psychologist Association — without statutory professional-order regime typical of European/Anglosphere comparators; structurally similar to Vietnam, Mongolia, Cambodia, and Laos."
   ],
   "references": [
     "jurisdiction:singapore",
@@ -105,8 +154,9 @@
     }
   ],
   "editorial_notes": [
-    "Thailand jurisdiction sidecar — civil-law framework. CCC Book 5 + Juvenile and Family Courts + Hague Convention 1980 accession 2002.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Asian + civil-law + Hague Convention clusters within the corpus."
+    "Thailand jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full CCC-codification trajectory: 1925-CCC-Books-1-3-German-Japanese-Swiss-substrate + 1932-Siamese-Revolution-constitutional-monarchy + 1935-CCC-Books-5-and-6-Family-and-Inheritance + 1976-CCC-Book-5-substantive-revision + 1992-UNCRC-ratification + 2002-Hague-1980-accession-+-2003-Child-Protection-Act + 2007-DV-Victim-Protection-Act-+-CCC-further-revision + 2010-Juvenile-and-Family-Court-and-Procedure-Act + 2017-Constitution + 2024-Marriage-Equality-Act-effective-2025-+-Supreme-Court-welfare-of-the-child.",
+    "Civil-law framework with German-Japanese-Swiss substrate + Civil and Commercial Code Books 1-6 + Juvenile and Family Courts + Child Protection Act 2003 + DV Victim Protection Act 2007 + Marriage Equality Act 2024-2025 + Hague Convention 1980.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under CCC Book 5 arts. 1566-1598/14 without doctrinal 'parental alienation' label.",
+    "Joins Southeast-Asian + civil-law + German-Japanese-Swiss-civil-law-substrate + Hague-1980-Convention-East-Asian (with Hong Kong, Macau, Korea, Japan, Singapore) + East-Asian-Southeast-Asian-specialised-Family-Court-cluster + constitutional-monarchy + constitutional-court-separate-from-supreme-court + first-Southeast-Asian-same-sex-marriage-2024 clusters within the corpus."
   ]
 }
